@@ -1,0 +1,173 @@
+{
+  "standard_ref": "HI-05",
+  "scope": "state",
+  "state": "HI",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "HI-05.1",
+      "question_text": "Under HAR 16-99-11, every real estate advertisement must include which information?",
+      "correct_answer": "Brokerage name and license number",
+      "distractors": ["Agent's personal phone number", "MLS listing number only", "Property tax assessment value"],
+      "explanation": "Hawaii requires all real estate advertising to include the legal name of the brokerage (or registered trade name) and the license number. This applies across all media including internet and social media.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["advertising", "HAR-16-99-11", "requirements"]
+    },
+    {
+      "key_topic_ref": "HI-05.1",
+      "question_text": "A salesperson posts a property listing on social media using only their personal name. What is missing?",
+      "correct_answer": "The brokerage name and license number",
+      "distractors": ["The seller's written consent", "A disclaimer about fair housing", "The property's assessed value"],
+      "explanation": "Hawaii advertising rules require the brokerage name (or trade name) and license number on all advertising, including social media posts. Individual licensees must also include their licensed name and designation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["advertising", "social-media", "compliance"]
+    },
+    {
+      "key_topic_ref": "HI-05.1",
+      "question_text": "A team creates a flyer where the team name is displayed larger than the brokerage name. Is this permitted?",
+      "correct_answer": "No, team names must not exceed brokerage size",
+      "distractors": ["Yes, team branding has no restrictions", "Yes, if the broker approves it", "Only if the team has 5 or more agents"],
+      "explanation": "Hawaii rules require that team names not be displayed larger than the brokerage name or logo on any advertising materials. The principal broker is responsible for ensuring compliance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["advertising", "team-name", "brokerage"]
+    },
+    {
+      "key_topic_ref": "HI-05.1",
+      "question_text": "Who bears ultimate responsibility for advertising compliance at a brokerage?",
+      "correct_answer": "The principal broker",
+      "distractors": ["Each individual salesperson", "The office manager only", "The HIREC compliance officer"],
+      "explanation": "The principal broker is responsible for all advertising compliance at the brokerage. This includes ensuring all agents, teams, and the brokerage itself meet HAR 16-99-11 requirements across all media.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["advertising", "principal-broker", "responsibility"]
+    },
+    {
+      "key_topic_ref": "HI-05.1",
+      "question_text": "An individual licensee's advertisement must include their licensed name plus which designation?",
+      "correct_answer": "B, S, R, or RA",
+      "distractors": ["CRS, GRI, or ABR", "LLC, Inc, or Corp", "Esq, JD, or CPA"],
+      "explanation": "Hawaii requires individual licensees to include their licensed name and their license designation: B (Broker), S (Salesperson), R (REALTOR), or RA (REALTOR Associate) in all advertising.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["advertising", "designation", "licensee"]
+    },
+    {
+      "key_topic_ref": "HI-05.2",
+      "question_text": "Under HRS 467-1.5, does hiring a real estate salesperson automatically create an employer-employee relationship?",
+      "correct_answer": "No, IC status is also recognized",
+      "distractors": ["Yes, all salespersons are employees", "Yes, unless the broker opts out", "Only if the salesperson requests it"],
+      "explanation": "HRS 467-1.5 explicitly states that Hawaii law does not automatically create an employer-employee relationship. Both employment and independent contractor arrangements are recognized.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["independent-contractor", "employee", "HRS-467"]
+    },
+    {
+      "key_topic_ref": "HI-05.2",
+      "question_text": "A broker classifies an agent as an independent contractor. Which IRS safe harbor element is required?",
+      "correct_answer": "A written independent contractor agreement",
+      "distractors": ["Paying a fixed monthly salary", "Providing a company vehicle", "Setting mandatory office hours"],
+      "explanation": "The IRS safe harbor for IC status requires that the agent be licensed, compensated by commission (not salary), and have a written independent contractor agreement. Fixed salaries and mandatory hours suggest employee status.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["independent-contractor", "IRS", "safe-harbor"]
+    },
+    {
+      "key_topic_ref": "HI-05.2",
+      "question_text": "A salesperson classified as an IC is paid solely by commission. Must they still work under a broker?",
+      "correct_answer": "Yes, broker supervision is always required",
+      "distractors": ["No, ICs operate independently", "Only for the first year of practice", "Only for residential transactions"],
+      "explanation": "Regardless of whether a salesperson is classified as an employee or independent contractor, Hawaii law requires all salespersons to work under the direction of a licensed broker.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["independent-contractor", "broker", "supervision"]
+    },
+    {
+      "key_topic_ref": "HI-05.2",
+      "question_text": "Which compensation method supports independent contractor classification under IRS rules?",
+      "correct_answer": "Commission-based pay",
+      "distractors": ["Hourly wages", "Fixed monthly salary", "Annual bonus with base pay"],
+      "explanation": "Under IRS safe harbor guidelines, independent contractors should be paid by commission rather than salary or hourly wages. Commission-based compensation is one of three key elements for IC classification.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["independent-contractor", "commission", "compensation"]
+    },
+    {
+      "key_topic_ref": "HI-05.2",
+      "question_text": "A broker provides set work hours and a salary to a salesperson with an IC agreement. What risk exists?",
+      "correct_answer": "IRS may reclassify as an employee",
+      "distractors": ["HIREC will revoke the license", "The agreement is automatically void", "No risk if both parties agree"],
+      "explanation": "Despite a written IC agreement, providing set work hours and salary contradicts IRS safe harbor requirements. The IRS may reclassify the salesperson as an employee, creating tax liability for the broker.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["independent-contractor", "reclassification", "IRS"]
+    },
+    {
+      "key_topic_ref": "HI-05.3",
+      "question_text": "Which licensee is responsible for maintaining brokerage policies and procedures?",
+      "correct_answer": "The principal broker",
+      "distractors": ["The most senior salesperson", "Each agent individually", "The office administrator"],
+      "explanation": "The principal broker is responsible for supervision, maintaining policies and procedures, and ensuring compliance with all real estate laws and rules at the brokerage.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["principal-broker", "policies", "supervision"]
+    },
+    {
+      "key_topic_ref": "HI-05.3",
+      "question_text": "A salesperson at a brokerage violates advertising rules. Who may face disciplinary action from HIREC?",
+      "correct_answer": "Both the salesperson and broker",
+      "distractors": ["Only the salesperson involved", "Only the principal broker", "Only the brokerage office manager"],
+      "explanation": "The principal broker is responsible for all advertising compliance at the brokerage. When a salesperson violates advertising rules, both the salesperson and the principal broker may face discipline.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["principal-broker", "advertising", "liability"]
+    },
+    {
+      "key_topic_ref": "HI-05.3",
+      "question_text": "A brokerage has 15 salespersons. Who must ensure all agents comply with HRS 467?",
+      "correct_answer": "The principal broker",
+      "distractors": ["Each agent ensures their own compliance", "The HIREC-assigned auditor", "The brokerage's legal counsel"],
+      "explanation": "Regardless of brokerage size, the principal broker holds ultimate responsibility for supervising all agents and ensuring compliance with HRS 467 and HAR Chapter 99.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["principal-broker", "compliance", "supervision"]
+    },
+    {
+      "key_topic_ref": "HI-05.3",
+      "question_text": "A principal broker sends a mass email marketing campaign. What must the email contain?",
+      "correct_answer": "Brokerage name and license number",
+      "distractors": ["Only the agent's personal name", "A HIREC approval stamp", "The broker's Social Security number"],
+      "explanation": "Hawaii advertising rules apply equally to all media including email. Every marketing communication must include the legal name of the brokerage (or registered trade name) and the license number.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["advertising", "email", "compliance"]
+    },
+    {
+      "key_topic_ref": "HI-05.3",
+      "question_text": "A newly licensed salesperson asks if the principal broker must review their transactions. What is correct?",
+      "correct_answer": "Yes, the PB must supervise all agents",
+      "distractors": ["No, only ICs need supervision", "Only for the first 6 months", "Only for transactions over $500,000"],
+      "explanation": "The principal broker must supervise all salespersons at the brokerage regardless of experience level or IC/employee status. This includes reviewing transactions and ensuring proper procedures are followed.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["principal-broker", "supervision", "new-licensee"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "FL-15",
+  "scope": "state",
+  "state": "FL",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "FL-15.1",
+      "question_text": "In Florida, who is responsible for assessing the value of real property for tax purposes?",
+      "correct_answer": "The county property appraiser",
+      "distractors": ["The Florida Department of Revenue", "The county tax collector", "A private appraiser hired by the county"],
+      "explanation": "The county property appraiser determines the assessed value of all real property in the county. The tax collector then uses the assessed value and millage rates set by local taxing authorities to calculate the tax bill.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "appraiser", "assessment"]
+    },
+    {
+      "key_topic_ref": "FL-15.1",
+      "question_text": "In Florida, property taxes become a lien on what date each year?",
+      "correct_answer": "January 1",
+      "distractors": ["March 1", "October 1", "April 1"],
+      "explanation": "Florida property taxes become a lien on January 1 of the tax year. Tax bills are mailed in November and are due by March 31 of the following year. Taxes unpaid by April 1 are delinquent.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "lien-date", "january-1"]
+    },
+    {
+      "key_topic_ref": "FL-15.1",
+      "question_text": "A Florida property owner pays their tax bill in November. What early payment discount do they receive?",
+      "correct_answer": "4% discount",
+      "distractors": ["2% discount", "5% discount", "No discount — payment is simply on time"],
+      "explanation": "Florida offers early payment discounts: 4% in November, 3% in December, 2% in January, and 1% in February. Taxes paid in March (the due month) receive no discount.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-tax", "early-discount", "4-percent"]
+    },
+    {
+      "key_topic_ref": "FL-15.1",
+      "question_text": "Florida property taxes not paid by April 1 result in what consequence?",
+      "correct_answer": "The property becomes delinquent with penalties",
+      "distractors": ["An automatic tax lien sale occurs", "The homestead exemption is revoked", "DBPR initiates foreclosure proceedings"],
+      "explanation": "Taxes unpaid by April 1 are delinquent and subject to penalties and interest. Delinquent taxes are sold as tax certificates in June — investors pay the taxes and earn interest, with a tax deed possible after 2 years.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "delinquent", "april-1"]
+    },
+    {
+      "key_topic_ref": "FL-15.1",
+      "question_text": "A Florida tax certificate holder can apply for a tax deed after the property owner fails to redeem for how long?",
+      "correct_answer": "2 years",
+      "distractors": ["1 year", "3 years", "5 years"],
+      "explanation": "After purchasing a tax certificate at the June sale, the investor earns interest on the delinquent amount. If the owner does not redeem (pay back the taxes plus interest) within 2 years, the investor can apply for a tax deed.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tax-certificate", "tax-deed", "2-years"]
+    },
+    {
+      "key_topic_ref": "FL-15.2",
+      "question_text": "What is the Florida documentary stamp tax rate on deeds?",
+      "correct_answer": "$0.70 per $100 of consideration",
+      "distractors": ["$0.35 per $100 of consideration", "$1.00 per $100 of consideration", "$0.55 per $100 of consideration"],
+      "explanation": "Documentary stamp tax on deeds is $0.70 per $100 of consideration (rounded up to the nearest $100). The seller typically pays doc stamps on the deed. Miami-Dade County has a different rate structure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["doc-stamps", "deed", "$0.70"]
+    },
+    {
+      "key_topic_ref": "FL-15.2",
+      "question_text": "The documentary stamp tax on a promissory note (mortgage) in Florida is what rate?",
+      "correct_answer": "$0.35 per $100 of the loan amount",
+      "distractors": ["$0.70 per $100 of the loan amount", "$0.35 per $1,000 of the loan amount", "$2.00 per $1,000 of the loan amount"],
+      "explanation": "Doc stamps on notes/mortgages are $0.35 per $100 of the indebtedness, paid by the buyer/borrower. This is exactly half the rate charged on deeds ($0.70/$100).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["doc-stamps", "mortgage", "$0.35"]
+    },
+    {
+      "key_topic_ref": "FL-15.2",
+      "question_text": "A property sells for $250,000. How much does the seller owe in documentary stamp tax on the deed?",
+      "correct_answer": "$1,750",
+      "distractors": ["$875", "$2,500", "$500"],
+      "explanation": "$250,000 ÷ $100 = 2,500 units × $0.70 = $1,750. Doc stamps on the deed are typically paid by the seller. The amount is calculated on the full consideration, rounded up to the nearest $100.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["doc-stamps", "calculation", "deed"]
+    },
+    {
+      "key_topic_ref": "FL-15.2",
+      "question_text": "What is the Florida intangible tax rate on new mortgages?",
+      "correct_answer": "$2 per $1,000 of the mortgage amount",
+      "distractors": ["$0.35 per $100 of the mortgage amount", "$1 per $1,000 of the mortgage amount", "$5 per $1,000 of the mortgage amount"],
+      "explanation": "The intangible tax is $0.002 per $1.00 ($2 per $1,000) of the new mortgage amount. It is a one-time tax paid at recording and applies to new mortgages and certain modifications.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["intangible-tax", "$2-per-$1000", "mortgage"]
+    },
+    {
+      "key_topic_ref": "FL-15.2",
+      "question_text": "In Florida, documentary stamps on the deed are typically paid by which party?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "Split equally between buyer and seller", "The listing broker"],
+      "explanation": "By Florida custom, the seller pays doc stamps on the deed ($0.70/$100), while the buyer pays doc stamps on the note ($0.35/$100) and the intangible tax ($2/$1,000) on the mortgage.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["doc-stamps", "seller-pays", "closing-costs"]
+    },
+    {
+      "key_topic_ref": "FL-15.3",
+      "question_text": "Florida real estate closings are most commonly conducted by which professionals?",
+      "correct_answer": "Attorneys and title companies",
+      "distractors": ["Licensed real estate brokers only", "Independent escrow companies", "The county clerk's office"],
+      "explanation": "Florida closings are typically handled by attorneys or title companies. Unlike California, there is no requirement for an independent escrow company. Brokers may conduct closings if they hold escrow.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "attorney", "title-company"]
+    },
+    {
+      "key_topic_ref": "FL-15.3",
+      "question_text": "If a foreign person sells Florida real property, the buyer must withhold what percentage of the gross sales price under FIRPTA?",
+      "correct_answer": "15%",
+      "distractors": ["10%", "20%", "5%"],
+      "explanation": "Under FIRPTA (a federal requirement), the buyer must withhold 15% of the gross sales price and remit it to the IRS when the seller is a foreign person. Florida has no state income tax, so there is no additional state withholding.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["FIRPTA", "foreign-seller", "15-percent"]
+    },
+    {
+      "key_topic_ref": "FL-15.3",
+      "question_text": "At a Florida closing, property taxes paid in advance by the seller are handled by:",
+      "correct_answer": "Prorating the credit to the seller",
+      "distractors": ["Refunding the seller directly from the county", "Requiring the buyer to pay the full year", "Transferring the tax account to the buyer"],
+      "explanation": "Prepaid property taxes are prorated at closing — the seller receives a credit for taxes paid beyond the closing date, and the buyer assumes responsibility from that point forward.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["closing", "prorations", "property-tax"]
+    },
+    {
+      "key_topic_ref": "FL-15.3",
+      "question_text": "Florida has no state income tax. What impact does this have on residential real estate closings?",
+      "correct_answer": "No state withholding is required from sellers",
+      "distractors": ["Property taxes are higher to compensate", "Doc stamp rates are doubled", "FIRPTA does not apply in Florida"],
+      "explanation": "Because Florida has no state income tax, there is no state withholding requirement at closing. FIRPTA (federal) still applies to foreign sellers, but domestic sellers face no state income tax on gains.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["no-income-tax", "closing", "state-withholding"]
+    },
+    {
+      "key_topic_ref": "FL-15.3",
+      "question_text": "A buyer takes out a $200,000 mortgage on a Florida property. What is the total intangible tax due at recording?",
+      "correct_answer": "$400",
+      "distractors": ["$200", "$700", "$1,400"],
+      "explanation": "$200,000 ÷ $1,000 = 200 × $2 = $400. The intangible tax is a one-time payment at recording, calculated at $2 per $1,000 of the mortgage amount.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["intangible-tax", "calculation", "mortgage"]
+    }
+  ]
+}

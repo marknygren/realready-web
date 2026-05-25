@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MI-11",
+  "scope": "state",
+  "state": "MI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MI-11.1",
+      "question_text": "A Michigan seller is selling a single-family home. When must the Seller's Disclosure Statement be provided to the buyer?",
+      "correct_answer": "Before the offer is accepted",
+      "distractors": ["Within 10 days after closing", "At the time of the home inspection", "Within 72 hours of showing"],
+      "explanation": "Michigan's Seller Disclosure Act requires the written Seller's Disclosure Statement be provided to the buyer before the purchase offer is accepted.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "timing", "residential"]
+    },
+    {
+      "key_topic_ref": "MI-11.1",
+      "question_text": "Michigan's Seller Disclosure Act applies to the sale of which type of property?",
+      "correct_answer": "Residential property with 1 to 4 units",
+      "distractors": ["All residential and commercial property", "Only single-family detached homes", "Properties with up to 10 units"],
+      "explanation": "The Michigan Seller Disclosure Act is mandatory for residential properties with 1 to 4 dwelling units. Commercial properties and larger multifamily buildings are not covered.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "applicability", "residential"]
+    },
+    {
+      "key_topic_ref": "MI-11.1",
+      "question_text": "A Michigan seller of a duplex asks her agent if she needs to provide a disclosure statement. What is the correct answer?",
+      "correct_answer": "Yes, a duplex is 1-4 units and requires it",
+      "distractors": ["No, only single-family homes require it", "Only if the buyer requests one", "Only if the duplex was built before 1978"],
+      "explanation": "The Seller Disclosure Act covers all residential properties with 1 to 4 dwelling units. A duplex (2 units) falls within this range and requires a written disclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller-disclosure", "duplex", "applicability"]
+    },
+    {
+      "key_topic_ref": "MI-11.1",
+      "question_text": "The Michigan Seller's Disclosure Statement covers which broad categories of property conditions?",
+      "correct_answer": "Structural, mechanical, and environmental",
+      "distractors": ["Only structural and cosmetic", "Only environmental hazards", "Only items found in a home inspection"],
+      "explanation": "The Seller's Disclosure Statement requires information about structural conditions, mechanical systems, and environmental hazards, providing buyers with a comprehensive view of the property's condition.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "categories", "scope"]
+    },
+    {
+      "key_topic_ref": "MI-11.1",
+      "question_text": "A seller provides the disclosure statement but the buyer's offer has already been accepted. What right does the buyer have?",
+      "correct_answer": "The buyer may rescind the agreement",
+      "distractors": ["The buyer must proceed as agreed", "The buyer can only renegotiate price", "The buyer forfeits the earnest money"],
+      "explanation": "If the Seller's Disclosure Statement is not provided before offer acceptance as required, the buyer has the right to rescind the purchase agreement.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller-disclosure", "rescission", "buyer-rights"]
+    },
+    {
+      "key_topic_ref": "MI-11.2",
+      "question_text": "A Michigan seller knows the basement floods during heavy rain but marks 'no known problems' on the disclosure form. What is the seller's liability?",
+      "correct_answer": "Liable for known inaccuracies on the form",
+      "distractors": ["Not liable if the buyer gets an inspection", "Only liable if flooding causes injury", "Protected if disclosure was completed on time"],
+      "explanation": "Michigan sellers are liable for known inaccuracies on the Seller's Disclosure Statement. Deliberately misrepresenting known conditions like basement flooding exposes the seller to legal action.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["seller-disclosure", "misrepresentation", "basement"]
+    },
+    {
+      "key_topic_ref": "MI-11.2",
+      "question_text": "Which of the following must a Michigan seller disclose on the Seller's Disclosure Statement?",
+      "correct_answer": "Known presence of an underground storage tank",
+      "distractors": ["A neighbor's pending lawsuit against the HOA", "The asking price of nearby comparable sales", "Previous owner's remodeling preferences"],
+      "explanation": "Underground storage tanks (USTs) are an environmental hazard that must be disclosed on the Michigan Seller's Disclosure Statement, along with lead paint, asbestos, mold, and other environmental conditions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "environmental", "UST"]
+    },
+    {
+      "key_topic_ref": "MI-11.2",
+      "question_text": "A Michigan seller is aware of a boundary dispute with a neighbor but does not disclose it. What is the consequence?",
+      "correct_answer": "The seller is liable for the omission",
+      "distractors": ["No liability since it is a legal matter", "The title company assumes responsibility", "The buyer's attorney should have discovered it"],
+      "explanation": "Boundary disputes are among the items that must be disclosed on the Michigan Seller's Disclosure Statement. Knowingly omitting this information exposes the seller to liability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller-disclosure", "boundary-dispute", "liability"]
+    },
+    {
+      "key_topic_ref": "MI-11.2",
+      "question_text": "A Michigan seller's property is adjacent to an active farming operation. Must this be disclosed?",
+      "correct_answer": "Yes, farming proximity must be disclosed",
+      "distractors": ["No, only environmental hazards matter", "Only if the farm uses pesticides", "Only if the buyer specifically asks"],
+      "explanation": "Michigan's Seller's Disclosure Statement requires disclosure of proximity to farming operations, as this can affect the buyer's enjoyment of the property due to noise, odors, and agricultural activities.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller-disclosure", "farming-proximity"]
+    },
+    {
+      "key_topic_ref": "MI-11.2",
+      "question_text": "Which systems must a Michigan seller address on the Seller's Disclosure Statement?",
+      "correct_answer": "Roof, plumbing, electrical, and HVAC",
+      "distractors": ["Only the roof and foundation", "Only systems less than 10 years old", "Only systems that have failed recently"],
+      "explanation": "The disclosure statement requires information about major systems including roof, foundation, basement, plumbing, electrical, HVAC, water/sewer, and more, regardless of age or recent failures.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "systems", "mechanical"]
+    },
+    {
+      "key_topic_ref": "MI-11.3",
+      "question_text": "A home is being sold as part of a probate proceeding in Michigan. Does the Seller Disclosure Act apply?",
+      "correct_answer": "No, court-ordered sales are exempt",
+      "distractors": ["Yes, all residential sales require disclosure", "Only if the estate has a personal representative", "Only if the heir has lived in the property"],
+      "explanation": "Michigan exempts court-ordered transfers, including probate, foreclosure, and bankruptcy sales, from the Seller Disclosure Act requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller-disclosure", "exemption", "probate"]
+    },
+    {
+      "key_topic_ref": "MI-11.3",
+      "question_text": "A Michigan builder is selling a brand new home that has never been occupied. Is a Seller's Disclosure Statement required?",
+      "correct_answer": "No, first sale of new construction is exempt",
+      "distractors": ["Yes, all 1-4 unit sales require it", "Only if the home exceeds $500,000", "Only if the builder is not licensed"],
+      "explanation": "The first sale of newly constructed residential property is exempt from Michigan's Seller Disclosure Act. The builder may have other warranty obligations but is not required to complete the standard disclosure form.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller-disclosure", "exemption", "new-construction"]
+    },
+    {
+      "key_topic_ref": "MI-11.3",
+      "question_text": "A wife transfers her interest in a Michigan home to her ex-husband as part of a divorce settlement. Is a disclosure required?",
+      "correct_answer": "No, transfers between spouses are exempt",
+      "distractors": ["Yes, all residential transfers need disclosure", "Only if the property has known defects", "Only if a real estate agent is involved"],
+      "explanation": "Transfers between co-owners or spouses (including divorce settlements) are exempt from the Michigan Seller Disclosure Act. The exemption recognizes that the parties typically already know the property's condition.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller-disclosure", "exemption", "spouse-transfer"]
+    },
+    {
+      "key_topic_ref": "MI-11.3",
+      "question_text": "A Michigan buyer signs a purchase agreement but never receives a Seller's Disclosure Statement before closing. What remedy does the buyer have?",
+      "correct_answer": "The buyer may rescind before closing occurs",
+      "distractors": ["The buyer has no remedy at all", "The buyer can only seek a price reduction", "The buyer must file a complaint with LARA"],
+      "explanation": "If a Michigan seller fails to provide the required disclosure statement, the buyer may rescind the purchase agreement. However, this right is extinguished once closing occurs. The buyer should exercise this right before the transaction closes.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["seller-disclosure", "rescission", "buyer-remedy"]
+    },
+    {
+      "key_topic_ref": "MI-11.3",
+      "question_text": "A government agency transfers surplus residential property in Michigan. Is the Seller Disclosure Act applicable?",
+      "correct_answer": "No, government transfers are exempt",
+      "distractors": ["Yes, all sellers must disclose", "Only federal agencies are exempt", "Only if the property is condemned"],
+      "explanation": "Government transfers of residential property are among the exemptions to Michigan's Seller Disclosure Act, along with court orders, co-owner transfers, fiduciary transfers, and first sales of new construction.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "exemption", "government-transfer"]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "standard_ref": "TX-16",
+  "scope": "state",
+  "state": "TX",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "TX-16.1",
+      "question_text": "A licensee knowingly tells a buyer that a property has no foundation problems, despite visible cracking. Under the DTPA, what damages may the buyer recover?",
+      "correct_answer": "Treble damages and attorney's fees",
+      "distractors": [
+        "Actual damages only",
+        "Compensatory damages minus attorney's fees",
+        "A statutory flat penalty of $10,000"
+      ],
+      "explanation": "The DTPA provides treble (triple) damages for knowing violations, plus attorney's fees. A licensee who knowingly misrepresents a material condition commits a knowing violation. Actual damages alone apply only when the violation is not knowing or intentional.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["DTPA", "treble_damages", "knowing_violation"]
+    },
+    {
+      "key_topic_ref": "TX-16.1",
+      "question_text": "Under which Texas code is the Deceptive Trade Practices Act found?",
+      "correct_answer": "Business and Commerce Code",
+      "distractors": [
+        "Texas Property Code",
+        "Occupations Code",
+        "Texas Civil Practice Code"
+      ],
+      "explanation": "The DTPA is codified in the Texas Business and Commerce Code, Section 17.46. While it applies to real estate transactions, it is not part of the Property Code or the Occupations Code that governs licensing. The DTPA covers consumer transactions broadly across industries.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["DTPA", "Business_Commerce_Code", "statutory_reference"]
+    },
+    {
+      "key_topic_ref": "TX-16.1",
+      "question_text": "A consumer represented by an attorney signs a waiver of DTPA rights before purchasing a property. Is this waiver enforceable?",
+      "correct_answer": "Yes, if the consumer has legal counsel",
+      "distractors": [
+        "No, DTPA rights can never be waived",
+        "Yes, but only for commercial properties",
+        "No, unless TREC approves the waiver"
+      ],
+      "explanation": "DTPA waivers are enforceable when the consumer is represented by legal counsel. This exception recognizes that an attorney-represented consumer can make an informed decision to waive DTPA protections. Without counsel, such waivers are generally unenforceable.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["DTPA", "waiver", "attorney_representation"]
+    },
+    {
+      "key_topic_ref": "TX-16.1",
+      "question_text": "Which of the following actions would create DTPA liability for a real estate licensee?",
+      "correct_answer": "Making false statements about property condition",
+      "distractors": [
+        "Charging a commission above the area average",
+        "Declining to represent a commercial buyer",
+        "Recommending a home inspector to a client"
+      ],
+      "explanation": "The DTPA prohibits false, misleading, and deceptive acts in consumer transactions. A licensee making false statements about property condition directly violates this prohibition. Commission rates, declining representation, and recommending inspectors are not inherently deceptive acts.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["DTPA", "misrepresentation", "licensee_liability"]
+    },
+    {
+      "key_topic_ref": "TX-16.1",
+      "question_text": "A listing agent unknowingly provides incorrect square footage from an old appraisal. The buyer sues under the DTPA. What level of damages applies?",
+      "correct_answer": "Actual damages plus attorney's fees",
+      "distractors": [
+        "Treble damages and attorney's fees",
+        "No damages because it was unintentional",
+        "Statutory penalty of $5,000 per violation"
+      ],
+      "explanation": "When a DTPA violation is not knowing or intentional, the consumer may recover actual damages plus attorney's fees. Treble damages require proof of a knowing violation. Unintentional misrepresentation still creates liability, but at the lower actual-damages level.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["DTPA", "actual_damages", "unintentional_violation"]
+    },
+    {
+      "key_topic_ref": "TX-16.2",
+      "question_text": "Texas follows which type of recording statute?",
+      "correct_answer": "Notice or race-notice statute",
+      "distractors": [
+        "Pure race statute",
+        "Pure notice statute only",
+        "First-in-time statute"
+      ],
+      "explanation": "Texas is classified as a notice or race-notice recording state. The first party to properly record an executed instrument generally has priority. Recording provides constructive notice to all subsequent purchasers, protecting the recorded interest holder.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording_statute", "race_notice", "priority"]
+    },
+    {
+      "key_topic_ref": "TX-16.2",
+      "question_text": "Where must a deed be recorded to provide constructive notice in Texas?",
+      "correct_answer": "The county clerk where the property is located",
+      "distractors": [
+        "The Texas Secretary of State's office",
+        "The TREC central records filing office",
+        "Any county clerk's office in the state"
+      ],
+      "explanation": "Instruments must be recorded with the county clerk in the county where the property is physically located. Recording in the wrong county or with the wrong office does not provide constructive notice. The Secretary of State handles business filings, not real property recordings.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "county_clerk", "constructive_notice"]
+    },
+    {
+      "key_topic_ref": "TX-16.2",
+      "question_text": "A subcontractor completes roofing work on a home but is not paid by the general contractor. What must the subcontractor do before claiming a mechanic's lien?",
+      "correct_answer": "Give written notice to the property owner",
+      "distractors": [
+        "File suit against the general contractor first",
+        "Record an affidavit with the county clerk",
+        "Obtain TREC approval for the lien claim"
+      ],
+      "explanation": "Texas law requires subcontractors to give written notice to the property owner before claiming a mechanic's lien. This differs from original contractors, who file an affidavit after work is completed. The notice requirement protects homeowners from liens they may not know about.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["mechanic_lien", "subcontractor", "notice_requirement"]
+    },
+    {
+      "key_topic_ref": "TX-16.2",
+      "question_text": "A contractor wants to place a mechanic's lien on a homestead property. What special requirement must be met?",
+      "correct_answer": "A written contract signed by both spouses",
+      "distractors": [
+        "TREC pre-approval of the lien",
+        "A court order authorizing the lien",
+        "The contractor must be licensed by the state"
+      ],
+      "explanation": "Mechanic's liens on homestead property require a written contract signed by both spouses. This special protection stems from Texas homestead laws that safeguard the family home. Without both signatures, the mechanic's lien on a homestead is invalid.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["mechanic_lien", "homestead", "spousal_signature"]
+    },
+    {
+      "key_topic_ref": "TX-16.2",
+      "question_text": "A buyer purchases a property without checking the county records. A prior recorded deed exists conveying the property to someone else. What effect does recording have?",
+      "correct_answer": "The buyer is deemed to have constructive notice",
+      "distractors": [
+        "The buyer has no notice unless personally told",
+        "Recording only protects government agencies",
+        "The prior deed is invalid if not notarized"
+      ],
+      "explanation": "Recording a properly executed instrument in the county records provides constructive notice to all subsequent parties. A buyer who fails to search the records is still deemed to have notice of recorded instruments. This principle underlies the entire recording system's protective function.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recording", "constructive_notice", "buyer_duty"]
+    }
+  ]
+}

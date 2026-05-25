@@ -1,0 +1,37 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="RealReady — Real estate exam prep"
+  description="State-specific real estate exam practice. Free questions for all 50 states + DC."
+>
+  <main class="placeholder">
+    <h1>realready.app</h1>
+    <p>Site coming soon.</p>
+  </main>
+</BaseLayout>
+
+<style>
+  .placeholder {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: center;
+    gap: 1rem;
+    padding: 2rem;
+  }
+  .placeholder h1 {
+    font-family: var(--font-display, "Outfit", sans-serif);
+    font-size: 3rem;
+    color: var(--rr-navy, #023047);
+    margin: 0;
+  }
+  .placeholder p {
+    font-family: var(--font-body, "DM Sans", sans-serif);
+    color: var(--rr-text-muted, #64748b);
+    margin: 0;
+  }
+</style>

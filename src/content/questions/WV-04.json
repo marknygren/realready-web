@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WV-04",
+  "scope": "state",
+  "state": "WV",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "WV-04.1",
+      "question_text": "How many clock hours of pre-licensing education are required for a West Virginia salesperson license?",
+      "correct_answer": "90 clock hours",
+      "distractors": ["60 clock hours", "120 clock hours", "75 clock hours"],
+      "explanation": "West Virginia requires 90 clock hours (equivalent to 6 college credit hours) of pre-licensing education in commission-approved courses.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "education", "hours"]
+    },
+    {
+      "key_topic_ref": "WV-04.1",
+      "question_text": "A candidate completed pre-licensing education 6 years ago and now wants to apply for a WV license. Can they use this education?",
+      "correct_answer": "No, education expires after 5 years",
+      "distractors": ["Yes, education never expires", "Yes, if they pass the exam", "No, education expires after 2 years"],
+      "explanation": "Pre-licensing education must have been completed within 5 years preceding the application date. Education completed 6 years ago would no longer qualify.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["pre-license", "education", "validity"]
+    },
+    {
+      "key_topic_ref": "WV-04.1",
+      "question_text": "What minimum score must a candidate achieve in each subject area of the WV pre-licensing course?",
+      "correct_answer": "70%",
+      "distractors": ["60%", "75%", "80%"],
+      "explanation": "Candidates must score 70% or higher in each subject area of the pre-licensing course, which matches the exam passing score of 70% on each section.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "education", "passing-score"]
+    },
+    {
+      "key_topic_ref": "WV-04.1",
+      "question_text": "The 90 hours of WV pre-licensing education are equivalent to how many college credit hours?",
+      "correct_answer": "6 college credit hours",
+      "distractors": ["3 college credit hours", "9 college credit hours", "12 college credit hours"],
+      "explanation": "The 90 clock hours of pre-licensing education for a WV salesperson license are equivalent to 6 college credit hours. Broker education requires 180 hours (12 credits).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "education", "credit-hours"]
+    },
+    {
+      "key_topic_ref": "WV-04.1",
+      "question_text": "A student completed a pre-licensing course at a school not approved by the WVREC. Can they use this education to apply?",
+      "correct_answer": "No, courses must be commission-approved",
+      "distractors": ["Yes, any accredited school qualifies", "Yes, if the course covered 90 hours", "No, but they can petition for an exception"],
+      "explanation": "Pre-licensing courses must be approved by the WVREC. Courses from non-approved providers do not satisfy the education requirement regardless of content or hours.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["pre-license", "education", "approval"]
+    },
+    {
+      "key_topic_ref": "WV-04.2",
+      "question_text": "What is the minimum age to apply for a West Virginia real estate salesperson license?",
+      "correct_answer": "18 years old",
+      "distractors": ["16 years old", "19 years old", "21 years old"],
+      "explanation": "Applicants must be at least 18 years old to apply for a WV salesperson license. They must also have a high school diploma or GED equivalent.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eligibility", "age", "requirements"]
+    },
+    {
+      "key_topic_ref": "WV-04.2",
+      "question_text": "What education credential must a WV license applicant possess in addition to pre-licensing courses?",
+      "correct_answer": "High school diploma or GED",
+      "distractors": ["Associate's degree minimum", "Bachelor's degree in any field", "No general education requirement"],
+      "explanation": "Applicants must have a high school diploma or equivalent (GED) in addition to completing the 90 hours of pre-licensing education.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eligibility", "education", "GED"]
+    },
+    {
+      "key_topic_ref": "WV-04.2",
+      "question_text": "WV license applicants must submit fingerprints through which vendor for background checks?",
+      "correct_answer": "IdentoGO",
+      "distractors": ["Pearson VUE", "The county sheriff's office", "The FBI directly"],
+      "explanation": "Fingerprints must be submitted to IdentoGO, the state's designated vendor, for FBI and state criminal history background checks. The processing fee is $45.75.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eligibility", "background-check", "fingerprints"]
+    },
+    {
+      "key_topic_ref": "WV-04.2",
+      "question_text": "A 17-year-old has completed all 90 hours of pre-licensing education and passed the exam. Can they obtain a WV license?",
+      "correct_answer": "No, applicants must be at least 18",
+      "distractors": ["Yes, passing the exam overrides age rules", "Yes, with parental consent", "Yes, as an apprentice license only"],
+      "explanation": "The minimum age for a WV real estate license is 18 years old, regardless of education completion or exam results. There is no apprentice or minor exception.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eligibility", "age", "requirements"]
+    },
+    {
+      "key_topic_ref": "WV-04.2",
+      "question_text": "What type of background check is required for WV real estate license applicants?",
+      "correct_answer": "FBI and state criminal history check",
+      "distractors": ["Credit check and civil court review", "Employment verification only", "State criminal history check only"],
+      "explanation": "WV requires both FBI and state criminal history background checks via fingerprints submitted to IdentoGO. This is more comprehensive than just a state-level check.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eligibility", "background-check", "FBI"]
+    },
+    {
+      "key_topic_ref": "WV-04.3",
+      "question_text": "What passing score is required on each section of the WV real estate licensing exam?",
+      "correct_answer": "70%",
+      "distractors": ["65%", "75%", "80%"],
+      "explanation": "Candidates must score 70% or higher on both the national and state sections of the exam. The sections are scored independently, and both must be passed.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "passing-score", "requirements"]
+    },
+    {
+      "key_topic_ref": "WV-04.3",
+      "question_text": "The WV salesperson licensing exam is administered by which testing provider?",
+      "correct_answer": "Pearson VUE",
+      "distractors": ["PSI Services", "Prometric", "The WVREC directly"],
+      "explanation": "West Virginia uses Pearson VUE as its exam provider. The exam is taken electronically at Pearson VUE test sites with immediate scoring.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "Pearson-VUE", "testing"]
+    },
+    {
+      "key_topic_ref": "WV-04.3",
+      "question_text": "A candidate passes the national section with 75% but scores 68% on the state section. What is the result?",
+      "correct_answer": "Fail — must retake the state section",
+      "distractors": ["Pass — overall average exceeds 70%", "Fail — must retake both sections", "Pass — national score compensates for state"],
+      "explanation": "West Virginia uses a split exam format where each section is scored independently. A candidate must score 70% on BOTH sections. The 68% on the state section means that section must be retaken.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exam", "split-exam", "scoring"]
+    },
+    {
+      "key_topic_ref": "WV-04.3",
+      "question_text": "How many scored items are on the state portion of the WV salesperson exam?",
+      "correct_answer": "50 scored items",
+      "distractors": ["40 scored items", "60 scored items", "80 scored items"],
+      "explanation": "The WV salesperson state exam has 50 scored items plus 5-10 pretest items. The national portion has 80 scored items. Total exam time is 4 hours.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "format", "scored-items"]
+    },
+    {
+      "key_topic_ref": "WV-04.3",
+      "question_text": "When does a candidate receive their WV licensing exam results?",
+      "correct_answer": "Immediately after completion",
+      "distractors": ["Within 5 business days by mail", "Within 2 weeks via email", "At the next WVREC commission meeting"],
+      "explanation": "The WV licensing exam is administered electronically at Pearson VUE test sites with immediate electronic scoring. Candidates know their results right away.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "results", "electronic-scoring"]
+    }
+  ]
+}

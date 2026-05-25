@@ -1,0 +1,308 @@
+{
+  "standard_ref": "CA-18",
+  "scope": "state",
+  "state": "CA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CA-18.1",
+      "question_text": "A farmer owns land adjacent to the Sacramento River. She has never applied for a government permit, yet she claims the right to use river water for irrigation. Which water right doctrine supports her claim?",
+      "correct_answer": "Riparian rights — reasonable use by adjacent landowners",
+      "distractors": [
+        "Appropriative rights — first in time, first in right",
+        "Correlative rights — proportional share for overlying owners",
+        "Pueblo rights — historical city water entitlements"
+      ],
+      "explanation": "Riparian water rights attach to land adjacent to a watercourse. The adjacent landowner has the right to make reasonable use of the water without a government permit, based purely on the property's location alongside the stream or river.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "water-rights",
+        "riparian",
+        "adjacent-landowner",
+        "reasonable-use"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.1",
+      "question_text": "Two farmers both hold appropriative water rights on the same California stream. During a drought, there is only enough water for one farm. Which farmer gets priority?",
+      "correct_answer": "The farmer with the earlier appropriation date",
+      "distractors": [
+        "The farmer with the larger land parcel",
+        "The farmer who diverts the larger volume of water",
+        "Both farmers share water equally regardless of seniority"
+      ],
+      "explanation": "Appropriative rights follow the 'first in time, first in right' (prior appropriation) doctrine. During shortages, senior appropriators (those with earlier permit dates) receive their full allocation before junior appropriators receive any. The earlier appropriation date controls priority.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "water-rights",
+        "appropriative",
+        "prior-appropriation",
+        "priority"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.1",
+      "question_text": "Multiple property owners draw from the same underground aquifer in California. Their water use is governed by proportional sharing among all overlying landowners. Which water right doctrine applies?",
+      "correct_answer": "Correlative rights doctrine",
+      "distractors": [
+        "Riparian doctrine",
+        "Appropriative doctrine",
+        "Pueblo doctrine"
+      ],
+      "explanation": "The correlative rights doctrine applies to groundwater in California. Overlying landowners (those whose land sits above the aquifer) share the water proportionally during shortages. No single owner can take more than their correlative share at the expense of others.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "water-rights",
+        "correlative",
+        "groundwater",
+        "aquifer"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.1",
+      "question_text": "The City of Los Angeles asserts a superior right to water based on its historical status as a Spanish colonial settlement. Which doctrine supports this claim?",
+      "correct_answer": "Pueblo water rights doctrine",
+      "distractors": [
+        "Riparian doctrine",
+        "Appropriative rights with senior priority date",
+        "Municipal eminent domain over water resources"
+      ],
+      "explanation": "Pueblo water rights derive from Spanish and Mexican colonial law. Cities established as pueblos — including Los Angeles and San Diego — have superior rights to a natural stream's entire flow needed for municipal purposes. These rights predate statehood and most other water claims.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "water-rights",
+        "pueblo",
+        "historical",
+        "municipal-water"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.1",
+      "question_text": "A developer in California wants to divert water from a non-navigable stream to irrigate a new subdivision not adjacent to the stream. Which agency must issue a permit for this appropriative use?",
+      "correct_answer": "State Water Resources Control Board",
+      "distractors": [
+        "California Department of Real Estate",
+        "California Environmental Protection Agency",
+        "Regional Water Quality Control Board"
+      ],
+      "explanation": "Appropriative water rights require a permit from the State Water Resources Control Board (SWRCB). This government permit system ensures water allocation follows the 'first in time, first in right' priority system and is subject to the public trust doctrine.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "water-rights",
+        "appropriative",
+        "SWRCB",
+        "permit"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.2",
+      "question_text": "A developer proposes to build 500 homes on California wetlands. The city requires an Environmental Impact Report. Which law requires this environmental review?",
+      "correct_answer": "California Environmental Quality Act (CEQA)",
+      "distractors": [
+        "National Environmental Policy Act (NEPA)",
+        "California Coastal Act",
+        "Subdivision Map Act"
+      ],
+      "explanation": "CEQA (California Environmental Quality Act) requires environmental review for projects that may have a significant effect on the environment. State and local agencies must conduct EIR review or determine an exemption applies before approving the project.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "CEQA",
+        "environmental-review",
+        "EIR",
+        "development"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.2",
+      "question_text": "A small home renovation project is proposed in a California city. The city determines it is categorically exempt from CEQA. What does this mean for the project?",
+      "correct_answer": "No environmental review documentation is required for the project",
+      "distractors": [
+        "The project must still prepare a full EIR before approval",
+        "The project must prepare a Mitigated Negative Declaration instead",
+        "State override is needed to confirm the categorical exemption"
+      ],
+      "explanation": "CEQA categorical exemptions apply to classes of projects that have been determined to have no significant environmental effect. When a categorical exemption applies, the lead agency need not prepare an EIR or negative declaration — no environmental review document is required.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "CEQA",
+        "categorical-exemption",
+        "environmental-review",
+        "project-approval"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.2",
+      "question_text": "A California landowner wants to build a vacation home 400 yards from the beach. Is a Coastal Development Permit likely required?",
+      "correct_answer": "Yes, the Coastal Zone extends approximately 1,000 yards inland",
+      "distractors": [
+        "No, the Coastal Zone only extends 100 yards inland from the mean high tide",
+        "Only if the project includes a dock or seawall below the high tide line",
+        "No, single-family homes under 5,000 square feet are exempt from coastal permits"
+      ],
+      "explanation": "The California Coastal Zone generally extends approximately 1,000 yards (about 1 mile in some sensitive areas) inland from the mean high tide line. Any development within the Coastal Zone typically requires a Coastal Development Permit from the California Coastal Commission.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Coastal-Commission",
+        "Coastal-Zone",
+        "CDP",
+        "development"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.2",
+      "question_text": "The California Coastal Commission denies a developer's permit to build luxury condos on a bluff, citing loss of public beach access. Which primary mission does this denial reflect?",
+      "correct_answer": "Protecting beach access and environmentally sensitive coastal areas",
+      "distractors": [
+        "Generating tax revenue from coastal properties for the state",
+        "Preserving agricultural land near the coastline",
+        "Enforcing Proposition 13 assessed value limits on coastal properties"
+      ],
+      "explanation": "The California Coastal Commission's primary mission is to protect and enhance the California coastline — including protecting public access to beaches and preserving environmentally sensitive habitat areas — through the Coastal Development Permit process.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Coastal-Commission",
+        "public-access",
+        "beach",
+        "coastal-protection"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.2",
+      "question_text": "A California developer plans to build homes near an active earthquake fault. Which law requires a special study and may restrict residential construction in this area?",
+      "correct_answer": "Alquist-Priolo Earthquake Fault Zone Act",
+      "distractors": [
+        "Subdivision Map Act",
+        "California Environmental Quality Act",
+        "Seismic Hazards Mapping Act"
+      ],
+      "explanation": "The Alquist-Priolo Earthquake Fault Zone Act prohibits most structures intended for human occupancy from being built within 50 feet of an active fault trace. It requires special geologic studies before local agencies can approve development near active faults.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Alquist-Priolo",
+        "earthquake-fault",
+        "development-restriction",
+        "disclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.3",
+      "question_text": "A California farmer wants to exit a Williamson Act contract after 3 years. She files a notice of nonrenewal. How many additional years must she wait before the land can be converted to another use?",
+      "correct_answer": "9 years",
+      "distractors": [
+        "3 years",
+        "5 years",
+        "10 years"
+      ],
+      "explanation": "Under the Williamson Act, a notice of nonrenewal starts a 9-year phase-out period. The existing 10-year contract continues for 9 more years after the notice before the land can be removed from agricultural preserve status. Early termination with penalties is also possible.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Williamson-Act",
+        "nonrenewal",
+        "agricultural-preserve",
+        "phase-out"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.3",
+      "question_text": "What primary benefit does a California farmer receive by entering a Williamson Act contract with her county?",
+      "correct_answer": "Property is assessed at agricultural value, reducing tax burden",
+      "distractors": [
+        "Complete exemption from all property taxes for 10 years",
+        "Federal tax deduction for agricultural land preservation",
+        "Right of first refusal if the county ever acquires adjacent land"
+      ],
+      "explanation": "The Williamson Act provides a reduced property tax assessment based on the land's agricultural income value rather than its higher market value. In exchange, the landowner agrees to a 10-year contract restricting non-agricultural development.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Williamson-Act",
+        "agricultural-preserve",
+        "property-tax",
+        "assessed-value"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.3",
+      "question_text": "A developer plans to sell lots in a new California subdivision to the public. Under the Subdivided Lands Law, what must happen before any lots can be marketed or sold?",
+      "correct_answer": "The DRE must issue a public report (white report)",
+      "distractors": [
+        "The county must record the final map",
+        "The developer must obtain a CEQA exemption letter",
+        "Each buyer must sign a geological hazard disclosure"
+      ],
+      "explanation": "California's Subdivided Lands Law (B&PC §11000+) requires the California Department of Real Estate to issue a public report (sometimes called a white report) before the developer can sell or offer to sell lots in a new subdivision. The report discloses material information to buyers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Subdivided-Lands-Law",
+        "public-report",
+        "DRE",
+        "subdivision"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.3",
+      "question_text": "A California buyer is purchasing a home near an active fault. The seller's agent knows the home is in an Alquist-Priolo Special Studies Zone. Must this be disclosed?",
+      "correct_answer": "Yes, Alquist-Priolo zones are required disclosures in California residential sales",
+      "distractors": [
+        "No, fault zones are only disclosed in commercial transactions",
+        "Only if the buyer asks specifically about geological hazards",
+        "Only if the property is within 100 feet of a known fault trace"
+      ],
+      "explanation": "California law requires disclosure when a property is located within an Alquist-Priolo Earthquake Fault Zone. This is part of California's Natural Hazard Disclosure (NHD) requirements. Sellers must disclose known geologic and seismic hazard zone designations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Alquist-Priolo",
+        "disclosure",
+        "NHD",
+        "earthquake-fault"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-18.3",
+      "question_text": "A developer builds a large shopping center in California and the city determines an EIR is required under CEQA. The EIR identifies significant traffic impacts. What must the city do before approving the project?",
+      "correct_answer": "Adopt findings and mitigation measures or a statement of overriding considerations",
+      "distractors": [
+        "Automatically deny the project due to significant impacts",
+        "Require the developer to fund a second EIR for independent verification",
+        "Submit the EIR to the state for final approval before the city can act"
+      ],
+      "explanation": "CEQA does not prevent approval of projects with significant impacts. The lead agency (city) must adopt feasible mitigation measures, reject infeasible alternatives, or make a written statement of overriding considerations explaining why the project's benefits outweigh its significant environmental effects.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "CEQA",
+        "EIR",
+        "mitigation",
+        "overriding-considerations"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "KS-14",
+  "scope": "state",
+  "state": "KS",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "KS-14.1",
+      "question_text": "Does Kansas have a mandatory statutory seller disclosure law?",
+      "correct_answer": "No, but industry practice uses a disclosure form",
+      "distractors": ["Yes, all sellers must complete a state form", "Yes, but only for commercial properties", "No, and no disclosure is ever recommended"],
+      "explanation": "Kansas does not have a mandatory statutory seller disclosure law. However, industry practice widely uses a Seller Property Condition Disclosure Statement. Sellers are expected to disclose known material defects even without a statutory mandate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller disclosure", "Kansas law", "industry practice"]
+    },
+    {
+      "key_topic_ref": "KS-14.1",
+      "question_text": "A Kansas seller knows the basement floods during heavy rains but does not mention it on the disclosure form. What is the seller's obligation?",
+      "correct_answer": "Disclose all known material defects",
+      "distractors": ["No duty exists without a state statute", "Only disclose if the buyer asks directly", "Only disclose structural defects over $5,000"],
+      "explanation": "Even though Kansas lacks a mandatory disclosure statute, sellers have a duty to disclose known material defects. A flooding basement is a material defect that affects the property's value and desirability, and failing to disclose it could lead to liability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material defects", "seller duty", "known defects"]
+    },
+    {
+      "key_topic_ref": "KS-14.1",
+      "question_text": "A Kansas seller is unaware that the home has a cracked foundation hidden behind finished walls. Must the seller disclose this?",
+      "correct_answer": "No, sellers must disclose only defects actually known",
+      "distractors": ["Yes, sellers must investigate all potential defects", "Yes, ignorance is not a valid defense", "Only if the home is over 20 years old"],
+      "explanation": "In Kansas, the seller's duty is to disclose defects actually known to the seller. There is no duty to investigate or discover hidden defects. If the seller genuinely does not know about the cracked foundation, there is no disclosure obligation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["known defects", "duty to investigate", "seller obligation"]
+    },
+    {
+      "key_topic_ref": "KS-14.1",
+      "question_text": "Which types of defects should a Kansas seller disclose on the property condition statement?",
+      "correct_answer": "Structural, plumbing, electrical, HVAC, environmental",
+      "distractors": ["Only structural issues and roof condition", "Only defects discovered by a licensed inspector", "Only defects costing over $1,000 to repair"],
+      "explanation": "The Seller Property Condition Disclosure Statement covers known material defects across all major systems including structural, plumbing, electrical, HVAC, and environmental conditions. There is no minimum cost threshold for required disclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["defect categories", "disclosure statement", "property condition"]
+    },
+    {
+      "key_topic_ref": "KS-14.1",
+      "question_text": "A buyer's agent in Kansas tells the buyer that sellers have no disclosure obligations since there is no state statute. Is this correct?",
+      "correct_answer": "No, sellers must still disclose known defects",
+      "distractors": ["Yes, without a statute there is no obligation", "Yes, only agents have disclosure duties", "Correct, but only for new construction"],
+      "explanation": "While Kansas lacks a mandatory disclosure statute, sellers still have a common-law duty to disclose known material defects. Industry practice reinforces this through the use of voluntary disclosure forms. The agent's statement is misleading and could expose the buyer to risk.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disclosure obligation", "common law", "agent advice"]
+    },
+    {
+      "key_topic_ref": "KS-14.2",
+      "question_text": "A Kansas seller knows that a radon test showed elevated levels in the home. Must this be disclosed?",
+      "correct_answer": "Yes, known elevated radon must be disclosed",
+      "distractors": ["No, radon is not a required disclosure", "Only if the buyer requests a radon test", "Only in counties with high radon zones"],
+      "explanation": "Kansas sellers must disclose known elevated radon concentrations to potential buyers. Radon is a naturally occurring radioactive gas that can pose health risks, and the Kansas Department of Health and Environment recommends radon testing for all homes.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["radon disclosure", "environmental", "seller duty"]
+    },
+    {
+      "key_topic_ref": "KS-14.2",
+      "question_text": "A home built in 1965 is being sold in Kansas. Which federal disclosure requirement applies?",
+      "correct_answer": "Lead-based paint disclosure is required",
+      "distractors": ["Asbestos abatement certification is required", "Federal flood zone disclosure is required", "No federal disclosures apply in Kansas"],
+      "explanation": "Federal law requires lead-based paint disclosure for all homes built before 1978. Since this home was built in 1965, the seller must provide the EPA-mandated lead-based paint disclosure and pamphlet to the buyer, regardless of state law.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lead-based paint", "pre-1978", "federal requirement"]
+    },
+    {
+      "key_topic_ref": "KS-14.2",
+      "question_text": "A Kansas seller suspects there may be an old underground storage tank on the property but has never confirmed it. Must this be disclosed?",
+      "correct_answer": "Yes, known or suspected tanks should be disclosed",
+      "distractors": ["No, only confirmed tanks require disclosure", "Only if the tank contained hazardous materials", "Only if required by the city code office"],
+      "explanation": "Underground storage tanks are an environmental concern that must be disclosed if known or suspected. A seller who has reason to believe a tank exists should disclose this information, as undisclosed tanks can create significant liability and remediation costs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["underground storage tank", "environmental disclosure", "seller duty"]
+    },
+    {
+      "key_topic_ref": "KS-14.2",
+      "question_text": "Which Kansas agency recommends radon testing for residential properties?",
+      "correct_answer": "Kansas Department of Health and Environment",
+      "distractors": ["Kansas Real Estate Commission", "Kansas Housing Resources Corporation", "Kansas Department of Commerce"],
+      "explanation": "The Kansas Department of Health and Environment (KDHE) recommends radon testing for all homes in Kansas. KDHE provides resources and guidance on radon mitigation and is the state authority on environmental health risks including radon exposure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["KDHE", "radon testing", "state agency"]
+    },
+    {
+      "key_topic_ref": "KS-14.2",
+      "question_text": "A seller in Kansas knows the home has mold in the attic but says nothing because it is not visible during showings. What is the seller's risk?",
+      "correct_answer": "Liability for failing to disclose a known defect",
+      "distractors": ["No risk since mold is not a required disclosure", "No risk if the buyer skips an inspection", "Protected by the as-is sale clause"],
+      "explanation": "Mold is a known material defect that must be disclosed if the seller is aware of it. Concealing known mold, even if not visible during showings, exposes the seller to liability for nondisclosure. An as-is clause does not protect against intentional concealment.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["mold", "concealment", "seller liability"]
+    },
+    {
+      "key_topic_ref": "KS-14.3",
+      "question_text": "Is an attorney required to be present at a real estate closing in Kansas?",
+      "correct_answer": "No, Kansas does not require attorney closings",
+      "distractors": ["Yes, both parties must have attorneys", "Yes, but only for the buyer's side", "Only for transactions over $250,000"],
+      "explanation": "Kansas does not require an attorney to be present at real estate closings. Title companies, escrow officers, and brokers commonly handle closings. However, parties may choose to have an attorney represent their interests.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney requirement", "closing", "Kansas practice"]
+    },
+    {
+      "key_topic_ref": "KS-14.3",
+      "question_text": "A buyer purchasing a rural Kansas property receives an abstract and title opinion instead of title insurance. What minimum period must the title search cover?",
+      "correct_answer": "25 years",
+      "distractors": ["10 years", "50 years", "40 years"],
+      "explanation": "In Kansas, when an abstract and title opinion is used instead of title insurance, the title search must cover a minimum of 25 years. This practice is common in rural areas where title insurance may be less readily available or customary.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["abstract", "title search", "25-year period"]
+    },
+    {
+      "key_topic_ref": "KS-14.3",
+      "question_text": "A seller in a Kansas city asks how much they will owe in transfer taxes at closing. What is the correct answer?",
+      "correct_answer": "Kansas has no transfer tax at all",
+      "distractors": ["0.5% of the total sale price", "$1.50 per $1,000 of the sale price", "It varies by county, averaging about 1%"],
+      "explanation": "Kansas eliminated transfer taxes in 2019. There are no documentary stamps or transfer taxes on property conveyances in Kansas. This applies statewide to all residential and commercial real estate transactions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer tax", "documentary stamps", "2019 elimination"]
+    },
+    {
+      "key_topic_ref": "KS-14.3",
+      "question_text": "In which Kansas setting is title insurance most commonly used instead of an abstract and title opinion?",
+      "correct_answer": "Urban areas",
+      "distractors": ["Rural farming communities", "Only for commercial properties", "Only for new construction"],
+      "explanation": "Title insurance is most common in urban areas of Kansas, while the abstract and title opinion method remains prevalent in rural areas. Both methods provide evidence of marketable title, but title insurance also protects against undiscovered defects.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title insurance", "urban areas", "title practices"]
+    },
+    {
+      "key_topic_ref": "KS-14.3",
+      "question_text": "A closing agent in Kansas discovers a 20-year-old unrecorded easement during the title search. If the buyer chose an abstract and title opinion, who evaluates whether this affects marketable title?",
+      "correct_answer": "The attorney giving the title opinion",
+      "distractors": ["The county register of deeds office", "The listing broker on the transaction", "The Kansas Real Estate Commission"],
+      "explanation": "When an abstract and title opinion is used, an attorney reviews the abstract and renders a legal opinion on the status of the title. The attorney would evaluate whether the unrecorded easement affects marketable title and advise the buyer accordingly.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["title opinion", "attorney review", "abstract"]
+    }
+  ]
+}

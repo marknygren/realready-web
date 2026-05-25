@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WI-16",
+  "scope": "state",
+  "state": "WI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WI-16.1",
+      "question_text": "Which agency administers ATCP 134, Wisconsin's residential rental practices rule?",
+      "correct_answer": "Department of Agriculture, Trade and Consumer Protection",
+      "distractors": ["Department of Safety and Professional Services", "Department of Workforce Development", "Real Estate Examining Board"],
+      "explanation": "ATCP 134 is administered by the Department of Agriculture, Trade and Consumer Protection (DATCP). It governs residential rental agreements, disclosures, security deposits, and prohibited landlord practices.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ATCP 134", "DATCP", "rental practices"]
+    },
+    {
+      "key_topic_ref": "WI-16.1",
+      "question_text": "Under ATCP 134, a landlord fails to disclose known building code violations to a new tenant. This is:",
+      "correct_answer": "A violation of the landlord's disclosure obligations",
+      "distractors": ["Acceptable if the violations are minor", "Only a problem if the tenant discovers them", "Permitted if the property passes inspection"],
+      "explanation": "ATCP 134 requires landlords to disclose building code violations, structural defects, and other material conditions. Failing to disclose known violations is a clear violation of the rule.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ATCP 134", "disclosure", "code violations"]
+    },
+    {
+      "key_topic_ref": "WI-16.1",
+      "question_text": "A tenant reports a mold problem, and the landlord raises the rent the next month. Under Wisconsin law, this may be:",
+      "correct_answer": "Retaliatory action, which is prohibited",
+      "distractors": ["Legal if the rent increase is under 10%", "Permitted with 30 days written notice", "Only illegal if the tenant has a written lease"],
+      "explanation": "Wisconsin law prohibits landlords from retaliating against tenants who exercise their legal rights, such as reporting habitability issues. A rent increase shortly after a complaint may constitute illegal retaliation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ATCP 134", "retaliation", "prohibited"]
+    },
+    {
+      "key_topic_ref": "WI-16.1",
+      "question_text": "What duty does a Wisconsin landlord owe regarding the physical condition of rental property?",
+      "correct_answer": "Maintain premises in habitable condition",
+      "distractors": ["Only repair items listed in the lease", "Provide repairs only if tenant pays for them", "Maintain only common areas, not individual units"],
+      "explanation": "Under both ATCP 134 and Chapter 704, landlords must maintain rental premises in habitable condition. This includes functioning plumbing, heating, electrical, and structural integrity.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord", "habitability", "maintenance"]
+    },
+    {
+      "key_topic_ref": "WI-16.1",
+      "question_text": "A tenant pays rent in cash. What must the landlord provide?",
+      "correct_answer": "A receipt for the cash payment",
+      "distractors": ["Nothing, cash payments need no documentation", "A written acknowledgment within 30 days", "A letter to the tenant's bank confirming payment"],
+      "explanation": "ATCP 134 requires landlords to provide receipts for cash payments. This protects both parties by creating documentation of rent payment.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ATCP 134", "cash payment", "receipt"]
+    },
+    {
+      "key_topic_ref": "WI-16.2",
+      "question_text": "Does Wisconsin have a statutory maximum for security deposits?",
+      "correct_answer": "No, there is no statutory maximum",
+      "distractors": ["Yes, maximum of 1 month's rent", "Yes, maximum of 2 months' rent", "Yes, maximum of $1,000"],
+      "explanation": "Unlike many states, Wisconsin has no statutory cap on security deposit amounts. However, excessive deposits may be challenged as unreasonable under general contract principles.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "no maximum", "unique"]
+    },
+    {
+      "key_topic_ref": "WI-16.2",
+      "question_text": "A tenant moves out on March 15. By when must the landlord return the security deposit?",
+      "correct_answer": "By April 5 (within 21 days)",
+      "distractors": ["By March 31 (within 15 days)", "By April 15 (within 30 days)", "By April 29 (within 45 days)"],
+      "explanation": "Wisconsin requires landlords to return the security deposit within 21 days of lease termination. The landlord must provide an itemized statement of any deductions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "21 days", "return"]
+    },
+    {
+      "key_topic_ref": "WI-16.2",
+      "question_text": "A landlord deducts cleaning costs from a security deposit. What must accompany the remaining balance?",
+      "correct_answer": "An itemized statement of deductions",
+      "distractors": ["A general explanation letter", "Receipts from the cleaning company only", "Nothing, deductions need no explanation"],
+      "explanation": "When withholding any portion of the security deposit, the landlord must provide an itemized statement of deductions showing what was withheld and why, along with the remaining balance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "itemized statement", "deductions"]
+    },
+    {
+      "key_topic_ref": "WI-16.2",
+      "question_text": "A new tenant moves in. How many days do they have to complete the check-in inspection sheet?",
+      "correct_answer": "7 days",
+      "distractors": ["3 days", "14 days", "30 days"],
+      "explanation": "When a security deposit is required, tenants have 7 days from the start of tenancy to inspect the premises and return a completed check-in sheet noting any existing defects. This protects the tenant at move-out.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "check-in", "7 days"]
+    },
+    {
+      "key_topic_ref": "WI-16.2",
+      "question_text": "A lease provision states the tenant waives their right to security deposit return. Is this enforceable?",
+      "correct_answer": "No, this is a prohibited provision under ATCP 134",
+      "distractors": ["Yes, if the tenant signed the lease voluntarily", "Yes, for commercial leases only", "Only if the deposit is under $500"],
+      "explanation": "ATCP 134 prohibits lease provisions that waive a tenant's right to security deposit return. Such clauses are void and unenforceable, regardless of whether the tenant agreed to them.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["security deposit", "prohibited provisions", "waiver"]
+    },
+    {
+      "key_topic_ref": "WI-16.3",
+      "question_text": "A month-to-month tenancy in Wisconsin is an example of which type of lease?",
+      "correct_answer": "Periodic tenancy",
+      "distractors": ["Tenancy at will", "Tenancy for years", "Tenancy at sufferance"],
+      "explanation": "A month-to-month lease is a periodic tenancy — it automatically renews at the end of each period unless either party gives proper notice. Year-to-year leases are also periodic tenancies.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lease types", "periodic tenancy", "month-to-month"]
+    },
+    {
+      "key_topic_ref": "WI-16.3",
+      "question_text": "A tenant has a 2-year lease that ends on a specific date. This is classified as:",
+      "correct_answer": "Tenancy for years",
+      "distractors": ["Periodic tenancy", "Tenancy at will", "Tenancy at sufferance"],
+      "explanation": "A tenancy for years has a fixed term with a definite end date. Despite the name, it can be for any specific duration — it does not need to be measured in years.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lease types", "tenancy for years", "fixed term"]
+    },
+    {
+      "key_topic_ref": "WI-16.3",
+      "question_text": "Under Chapter 704, what distinguishes a tenancy at will from other lease types?",
+      "correct_answer": "No fixed term; either party may terminate at any time",
+      "distractors": ["The tenant has no obligation to pay rent", "Only the landlord can terminate the tenancy", "It automatically converts to a year-to-year lease"],
+      "explanation": "A tenancy at will has no fixed term and can be terminated by either party at any time with proper notice. It's the most flexible but least secure tenancy type.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lease types", "tenancy at will", "termination"]
+    },
+    {
+      "key_topic_ref": "WI-16.3",
+      "question_text": "A lease clause requires the tenant to pay the landlord's attorney fees regardless of who wins a dispute. Is this enforceable?",
+      "correct_answer": "No, this is a prohibited provision under ATCP 134",
+      "distractors": ["Yes, if both parties agreed to the clause", "Yes, for leases over 1 year in duration", "Only if the attorney fees are under $1,000"],
+      "explanation": "ATCP 134 prohibits lease provisions requiring tenants to pay landlord's attorney fees regardless of outcome. It also prohibits clauses authorizing property confiscation and clauses waiving the landlord's duty to mitigate damages.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["prohibited provisions", "attorney fees", "ATCP 134"]
+    },
+    {
+      "key_topic_ref": "WI-16.3",
+      "question_text": "Which Wisconsin statute primarily governs landlord-tenant relationships?",
+      "correct_answer": "Chapter 704",
+      "distractors": ["Chapter 452", "Chapter 709", "Chapter 766"],
+      "explanation": "Chapter 704 governs landlord-tenant relationships generally, defining tenancy types and notice requirements. ATCP 134 provides additional protections. Chapter 452 covers real estate licensing, 709 covers condition reports, and 766 covers marital property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Chapter 704", "landlord-tenant", "statute"]
+    }
+  ]
+}

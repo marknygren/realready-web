@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WA-03",
+  "scope": "state",
+  "state": "WA",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "WA-03.1",
+      "question_text": "How many total clock hours of pre-license education must a Washington broker candidate complete?",
+      "correct_answer": "90 clock hours",
+      "distractors": ["60 clock hours", "120 clock hours", "150 clock hours"],
+      "explanation": "Washington requires 90 clock hours of pre-license education for broker candidates: a 60-hour Fundamentals course and a 30-hour Practices course. The Fundamentals course includes 3 hours of Fair Housing content.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "education-hours", "broker"]
+    },
+    {
+      "key_topic_ref": "WA-03.1",
+      "question_text": "A broker candidate has completed the 60-hour Fundamentals course. What additional pre-license course is required?",
+      "correct_answer": "30-hour Practices course",
+      "distractors": ["30-hour Law course", "30-hour Management course", "30-hour Ethics course"],
+      "explanation": "After completing the 60-hour Fundamentals course, broker candidates must complete the 30-hour Practices course to fulfill the 90-hour pre-license education requirement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "practices-course", "broker"]
+    },
+    {
+      "key_topic_ref": "WA-03.1",
+      "question_text": "A candidate completed pre-license education 25 months ago but has not yet taken the exam. What is the status of her education?",
+      "correct_answer": "It has expired",
+      "distractors": ["It remains valid indefinitely", "She has 12 more months", "She can request a 6-month extension"],
+      "explanation": "Pre-license education is valid for 2 years (24 months). Since the candidate waited 25 months, her education has expired and she must retake the courses before she can sit for the exam.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["pre-license", "education-validity", "expiration"]
+    },
+    {
+      "key_topic_ref": "WA-03.1",
+      "question_text": "What is the minimum age to obtain a broker license in Washington?",
+      "correct_answer": "18 years old",
+      "distractors": ["19 years old", "21 years old", "16 years old"],
+      "explanation": "Washington requires broker candidates to be at least 18 years old and have a high school diploma or equivalent. These are the basic eligibility requirements before completing pre-license education.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "age-requirement", "eligibility"]
+    },
+    {
+      "key_topic_ref": "WA-03.1",
+      "question_text": "A candidate passes the final licensing exam in March. By when must she apply for her broker license?",
+      "correct_answer": "Within 1 year of passing",
+      "distractors": ["Within 30 days of passing", "Within 6 months of passing", "Within 2 years of passing"],
+      "explanation": "Washington requires candidates to apply for their broker license within 1 year of passing the final exam. If they wait longer, they must retake the exam before applying.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["application", "timeline", "exam"]
+    },
+    {
+      "key_topic_ref": "WA-03.2",
+      "question_text": "How many years of full-time broker experience are required to qualify for a managing broker license?",
+      "correct_answer": "3 years",
+      "distractors": ["1 year", "2 years", "5 years"],
+      "explanation": "A managing broker candidate must have 3 years of full-time experience as an active broker within the past 5 years. This ensures candidates have recent, substantial practical experience before supervising others.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["managing-broker", "experience-requirement", "eligibility"]
+    },
+    {
+      "key_topic_ref": "WA-03.2",
+      "question_text": "A broker practiced full-time for 3 years but has been inactive for 6 years. Can she qualify for a managing broker license?",
+      "correct_answer": "No, it must be within the past 5 years",
+      "distractors": ["Yes, total lifetime experience counts", "Yes, with a DOL waiver request", "Yes, after completing a refresher course"],
+      "explanation": "The 3 years of full-time experience must fall within the past 5 years. Since the broker's experience ended 6 years ago, it falls outside the 5-year window and she does not currently qualify.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["managing-broker", "experience-window", "recency"]
+    },
+    {
+      "key_topic_ref": "WA-03.2",
+      "question_text": "How many additional education hours must a broker complete to qualify for a managing broker license?",
+      "correct_answer": "90 hours",
+      "distractors": ["30 hours", "60 hours", "120 hours"],
+      "explanation": "Managing broker candidates must complete 90 additional hours: 30 hours of brokerage management, 30 hours of business management, and 30 hours of advanced real estate law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["managing-broker", "education", "additional-hours"]
+    },
+    {
+      "key_topic_ref": "WA-03.2",
+      "question_text": "Which three 30-hour courses make up the managing broker education requirement?",
+      "correct_answer": "Brokerage, business, and advanced law",
+      "distractors": ["Ethics, appraisal, and finance", "Contracts, marketing, and tax law", "Property mgmt, leasing, and land use"],
+      "explanation": "The 90 additional hours for managing broker candidates consist of three 30-hour courses: brokerage management, business management, and advanced real estate law. These topics prepare candidates for supervisory responsibilities.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["managing-broker", "education-courses", "curriculum"]
+    },
+    {
+      "key_topic_ref": "WA-03.2",
+      "question_text": "What type of background check is required for managing broker applicants in Washington?",
+      "correct_answer": "Fingerprint-based check",
+      "distractors": ["Name-based check only", "Self-disclosure form only", "No background check needed"],
+      "explanation": "Managing broker applicants must undergo a fingerprint-based background check. This is processed through the Washington State Patrol and FBI to ensure applicants meet character and fitness standards.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["managing-broker", "fingerprint", "background-check"]
+    },
+    {
+      "key_topic_ref": "WA-03.3",
+      "question_text": "A broker applicant has a prior felony conviction on their record. What effect does this have on their application?",
+      "correct_answer": "The DOL reviews it on a case-by-case basis",
+      "distractors": ["Automatic permanent disqualification", "No effect on the application", "A 5-year mandatory waiting period applies"],
+      "explanation": "A criminal history does not automatically disqualify an applicant. The DOL reviews the nature, severity, and recency of the offense on a case-by-case basis when evaluating character and fitness for licensure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["background-check", "criminal-history", "eligibility"]
+    },
+    {
+      "key_topic_ref": "WA-03.3",
+      "question_text": "A candidate passes the licensing exam. What must she do before she can legally practice real estate?",
+      "correct_answer": "Affiliate with a licensed firm",
+      "distractors": ["Wait 30 days for license processing", "Complete an additional internship", "Pass a second state-specific exam"],
+      "explanation": "After passing the exam, a candidate must apply for a license and affiliate with a licensed brokerage firm before practicing real estate. A broker cannot practice independently without firm affiliation in Washington.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["application", "firm-affiliation", "post-exam"]
+    },
+    {
+      "key_topic_ref": "WA-03.3",
+      "question_text": "A broker's fingerprint results are submitted to which two agencies during the application process?",
+      "correct_answer": "WSP and FBI",
+      "distractors": ["DOL and FBI", "DOL and WSP", "FBI and ATF"],
+      "explanation": "Fingerprints submitted through IdentoGO are processed by both the Washington State Patrol (WSP) for state records and the FBI for federal criminal history. Both checks must clear before a license is issued.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fingerprint", "WSP", "FBI", "background-check"]
+    },
+    {
+      "key_topic_ref": "WA-03.3",
+      "question_text": "A brokerage firm wants to open a second location. What must the firm obtain from the DOL?",
+      "correct_answer": "A separate branch office license",
+      "distractors": ["Only a change-of-address notice", "A new designated broker endorsement", "Permission from the Real Estate Commission"],
+      "explanation": "Each branch office location requires its own branch office license from the DOL. Additionally, a managing broker must be assigned to supervise each branch location to ensure adequate oversight.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["branch-office", "firm-requirements", "DOL"]
+    },
+    {
+      "key_topic_ref": "WA-03.3",
+      "question_text": "A candidate passed the broker exam 14 months ago but never applied for a license. What must she do now?",
+      "correct_answer": "Retake the licensing exam",
+      "distractors": ["Submit the application normally", "Pay a late application fee", "Complete additional coursework"],
+      "explanation": "Candidates must apply for their license within 1 year of passing the final exam. Since 14 months have passed, this candidate's exam results have expired and she must retake the exam before applying.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["application", "exam-expiration", "timeline"]
+    }
+  ]
+}

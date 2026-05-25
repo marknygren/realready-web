@@ -1,0 +1,173 @@
+{
+  "standard_ref": "PA-13",
+  "scope": "state",
+  "state": "PA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "PA-13.1",
+      "question_text": "Housing discrimination complaints under Pennsylvania law are investigated by the:",
+      "correct_answer": "PA Human Relations Commission (PHRC)",
+      "distractors": ["PA Real Estate Commission (PREC)", "PA Attorney General's Office", "PA Department of Housing"],
+      "explanation": "The Pennsylvania Human Relations Commission (PHRC) is the state agency responsible for investigating fair housing complaints under the Pennsylvania Human Relations Act.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PHRA", "PHRC", "enforcement"]
+    },
+    {
+      "key_topic_ref": "PA-13.1",
+      "question_text": "A housing discrimination complaint under the PHRA must be filed within:",
+      "correct_answer": "180 days of the discriminatory act",
+      "distractors": ["90 days of the discriminatory act", "1 year of the discriminatory act", "365 days of the discriminatory act"],
+      "explanation": "Complaints to the PHRC must be filed within 180 days of the alleged discriminatory act. This is different from the federal HUD complaint deadline of 1 year.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PHRA", "complaint deadline", "180 days"]
+    },
+    {
+      "key_topic_ref": "PA-13.1",
+      "question_text": "After receiving a fair housing complaint, the PHRC may take all of the following actions EXCEPT:",
+      "correct_answer": "Impose criminal penalties on the violator",
+      "distractors": ["Investigate the complaint", "Hold a formal hearing", "Order damages and injunctive relief"],
+      "explanation": "PHRC can investigate, mediate, hold hearings, and order damages and injunctive relief. However, it cannot impose criminal penalties — those would require prosecution by the appropriate authorities.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["PHRC", "enforcement", "remedies"]
+    },
+    {
+      "key_topic_ref": "PA-13.1",
+      "question_text": "A complainant files a PHRA complaint with the PHRC. The complainant may also pursue:",
+      "correct_answer": "A federal HUD complaint or private lawsuit",
+      "distractors": ["Only the PHRC process, nothing else", "A PREC complaint as an alternative", "A criminal prosecution independently"],
+      "explanation": "Filing with PHRC does not prevent the complainant from also filing with HUD (federal) or bringing a private civil lawsuit. Multiple avenues of relief may be pursued.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PHRC", "HUD", "private lawsuit"]
+    },
+    {
+      "key_topic_ref": "PA-13.1",
+      "question_text": "The PHRC attempts to resolve a fair housing complaint informally. This process is called:",
+      "correct_answer": "Mediation",
+      "distractors": ["Arbitration", "Adjudication", "Reconciliation"],
+      "explanation": "PHRC may attempt to resolve complaints through mediation — an informal process where the parties voluntarily negotiate a resolution. If mediation fails, the matter may proceed to a formal hearing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PHRC", "mediation", "resolution"]
+    },
+    {
+      "key_topic_ref": "PA-13.2",
+      "question_text": "Which protected class is included in the Pennsylvania Human Relations Act but NOT in the federal Fair Housing Act?",
+      "correct_answer": "Age (40 and older)",
+      "distractors": ["Race", "Disability", "Familial status"],
+      "explanation": "Pennsylvania adds age (40+) as a protected class in housing, which the federal Fair Housing Act does not include. Race, disability, and familial status are protected under both state and federal law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PHRA", "age 40+", "protected classes"]
+    },
+    {
+      "key_topic_ref": "PA-13.2",
+      "question_text": "A landlord refuses to rent to a 45-year-old applicant based solely on their age. Under PA law, this is:",
+      "correct_answer": "Illegal age discrimination under PHRA",
+      "distractors": ["Legal, age is not protected in housing", "Legal if the building has no elevator", "Illegal only in Philadelphia County"],
+      "explanation": "Pennsylvania's PHRA protects persons age 40 and older from housing discrimination. This protection applies statewide, not just in certain counties. The federal FHA would not cover this claim.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PHRA", "age discrimination", "housing"]
+    },
+    {
+      "key_topic_ref": "PA-13.2",
+      "question_text": "The Pennsylvania Human Relations Act protects persons who use which of the following?",
+      "correct_answer": "Guide, support, or service animals",
+      "distractors": ["Only certified guide dogs", "Only service animals for mobility", "Emotional support animals exclusively"],
+      "explanation": "The PHRA specifically protects the use of guide, support, or service animals. This is broader than some interpretations of the federal ADA and covers various types of assistance animals.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PHRA", "service animals", "disability"]
+    },
+    {
+      "key_topic_ref": "PA-13.2",
+      "question_text": "Under the PHRA, which of the following is a protected class in housing transactions?",
+      "correct_answer": "Ancestry and national origin",
+      "distractors": ["Political party affiliation", "Income level or credit score", "Marital status"],
+      "explanation": "PHRA protects race, color, religious creed, ancestry, national origin, sex, age 40+, familial status, disability, and service animal use. Political affiliation, income, and marital status are not specifically listed.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PHRA", "protected classes", "ancestry"]
+    },
+    {
+      "key_topic_ref": "PA-13.2",
+      "question_text": "A 35-year-old is denied housing based on their age. Under the PHRA, this denial is:",
+      "correct_answer": "Not covered, PHRA age protection starts at 40",
+      "distractors": ["Illegal age discrimination", "Illegal under federal law", "Covered if filed within 90 days"],
+      "explanation": "The PHRA's age protection applies to persons age 40 and older. A 35-year-old would not be covered by the age provision, though they may have claims under other protected categories.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["PHRA", "age 40+", "threshold"]
+    },
+    {
+      "key_topic_ref": "PA-13.3",
+      "question_text": "The key distinction between the PHRA and the federal Fair Housing Act regarding protected classes is:",
+      "correct_answer": "PA adds age 40+ as a protected class",
+      "distractors": ["PA removes familial status protection", "PA excludes disability protections", "PA limits religion to certain faiths"],
+      "explanation": "The most notable distinction is Pennsylvania's addition of age 40+ as a protected class in housing. The federal FHA does not protect against age-based housing discrimination.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PHRA", "federal comparison", "age 40+"]
+    },
+    {
+      "key_topic_ref": "PA-13.3",
+      "question_text": "A complainant wins a PHRC hearing for housing discrimination. The PHRC can order:",
+      "correct_answer": "Damages and injunctive relief",
+      "distractors": ["Damages only, no injunctive relief", "Injunctive relief only, no damages", "Criminal penalties and jail time"],
+      "explanation": "After a hearing, the PHRC can order both compensatory damages and injunctive relief (e.g., ordering the respondent to cease discriminatory practices). Criminal penalties are not within PHRC's authority.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PHRC", "remedies", "damages"]
+    },
+    {
+      "key_topic_ref": "PA-13.3",
+      "question_text": "A person files a housing discrimination complaint with both PHRC and HUD. This dual filing is:",
+      "correct_answer": "Permitted under both state and federal law",
+      "distractors": ["Prohibited, must choose one venue", "Allowed only with PHRC permission", "Required for claims over $50,000"],
+      "explanation": "Complainants may file with PHRC, HUD, or both, and may also bring a private lawsuit. The state and federal systems are complementary, not mutually exclusive.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PHRC", "HUD", "dual filing"]
+    },
+    {
+      "key_topic_ref": "PA-13.3",
+      "question_text": "The federal Fair Housing Act complaint deadline is 1 year. The PHRA deadline is:",
+      "correct_answer": "180 days, shorter than federal",
+      "distractors": ["1 year, same as federal", "2 years, longer than federal", "90 days, much shorter than federal"],
+      "explanation": "The PHRA requires complaints within 180 days, while the federal FHA allows 1 year. Complainants should be aware of the shorter state deadline to preserve their state-level rights.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["PHRA", "federal comparison", "deadline"]
+    },
+    {
+      "key_topic_ref": "PA-13.3",
+      "question_text": "A PA licensee suspects housing discrimination in a transaction. The licensee's obligation is to:",
+      "correct_answer": "Comply with both state and federal fair housing laws",
+      "distractors": ["Follow only the stricter of the two laws", "Follow federal law since it preempts state law", "Report only to PREC, not PHRC"],
+      "explanation": "Licensees must comply with BOTH the PHRA and the federal FHA. The PHRA does not preempt federal law — both apply simultaneously, and the licensee must meet the requirements of each.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["PHRA", "federal", "licensee obligation"]
+    }
+  ]
+}

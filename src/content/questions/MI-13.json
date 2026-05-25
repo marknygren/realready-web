@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MI-13",
+  "scope": "state",
+  "state": "MI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MI-13.1",
+      "question_text": "A Michigan landlord charges a tenant $2,400/month in rent. What is the maximum allowable security deposit?",
+      "correct_answer": "$3,600",
+      "distractors": ["$2,400", "$4,800", "$4,200"],
+      "explanation": "Michigan law limits security deposits to 1.5 times the monthly rent. For $2,400/month rent, the maximum deposit is $2,400 x 1.5 = $3,600.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "maximum", "calculation"]
+    },
+    {
+      "key_topic_ref": "MI-13.1",
+      "question_text": "A tenant moves out of a Michigan rental on March 1. By what date must the landlord return the security deposit or provide an itemized statement?",
+      "correct_answer": "March 31",
+      "distractors": ["March 15", "April 14", "April 30"],
+      "explanation": "Michigan law requires landlords to return the security deposit with an itemized list of deductions within 30 days after the tenant vacates. Thirty days from March 1 is March 31.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "return", "30-day"]
+    },
+    {
+      "key_topic_ref": "MI-13.1",
+      "question_text": "A Michigan landlord keeps a tenant's security deposit in a personal savings account. Is this compliant?",
+      "correct_answer": "No, it must be in a regulated institution",
+      "distractors": ["Yes, any account is acceptable", "Only if the tenant consents in writing", "Yes, if it earns interest for the tenant"],
+      "explanation": "Michigan law requires security deposits to be held in a separate account at a regulated financial institution, not in the landlord's personal accounts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "regulated-institution", "storage"]
+    },
+    {
+      "key_topic_ref": "MI-13.1",
+      "question_text": "A Michigan tenant tells the landlord she will use her security deposit as the last month's rent. The lease says nothing about this. What applies?",
+      "correct_answer": "The tenant cannot do this without written agreement",
+      "distractors": ["The tenant can always apply the deposit as rent", "State law automatically permits this arrangement", "The landlord must accept the tenant's request"],
+      "explanation": "In Michigan, a tenant cannot apply the security deposit as last month's rent unless there is a written agreement allowing it. Without such an agreement, the tenant must continue paying rent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "last-month-rent", "written-agreement"]
+    },
+    {
+      "key_topic_ref": "MI-13.1",
+      "question_text": "A Michigan landlord fails to complete a written move-in checklist before collecting a security deposit. What is the consequence?",
+      "correct_answer": "The landlord may forfeit deduction rights",
+      "distractors": ["The lease automatically becomes void", "The deposit amount is automatically doubled", "There is no consequence under Michigan law"],
+      "explanation": "Michigan law requires a written inventory checklist at move-in. Without it, the landlord may lose the ability to claim deductions from the security deposit for pre-existing conditions.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["security-deposit", "move-in-checklist", "inventory"]
+    },
+    {
+      "key_topic_ref": "MI-13.2",
+      "question_text": "A Michigan lease requires the tenant to waive all rights to sue the landlord for habitability defects. Under the Truth in Renting Act, this clause is:",
+      "correct_answer": "Void and unenforceable",
+      "distractors": ["Valid if both parties signed", "Enforceable for commercial units only", "Valid if the tenant received a discount"],
+      "explanation": "The Michigan Truth in Renting Act makes lease clauses that violate Michigan law void and unenforceable. A clause requiring a tenant to waive legal rights, such as the right to habitable premises, is automatically void.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["truth-in-renting", "void-clause", "waiver"]
+    },
+    {
+      "key_topic_ref": "MI-13.2",
+      "question_text": "A Michigan lease requires the tenant to pay the landlord's attorney fees in every legal dispute. Is this enforceable?",
+      "correct_answer": "No, this violates the Truth in Renting Act",
+      "distractors": ["Yes, if stated clearly in the lease", "Yes, attorney fee clauses are standard", "Only if limited to $5,000"],
+      "explanation": "The Truth in Renting Act prohibits lease clauses requiring tenants to pay the landlord's attorney fees in all disputes. Such blanket provisions are void and unenforceable.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["truth-in-renting", "attorney-fees", "lease-clause"]
+    },
+    {
+      "key_topic_ref": "MI-13.2",
+      "question_text": "Which Michigan state official publishes the Truth in Renting handbook for tenants?",
+      "correct_answer": "The Attorney General",
+      "distractors": ["The Governor", "The Secretary of State", "The LARA Director"],
+      "explanation": "Michigan's Attorney General publishes the 'Truth in Renting' handbook, which educates tenants about their legal rights under Michigan landlord-tenant law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["truth-in-renting", "AG", "handbook"]
+    },
+    {
+      "key_topic_ref": "MI-13.2",
+      "question_text": "A tenant signs a Michigan lease containing a clause that conflicts with state housing law. The tenant later discovers the conflict. What is the status of the conflicting clause?",
+      "correct_answer": "It was void from the start",
+      "distractors": ["It is valid because the tenant signed", "It becomes void only after a court ruling", "It is voidable at the landlord's option"],
+      "explanation": "Under the Truth in Renting Act, lease clauses that violate Michigan law are void and unenforceable from inception, regardless of whether the tenant signed the lease willingly.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["truth-in-renting", "void-clause", "enforcement"]
+    },
+    {
+      "key_topic_ref": "MI-13.2",
+      "question_text": "A prospective Michigan tenant asks an agent where to find a summary of tenant rights. What should the agent recommend?",
+      "correct_answer": "The AG's Truth in Renting handbook",
+      "distractors": ["The LARA licensing manual", "The MLS property listing", "The county recorder's website"],
+      "explanation": "The Michigan Attorney General publishes the 'Truth in Renting' handbook specifically to inform tenants of their rights and protections under Michigan law.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["truth-in-renting", "handbook", "tenant-rights"]
+    },
+    {
+      "key_topic_ref": "MI-13.3",
+      "question_text": "A Michigan tenant is two weeks behind on rent. How many days' notice must the landlord provide before filing for eviction?",
+      "correct_answer": "7 days",
+      "distractors": ["3 days", "14 days", "30 days"],
+      "explanation": "Michigan requires a 7-day notice to quit for nonpayment of rent before the landlord can file an eviction action in court.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "nonpayment", "7-day-notice"]
+    },
+    {
+      "key_topic_ref": "MI-13.3",
+      "question_text": "A Michigan month-to-month tenant receives notice that the landlord is terminating the tenancy. How much notice is required?",
+      "correct_answer": "30 days",
+      "distractors": ["7 days", "14 days", "60 days"],
+      "explanation": "Michigan requires 30-day notice to terminate a month-to-month tenancy. The shorter 7-day notice applies only to nonpayment of rent.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "month-to-month", "30-day-notice"]
+    },
+    {
+      "key_topic_ref": "MI-13.3",
+      "question_text": "A frustrated Michigan landlord changes the locks while the tenant is at work to force the tenant out. This action is:",
+      "correct_answer": "Illegal self-help eviction",
+      "distractors": ["Permitted after 7 days' notice", "Legal if rent is overdue", "Allowed with police present"],
+      "explanation": "Michigan law prohibits self-help eviction. Landlords cannot change locks, remove doors, shut off utilities, or otherwise force a tenant out without going through the court eviction process.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "self-help", "illegal"]
+    },
+    {
+      "key_topic_ref": "MI-13.3",
+      "question_text": "A Michigan tenant files a complaint with the health department about mold. Ten days later, the landlord serves a termination notice. The tenant claims retaliation. Which factor supports the tenant's claim?",
+      "correct_answer": "The notice came within 90 days of the complaint",
+      "distractors": ["The mold was in a common area only", "The tenant had a month-to-month lease", "The landlord used a licensed process server"],
+      "explanation": "Michigan law presumes retaliation when a landlord takes adverse action within 90 days of a tenant's complaint to a government agency. The 10-day gap strongly supports a retaliation claim.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["eviction", "retaliation", "90-day"]
+    },
+    {
+      "key_topic_ref": "MI-13.3",
+      "question_text": "A Michigan tenant violates a pet policy in the lease but the violation is not nonpayment of rent. What notice period applies before eviction can be filed?",
+      "correct_answer": "30 days",
+      "distractors": ["7 days", "14 days", "60 days"],
+      "explanation": "For lease violations other than nonpayment of rent, Michigan requires a 30-day notice before filing for eviction. The 7-day notice applies only to nonpayment situations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "lease-violation", "30-day-notice"]
+    }
+  ]
+}

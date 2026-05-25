@@ -1,0 +1,233 @@
+{
+  "standard_ref": "MO-08",
+  "scope": "state",
+  "state": "MO",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "MO-08.1",
+      "question_text": "Under 20 CSR 2250-8.120, earnest money must be deposited no later than how many banking days after all parties sign?",
+      "correct_answer": "10 banking days",
+      "distractors": [
+        "5 banking days",
+        "3 business days",
+        "15 calendar days"
+      ],
+      "explanation": "Missouri regulation 20 CSR 2250-8.120 requires earnest money to be deposited no later than 10 banking days after the last signature or initials of all parties to the contract. The contract may specify a different timeline, but 10 banking days is the default.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest_money", "deposit_deadline", "10_banking_days", "20_CSR"]
+    },
+    {
+      "key_topic_ref": "MO-08.1",
+      "question_text": "A purchase contract states earnest money must be deposited within 5 days of acceptance. The default rule allows 10 banking days. Which deadline controls?",
+      "correct_answer": "The 5-day contract provision controls",
+      "distractors": [
+        "The 10-banking-day regulation overrides",
+        "Whichever deadline is later applies",
+        "The broker decides which to follow"
+      ],
+      "explanation": "While Missouri's default rule under 20 CSR 2250-8.120 allows 10 banking days, the contract may specify a different timeline. When the contract includes a specific deposit deadline, that contractual provision governs over the default regulation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest_money", "contract_terms", "deposit_deadline"]
+    },
+    {
+      "key_topic_ref": "MO-08.1",
+      "question_text": "All parties signed a contract on Friday, March 7. No special deposit terms were included. Using the 10-banking-day rule, when is the latest the earnest money can be deposited?",
+      "correct_answer": "By close of business on March 21",
+      "distractors": [
+        "By close of business on March 17",
+        "By close of business on March 14",
+        "By close of business on March 24"
+      ],
+      "explanation": "The 10-banking-day count begins the next banking day after the last signature (Monday, March 10) and excludes weekends and bank holidays. Counting 10 banking days from March 10 yields March 21 as the deposit deadline.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest_money", "banking_days", "deadline_calculation"]
+    },
+    {
+      "key_topic_ref": "MO-08.1",
+      "question_text": "Broker Harris receives a $5,000 earnest money check but waits 15 banking days to deposit it. No contract exception exists. What is the consequence?",
+      "correct_answer": "The broker violated the deposit deadline",
+      "distractors": [
+        "No violation if the check eventually clears",
+        "Acceptable if the seller did not complain",
+        "Only a violation if the check bounced"
+      ],
+      "explanation": "Without a contract provision specifying a different timeline, Missouri's 10-banking-day rule applies. Depositing 15 banking days after signing violates 20 CSR 2250-8.120 regardless of whether the check clears or either party objects.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest_money", "deposit_violation", "broker_responsibility"]
+    },
+    {
+      "key_topic_ref": "MO-08.1",
+      "question_text": "The 10-banking-day deposit clock for earnest money in Missouri begins after which event?",
+      "correct_answer": "Last signature or initials of all parties",
+      "distractors": [
+        "The buyer delivers the check to the agent",
+        "The listing agent receives the signed offer",
+        "The seller verbally accepts the offer"
+      ],
+      "explanation": "Under 20 CSR 2250-8.120, the 10-banking-day period starts after the last signature or initials of all parties to the contract. It is not triggered by delivery of the check, receipt by the listing agent, or verbal acceptance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest_money", "trigger_event", "all_parties_sign"]
+    },
+    {
+      "key_topic_ref": "MO-08.2",
+      "question_text": "What is the maximum amount of personal funds a Missouri broker may keep in an escrow account?",
+      "correct_answer": "$1,000 for service charges",
+      "distractors": [
+        "$500 for any purpose",
+        "$2,500 for service charges",
+        "No personal funds are ever permitted"
+      ],
+      "explanation": "Missouri allows brokers to maintain up to $1,000 of their own personal funds in the escrow account solely to cover bank service charges. This is the only exception to the commingling prohibition. Any amount above $1,000 constitutes commingling.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "commingling", "personal_funds", "service_charges"]
+    },
+    {
+      "key_topic_ref": "MO-08.2",
+      "question_text": "Broker Wilson deposits $3,000 of personal funds into the sales escrow account to avoid overdraft fees. Is this permitted?",
+      "correct_answer": "No, the limit is $1,000 for service charges",
+      "distractors": [
+        "Yes, if the funds are withdrawn promptly",
+        "Yes, to protect client funds from bouncing",
+        "No, but $2,500 would be acceptable"
+      ],
+      "explanation": "Missouri permits brokers to maintain a maximum of $1,000 of personal funds in escrow solely for bank service charges. Depositing $3,000 exceeds this limit and constitutes commingling, regardless of the broker's intent to prevent overdrafts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["escrow", "commingling", "personal_funds", "violation"]
+    },
+    {
+      "key_topic_ref": "MO-08.2",
+      "question_text": "A Missouri broker manages rental properties and handles sales transactions. How many escrow accounts are required?",
+      "correct_answer": "Separate accounts for PM and sales",
+      "distractors": [
+        "One combined escrow account is sufficient",
+        "Three accounts: PM, sales, and operating",
+        "Only a sales escrow is required"
+      ],
+      "explanation": "Missouri requires that property management escrow funds be maintained in a SEPARATE account from sales escrow funds. This separation ensures that rental deposits and management fees are not mixed with earnest money and other sales transaction funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "property_management", "separate_accounts"]
+    },
+    {
+      "key_topic_ref": "MO-08.2",
+      "question_text": "Broker Taylor keeps rental security deposits in the same escrow account as sales earnest money. Is this a violation?",
+      "correct_answer": "Yes, PM and sales escrow must be separate",
+      "distractors": [
+        "No, if accurate records distinguish the funds",
+        "No, one escrow account is sufficient",
+        "Only if the total exceeds $50,000"
+      ],
+      "explanation": "Missouri requires separate escrow accounts for property management and sales transactions. Even with meticulous record-keeping, combining rental security deposits with sales earnest money in a single account violates the separation requirement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["escrow", "commingling", "property_management", "sales"]
+    },
+    {
+      "key_topic_ref": "MO-08.2",
+      "question_text": "A broker's escrow account has $800 of personal funds to cover monthly bank fees. The bank raises fees and the broker adds another $400. Is the broker in compliance?",
+      "correct_answer": "No, total personal funds now exceed $1,000",
+      "distractors": [
+        "Yes, adjustments for fees are always allowed",
+        "Yes, if the broker notifies MREC within 30 days",
+        "No, personal funds can never be in escrow"
+      ],
+      "explanation": "With $1,200 total personal funds now in the escrow account ($800 + $400), the broker exceeds Missouri's $1,000 limit for personal funds maintained for service charges. The broker must remove the excess to return to compliance.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["escrow", "personal_funds", "1000_limit", "compliance"]
+    },
+    {
+      "key_topic_ref": "MO-08.3",
+      "question_text": "What information must each check or deposit in a Missouri broker's escrow account identify?",
+      "correct_answer": "The related transaction",
+      "distractors": [
+        "The broker's license number only",
+        "The listing agent's name",
+        "The MLS listing number"
+      ],
+      "explanation": "Missouri requires that each check written from and each deposit made to the escrow account identify the related transaction. This ensures a clear audit trail linking every financial movement to a specific real estate transaction.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "record_keeping", "transaction_identification"]
+    },
+    {
+      "key_topic_ref": "MO-08.3",
+      "question_text": "MREC auditors arrive at a brokerage without prior notice to audit the escrow account. Can the broker refuse the audit?",
+      "correct_answer": "No, audits may be unannounced",
+      "distractors": [
+        "Yes, 48 hours notice is required",
+        "Yes, unless MREC obtains a court order",
+        "No, but only during business hours"
+      ],
+      "explanation": "MREC has the authority to conduct unannounced audits of broker escrow accounts. Brokers cannot refuse an audit based on lack of prior notice. Maintaining accurate and current records at all times is essential because an audit can occur without warning.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "escrow_audit", "unannounced", "compliance"]
+    },
+    {
+      "key_topic_ref": "MO-08.3",
+      "question_text": "During an MREC audit, a broker cannot produce records showing which transactions correspond to specific escrow deposits. What is the likely finding?",
+      "correct_answer": "The broker failed to maintain adequate books",
+      "distractors": [
+        "No violation if the account balance is correct",
+        "A minor bookkeeping error with no penalty",
+        "Acceptable if deposits match total contracts"
+      ],
+      "explanation": "Missouri requires brokers to maintain books and records sufficient to determine the adequacy of the escrow account. If the broker cannot link specific deposits to transactions, the records are inadequate regardless of whether the account balance appears correct.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["MREC", "escrow_audit", "record_keeping", "inadequate_books"]
+    },
+    {
+      "key_topic_ref": "MO-08.3",
+      "question_text": "What is the standard for record adequacy in a Missouri broker's escrow account?",
+      "correct_answer": "Books must show the account is adequate",
+      "distractors": [
+        "Monthly bank statements are sufficient",
+        "Annual CPA review is the only requirement",
+        "Digital records are not accepted"
+      ],
+      "explanation": "Missouri requires brokers to maintain books sufficient to determine the adequacy of the escrow account at any time. This goes beyond simple bank statements and requires transaction-level detail linking deposits, disbursements, and balances to specific deals.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "record_keeping", "account_adequacy"]
+    },
+    {
+      "key_topic_ref": "MO-08.3",
+      "question_text": "A broker maintains all escrow records electronically and shreds paper copies. An MREC auditor requests the records. Is the broker in compliance?",
+      "correct_answer": "Yes, if the electronic records are adequate",
+      "distractors": [
+        "No, paper records are always required",
+        "No, originals must be kept for 7 years",
+        "Only if a backup exists offsite"
+      ],
+      "explanation": "Missouri does not mandate paper records. The requirement is that the broker maintain books sufficient to determine account adequacy. Electronic records that properly identify each transaction and allow auditors to verify account balances satisfy this standard.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["escrow", "electronic_records", "record_keeping", "MREC_audit"]
+    }
+  ]
+}

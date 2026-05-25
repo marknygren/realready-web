@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OH-12",
+  "scope": "state",
+  "state": "OH",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OH-12.1",
+      "question_text": "Which type of listing guarantees the broker a commission regardless of who finds the buyer?",
+      "correct_answer": "Exclusive right to sell",
+      "distractors": ["Exclusive agency listing", "Open listing", "Net listing"],
+      "explanation": "An exclusive right to sell listing pays the broker's commission regardless of who sells the property — even if the owner finds the buyer. This is the most common listing type in Ohio.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing-types", "exclusive-right", "commission"]
+    },
+    {
+      "key_topic_ref": "OH-12.1",
+      "question_text": "A seller has an exclusive agency listing and finds a buyer without any agent's help. Must the seller pay the listing broker's commission?",
+      "correct_answer": "No, the owner-found buyer is excluded",
+      "distractors": ["Yes, all exclusive listings guarantee commission", "Only if the buyer also has an agent", "Only if the sale price exceeds the listing price"],
+      "explanation": "Under an exclusive agency listing, the broker earns commission unless the owner sells the property themselves. If the owner independently finds the buyer, no commission is owed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exclusive-agency", "owner-sale", "commission"]
+    },
+    {
+      "key_topic_ref": "OH-12.1",
+      "question_text": "Ohio's Statute of Frauds requires listing agreements to be in which form?",
+      "correct_answer": "Written form",
+      "distractors": ["Verbal form with two witnesses", "Notarized and recorded form", "Any form agreed upon by the parties"],
+      "explanation": "Under the Statute of Frauds, all listing agreements must be in writing. A listing must specify the property, price, commission, dates, broker name, and owner signature.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute-of-frauds", "written", "listing"]
+    },
+    {
+      "key_topic_ref": "OH-12.1",
+      "question_text": "A net listing allows the broker to keep everything above the seller's specified minimum price. In Ohio, this listing type is:",
+      "correct_answer": "Legal but discouraged and risky",
+      "distractors": ["Prohibited by Ohio license law", "The most commonly used listing type", "Required for commercial properties only"],
+      "explanation": "Net listings are legal in Ohio but discouraged because they create an inherent conflict of interest — the broker benefits by getting the lowest possible price for the seller.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["net-listing", "legal", "discouraged"]
+    },
+    {
+      "key_topic_ref": "OH-12.1",
+      "question_text": "A seller lists their home with three different brokerages simultaneously. What type of listing agreement does each brokerage hold?",
+      "correct_answer": "Open listing",
+      "distractors": ["Exclusive right to sell", "Exclusive agency", "Net listing"],
+      "explanation": "An open listing allows the owner to list with multiple brokers. Only the broker who actually procures the buyer earns the commission. If the owner sells independently, no commission is owed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["open-listing", "multiple-brokers", "procuring"]
+    },
+    {
+      "key_topic_ref": "OH-12.2",
+      "question_text": "A listing agent receives a written offer while another offer is already pending. What must the agent do?",
+      "correct_answer": "Present both offers promptly to the seller",
+      "distractors": ["Hold the new offer until the first is resolved", "Present only the higher offer to the seller", "Reject the new offer as untimely submitted"],
+      "explanation": "Ohio law requires all written offers to be presented promptly to the client, regardless of any pending offers. The seller decides how to respond to each offer.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["offer-handling", "present-promptly", "multiple-offers"]
+    },
+    {
+      "key_topic_ref": "OH-12.2",
+      "question_text": "A buyer submits an offer of $250,000. The seller counters at $260,000. What happened to the buyer's original offer?",
+      "correct_answer": "It was rejected by the counteroffer",
+      "distractors": ["It remains active alongside the counter", "It becomes a backup offer automatically", "It is held open for 48 hours by default"],
+      "explanation": "Under Ohio contract law, a counteroffer rejects the original offer and creates a new offer. The buyer's $250,000 offer is no longer valid once the seller counters at $260,000.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["counteroffer", "rejection", "contract-law"]
+    },
+    {
+      "key_topic_ref": "OH-12.2",
+      "question_text": "A purchase contract contains a 'time is of the essence' clause. A buyer misses the inspection deadline by one day. What is the likely result?",
+      "correct_answer": "The buyer may lose their right to the inspection contingency",
+      "distractors": ["An automatic 3-day extension is granted", "The deadline is extended to the next business day", "The contract is voided and earnest money returned"],
+      "explanation": "Time is of the essence clauses are strictly enforced in Ohio. Missing deadlines, even by one day, can result in loss of rights or breach of contract.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["time-of-essence", "deadline", "strict"]
+    },
+    {
+      "key_topic_ref": "OH-12.2",
+      "question_text": "A seller instructs their agent in writing not to present offers below $300,000. The agent receives a $280,000 offer. What should the agent do?",
+      "correct_answer": "Follow the seller's written instruction and not present it",
+      "distractors": ["Present it anyway since all offers must be presented", "Present it but advise the seller to reject it", "Hold it and wait for a higher offer to arrive"],
+      "explanation": "While agents must generally present all offers, Ohio allows sellers to instruct their agent in writing not to present offers meeting specific criteria. Written instructions must be followed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["offer-handling", "written-instruction", "exception"]
+    },
+    {
+      "key_topic_ref": "OH-12.2",
+      "question_text": "Multiple counteroffers are issued on a property. A binding contract is formed when:",
+      "correct_answer": "The first counteroffer is accepted and communicated",
+      "distractors": ["All counteroffers are simultaneously accepted", "The highest counteroffer is automatically accepted", "The listing agent selects the winning counteroffer"],
+      "explanation": "When multiple counteroffers exist, the first one accepted creates a binding contract. Acceptance must be communicated to the offeror or their agent to be effective.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["counteroffer", "acceptance", "binding-contract"]
+    },
+    {
+      "key_topic_ref": "OH-12.3",
+      "question_text": "Under Ohio contract law, when does acceptance of an offer occur?",
+      "correct_answer": "When signed and communicated to the offeror",
+      "distractors": ["When the offeree signs the document", "When the earnest money deposit is received", "When both agents confirm by phone"],
+      "explanation": "Ohio follows standard contract law: acceptance occurs when the offeree signs the offer and communicates acceptance to the offeror or the offeror's agent.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["acceptance", "communication", "contract-formation"]
+    },
+    {
+      "key_topic_ref": "OH-12.3",
+      "question_text": "Which elements are essential for a valid real estate contract in Ohio?",
+      "correct_answer": "Offer, acceptance, consideration, capacity, and legality",
+      "distractors": ["Only a signed offer and earnest money deposit", "Offer, acceptance, and a written description only", "Signatures from all parties and a notary seal"],
+      "explanation": "Ohio follows standard contract law requiring offer, acceptance, consideration, legal capacity, legality of purpose, and meeting of the minds for a valid contract.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contract-elements", "validity", "formation"]
+    },
+    {
+      "key_topic_ref": "OH-12.3",
+      "question_text": "An Ohio broker closes a transaction and stores the file. For how long must all transaction records be retained?",
+      "correct_answer": "3 years from closing or listing termination",
+      "distractors": ["1 year from the transaction date", "5 years from the closing date", "7 years per federal requirements"],
+      "explanation": "Ohio requires brokers to retain all transaction records — listing agreements, purchase contracts, trust account records, correspondence, and disclosures — for 3 years.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record-retention", "3-years", "transaction"]
+    },
+    {
+      "key_topic_ref": "OH-12.3",
+      "question_text": "A listing agreement is signed but the broker loses the copy 18 months later. The listing had terminated without a sale. Must the broker still have this record?",
+      "correct_answer": "Yes, the 3-year retention period has not expired",
+      "distractors": ["No, records of expired listings are not required", "No, only closed transaction records must be kept", "Only if the seller requests a copy"],
+      "explanation": "Records must be retained for 3 years from either closing or listing termination. Even if a listing expires without a sale, the record must be kept for the full retention period.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["record-retention", "expired-listing", "requirement"]
+    },
+    {
+      "key_topic_ref": "OH-12.3",
+      "question_text": "A buyer signs a purchase agreement but their agent fails to communicate the signed acceptance to the seller's agent. Under Ohio law, is a contract formed?",
+      "correct_answer": "No, acceptance must be communicated to be effective",
+      "distractors": ["Yes, the buyer's signature alone creates the contract", "Yes, if the buyer retains a signed copy", "Only if the buyer mails the signed agreement"],
+      "explanation": "Mere signing is insufficient — acceptance must be communicated to the offeror or their agent. Without communication, no binding contract exists under Ohio contract law.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["acceptance", "communication", "no-contract"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "DC-12",
+  "scope": "state",
+  "state": "DC",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "DC-12.1",
+      "question_text": "DC imposes two separate taxes on real property transfers. Which party typically pays each?",
+      "correct_answer": "Seller pays transfer tax; buyer pays recordation tax",
+      "distractors": ["Buyer pays both taxes at closing", "Seller pays both taxes at closing", "Each party pays half of both taxes"],
+      "explanation": "DC's two-tax system assigns the transfer tax to the seller and the recordation tax to the buyer. Both are paid at closing when the deed and deed of trust are recorded.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "recordation tax", "responsibility"]
+    },
+    {
+      "key_topic_ref": "DC-12.1",
+      "question_text": "A DC home sells for $350,000. What is the combined transfer and recordation tax?",
+      "correct_answer": "2.2% ($7,700)",
+      "distractors": ["2.9% ($10,150)", "1.1% ($3,850)", "1.45% ($5,075)"],
+      "explanation": "For properties under $400,000, the transfer tax is 1.1% and the recordation tax is 1.1%, totaling 2.2%. $350,000 x 2.2% = $7,700.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer tax", "recordation tax", "calculation"]
+    },
+    {
+      "key_topic_ref": "DC-12.1",
+      "question_text": "At what purchase price does the higher DC transfer and recordation tax rate apply?",
+      "correct_answer": "$400,000 and above",
+      "distractors": ["$250,000 and above", "$500,000 and above", "$750,000 and above"],
+      "explanation": "The higher rate tier (1.45% each for transfer and recordation, totaling 2.9%) applies to residential properties selling for $400,000 or more. Below $400,000, each tax is 1.1%.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tax rates", "$400,000", "threshold"]
+    },
+    {
+      "key_topic_ref": "DC-12.1",
+      "question_text": "A DC condo sells for $600,000. What is the combined transfer and recordation tax rate?",
+      "correct_answer": "2.9%",
+      "distractors": ["2.2%", "3.5%", "5.0%"],
+      "explanation": "At $600,000 (above the $400,000 threshold), the combined rate is 2.9%: 1.45% transfer tax (seller) + 1.45% recordation tax (buyer).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tax rates", "2.9%", "above threshold"]
+    },
+    {
+      "key_topic_ref": "DC-12.1",
+      "question_text": "Which transfers are exempt from DC transfer and recordation taxes?",
+      "correct_answer": "Transfers between spouses",
+      "distractors": ["All first-time homebuyer purchases", "Sales below $200,000", "Transfers to real estate investors"],
+      "explanation": "Certain transfers are exempt from DC transfer and recordation taxes, including transfers between spouses, certain trust and estate transfers, and government-to-government transfers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exemptions", "spouses", "transfer tax"]
+    },
+    {
+      "key_topic_ref": "DC-12.2",
+      "question_text": "What benefit does DC offer qualifying first-time homebuyers at closing?",
+      "correct_answer": "A reduced recordation tax rate of 0.725%",
+      "distractors": ["Complete exemption from all transfer taxes", "A 50% reduction in the transfer tax", "A $5,000 closing cost credit"],
+      "explanation": "Eligible first-time DC homebuyers can reduce their recordation tax from 1.45% to 0.725%. The seller's transfer tax remains unchanged. This applies to the buyer's portion only.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["first-time buyer", "recordation tax", "reduction"]
+    },
+    {
+      "key_topic_ref": "DC-12.2",
+      "question_text": "The DC first-time homebuyer recordation tax reduction applies to which type of tax?",
+      "correct_answer": "Only the buyer's recordation tax",
+      "distractors": ["Both the transfer and recordation taxes", "Only the seller's transfer tax", "All closing costs including title insurance"],
+      "explanation": "The first-time homebuyer benefit reduces only the buyer's recordation tax (from 1.45% to 0.725%). The seller's transfer tax rate remains unchanged. The purchase price must fall within an annually adjusted limit.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["first-time buyer", "recordation tax", "scope"]
+    },
+    {
+      "key_topic_ref": "DC-12.2",
+      "question_text": "A first-time DC homebuyer purchases a $500,000 condo. What recordation tax rate applies?",
+      "correct_answer": "0.725%",
+      "distractors": ["1.1%", "1.45%", "0%"],
+      "explanation": "As a first-time homebuyer purchasing below the $777,000 limit, the reduced recordation tax rate of 0.725% applies instead of the standard 1.45% rate for properties over $400,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["first-time buyer", "recordation tax", "0.725%"]
+    },
+    {
+      "key_topic_ref": "DC-12.2",
+      "question_text": "To qualify for the DC first-time homebuyer recordation tax reduction, the property must be:",
+      "correct_answer": "The buyer's primary residence",
+      "distractors": ["Located in a designated opportunity zone", "An investment property with rental income", "A new construction property only"],
+      "explanation": "The first-time homebuyer benefit requires the property to be the buyer's primary residence. The buyer must have never owned eligible property as a principal residence in DC and must meet income limits.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["first-time buyer", "primary residence", "eligibility"]
+    },
+    {
+      "key_topic_ref": "DC-12.2",
+      "question_text": "Which of the following disqualifies a buyer from DC's first-time homebuyer tax reduction?",
+      "correct_answer": "Previously owning a primary residence in DC",
+      "distractors": ["Having rented in DC for more than 5 years", "Being over the age of 45", "Purchasing a condominium unit"],
+      "explanation": "A 'DC first-time homebuyer' is defined as someone who has never owned eligible property as their principal residence. Previous DC homeownership disqualifies the buyer, regardless of when it occurred.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["first-time buyer", "disqualification", "previous ownership"]
+    },
+    {
+      "key_topic_ref": "DC-12.3",
+      "question_text": "DC is considered what type of state for real estate closings?",
+      "correct_answer": "An attorney state",
+      "distractors": ["An escrow state", "A title company state", "A notary state"],
+      "explanation": "DC is an attorney state, meaning real estate closings are typically handled by settlement attorneys. A title company or settlement agent conducts the closing, with attorneys overseeing the legal aspects.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney state", "closing", "settlement"]
+    },
+    {
+      "key_topic_ref": "DC-12.3",
+      "question_text": "Where are deeds and deeds of trust recorded in DC?",
+      "correct_answer": "The DC Recorder of Deeds",
+      "distractors": ["DLCP", "The DC Superior Court clerk", "The Office of Tax and Revenue"],
+      "explanation": "Deeds and deeds of trust in DC are recorded with the DC Recorder of Deeds. Recording provides constructive notice of ownership and lien interests.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "Recorder of Deeds", "deed"]
+    },
+    {
+      "key_topic_ref": "DC-12.3",
+      "question_text": "At a DC closing, which type of title insurance protects the buyer against title defects?",
+      "correct_answer": "Owner's title insurance policy",
+      "distractors": ["Lender's title insurance policy", "Settlement agent's E&O insurance", "The Guaranty and Education Fund"],
+      "explanation": "An owner's title insurance policy protects the buyer against title defects. The lender's policy (typically required by the mortgage lender) protects only the lender's interest, not the buyer's.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title insurance", "owner's policy", "closing"]
+    },
+    {
+      "key_topic_ref": "DC-12.3",
+      "question_text": "What does a DC settlement agent do as part of the closing process?",
+      "correct_answer": "Conducts a title search and prepares closing documents",
+      "distractors": ["Appraises the property for the buyer", "Inspects the property for structural defects", "Negotiates the purchase price between parties"],
+      "explanation": "The settlement agent conducts a title search, prepares the Closing Disclosure and other closing documents, coordinates signing, and ensures all taxes and fees are properly paid and recorded.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["settlement agent", "title search", "closing"]
+    },
+    {
+      "key_topic_ref": "DC-12.3",
+      "question_text": "DC uses which type of security instrument for real estate financing?",
+      "correct_answer": "Deed of trust",
+      "distractors": ["Traditional mortgage", "Land contract", "Security agreement"],
+      "explanation": "DC uses deeds of trust (not mortgages) as the primary security instrument. A deed of trust involves three parties: the borrower (grantor), lender (beneficiary), and trustee (neutral third party).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "security instrument", "financing"]
+    }
+  ]
+}

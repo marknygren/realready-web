@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NY-15",
+  "scope": "state",
+  "state": "NY",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NY-15.1",
+      "question_text": "Which level of government does NOT impose a real property tax in New York?",
+      "correct_answer": "New York State government",
+      "distractors": [
+        "County government agencies",
+        "School district",
+        "City or town government"
+      ],
+      "explanation": "New York State does not impose a state-level real property tax. Property taxes are levied exclusively by local jurisdictions including cities, towns, villages, counties, and school districts. This is a frequently tested distinction on the NY exam.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "taxing-jurisdictions", "state-tax"]
+    },
+    {
+      "key_topic_ref": "NY-15.1",
+      "question_text": "A property is assessed at $180,000 with a tax rate of $25 per $1,000 of assessed value. What is the annual property tax?",
+      "correct_answer": "$4,500",
+      "distractors": [
+        "$4,200",
+        "$4,800",
+        "$5,000"
+      ],
+      "explanation": "The property tax formula is assessed value multiplied by the tax rate. Here: $180,000 x ($25 / $1,000) = $180,000 x 0.025 = $4,500. Understanding this calculation is essential for NY real estate practice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-tax", "tax-calculation", "assessed-value"]
+    },
+    {
+      "key_topic_ref": "NY-15.1",
+      "question_text": "A town assessor values a property at $200,000 while its market value is $400,000. What is the equalization rate for this property?",
+      "correct_answer": "50%",
+      "distractors": [
+        "100%",
+        "200%",
+        "25%"
+      ],
+      "explanation": "The equalization rate is the ratio of assessed value to market value. Here: $200,000 / $400,000 = 0.50, or 50%. Equalization rates ensure fair tax distribution when different municipalities assess property at different percentages of market value.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["equalization-rate", "assessed-value", "market-value"]
+    },
+    {
+      "key_topic_ref": "NY-15.1",
+      "question_text": "A homeowner in a New York suburb receives tax bills from the county, the town, the village, and the school district. She asks her agent why she pays four separate tax bills. What is the best explanation?",
+      "correct_answer": "Multiple local jurisdictions independently levy property taxes",
+      "distractors": [
+        "The state divides its single property tax among four local entities",
+        "Only one bill is valid and the others are duplicates",
+        "Federal law requires four separate taxing authorities"
+      ],
+      "explanation": "In New York, multiple overlapping local jurisdictions each have independent authority to levy property taxes. A single property may be taxed by the county, town or city, village, and school district simultaneously, each setting its own rate for its own budget needs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-tax", "overlapping-jurisdictions", "tax-bills"]
+    },
+    {
+      "key_topic_ref": "NY-15.1",
+      "question_text": "An appraiser determines a home's market value is $500,000, but the municipality has an equalization rate of 40%. A buyer's agent needs the assessed value for tax estimation. What assessed value should the agent use?",
+      "correct_answer": "$200,000",
+      "distractors": [
+        "$300,000",
+        "$500,000",
+        "$125,000"
+      ],
+      "explanation": "Assessed value equals market value multiplied by the equalization rate. Here: $500,000 x 0.40 = $200,000. The equalization rate converts market value to the assessment level used by that jurisdiction for tax purposes.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["equalization-rate", "assessed-value", "tax-calculation"]
+    },
+    {
+      "key_topic_ref": "NY-15.2",
+      "question_text": "What does the STAR program provide to eligible New York homeowners?",
+      "correct_answer": "School tax relief for primary residences",
+      "distractors": [
+        "State income tax credits for all property owners",
+        "County property tax abatement for new construction",
+        "Mortgage interest rate subsidies for first-time buyers"
+      ],
+      "explanation": "STAR stands for School Tax Relief. It provides a reduction in school property taxes for owner-occupied primary residences in New York. There are two levels: Basic STAR for all qualifying homeowners and Enhanced STAR for seniors aged 65 and older.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["STAR", "school-tax", "exemption", "primary-residence"]
+    },
+    {
+      "key_topic_ref": "NY-15.2",
+      "question_text": "A 68-year-old homeowner who meets income requirements asks about property tax benefits. Which STAR benefit level applies?",
+      "correct_answer": "Enhanced STAR for seniors 65 and older",
+      "distractors": [
+        "Basic STAR only, regardless of age",
+        "No STAR benefit after age 65",
+        "Senior STAR Plus with full tax elimination"
+      ],
+      "explanation": "Enhanced STAR provides a larger school tax exemption than Basic STAR and is available to homeowners aged 65 and older who meet income eligibility requirements. It offers a significantly greater tax savings than the Basic STAR exemption.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Enhanced-STAR", "senior-exemption", "school-tax"]
+    },
+    {
+      "key_topic_ref": "NY-15.2",
+      "question_text": "A 70-year-old widow on a fixed income owns her home in New York. Her agent mentions she may qualify for two separate senior tax benefits. Which combination is most likely available?",
+      "correct_answer": "Enhanced STAR and senior citizens' exemption",
+      "distractors": [
+        "Basic STAR combined with the veterans' service exemption",
+        "Enhanced STAR and veterans' exemption",
+        "Senior citizens' exemption and STAR Plus"
+      ],
+      "explanation": "Seniors aged 65 and older who meet income requirements may qualify for both Enhanced STAR (school tax relief) and the separate senior citizens' exemption (a reduction in assessed value for property tax purposes). These are two distinct programs that can be combined.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Enhanced-STAR", "senior-exemption", "tax-benefits"]
+    },
+    {
+      "key_topic_ref": "NY-15.2",
+      "question_text": "An investor owns a rental property and a primary residence in New York. For which property can the investor claim STAR benefits?",
+      "correct_answer": "Only the primary residence",
+      "distractors": [
+        "Both properties equally",
+        "Only the rental property",
+        "Whichever has the higher assessed value"
+      ],
+      "explanation": "STAR benefits are limited to owner-occupied primary residences. Investment and rental properties do not qualify for the STAR exemption. The homeowner must occupy the property as their primary residence to receive school tax relief under the program.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["STAR", "primary-residence", "rental-property", "eligibility"]
+    },
+    {
+      "key_topic_ref": "NY-15.2",
+      "question_text": "A disabled veteran in New York asks about property tax exemptions. Which statement about the veterans' exemption is correct?",
+      "correct_answer": "It reduces assessed value based on wartime service",
+      "distractors": [
+        "It eliminates all property taxes for combat veterans",
+        "It applies only to school district taxes",
+        "It is available only to veterans over age 65"
+      ],
+      "explanation": "New York's veterans' exemption provides a partial reduction in assessed value for qualifying veterans based on wartime service and disability status. It is not limited to seniors and applies to general property taxes, not just school taxes like STAR.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["veterans-exemption", "assessed-value", "property-tax"]
+    },
+    {
+      "key_topic_ref": "NY-15.3",
+      "question_text": "A homeowner believes her residential property is over-assessed. After the assessor declines to correct it, what is the next step in the protest process?",
+      "correct_answer": "File a grievance with the Board of Assessment Review",
+      "distractors": [
+        "File a lawsuit in state Supreme Court immediately for relief",
+        "Appeal directly to the county legislature",
+        "Request a new appraisal from the state comptroller"
+      ],
+      "explanation": "The assessment protest process begins with the local assessor for factual errors. If unresolved, the next step is filing a grievance with the Board of Assessment Review (Grievance Board). Only after this step can a homeowner pursue further remedies like SCAR.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["assessment-protest", "grievance-board", "over-assessment"]
+    },
+    {
+      "key_topic_ref": "NY-15.3",
+      "question_text": "A residential property owner wants an affordable way to challenge an unfair assessment after the Grievance Board denies relief. Which proceeding is specifically available for residential owners?",
+      "correct_answer": "SCAR (Small Claims Assessment Review)",
+      "distractors": [
+        "Certiorari proceedings in Supreme Court",
+        "Arbitration through the tax assessor's office",
+        "Direct appeal to the state tax commission"
+      ],
+      "explanation": "SCAR (Small Claims Assessment Review) is a simplified, low-cost proceeding available exclusively to residential property owners to challenge assessments. Commercial property owners must use the more formal and expensive certiorari proceedings in court.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SCAR", "assessment-protest", "residential"]
+    },
+    {
+      "key_topic_ref": "NY-15.3",
+      "question_text": "A commercial building owner in Manhattan disagrees with the assessed value after the Grievance Board rules against them. What legal remedy must the owner pursue?",
+      "correct_answer": "Certiorari proceedings in court",
+      "distractors": [
+        "SCAR petition to the assessment board",
+        "Appeal to the NY Department of Taxation",
+        "Binding arbitration with the city assessor"
+      ],
+      "explanation": "Commercial property owners cannot use SCAR, which is reserved for residential properties only. Instead, commercial owners must file certiorari proceedings, which are formal court actions to challenge the assessment. This is more costly and time-consuming than the residential SCAR process.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["certiorari", "commercial-property", "assessment-protest"]
+    },
+    {
+      "key_topic_ref": "NY-15.3",
+      "question_text": "A property owner fails to pay property taxes for several years. What is the priority status of the resulting tax lien?",
+      "correct_answer": "Tax liens take priority over all other liens",
+      "distractors": [
+        "First mortgage has priority over tax liens",
+        "Tax liens rank equally with mechanics' liens",
+        "Judgment liens outrank delinquent tax liens"
+      ],
+      "explanation": "Property tax liens have superior priority over all other liens, including first mortgages, mechanics' liens, and judgment liens. This priority exists because the government's power to tax is paramount. Delinquent taxes can lead to tax foreclosure or tax sale of the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tax-lien", "lien-priority", "delinquent-taxes"]
+    },
+    {
+      "key_topic_ref": "NY-15.3",
+      "question_text": "A homeowner has not paid property taxes for three years. The municipality initiates proceedings to collect the debt. What is the most likely outcome if the homeowner still does not pay?",
+      "correct_answer": "Tax foreclosure or tax sale of the property",
+      "distractors": [
+        "Garnishment of the homeowner's wages only",
+        "Suspension of the homeowner's driver's license",
+        "Reduction of the assessed value to match payments"
+      ],
+      "explanation": "When property taxes remain delinquent, the taxing jurisdiction can pursue tax foreclosure or conduct a tax sale to recover unpaid taxes. The property itself secures the debt through the tax lien, so the government can force a sale to collect what is owed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["tax-foreclosure", "tax-sale", "delinquent-taxes"]
+    }
+  ]
+}

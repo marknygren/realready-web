@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OK-14",
+  "scope": "state",
+  "state": "OK",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OK-14.1",
+      "question_text": "Does Oklahoma law set a maximum amount for residential security deposits?",
+      "correct_answer": "No, there is no statutory maximum",
+      "distractors": ["Yes, 2 months' rent maximum", "Yes, 1 month's rent maximum", "Yes, 3 months' rent maximum"],
+      "explanation": "Oklahoma has no statutory cap on the amount of security deposits. The landlord and tenant negotiate the deposit amount. However, the deposit must be held in a proper escrow account.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "no maximum", "amount"]
+    },
+    {
+      "key_topic_ref": "OK-14.1",
+      "question_text": "Within how many days must an Oklahoma landlord return a security deposit after the lease ends?",
+      "correct_answer": "45 days",
+      "distractors": ["30 days", "21 days", "60 days"],
+      "explanation": "Oklahoma landlords must return the security deposit within 45 days after lease termination. If retaining any portion, an itemized list of damages must be provided.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "return", "45 days"]
+    },
+    {
+      "key_topic_ref": "OK-14.1",
+      "question_text": "Where must an Oklahoma landlord hold a tenant's security deposit?",
+      "correct_answer": "Escrow account at a federally insured bank",
+      "distractors": ["Any personal bank account of the landlord", "A safe kept at the rental property itself", "The landlord's general business account"],
+      "explanation": "Security deposits must be held in an escrow account at a federally insured institution in Oklahoma. This protects tenant funds from commingling with the landlord's operating funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "escrow", "institution"]
+    },
+    {
+      "key_topic_ref": "OK-14.1",
+      "question_text": "A landlord retains $500 of a $1,500 security deposit for repairs. What documentation must accompany the $1,000 refund?",
+      "correct_answer": "An itemized list of damages and costs",
+      "distractors": ["No documentation is required", "A general statement of charges", "Photos of the damage only"],
+      "explanation": "When retaining any portion of the security deposit, the landlord must provide an itemized list of damages and the cost of repairs. This must accompany the refund within 45 days.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "itemized", "damages"]
+    },
+    {
+      "key_topic_ref": "OK-14.1",
+      "question_text": "Must an Oklahoma landlord pay interest on a tenant's security deposit?",
+      "correct_answer": "No, interest is not required",
+      "distractors": ["Yes, at the current market rate", "Yes, at 2% per year", "Only for deposits held over 1 year"],
+      "explanation": "Oklahoma does not require landlords to pay interest on security deposits. The deposit must be held in an escrow account at a federally insured institution, but interest is not mandated.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "interest", "not required"]
+    },
+    {
+      "key_topic_ref": "OK-14.2",
+      "question_text": "A tenant is 5 days behind on rent. What notice must the landlord provide?",
+      "correct_answer": "5-day notice to pay or quit",
+      "distractors": ["3-day notice to pay or quit", "10-day notice to pay or quit", "30-day notice to vacate"],
+      "explanation": "For nonpayment of rent, Oklahoma requires a 5-day notice to pay or quit. If the tenant does not pay within 5 days, the landlord may proceed with eviction.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "nonpayment", "5 days"]
+    },
+    {
+      "key_topic_ref": "OK-14.2",
+      "question_text": "A tenant violates a lease term by having an unauthorized pet. What notice must the landlord provide?",
+      "correct_answer": "15-day notice with 10 days to cure",
+      "distractors": ["5-day notice to pay or vacate", "30-day notice to vacate the property", "Immediate unconditional quit notice"],
+      "explanation": "Under §41-132(B), curable lease violations require a 15-day notice. The tenant has 10 days within that period to cure the violation. If not cured, the lease terminates on day 15.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "curable", "10 days"]
+    },
+    {
+      "key_topic_ref": "OK-14.2",
+      "question_text": "A tenant is operating an illegal drug lab in the rental unit. What notice is required?",
+      "correct_answer": "Immediate unconditional quit notice",
+      "distractors": ["5-day notice to pay or quit", "10-day notice to cure", "30-day notice to vacate"],
+      "explanation": "Serious violations involving illegal activity or danger to others allow for an immediate unconditional quit notice. No cure period is required for such violations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "immediate", "illegal activity"]
+    },
+    {
+      "key_topic_ref": "OK-14.2",
+      "question_text": "A landlord wants to end a month-to-month tenancy. How much notice must they provide?",
+      "correct_answer": "30 days written notice",
+      "distractors": ["15 days written notice", "60 days written notice", "10 days written notice"],
+      "explanation": "Terminating a month-to-month tenancy requires 30 days written notice from either party. This is separate from eviction for cause.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["termination", "month-to-month", "30 days"]
+    },
+    {
+      "key_topic_ref": "OK-14.2",
+      "question_text": "A tenant receives a 15-day notice for a lease violation and fixes the problem on day 8. What happens?",
+      "correct_answer": "The tenant may remain in the property",
+      "distractors": ["Eviction proceeds regardless of cure", "The landlord may shorten the notice period", "The tenant must still pay a penalty fee"],
+      "explanation": "Under §41-132(B), if the tenant cures the violation within the 10-day cure window of the 15-day notice, the lease does not terminate. The tenant may remain.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "cure", "resolved"]
+    },
+    {
+      "key_topic_ref": "OK-14.3",
+      "question_text": "Under Oklahoma law, which of the following is a landlord's duty?",
+      "correct_answer": "Maintain the premises in habitable condition",
+      "distractors": ["Provide free utilities to all tenants", "Allow tenants to make any alterations", "Pay for tenant's renter's insurance"],
+      "explanation": "Oklahoma landlords must maintain premises in habitable condition, comply with building codes, keep common areas clean and safe, and maintain essential building systems.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord duties", "habitability", "maintenance"]
+    },
+    {
+      "key_topic_ref": "OK-14.3",
+      "question_text": "A landlord fails to repair a broken heating system in winter. What remedy is available to the tenant?",
+      "correct_answer": "Give written notice and terminate the lease",
+      "distractors": ["Withhold rent without any notice", "Immediately move out without notice", "Make repairs and deduct from next month's rent"],
+      "explanation": "If the landlord fails to maintain habitability, the tenant may give written notice and terminate the lease. Tenants may not withhold rent unless specific statutory provisions are met.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tenant remedies", "habitability", "termination"]
+    },
+    {
+      "key_topic_ref": "OK-14.3",
+      "question_text": "Is rent control permitted in Oklahoma?",
+      "correct_answer": "No, Oklahoma does not allow rent control",
+      "distractors": ["Yes, cities may enact rent control ordinances", "Only in Oklahoma City and Tulsa", "Only for government-subsidized housing"],
+      "explanation": "Oklahoma does not permit rent control. Landlords may set and increase rents without government price limitations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rent control", "prohibited", "Oklahoma"]
+    },
+    {
+      "key_topic_ref": "OK-14.3",
+      "question_text": "A tenant moves out and leaves behind furniture and personal items. What must the landlord do?",
+      "correct_answer": "Follow statutory procedures before disposal",
+      "distractors": ["Dispose of the items immediately as trash", "Move the items to the curb for pickup", "Keep the items as payment for unpaid rent"],
+      "explanation": "Oklahoma requires landlords to follow statutory procedures for abandoned property, including providing notice before disposing of the tenant's belongings. Immediate disposal is not permitted.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["abandoned property", "procedures", "disposition"]
+    },
+    {
+      "key_topic_ref": "OK-14.3",
+      "question_text": "May an Oklahoma tenant withhold rent if the landlord fails to make repairs?",
+      "correct_answer": "Not unless specific statutory conditions are met",
+      "distractors": ["Yes, for any habitability issue at all", "Yes, after providing a 5-day written notice", "Yes, up to the cost of needed property repairs"],
+      "explanation": "Oklahoma does not generally allow tenants to withhold rent. Specific statutory provisions must be met. The primary remedy is written notice and lease termination, not rent withholding.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tenant remedies", "rent withholding", "limited"]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "standard_ref": "WY-13",
+  "scope": "state",
+  "state": "WY",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WY-13.1",
+      "question_text": "Which foreclosure methods are available in Wyoming?",
+      "correct_answer": "Judicial and non-judicial foreclosure",
+      "distractors": [
+        "Only judicial foreclosure methods",
+        "Only non-judicial foreclosure methods",
+        "Strict foreclosure without any sale"
+      ],
+      "explanation": "Wyoming permits both judicial foreclosure through court proceedings with a sheriff sale, and non-judicial foreclosure using the power of sale clause. The method depends on the terms of the security instrument.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "judicial", "non_judicial", "methods"]
+    },
+    {
+      "key_topic_ref": "WY-13.1",
+      "question_text": "A Wyoming borrower signs a deed of trust with a power of sale clause. If the borrower defaults, the lender will most likely use:",
+      "correct_answer": "Non-judicial foreclosure under the clause",
+      "distractors": [
+        "Judicial foreclosure through district court",
+        "Strict foreclosure without any sale",
+        "A voluntary deed in lieu as required by law"
+      ],
+      "explanation": "When a deed of trust includes a power of sale clause, the lender typically uses non-judicial foreclosure because it is faster and less expensive than going through the court system. Judicial foreclosure is still available but less common when power of sale exists.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["foreclosure", "non_judicial", "power_of_sale", "deed_of_trust"]
+    },
+    {
+      "key_topic_ref": "WY-13.1",
+      "question_text": "Which security instruments does Wyoming recognize for real estate lending?",
+      "correct_answer": "Mortgages and deeds of trust",
+      "distractors": [
+        "Mortgages exclusively",
+        "Deeds of trust exclusively",
+        "Land contracts exclusively"
+      ],
+      "explanation": "Wyoming is a dual-instrument state that recognizes both traditional mortgages and deeds of trust as valid security instruments. The choice of instrument affects which foreclosure process the lender may use.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security_instruments", "mortgage", "deed_of_trust"]
+    },
+    {
+      "key_topic_ref": "WY-13.1",
+      "question_text": "In a Wyoming judicial foreclosure, the property is sold at:",
+      "correct_answer": "A sheriff sale ordered by the court",
+      "distractors": [
+        "A trustee sale without court involvement",
+        "A private auction arranged by the lender",
+        "A sealed-bid sale managed by WREC"
+      ],
+      "explanation": "Judicial foreclosure in Wyoming involves a court proceeding that culminates in a sheriff sale. The court supervises the process and orders the sale. Trustee sales are associated with non-judicial foreclosure, not judicial proceedings.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "judicial", "sheriff_sale"]
+    },
+    {
+      "key_topic_ref": "WY-13.1",
+      "question_text": "A lender holds a mortgage without a power of sale clause on Wyoming property. The borrower defaults. The lender must:",
+      "correct_answer": "Pursue judicial foreclosure through the courts",
+      "distractors": [
+        "Use non-judicial foreclosure procedures",
+        "Request WREC to conduct the sale",
+        "Wait 12 months before taking any action"
+      ],
+      "explanation": "Without a power of sale clause in the mortgage, the lender cannot use non-judicial foreclosure. The lender must file a lawsuit and go through judicial foreclosure, which involves court oversight and a sheriff sale.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["foreclosure", "judicial", "no_power_of_sale", "mortgage"]
+    },
+    {
+      "key_topic_ref": "WY-13.2",
+      "question_text": "What is the statutory redemption period for a residential property after foreclosure sale in Wyoming?",
+      "correct_answer": "3 months from the foreclosure sale",
+      "distractors": [
+        "6 months from the foreclosure sale",
+        "12 months from the foreclosure sale",
+        "No redemption period exists in Wyoming"
+      ],
+      "explanation": "Wyoming provides a 3-month statutory redemption period for residential property following a foreclosure sale. This is shorter than the 12-month period provided for agricultural real estate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["redemption", "residential", "3_months"]
+    },
+    {
+      "key_topic_ref": "WY-13.2",
+      "question_text": "A ranch used for cattle operations is foreclosed in Wyoming. The former owner has how long to redeem the property?",
+      "correct_answer": "12 months from the foreclosure sale",
+      "distractors": [
+        "3 months from the foreclosure sale",
+        "6 months from the foreclosure sale",
+        "No redemption for agricultural property"
+      ],
+      "explanation": "Agricultural real estate in Wyoming has a 12-month redemption period, which is four times longer than the 3-month period for residential property. This extended period reflects the importance of agriculture in Wyoming's economy.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["redemption", "agricultural", "12_months", "ranch"]
+    },
+    {
+      "key_topic_ref": "WY-13.2",
+      "question_text": "During the redemption period after foreclosure, the former homeowner in Wyoming:",
+      "correct_answer": "Retains possession and collects rents",
+      "distractors": [
+        "Must vacate within 10 days of the sale",
+        "May remain but forfeits all rental income",
+        "Shares possession with the purchaser"
+      ],
+      "explanation": "During Wyoming's redemption period, the borrower retains possession of the property and is entitled to any rents and profits generated by it. The foreclosure purchaser does not take possession until the redemption period expires without redemption.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["redemption", "possession", "rents", "profits"]
+    },
+    {
+      "key_topic_ref": "WY-13.2",
+      "question_text": "A home sells at foreclosure on April 1. The former owner wants to redeem. The deadline to exercise redemption is:",
+      "correct_answer": "July 1, three months after the sale",
+      "distractors": [
+        "October 1, six months after the sale",
+        "April 1 of the following year",
+        "May 1, thirty days after the sale"
+      ],
+      "explanation": "For residential property, Wyoming's 3-month redemption period runs from the date of the foreclosure sale. A sale on April 1 means the owner has until July 1 to redeem by paying the sale price plus costs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["redemption", "residential", "3_months", "deadline"]
+    },
+    {
+      "key_topic_ref": "WY-13.2",
+      "question_text": "A tenant is renting a home that goes through foreclosure in Wyoming. During the 3-month redemption period, who is entitled to the rent payments?",
+      "correct_answer": "The former owner who retains possession rights",
+      "distractors": [
+        "The foreclosure sale purchaser",
+        "The county clerk holds rent in escrow",
+        "The lender who initiated foreclosure"
+      ],
+      "explanation": "During the redemption period, the former owner retains possession and is entitled to rents and profits from the property. The foreclosure purchaser's rights do not attach until the redemption period expires without the owner exercising redemption.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["redemption", "rents", "tenant", "possession"]
+    },
+    {
+      "key_topic_ref": "WY-13.3",
+      "question_text": "A Wyoming home sells at foreclosure for $180,000, but the borrower owed $220,000. Can the lender recover the $40,000 difference?",
+      "correct_answer": "Yes, deficiency judgments are permitted",
+      "distractors": [
+        "No, Wyoming prohibits deficiency judgments",
+        "Only if the property is agricultural land",
+        "Only through non-judicial foreclosure"
+      ],
+      "explanation": "Wyoming permits deficiency judgments, allowing the lender to seek the difference between the sale price and the outstanding debt. The lender would need to obtain a court judgment for the $40,000 deficiency.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deficiency_judgment", "permitted", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "WY-13.3",
+      "question_text": "After a non-judicial foreclosure in Wyoming, the lender discovers the sale price was $50,000 less than the debt. The lender wants to pursue the borrower for the shortfall. This action is:",
+      "correct_answer": "Permitted as a deficiency judgment claim",
+      "distractors": [
+        "Prohibited after non-judicial foreclosure only",
+        "Barred unless the borrower committed fraud",
+        "Limited to commercial properties"
+      ],
+      "explanation": "Wyoming allows deficiency judgments regardless of whether the foreclosure was judicial or non-judicial. The lender may pursue the borrower in court for the shortfall between the sale price and the remaining loan balance.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deficiency_judgment", "non_judicial", "shortfall"]
+    },
+    {
+      "key_topic_ref": "WY-13.3",
+      "question_text": "Which statement about deficiency judgments in Wyoming is accurate?",
+      "correct_answer": "Lenders may seek them when sale proceeds fall short",
+      "distractors": [
+        "They are limited to $10,000 maximum",
+        "They are only available for commercial loans",
+        "They require WREC approval before filing"
+      ],
+      "explanation": "In Wyoming, lenders can pursue a deficiency judgment when the foreclosure sale price is less than the total debt owed. There is no statutory cap limiting the deficiency amount, no restriction to commercial loans, and WREC has no role in the process.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deficiency_judgment", "lender_rights", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "WY-13.3",
+      "question_text": "A borrower facing foreclosure in Wyoming asks their agent whether they could still owe money after losing the home. The agent should explain that:",
+      "correct_answer": "The lender can sue for any remaining balance",
+      "distractors": [
+        "Foreclosure eliminates all personal liability",
+        "Liability ends once the redemption period passes",
+        "Only the original down payment can be recovered"
+      ],
+      "explanation": "Because Wyoming permits deficiency judgments, the borrower may still be personally liable for any amount the foreclosure sale does not cover. Foreclosure does not automatically eliminate the borrower's personal obligation on the debt.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deficiency_judgment", "personal_liability", "borrower"]
+    },
+    {
+      "key_topic_ref": "WY-13.3",
+      "question_text": "A Wyoming property sells at foreclosure for $250,000 on a $300,000 loan. What is the deficiency amount the lender may pursue?",
+      "correct_answer": "$50,000 plus applicable costs",
+      "distractors": [
+        "$0 because foreclosure cancels the debt",
+        "$300,000 for the full loan balance",
+        "$250,000 which is the sale price"
+      ],
+      "explanation": "The deficiency is the difference between the outstanding loan balance and the foreclosure sale price. Here, $300,000 minus $250,000 equals a $50,000 deficiency. Wyoming permits lenders to pursue deficiency judgments for this shortfall plus applicable costs and fees.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deficiency_judgment", "calculation", "foreclosure"]
+    }
+  ]
+}

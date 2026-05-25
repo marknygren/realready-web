@@ -1,0 +1,118 @@
+{
+  "standard_ref": "MT-03",
+  "scope": "state",
+  "state": "MT",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "MT-03.1",
+      "question_text": "In Montana, which licensees must carry errors and omissions insurance?",
+      "correct_answer": "All active licensees",
+      "distractors": ["Only brokers", "Only licensees handling trust funds", "Only salespersons with five or more years"],
+      "explanation": "Under MCA 37-51-325, all active Montana real estate licensees are required to carry errors and omissions insurance. There are no exemptions based on license type or experience level.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O insurance", "mandatory coverage", "active licensees"]
+    },
+    {
+      "key_topic_ref": "MT-03.1",
+      "question_text": "What is the minimum per-claim coverage under Montana's group E&O insurance plan?",
+      "correct_answer": "$100,000",
+      "distractors": ["$50,000", "$250,000", "$500,000"],
+      "explanation": "Montana's group errors and omissions insurance plan provides minimum coverage of $100,000 per claim and $300,000 in aggregate. Independent policies must meet or exceed these minimums.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O insurance", "coverage limits", "per claim"]
+    },
+    {
+      "key_topic_ref": "MT-03.1",
+      "question_text": "A Montana licensee obtains independent E&O coverage with a $75,000 per-claim limit. Does this meet state requirements?",
+      "correct_answer": "No, the minimum is $100,000",
+      "distractors": ["Yes, any E&O policy satisfies it", "Yes, if aggregate exceeds $300,000", "No, independent policies are not allowed"],
+      "explanation": "Independent E&O coverage must meet or exceed the group plan minimums of $100,000 per claim and $300,000 aggregate. A $75,000 per-claim limit falls short of the minimum requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O insurance", "independent coverage", "minimum requirements"]
+    },
+    {
+      "key_topic_ref": "MT-03.1",
+      "question_text": "A Montana licensee wants independent E&O coverage instead of the group plan. What condition must the policy meet?",
+      "correct_answer": "It must meet or exceed group plan minimums",
+      "distractors": ["It must be from a Montana-based insurer", "It must cover intentional fraud claims", "It must include coverage for unlicensed activity"],
+      "explanation": "Independent E&O coverage must meet or exceed the group plan minimums of $100,000 per claim and $300,000 aggregate. Licensees can choose independent coverage as long as it provides at least this level of protection.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O insurance", "independent coverage", "minimum requirements"]
+    },
+    {
+      "key_topic_ref": "MT-03.1",
+      "question_text": "A licensee intentionally misrepresents a property's condition and a buyer sues. Will the E&O policy cover this claim?",
+      "correct_answer": "No, intentional fraud is excluded",
+      "distractors": ["Yes, all claims against licensees qualify", "Yes, if the claim involves condition", "Only if the licensee files a counterclaim"],
+      "explanation": "Montana E&O insurance covers negligent acts, errors, and omissions but explicitly excludes intentional fraud and willful misconduct. The licensee would be personally liable for intentional misrepresentation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O insurance", "fraud exclusion", "coverage limits"]
+    },
+    {
+      "key_topic_ref": "MT-03.2",
+      "question_text": "When must a Montana licensee provide proof of E&O coverage to the Board?",
+      "correct_answer": "At license renewal",
+      "distractors": ["Only when a claim is filed", "Within 90 days of initial licensure", "Every five years during an audit cycle"],
+      "explanation": "Montana licensees must provide proof of current E&O insurance coverage at the time of license renewal. The Board may also verify coverage at any time during the licensing period.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O insurance", "proof of coverage", "renewal"]
+    },
+    {
+      "key_topic_ref": "MT-03.2",
+      "question_text": "A licensee's E&O policy lapses on March 15 and she does not obtain new coverage. What happens to her license?",
+      "correct_answer": "It is automatically inactivated",
+      "distractors": ["Nothing until the next renewal date", "She receives a 60-day grace period", "Her license is permanently revoked"],
+      "explanation": "A lapse in E&O coverage results in automatic inactivation of the Montana real estate license. The licensee cannot practice until valid coverage is reinstated and proof is provided to the Board.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O insurance", "lapse", "automatic inactivation"]
+    },
+    {
+      "key_topic_ref": "MT-03.2",
+      "question_text": "Can the Montana Board of Realty Regulation verify a licensee's E&O coverage outside the renewal period?",
+      "correct_answer": "Yes, the Board can verify anytime",
+      "distractors": ["No, only during the renewal window", "Only after a formal complaint is filed", "Only during scheduled biennial audits"],
+      "explanation": "The Board of Realty Regulation has the authority to verify a licensee's E&O insurance status at any time, not just during renewal. Licensees must maintain continuous coverage throughout their active license period.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O insurance", "Board verification", "compliance"]
+    },
+    {
+      "key_topic_ref": "MT-03.2",
+      "question_text": "Under Montana law, a licensee who knowingly allows E&O coverage to lapse has committed what?",
+      "correct_answer": "A violation of license law",
+      "distractors": ["A civil tort only", "No offense if no claims arise", "A federal insurance violation"],
+      "explanation": "Allowing E&O insurance to lapse is a violation of Montana real estate license law under MCA 37-51-325. The Board may take disciplinary action in addition to the automatic license inactivation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O insurance", "lapse", "violation"]
+    },
+    {
+      "key_topic_ref": "MT-03.2",
+      "question_text": "A Montana broker's E&O policy lapsed last month. She wants to resume practicing. What must she do first?",
+      "correct_answer": "Obtain valid coverage and notify Board",
+      "distractors": ["Wait until the next renewal cycle", "Pay a reinstatement fine of $500", "Complete eight hours of continuing education"],
+      "explanation": "To reactivate a license inactivated due to E&O lapse, the licensee must obtain valid E&O coverage meeting minimum requirements and provide proof to the Board before resuming any real estate activity.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O insurance", "reinstatement", "compliance"]
+    }
+  ]
+}

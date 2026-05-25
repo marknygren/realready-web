@@ -1,0 +1,308 @@
+{
+  "standard_ref": "CA-13",
+  "scope": "state",
+  "state": "CA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CA-13.1",
+      "question_text": "A buyer's lender requires the escrow holder to be licensed. Which agency licenses independent escrow companies in California?",
+      "correct_answer": "California Department of Financial Protection and Innovation",
+      "distractors": [
+        "California Department of Real Estate",
+        "California Department of Insurance",
+        "California Bureau of Real Estate Appraisers"
+      ],
+      "explanation": "Independent escrow companies in California are licensed by the Department of Financial Protection and Innovation (DFPI). The DRE licenses real estate brokers, who may conduct non-independent escrow.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "escrow",
+        "licensing",
+        "DFPI",
+        "independent-escrow"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.1",
+      "question_text": "During an escrow, the seller's lender payoff arrives but the buyer's loan funds have not yet been received. The escrow officer wants to close anyway. Which rule applies?",
+      "correct_answer": "No disbursement is permitted until all conditions are met",
+      "distractors": [
+        "Escrow may close once the seller's side is complete",
+        "The escrow officer can use seller proceeds to bridge the gap",
+        "A 24-hour grace period is allowed by DFPI regulations"
+      ],
+      "explanation": "Escrow instructions are binding, and the neutral third party may not disburse funds until all conditions are satisfied. Closing before buyer funds arrive would breach the escrow officer's fiduciary duty.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "escrow",
+        "disbursement",
+        "fiduciary",
+        "closing"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.1",
+      "question_text": "A real estate attorney in California wants to handle escrow for her client's transaction without an independent escrow license. Is this permitted?",
+      "correct_answer": "Yes, attorneys are exempt from independent escrow licensing",
+      "distractors": [
+        "No, all escrow must be handled by DFPI-licensed companies",
+        "Yes, but only for commercial transactions over $1 million",
+        "No, only licensed brokers may conduct non-independent escrow"
+      ],
+      "explanation": "California law exempts attorneys, licensed brokers, and title companies from the independent escrow licensing requirement when acting in their professional capacity. These are classified as non-independent escrow holders.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "escrow",
+        "non-independent",
+        "attorney",
+        "exemption"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.1",
+      "question_text": "After escrow closes, the buyer discovers the seller signed conflicting escrow instructions that were never disclosed. Which characteristic of escrow instructions is most relevant?",
+      "correct_answer": "Instructions are binding on all parties once signed",
+      "distractors": [
+        "Instructions are suggestions until title transfers",
+        "Only the escrow officer's version of instructions controls",
+        "Conflicting instructions automatically void the transaction"
+      ],
+      "explanation": "Escrow instructions are legally binding contracts once signed. Conflicting or fraudulent instructions are a breach of those obligations. The escrow officer serves as a neutral fiduciary to both parties.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "escrow",
+        "instructions",
+        "fiduciary",
+        "binding"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.1",
+      "question_text": "An escrow officer receives the buyer's loan funds and all signed documents. She confirms no contingencies remain open. What is her next proper step?",
+      "correct_answer": "Disburse funds and authorize recording of documents",
+      "distractors": [
+        "Wait 3 business days before disbursing funds",
+        "Request seller confirmation before closing",
+        "Notify the DRE that escrow is ready to close"
+      ],
+      "explanation": "Once all conditions in the escrow instructions are satisfied, the escrow officer may disburse funds and authorize recording. There is no mandatory waiting period once all conditions are met.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "escrow",
+        "closing",
+        "disbursement",
+        "recording"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.2",
+      "question_text": "A lender in Southern California orders a title report for a refinance. The lender will likely require which type of title insurance policy?",
+      "correct_answer": "ALTA extended coverage policy",
+      "distractors": [
+        "CLTA standard coverage policy",
+        "Joint protection policy",
+        "Preliminary title report only"
+      ],
+      "explanation": "Lenders require ALTA extended coverage, which protects against unrecorded claims, survey issues, and rights of parties in possession — risks not covered by the CLTA standard policy issued to buyers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "title-insurance",
+        "ALTA",
+        "lender",
+        "coverage"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.2",
+      "question_text": "A buyer purchasing in San Francisco asks her agent who typically pays for the owner's title insurance policy. Which regional custom applies in Northern California?",
+      "correct_answer": "Buyer pays for her own CLTA policy",
+      "distractors": [
+        "Seller pays for the buyer's CLTA policy",
+        "Lender pays because it benefits from title protection",
+        "Cost is always split 50/50 between buyer and seller"
+      ],
+      "explanation": "In Northern California, custom is for the buyer to pay for the owner's title insurance policy (CLTA). In Southern California, the seller typically pays. These are customs, not laws, and can be negotiated.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "title-insurance",
+        "CLTA",
+        "regional-custom",
+        "NorCal"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.2",
+      "question_text": "A title search reveals a gap in the chain of title from 1952. A CLTA standard policy is issued. Which risk is NOT covered by this policy?",
+      "correct_answer": "Rights of a tenant in possession not shown in records",
+      "distractors": [
+        "Recorded liens from prior owners",
+        "Encumbrances appearing in public records",
+        "Forged deed recorded in the county records"
+      ],
+      "explanation": "CLTA standard coverage protects against defects in recorded public records. It does not cover unrecorded claims such as rights of parties in possession — that protection is provided only by ALTA extended coverage.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "title-insurance",
+        "CLTA",
+        "coverage",
+        "unrecorded-claims"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.2",
+      "question_text": "A title company issues a preliminary title report two weeks before closing. What is the primary purpose of this report?",
+      "correct_answer": "It discloses the condition of title before insurance is issued",
+      "distractors": [
+        "It insures title from the date of issuance",
+        "It replaces the need for a full title insurance policy",
+        "It establishes the legal description for the grant deed"
+      ],
+      "explanation": "A preliminary title report (prelim) discloses the current state of title — including liens, easements, and exceptions — before the title insurance policy is issued. It is not itself an insurance policy.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "title-insurance",
+        "preliminary-report",
+        "closing",
+        "disclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.2",
+      "question_text": "ALTA extended title insurance differs from CLTA standard coverage primarily because ALTA also covers which risk?",
+      "correct_answer": "Unrecorded easements and survey discrepancies",
+      "distractors": [
+        "Forged documents in public records",
+        "Recorded judgment liens against the seller",
+        "Unpaid property taxes shown in county records"
+      ],
+      "explanation": "ALTA extended coverage adds protection for unrecorded claims, survey issues, and rights of parties in possession that cannot be found in public records. Both policies cover recorded defects, liens, and encumbrances.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "title-insurance",
+        "ALTA",
+        "CLTA",
+        "unrecorded-claims"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.3",
+      "question_text": "A California seller uses a grant deed to convey property. What implied warranties does the grant deed automatically provide?",
+      "correct_answer": "The grantor has not previously conveyed the property and discloses no undisclosed encumbrances",
+      "distractors": [
+        "The grantor owns the property free of all liens",
+        "The grantor warrants title against all future claims",
+        "The property has no physical defects and meets all building codes"
+      ],
+      "explanation": "California's grant deed carries two implied warranties by statute: (1) the grantor has not previously conveyed the same property to another, and (2) the property is free from encumbrances made by the grantor that are not disclosed.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "grant-deed",
+        "implied-warranties",
+        "deed",
+        "conveyance"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.3",
+      "question_text": "A divorcing spouse wants to release any interest she may have in a property without making any guarantees about title. Which deed is most appropriate?",
+      "correct_answer": "Quitclaim deed",
+      "distractors": [
+        "Grant deed",
+        "Warranty deed",
+        "Sheriff's deed"
+      ],
+      "explanation": "A quitclaim deed conveys whatever interest the grantor has, if any, with no warranties whatsoever. It is commonly used to clear title disputes, dissolve co-ownership, or release marital interests.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "quitclaim-deed",
+        "deed",
+        "divorce",
+        "no-warranty"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.3",
+      "question_text": "A property in Los Angeles sells for $650,000. What is the documentary transfer tax owed to the county at $1.10 per $1,000 of value?",
+      "correct_answer": "$715.00",
+      "distractors": [
+        "$357.50",
+        "$650.00",
+        "$1,430.00"
+      ],
+      "explanation": "$650,000 ÷ $1,000 = 650 units × $1.10 = $715.00. California charges $1.10 per $1,000 of consideration (equivalent to $0.55 per $500). Cities may levy an additional city transfer tax on top of this amount.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "transfer-tax",
+        "documentary-transfer-tax",
+        "deed",
+        "calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.3",
+      "question_text": "A parent transfers a home into a revocable living trust for estate planning purposes. Is documentary transfer tax owed on this transfer?",
+      "correct_answer": "No, transfers into revocable trusts are exempt",
+      "distractors": [
+        "Yes, all deed recordings trigger transfer tax",
+        "Yes, but at a reduced rate of $0.55 per $1,000",
+        "Only if the property's assessed value exceeds $1 million"
+      ],
+      "explanation": "California Revenue and Taxation Code exempts certain transfers from documentary transfer tax, including transfers into a revocable living trust where the transferor retains beneficial interest. Spouse transfers and foreclosure deeds also qualify for exemptions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "transfer-tax",
+        "exemption",
+        "living-trust",
+        "deed"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-13.3",
+      "question_text": "Two deeds are recorded on the same day for the same property. A deed recorded at 9:00 AM and a second deed recorded at 2:00 PM — which controls priority?",
+      "correct_answer": "The deed recorded first in time controls priority",
+      "distractors": [
+        "The deed with the earlier execution date controls",
+        "Both deeds are equally valid and split interest",
+        "The county recorder must void the later deed"
+      ],
+      "explanation": "California's recording system establishes priority by the order of recording. The deed recorded first — 9:00 AM — establishes priority over the later recording, regardless of when each deed was signed or executed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "recording",
+        "priority",
+        "deed",
+        "race-notice"
+      ]
+    }
+  ]
+}

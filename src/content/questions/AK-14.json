@@ -1,0 +1,195 @@
+{
+  "standard_ref": "AK-14",
+  "scope": "state",
+  "state": "AK",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AK-14.1",
+      "question_text": "In Alaska, is a real estate license required to manage property for others for compensation?",
+      "correct_answer": "Yes, a real estate license is required",
+      "distractors": ["No, property management is unregulated", "Only if managing more than 10 units", "Only a property management certification is needed"],
+      "explanation": "Alaska requires a real estate license for managing property for others for compensation. Property management activities — including marketing, tenant screening, rent collection, and maintenance oversight — require licensure under a supervising broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "license", "required"]
+    },
+    {
+      "key_topic_ref": "AK-14.1",
+      "question_text": "A licensed property manager in Alaska must operate under whose supervision?",
+      "correct_answer": "A licensed broker",
+      "distractors": ["The property owner directly", "AREC's property management division", "Any senior salesperson in the office"],
+      "explanation": "Property managers must operate under a licensed broker, just like all other real estate licensees in Alaska. The broker provides supervision and ensures compliance with real estate law and trust account requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "supervision", "broker"]
+    },
+    {
+      "key_topic_ref": "AK-14.1",
+      "question_text": "Which of the following is a property management activity requiring a real estate license in Alaska?",
+      "correct_answer": "Screening tenants and negotiating lease terms",
+      "distractors": ["Performing plumbing repairs on the property", "Mowing the lawn and maintaining landscaping", "Installing a new HVAC system"],
+      "explanation": "Tenant screening and lease negotiation are property management activities requiring a real estate license. Physical maintenance tasks like repairs, landscaping, and HVAC installation do not require a real estate license — they require trade skills.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "activities", "license required"]
+    },
+    {
+      "key_topic_ref": "AK-14.1",
+      "question_text": "A property manager collects $5,000 in rent from tenants in a managed building. Where should these funds be deposited?",
+      "correct_answer": "In the broker's trust account",
+      "distractors": ["In the property manager's personal account", "Directly into the property owner's account", "In the brokerage's operating account"],
+      "explanation": "All funds collected by a property manager — rents, security deposits, maintenance funds — must be deposited into the broker's trust account. The property manager must account for all funds collected and provide financial reports to the owner.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "trust account", "rents"]
+    },
+    {
+      "key_topic_ref": "AK-14.1",
+      "question_text": "A property management company prepares monthly financial statements for a property owner. This is an example of which PM duty?",
+      "correct_answer": "Accounting and financial reporting",
+      "distractors": ["Marketing and leasing", "Tenant screening and selection", "Maintenance oversight and repairs"],
+      "explanation": "Preparing financial reports for the property owner is part of the accounting and financial reporting duty. Property managers must maintain accurate records of all income and expenses and provide regular statements to the owner.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "accounting", "financial reports"]
+    },
+    {
+      "key_topic_ref": "AK-14.2",
+      "question_text": "An Alaska tenant pays first month's rent and a security deposit. Is there a statutory cap on the security deposit amount?",
+      "correct_answer": "No, Alaska has no statutory cap on security deposits",
+      "distractors": ["Yes, the cap is one month's rent", "Yes, the cap is two months' rent", "Yes, the cap is $2,000 regardless of rent amount"],
+      "explanation": "Alaska is one of the states that does not have a statutory cap on security deposit amounts. However, in practice, deposits are typically 1-2 months' rent. Landlords must still follow the rules for returning deposits within the required timeframes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "security deposit", "no cap"]
+    },
+    {
+      "key_topic_ref": "AK-14.2",
+      "question_text": "A month-to-month tenant in Alaska gives proper written notice to terminate the tenancy. Within how many days must the landlord return the security deposit?",
+      "correct_answer": "14 days",
+      "distractors": ["30 days", "21 days", "7 days"],
+      "explanation": "When a tenant gives proper notice for tenancies over week-to-week, the landlord must return the security deposit within 14 days. If the tenant did not give proper notice, the timeframe extends to 30 days. An itemized statement of any deductions is required.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "security deposit", "14 days"]
+    },
+    {
+      "key_topic_ref": "AK-14.2",
+      "question_text": "A tenant abandons an Alaska apartment without giving notice. How long does the landlord have to return the deposit?",
+      "correct_answer": "30 days",
+      "distractors": ["14 days", "45 days", "60 days"],
+      "explanation": "When a tenant does not give proper notice, the landlord has 30 days to return the security deposit. This is longer than the 14-day period for tenants who provide proper notice. The landlord must still provide an itemized statement of deductions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["landlord-tenant", "security deposit", "30 days"]
+    },
+    {
+      "key_topic_ref": "AK-14.2",
+      "question_text": "A tenant fails to pay rent in Alaska. What type of notice must the landlord provide?",
+      "correct_answer": "A 7-day notice to pay or quit",
+      "distractors": ["A 3-day notice to pay or quit", "A 14-day notice to pay or quit", "A 30-day notice to vacate"],
+      "explanation": "For non-payment of rent, Alaska requires a 7-day notice to pay or quit. This gives the tenant 7 days to either pay the overdue rent or vacate the premises. Other violation types have different notice periods.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "eviction", "nonpayment"]
+    },
+    {
+      "key_topic_ref": "AK-14.2",
+      "question_text": "A tenant causes $500 in damage to an Alaska rental unit. What notice period applies for this type of violation?",
+      "correct_answer": "24 hours to 5 days notice to quit",
+      "distractors": ["7-day notice to pay or quit", "10-day notice to cure or quit", "30-day notice to vacate"],
+      "explanation": "For substantial damage (over $400) or illegal activity, the landlord may give 24 hours to 5 days notice to quit. This shorter notice period reflects the severity of the violation. The $400 threshold distinguishes substantial damage from minor lease violations.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["landlord-tenant", "eviction", "substantial damage"]
+    },
+    {
+      "key_topic_ref": "AK-14.2",
+      "question_text": "A tenant violates a lease provision (not involving damage or non-payment). What notice must the Alaska landlord provide?",
+      "correct_answer": "A 10-day notice to cure or quit",
+      "distractors": ["A 7-day notice to pay or quit", "A 5-day notice to vacate", "A 30-day notice to terminate"],
+      "explanation": "For general lease violations (not involving non-payment or substantial damage), the landlord must give a 10-day notice to cure or quit. This gives the tenant 10 days to either correct the violation or vacate the premises.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "eviction", "lease violation"]
+    },
+    {
+      "key_topic_ref": "AK-14.2",
+      "question_text": "Either party to an Alaska month-to-month tenancy wants to terminate the arrangement. How much notice is required?",
+      "correct_answer": "30 days written notice",
+      "distractors": ["14 days written notice", "60 days written notice", "7 days written notice"],
+      "explanation": "Either the landlord or the tenant may terminate a month-to-month tenancy with 30 days written notice. This applies regardless of which party initiates the termination. The notice must be in writing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "month-to-month", "30-day notice"]
+    },
+    {
+      "key_topic_ref": "AK-14.3",
+      "question_text": "Under Alaska's URLTA, what is a landlord required to provide to tenants?",
+      "correct_answer": "Running water, heat, and hot water",
+      "distractors": ["Furnished living spaces and appliances", "Cable television and internet service", "Air conditioning and covered parking"],
+      "explanation": "Alaska landlords must maintain premises in habitable condition, which includes providing running water, heat, and hot water. They must also comply with building codes, make necessary repairs, and maintain common areas. Furnishings and luxury amenities are not required.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "habitability", "landlord duties"]
+    },
+    {
+      "key_topic_ref": "AK-14.3",
+      "question_text": "An Alaska tenant notifies the landlord of a broken furnace in January. The landlord ignores the request for two weeks. What remedy is available to the tenant?",
+      "correct_answer": "The tenant may repair and deduct the cost from rent",
+      "distractors": ["The tenant must continue paying full rent and wait", "The tenant must hire a licensed contractor approved by the landlord", "The tenant may only withhold rent if they move out"],
+      "explanation": "Alaska tenants have the right to repair and deduct for minor repairs after giving notice to the landlord. If the landlord fails to maintain habitability (heat is essential, especially in Alaska winters), the tenant can arrange the repair and deduct the reasonable cost from rent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["landlord-tenant", "repair and deduct", "tenant remedy"]
+    },
+    {
+      "key_topic_ref": "AK-14.3",
+      "question_text": "An Alaska rental property has extensive mold making it uninhabitable. What can the tenant do?",
+      "correct_answer": "Terminate the lease for material noncompliance",
+      "distractors": ["Continue living there and file a claim later", "Withhold all rent but remain in the property indefinitely", "Only report it to the local health department"],
+      "explanation": "When a property is uninhabitable due to the landlord's material noncompliance, the tenant may terminate the lease. Alaska tenants have multiple remedies: repair and deduct, rent withholding, or lease termination for material noncompliance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["landlord-tenant", "lease termination", "uninhabitable"]
+    },
+    {
+      "key_topic_ref": "AK-14.3",
+      "question_text": "An Alaska landlord fails to comply with building codes and refuses to make repairs. What tenant remedy allows rent to be withheld?",
+      "correct_answer": "Withholding rent for uninhabitable conditions",
+      "distractors": ["Withholding rent for any lease disagreement", "Withholding rent only after a court order", "Withholding rent regardless of the landlord's actions"],
+      "explanation": "Tenants may withhold rent when the landlord fails to maintain the property in habitable condition — a right tied to the landlord's obligation to comply with building and housing codes. This remedy does not apply to minor disputes or issues unrelated to habitability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["landlord-tenant", "rent withholding", "habitability"]
+    },
+    {
+      "key_topic_ref": "AK-14.3",
+      "question_text": "Under Alaska's URLTA, which of the following is a landlord obligation for common areas?",
+      "correct_answer": "Maintaining common areas in a safe condition",
+      "distractors": ["Providing security guards in all common areas", "Installing surveillance cameras in all hallways", "Allowing tenants to use any common area at any time"],
+      "explanation": "Landlords must maintain common areas in a clean and safe condition as part of their habitability obligations under URLTA. This does not require security personnel or cameras, but does require reasonable upkeep and safety maintenance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "common areas", "landlord duties"]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "standard_ref": "IA-11",
+  "scope": "state",
+  "state": "IA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IA-11.1",
+      "question_text": "In an Iowa contract for deed, who holds legal title during the payment period?",
+      "correct_answer": "The seller retains legal title",
+      "distractors": ["The buyer holds legal title", "Title is held in escrow", "The county recorder holds title"],
+      "explanation": "Under an Iowa contract for deed, the seller retains legal title to the property until the buyer completes all payments. The buyer receives equitable title and possession, but legal title does not transfer until the contract is fulfilled.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contract for deed", "legal title", "seller financing"]
+    },
+    {
+      "key_topic_ref": "IA-11.1",
+      "question_text": "A buyer purchases a farm under a contract for deed but does not record it. What risk does the buyer face?",
+      "correct_answer": "A later buyer could claim superior title",
+      "distractors": ["The contract becomes automatically void", "The seller cannot enforce the contract terms", "The buyer loses possession of the property"],
+      "explanation": "Recording a contract for deed protects the buyer's equitable interest by providing constructive notice. Without recording, a subsequent good-faith purchaser could potentially claim superior title under Iowa's race-notice recording statute.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recording", "contract for deed", "buyer protection"]
+    },
+    {
+      "key_topic_ref": "IA-11.1",
+      "question_text": "A contract-for-deed buyer makes all payments and fulfills all terms. What must the seller provide?",
+      "correct_answer": "A deed transferring legal title",
+      "distractors": ["A release of mortgage lien", "A certificate of occupancy", "An abstract of title only"],
+      "explanation": "Upon full payment under a contract for deed, the seller is obligated to deliver a deed transferring legal title to the buyer. This is the fundamental promise in a contract for deed: the buyer pays the full price, and the seller conveys legal ownership.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contract for deed", "deed delivery", "completion"]
+    },
+    {
+      "key_topic_ref": "IA-11.1",
+      "question_text": "A seller agrees to finance a property sale using a contract for deed. What does the buyer receive at execution?",
+      "correct_answer": "Equitable title and possession",
+      "distractors": ["Legal title and possession", "A deed and mortgage", "Only a lease with option to buy"],
+      "explanation": "In a contract for deed, the buyer receives equitable title and the right to possess the property at the time of execution. Legal title remains with the seller as security until the purchase price is paid in full, at which point the seller delivers a deed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["equitable title", "possession", "contract for deed"]
+    },
+    {
+      "key_topic_ref": "IA-11.1",
+      "question_text": "Why should a buyer record a contract for deed with the county recorder in Iowa?",
+      "correct_answer": "To protect the buyer's interest with public notice",
+      "distractors": ["Recording is required for the contract to be valid", "To transfer legal title to the buyer", "The seller cannot sell without it recorded"],
+      "explanation": "Recording a contract for deed provides constructive notice of the buyer's equitable interest to the public. While the contract is valid between parties without recording, recording protects the buyer against subsequent claims by third parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recording", "constructive notice", "buyer protection"]
+    },
+    {
+      "key_topic_ref": "IA-11.2",
+      "question_text": "Under Iowa law, what is the minimum notice period a seller must give before forfeiture of a contract for deed?",
+      "correct_answer": "30 days",
+      "distractors": ["10 days", "60 days", "90 days"],
+      "explanation": "Iowa Code Chapter 656 requires the seller to provide a minimum 30-day notice of forfeiture for contracts for deed that fall under specific thresholds. This notice gives the buyer an opportunity to cure the default before losing their interest in the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["forfeiture", "notice period", "30 days"]
+    },
+    {
+      "key_topic_ref": "IA-11.2",
+      "question_text": "A buyer under an Iowa contract for deed misses two monthly payments. The seller serves a forfeiture notice. What right does the buyer have?",
+      "correct_answer": "Right to cure default during notice period",
+      "distractors": ["No rights once the notice is properly served", "Right to extend payments by an additional year", "Right to demand a completely new contract"],
+      "explanation": "After receiving a forfeiture notice, the Iowa buyer has the right to cure the default by making all past-due payments plus costs during the notice period. If the buyer cures within the statutory timeframe, the contract remains in effect.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["right to cure", "forfeiture", "default"]
+    },
+    {
+      "key_topic_ref": "IA-11.2",
+      "question_text": "How does forfeiture of a contract for deed differ from foreclosure in Iowa?",
+      "correct_answer": "Forfeiture is faster with no court action needed",
+      "distractors": ["Forfeiture requires a full court proceeding first", "Foreclosure is always faster than forfeiture process", "There is no practical difference between the two"],
+      "explanation": "Forfeiture of a contract for deed is generally faster than foreclosure because it does not require filing a lawsuit or obtaining a court judgment in many cases. Foreclosure involves a judicial process with potentially longer timelines and greater costs.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["forfeiture", "foreclosure", "comparison"]
+    },
+    {
+      "key_topic_ref": "IA-11.2",
+      "question_text": "A contract-for-deed buyer in Iowa receives a 30-day forfeiture notice and pays all amounts owed on day 25. What is the result?",
+      "correct_answer": "The contract is reinstated in full",
+      "distractors": ["The forfeiture still proceeds as scheduled", "The buyer must renegotiate all contract terms", "The seller may reject the payment and proceed"],
+      "explanation": "When the buyer cures the default within the statutory notice period by paying all amounts owed plus applicable costs, the contract for deed is reinstated. The seller cannot proceed with forfeiture once the buyer has properly cured.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["cure", "reinstatement", "forfeiture"]
+    },
+    {
+      "key_topic_ref": "IA-11.2",
+      "question_text": "When might an Iowa seller be required to use foreclosure instead of forfeiture on a contract for deed?",
+      "correct_answer": "When buyer equity exceeds statutory thresholds",
+      "distractors": ["Whenever the buyer formally requests foreclosure", "Only for transactions involving commercial property", "When the contract term is less than one full year"],
+      "explanation": "Iowa law may require the seller to use foreclosure rather than forfeiture when the buyer has built up substantial equity in the property, exceeding thresholds set in the statute. This protects buyers who have made significant payments from losing their investment through the faster forfeiture process.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["forfeiture", "foreclosure", "equity threshold"]
+    }
+  ]
+}

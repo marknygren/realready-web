@@ -1,0 +1,308 @@
+{
+  "standard_ref": "LA-16",
+  "scope": "state",
+  "state": "LA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "LA-16.1",
+      "question_text": "What form is required for a valid sale of an immovable in Louisiana?",
+      "correct_answer": "Authentic act or act under private signature",
+      "distractors": [
+        "Any written agreement signed by both parties",
+        "An oral agreement before two witnesses",
+        "A notarized act without acknowledgment"
+      ],
+      "explanation": "Louisiana law requires that a sale of an immovable be made by authentic act or by act under private signature that is duly acknowledged. The act must be recorded in the parish conveyance records to affect third parties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sale_of_immovables", "authentic_act", "formalities"]
+    },
+    {
+      "key_topic_ref": "LA-16.1",
+      "question_text": "In Louisiana, when does ownership of an immovable transfer between buyer and seller?",
+      "correct_answer": "When the parties agree on the thing and price",
+      "distractors": [
+        "When the deed is physically delivered",
+        "When the act is recorded in the parish",
+        "When the buyer takes physical possession"
+      ],
+      "explanation": "Under Louisiana civil law, ownership of an immovable transfers between the parties upon agreement as to the thing and the price. This differs from common law, where delivery of the deed typically transfers title. Recording is required only to affect third parties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sale_of_immovables", "transfer_of_ownership", "civil_law"]
+    },
+    {
+      "key_topic_ref": "LA-16.1",
+      "question_text": "A seller sells an immovable knowing it has hidden foundation damage but does not disclose. Six months later, the buyer discovers the defect. What remedy is available?",
+      "correct_answer": "Redhibition action against the seller",
+      "distractors": [
+        "No remedy because the sale is final",
+        "Only a claim for price reduction from the parish",
+        "A negligence suit against the home inspector"
+      ],
+      "explanation": "Louisiana's redhibition warranty protects buyers against hidden defects. The buyer may bring a redhibition action within 1 year of discovery of the defect (and within 4 years of the sale for residential property). A seller who knew of the defect cannot contractually waive this warranty.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["redhibition", "hidden_defects", "warranty"]
+    },
+    {
+      "key_topic_ref": "LA-16.1",
+      "question_text": "What is the prescriptive period for a redhibition claim on a residential immovable in Louisiana?",
+      "correct_answer": "1 year from discovery, 4-year maximum",
+      "distractors": [
+        "6 months from discovery, 2-year maximum",
+        "2 years from the date of sale",
+        "3 years from discovery, 5-year maximum"
+      ],
+      "explanation": "For residential immovable property, a redhibition action must be brought within 1 year of discovery of the defect but no later than 4 years from the date of sale. A seller who knew of the defect cannot limit or waive the warranty.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["redhibition", "prescriptive_period", "residential"]
+    },
+    {
+      "key_topic_ref": "LA-16.1",
+      "question_text": "A seller sells an immovable for $80,000 when its fair market value is $200,000. The buyer paid in good faith. What doctrine might the seller invoke?",
+      "correct_answer": "Lesion beyond moiety",
+      "distractors": [
+        "Redhibition for hidden defects",
+        "Revocatory action for fraud",
+        "Nullity for lack of consent"
+      ],
+      "explanation": "Lesion beyond moiety allows a seller of an immovable to rescind the sale if the price is less than one-half of the fair market value at the time of sale. Here, $80,000 is less than half of $200,000, so the seller may seek rescission.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["lesion_beyond_moiety", "fair_market_value", "rescission"]
+    },
+    {
+      "key_topic_ref": "LA-16.2",
+      "question_text": "In a bond for deed contract, who retains title to the immovable?",
+      "correct_answer": "The seller until full payment",
+      "distractors": [
+        "The buyer from the date of the contract",
+        "A neutral escrow agent",
+        "The parish clerk of court"
+      ],
+      "explanation": "A bond for deed is an installment sale contract where the seller retains title to the immovable until the buyer completes all required payments. The buyer receives possession and the right to use the property during the contract term.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["bond_for_deed", "title_retention", "installment"]
+    },
+    {
+      "key_topic_ref": "LA-16.2",
+      "question_text": "A buyer under a bond for deed contract misses two payments. What right does Louisiana law provide the buyer?",
+      "correct_answer": "A right to cure the default",
+      "distractors": [
+        "Automatic forfeiture of all payments made",
+        "Immediate transfer of title to the seller",
+        "A right to renegotiate the purchase price"
+      ],
+      "explanation": "Louisiana law protects bond for deed buyers by providing a right to cure a default before the seller can cancel the contract. The seller must give proper notice, and the buyer has an opportunity to bring payments current.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["bond_for_deed", "default", "right_to_cure"]
+    },
+    {
+      "key_topic_ref": "LA-16.2",
+      "question_text": "What happens to a mineral servitude in Louisiana after 10 years of nonuse?",
+      "correct_answer": "It prescribes and reverts to the landowner",
+      "distractors": [
+        "It automatically renews for 10 more years",
+        "It converts to a mineral royalty",
+        "It remains valid indefinitely"
+      ],
+      "explanation": "A mineral servitude in Louisiana prescribes (expires) after 10 years of nonuse. If no drilling, mining, or production occurs within that period, the mineral rights revert to the landowner. This is a distinctive feature of Louisiana mineral law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mineral_rights", "servitude", "prescription"]
+    },
+    {
+      "key_topic_ref": "LA-16.2",
+      "question_text": "An unrecorded bond for deed contract exists between a seller and buyer. The seller then sells the immovable to a third party who records. Who prevails?",
+      "correct_answer": "The third party who recorded the sale",
+      "distractors": [
+        "The original buyer under the bond for deed",
+        "Neither party until a court decides",
+        "The seller retains ownership"
+      ],
+      "explanation": "Louisiana's public records doctrine protects third parties who rely on the public records. Because the bond for deed was not recorded, the third-party purchaser who recorded in good faith prevails over the unrecorded bond for deed buyer.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["bond_for_deed", "recordation", "public_records"]
+    },
+    {
+      "key_topic_ref": "LA-16.2",
+      "question_text": "Can mineral rights be separated from surface ownership in Louisiana?",
+      "correct_answer": "Yes, mineral rights are severable",
+      "distractors": [
+        "No, minerals always belong to the surface owner",
+        "Only with parish approval",
+        "Only for state-owned immovables"
+      ],
+      "explanation": "Louisiana law permits mineral rights to be severed from surface ownership through mineral servitudes, mineral royalties, or mineral leases. This allows separate parties to hold surface and mineral interests in the same immovable.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mineral_rights", "severable", "surface_ownership"]
+    },
+    {
+      "key_topic_ref": "LA-16.3",
+      "question_text": "Which privilege has the highest priority under Louisiana law?",
+      "correct_answer": "Tax privileges",
+      "distractors": [
+        "Vendor's privilege",
+        "Builder's privilege",
+        "Conventional mortgage"
+      ],
+      "explanation": "Tax privileges (liens) take first priority over all other privileges and mortgages on immovable property in Louisiana. This ensures that parish and state tax claims are satisfied before other creditors.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["privileges", "tax", "priority"]
+    },
+    {
+      "key_topic_ref": "LA-16.3",
+      "question_text": "What distinguishes executory foreclosure from ordinary foreclosure in Louisiana?",
+      "correct_answer": "Executory is faster and requires an authentic act",
+      "distractors": [
+        "Executory requires a full trial on the merits",
+        "Ordinary is used only for commercial property",
+        "Executory allows a statutory redemption period"
+      ],
+      "explanation": "Executory process is a streamlined foreclosure that does not require a full trial. It is available only when the mortgage is by authentic act containing a confession of judgment. Ordinary process requires a full judicial proceeding and is slower.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "executory_process", "ordinary_process"]
+    },
+    {
+      "key_topic_ref": "LA-16.3",
+      "question_text": "After a judicial sale of an immovable through foreclosure in Louisiana, does the borrower have a right of redemption?",
+      "correct_answer": "No, there is no statutory redemption",
+      "distractors": [
+        "Yes, within 6 months of the sale",
+        "Yes, within 1 year of the sale",
+        "Yes, but only for homestead properties"
+      ],
+      "explanation": "Louisiana does not provide a statutory right of redemption after a judicial sale through foreclosure. Once the property is sold at a sheriff's sale, the borrower loses all rights to redeem the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "redemption", "judicial_sale"]
+    },
+    {
+      "key_topic_ref": "LA-16.3",
+      "question_text": "What is the maximum conventional interest rate permitted for consumer loans in Louisiana?",
+      "correct_answer": "12% per annum",
+      "distractors": [
+        "8% per annum",
+        "10% per annum",
+        "15% per annum"
+      ],
+      "explanation": "Louisiana's usury law limits conventional interest on consumer loans to a maximum of 12% per annum. Rates exceeding this limit may be deemed usurious, and the lender may forfeit the right to collect interest.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["usury", "interest_rate", "consumer_loans"]
+    },
+    {
+      "key_topic_ref": "LA-16.3",
+      "question_text": "A contractor completes major renovations on an immovable but is not paid. The contractor files a privilege. A bank holds a prior-recorded mortgage. Who has priority for the value of the improvements?",
+      "correct_answer": "The contractor's builder's privilege on improvements",
+      "distractors": [
+        "The bank's mortgage on the entire property",
+        "They share equally in all proceeds",
+        "The parish tax collector takes all proceeds"
+      ],
+      "explanation": "A builder's privilege in Louisiana primes a prior-recorded mortgage to the extent of the enhanced value attributable to the improvements. The bank's mortgage retains priority on the pre-improvement value, but the contractor's privilege has priority on the added value.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["builders_privilege", "mortgage", "priority"]
+    },
+    {
+      "key_topic_ref": "LA-16.4",
+      "question_text": "What is the homestead exemption amount for Louisiana property taxes?",
+      "correct_answer": "$75,000 of fair market value",
+      "distractors": [
+        "$50,000 of fair market value",
+        "$100,000 of fair market value",
+        "$25,000 of fair market value"
+      ],
+      "explanation": "Louisiana provides a homestead exemption on the first $75,000 of fair market value of a primary residence. At the 10% residential assessment ratio, this equals $7,500 of assessed value exempt from parish ad valorem taxes.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead_exemption", "property_taxes", "assessed_value"]
+    },
+    {
+      "key_topic_ref": "LA-16.4",
+      "question_text": "At what percentage of fair market value are residential immovables assessed in Louisiana?",
+      "correct_answer": "10% of fair market value",
+      "distractors": [
+        "15% of fair market value",
+        "25% of fair market value",
+        "100% of fair market value"
+      ],
+      "explanation": "Louisiana assesses residential immovable property at 10% of fair market value for property tax purposes. Commercial property is assessed at 15% of fair market value. These rates are set by the Louisiana Constitution.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property_taxes", "assessment", "residential"]
+    },
+    {
+      "key_topic_ref": "LA-16.4",
+      "question_text": "A property is sold at a tax sale in Louisiana. How long does the former owner have to redeem the property?",
+      "correct_answer": "3 years from the date of recording",
+      "distractors": [
+        "1 year from the date of sale",
+        "5 years from the date of sale",
+        "6 months from the date of notice"
+      ],
+      "explanation": "Louisiana provides a 3-year redemptive period after a tax sale, running from the date the tax sale deed is recorded. During this period, the former owner may redeem the property by paying the tax sale price plus statutory penalties and interest.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tax_sale", "redemption", "property_taxes"]
+    },
+    {
+      "key_topic_ref": "LA-16.4",
+      "question_text": "A residential lease expires and neither party gives notice. What occurs under Louisiana law?",
+      "correct_answer": "The lease renews month-to-month by reconduction",
+      "distractors": [
+        "The tenant must vacate immediately",
+        "The lease renews for one full year",
+        "The landlord may change terms without notice"
+      ],
+      "explanation": "Louisiana law provides for tacit reconduction, which is the automatic renewal of a lease on a month-to-month basis when neither party gives notice of termination before expiration. The same terms and conditions continue.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["leases", "reconduction", "renewal"]
+    },
+    {
+      "key_topic_ref": "LA-16.4",
+      "question_text": "Within what time period must a Louisiana landlord return a tenant's security deposit after lease termination?",
+      "correct_answer": "Within 1 month",
+      "distractors": [
+        "Within 14 days",
+        "Within 45 days",
+        "Within 60 days"
+      ],
+      "explanation": "Louisiana law requires landlords to return the tenant's security deposit within 1 month after the lease terminates and the tenant vacates. The landlord may deduct for damages beyond normal wear and tear but must provide an itemized statement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security_deposit", "landlord_tenant", "return_period"]
+    }
+  ]
+}

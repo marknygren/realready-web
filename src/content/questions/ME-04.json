@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ME-04",
+  "scope": "state",
+  "state": "ME",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "ME-04.1",
+      "question_text": "In Maine single agency, how many parties does each licensee in the brokerage represent?",
+      "correct_answer": "One client only",
+      "distractors": ["Both buyer and seller", "Whichever party pays the fee", "Up to two clients per transaction"],
+      "explanation": "Under single agency in Maine, all licensees in the brokerage represent the same one client. Unlike appointed agency, no licensee within the firm can represent the opposing party in the same transaction.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["single agency", "representation", "Maine"]
+    },
+    {
+      "key_topic_ref": "ME-04.1",
+      "question_text": "A designated broker wants to use appointed agency. Which step must occur before assigning licensees to specific clients?",
+      "correct_answer": "Written authorization from the DB",
+      "distractors": ["Verbal notice to all licensees in the firm", "Commission pre-approval", "Filing a new brokerage license"],
+      "explanation": "Under Section 13278, appointed (designated) agency must be authorized by the designated broker in writing before it can be used. This written authorization allows the DB to appoint specific licensees to represent individual clients while excluding other licensees from that representation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["appointed agency", "designated broker", "authorization"]
+    },
+    {
+      "key_topic_ref": "ME-04.1",
+      "question_text": "Under Maine appointed agency, a DB assigns Licensee A to the buyer and Licensee B to the seller. What is Licensee C's role?",
+      "correct_answer": "Excluded from representing either party",
+      "distractors": ["Automatic dual agent for both sides", "Default representative of the seller only", "Transaction broker for the entire deal"],
+      "explanation": "In appointed agency, only the specifically appointed licensees represent their assigned clients. All other licensees in the brokerage, like Licensee C, are excluded from representing either party in that transaction. This protects client confidentiality within the firm.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["appointed agency", "excluded licensees", "confidentiality"]
+    },
+    {
+      "key_topic_ref": "ME-04.1",
+      "question_text": "When must clients consent to appointed agency in Maine?",
+      "correct_answer": "In advance of the appointment",
+      "distractors": ["Within 48 hours of closing", "At the time of the first showing", "After the purchase agreement is signed"],
+      "explanation": "Maine law requires that clients consent in advance to appointed agency. This advance consent ensures both parties understand that specific licensees within the brokerage will be assigned to represent them, rather than having all licensees in the firm act on their behalf.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["appointed agency", "client consent", "advance"]
+    },
+    {
+      "key_topic_ref": "ME-04.1",
+      "question_text": "A small brokerage has only two licensees. The DB wants both to represent a single buyer. Which agency model fits?",
+      "correct_answer": "Single agency",
+      "distractors": ["Appointed agency", "Disclosed dual agency", "Transaction brokerage"],
+      "explanation": "Single agency is the appropriate model when all licensees in the brokerage represent the same client. Since both licensees will work for the buyer only, no appointment or separation of duties is needed. Appointed agency would be used when different licensees represent opposing parties.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["single agency", "small brokerage", "agency selection"]
+    },
+    {
+      "key_topic_ref": "ME-04.2",
+      "question_text": "What is required before a Maine licensee can act as a disclosed dual agent?",
+      "correct_answer": "Informed written consent of all parties",
+      "distractors": ["Oral agreement from the buyer only", "Commission approval for each transaction", "A separate dual agency license filing"],
+      "explanation": "Maine requires informed written consent from all parties before a licensee can practice disclosed dual agency. The consent is 'presumed informed' when the signed agreement describes the types of transactions where dual agency may arise and includes a statement about adverse interests and limited duties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["dual agency", "written consent", "disclosure"]
+    },
+    {
+      "key_topic_ref": "ME-04.2",
+      "question_text": "A buyer signs a dual agency consent form that does not mention limited duties. Is the consent presumed informed?",
+      "correct_answer": "No, the form is incomplete",
+      "distractors": ["Yes, any signed form is sufficient", "Yes, if the buyer is experienced", "Yes, once the DB also signs it"],
+      "explanation": "For consent to be 'presumed informed' in Maine, the signed agreement must include both: (1) a description of transactions where dual agency applies, and (2) a statement about adverse interests and limited duties. Missing either element means the consent does not meet the statutory standard.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["dual agency", "informed consent", "requirements"]
+    },
+    {
+      "key_topic_ref": "ME-04.2",
+      "question_text": "Who must authorize disclosed dual agency within a Maine brokerage before it can be practiced?",
+      "correct_answer": "The designated broker",
+      "distractors": ["The Maine Real Estate Commission", "Each individual licensee", "The closing attorney"],
+      "explanation": "The designated broker must authorize the practice of disclosed dual agency within the brokerage. Without this authorization, individual licensees cannot enter into dual agency relationships, even if both clients are willing to consent.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["dual agency", "designated broker", "authorization"]
+    },
+    {
+      "key_topic_ref": "ME-04.2",
+      "question_text": "A dual agent learns the seller will accept $20,000 less. Can the agent share this with the buyer?",
+      "correct_answer": "No, confidential information is protected",
+      "distractors": ["Yes, full disclosure is always required", "Yes, whenever the buyer asks about pricing", "Only after the offer is submitted"],
+      "explanation": "In disclosed dual agency, the agent has limited duties to both parties. Confidential information such as the seller's bottom-line price cannot be shared with the buyer. The dual agency consent form warns parties about these adverse interests and the limitations on the agent's duties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["dual agency", "confidentiality", "limited duties"]
+    },
+    {
+      "key_topic_ref": "ME-04.2",
+      "question_text": "A seller refuses to sign the dual agency consent. What must the listing agent do?",
+      "correct_answer": "Refer the buyer to another agent",
+      "distractors": ["Proceed without the seller's consent", "Withdraw the listing immediately", "Report the seller to the Commission"],
+      "explanation": "Disclosed dual agency requires the informed written consent of ALL parties. If the seller refuses, the agent cannot represent both sides. The appropriate step is to refer the buyer to a different agent or brokerage so both parties receive proper representation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["dual agency", "consent refusal", "referral"]
+    },
+    {
+      "key_topic_ref": "ME-04.3",
+      "question_text": "Under Maine transaction brokerage, what relationship exists between the broker and the parties?",
+      "correct_answer": "No agency relationship with either party",
+      "distractors": ["Full fiduciary duties owed to both parties", "Agency with whichever party pays the fee", "Limited agency with the buyer only"],
+      "explanation": "Under Section 13283, transaction brokerage means the licensee facilitates the transaction without representing either party. No agency relationship is created, so neither side is owed fiduciary duties like loyalty or obedience. The broker must still treat all parties honestly.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transaction brokerage", "no agency", "facilitation"]
+    },
+    {
+      "key_topic_ref": "ME-04.3",
+      "question_text": "A transaction broker in Maine suspects the roof has hidden damage. What is the broker's obligation?",
+      "correct_answer": "Disclose the concern to all parties",
+      "distractors": ["Stay silent to remain completely neutral", "Tell only the buyer about it", "Order an inspection independently"],
+      "explanation": "Even though a transaction broker has no agency relationship, Maine law prohibits giving false information and requires honest treatment of all parties. If the broker suspects material defects like hidden roof damage, that concern must be shared with all parties involved.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transaction brokerage", "honesty", "material facts"]
+    },
+    {
+      "key_topic_ref": "ME-04.3",
+      "question_text": "A buyer asks a transaction broker to negotiate aggressively on price. How should the broker respond?",
+      "correct_answer": "Decline, as advocacy is not permitted",
+      "distractors": ["Negotiate as the buyer has requested", "Negotiate only if the seller agrees first", "Refer the request to the Commission"],
+      "explanation": "Transaction brokers facilitate but do not represent either party. Aggressive negotiation on behalf of one side constitutes advocacy, which is a fiduciary duty owed only in an agency relationship. The broker should explain that transaction brokerage does not include client-level advocacy.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transaction brokerage", "negotiation", "limitations"]
+    },
+    {
+      "key_topic_ref": "ME-04.3",
+      "question_text": "Which duty does a Maine transaction broker owe to the parties in a transaction?",
+      "correct_answer": "Honest dealing with all parties",
+      "distractors": ["Loyalty to the paying party", "Obedience to the seller's instructions", "Confidentiality of negotiating positions"],
+      "explanation": "A transaction broker must treat all parties honestly and may not provide false information. However, full fiduciary duties such as loyalty, obedience, and confidentiality are not owed because no agency relationship exists under transaction brokerage.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transaction brokerage", "duties", "honesty"]
+    },
+    {
+      "key_topic_ref": "ME-04.3",
+      "question_text": "A licensee provides false comparable sales data while acting as a transaction broker. Is this a violation?",
+      "correct_answer": "Yes, false information is prohibited",
+      "distractors": ["No, neutrality limits liability", "No, unless a client relationship exists", "Only if the data affects the price"],
+      "explanation": "Maine law expressly prohibits transaction brokers from giving false information to any party. Providing false comparable sales data violates this duty regardless of the absence of an agency relationship. Transaction brokerage does not shield a licensee from accountability for dishonesty.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["transaction brokerage", "false information", "violation"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ND-11",
+  "scope": "state",
+  "state": "ND",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "ND-11.1",
+      "question_text": "When is a seller required to provide a property disclosure in North Dakota?",
+      "correct_answer": "When a licensed agent represents a party",
+      "distractors": ["In every residential transaction", "Only when the buyer requests one", "When the property exceeds $100,000"],
+      "explanation": "In North Dakota, the seller's disclosure requirement is triggered when a LICENSED agent represents or assists a party in the transaction. Without a licensed agent, the disclosure is not required.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "seller disclosure", "licensed agent"]
+    },
+    {
+      "key_topic_ref": "ND-11.1",
+      "question_text": "A seller lists a 6-unit apartment building with a licensed broker. Must the seller complete a property disclosure form?",
+      "correct_answer": "No, it only applies to 4 units or fewer",
+      "distractors": ["Yes, all residential properties require it", "Yes, because a licensed agent is involved", "Only if the buyer finances the purchase"],
+      "explanation": "North Dakota's seller disclosure requirement applies only to residential dwellings with 4 units or fewer. A 6-unit building exceeds this threshold, so the disclosure is not required even though a licensed agent is involved.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "unit threshold", "residential"]
+    },
+    {
+      "key_topic_ref": "ND-11.1",
+      "question_text": "At what point must the seller's property disclosure be provided to the buyer?",
+      "correct_answer": "Before signing the final agreement",
+      "distractors": ["Within 10 days after closing", "At the time of the home inspection", "When the appraisal is completed"],
+      "explanation": "North Dakota requires the seller's property disclosure to be delivered BEFORE the buyer signs the final purchase agreement, ensuring the buyer can make an informed decision.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "timing", "purchase agreement"]
+    },
+    {
+      "key_topic_ref": "ND-11.1",
+      "question_text": "A buyer relies on the seller's disclosure form to assess the home's condition. After closing, a disclosed issue worsens. Can the buyer claim the disclosure was a warranty?",
+      "correct_answer": "No, the disclosure is not a warranty",
+      "distractors": ["Yes, the seller guaranteed the condition", "Yes, if the repair costs exceed $5,000", "Only if the seller was a licensed contractor"],
+      "explanation": "The North Dakota seller's disclosure is a statement of the seller's best knowledge at the time, not a warranty or guarantee of condition. The form does not create contractual warranties about the property's state.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disclosure", "warranty", "liability"]
+    },
+    {
+      "key_topic_ref": "ND-11.1",
+      "question_text": "Which form must a North Dakota seller use for property disclosure?",
+      "correct_answer": "The NDREC Seller's Property Disclosure Form",
+      "distractors": ["Any standard real estate disclosure form", "A form created by the listing broker", "The federal residential disclosure form"],
+      "explanation": "North Dakota requires sellers to use the NDREC Seller's Property Disclosure Form or a form substantially similar to it when making required disclosures.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "NDREC", "form requirements"]
+    },
+    {
+      "key_topic_ref": "ND-11.2",
+      "question_text": "Which standard determines whether a fact is material and must be disclosed in North Dakota?",
+      "correct_answer": "It adversely and significantly affects use",
+      "distractors": ["It reduces the property value by 10%", "It is listed on the NDREC checklist", "The buyer specifically asks about it"],
+      "explanation": "A material fact in North Dakota is one that could adversely and significantly affect an ordinary buyer's use and enjoyment of the property. This includes structural, mechanical, and environmental issues.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["material facts", "disclosure standard"]
+    },
+    {
+      "key_topic_ref": "ND-11.2",
+      "question_text": "An executor sells a deceased person's home without using a real estate agent. Is a seller's disclosure required?",
+      "correct_answer": "No, fiduciary transfers are exempt",
+      "distractors": ["Yes, all residential sales require one", "Only if the home is over 20 years old", "Yes, but the executor may use a shorter form"],
+      "explanation": "North Dakota exempts fiduciary transfers (estate, guardianship, trust) from the seller's disclosure requirement. Additionally, no licensed agent is involved, which is another exemption.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "fiduciary", "estate sale"]
+    },
+    {
+      "key_topic_ref": "ND-11.2",
+      "question_text": "Which transaction is exempt from North Dakota's seller disclosure requirement?",
+      "correct_answer": "A foreclosure sale by the lender",
+      "distractors": ["A sale of a single-family home", "A sale involving a licensed broker", "A for-sale-by-owner with 3 units"],
+      "explanation": "Foreclosure sales are among the exemptions to North Dakota's seller disclosure requirement. Other exemptions include court-ordered transfers, fiduciary transfers, and new construction covered by builder warranty.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exemptions", "foreclosure", "disclosure"]
+    },
+    {
+      "key_topic_ref": "ND-11.2",
+      "question_text": "A listing agent knows the basement floods every spring but the seller left this off the disclosure. What should the agent do?",
+      "correct_answer": "Disclose the flooding as a material fact",
+      "distractors": ["Rely on the seller's completed form", "Suggest the buyer get an inspection", "File a complaint with NDREC after closing"],
+      "explanation": "Agents must disclose all known material facts that could adversely and significantly affect an ordinary buyer's use and enjoyment. Recurring basement flooding is a material fact that must be disclosed regardless of what the seller reported.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["material facts", "agent duty", "flooding"]
+    },
+    {
+      "key_topic_ref": "ND-11.2",
+      "question_text": "A builder sells a brand-new home directly to a buyer through a licensed agent. Is a seller's disclosure required?",
+      "correct_answer": "No, new construction with warranty is exempt",
+      "distractors": ["Yes, because a licensed agent is involved", "Yes, all residential sales require one", "Only if the home exceeds 2,000 square feet"],
+      "explanation": "New construction covered by a builder's warranty is exempt from North Dakota's seller disclosure requirement, even when a licensed agent is involved in the transaction.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "new construction", "builder warranty"]
+    },
+    {
+      "key_topic_ref": "ND-11.3",
+      "question_text": "For which homes is lead-based paint disclosure required in North Dakota?",
+      "correct_answer": "Homes built before 1978",
+      "distractors": ["All homes regardless of age", "Homes built before 1990", "Only homes with confirmed lead paint"],
+      "explanation": "Under federal law, lead-based paint disclosure is required for all residential properties built before 1978. This applies in North Dakota as in all states.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead-based paint", "federal requirement", "1978"]
+    },
+    {
+      "key_topic_ref": "ND-11.3",
+      "question_text": "A buyer is purchasing a home in Williston near active oil wells. Which environmental issue should the agent highlight?",
+      "correct_answer": "Oil and gas production impacts",
+      "distractors": ["Earthquake retrofit requirements", "Coastal erosion setback lines", "Volcanic soil contamination risks"],
+      "explanation": "Western North Dakota, including the Williston area, has significant oil and gas production. Agents should disclose environmental considerations related to nearby drilling, pipelines, and production activities.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["environmental", "oil and gas", "western ND"]
+    },
+    {
+      "key_topic_ref": "ND-11.3",
+      "question_text": "Which environmental hazard is a particular concern in North Dakota homes that sellers should consider disclosing?",
+      "correct_answer": "Radon gas levels",
+      "distractors": ["Termite infestation history", "Hurricane wind damage", "Wildfire smoke exposure"],
+      "explanation": "Radon is a known concern in North Dakota. While not always legally mandated, disclosure of radon testing results is recommended for residential transactions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental", "radon", "health hazard"]
+    },
+    {
+      "key_topic_ref": "ND-11.3",
+      "question_text": "A seller knows the property lies in a FEMA flood zone but omits this from the disclosure. What risk does this create?",
+      "correct_answer": "Liability for nondisclosure of known defects",
+      "distractors": ["Automatic voiding of the entire sale", "Criminal charges filed by the county", "Forfeiture of the seller's homestead rights"],
+      "explanation": "Flood zone status is a material fact that could adversely and significantly affect a buyer's use and enjoyment of the property. Failing to disclose it exposes the seller to liability for nondisclosure.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["flood zone", "material facts", "liability"]
+    },
+    {
+      "key_topic_ref": "ND-11.3",
+      "question_text": "A 1972 home is being sold. The seller provides a lead-based paint disclosure. How long does the buyer have to conduct a lead inspection?",
+      "correct_answer": "10 days unless waived or modified",
+      "distractors": ["5 business days with no waiver option", "30 days from the offer date", "No inspection period is provided"],
+      "explanation": "Under federal lead-based paint disclosure rules, buyers receive a 10-day period to conduct a lead inspection. This period can be modified or waived by agreement between the parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lead-based paint", "inspection period", "federal"]
+    }
+  ]
+}

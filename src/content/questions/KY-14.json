@@ -1,0 +1,173 @@
+{
+  "standard_ref": "KY-14",
+  "scope": "state",
+  "state": "KY",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "KY-14.1",
+      "question_text": "Does property management require a real estate license in Kentucky?",
+      "correct_answer": "Yes, a real estate license is required",
+      "distractors": ["No, PM has its own separate licensing", "Only for commercial property management", "Only if managing 10 or more rental units"],
+      "explanation": "Property management activities require a real estate license in Kentucky. There is no separate property management license category.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "license", "requirement"]
+    },
+    {
+      "key_topic_ref": "KY-14.1",
+      "question_text": "A broker begins managing rental properties for an owner. What document must be executed?",
+      "correct_answer": "Written property management agreement",
+      "distractors": ["Verbal agreement is sufficient", "A KREC property management permit", "An escrow account authorization only"],
+      "explanation": "A written property management agreement is required between the broker and property owner, specifying terms, duties, compensation, and duration.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["management agreement", "written", "requirement"]
+    },
+    {
+      "key_topic_ref": "KY-14.1",
+      "question_text": "A property management agreement must specify which elements?",
+      "correct_answer": "Terms, duties, compensation, and duration",
+      "distractors": ["Only the agreed management fee percentage", "Only the property address and management fee", "Only the specified duration of the agreement"],
+      "explanation": "The written property management agreement must specify all key elements: terms, duties, compensation, and duration to protect both the broker and the property owner.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["management agreement", "contents", "requirements"]
+    },
+    {
+      "key_topic_ref": "KY-14.1",
+      "question_text": "An unlicensed person offers to manage apartments for a fee, collecting rent and screening tenants. Is this legal?",
+      "correct_answer": "No, this requires a real estate license",
+      "distractors": ["Yes, if working for only one property owner", "Yes, property management does not require a license", "Legal if operating under a verbal agreement"],
+      "explanation": "Property management for compensation is a licensed activity in Kentucky. Collecting rent, screening tenants, and other PM activities for a fee require a real estate license.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed", "property management", "violation"]
+    },
+    {
+      "key_topic_ref": "KY-14.1",
+      "question_text": "A property owner wants to terminate a management agreement early. What governs the termination?",
+      "correct_answer": "The terms specified in the agreement",
+      "distractors": ["KREC must approve all terminations", "30-day notice is always required", "The broker can refuse termination"],
+      "explanation": "Termination of a property management agreement is governed by the terms, conditions, and duration specified in the written agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["management agreement", "termination", "terms"]
+    },
+    {
+      "key_topic_ref": "KY-14.2",
+      "question_text": "Where must a broker keep property management escrow funds?",
+      "correct_answer": "Separate from other escrow accounts",
+      "distractors": ["In the same account as sales escrow", "In the broker's operating account", "In any FDIC-insured account"],
+      "explanation": "Property management escrow accounts must be separate from all other escrow accounts, or specifically identified in records. This prevents mixing of different types of client funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "property management", "separate"]
+    },
+    {
+      "key_topic_ref": "KY-14.2",
+      "question_text": "A property manager collects first month's rent and a security deposit from a new tenant. Where should these funds go?",
+      "correct_answer": "The property management escrow account",
+      "distractors": ["Directly to the property owner", "The broker's general operating account", "The sales transaction escrow account"],
+      "explanation": "All property management funds, including rent and security deposits, must go into the property management escrow account, separate from sales escrow and operating accounts.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["escrow", "rent", "security deposit"]
+    },
+    {
+      "key_topic_ref": "KY-14.2",
+      "question_text": "Which of the following is a core property management duty?",
+      "correct_answer": "Tenant screening and rent collection",
+      "distractors": ["Providing legal advice to tenants", "Appraising the property annually", "Negotiating the owner's mortgage terms"],
+      "explanation": "Core property management duties include rent collection, tenant screening, maintenance supervision, and financial reporting. Legal advice and appraisals are outside the PM scope.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "duties", "scope"]
+    },
+    {
+      "key_topic_ref": "KY-14.2",
+      "question_text": "A property manager handles maintenance and provides monthly financial reports to the owner. Must they comply with KREC regulations?",
+      "correct_answer": "Yes, all KREC money-handling regulations apply",
+      "distractors": ["No, PM is exempt from KREC escrow rules", "Only if the managed property is commercial", "Only if the manager holds a broker license type"],
+      "explanation": "Property managers must comply with all KREC regulations regarding handling of monies. This includes escrow requirements, deposit timing, and commingling prohibitions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["KREC", "compliance", "property management"]
+    },
+    {
+      "key_topic_ref": "KY-14.2",
+      "question_text": "Can a broker use a single escrow account for both sales deposits and property management funds if the funds are tracked separately in the records?",
+      "correct_answer": "Only if specifically identified in records",
+      "distractors": ["No, they must always be separate accounts", "Yes, with no special requirements", "Only with KREC written approval"],
+      "explanation": "Property management accounts must be separate from other escrow accounts OR specifically identified in records. Separate tracking within one account is permissible if properly identified.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["escrow", "combined account", "records"]
+    },
+    {
+      "key_topic_ref": "KY-14.3",
+      "question_text": "Does Kentucky state law set a maximum amount for security deposits?",
+      "correct_answer": "No, there is no state maximum",
+      "distractors": ["Yes, 2 months rent maximum", "Yes, 1 month rent maximum", "Yes, 3 months rent maximum"],
+      "explanation": "Kentucky state law does not set a maximum security deposit amount. However, local jurisdictions that have adopted URLTA may have their own rules.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "no maximum", "state law"]
+    },
+    {
+      "key_topic_ref": "KY-14.3",
+      "question_text": "In an area that has adopted URLTA, within what timeframe must a security deposit be returned?",
+      "correct_answer": "30-60 days with itemized deductions",
+      "distractors": ["14 days with no deductions", "90 days with itemized deductions", "21 days with a written statement"],
+      "explanation": "Where URLTA has been adopted, security deposits must be returned within 30-60 days with itemized documentation of any deductions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "URLTA", "return timeline"]
+    },
+    {
+      "key_topic_ref": "KY-14.3",
+      "question_text": "What is Kentucky's approach to the Uniform Residential Landlord and Tenant Act (URLTA)?",
+      "correct_answer": "Local opt-in; most areas have not adopted",
+      "distractors": ["Adopted statewide for all rental properties", "Mandatory for cities with over 10,000 residents", "Applies only to commercial lease agreements"],
+      "explanation": "Kentucky uses an opt-in system where local jurisdictions must affirmatively adopt URLTA. The vast majority of the state has NOT adopted it, meaning common law governs most landlord-tenant matters.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["URLTA", "opt-in", "adoption"]
+    },
+    {
+      "key_topic_ref": "KY-14.3",
+      "question_text": "A tenant in a rural Kentucky county (no URLTA adoption) disputes their security deposit deduction. What law governs?",
+      "correct_answer": "General common law and contract law",
+      "distractors": ["URLTA applies statewide by default", "Federal tenant protection law provisions", "KREC security deposit return regulations"],
+      "explanation": "In areas that have not adopted URLTA (about 96% of the state), common law governs. There are far fewer tenant protections, and disputes are resolved under general contract and property law.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["URLTA", "common law", "rural"]
+    },
+    {
+      "key_topic_ref": "KY-14.3",
+      "question_text": "In a Kentucky area that has NOT adopted URLTA, what law governs the return of security deposits?",
+      "correct_answer": "Common law and the lease agreement",
+      "distractors": ["URLTA applies as a default", "Federal tenant protection statutes", "KREC security deposit regulations"],
+      "explanation": "In areas without URLTA (the majority of Kentucky), common law and the specific lease terms govern. There are fewer statutory tenant protections compared to URLTA jurisdictions.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["URLTA", "common law", "security deposit"]
+    }
+  ]
+}

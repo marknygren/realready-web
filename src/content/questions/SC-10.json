@@ -1,0 +1,173 @@
+{
+  "standard_ref": "SC-10",
+  "scope": "state",
+  "state": "SC",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "SC-10.1",
+      "question_text": "South Carolina requires which professional to conduct real estate closings?",
+      "correct_answer": "A licensed SC attorney",
+      "distractors": ["A licensed title agent", "A licensed real estate broker", "A licensed mortgage loan officer"],
+      "explanation": "SC is an attorney state — the SC Supreme Court has ruled that real estate closings are the practice of law. A licensed SC attorney must supervise title search, conduct closing, and oversee disbursement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney state", "closing", "requirement"]
+    },
+    {
+      "key_topic_ref": "SC-10.1",
+      "question_text": "A closing in SC is conducted without an attorney present. This constitutes:",
+      "correct_answer": "Unauthorized Practice of Law (UPL)",
+      "distractors": ["A minor regulatory violation", "Standard practice for cash transactions", "An acceptable alternative closing method"],
+      "explanation": "Closing without an attorney is Unauthorized Practice of Law. This applies to ALL transactions — residential, cash, refinance. It can lead to title issues and lender inability to foreclose.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["UPL", "attorney state", "closing"]
+    },
+    {
+      "key_topic_ref": "SC-10.1",
+      "question_text": "A lender requires the borrower to use the lender's preferred closing attorney. Under SC law, this is:",
+      "correct_answer": "Prohibited — borrower chooses their attorney",
+      "distractors": ["Standard practice for all lenders", "Permitted if disclosed in the loan documents", "Allowed for loans over $500,000"],
+      "explanation": "SC law guarantees the borrower's right to choose their own closing attorney. The lender may NOT select the attorney. This is part of the SC Consumer Protection Code and restricting this choice is grounds for discipline.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["attorney choice", "borrower right", "consumer protection"]
+    },
+    {
+      "key_topic_ref": "SC-10.1",
+      "question_text": "Which tasks must a closing attorney perform in an SC real estate transaction?",
+      "correct_answer": "Title search, closing, recording, and disbursement",
+      "distractors": ["Only preparing the deed and mortgage", "Only reviewing the title commitment", "Only disbursing funds to the seller"],
+      "explanation": "The closing attorney must supervise the title search, conduct the closing, supervise recording of legal documents, and supervise disbursement of closing funds. All four are required.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney duties", "closing", "title search"]
+    },
+    {
+      "key_topic_ref": "SC-10.1",
+      "question_text": "A buyer is purchasing a $200,000 home with cash and no mortgage. Is an attorney still required at closing?",
+      "correct_answer": "Yes, all real estate closings require an attorney",
+      "distractors": ["No, cash transactions are exempt", "Only if the seller requests one", "Only if the property has title issues"],
+      "explanation": "The attorney requirement applies to ALL real estate transactions in SC, including cash purchases, residential sales, and refinances. There is no exemption for cash transactions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["attorney state", "cash transaction", "all closings"]
+    },
+    {
+      "key_topic_ref": "SC-10.2",
+      "question_text": "The SC deed recording fee is calculated at what rate?",
+      "correct_answer": "$1.85 per $500 of property value",
+      "distractors": ["$2.00 per $500 of property value", "$1.85 per $1,000 of property value", "$3.70 per $500 of property value"],
+      "explanation": "SC's deed recording fee (transfer tax) is $1.85 per $500 or fractional part of the property value. This consists of $1.30 to the state and $0.55 to the county.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed recording fee", "transfer tax", "rate"]
+    },
+    {
+      "key_topic_ref": "SC-10.2",
+      "question_text": "A property sells for $250,000 in SC. What is the deed recording fee?",
+      "correct_answer": "$925",
+      "distractors": ["$462.50", "$1,850", "$500"],
+      "explanation": "$250,000 ÷ $500 = 500 units × $1.85 = $925. The fee is $1.85 per $500 (or fractional part) of the property value. This is equivalent to approximately 0.37% of the sale price.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deed recording fee", "calculation", "math"]
+    },
+    {
+      "key_topic_ref": "SC-10.2",
+      "question_text": "The SC deed recording fee is typically paid by which party?",
+      "correct_answer": "The seller, though it is negotiable",
+      "distractors": ["The buyer, as required by law", "Split equally between buyer and seller", "The closing attorney from escrow funds"],
+      "explanation": "By custom, the seller typically pays the deed recording fee in SC, but this is negotiable between the parties. There is no law mandating which party pays.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed recording fee", "seller", "negotiable"]
+    },
+    {
+      "key_topic_ref": "SC-10.2",
+      "question_text": "A property sells for $325,000 in SC. What is the total deed recording fee?",
+      "correct_answer": "$1,202.50",
+      "distractors": ["$601.25", "$925.00", "$1,500.00"],
+      "explanation": "$325,000 ÷ $500 = 650 units × $1.85 = $1,202.50. The fee applies to each $500 or fractional part of the property value at $1.85 per increment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deed recording fee", "calculation", "math"]
+    },
+    {
+      "key_topic_ref": "SC-10.2",
+      "question_text": "A home sells for $175,250 in SC. How many $500 increments apply for the deed recording fee?",
+      "correct_answer": "351 increments",
+      "distractors": ["350 increments", "175 increments", "352 increments"],
+      "explanation": "$175,250 ÷ $500 = 350.5. Since the fee applies to each $500 or fractional part thereof, this rounds up to 351 increments. The fee would be 351 × $1.85 = $649.35.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deed recording fee", "fractional part", "calculation"]
+    },
+    {
+      "key_topic_ref": "SC-10.3",
+      "question_text": "When a non-resident individual sells SC real property, the withholding rate on the gain is:",
+      "correct_answer": "7% of the recognized gain",
+      "distractors": ["5% of the recognized gain", "10% of the sales price", "3% of the recognized gain"],
+      "explanation": "Non-resident individuals face a 7% withholding on gain (or 7% of sales price if no Seller's Affidavit is provided). Corporations and other entities face a 5% rate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["non-resident tax", "withholding", "7%"]
+    },
+    {
+      "key_topic_ref": "SC-10.3",
+      "question_text": "A non-resident seller does NOT provide a Seller's Affidavit at closing. The withholding is calculated on:",
+      "correct_answer": "7% of the total sales price",
+      "distractors": ["7% of the gain only", "5% of the total sales price", "10% of the net proceeds"],
+      "explanation": "Without a Seller's Affidavit documenting the gain, withholding is calculated on 7% of the full sales price (not just the gain). Providing the affidavit limits withholding to 7% of gain, which is usually much less.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["non-resident tax", "affidavit", "sales price"]
+    },
+    {
+      "key_topic_ref": "SC-10.3",
+      "question_text": "Who is responsible for withholding the non-resident tax and remitting it to the SC Department of Revenue?",
+      "correct_answer": "The closing attorney (or buyer)",
+      "distractors": ["The non-resident seller directly", "The listing broker", "The SC Real Estate Commission"],
+      "explanation": "The buyer or closing attorney must withhold the appropriate amount from the seller's proceeds and remit it to the SC Department of Revenue by the 15th of the month following the sale.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["non-resident tax", "withholding", "closing attorney"]
+    },
+    {
+      "key_topic_ref": "SC-10.3",
+      "question_text": "A non-resident corporation sells SC property. What is the withholding rate on the gain?",
+      "correct_answer": "5% of the recognized gain",
+      "distractors": ["7% of the recognized gain", "3% of the recognized gain", "10% of the sales price"],
+      "explanation": "Non-resident corporations and other entities face a 5% withholding rate (vs. 7% for individuals). If no Seller's Affidavit is provided, the rate applies to the full sales price instead of just the gain.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["non-resident tax", "corporation", "5%"]
+    },
+    {
+      "key_topic_ref": "SC-10.3",
+      "question_text": "A non-resident seller provides a Seller's Affidavit showing a $50,000 gain on the sale. The withholding amount for an individual is:",
+      "correct_answer": "$3,500",
+      "distractors": ["$2,500", "$5,000", "$7,000"],
+      "explanation": "$50,000 gain × 7% = $3,500 withholding. By providing the Seller's Affidavit documenting the gain, the seller ensures withholding is calculated on the gain rather than the full sales price.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["non-resident tax", "calculation", "affidavit"]
+    }
+  ]
+}

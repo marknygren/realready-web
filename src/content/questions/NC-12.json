@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NC-12",
+  "scope": "state",
+  "state": "NC",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NC-12.1",
+      "question_text": "A broker receives a $3,000 earnest money deposit from a buyer. Where must this money be deposited?",
+      "correct_answer": "A properly designated trust account",
+      "distractors": [
+        "The broker's personal business account",
+        "Any FDIC-insured savings account",
+        "The firm's general operating account"
+      ],
+      "explanation": "Trust money must be deposited into an account properly designated as a trust account and insured by FDIC. Placing trust funds in a personal, business, or general operating account constitutes commingling, which is prohibited under NC statute 93A-6(a)(12).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "EMD", "deposit", "FDIC"]
+    },
+    {
+      "key_topic_ref": "NC-12.1",
+      "question_text": "A broker deposits $50 of personal funds into the trust account to cover monthly bank service charges. Is this permissible?",
+      "correct_answer": "Yes, a small amount for bank charges is allowed",
+      "distractors": [
+        "No, any personal funds constitute commingling",
+        "Only if the amount exceeds $100",
+        "Only with written NCREC approval"
+      ],
+      "explanation": "The general rule prohibits commingling personal funds with trust money. However, NC allows a small amount of the broker's personal funds in the trust account specifically to cover bank service charges. This exception prevents trust funds from being depleted by fees while maintaining the prohibition against broader commingling.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "exception", "bank_charges", "trust_account"]
+    },
+    {
+      "key_topic_ref": "NC-12.1",
+      "question_text": "Which of the following is NOT an example of trust money that a broker might receive?",
+      "correct_answer": "The broker's earned commission check",
+      "distractors": [
+        "Earnest money deposits from buyers",
+        "Tenant security deposits",
+        "Rental payments collected for owners"
+      ],
+      "explanation": "Trust money is money belonging to others received by a broker acting as agent. Earned commissions belong to the broker and are not trust money. Earnest money, security deposits, and rents collected on behalf of property owners are all common examples of trust money that must be handled according to trust account rules.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_money", "definition", "commission", "examples"]
+    },
+    {
+      "key_topic_ref": "NC-12.1",
+      "question_text": "A provisional broker manages a small property management division. The BIC asks who is ultimately responsible for the trust account. What is the correct answer?",
+      "correct_answer": "The broker-in-charge is responsible",
+      "distractors": [
+        "The provisional broker handling the account",
+        "The property owners whose money is held",
+        "The firm's designated accountant"
+      ],
+      "explanation": "The broker-in-charge (BIC) is responsible for the trust account regardless of who handles day-to-day operations. Even if a provisional broker or other staff manages deposits and disbursements, the BIC bears ultimate accountability for compliance with trust account rules.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["BIC", "trust_account", "responsibility"]
+    },
+    {
+      "key_topic_ref": "NC-12.1",
+      "question_text": "A broker opens a trust account at a credit union that is not FDIC insured but carries equivalent state insurance. Does this account meet NC requirements?",
+      "correct_answer": "No, the account must be FDIC insured",
+      "distractors": [
+        "Yes, any government-backed insurance qualifies",
+        "Yes, if the credit union is state-chartered",
+        "No, trust accounts must be at national banks"
+      ],
+      "explanation": "NC requires that trust accounts be FDIC insured. State credit union insurance, while providing similar protections, does not satisfy the specific FDIC requirement. The broker must open the account at an institution with FDIC coverage to comply with trust account regulations.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "FDIC", "credit_union", "insurance"]
+    },
+    {
+      "key_topic_ref": "NC-12.2",
+      "question_text": "A buyer gives the listing broker a $5,000 earnest money check on Friday evening. When must the broker deposit it?",
+      "correct_answer": "Promptly upon receipt",
+      "distractors": [
+        "Within 3 business days",
+        "By the following Friday",
+        "Before the due diligence period ends"
+      ],
+      "explanation": "NC requires trust money to be deposited promptly upon receipt. There is no specific multi-day grace period. The broker should deposit the check at the earliest reasonable opportunity, typically the next banking day. Holding trust money beyond what is reasonably necessary violates deposit rules.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_money", "deposit", "promptly", "timing"]
+    },
+    {
+      "key_topic_ref": "NC-12.2",
+      "question_text": "A provisional broker receives an earnest money check at a showing on Saturday. The PB's BIC is out of town until Monday. What should happen with the check?",
+      "correct_answer": "Deliver the check to the BIC promptly",
+      "distractors": [
+        "Deposit it directly into the trust account",
+        "Hold the check until the BIC returns Monday",
+        "Return the check to the buyer until Monday"
+      ],
+      "explanation": "A provisional broker must deliver trust money to the BIC promptly. The PB exception allows delivery to the BIC rather than direct deposit. The BIC then deposits it into the trust account. Provisional brokers should not deposit directly or hold checks unnecessarily.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["provisional_broker", "BIC", "EMD", "delivery"]
+    },
+    {
+      "key_topic_ref": "NC-12.2",
+      "question_text": "Settlement is scheduled for June 20. The escrow agent wants to send the earnest money to the settlement agent on June 8. Is this permissible?",
+      "correct_answer": "No, disbursement is limited to 10 days before",
+      "distractors": [
+        "Yes, any time before settlement is acceptable",
+        "Yes, if the buyer authorizes early release",
+        "No, funds can only transfer on settlement day"
+      ],
+      "explanation": "Earnest money may be disbursed to the settlement agent no more than 10 days prior to settlement. June 8 is 12 days before the June 20 settlement, which exceeds the 10-day limit. The earliest permissible disbursement date would be June 10.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["EMD", "disbursement", "10_day_rule", "settlement"]
+    },
+    {
+      "key_topic_ref": "NC-12.2",
+      "question_text": "A buyer offers a promissory note instead of a cash earnest money deposit. Does the broker need to deposit this in the trust account?",
+      "correct_answer": "No, non-currency deposits are an exception",
+      "distractors": [
+        "Yes, all deposits must go into trust",
+        "No, but only if the amount is under $1,000",
+        "Yes, after converting it to cash first"
+      ],
+      "explanation": "Non-currency earnest money deposits, such as promissory notes, are an exception to the standard trust deposit rules. Since a promissory note is not cash or a negotiable instrument that can be deposited, it does not go into the trust account. The broker should safeguard it and disclose its nature.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["non_currency", "promissory_note", "exception", "trust_deposit"]
+    },
+    {
+      "key_topic_ref": "NC-12.2",
+      "question_text": "A buyer writes a due diligence fee check made payable to the seller. The buyer's agent receives it. What should the agent do with this check?",
+      "correct_answer": "Deliver it to the seller as directed",
+      "distractors": [
+        "Deposit it in the brokerage trust account",
+        "Hold it until the due diligence period ends",
+        "Forward it to the settlement attorney"
+      ],
+      "explanation": "A check made payable to the seller for the due diligence fee is an exception to trust deposit rules. Since the DDF is paid directly to the seller and the check is already made out to the seller, the agent delivers it to the seller rather than depositing it in the trust account.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["due_diligence_fee", "check_to_seller", "exception", "delivery"]
+    },
+    {
+      "key_topic_ref": "NC-12.3",
+      "question_text": "After a contract falls through, both the buyer and seller claim the $8,000 earnest money deposit. The listing broker holds the funds. What must the broker do?",
+      "correct_answer": "Hold funds until written agreement or court order",
+      "distractors": [
+        "Disburse to the seller as the listing client",
+        "Split the deposit equally between the parties",
+        "Return the full amount to the buyer immediately"
+      ],
+      "explanation": "When trust money is disputed, the broker must hold the funds until receiving either written agreement of all parties or a court order. The broker may not unilaterally decide who gets the money, regardless of which party the broker represents. This protects both parties' interests.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disputed_funds", "hold", "written_agreement", "court_order"]
+    },
+    {
+      "key_topic_ref": "NC-12.3",
+      "question_text": "A broker has held disputed earnest money for 200 days with no resolution between the parties. No written agreement or court order has been received. What should the broker do?",
+      "correct_answer": "Seek an interpleader action in court",
+      "distractors": [
+        "Continue holding indefinitely",
+        "Disburse to the party with the stronger claim",
+        "Return the funds to the buyer by default"
+      ],
+      "explanation": "If there is no resolution within 180 days, the broker should seek an interpleader action, which asks the court to determine who is entitled to the funds. At 200 days, the broker has exceeded the 180-day threshold and should initiate this legal process rather than continuing to hold the disputed funds.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["interpleader", "180_days", "disputed_funds", "court"]
+    },
+    {
+      "key_topic_ref": "NC-12.3",
+      "question_text": "During a trust money dispute, the listing broker decides the seller is clearly entitled to the earnest money and disburses it without the buyer's consent. What violation has occurred?",
+      "correct_answer": "The broker cannot unilaterally disburse funds",
+      "distractors": [
+        "No violation if the seller had a valid claim",
+        "Only a violation if the amount exceeds $5,000",
+        "A violation only if the buyer files a complaint"
+      ],
+      "explanation": "When trust money is disputed, the broker may not unilaterally disburse the funds regardless of who appears to have the stronger claim. Disbursement requires written agreement of all parties or a court order. Unilateral disbursement violates NC trust account rules even if the broker believes one party is clearly entitled.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["unilateral_disbursement", "prohibited", "disputed_funds"]
+    },
+    {
+      "key_topic_ref": "NC-12.3",
+      "question_text": "Which of the following would resolve a trust money dispute and allow the broker to disburse the funds?",
+      "correct_answer": "A signed agreement from all disputing parties",
+      "distractors": [
+        "A verbal agreement between the parties",
+        "Written instructions from one party's attorney",
+        "The broker's own determination of fault"
+      ],
+      "explanation": "Disputed trust money can only be disbursed upon written agreement of all parties or a court order. A verbal agreement is insufficient because it cannot be verified. Instructions from one party's attorney or the broker's own judgment do not meet the legal standard for releasing disputed funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disputed_funds", "resolution", "written_agreement"]
+    },
+    {
+      "key_topic_ref": "NC-12.3",
+      "question_text": "A buyer and seller resolve their earnest money dispute 60 days after the transaction fell apart. The buyer agrees in writing that the seller should receive the full deposit. The seller signs the same document. What should the broker do now?",
+      "correct_answer": "Disburse the funds to the seller as agreed",
+      "distractors": [
+        "Continue holding for the full 180 days",
+        "File an interpleader action to be safe",
+        "Obtain NCREC approval before disbursing"
+      ],
+      "explanation": "Once the broker has written agreement from all parties, the funds should be disbursed accordingly. There is no requirement to wait the full 180 days or seek court involvement when the parties have reached a mutual written resolution. The 180-day interpleader threshold only applies when no agreement is reached.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disputed_funds", "resolution", "disbursement", "written_agreement"]
+    }
+  ]
+}

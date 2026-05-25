@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WV-10",
+  "scope": "state",
+  "state": "WV",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "WV-10.1",
+      "question_text": "At what type of financial institution must a WV broker maintain trust fund accounts?",
+      "correct_answer": "An FDIC-insured financial institution",
+      "distractors": ["Any financial institution in West Virginia", "A credit union approved by WVREC", "A state-chartered bank only"],
+      "explanation": "WV brokers must maintain trust fund accounts at FDIC-insured financial institutions. The amount deposited cannot exceed the FDIC insurance limits.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-fund", "FDIC", "bank-requirements"]
+    },
+    {
+      "key_topic_ref": "WV-10.1",
+      "question_text": "What type of deposit account must a WV broker's trust account be?",
+      "correct_answer": "A demand deposit (withdrawal without notice)",
+      "distractors": ["A 30-day notice savings account", "A certificate of deposit (CD)", "A money market account with restrictions"],
+      "explanation": "Trust accounts must allow for withdrawal without notice (demand deposit). This ensures funds can be disbursed promptly when needed for transactions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-fund", "demand-deposit", "account-type"]
+    },
+    {
+      "key_topic_ref": "WV-10.1",
+      "question_text": "Can a WV broker earn interest on their real estate trust account?",
+      "correct_answer": "No, unless specifically authorized by commission rule",
+      "distractors": ["Yes, interest belongs to the broker", "Yes, interest must be paid to clients", "Yes, all trust accounts earn interest"],
+      "explanation": "No interest may be earned on WV trust accounts unless specifically authorized by commission rule. This prevents disputes over interest earnings.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-fund", "interest", "prohibition"]
+    },
+    {
+      "key_topic_ref": "WV-10.1",
+      "question_text": "A WV broker receives $300,000 in trust funds. The FDIC insurance limit is $250,000 per depositor. What should the broker do?",
+      "correct_answer": "Distribute funds across multiple trust accounts",
+      "distractors": ["Deposit all funds in one account anyway", "Return the excess to the client", "Invest the excess in a separate portfolio"],
+      "explanation": "The amount deposited in a trust account cannot exceed the FDIC insurance limit. A broker with deposits exceeding the limit should maintain multiple trust accounts at different institutions.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-fund", "FDIC-limits", "multiple-accounts"]
+    },
+    {
+      "key_topic_ref": "WV-10.1",
+      "question_text": "A broker opens a new trust account. Within how many days must they notify the WVREC?",
+      "correct_answer": "10 days",
+      "distractors": ["5 days", "30 days", "60 days"],
+      "explanation": "The broker must notify the commission within 10 days of establishing or changing a trust fund account. This allows WVREC to maintain oversight of all active trust accounts.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-fund", "notification", "10-days"]
+    },
+    {
+      "key_topic_ref": "WV-10.2",
+      "question_text": "When must earnest money received by a WV broker be deposited into the trust account?",
+      "correct_answer": "Promptly",
+      "distractors": ["Within 24 hours", "Within 5 business days", "Before the next commission meeting"],
+      "explanation": "WV requires trust funds to be deposited promptly into the trust account. Unlike some states that specify exact timeframes, WV uses the general standard of promptness.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-fund", "deposit-timing", "prompt"]
+    },
+    {
+      "key_topic_ref": "WV-10.2",
+      "question_text": "Which of the following is NOT considered a trust fund that must go into a WV broker's trust account?",
+      "correct_answer": "The broker's earned commission after closing",
+      "distractors": ["Earnest money deposits from the buyer", "Security deposits collected from tenants", "Auction proceeds held pending settlement"],
+      "explanation": "The broker's earned commission is personal income, not trust funds. Trust funds include earnest money, security deposits, rental receipts, auction proceeds, and money held in escrow.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-fund", "types", "commission-income"]
+    },
+    {
+      "key_topic_ref": "WV-10.2",
+      "question_text": "A WV broker deposits their personal funds into the trust account to cover operating expenses. What violation has occurred?",
+      "correct_answer": "Commingling of funds",
+      "distractors": ["No violation if the amount is small", "Unauthorized practice of banking", "A trust account balance violation"],
+      "explanation": "Commingling is the mixing of personal funds with trust funds. A broker may only maintain a nominal amount of personal funds to keep the account open; depositing personal funds for business use is prohibited.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-fund", "commingling", "violation"]
+    },
+    {
+      "key_topic_ref": "WV-10.2",
+      "question_text": "Can a WV broker keep any personal funds in a trust account?",
+      "correct_answer": "Yes, a nominal amount to keep the account open",
+      "distractors": ["No, absolutely no personal funds allowed", "Yes, up to $500 for operating costs", "Yes, up to 10% of trust fund balance"],
+      "explanation": "While commingling is prohibited, a broker may maintain a nominal amount of personal funds in the trust account solely to keep the account open and avoid bank service charges.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-fund", "commingling", "nominal-amount"]
+    },
+    {
+      "key_topic_ref": "WV-10.2",
+      "question_text": "A property manager collects rental payments on behalf of a landlord. Where should these funds be deposited?",
+      "correct_answer": "The broker's trust account",
+      "distractors": ["The property manager's personal account", "The landlord's personal bank account", "A general business operating account"],
+      "explanation": "Rental receipts collected on behalf of clients are trust funds and must be deposited into the broker's trust account. They are client funds that must be kept separate from the broker's personal money.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-fund", "rental-receipts", "deposit"]
+    },
+    {
+      "key_topic_ref": "WV-10.3",
+      "question_text": "What must a financial institution certify regarding a WV broker's trust account?",
+      "correct_answer": "The exact account title and agree to notify WVREC of bounced checks",
+      "distractors": ["That the account earns a minimum interest rate", "That the broker has a minimum credit score", "That the account has a minimum daily balance"],
+      "explanation": "The financial institution must execute a commission-prepared statement certifying the exact account title and agreeing to notify the WVREC if any trust account checks are returned for insufficient funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-fund", "bank-certification", "notification"]
+    },
+    {
+      "key_topic_ref": "WV-10.3",
+      "question_text": "A broker changes the financial institution where their trust account is held. What must they do?",
+      "correct_answer": "Notify the WVREC within 10 days",
+      "distractors": ["No notification is required", "Notify the WVREC within 30 days", "Get WVREC approval before the change"],
+      "explanation": "A broker must notify the commission within 10 days of establishing or changing a trust fund account. The new financial institution must also execute the commission-prepared certification statement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-fund", "account-change", "10-day-notice"]
+    },
+    {
+      "key_topic_ref": "WV-10.3",
+      "question_text": "The WVREC requests copies of a broker's trust account records from the bank. Can the bank provide them?",
+      "correct_answer": "Yes, the broker authorized commission access",
+      "distractors": ["No, banking records are private", "Only with a court order", "Only during a formal investigation"],
+      "explanation": "Brokers must authorize periodic WVREC inspections of trust accounts, and the commission can obtain copies of records from the financial institution. This authorization is a condition of licensure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-fund", "commission-access", "records"]
+    },
+    {
+      "key_topic_ref": "WV-10.3",
+      "question_text": "What happens when a trust account check from a WV broker bounces at the financial institution?",
+      "correct_answer": "The bank must notify the WVREC",
+      "distractors": ["The bank reprocesses the check automatically", "The broker has 5 days to cover it privately", "Nothing happens unless a complaint is filed"],
+      "explanation": "The financial institution has agreed to notify the WVREC if any trust account checks are returned for insufficient funds. This triggers the commission's investigation process.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-fund", "NSF", "bank-notification"]
+    },
+    {
+      "key_topic_ref": "WV-10.3",
+      "question_text": "A WV broker opens a trust account at a new bank. What document must the bank execute?",
+      "correct_answer": "A commission-prepared certification statement",
+      "distractors": ["A broker liability waiver form", "A standard banking agreement only", "An FDIC insurance application form"],
+      "explanation": "The financial institution must execute a commission-prepared statement certifying the exact account title and agreeing to notify the WVREC if any trust account checks bounce.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-fund", "bank-certification", "new-account"]
+    }
+  ]
+}

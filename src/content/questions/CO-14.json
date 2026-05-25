@@ -1,0 +1,228 @@
+{
+  "standard_ref": "CO-14",
+  "scope": "state",
+  "state": "CO",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CO-14.1",
+      "question_text": "Which deed provides the broadest protection for the buyer in Colorado?",
+      "correct_answer": "General warranty deed",
+      "distractors": ["Special warranty deed", "Bargain and sale deed", "Quitclaim deed"],
+      "explanation": "A general warranty deed provides the broadest protection — the grantor warrants title against all defects, including those that arose before the grantor owned the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deeds", "general-warranty", "protection"]
+    },
+    {
+      "key_topic_ref": "CO-14.1",
+      "question_text": "A special warranty deed protects the buyer against defects that arose:",
+      "correct_answer": "Only during the grantor's ownership",
+      "distractors": ["At any time in the property's history", "Only in the last 10 years", "Only after the deed is recorded"],
+      "explanation": "A special warranty deed limits the grantor's warranty to defects that arose during their period of ownership — not for the entire chain of title.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deeds", "special-warranty", "limitations"]
+    },
+    {
+      "key_topic_ref": "CO-14.1",
+      "question_text": "A property owner wants to transfer their interest without making any guarantees about the title. They should use a:",
+      "correct_answer": "Quitclaim deed",
+      "distractors": ["General warranty deed", "Special warranty deed", "Bargain and sale deed"],
+      "explanation": "A quitclaim deed conveys only whatever interest the grantor may have with no warranties. It provides no protection to the grantee regarding title quality.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deeds", "quitclaim", "no-warranties"]
+    },
+    {
+      "key_topic_ref": "CO-14.1",
+      "question_text": "A bargain and sale deed implies that the grantor:",
+      "correct_answer": "Has title but offers limited warranties",
+      "distractors": ["Guarantees title free of all defects", "Makes no claim to owning the property", "Warrants only against recent defects"],
+      "explanation": "A bargain and sale deed conveys the property with the implication that the grantor has title, but with limited warranties compared to a general warranty deed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deeds", "bargain-and-sale", "implied"]
+    },
+    {
+      "key_topic_ref": "CO-14.1",
+      "question_text": "A buyer purchases property and later discovers a title defect from 30 years ago. Which deed would have protected the buyer?",
+      "correct_answer": "A general warranty deed",
+      "distractors": ["A special warranty deed", "A quitclaim deed", "A bargain and sale deed"],
+      "explanation": "Only a general warranty deed protects against all title defects, including those from before the seller's ownership. A special warranty only covers the seller's period of ownership.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deeds", "historical-defect", "protection"]
+    },
+    {
+      "key_topic_ref": "CO-14.2",
+      "question_text": "Colorado is which type of recording state?",
+      "correct_answer": "Race-notice",
+      "distractors": ["Race", "Notice", "Pure race"],
+      "explanation": "Colorado is a race-notice state — the first person to record in good faith and for value prevails. Both good faith and recording priority matter.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "priority"]
+    },
+    {
+      "key_topic_ref": "CO-14.2",
+      "question_text": "Documents affecting real property are recorded with the:",
+      "correct_answer": "County Clerk and Recorder",
+      "distractors": ["Division of Real Estate", "State Treasurer's office", "Real Estate Commission"],
+      "explanation": "Real property documents are recorded with the County Clerk and Recorder, providing constructive notice to the world of interests in the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "county-clerk", "where"]
+    },
+    {
+      "key_topic_ref": "CO-14.2",
+      "question_text": "The Colorado documentary fee applies to:",
+      "correct_answer": "Deeds and other conveyance documents",
+      "distractors": ["Only commercial property transfers", "Only transfers over $500,000", "Only foreclosure sale documents"],
+      "explanation": "The documentary fee is charged on deeds and other documents that convey real property. The fee is based on the sale price and is paid at the time of recording.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "documentary-fee", "applicability"]
+    },
+    {
+      "key_topic_ref": "CO-14.2",
+      "question_text": "Recording a deed provides what type of notice?",
+      "correct_answer": "Constructive notice",
+      "distractors": ["Actual notice", "Implied notice", "No legal notice"],
+      "explanation": "Recording provides constructive notice to the world — everyone is deemed to know about the recorded interest, whether or not they actually searched the records.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "constructive-notice", "effect"]
+    },
+    {
+      "key_topic_ref": "CO-14.2",
+      "question_text": "Buyer A purchases a property on Monday but does not record. Buyer B purchases the same property on Tuesday and records immediately in good faith. Who has priority?",
+      "correct_answer": "Buyer B — first to record in good faith",
+      "distractors": ["Buyer A — first to purchase", "Neither — both claims are void", "The seller — they own it until resolved"],
+      "explanation": "In a race-notice state like Colorado, the first to record in good faith and for value prevails. Buyer B recorded first and acted in good faith.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "priority-dispute"]
+    },
+    {
+      "key_topic_ref": "CO-14.3",
+      "question_text": "Colorado's primary security instrument for real estate loans is the:",
+      "correct_answer": "Deed of trust",
+      "distractors": ["Mortgage", "Security agreement", "Lien certificate"],
+      "explanation": "Colorado uses deeds of trust, not mortgages, as the primary security instrument for real estate loans.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "security-instrument", "Colorado"]
+    },
+    {
+      "key_topic_ref": "CO-14.3",
+      "question_text": "In a Colorado deed of trust, the neutral third party who holds legal title is the:",
+      "correct_answer": "Public trustee",
+      "distractors": ["County recorder", "Title company", "Employing broker"],
+      "explanation": "The public trustee is the neutral third party in a Colorado deed of trust. They hold bare legal title until the loan is satisfied.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "public-trustee", "parties"]
+    },
+    {
+      "key_topic_ref": "CO-14.3",
+      "question_text": "When a borrower fully pays off their loan, the lender (beneficiary) issues a:",
+      "correct_answer": "Release deed",
+      "distractors": ["Quitclaim deed", "Satisfaction of mortgage", "Certificate of title"],
+      "explanation": "Upon full payment, the beneficiary (lender) issues a release deed, which releases the public trustee's hold on the property title.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "release", "payoff"]
+    },
+    {
+      "key_topic_ref": "CO-14.3",
+      "question_text": "A homeowner sells their property without the lender's consent. The due-on-sale clause allows the lender to:",
+      "correct_answer": "Accelerate the remaining loan balance",
+      "distractors": ["Void the entire sale transaction", "Increase the existing interest rate", "Sue the new buyer for all damages"],
+      "explanation": "A due-on-sale clause allows the lender to accelerate the loan — demanding full payment of the remaining balance — if the property is transferred without consent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deed-of-trust", "due-on-sale", "acceleration"]
+    },
+    {
+      "key_topic_ref": "CO-14.3",
+      "question_text": "In a deed of trust, the borrower is called the:",
+      "correct_answer": "Trustor",
+      "distractors": ["Beneficiary", "Trustee", "Mortgagor"],
+      "explanation": "In Colorado's deed of trust, the borrower is the trustor (grantor), the lender is the beneficiary, and the public trustee is the neutral third party.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "trustor", "terminology"]
+    },
+    {
+      "key_topic_ref": "CO-14.4",
+      "question_text": "The Colorado Housing and Finance Authority (CHFA) primarily assists:",
+      "correct_answer": "First-time and low-income homebuyers",
+      "distractors": ["Commercial real estate developers", "Brokers seeking office space loans", "Out-of-state property investors"],
+      "explanation": "CHFA provides below-market-rate mortgage loans and down payment assistance primarily for first-time homebuyers, low-to-moderate income borrowers, and veterans.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CHFA", "first-time-buyer", "assistance"]
+    },
+    {
+      "key_topic_ref": "CO-14.4",
+      "question_text": "CHFA offers programs that include both first mortgage loans and:",
+      "correct_answer": "Down payment and closing cost help",
+      "distractors": ["Free home inspection services", "Property tax exemptions at closing", "Commission fee waivers for buyers"],
+      "explanation": "CHFA offers first mortgage loans and second mortgage assistance specifically for down payments and closing costs.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CHFA", "down-payment", "programs"]
+    },
+    {
+      "key_topic_ref": "CO-14.4",
+      "question_text": "A veteran looking for a state-sponsored mortgage program in Colorado should contact:",
+      "correct_answer": "Colorado Housing and Finance Authority",
+      "distractors": ["The Colorado Real Estate Commission", "The Department of Veterans Affairs only", "The state Division of Real Estate"],
+      "explanation": "CHFA has programs specifically for veterans, in addition to programs for first-time homebuyers and low-to-moderate income borrowers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["CHFA", "veterans", "programs"]
+    },
+    {
+      "key_topic_ref": "CO-14.4",
+      "question_text": "CHFA mortgage rates compared to conventional market rates are typically:",
+      "correct_answer": "Below market rate",
+      "distractors": ["Above market rate", "The same as market rate", "Variable with no set pattern"],
+      "explanation": "CHFA is a state agency providing below-market-rate mortgage loans to help make homeownership more affordable for qualifying borrowers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CHFA", "below-market", "rates"]
+    },
+    {
+      "key_topic_ref": "CO-14.4",
+      "question_text": "A seller offers to carry a second mortgage for the buyer. Under Colorado law, the broker must ensure:",
+      "correct_answer": "Proper disclosure forms are completed",
+      "distractors": ["The seller has a lending license", "The Commission pre-approves the loan", "The interest rate is below 8%"],
+      "explanation": "Seller financing requires specific Commission-approved disclosure forms. The seller does not need a lending license, and the Commission does not pre-approve individual transactions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller-financing", "disclosure", "broker-duty"]
+    }
+  ]
+}

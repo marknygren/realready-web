@@ -1,0 +1,118 @@
+{
+  "standard_ref": "RI-13",
+  "scope": "state",
+  "state": "RI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "RI-13.1",
+      "question_text": "Under the Cesspool Act of 2007, when a property with a cesspool is sold, how long does the new owner have to replace it?",
+      "correct_answer": "12 months from the date of sale",
+      "distractors": ["6 months from the date of sale", "24 months from the date of sale", "Before the closing can occur"],
+      "explanation": "The Cesspool Act of 2007 (RIGL 23-19.15) requires that when a property with a cesspool is transferred, the cesspool must be removed and replaced with an OWTS or connected to public sewer within 12 months of the sale date.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Cesspool Act", "property transfer", "12 months", "replacement"]
+    },
+    {
+      "key_topic_ref": "RI-13.1",
+      "question_text": "A cesspool is located 150 feet from a tidal water shoreline. How does the Cesspool Act classify this cesspool?",
+      "correct_answer": "High-priority requiring immediate replacement",
+      "distractors": ["Standard priority replaced only at sale", "Exempt due to coastal zone protections", "Low priority with no replacement deadline"],
+      "explanation": "The Cesspool Act classifies cesspools within 200 feet of tidal water shorelines, public drinking water wells, or surface drinking water supplies as high-priority. These must be replaced regardless of whether the property is sold.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Cesspool Act", "high-priority", "tidal water", "classification"]
+    },
+    {
+      "key_topic_ref": "RI-13.1",
+      "question_text": "A buyer purchases a property with a cesspool 300 feet from the coast and no nearby wells. What triggers the replacement requirement?",
+      "correct_answer": "The property transfer itself",
+      "distractors": ["Proximity to tidal water within 200 feet", "A failed cesspool inspection", "A complaint from neighboring property owners"],
+      "explanation": "Since this cesspool is not within 200 feet of tidal water, a public well, or a surface drinking water supply, it is not high-priority. However, the Cesspool Act still requires replacement at the time of property transfer, with the new owner having 12 months to complete the work.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Cesspool Act", "property transfer", "non-priority", "replacement trigger"]
+    },
+    {
+      "key_topic_ref": "RI-13.1",
+      "question_text": "Which agency oversees compliance with the Cesspool Act of 2007?",
+      "correct_answer": "Dept. of Environmental Management",
+      "distractors": ["Department of Business Regulation", "RI Housing and Mortgage Finance Corp", "Municipal building inspection department"],
+      "explanation": "The Rhode Island Department of Environmental Management (DEM) oversees compliance with the Cesspool Act of 2007, including enforcement of replacement deadlines and permitting for new OWTS installations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["DEM", "Cesspool Act", "oversight", "compliance"]
+    },
+    {
+      "key_topic_ref": "RI-13.1",
+      "question_text": "A property has a cesspool 180 feet from a public drinking water well. The owner has not replaced it despite the 2014 deadline. What is the owner's legal status?",
+      "correct_answer": "In violation of the Cesspool Act",
+      "distractors": ["Compliant until the property is sold", "Exempt if the cesspool still functions properly", "Protected by a grandfather clause"],
+      "explanation": "Cesspools within 200 feet of public drinking water wells were classified as high-priority and required replacement by January 1, 2014. An owner who has not replaced such a cesspool is in violation of the Cesspool Act regardless of the cesspool's current functionality.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Cesspool Act", "high-priority", "drinking water well", "violation"]
+    },
+    {
+      "key_topic_ref": "RI-13.2",
+      "question_text": "Under RIGL 23-28.1, which properties must comply with Rhode Island's Fire Safety Code?",
+      "correct_answer": "Residential properties",
+      "distractors": ["Only commercial buildings over 5,000 sq ft", "Only multi-family with 3 or more units", "Only properties built before 1990"],
+      "explanation": "Rhode Island's Fire Safety Code under RIGL 23-28.1 requires residential properties to comply with fire safety standards. Inspections may be required to ensure compliance with the code.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fire safety", "RIGL 23-28.1", "residential", "compliance"]
+    },
+    {
+      "key_topic_ref": "RI-13.2",
+      "question_text": "A buyer wants to build a deck on a waterfront property in Narragansett. Which agency regulates development within the coastal zone?",
+      "correct_answer": "Coastal Resources Management Council",
+      "distractors": ["Department of Environmental Management only", "Municipal zoning board exclusively", "RI Housing and Mortgage Finance Corp"],
+      "explanation": "The Coastal Resources Management Council (CRMC) regulates development and alterations within Rhode Island's coastal zone. Property owners must obtain CRMC approval for construction, additions, or modifications to structures in coastal areas.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CRMC", "coastal zone", "waterfront", "development regulation"]
+    },
+    {
+      "key_topic_ref": "RI-13.2",
+      "question_text": "A buyer is purchasing a coastal property with a cesspool. Which TWO regulatory bodies are most likely to affect the transaction?",
+      "correct_answer": "DEM and CRMC",
+      "distractors": ["DBR and RICHR only", "Municipal zoning and RICHR only", "CRMC and the Attorney General only"],
+      "explanation": "A coastal property with a cesspool triggers oversight from two key agencies: the Department of Environmental Management (DEM) for cesspool phase-out compliance and OWTS permitting, and the Coastal Resources Management Council (CRMC) for any construction or development within the coastal zone.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["DEM", "CRMC", "coastal property", "cesspool", "regulatory"]
+    },
+    {
+      "key_topic_ref": "RI-13.2",
+      "question_text": "A rental property fails a fire safety inspection. What is the landlord's obligation under Rhode Island law?",
+      "correct_answer": "Correct the violations before occupancy",
+      "distractors": ["Appeal the inspection to DEM", "Notify tenants but no repairs needed", "Request a waiver from the municipality"],
+      "explanation": "Rhode Island's Fire Safety Code requires residential properties to comply with fire safety standards. When a property fails an inspection, the landlord must correct all identified violations before the property can be lawfully occupied.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fire safety", "landlord obligation", "inspection", "compliance"]
+    },
+    {
+      "key_topic_ref": "RI-13.2",
+      "question_text": "A developer wants to convert agricultural land to residential use. Under RI law, which factor would most directly affect their ability to do so?",
+      "correct_answer": "DEM agricultural preservation restrictions",
+      "distractors": ["Fire Safety Code compliance inspection results", "RICHR fair housing review of the development", "Cesspool Act phase-out schedule requirements"],
+      "explanation": "DEM oversees agricultural preservation programs under RIGL 2-1-5 to 2-1-27. Land enrolled in preservation programs may have restrictions on conversion to residential use, making DEM's agricultural authority the most directly relevant factor.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["agricultural land", "preservation", "DEM", "land conversion"]
+    }
+  ]
+}

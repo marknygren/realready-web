@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NY-16",
+  "scope": "state",
+  "state": "NY",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NY-16.1",
+      "question_text": "A buyer purchases a condominium unit in New York City. What type of property interest does the buyer receive?",
+      "correct_answer": "Real property with a deed and individual title",
+      "distractors": [
+        "Shares of stock in a corporation",
+        "A proprietary lease and stock certificate",
+        "A membership interest in a limited partnership"
+      ],
+      "explanation": "Condominium ownership is real property. The buyer receives a deed conveying title to the individual unit plus an undivided interest in the common elements. Each unit has its own tax lot, and the owner pays property taxes directly.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "real-property", "deed", "ownership"]
+    },
+    {
+      "key_topic_ref": "NY-16.1",
+      "question_text": "A condo developer in New York must file documents with which state office before selling units?",
+      "correct_answer": "The New York Attorney General's office",
+      "distractors": [
+        "The Department of State Division of Licensing",
+        "The NY Department of Financial Services",
+        "The local county clerk's office only"
+      ],
+      "explanation": "New York law requires that condominium offering plans (prospectus) be filed with the New York Attorney General's office before units can be marketed or sold. The AG's office reviews the plan for completeness and compliance with disclosure requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["offering-plan", "attorney-general", "condominium", "disclosure"]
+    },
+    {
+      "key_topic_ref": "NY-16.1",
+      "question_text": "A condo board wants to reject a prospective buyer's purchase. Under New York law, what power does the condo board have?",
+      "correct_answer": "Right of first refusal only",
+      "distractors": [
+        "Broad discretion to accept or reject any buyer",
+        "No authority over resales whatsoever",
+        "Approval power identical to a co-op board"
+      ],
+      "explanation": "Unlike co-op boards, condominium boards in New York have only a right of first refusal, meaning they can match the purchase terms and buy the unit themselves. They cannot arbitrarily reject a buyer without exercising that right. This makes condos easier to sell than co-ops.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "right-of-first-refusal", "board-power", "resale"]
+    },
+    {
+      "key_topic_ref": "NY-16.1",
+      "question_text": "During the initial sales phase of a new condominium, who controls the board of managers?",
+      "correct_answer": "The sponsor appoints the initial board",
+      "distractors": [
+        "Unit purchasers elect the board immediately",
+        "The Attorney General appoints an interim board",
+        "The municipality selects board members"
+      ],
+      "explanation": "The sponsor (developer) appoints the initial board of managers during the early sales phase of a condominium. Control gradually transfers to unit owners as more units are sold. This is outlined in the offering plan filed with the Attorney General.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sponsor", "condominium", "board-of-managers", "initial-sales"]
+    },
+    {
+      "key_topic_ref": "NY-16.1",
+      "question_text": "A condo owner in Brooklyn notices that her monthly common charges have increased significantly. What do common charges typically cover?",
+      "correct_answer": "Shared building expenses like maintenance and insurance",
+      "distractors": [
+        "The building's underlying mortgage and debt service",
+        "Individual unit property taxes and assessments",
+        "The sponsor's development costs and profit margin"
+      ],
+      "explanation": "Condominium common charges cover the costs of maintaining and operating common elements such as lobbies, elevators, hallways, grounds, and building insurance. Unlike co-op maintenance, common charges do not include a building mortgage or individual property taxes, which condo owners pay separately.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["common-charges", "condominium", "maintenance", "shared-expenses"]
+    },
+    {
+      "key_topic_ref": "NY-16.2",
+      "question_text": "A buyer purchases a cooperative apartment in New York. What does the buyer actually own?",
+      "correct_answer": "Shares of stock and a proprietary lease",
+      "distractors": [
+        "A deed to the individual apartment unit",
+        "A condominium interest with common elements",
+        "A life estate in the apartment"
+      ],
+      "explanation": "Cooperative ownership is personal property, not real property. The buyer purchases shares of stock in the cooperative corporation and receives a proprietary lease granting the right to occupy a specific unit. The corporation owns the entire building.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["cooperative", "personal-property", "shares-of-stock", "proprietary-lease"]
+    },
+    {
+      "key_topic_ref": "NY-16.2",
+      "question_text": "A prospective co-op buyer submits a board package and is rejected without explanation. The buyer is not a member of any protected class. Does the buyer have legal recourse?",
+      "correct_answer": "Generally no, co-op boards have broad approval discretion",
+      "distractors": [
+        "Yes, all rejections require a detailed written legal reason",
+        "Yes, the buyer can appeal to the Attorney General",
+        "Yes, the seller can override the board's decision"
+      ],
+      "explanation": "New York co-op boards have broad discretion to accept or reject prospective buyers and generally are not required to provide reasons for rejection. However, the board cannot discriminate against members of protected classes under fair housing laws.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["cooperative", "board-approval", "discretion", "rejection"]
+    },
+    {
+      "key_topic_ref": "NY-16.2",
+      "question_text": "A co-op shareholder's monthly maintenance payment covers which combination of expenses?",
+      "correct_answer": "Building mortgage, taxes, insurance, and operations",
+      "distractors": [
+        "Only common area maintenance and building utilities",
+        "Individual unit property taxes and personal insurance",
+        "Sponsor's ongoing profit and reserve fund contributions"
+      ],
+      "explanation": "Co-op maintenance fees are comprehensive. They cover the building's underlying mortgage debt service, property taxes for the entire building, building insurance, and all operating expenses. This differs from condo common charges, which exclude mortgage and individual taxes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["cooperative", "maintenance-fees", "building-mortgage", "operating-expenses"]
+    },
+    {
+      "key_topic_ref": "NY-16.2",
+      "question_text": "A co-op buyer needs financing to purchase shares. What type of loan does the buyer obtain?",
+      "correct_answer": "A share loan secured by the stock and lease",
+      "distractors": [
+        "A traditional mortgage on the individual apartment unit",
+        "A home equity line of credit",
+        "An unsecured personal loan from the co-op"
+      ],
+      "explanation": "Because co-op ownership involves shares of stock and a proprietary lease rather than real property, the financing instrument is a share loan (not a mortgage). The loan is secured by the shares and the proprietary lease, not by a deed to real property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["share-loan", "cooperative", "financing", "personal-property"]
+    },
+    {
+      "key_topic_ref": "NY-16.2",
+      "question_text": "A co-op shareholder sells her apartment at a profit. The proprietary lease requires a payment to the corporation on resale. What is this payment called?",
+      "correct_answer": "A flip tax",
+      "distractors": [
+        "A transfer tax",
+        "A capital assessment",
+        "A closing surcharge"
+      ],
+      "explanation": "A flip tax is a fee paid to the cooperative corporation when shares are transferred upon sale. It is typically a percentage of the sale price or profit and is specified in the proprietary lease or house rules. The flip tax helps fund building improvements and reserves.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["flip-tax", "cooperative", "resale", "proprietary-lease"]
+    },
+    {
+      "key_topic_ref": "NY-16.3",
+      "question_text": "A buyer choosing between a condo and a co-op wants the easiest resale process. Which ownership type offers fewer board restrictions on resale?",
+      "correct_answer": "Condominium, with only right of first refusal",
+      "distractors": [
+        "Cooperative, because boards cannot delay closings",
+        "Both have identical resale restrictions",
+        "Neither imposes any board involvement in sales"
+      ],
+      "explanation": "Condominiums offer an easier resale process because the board has only a right of first refusal, not full approval power. Co-op boards can reject buyers at their discretion (subject to fair housing laws), creating more uncertainty and longer timelines for sellers.",
+      "difficulty": "easy",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condo-vs-coop", "resale", "board-power", "right-of-first-refusal"]
+    },
+    {
+      "key_topic_ref": "NY-16.3",
+      "question_text": "An agent explains the tax difference between condos and co-ops. How does property tax payment differ?",
+      "correct_answer": "Condo owners pay individually; co-op taxes are in maintenance",
+      "distractors": [
+        "Co-op shareholders pay their property taxes separately to the city",
+        "Both pay identical taxes through the same process",
+        "Neither type pays property taxes in New York City"
+      ],
+      "explanation": "Each condominium unit has its own tax lot, so the owner receives and pays a separate property tax bill. In a co-op, the corporation receives one tax bill for the entire building, and each shareholder's portion is included in the monthly maintenance payment.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condo-vs-coop", "property-tax", "maintenance", "tax-lot"]
+    },
+    {
+      "key_topic_ref": "NY-16.3",
+      "question_text": "A client asks about a building advertised as a 'condop.' How does a condop differ from a standard condominium?",
+      "correct_answer": "The residential portion operates as a co-op within a condo structure",
+      "distractors": [
+        "It is a condo building that allows subletting without any board restrictions",
+        "It is a co-op that issues deeds instead of shares",
+        "It is a rental building converting to mixed ownership"
+      ],
+      "explanation": "A condop is a condominium structure where the residential portion functions as a cooperative. The overall building is organized as a condominium, but the residential units are owned through shares and a proprietary lease. The 80/20 passive income rule often drives this structure for tax benefits.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condop", "condo-vs-coop", "hybrid", "80-20-rule"]
+    },
+    {
+      "key_topic_ref": "NY-16.3",
+      "question_text": "A first-time buyer with limited cash is comparing financing options. Why might a co-op be harder to finance than a condo?",
+      "correct_answer": "Fewer lenders offer share loans than mortgages",
+      "distractors": [
+        "Co-op interest rates are set by the state",
+        "Co-ops require cash purchases with no financing allowed",
+        "Federal regulations prohibit co-op lending"
+      ],
+      "explanation": "Because co-op financing involves share loans secured by personal property rather than mortgages secured by real property, fewer lenders participate in the co-op lending market. Additionally, the underlying building mortgage can affect a buyer's ability to obtain favorable terms.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condo-vs-coop", "financing", "share-loan", "mortgage"]
+    },
+    {
+      "key_topic_ref": "NY-16.3",
+      "question_text": "A buyer's monthly condo common charges are $800, while a comparable co-op's maintenance is $1,400. What primarily explains the co-op's higher amount?",
+      "correct_answer": "Co-op maintenance includes the building mortgage and taxes",
+      "distractors": [
+        "Co-ops always have significantly higher daily operating costs",
+        "Condo boards hide expenses in special assessments",
+        "Co-op buildings are older and need more repairs"
+      ],
+      "explanation": "Co-op maintenance is typically higher than condo common charges because it bundles the building's underlying mortgage debt service and property taxes into the monthly payment. Condo owners pay their mortgage and property taxes separately, making common charges appear lower.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condo-vs-coop", "maintenance", "common-charges", "building-mortgage"]
+    }
+  ]
+}

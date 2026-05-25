@@ -1,0 +1,293 @@
+{
+  "standard_ref": "IL-10",
+  "scope": "state",
+  "state": "IL",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IL-10.1",
+      "question_text": "A buyer and seller both sign a residential purchase contract on Monday. When does the five-business-day attorney review period begin?",
+      "correct_answer": "Tuesday, the day after both parties sign",
+      "distractors": [
+        "Monday, the day the contract is signed",
+        "The following Monday after a weekend pause",
+        "Five calendar days from the listing date"
+      ],
+      "explanation": "In Illinois, the attorney review period begins the day after both parties have signed the contract. Since both signed on Monday, the five-business-day clock starts on Tuesday.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "attorney-review",
+        "timeline",
+        "contract-execution"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.1",
+      "question_text": "During the attorney review period, the buyer's attorney sends a written disapproval letter. What is the status of the contract?",
+      "correct_answer": "The contract is void and earnest money is returned",
+      "distractors": [
+        "The contract remains binding pending mediation",
+        "The seller has 48 hours to respond to the disapproval",
+        "The contract converts to a counteroffer automatically"
+      ],
+      "explanation": "Under the Illinois attorney review clause, if either party's attorney disapproves the contract in writing within the five-business-day period, the contract becomes void. The earnest money must be returned to the buyer.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "attorney-review",
+        "disapproval",
+        "earnest-money"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.1",
+      "question_text": "A seller's attorney wants to disapprove a residential contract during the review period but the buyer does not have an attorney. How must the disapproval be delivered?",
+      "correct_answer": "In writing directly to the buyer",
+      "distractors": [
+        "Verbally to the buyer's real estate agent",
+        "Filed with the local circuit court clerk",
+        "Through the listing broker's managing broker"
+      ],
+      "explanation": "Attorney disapproval must be in writing and delivered to the other party's attorney. If the other party is unrepresented by an attorney, the written disapproval is delivered directly to that party.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "attorney-review",
+        "disapproval",
+        "unrepresented-party"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.1",
+      "question_text": "Both parties sign a contract on Wednesday. Neither attorney sends a disapproval by the following Wednesday. What is the contract's status?",
+      "correct_answer": "The contract is fully binding on both parties",
+      "distractors": [
+        "The contract is void due to attorney inaction",
+        "The review period extends an additional five days",
+        "The contract requires court ratification to proceed"
+      ],
+      "explanation": "If no written disapproval is delivered within the five-business-day attorney review period, the contract becomes binding. The absence of disapproval means both parties are committed to the terms as written.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "attorney-review",
+        "binding-contract",
+        "timeline"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.1",
+      "question_text": "A buyer's attorney calls the seller's attorney on business day four to verbally disapprove the contract. Is this disapproval effective?",
+      "correct_answer": "No, disapproval must be in writing to be valid",
+      "distractors": [
+        "Yes, verbal notice between attorneys is sufficient",
+        "Yes, if confirmed by email within 24 hours",
+        "No, only the parties themselves can disapprove"
+      ],
+      "explanation": "Illinois attorney review disapproval must be delivered in writing. A verbal phone call, even between the attorneys, does not satisfy the written notice requirement and the contract would remain in force.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "attorney-review",
+        "written-notice",
+        "disapproval"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.2",
+      "question_text": "Which contract form is most commonly used for residential transactions in the Chicago metropolitan area?",
+      "correct_answer": "The Multi-Board Residential Real Estate Contract",
+      "distractors": [
+        "The Illinois TREC promulgated contract form",
+        "The Illinois Real Estate Commission standard form",
+        "The state-mandated Uniform Purchase Agreement"
+      ],
+      "explanation": "Illinois does not have state-mandated contract forms like some other states. In the Chicago metro area, the Multi-Board Residential Real Estate Contract is the most widely used form, developed jointly by multiple local Realtor boards.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "contract-forms",
+        "multi-board",
+        "Chicago"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.2",
+      "question_text": "A licensee drafts custom contract language for a buyer who wants unusual possession terms. Is this permitted under Illinois practice standards?",
+      "correct_answer": "No, agents should not draft custom legal language",
+      "distractors": [
+        "Yes, if the agent holds a managing broker license",
+        "Yes, provided the buyer signs a waiver of liability",
+        "No, but only if the transaction exceeds $500,000"
+      ],
+      "explanation": "While Illinois agents may fill in blanks on approved contract forms, they should not draft custom legal language. Drafting legal provisions constitutes the unauthorized practice of law and should be handled by the parties' attorneys.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "contract-forms",
+        "unauthorized-practice-of-law",
+        "agent-duties"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.2",
+      "question_text": "Which of the following is a typical contingency found in an Illinois residential purchase contract?",
+      "correct_answer": "A five-day inspection contingency",
+      "distractors": [
+        "A mandatory 30-day appraisal review period",
+        "A seller-funded home warranty contingency",
+        "A 14-day radon testing exclusivity clause"
+      ],
+      "explanation": "Illinois residential contracts commonly include a professional inspection contingency, typically allowing the buyer five days to conduct inspections. This is one of several standard contingencies alongside financing, attorney review, and closing date provisions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "inspection-contingency",
+        "contract-elements",
+        "buyer-protections"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.2",
+      "question_text": "An agent in downstate Illinois discovers the local board uses a different contract form than the Multi-Board form. Should the agent refuse to use it?",
+      "correct_answer": "No, local boards may have their own approved forms",
+      "distractors": [
+        "Yes, all Illinois transactions require the Multi-Board form",
+        "Yes, unless IDFPR grants a specific exemption",
+        "No, but only for transactions under $250,000"
+      ],
+      "explanation": "Illinois has no state-mandated contract form. While the Multi-Board form dominates the Chicago metro area, local boards throughout the state may develop and use their own approved forms appropriate for their markets.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "contract-forms",
+        "local-boards",
+        "downstate"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.2",
+      "question_text": "A buyer submits an offer with no earnest money deposit. How does this affect the contract under Illinois practice?",
+      "correct_answer": "The contract may lack adequate consideration",
+      "distractors": [
+        "The contract is automatically void under state statute",
+        "The buyer forfeits the right to attorney review",
+        "The seller must counter with a minimum deposit amount"
+      ],
+      "explanation": "Earnest money serves as evidence of the buyer's good faith and contributes to contract consideration. While Illinois does not set a statutory minimum, a contract without earnest money may be challenged for lacking adequate consideration.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "earnest-money",
+        "consideration",
+        "contract-elements"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.3",
+      "question_text": "A seller verbally agrees to sell a home to a buyer for $350,000. The buyer later tries to enforce the agreement. What is the likely outcome?",
+      "correct_answer": "The oral agreement is unenforceable",
+      "distractors": [
+        "The agreement is enforceable if a witness was present",
+        "The agreement is binding once the buyer tenders earnest money",
+        "The agreement is valid for 30 days pending confirmation"
+      ],
+      "explanation": "Under the Illinois Statute of Frauds, real estate sales contracts must be in writing and signed by the party to be charged. An oral agreement to sell real property is unenforceable regardless of witnesses or partial performance.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "statute-of-frauds",
+        "oral-contract",
+        "enforceability"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.3",
+      "question_text": "A landlord enters into a verbal lease with a tenant for a term of 18 months. Is this lease enforceable?",
+      "correct_answer": "No, leases exceeding one year must be in writing",
+      "distractors": [
+        "Yes, all residential leases can be oral in Illinois",
+        "Yes, if the tenant has already taken possession",
+        "No, all leases regardless of term must be written"
+      ],
+      "explanation": "The Illinois Statute of Frauds requires leases with a term exceeding one year to be in writing. An 18-month verbal lease exceeds this threshold and would be unenforceable as written. Month-to-month or shorter-term leases may be oral.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "statute-of-frauds",
+        "leases",
+        "written-requirement"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.3",
+      "question_text": "An agent contacts a seller who has an active exclusive listing with another brokerage and persuades the seller to terminate that listing to sign with the agent's firm. What is the consequence?",
+      "correct_answer": "Disciplinary action for contract interference",
+      "distractors": [
+        "No violation if seller initiated contact",
+        "A fine only if listing had over 90 days left",
+        "The agent must pay a referral fee to the broker"
+      ],
+      "explanation": "Inducing a party to break an existing contract to substitute a new one is a violation of Illinois license law. Interference with an existing listing agreement is grounds for disciplinary action by IDFPR.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "contract-interference",
+        "listing-agreement",
+        "discipline"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.3",
+      "question_text": "Under the Statute of Frauds, which party must sign a real estate contract for it to be enforced against them?",
+      "correct_answer": "The party to be charged with the obligation",
+      "distractors": [
+        "Both buyer and seller in all circumstances",
+        "Only the buyer, since they are making the offer",
+        "The broker representing the selling party"
+      ],
+      "explanation": "The Statute of Frauds requires that a real estate contract be signed by the party to be charged, meaning the party against whom enforcement is sought. If a seller refuses to convey, the contract must bear the seller's signature to be enforced against them.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "statute-of-frauds",
+        "party-to-be-charged",
+        "enforceability"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-10.3",
+      "question_text": "A licensee learns that a competing agent convinced a buyer under contract to cancel and purchase a different property through that agent. This practice violates which principle?",
+      "correct_answer": "Prohibition against inducing breach of contract",
+      "distractors": [
+        "The duty of confidentiality owed to the original seller",
+        "The restriction on dual agency in residential transactions",
+        "The requirement for written buyer representation agreements"
+      ],
+      "explanation": "Illinois license law prohibits inducing a party to break an existing contract to substitute a new one. Convincing a buyer to cancel a binding purchase agreement to redirect the transaction is a clear case of contract interference subject to discipline.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "contract-interference",
+        "inducing-breach",
+        "discipline"
+      ]
+    }
+  ]
+}

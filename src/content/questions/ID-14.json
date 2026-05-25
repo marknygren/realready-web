@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ID-14",
+  "scope": "state",
+  "state": "ID",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "ID-14.1",
+      "question_text": "What percentage of home value does Idaho's homeowner's exemption exempt from property tax?",
+      "correct_answer": "50%",
+      "distractors": ["25%", "75%", "100%"],
+      "explanation": "Idaho's homeowner's exemption exempts 50% of the home's value (including up to 1 acre of land) from property taxes, with a maximum exemption of $125,000.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homeowner exemption", "50%", "property tax"]
+    },
+    {
+      "key_topic_ref": "ID-14.1",
+      "question_text": "What is the maximum dollar amount of Idaho's homeowner's exemption?",
+      "correct_answer": "$125,000",
+      "distractors": ["$100,000", "$150,000", "$200,000"],
+      "explanation": "The homeowner's exemption caps at $125,000. For a home valued at $250,000 or less, the full 50% is exempt. For higher values, the exemption is capped at $125,000.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homeowner exemption", "$125,000", "maximum"]
+    },
+    {
+      "key_topic_ref": "ID-14.1",
+      "question_text": "A home is valued at $350,000. What amount is exempt under Idaho's homeowner's exemption?",
+      "correct_answer": "$125,000 (the cap applies)",
+      "distractors": ["$175,000 (50% of value)", "$100,000", "$350,000 (fully exempt)"],
+      "explanation": "Although 50% of $350,000 would be $175,000, the exemption is capped at $125,000. So the taxable value would be $350,000 minus $125,000 = $225,000.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homeowner exemption", "calculation", "cap"]
+    },
+    {
+      "key_topic_ref": "ID-14.1",
+      "question_text": "The Circuit Breaker program provides property tax relief of what amount range?",
+      "correct_answer": "$250 to $1,500",
+      "distractors": ["$100 to $500", "$500 to $2,000", "$1,000 to $5,000"],
+      "explanation": "The Property Tax Reduction Program (Circuit Breaker) can reduce property taxes by $250 to $1,500 on the home and up to one acre of land for qualifying homeowners.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Circuit Breaker", "tax reduction", "range"]
+    },
+    {
+      "key_topic_ref": "ID-14.1",
+      "question_text": "Which homeowner qualifies for Idaho's Circuit Breaker program?",
+      "correct_answer": "A 68-year-old with 2025 income under $39,130",
+      "distractors": ["Any homeowner regardless of age or income", "A 45-year-old with income under $50,000", "Only veterans with disability ratings"],
+      "explanation": "The Circuit Breaker requires both qualifying status (65+, disabled, blind, widowed, certain veterans, or minor dependents) AND income below the threshold ($39,130 for 2025 income toward 2026 taxes).",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Circuit Breaker", "eligibility", "income"]
+    },
+    {
+      "key_topic_ref": "ID-14.2",
+      "question_text": "At what value does Idaho assess property for tax purposes?",
+      "correct_answer": "Full market value",
+      "distractors": ["50% of market value", "75% of market value", "Assessed value set at purchase price"],
+      "explanation": "Idaho assesses property at full market value. Tax rates are then applied by local taxing districts based on their budgetary needs. The homeowner's exemption reduces the taxable value.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "assessment", "full market value"]
+    },
+    {
+      "key_topic_ref": "ID-14.2",
+      "question_text": "Which entities levy property taxes in Idaho?",
+      "correct_answer": "Counties, cities, school districts, and special districts",
+      "distractors": ["Only the state and county governments", "Only the county assessor's office", "The Idaho State Tax Commission exclusively"],
+      "explanation": "Idaho property taxes are levied by multiple local taxing entities: counties, cities, school districts, and special taxing districts (like highway districts and fire districts). The state does not levy property tax.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "taxing districts", "local"]
+    },
+    {
+      "key_topic_ref": "ID-14.2",
+      "question_text": "Where does a homeowner apply for the homeowner's exemption in Idaho?",
+      "correct_answer": "The county assessor's office",
+      "distractors": ["The Idaho State Tax Commission", "IREC", "The county treasurer's office"],
+      "explanation": "The homeowner's exemption is applied for through the county assessor's office, which administers property tax exemptions at the local level.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homeowner exemption", "county assessor", "application"]
+    },
+    {
+      "key_topic_ref": "ID-14.2",
+      "question_text": "How are Idaho property tax rates determined?",
+      "correct_answer": "Based on local taxing district budgetary needs",
+      "distractors": ["Set annually by the state legislature", "Fixed at a percentage of assessed value statewide", "Determined by IREC based on market conditions"],
+      "explanation": "Idaho property tax rates are determined by local taxing districts based on their approved budgets. Different districts have different rates, which is why tax rates vary significantly by location.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "rates", "budgets"]
+    },
+    {
+      "key_topic_ref": "ID-14.2",
+      "question_text": "A manufactured home is permanently affixed to land. Can it qualify for the homeowner's exemption?",
+      "correct_answer": "Yes, if it is the owner's primary residence",
+      "distractors": ["No, only site-built homes qualify", "Only if valued over $100,000", "Only if the land is also owned by the homeowner"],
+      "explanation": "Manufactured homes that are permanently affixed to land can qualify for the homeowner's exemption if they serve as the owner's primary residence. The key requirements are permanent attachment and owner occupancy.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homeowner exemption", "manufactured home", "eligibility"]
+    },
+    {
+      "key_topic_ref": "ID-14.3",
+      "question_text": "Property taxes are being prorated at closing. The seller has paid taxes through December 31, but the closing is October 15. Who owes whom?",
+      "correct_answer": "The buyer owes the seller for Oct 15 through Dec 31",
+      "distractors": ["The seller owes the buyer for Jan 1 through Oct 15", "No proration is needed since taxes are prepaid", "The title company absorbs the difference"],
+      "explanation": "Since the seller prepaid taxes through year-end, the buyer benefits from that prepayment for the period after closing. The buyer must reimburse the seller for the Oct 15-Dec 31 portion at closing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["closing costs", "proration", "property tax"]
+    },
+    {
+      "key_topic_ref": "ID-14.3",
+      "question_text": "In a typical Idaho closing, which professional handles the escrow process?",
+      "correct_answer": "A title or escrow company",
+      "distractors": ["The listing agent", "The county recorder", "The IREC compliance officer"],
+      "explanation": "In Idaho, title or escrow companies typically handle the closing process, including holding funds in escrow, preparing settlement statements, and ensuring proper document recording.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "escrow", "title company"]
+    },
+    {
+      "key_topic_ref": "ID-14.3",
+      "question_text": "Annual property taxes are $3,600. The closing is on April 1, and the seller has not yet paid taxes for the current year. How much does the seller owe at closing for the tax proration?",
+      "correct_answer": "$900 (3 months: Jan-Mar)",
+      "distractors": ["$300 (1 month)", "$1,800 (6 months)", "$2,700 (9 months)"],
+      "explanation": "$3,600 / 12 months = $300/month. The seller owes for January through March (3 months) = $300 x 3 = $900. This amount is credited to the buyer at closing to cover the seller's share.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["closing costs", "proration", "calculation"]
+    },
+    {
+      "key_topic_ref": "ID-14.3",
+      "question_text": "When does the homeowner's exemption end?",
+      "correct_answer": "When ownership changes or it is no longer the primary residence",
+      "distractors": ["After 10 years of continuous use by the owner", "When the property value exceeds $500,000 in assessments", "It must be renewed by the owner annually at the assessor"],
+      "explanation": "The homeowner's exemption remains in effect until ownership changes or the home is no longer the owner's primary residence. It does not expire on its own and does not need annual renewal.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homeowner exemption", "termination", "ownership change"]
+    },
+    {
+      "key_topic_ref": "ID-14.3",
+      "question_text": "Which of the following is a typical closing cost in an Idaho real estate transaction?",
+      "correct_answer": "Title insurance premium",
+      "distractors": ["State income tax on the sale", "IREC transaction fee", "Real estate transfer tax"],
+      "explanation": "Title insurance is a common closing cost in Idaho. Idaho does not have a state real estate transfer tax, and IREC does not charge transaction fees. State income tax applies to annual income, not individual sales at closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing costs", "title insurance"]
+    }
+  ]
+}

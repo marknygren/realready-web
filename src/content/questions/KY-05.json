@@ -1,0 +1,173 @@
+{
+  "standard_ref": "KY-05",
+  "scope": "state",
+  "state": "KY",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "KY-05.1",
+      "question_text": "What is the minimum E&O insurance coverage required for Kentucky licensees?",
+      "correct_answer": "$100,000 per claim",
+      "distractors": ["$50,000 per claim", "$250,000 per claim", "$500,000 per claim"],
+      "explanation": "Kentucky requires all active licensees to maintain E&O insurance with a minimum of $100,000 per claim, excluding investigation and defense costs.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O", "insurance", "coverage"]
+    },
+    {
+      "key_topic_ref": "KY-05.1",
+      "question_text": "A licensee obtains private E&O coverage instead of KREC's group policy. What additional step is required?",
+      "correct_answer": "File KREC Form 203 annually",
+      "distractors": ["Notify the group insurer in writing", "Pay a supplemental fee to KREC", "Obtain KREC pre-approval of the carrier"],
+      "explanation": "Licensees with private E&O coverage must file KREC Form 203 (Certification of Insurance Coverage) annually to verify their coverage meets minimum requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O", "Form 203", "private coverage"]
+    },
+    {
+      "key_topic_ref": "KY-05.1",
+      "question_text": "Under KREC's group E&O policy, can the insurer cancel coverage for an individual licensee?",
+      "correct_answer": "No, individual cancellation is prohibited",
+      "distractors": ["Yes, for excessive claims filed by licensee", "Yes, with 30 days prior written notice", "Only with prior KREC written approval"],
+      "explanation": "Under the KREC group policy, the insurer has no right to cancel coverage for any individual licensee. This ensures all licensees maintain coverage regardless of claims history.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O", "group policy", "cancellation"]
+    },
+    {
+      "key_topic_ref": "KY-05.1",
+      "question_text": "A licensee wants to place their license in inactive/escrow status. What E&O requirement applies?",
+      "correct_answer": "Must obtain 1-year tail coverage first",
+      "distractors": ["E&O coverage ends immediately", "Must maintain full coverage while inactive", "No E&O requirement for inactive status"],
+      "explanation": "Before entering inactive status, licensees must obtain extended reporting period (tail) coverage for 1 year. This covers claims that may arise from past activities.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O", "tail coverage", "inactive"]
+    },
+    {
+      "key_topic_ref": "KY-05.1",
+      "question_text": "What happens to a licensee's E&O coverage if they fail to pay the group policy premium?",
+      "correct_answer": "Their license becomes inactive",
+      "distractors": ["Coverage continues through the renewal", "KREC pays the premium temporarily", "A 90-day grace period applies automatically"],
+      "explanation": "Maintaining E&O coverage is a condition of holding an active license. If a licensee fails to pay the group policy premium or maintain private coverage, their license becomes inactive.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O", "premium", "inactive"]
+    },
+    {
+      "key_topic_ref": "KY-05.2",
+      "question_text": "Kentucky's Recovery Fund is formally called what?",
+      "correct_answer": "Education, Research, and Recovery Fund",
+      "distractors": ["Consumer Protection and Recovery Fund", "Real Estate Licensee Guaranty Fund", "Professional Indemnity Recovery Fund"],
+      "explanation": "The full name is the Real Estate Education, Research, and Recovery Fund. It serves a dual purpose: consumer protection and funding education/research programs.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "name", "purpose"]
+    },
+    {
+      "key_topic_ref": "KY-05.2",
+      "question_text": "A consumer was defrauded by a licensee. Before filing a Recovery Fund claim, what must they demonstrate?",
+      "correct_answer": "They exhausted other remedies first",
+      "distractors": ["They filed a police report", "They notified the licensee's broker", "They attempted mediation with KREC"],
+      "explanation": "Claimants must have exhausted other remedies before filing a Recovery Fund claim. Additionally, the licensee must have been found guilty of fraud and refused to pay within 20 days.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery fund", "claims", "requirements"]
+    },
+    {
+      "key_topic_ref": "KY-05.2",
+      "question_text": "The Recovery Fund is available when a licensee has been found guilty of what specific offense?",
+      "correct_answer": "Fraud under KRS 324.160",
+      "distractors": ["Any license law violation", "Negligence or incompetence", "Breach of contract"],
+      "explanation": "Recovery Fund claims are available specifically when a licensee has been found guilty of fraud under KRS 324.160. Not all violations qualify — it must be fraud.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "fraud", "eligibility"]
+    },
+    {
+      "key_topic_ref": "KY-05.2",
+      "question_text": "How is Kentucky's Recovery Fund primarily funded?",
+      "correct_answer": "Through license fees",
+      "distractors": ["Through a special state tax", "Through licensee annual assessments", "Through E&O insurance premiums"],
+      "explanation": "The Recovery Fund is funded through a portion of license fees paid by all licensees. KREC must maintain a minimum balance of $400,000 in the fund.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "funding", "fees"]
+    },
+    {
+      "key_topic_ref": "KY-05.2",
+      "question_text": "When the Recovery Fund balance exceeds $400,000, how may the excess be used?",
+      "correct_answer": "For education, research, and seminars",
+      "distractors": ["Returned to licensees as a rebate", "Transferred to the state general fund", "Reserved exclusively for future claims"],
+      "explanation": "Funds above the $400,000 minimum may be used for education, research, seminars, and real estate programs. This dual purpose distinguishes Kentucky's fund from pure recovery funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "education", "excess"]
+    },
+    {
+      "key_topic_ref": "KY-05.3",
+      "question_text": "What is the maximum Recovery Fund payout per claimant?",
+      "correct_answer": "$20,000",
+      "distractors": ["$10,000", "$25,000", "$50,000"],
+      "explanation": "Kentucky's Recovery Fund limits payouts to $20,000 maximum per claimant and $50,000 aggregate maximum per licensee across all claimants.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "limits", "claimant"]
+    },
+    {
+      "key_topic_ref": "KY-05.3",
+      "question_text": "A licensee has had $35,000 in Recovery Fund claims paid against them. A new claimant seeks $20,000. What is the maximum they can receive?",
+      "correct_answer": "$15,000",
+      "distractors": ["$20,000", "$50,000", "Nothing"],
+      "explanation": "The aggregate limit per licensee is $50,000. Since $35,000 has already been paid, only $15,000 remains available — even though the per-claimant limit is $20,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery fund", "limits", "aggregate"]
+    },
+    {
+      "key_topic_ref": "KY-05.3",
+      "question_text": "When the Recovery Fund pays a claim on behalf of a licensee, what happens to their license?",
+      "correct_answer": "Suspended until the fund is repaid",
+      "distractors": ["Remains active with some restrictions", "Permanently revoked by KREC", "Placed on 2-year probation term"],
+      "explanation": "If the Recovery Fund pays a claim, the licensee's license is automatically suspended and remains so until the licensee repays the full amount to the fund.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "suspension", "repayment"]
+    },
+    {
+      "key_topic_ref": "KY-05.3",
+      "question_text": "What is the aggregate Recovery Fund maximum per licensee?",
+      "correct_answer": "$50,000 total across all claimants",
+      "distractors": ["$20,000 total across all claimants", "$100,000 total across all claimants", "$75,000 total across all claimants"],
+      "explanation": "The Recovery Fund aggregate maximum is $50,000 per licensee across all claimants combined. Individual claimants are limited to $20,000 each within this aggregate.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "aggregate", "limits"]
+    },
+    {
+      "key_topic_ref": "KY-05.3",
+      "question_text": "A licensee found guilty of fraud refuses to pay the judgment. How long do they have before Recovery Fund claims become available?",
+      "correct_answer": "20 days from the final order",
+      "distractors": ["10 days from the final order", "30 days from the final order", "60 days from the final order"],
+      "explanation": "The licensee must have refused to pay within 20 days of the final order before Recovery Fund claims become available. This gives the licensee an opportunity to pay voluntarily.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "timeline", "fraud"]
+    }
+  ]
+}

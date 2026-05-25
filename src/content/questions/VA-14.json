@@ -1,0 +1,173 @@
+{
+  "standard_ref": "VA-14",
+  "scope": "state",
+  "state": "VA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "VA-14.1",
+      "question_text": "In Virginia, what is the primary security instrument used to finance real estate?",
+      "correct_answer": "Deed of trust",
+      "distractors": ["Mortgage", "Promissory note", "Land contract"],
+      "explanation": "Virginia uses the deed of trust as its primary security instrument, not the mortgage. The deed of trust involves three parties and provides the trustee with the power of sale for faster foreclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "security-instrument", "financing"]
+    },
+    {
+      "key_topic_ref": "VA-14.1",
+      "question_text": "In a Virginia deed of trust, who holds the power of sale?",
+      "correct_answer": "The trustee",
+      "distractors": ["The borrower", "The lender", "The court clerk"],
+      "explanation": "In a deed of trust, the trustee holds the power of sale. If the borrower defaults, the lender directs the trustee to exercise this power to conduct a non-judicial foreclosure sale.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "trustee", "power-of-sale"]
+    },
+    {
+      "key_topic_ref": "VA-14.1",
+      "question_text": "A borrower signs a deed of trust in Virginia. Who is the beneficiary?",
+      "correct_answer": "The lender",
+      "distractors": ["The borrower", "The trustee", "The title company"],
+      "explanation": "In a deed of trust, the three parties are the borrower (grantor), the lender (beneficiary), and the trustee. The lender is the beneficiary because the instrument secures repayment of the loan.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deed-of-trust", "beneficiary", "three-parties"]
+    },
+    {
+      "key_topic_ref": "VA-14.1",
+      "question_text": "How does a Virginia deed of trust differ from a traditional mortgage?",
+      "correct_answer": "It involves three parties instead of two",
+      "distractors": ["It requires a higher down payment", "It cannot be used for residential property", "It must be renewed every five years"],
+      "explanation": "A deed of trust has three parties (borrower, lender, trustee) while a mortgage has two (borrower, lender). The trustee's role enables non-judicial foreclosure through the power of sale.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deed-of-trust", "mortgage-comparison", "structure"]
+    },
+    {
+      "key_topic_ref": "VA-14.1",
+      "question_text": "A Virginia homeowner defaults and the lender wants to foreclose. Who does the lender contact first?",
+      "correct_answer": "The named trustee",
+      "distractors": ["The circuit court", "The local sheriff", "The state attorney"],
+      "explanation": "Because Virginia uses deeds of trust, the lender directs the trustee to begin foreclosure. The trustee holds the power of sale and conducts the process without requiring court action.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deed-of-trust", "foreclosure-start", "trustee"]
+    },
+    {
+      "key_topic_ref": "VA-14.2",
+      "question_text": "What type of foreclosure does Virginia primarily use?",
+      "correct_answer": "Non-judicial through trustee's power of sale",
+      "distractors": ["Judicial through circuit court", "Strict foreclosure by court order", "Administrative through state agency"],
+      "explanation": "Virginia primarily uses non-judicial foreclosure through the trustee's power of sale in the deed of trust. This process avoids the courts and is one of the fastest in the nation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "non-judicial", "power-of-sale"]
+    },
+    {
+      "key_topic_ref": "VA-14.2",
+      "question_text": "What is the minimum time between the trustee's notice and the foreclosure sale in Virginia?",
+      "correct_answer": "14 days",
+      "distractors": ["7 days", "30 days", "90 days"],
+      "explanation": "Virginia requires a minimum of 14 days between the trustee's written notice to the borrower and the foreclosure sale. The sale must also be advertised in a newspaper once per week for 2 successive weeks.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "notice-period", "timeline"]
+    },
+    {
+      "key_topic_ref": "VA-14.2",
+      "question_text": "A trustee publishes a foreclosure sale notice. How often must it appear in the newspaper?",
+      "correct_answer": "Once per week for 2 successive weeks",
+      "distractors": ["Daily for 7 consecutive days", "Once per week for 4 weeks", "Three times in one week"],
+      "explanation": "Virginia requires foreclosure sale notices to be published in a newspaper once per week for 2 successive weeks. This publication requirement runs alongside the 14-day minimum notice to the borrower.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "publication", "notice-requirement"]
+    },
+    {
+      "key_topic_ref": "VA-14.2",
+      "question_text": "Where are Virginia non-judicial foreclosure sales typically held?",
+      "correct_answer": "At public auction, usually at the courthouse",
+      "distractors": ["At the lender's main office", "Online through a state portal", "At the property being foreclosed"],
+      "explanation": "Virginia foreclosure sales are held at public auction, typically at the courthouse in the jurisdiction where the property is located. The trustee conducts the sale to the highest bidder.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "auction", "courthouse-sale"]
+    },
+    {
+      "key_topic_ref": "VA-14.2",
+      "question_text": "Why is Virginia considered one of the fastest states for foreclosure?",
+      "correct_answer": "Non-judicial process can finish in 3 to 4 weeks",
+      "distractors": ["Courts fast-track all foreclosure cases", "No notice to borrower is required", "State law waives all waiting periods"],
+      "explanation": "Virginia's non-judicial foreclosure through the trustee's power of sale can be completed in as few as 3-4 weeks, making it one of the fastest processes in the country.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["foreclosure", "timeline", "speed"]
+    },
+    {
+      "key_topic_ref": "VA-14.3",
+      "question_text": "After a Virginia foreclosure sale, does the borrower have a statutory right of redemption?",
+      "correct_answer": "No, Virginia has no post-sale redemption right",
+      "distractors": ["Yes, within 6 months of the sale", "Yes, within 12 months of the sale", "Only if the property is a primary residence"],
+      "explanation": "Virginia does not provide a statutory right of redemption after the foreclosure sale. However, the borrower may cure the default and stop foreclosure at any time before the sale occurs.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["redemption", "foreclosure", "borrower-rights"]
+    },
+    {
+      "key_topic_ref": "VA-14.3",
+      "question_text": "A Virginia foreclosure sale yields $280,000 on a $320,000 loan balance. What can the lender pursue?",
+      "correct_answer": "A deficiency judgment for $40,000",
+      "distractors": ["Nothing further after the sale", "Foreclosure on borrower's other properties", "A criminal fraud charge against the borrower"],
+      "explanation": "Virginia lenders may seek a deficiency judgment for the difference between the loan balance and the sale price. The borrower can contest the deficiency if the property sold below fair market value.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deficiency-judgment", "foreclosure", "lender-rights"]
+    },
+    {
+      "key_topic_ref": "VA-14.3",
+      "question_text": "What is VHDA's primary role in Virginia real estate financing?",
+      "correct_answer": "Providing below-market rate loans to qualified buyers",
+      "distractors": ["Regulating all mortgage lenders statewide", "Insuring loans against borrower default", "Setting maximum interest rates for banks"],
+      "explanation": "The Virginia Housing Development Authority (VHDA) is a state agency that provides below-market interest rate loans, primarily for first-time homebuyers. It also offers down payment assistance programs.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["VHDA", "state-financing", "first-time-buyers"]
+    },
+    {
+      "key_topic_ref": "VA-14.3",
+      "question_text": "How does VHDA deliver its loan programs to Virginia homebuyers?",
+      "correct_answer": "Through approved private lenders",
+      "distractors": ["Directly from VHDA branch offices", "Through the county treasurer's office", "Via federal credit unions only"],
+      "explanation": "VHDA works through a network of approved private lenders rather than lending directly to borrowers. Homebuyers apply through these participating lenders to access VHDA's below-market rate programs.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["VHDA", "private-lenders", "loan-delivery"]
+    },
+    {
+      "key_topic_ref": "VA-14.3",
+      "question_text": "A borrower in default wants to stop a Virginia foreclosure. What is the latest they can act?",
+      "correct_answer": "Any time before the foreclosure sale occurs",
+      "distractors": ["Within 14 days of receiving notice", "Within 30 days of the first missed payment", "Only during the newspaper publication period"],
+      "explanation": "In Virginia, a borrower can cure the default and halt foreclosure at any time before the sale takes place. Once the sale is completed, there is no statutory right of redemption.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["cure-default", "foreclosure", "borrower-rights"]
+    }
+  ]
+}

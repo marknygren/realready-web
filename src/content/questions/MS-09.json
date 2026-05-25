@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MS-09",
+  "scope": "state",
+  "state": "MS",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "MS-09.1",
+      "question_text": "By when must a Mississippi broker deposit earnest money into the trust account?",
+      "correct_answer": "Close of business on the next banking day",
+      "distractors": ["Within 3 business days of receipt", "Within 5 calendar days of receipt", "Within 24 hours of contract acceptance"],
+      "explanation": "Mississippi has one of the shortest deposit windows in the US. Earnest money must be deposited by close of business on the NEXT BANKING DAY after receipt. This strict timeline protects buyer funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest-money", "deposit-deadline", "trust-account"]
+    },
+    {
+      "key_topic_ref": "MS-09.1",
+      "question_text": "A salesperson receives an earnest money check on Friday afternoon. When must it be deposited?",
+      "correct_answer": "By close of business Monday",
+      "distractors": ["By close of business Friday", "By close of business Tuesday", "Within 48 hours of receipt"],
+      "explanation": "The deposit must occur by close of business on the next banking day. Since Saturday and Sunday are not banking days, the next banking day after Friday is Monday. The deposit deadline is Monday's close of business.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "deposit-timing", "weekend"]
+    },
+    {
+      "key_topic_ref": "MS-09.1",
+      "question_text": "A salesperson collects a $5,000 earnest money deposit from a buyer. What must the salesperson do with it?",
+      "correct_answer": "Pay it over to the broker immediately",
+      "distractors": ["Deposit it in their personal bank account", "Hold it until the contract is fully executed", "Mail it to MREC within 3 business days"],
+      "explanation": "A licensee must pay over all deposits to the responsible broker IMMEDIATELY upon receipt. The salesperson cannot hold, deposit, or otherwise manage earnest money independently.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "salesperson", "immediate-transfer"]
+    },
+    {
+      "key_topic_ref": "MS-09.1",
+      "question_text": "A buyer gives earnest money to an agent on Wednesday at 4 PM. The broker deposits it Thursday morning. Has the deadline been met?",
+      "correct_answer": "Yes, it was deposited on the next banking day",
+      "distractors": ["No, it should have been deposited Wednesday", "No, it must be deposited within one hour", "Only if MREC approved the timing"],
+      "explanation": "The requirement is deposit by close of business on the next banking day after receipt. Wednesday's next banking day is Thursday. Depositing Thursday morning meets the deadline.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "deposit-timing", "compliance"]
+    },
+    {
+      "key_topic_ref": "MS-09.1",
+      "question_text": "Compared to most other states, Mississippi's earnest money deposit window is considered:",
+      "correct_answer": "One of the shortest in the country",
+      "distractors": ["Average among all 50 states", "One of the longest in the country", "Identical to the federal standard"],
+      "explanation": "Mississippi's next-banking-day deposit requirement is one of the shortest windows in the United States. Many other states allow 3 to 5 business days for deposit, making Mississippi's rule notably strict.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest-money", "deposit-window", "comparison"]
+    },
+    {
+      "key_topic_ref": "MS-09.2",
+      "question_text": "A Mississippi broker deposits $200 of personal funds into the trust account to cover bank fees. Is this permitted?",
+      "correct_answer": "Yes, to cover bank service charges",
+      "distractors": ["No, personal funds are never allowed", "Only with prior MREC written approval", "Only if the amount exceeds $500"],
+      "explanation": "The only exception to the commingling prohibition is that a broker may keep personal funds in the trust account solely to cover bank service charges. No other personal funds are permitted.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-account", "commingling", "bank-fees"]
+    },
+    {
+      "key_topic_ref": "MS-09.2",
+      "question_text": "A broker temporarily deposits a personal commission check into the trust account. This action constitutes:",
+      "correct_answer": "Prohibited commingling of funds",
+      "distractors": ["Acceptable short-term fund management", "Standard brokerage accounting practice", "A minor recordkeeping issue only"],
+      "explanation": "Commingling broker personal funds with client funds is strictly prohibited in Mississippi. The only exception is keeping minimal personal funds to cover bank service charges. A commission check is personal funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "trust-account", "prohibition"]
+    },
+    {
+      "key_topic_ref": "MS-09.2",
+      "question_text": "Who must be listed as the account holder on a Mississippi real estate trust account?",
+      "correct_answer": "The responsible broker at all times",
+      "distractors": ["The salesperson who collected the funds", "The title company handling closing", "The property seller or buyer"],
+      "explanation": "The responsible broker must be the account holder on the trust account at all times. This ensures proper oversight and accountability for all client funds held in trust.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "account-holder", "responsible-broker"]
+    },
+    {
+      "key_topic_ref": "MS-09.2",
+      "question_text": "A salesperson manages rental properties and wants to open a separate escrow account. Is this permitted?",
+      "correct_answer": "No, only the broker may hold escrow accounts",
+      "distractors": ["Yes, for property management only", "Yes, with the broker's written approval", "Yes, if MREC issues a special permit"],
+      "explanation": "A salesperson may NOT establish a property management escrow account independent of the broker. All escrow and trust accounts must be under the responsible broker's control and name.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["escrow-account", "salesperson", "property-management"]
+    },
+    {
+      "key_topic_ref": "MS-09.2",
+      "question_text": "A broker maintains $50 of personal funds in the trust account to prevent the balance from dropping below the bank minimum. This practice is:",
+      "correct_answer": "Permitted to cover bank service charges",
+      "distractors": ["A violation of commingling rules", "Allowed only with client written consent", "Required by MREC for all trust accounts"],
+      "explanation": "A broker may keep personal funds in the trust account ONLY to cover bank service charges. Maintaining a minimal amount to meet bank minimums and prevent service fees falls within this narrow exception.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust-account", "commingling-exception", "bank-fees"]
+    },
+    {
+      "key_topic_ref": "MS-09.3",
+      "question_text": "A seller refuses to close, and the broker represents the seller. What happens to the buyer's earnest money deposit?",
+      "correct_answer": "The entire deposit is returned to the buyer",
+      "distractors": ["The deposit is split equally between parties", "The broker retains it as earned commission", "The deposit goes to the seller as damages"],
+      "explanation": "If the seller fails to consummate the transaction and the broker is the seller's agent, the ENTIRE deposit must be returned to the buyer. The broker cannot retain any portion.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "seller-default", "refund"]
+    },
+    {
+      "key_topic_ref": "MS-09.3",
+      "question_text": "Both the buyer and seller claim entitlement to the earnest money deposit, and neither will agree to release it. What should the broker do?",
+      "correct_answer": "Hold funds until mutual release or court order",
+      "distractors": ["Split the deposit equally between parties", "Return it to the buyer automatically", "Deposit it with MREC for safekeeping"],
+      "explanation": "When parties dispute the earnest money, the broker must hold the funds until receiving a mutual written release from both parties or a court order (interpleader). The broker cannot unilaterally decide who receives the funds.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "dispute", "interpleader"]
+    },
+    {
+      "key_topic_ref": "MS-09.3",
+      "question_text": "MREC wishes to inspect a broker's trust account records. How much advance notice must MREC provide?",
+      "correct_answer": "No advance notice is required",
+      "distractors": ["At least 24 hours' written notice", "At least 48 hours' written notice", "A minimum of 5 business days"],
+      "explanation": "All trust account records are subject to MREC inspection at any time without notice. Brokers must maintain records in a condition that allows immediate review by regulators.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC-inspection", "trust-account", "no-notice"]
+    },
+    {
+      "key_topic_ref": "MS-09.3",
+      "question_text": "A broker files an interpleader action with the court regarding disputed earnest money. What does this accomplish?",
+      "correct_answer": "Transfers the dispute resolution to the court",
+      "distractors": ["Automatically awards funds to the buyer", "Releases the broker from all liability", "Cancels the purchase agreement entirely"],
+      "explanation": "An interpleader action allows the broker to deposit the disputed funds with the court and let the court determine who is entitled to the money. It transfers the dispute resolution responsibility from the broker to the judiciary.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["interpleader", "court-action", "dispute-resolution"]
+    },
+    {
+      "key_topic_ref": "MS-09.3",
+      "question_text": "A seller's agent holds earnest money when the seller breaches the contract. The buyer demands the deposit back. What is the correct action?",
+      "correct_answer": "Return the entire deposit to the buyer",
+      "distractors": ["Hold funds pending MREC guidance", "Deduct the broker's commission first", "Return half and hold half for the seller"],
+      "explanation": "When the seller fails to consummate and the broker is the seller's agent, Mississippi law requires the ENTIRE deposit to be returned to the buyer. The broker has no right to retain any portion for commission or other fees.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["earnest-money", "seller-breach", "buyer-refund"]
+    }
+  ]
+}

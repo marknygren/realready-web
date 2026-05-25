@@ -1,0 +1,173 @@
+{
+  "standard_ref": "CO-09",
+  "scope": "state",
+  "state": "CO",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "CO-09.1",
+      "question_text": "Colorado requires sellers to complete a property disclosure form by statute. True or false?",
+      "correct_answer": "False — it is voluntary, not mandatory",
+      "distractors": ["True — all residential sellers must", "True — but only for homes over $500K", "True — but only for homes built before 1978"],
+      "explanation": "Colorado does NOT have a mandatory seller disclosure statute. The Commission-approved SPD form is commonly used as part of the contract, but sellers can choose not to disclose.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "SPD", "voluntary"]
+    },
+    {
+      "key_topic_ref": "CO-09.1",
+      "question_text": "A seller checks the box on the contract choosing 'not to disclose.' What happens next?",
+      "correct_answer": "The buyer may receive additional inspection rights",
+      "distractors": ["The transaction is automatically cancelled", "The broker must complete the SPD instead", "The buyer waives all inspection rights"],
+      "explanation": "When a seller chooses not to provide the SPD, the buyer typically has additional inspection rights as compensation. The transaction is not cancelled.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "SPD", "inspection-rights"]
+    },
+    {
+      "key_topic_ref": "CO-09.1",
+      "question_text": "The Commission-approved Seller's Property Disclosure form is used:",
+      "correct_answer": "As part of the contract, if seller agrees",
+      "distractors": ["As a mandatory state-required document", "Only for properties over 10 years old", "Only when the buyer requests it"],
+      "explanation": "The SPD is part of the contract process. The contract specifies whether the seller will or will not provide it. It is not a standalone mandatory state requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "SPD", "contract"]
+    },
+    {
+      "key_topic_ref": "CO-09.1",
+      "question_text": "A seller completes the SPD but intentionally omits a known plumbing defect. The seller may face:",
+      "correct_answer": "Civil liability for misrepresentation",
+      "distractors": ["No consequences since SPD is voluntary", "Only a Commission fine", "Criminal prosecution under state law"],
+      "explanation": "Even though the SPD is voluntary, once completed it must be honest. Intentionally omitting known defects constitutes misrepresentation and can lead to civil liability.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disclosure", "SPD", "misrepresentation"]
+    },
+    {
+      "key_topic_ref": "CO-09.1",
+      "question_text": "Which statement about the Colorado SPD is correct?",
+      "correct_answer": "Sellers can choose to provide it or not",
+      "distractors": ["It is required for all property transfers", "It replaces the broker's disclosure duty", "Only brokers can complete the form"],
+      "explanation": "The seller has the choice to provide or not provide the SPD. It does not replace the broker's independent duty to disclose material facts.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "SPD", "choice"]
+    },
+    {
+      "key_topic_ref": "CO-09.2",
+      "question_text": "A broker knows about foundation cracks in a listed property. The seller chose 'not to disclose.' The broker must:",
+      "correct_answer": "Still disclose the known material fact",
+      "distractors": ["Respect the seller's non-disclosure choice", "Wait for the buyer to ask about it", "Only disclose if the buyer hires an inspector"],
+      "explanation": "Brokers have an independent duty to disclose known adverse material facts regardless of whether the seller provides an SPD. The seller's choice does not eliminate the broker's obligation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material-facts", "broker-duty", "independent"]
+    },
+    {
+      "key_topic_ref": "CO-09.2",
+      "question_text": "Which of the following is an adverse material fact that a broker must disclose?",
+      "correct_answer": "A known boundary dispute with a neighbor",
+      "distractors": ["The seller's reason for moving", "A death that occurred in the property", "The seller's original purchase price"],
+      "explanation": "Boundary disputes can affect property value and desirability, making them adverse material facts. The seller's moving reasons, property deaths, and purchase price are generally not material facts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material-facts", "examples", "disclosure"]
+    },
+    {
+      "key_topic_ref": "CO-09.2",
+      "question_text": "A broker fails to disclose known water damage to a buyer. The broker may face:",
+      "correct_answer": "Discipline and civil liability",
+      "distractors": ["No penalty if the seller did not disclose", "Only a fine under $500", "Liability only if the buyer suffered injury"],
+      "explanation": "Failure to disclose known material facts is grounds for both Commission discipline (suspension, revocation, fines) and civil liability to the harmed party.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["material-facts", "liability", "discipline"]
+    },
+    {
+      "key_topic_ref": "CO-09.2",
+      "question_text": "Material facts that a Colorado broker must disclose include all EXCEPT:",
+      "correct_answer": "The seller's financial difficulties",
+      "distractors": ["Structural defects in the property", "Known environmental hazards", "Zoning violations affecting the property"],
+      "explanation": "Material facts relate to the property's condition, value, or desirability — not the seller's personal financial situation. Structural defects, environmental hazards, and zoning violations are all material facts.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["material-facts", "scope", "personal-info"]
+    },
+    {
+      "key_topic_ref": "CO-09.2",
+      "question_text": "A transaction-broker learns of a zoning violation on the property. This information must be disclosed to:",
+      "correct_answer": "Both the buyer and seller",
+      "distractors": ["Only the buyer", "Only the seller", "Neither — zoning is public record"],
+      "explanation": "Both transaction-brokers and single agents must disclose known adverse material facts. Zoning violations affect property value and must be disclosed to both parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material-facts", "transaction-broker", "both-parties"]
+    },
+    {
+      "key_topic_ref": "CO-09.3",
+      "question_text": "A property is served by a private well rather than municipal water. The seller must provide:",
+      "correct_answer": "A source of water disclosure",
+      "distractors": ["A water quality lab report", "A municipal water connection plan", "An EPA water safety certification"],
+      "explanation": "Colorado requires a source of water disclosure for properties not served by a municipal water system. The disclosure identifies the water source and any known quality or quantity issues.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water-disclosure", "source-of-water", "well"]
+    },
+    {
+      "key_topic_ref": "CO-09.3",
+      "question_text": "The source of water disclosure must identify all EXCEPT:",
+      "correct_answer": "The property's annual water utility cost",
+      "distractors": ["The water source type (well, spring, etc.)", "Known water quality problems", "Known water quantity issues"],
+      "explanation": "The disclosure must identify the source (well, spring, cistern, water district) and any known quality or quantity problems. Annual utility costs are not part of this disclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["water-disclosure", "content", "requirements"]
+    },
+    {
+      "key_topic_ref": "CO-09.3",
+      "question_text": "A home has solar panels and high-efficiency insulation. Colorado's green disclosure for these features is:",
+      "correct_answer": "Encouraged but not mandated",
+      "distractors": ["Required by state statute", "Required for all new construction", "Prohibited to prevent greenwashing"],
+      "explanation": "Colorado encourages but does not mandate green disclosures for energy efficiency features, solar panels, and sustainability improvements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["green-disclosure", "encouraged", "voluntary"]
+    },
+    {
+      "key_topic_ref": "CO-09.3",
+      "question_text": "A property uses a cistern to collect rainwater. This water source requires:",
+      "correct_answer": "A source of water disclosure",
+      "distractors": ["No special disclosure", "A municipal water connection permit", "An environmental impact assessment"],
+      "explanation": "Any property not served by a municipal water system — including those using cisterns, wells, or springs — requires a source of water disclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water-disclosure", "cistern", "non-municipal"]
+    },
+    {
+      "key_topic_ref": "CO-09.3",
+      "question_text": "Which property type triggers the source of water disclosure requirement?",
+      "correct_answer": "A home served by a water district",
+      "distractors": ["All properties in Colorado", "Only properties with known contamination", "Only agricultural land parcels"],
+      "explanation": "The source of water disclosure is required for properties not served by a municipal water system. This includes water districts, wells, springs, and cisterns.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["water-disclosure", "trigger", "non-municipal"]
+    }
+  ]
+}

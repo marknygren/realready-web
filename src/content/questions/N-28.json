@@ -1,0 +1,407 @@
+{
+  "standard_ref": "N-28",
+  "scope": "national",
+  "state": null,
+  "category": "real_estate_math",
+  "questions": [
+    {
+      "key_topic_ref": "N-28.1",
+      "question_text": "A comparable sale closed at $320,000. The comparable has a two-car garage worth $15,000 more than the subject's one-car garage. The comparable also has a pool the subject lacks, valued at $10,000. What is the adjusted sales price of the comparable?",
+      "correct_answer": "$295,000",
+      "distractors": [
+        "$345,000",
+        "$310,000",
+        "$305,000"
+      ],
+      "explanation": "In the sales comparison approach, adjustments are made to the comparable, not the subject. The rule: if the comparable is BETTER than the subject in a feature, SUBTRACT from the comparable's price (the comp sold for more than the subject would have). If the comparable is INFERIOR, ADD to the comparable's price. Memory aid: CBS — Comparable Better, Subtract. The garage and pool are both features where the comparable is superior to the subject, so both adjustments are subtractions: $320,000 − $15,000 − $10,000 = $295,000.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "sales_comparison",
+        "adjustments",
+        "CBS_rule",
+        "appraisal_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.2",
+      "question_text": "An apartment building generates a net operating income (NOI) of $54,000 per year. Similar properties in the area sell at a 6% capitalization rate. What is the estimated value of the building using the income approach?",
+      "correct_answer": "$900,000",
+      "distractors": [
+        "$3,240",
+        "$540,000",
+        "$324,000"
+      ],
+      "explanation": "The income approach formula: Value = NOI ÷ Cap Rate (also written as V = I/R, the IRV triangle). NOI is gross rental income minus vacancy and operating expenses (but before debt service). The cap rate reflects the market's required rate of return for that property type. $54,000 ÷ 0.06 = $900,000. The three-way IRV relationship: I = R × V (Income = Rate × Value); R = I/V (Rate = Income/Value); V = I/R (Value = Income/Rate). On exams, any one of the three variables may be the unknown.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "NOI",
+        "cap_rate",
+        "income_approach",
+        "IRV",
+        "value_calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.2",
+      "question_text": "A small office building sold for $750,000 and has a net operating income of $60,000. What is the capitalization rate?",
+      "correct_answer": "8%",
+      "distractors": [
+        "12.5%",
+        "6%",
+        "4.5%"
+      ],
+      "explanation": "Using the IRV formula to solve for rate: R = I ÷ V. $60,000 (NOI) ÷ $750,000 (Value) = 0.08 = 8%. This tells an investor that purchasing the property at $750,000 yields an 8% return on their investment before debt service. A common trap: inverting the fraction gives 12.5, which is a meaningless number for this formula. The IRV triangle helps: cover the variable you want to find, and the remaining two show the operation (I above V = I/V for rate).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "cap_rate",
+        "NOI",
+        "income_approach",
+        "IRV",
+        "investment_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.3",
+      "question_text": "A single-family rental home generates $1,600 per month in gross rent and recently sold for $256,000. What is the Gross Rent Multiplier (GRM)?",
+      "correct_answer": "160",
+      "distractors": [
+        "0.00625",
+        "19,200",
+        "13.3"
+      ],
+      "explanation": "The Gross Rent Multiplier (GRM) uses monthly gross rent: GRM = Sale Price ÷ Monthly Gross Rent. $256,000 ÷ $1,600 = 160. To estimate value using GRM: Value = GRM × Monthly Rent. GRM is a quick, rough valuation tool — it does not account for operating expenses, so it is less precise than NOI/cap rate analysis. The Gross Income Multiplier (GIM) is the same concept using annual gross income (GIM = Sale Price ÷ Annual Gross Rent). Know which one the question is asking for.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "GRM",
+        "gross_rent_multiplier",
+        "income_approach",
+        "rental_valuation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.4",
+      "question_text": "A property has a market value of $350,000. The assessment ratio is 80%. The local tax rate (mill rate) is 25 mills. What is the annual property tax?",
+      "correct_answer": "$7,000",
+      "distractors": [
+        "$8,750",
+        "$5,600",
+        "$70,000"
+      ],
+      "explanation": "Property tax math requires two steps. Step 1: Find assessed value by multiplying market value by the assessment ratio: $350,000 × 0.80 = $280,000. Step 2: Calculate tax by multiplying assessed value by the mill rate converted to a decimal. 1 mill = 0.001 (one-tenth of a cent per dollar). 25 mills = 0.025. $280,000 × 0.025 = $7,000. Alternatively: assessed value ÷ 1,000 × mills = $280,000 ÷ 1,000 × 25 = $7,000. The most common errors are applying the rate to market value instead of assessed value, or forgetting to convert mills.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_tax",
+        "mill_rate",
+        "assessed_value",
+        "assessment_ratio",
+        "tax_calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.4",
+      "question_text": "A property's assessed value is $240,000 and the assessment ratio for the jurisdiction is 60%. What is the property's estimated market value?",
+      "correct_answer": "$400,000",
+      "distractors": [
+        "$144,000",
+        "$400,000 is correct only if the assessment ratio is 40%",
+        "$288,000"
+      ],
+      "explanation": "To work backward from assessed value to market value, divide by the assessment ratio. Assessed Value = Market Value × Assessment Ratio, therefore Market Value = Assessed Value ÷ Assessment Ratio. $240,000 ÷ 0.60 = $400,000. Cross-check: $400,000 × 0.60 = $240,000 ✓. This type of question requires recognizing which value is given and which is the unknown. Property owners who believe their property is over-assessed may appeal to reduce their tax burden.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "assessed_value",
+        "assessment_ratio",
+        "market_value",
+        "property_tax_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.1",
+      "question_text": "When using the sales comparison approach, the CBS rule states that if the comparable property is BETTER than the subject in a feature, the appraiser should:",
+      "correct_answer": "Subtract the value of that feature from the comparable's price",
+      "distractors": [
+        "Add the value of that feature to the comparable's price",
+        "Subtract the value from the subject property's estimated value",
+        "Ignore the difference if it is less than 5% of value"
+      ],
+      "explanation": "CBS stands for 'Comparable Better, Subtract.' When a comparable has a feature that is superior to the subject, the appraiser subtracts the value of that advantage from the comparable's sale price. The logic: the comparable sold for more than the subject would because of that feature, so the adjustment brings the comparable's price down to what it would have been without the advantage. Conversely, if the comparable is inferior (CIA — Comparable Inferior, Add), the appraiser adds to the comparable's price. All adjustments are always made to the comparable, never to the subject.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "CBS_rule",
+        "sales_comparison",
+        "adjustments",
+        "appraisal"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.1",
+      "question_text": "A comparable sale closed at $250,000. The subject has a renovated kitchen worth $12,000 that the comparable lacks. The comparable has a larger lot worth $8,000 more than the subject's. What is the adjusted sale price of the comparable?",
+      "correct_answer": "$254,000",
+      "distractors": [
+        "$246,000",
+        "$270,000",
+        "$230,000"
+      ],
+      "explanation": "Apply CBS/CIA: (1) Subject has a better kitchen — comparable is inferior, so ADD $12,000 to comparable. (2) Comparable has a larger lot — comparable is better, so SUBTRACT $8,000. Adjusted price: $250,000 + $12,000 - $8,000 = $254,000. The key is identifying which party has the superior feature in each comparison, then adjusting the comparable accordingly. Net adjustment: +$4,000.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "sales_comparison",
+        "adjustments",
+        "CBS_rule",
+        "appraisal_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.1",
+      "question_text": "An appraiser is adjusting three comparable sales. After all adjustments, the adjusted prices are $285,000, $290,000, and $282,000. The most likely indicated value for the subject property is:",
+      "correct_answer": "Closest to the comparable requiring the fewest and smallest adjustments",
+      "distractors": [
+        "The mathematical average of all three adjusted prices ($285,667)",
+        "The highest adjusted price since it represents maximum market value",
+        "The lowest adjusted price to provide a conservative estimate"
+      ],
+      "explanation": "In the sales comparison approach, appraisers do not simply average the adjusted comparable prices. Instead, they give the most weight to the comparable that required the fewest and smallest adjustments, as it is the most similar to the subject and therefore the most reliable indicator of value. A comparable requiring minimal adjustment is considered a closer match. The final reconciliation is the appraiser's professional judgment about which comparables best represent market value, not a mathematical formula.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "sales_comparison",
+        "reconciliation",
+        "appraisal",
+        "adjustments"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.1",
+      "question_text": "A comparable property sold for $310,000. It lacks a fireplace that the subject has (valued at $5,000) and has a finished basement the subject lacks (valued at $20,000). The adjusted comparable price is:",
+      "correct_answer": "$295,000",
+      "distractors": [
+        "$325,000",
+        "$335,000",
+        "$285,000"
+      ],
+      "explanation": "Apply adjustments to the comparable: (1) Comparable lacks fireplace that subject has — comparable is inferior, ADD $5,000. (2) Comparable has finished basement that subject lacks — comparable is better, SUBTRACT $20,000. Adjusted: $310,000 + $5,000 - $20,000 = $295,000. Always adjust the comparable to make it equal to the subject. The net adjustment here is -$15,000.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "sales_comparison",
+        "CBS_rule",
+        "adjustments",
+        "appraisal_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.2",
+      "question_text": "An investor wants at least an 8% return. A property has an NOI of $48,000. What is the maximum price the investor should pay?",
+      "correct_answer": "$600,000",
+      "distractors": [
+        "$384,000",
+        "$3,840",
+        "$480,000"
+      ],
+      "explanation": "Using Value = NOI ÷ Cap Rate: $48,000 ÷ 0.08 = $600,000. At this price, the investor achieves exactly an 8% return. Paying more would reduce the return below 8%; paying less would exceed it. The $384,000 distractor multiplies incorrectly ($48,000 × 8). The $3,840 distractor incorrectly multiplies $48,000 × 0.08. The IRV formula is the most tested income approach formula on the exam.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "cap_rate",
+        "NOI",
+        "IRV",
+        "investment_analysis"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.2",
+      "question_text": "A property has a value of $500,000 and a capitalization rate of 7%. What is its net operating income?",
+      "correct_answer": "$35,000",
+      "distractors": [
+        "$7,142,857",
+        "$71,429",
+        "$3,500"
+      ],
+      "explanation": "Using I = R × V: NOI = 0.07 × $500,000 = $35,000. This is the third variation of the IRV triangle — solving for Income when Rate and Value are known. The $7,142,857 distractor divides V by R instead of multiplying. The $3,500 distractor uses 0.007 instead of 0.07. All three IRV variations should be practiced: V = I/R, R = I/V, I = R × V.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "NOI",
+        "cap_rate",
+        "IRV",
+        "income_approach"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.2",
+      "question_text": "Two similar properties have the same NOI of $50,000. Property A has a cap rate of 5% and Property B has a cap rate of 10%. Which statement is correct?",
+      "correct_answer": "Property A is worth more",
+      "distractors": [
+        "Property B is worth more",
+        "Both properties have the same value since their NOI is identical",
+        "Cap rate has no relationship to property value or investment return"
+      ],
+      "explanation": "Since Value = NOI ÷ Cap Rate, a lower cap rate produces a higher value. Property A: $50,000 ÷ 0.05 = $1,000,000. Property B: $50,000 ÷ 0.10 = $500,000. Lower cap rates are associated with lower-risk, higher-demand properties (prime locations, stable tenants). Higher cap rates indicate higher risk but also higher yield. This inverse relationship between cap rate and value is a critical concept tested on the exam.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "cap_rate",
+        "inverse_relationship",
+        "value",
+        "investment_analysis"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.3",
+      "question_text": "An investor uses a GRM of 140 to estimate the value of a rental property that generates $1,800 per month in gross rent. The estimated value is:",
+      "correct_answer": "$252,000",
+      "distractors": [
+        "$25,200",
+        "$302,400",
+        "$126,000"
+      ],
+      "explanation": "Value = GRM × Monthly Gross Rent = 140 × $1,800 = $252,000. The GRM is applied to monthly rent (not annual). The $25,200 distractor divides instead of multiplying. The $302,400 distractor uses annual rent ($1,800 × 12 = $21,600 × 14 — a calculation error). The $126,000 distractor uses GRM of 70. GRM is a quick screening tool for residential rental properties — simpler than cap rate analysis but less precise because it ignores expenses.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "GRM",
+        "gross_rent_multiplier",
+        "rental_valuation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.3",
+      "question_text": "A rental home sold for $300,000 and rents for $2,000 per month. A similar home rents for $2,200 per month. Using the GRM from the first sale, what is the estimated value of the second home?",
+      "correct_answer": "$330,000",
+      "distractors": [
+        "$300,000",
+        "$360,000",
+        "$272,727"
+      ],
+      "explanation": "Step 1: Calculate GRM from the known sale. GRM = $300,000 ÷ $2,000 = 150. Step 2: Apply GRM to the subject. Value = 150 × $2,200 = $330,000. This two-step problem demonstrates how GRM is used in practice: derive the multiplier from comparable sales, then apply it to the subject property's rent. The $300,000 distractor assumes same value regardless of rent. The $360,000 uses an incorrect multiplier.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "GRM",
+        "two_step_calculation",
+        "rental_valuation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.3",
+      "question_text": "The Gross Rent Multiplier (GRM) differs from the capitalization rate because GRM:",
+      "correct_answer": "Uses gross rent without deducting operating expenses or vacancies",
+      "distractors": [
+        "Is expressed as a percentage while cap rate is a whole number",
+        "Can only be used for commercial properties, not residential",
+        "Accounts for mortgage payments while cap rate ignores financing"
+      ],
+      "explanation": "GRM uses gross rent (before expenses), while cap rate uses NOI (after operating expenses). GRM is a simple multiplier (whole number like 120 or 150), not a percentage. Cap rate is expressed as a percentage (like 6% or 8%). GRM is most commonly used for residential rental properties as a quick screening tool. Cap rate analysis, which factors in vacancies, operating expenses, and maintenance costs, provides a more complete picture and is standard for commercial investment analysis. Neither accounts for financing (debt service).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "GRM",
+        "cap_rate",
+        "comparison",
+        "income_approach"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.3",
+      "question_text": "A fourplex generates $6,000 total monthly rent. Comparable fourplexes have sold with GRMs between 110 and 130. The estimated value range for this property is:",
+      "correct_answer": "$660,000 to $780,000",
+      "distractors": [
+        "$46,154 to $54,545",
+        "$66,000 to $78,000",
+        "$720,000 to $900,000"
+      ],
+      "explanation": "Apply the GRM range to the monthly rent: Low end: $6,000 × 110 = $660,000. High end: $6,000 × 130 = $780,000. Using a GRM range rather than a single number provides a value range that accounts for differences in condition, location, and amenities among comparable properties. The appraiser then reconciles within this range based on the subject property's specific characteristics.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "GRM",
+        "value_range",
+        "fourplex",
+        "rental_valuation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.4",
+      "question_text": "A property has an assessed value of $200,000 and the local tax rate is 30 mills. What is the annual property tax?",
+      "correct_answer": "$6,000",
+      "distractors": [
+        "$60,000",
+        "$600",
+        "$6,666"
+      ],
+      "explanation": "Tax = Assessed value × mill rate (converted to decimal). 30 mills = 30 ÷ 1,000 = 0.030. $200,000 × 0.030 = $6,000. Alternatively: $200,000 ÷ 1,000 × 30 = $6,000. The $60,000 distractor fails to convert mills (200,000 × 0.30). The $600 distractor over-converts (200,000 × 0.003). Remember: 1 mill = $1 per $1,000 of assessed value = 0.001 in decimal form.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_tax",
+        "mill_rate",
+        "tax_calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.4",
+      "question_text": "A homeowner's property tax bill is $4,500 per year. The tax rate is 18 mills and the assessment ratio is 100%. What is the assessed value of the property?",
+      "correct_answer": "$250,000",
+      "distractors": [
+        "$81,000",
+        "$25,000",
+        "$450,000"
+      ],
+      "explanation": "Working backward: Assessed Value = Tax ÷ Mill Rate (as decimal). 18 mills = 0.018. $4,500 ÷ 0.018 = $250,000. Cross-check: $250,000 × 0.018 = $4,500. Since the assessment ratio is 100%, the assessed value equals market value. The $81,000 distractor multiplies $4,500 × 18. The $25,000 distractor divides by 0.18 instead of 0.018. Always convert mills properly before dividing.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_tax",
+        "working_backward",
+        "assessed_value",
+        "mill_rate"
+      ]
+    },
+    {
+      "key_topic_ref": "N-28.4",
+      "question_text": "A tax rate expressed as '$4.50 per $100 of assessed value' is equivalent to how many mills?",
+      "correct_answer": "45 mills",
+      "distractors": [
+        "4.5 mills",
+        "450 mills",
+        "0.45 mills"
+      ],
+      "explanation": "Tax rates can be expressed in several equivalent ways. $4.50 per $100 = $45 per $1,000 = 45 mills = 0.045 as a decimal. To convert from 'per $100' to mills: multiply by 10 (since mills are per $1,000). $4.50 × 10 = 45 mills. To convert from mills to decimal: divide by 1,000. 45 ÷ 1,000 = 0.045. Exam questions may express tax rates in any format — being able to convert between them is essential for solving tax problems correctly.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "mill_rate",
+        "tax_rate_conversion",
+        "property_tax"
+      ]
+    }
+  ]
+}

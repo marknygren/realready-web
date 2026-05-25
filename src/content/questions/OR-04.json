@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OR-04",
+  "scope": "state",
+  "state": "OR",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "OR-04.1",
+      "question_text": "A broker receives a signed counteroffer on Friday afternoon. By when must the broker transmit this document to the principal broker?",
+      "correct_answer": "Within 3 banking days of receipt",
+      "distractors": ["Within 5 banking days of receipt", "Within 24 hours of receipt", "By the next business day"],
+      "explanation": "Oregon requires all transaction documents to be transmitted to the principal broker within 3 banking days of the broker's receipt. This applies to counteroffers, offers, amendments, and all other transaction-related writings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["document submission", "principal broker", "banking days"]
+    },
+    {
+      "key_topic_ref": "OR-04.1",
+      "question_text": "Which documents must an Oregon broker transmit to their principal broker after receiving them?",
+      "correct_answer": "All transaction-related writings",
+      "distractors": ["Only signed contracts", "Only offers and counteroffers", "Only disclosure forms"],
+      "explanation": "Oregon law requires brokers to transmit all transaction-related writings to their principal broker. This includes offers, counteroffers, amendments, contracts, disclosures, and any other documents connected to the transaction.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["document submission", "transaction documents", "principal broker"]
+    },
+    {
+      "key_topic_ref": "OR-04.1",
+      "question_text": "A broker signs an amendment on Monday but waits until the following Monday to send it to her principal broker. Has she complied with the submission requirement?",
+      "correct_answer": "No, it exceeds the 3-banking-day deadline",
+      "distractors": ["Yes, if sent within 7 calendar days", "Yes, weekends do not count", "No, amendments must be sent same day"],
+      "explanation": "The broker must transmit the amendment within 3 banking days of receipt. Waiting from Monday to the following Monday is 5 banking days, which exceeds the deadline. Banking days exclude weekends and bank holidays.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["document submission", "banking days", "compliance"]
+    },
+    {
+      "key_topic_ref": "OR-04.1",
+      "question_text": "The 3-banking-day document submission deadline is measured from which event?",
+      "correct_answer": "The broker's receipt of the document",
+      "distractors": ["The client's signing of the document", "The offer acceptance date", "The transaction closing date"],
+      "explanation": "The 3-banking-day clock begins when the broker receives the document, not when the client signs it or when other transaction milestones occur. This ensures timely flow of information to the principal broker.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["document submission", "deadline", "receipt"]
+    },
+    {
+      "key_topic_ref": "OR-04.1",
+      "question_text": "A broker's client sends a text message accepting an amendment. The broker forwards the amendment but not the text. Which concern does this raise?",
+      "correct_answer": "All transaction-related writings must go to the PB",
+      "distractors": ["Text messages are not legal documents", "Only the amendment needs forwarding", "The client must send text directly to the PB"],
+      "explanation": "Oregon requires transmission of all transaction-related writings to the principal broker. The acceptance text is a transaction-related writing that evidences agreement to terms. Omitting it violates the comprehensive submission requirement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["document submission", "transaction writings", "text messages"]
+    },
+    {
+      "key_topic_ref": "OR-04.2",
+      "question_text": "How long must an Oregon brokerage retain transaction records after a transaction closes?",
+      "correct_answer": "6 years",
+      "distractors": ["3 years", "5 years", "7 years"],
+      "explanation": "Oregon requires that transaction records be retained for 6 years from the date of closure or termination. This applies to contracts, agreements, disclosures, correspondence, and material text messages.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record retention", "6 years", "storage"]
+    },
+    {
+      "key_topic_ref": "OR-04.2",
+      "question_text": "A principal broker wants to store transaction records at a location other than the main or branch office. What additional step is required?",
+      "correct_answer": "Provide written notice to the Commissioner",
+      "distractors": ["Obtain Commissioner approval first", "Register the location as a branch office", "Store duplicate copies at the main office"],
+      "explanation": "Records may normally be stored at the main office or a branch office. If stored at any other location, the principal broker must provide written notice to the Real Estate Commissioner. This ensures the agency can locate records for audits or investigations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["record retention", "storage location", "Commissioner notice"]
+    },
+    {
+      "key_topic_ref": "OR-04.2",
+      "question_text": "Which of the following must be retained as part of an Oregon brokerage's transaction records?",
+      "correct_answer": "Material text messages between parties",
+      "distractors": ["Only signed contract documents", "Marketing flyers for the property", "Internal office memos unrelated to deals"],
+      "explanation": "Oregon's record retention requirements include contracts, agreements, disclosures, correspondence, and material text messages. Text messages that are substantive to a transaction must be preserved for the full 6-year retention period.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record retention", "text messages", "required records"]
+    },
+    {
+      "key_topic_ref": "OR-04.2",
+      "question_text": "A transaction falls apart before closing and is formally terminated. When does the 6-year retention period begin?",
+      "correct_answer": "From the date of termination",
+      "distractors": ["From the original listing date", "From the date the offer was written", "Retention is not required for terminated deals"],
+      "explanation": "The 6-year retention period runs from the date of closure or termination, whichever applies. Even transactions that never close must have their records retained for the full period starting from the termination date.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["record retention", "termination", "retention period"]
+    },
+    {
+      "key_topic_ref": "OR-04.2",
+      "question_text": "An Oregon brokerage stores all transaction files electronically and has no physical copies. Is this permissible?",
+      "correct_answer": "Yes, electronic storage is acceptable",
+      "distractors": ["No, physical originals are required", "Only if the Commissioner approves it", "Only for transactions under $500,000"],
+      "explanation": "Oregon permits both physical and electronic record storage. A brokerage may choose to maintain records exclusively in electronic format as long as the records remain accessible for the required 6-year retention period.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record retention", "electronic storage", "compliance"]
+    },
+    {
+      "key_topic_ref": "OR-04.3",
+      "question_text": "After an offer is accepted, within how many banking days must the principal broker review the transaction documents?",
+      "correct_answer": "7 banking days",
+      "distractors": ["3 banking days", "5 banking days", "10 banking days"],
+      "explanation": "The principal broker must review each transaction document within 7 banking days after the offer is accepted, rejected, or withdrawn. This review ensures compliance with Oregon real estate law and brokerage policies.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["document review", "principal broker", "7 banking days"]
+    },
+    {
+      "key_topic_ref": "OR-04.3",
+      "question_text": "A principal broker reviews transaction files electronically. What must the electronic review record include?",
+      "correct_answer": "Reviewer name and date of review",
+      "distractors": ["Only the date of review", "A digital signature and notarization", "The broker's license number and date"],
+      "explanation": "When a principal broker conducts an electronic review of transaction documents, the system must record the reviewer's name and the date of the review. This creates an audit trail proving timely compliance with the review requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["document review", "electronic review", "audit trail"]
+    },
+    {
+      "key_topic_ref": "OR-04.3",
+      "question_text": "A principal broker reviews a paper transaction file. How should she document her review?",
+      "correct_answer": "Initial and date the documents",
+      "distractors": ["Sign and notarize each page", "Write a separate review memo", "Stamp with the brokerage seal"],
+      "explanation": "For hard copy document review, the principal broker must initial and date the documents. This provides a clear record that the review was completed and when it occurred, similar to the name-and-date requirement for electronic reviews.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["document review", "hard copy", "initialing"]
+    },
+    {
+      "key_topic_ref": "OR-04.3",
+      "question_text": "Under the 2026 requirement, what must a managing principal broker establish regarding document inspection?",
+      "correct_answer": "Written policies for document inspection",
+      "distractors": ["A verbal training program for brokers", "Monthly audit reports to the Commissioner", "A third-party review committee"],
+      "explanation": "As of 2026, managing principal brokers must establish written policies for document inspection. This formalizes the review process and ensures consistent compliance standards across the brokerage.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["document review", "2026 requirement", "written policies"]
+    },
+    {
+      "key_topic_ref": "OR-04.3",
+      "question_text": "A principal broker completed a transaction file review 10 banking days after the offer was rejected. A compliance audit flags this. Why?",
+      "correct_answer": "Review must occur within 7 banking days",
+      "distractors": ["Reviews are only required after acceptance", "The PB needed Commissioner approval first", "Rejected offers do not require review"],
+      "explanation": "The principal broker must review transaction documents within 7 banking days after the offer is accepted, rejected, or withdrawn. A review at 10 banking days exceeds this deadline. The requirement applies regardless of the transaction outcome.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["document review", "compliance", "rejected offers"]
+    }
+  ]
+}

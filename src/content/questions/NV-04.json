@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NV-04",
+  "scope": "state",
+  "state": "NV",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "NV-04.1",
+      "question_text": "A buyer hires a licensee for exclusive representation. What type of agency is this under Nevada law?",
+      "correct_answer": "Agent providing full representation",
+      "distractors": ["Limited agent with dual duties", "Transaction broker with no duties", "Subagent of the listing broker"],
+      "explanation": "Under NRS 645.252-645.254, an agent provides exclusive representation to one party in a transaction. This creates full fiduciary duties including loyalty, confidentiality, and obedience to the client's lawful instructions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agent", "exclusive representation", "agency type"]
+    },
+    {
+      "key_topic_ref": "NV-04.1",
+      "question_text": "A licensee represents both buyer and seller in the same transaction with written consent from both. What is their role?",
+      "correct_answer": "Limited agent (disclosed dual agent)",
+      "distractors": ["Standard agent for both parties", "Unrepresented facilitator", "Transaction coordinator only"],
+      "explanation": "When a licensee represents both parties with written consent, they become a limited agent or disclosed dual agent. Both parties must provide informed written consent acknowledging that the licensee's ability to fully advocate for either side is limited.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["limited agent", "dual agency", "written consent"]
+    },
+    {
+      "key_topic_ref": "NV-04.1",
+      "question_text": "A seller decides not to use a real estate agent. How does Nevada classify this party in a transaction?",
+      "correct_answer": "An unrepresented party",
+      "distractors": ["A limited agency client", "A subagent of the buyer's agent", "A disclosed dual agency client"],
+      "explanation": "Nevada recognizes three categories in agency relationships: agent (exclusive representation), limited agent (dual agency), and unrepresented party. A party who chooses not to engage a licensee is simply unrepresented and must look out for their own interests.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["unrepresented party", "agency types", "NRS 645"]
+    },
+    {
+      "key_topic_ref": "NV-04.1",
+      "question_text": "A listing agent wants to also represent the buyer without obtaining written consent from both parties. Is this permitted?",
+      "correct_answer": "No, both parties must consent in writing",
+      "distractors": ["Yes, verbal consent is sufficient", "Yes, if the broker approves it", "No, dual agency is always prohibited"],
+      "explanation": "Nevada permits dual or limited agency only when both buyer and seller provide informed written consent. Without written consent from both parties, the licensee cannot represent both sides. Dual agency itself is not prohibited, but the consent requirement is strict.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["dual agency", "written consent", "requirement"]
+    },
+    {
+      "key_topic_ref": "NV-04.1",
+      "question_text": "A buyer wants representation but the listing agent offers to handle both sides. What must happen before the agent can serve as limited agent?",
+      "correct_answer": "Both parties must give written consent",
+      "distractors": ["Only the buyer must give written consent", "The broker must approve the arrangement", "The Commission must grant a waiver"],
+      "explanation": "Limited agency (disclosed dual agency) requires informed written consent from both the buyer and seller. Neither party's consent alone is sufficient. The broker's approval, while important internally, does not substitute for the statutory requirement of both parties' written consent.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["limited-agent", "dual-agency", "consent"]
+    },
+    {
+      "key_topic_ref": "NV-04.2",
+      "question_text": "Which duty does a licensee owe to ALL parties in a transaction, not just their client?",
+      "correct_answer": "Honesty and good faith in dealings",
+      "distractors": ["Loyalty to their interests", "Obedience to their instructions", "Confidentiality of their information"],
+      "explanation": "Licensees owe honesty and good faith to all parties in a transaction, whether or not they represent them. Loyalty, obedience, and confidentiality are owed specifically to clients. All parties also receive reasonable skill and care, material fact disclosure, and accounting.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["duties", "all parties", "honesty", "good faith"]
+    },
+    {
+      "key_topic_ref": "NV-04.2",
+      "question_text": "A buyer's agent learns the seller is facing foreclosure. Must the agent disclose this to the buyer?",
+      "correct_answer": "Yes, material facts must be disclosed",
+      "distractors": ["No, that violates seller confidentiality", "Only if the seller gives permission", "Only if asked directly by the buyer"],
+      "explanation": "Licensees must disclose material facts to all parties in a transaction. A pending foreclosure is a material fact that could affect the buyer's decision. This duty to disclose material facts applies regardless of which party the licensee represents.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material facts", "disclosure", "all parties"]
+    },
+    {
+      "key_topic_ref": "NV-04.2",
+      "question_text": "A listing agent receives a lowball offer. Must they present it to the seller?",
+      "correct_answer": "Yes, all offers must be presented",
+      "distractors": ["No, if clearly below market value", "Only if the buyer has financing", "Only during the first 30 days"],
+      "explanation": "Licensees must present all offers to their clients, regardless of the amount or terms. Filtering offers based on the agent's judgment violates the duty owed to all parties. The seller alone decides which offers to accept, reject, or counter.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["present offers", "duty", "all parties"]
+    },
+    {
+      "key_topic_ref": "NV-04.2",
+      "question_text": "A transaction closes and the agency relationship ends. Does the licensee's duty of confidentiality survive?",
+      "correct_answer": "Yes, confidentiality survives termination",
+      "distractors": ["No, all duties end at the closing", "Only for one year after the closing", "Only if specifically stated in the contract"],
+      "explanation": "The duty of confidentiality survives the termination of the agency relationship. A licensee must never reveal confidential client information obtained during the relationship, even after the transaction closes and the agency ends, unless legally compelled.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["confidentiality", "survives termination", "client duties"]
+    },
+    {
+      "key_topic_ref": "NV-04.2",
+      "question_text": "Which set of duties is owed exclusively to clients and NOT to unrepresented parties?",
+      "correct_answer": "Loyalty, obedience, and confidentiality",
+      "distractors": ["Honesty, skill, and accounting", "Disclosure of all material facts", "Presenting all written offers"],
+      "explanation": "Clients receive enhanced duties beyond what all parties receive. Loyalty, obedience, confidentiality, full disclosure, and skill/care/diligence are owed to clients. All parties receive honesty, good faith, reasonable skill/care, material fact disclosure, offer presentation, and accounting.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["client duties", "loyalty", "obedience", "confidentiality"]
+    },
+    {
+      "key_topic_ref": "NV-04.3",
+      "question_text": "Under NRS 645.254, a client signs a written waiver of representation. What does this authorize?",
+      "correct_answer": "The licensee may negotiate directly",
+      "distractors": ["The licensee becomes a dual agent", "The client waives all legal protections", "The licensee acts as a mediator"],
+      "explanation": "When a client waives representation under NRS 645.254, the licensee is authorized to negotiate directly with the other party or their representative. This is not dual agency, and the client does not waive statutory protections like disclosure of material facts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["waiver", "NRS 645.254", "negotiate directly"]
+    },
+    {
+      "key_topic_ref": "NV-04.3",
+      "question_text": "A buyer verbally tells their agent they do not want representation. Is this sufficient under Nevada law?",
+      "correct_answer": "No, the waiver must be in writing",
+      "distractors": ["Yes, verbal consent is acceptable", "Yes, if witnessed by the broker", "No, waivers are never permitted"],
+      "explanation": "NRS 645.254 requires the waiver of representation to be in writing. A verbal statement, even if witnessed, does not satisfy the statutory requirement. The written waiver ensures the client understands they are giving up the enhanced duties owed to represented parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["waiver", "written requirement", "NRS 645.254"]
+    },
+    {
+      "key_topic_ref": "NV-04.3",
+      "question_text": "A seller waives representation so the buyer's agent can negotiate directly. Which duties does the seller still receive?",
+      "correct_answer": "Honesty and material fact disclosure",
+      "distractors": ["Full fiduciary duties remain", "No duties are owed at all", "Loyalty and confidentiality remain"],
+      "explanation": "Even after waiving representation, the seller is still owed duties that apply to all parties: honesty, good faith, reasonable skill and care, disclosure of material facts, presentation of offers, and accounting. The enhanced client duties like loyalty and confidentiality no longer apply.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["waiver", "duties", "all parties", "material facts"]
+    },
+    {
+      "key_topic_ref": "NV-04.3",
+      "question_text": "What is the primary purpose of the waiver of representation provision in Nevada?",
+      "correct_answer": "Allow direct negotiation with a party",
+      "distractors": ["Eliminate all licensee obligations", "Create a dual agency relationship", "Transfer liability to the client"],
+      "explanation": "The waiver provision under NRS 645.254 allows a client to authorize a licensee to negotiate directly with the other party. It streamlines certain transactions while maintaining basic protections. It does not create dual agency or eliminate the licensee's statutory obligations.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["waiver", "purpose", "negotiation"]
+    },
+    {
+      "key_topic_ref": "NV-04.3",
+      "question_text": "Can a licensee pressure a client into signing a waiver of representation?",
+      "correct_answer": "No, the waiver must be voluntary",
+      "distractors": ["Yes, if it benefits the transaction", "Yes, if the broker approves it", "Only if both parties agree to it"],
+      "explanation": "A waiver of representation must be the client's voluntary decision. A licensee who pressures or coerces a client into signing a waiver violates their duties of honesty and good faith. The client must understand the implications before signing.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["waiver", "voluntary", "client protection"]
+    }
+  ]
+}

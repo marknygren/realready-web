@@ -1,0 +1,118 @@
+{
+  "standard_ref": "WI-10",
+  "scope": "state",
+  "state": "WI",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "WI-10.1",
+      "question_text": "What must every real estate advertisement in Wisconsin include?",
+      "correct_answer": "The firm name as licensed with DSPS",
+      "distractors": ["The salesperson's license number", "The REEB approval stamp", "The MLS listing number"],
+      "explanation": "All real estate advertising in Wisconsin must include the firm name as it is licensed with DSPS. The salesperson's name may also appear, but the firm name is mandatory.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["advertising", "firm name", "DSPS"]
+    },
+    {
+      "key_topic_ref": "WI-10.1",
+      "question_text": "A salesperson posts a property listing on social media using only their personal name. This is:",
+      "correct_answer": "A violation — the firm name must be included",
+      "distractors": ["Acceptable on personal social media accounts", "Allowed if the post includes a phone number", "Permitted for social media but not print ads"],
+      "explanation": "Internet and social media advertising follows the same rules as all other advertising: the firm name must be included. A personal name alone constitutes a 'blind ad,' which is prohibited.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["advertising", "social media", "blind ad"]
+    },
+    {
+      "key_topic_ref": "WI-10.1",
+      "question_text": "What is a 'blind ad' in Wisconsin real estate?",
+      "correct_answer": "An advertisement that does not identify the firm",
+      "distractors": ["An ad placed without the seller's approval", "An ad for a property not yet on the MLS", "An ad that conceals the property's address"],
+      "explanation": "A blind ad is any advertisement that fails to identify the licensed firm. Blind ads are prohibited in Wisconsin — all ads must clearly show the firm name as registered with DSPS.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["advertising", "blind ad", "prohibited"]
+    },
+    {
+      "key_topic_ref": "WI-10.1",
+      "question_text": "A licensee creates a yard sign showing only 'John Smith, Your Local Expert' with a phone number. Is this compliant?",
+      "correct_answer": "No, the firm name must appear on the sign",
+      "distractors": ["Yes, yard signs only need the agent's name", "Yes, if the phone number is the firm's line", "No, the sign also needs the REEB approval number"],
+      "explanation": "All advertising, including yard signs, must include the firm name as licensed with DSPS. Using only a personal name and phone number creates a blind ad, which is prohibited.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["advertising", "yard sign", "compliance"]
+    },
+    {
+      "key_topic_ref": "WI-10.1",
+      "question_text": "Misrepresentation in advertising can lead to which consequence for a Wisconsin licensee?",
+      "correct_answer": "Disciplinary action by REEB",
+      "distractors": ["Only a warning letter from DSPS", "Automatic license revocation", "No consequence unless a complaint is filed"],
+      "explanation": "Misrepresentation in advertising is grounds for discipline under the Wisconsin Deceptive Trade Practices Act and Chapter 452. REEB can impose forfeitures up to $5,000 per violation, plus suspension or revocation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["advertising", "misrepresentation", "discipline"]
+    },
+    {
+      "key_topic_ref": "WI-10.2",
+      "question_text": "What commission-related statement must appear in all current WB forms?",
+      "correct_answer": "There is no standard market commission rate",
+      "distractors": ["Commission rates are regulated by REEB", "The standard rate is set by the local MLS", "Sellers are not required to pay commissions"],
+      "explanation": "Since 2024, all WB forms include the explicit statement: 'There is no standard market commission rate.' This ensures all parties understand that commission rates are always negotiable.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commission", "transparency", "WB forms"]
+    },
+    {
+      "key_topic_ref": "WI-10.2",
+      "question_text": "Why were wire fraud warnings added to WB offers to purchase in 2024?",
+      "correct_answer": "To alert parties to verify wire transfer instructions",
+      "distractors": ["Because wire transfers are now prohibited", "To comply with FDIC regulations", "To replace cashier's check requirements"],
+      "explanation": "Wire fraud warnings were added to all WB offers in 2024 to alert parties about the risk of fraudulent wire transfer instructions. Parties should independently verify wiring details through trusted channels.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wire fraud", "warning", "2024"]
+    },
+    {
+      "key_topic_ref": "WI-10.2",
+      "question_text": "A buyer receives wiring instructions by email for their closing funds. Based on the WB wire fraud warning, they should:",
+      "correct_answer": "Verify the instructions through a trusted phone number",
+      "distractors": ["Wire the funds immediately to avoid delay", "Reply to the email to confirm the details", "Wait until they receive a second email confirmation"],
+      "explanation": "The wire fraud warning in WB forms advises parties to verify wire transfer instructions through independent, trusted channels — not by replying to emails, which could be compromised.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["wire fraud", "verification", "closing"]
+    },
+    {
+      "key_topic_ref": "WI-10.2",
+      "question_text": "An agent tells a buyer that all agents in the area charge 3% commission. This statement is:",
+      "correct_answer": "A violation of commission transparency requirements",
+      "distractors": ["Accurate if that is the local market rate", "Acceptable as general market information", "Only problematic if made in writing"],
+      "explanation": "Claiming a standard commission rate exists violates the transparency requirements in WB forms. Commission rates are always negotiable, and there is no standard rate. Such a statement could also raise antitrust concerns.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commission", "transparency", "violation"]
+    },
+    {
+      "key_topic_ref": "WI-10.2",
+      "question_text": "Which Wisconsin law addresses deceptive practices in real estate advertising?",
+      "correct_answer": "The Wisconsin Deceptive Trade Practices Act",
+      "distractors": ["The Open Housing Law only", "The Consumer Financial Protection Act", "The Uniform Commercial Code"],
+      "explanation": "The Wisconsin Deceptive Trade Practices Act applies to real estate advertising. Combined with Chapter 452 and REEB rules, it requires truthful advertising about property condition, features, and terms.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["advertising", "deceptive practices", "consumer protection"]
+    }
+  ]
+}

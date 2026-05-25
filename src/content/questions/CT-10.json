@@ -1,0 +1,173 @@
+{
+  "standard_ref": "CT-10",
+  "scope": "state",
+  "state": "CT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CT-10.1",
+      "question_text": "What is the default form of co-ownership when no specific form is stated in a Connecticut deed?",
+      "correct_answer": "Tenancy in common",
+      "distractors": ["Joint tenancy", "Tenancy by the entirety", "Community property"],
+      "explanation": "Tenancy in common is the default form of co-ownership in Connecticut. To create joint tenancy, the deed must explicitly state that intent. Community property does not exist in Connecticut.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["co-ownership", "tenancy-in-common", "default"]
+    },
+    {
+      "key_topic_ref": "CT-10.1",
+      "question_text": "A married couple in Connecticut wants co-ownership with right of survivorship where neither can sell without the other's consent. They should hold title as:",
+      "correct_answer": "Tenants by the entirety",
+      "distractors": ["Joint tenants", "Tenants in common", "Community property holders"],
+      "explanation": "Tenancy by the entirety is available only to married couples in Connecticut and provides right of survivorship plus protection from unilateral transfer. Joint tenancy has survivorship but allows unilateral transfer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["co-ownership", "tenancy-by-entirety", "married"]
+    },
+    {
+      "key_topic_ref": "CT-10.1",
+      "question_text": "To create a joint tenancy in Connecticut, the deed must:",
+      "correct_answer": "Explicitly state joint tenancy with right of survivorship",
+      "distractors": ["Simply list both names on the deed", "Be recorded within 30 days of execution", "Include a separate survivorship agreement"],
+      "explanation": "Connecticut requires explicit language creating joint tenancy with right of survivorship. Without such language, co-ownership defaults to tenancy in common. The four unities (time, title, interest, possession) must also be present.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["joint-tenancy", "explicit-language", "four-unities"]
+    },
+    {
+      "key_topic_ref": "CT-10.1",
+      "question_text": "Connecticut recognizes which forms of property ownership? (Select the correct combination)",
+      "correct_answer": "Tenancy in common, joint tenancy, tenancy by entirety",
+      "distractors": ["Only tenancy in common and joint tenancy", "Tenancy in common, joint tenancy, and community property", "Only tenancy in common and tenancy by entirety"],
+      "explanation": "Connecticut recognizes tenancy in common, joint tenancy, and tenancy by the entirety. Connecticut does NOT have community property — that system exists only in a handful of states like California and Texas.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["co-ownership", "forms", "no-community-property"]
+    },
+    {
+      "key_topic_ref": "CT-10.1",
+      "question_text": "Two business partners own a commercial building as tenants in common. One partner dies. The deceased partner's share:",
+      "correct_answer": "Passes to the deceased partner's heirs or estate",
+      "distractors": ["Automatically transfers to the surviving partner", "Reverts to the state of Connecticut", "Is split equally among all remaining tenants"],
+      "explanation": "Tenancy in common has no right of survivorship. When a tenant in common dies, their share passes through their estate to heirs. Only joint tenancy and tenancy by the entirety have survivorship rights.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tenancy-in-common", "death", "no-survivorship"]
+    },
+    {
+      "key_topic_ref": "CT-10.2",
+      "question_text": "What is the statutory period for adverse possession in Connecticut?",
+      "correct_answer": "15 years",
+      "distractors": ["10 years", "20 years", "7 years"],
+      "explanation": "Under CGS §52-575, the statutory period for adverse possession in Connecticut is 15 years of continuous, open, notorious, hostile, and exclusive possession.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["adverse-possession", "15-years", "statutory-period"]
+    },
+    {
+      "key_topic_ref": "CT-10.2",
+      "question_text": "A neighbor has been using a path across another's property openly and without permission for 16 years. This may establish a:",
+      "correct_answer": "Prescriptive easement",
+      "distractors": ["Easement by necessity", "Easement by grant", "License to use the property"],
+      "explanation": "In Connecticut, a prescriptive easement requires 15 years of open, continuous, and hostile use without permission. At 16 years, the neighbor may have established a prescriptive easement over the path.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prescriptive-easement", "15-years", "use"]
+    },
+    {
+      "key_topic_ref": "CT-10.2",
+      "question_text": "The prescriptive easement period in Connecticut is:",
+      "correct_answer": "The same as adverse possession — 15 years",
+      "distractors": ["Shorter than adverse possession — 10 years", "Longer than adverse possession — 20 years", "Only 5 years for residential property"],
+      "explanation": "Both adverse possession and prescriptive easements in Connecticut require 15 years. The use must be open, visible, continuous, and without the owner's permission for the full period.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["prescriptive-easement", "adverse-possession", "15-years"]
+    },
+    {
+      "key_topic_ref": "CT-10.2",
+      "question_text": "To claim adverse possession in Connecticut, the possession must be all of the following EXCEPT:",
+      "correct_answer": "With the owner's written permission",
+      "distractors": ["Open and notorious to the public", "Continuous for the full 15 years", "Exclusive and hostile to the owner"],
+      "explanation": "Adverse possession requires possession that is WITHOUT the owner's consent (hostile). If the owner granted written permission, the possession is not hostile and cannot support an adverse possession claim.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["adverse-possession", "elements", "hostile"]
+    },
+    {
+      "key_topic_ref": "CT-10.2",
+      "question_text": "A property owner discovers a neighbor's fence has been 3 feet over the boundary line for 12 years. The owner should:",
+      "correct_answer": "Take action now before the 15-year period expires",
+      "distractors": ["Wait because 20 years is needed for adverse possession", "Do nothing because fences don't count for adverse claims", "File a lawsuit only if the fence was built intentionally"],
+      "explanation": "With only 3 years remaining before the 15-year adverse possession period is met, the owner should act promptly. After 15 years of open, continuous, hostile possession, the neighbor could claim title to the strip.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["adverse-possession", "timing", "boundary"]
+    },
+    {
+      "key_topic_ref": "CT-10.3",
+      "question_text": "Connecticut uses what type of recording system for land records?",
+      "correct_answer": "Town clerk recording system",
+      "distractors": ["County recorder system", "Centralized state registry", "Torrens title system"],
+      "explanation": "Connecticut uses a town clerk recording system where each of the 169 municipalities maintains its own land records. Documents must be recorded in the town where the property is located.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "town-clerk", "land-records"]
+    },
+    {
+      "key_topic_ref": "CT-10.3",
+      "question_text": "A buyer is purchasing property that borders two different towns. Where should the deed be recorded?",
+      "correct_answer": "In each town where a portion of the property is located",
+      "distractors": ["Only in the town where the main structure sits", "At the county recorder's office for that region", "At the centralized Connecticut land records office"],
+      "explanation": "Connecticut uses a town-based (not county-based) recording system. When property spans multiple towns, the deed must be recorded in each town's land records to provide constructive notice in all relevant jurisdictions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recording", "town-clerk", "multi-town"]
+    },
+    {
+      "key_topic_ref": "CT-10.3",
+      "question_text": "Connecticut follows which type of recording statute?",
+      "correct_answer": "Race-notice",
+      "distractors": ["Pure race", "Pure notice", "Race only"],
+      "explanation": "Connecticut follows a race-notice recording statute. A subsequent purchaser who records first and had no notice of a prior unrecorded interest prevails. Both good faith AND recording first are required.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "priority"]
+    },
+    {
+      "key_topic_ref": "CT-10.3",
+      "question_text": "Buyer A purchases property but does not record the deed. Buyer B later purchases the same property without knowledge of Buyer A's deed and records immediately. Under Connecticut law:",
+      "correct_answer": "Buyer B prevails as a good-faith purchaser who recorded first",
+      "distractors": ["Buyer A prevails because they purchased first", "Neither prevails until a court decides", "Buyer B prevails only if they paid more"],
+      "explanation": "Under Connecticut's race-notice statute, Buyer B prevails because they (1) had no notice of Buyer A's unrecorded interest and (2) recorded first. Both conditions must be met.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "priority"]
+    },
+    {
+      "key_topic_ref": "CT-10.3",
+      "question_text": "Recording a deed in Connecticut provides what type of notice to the public?",
+      "correct_answer": "Constructive notice to the world",
+      "distractors": ["Actual notice to interested parties", "Inquiry notice only to neighbors", "No notice until a search is performed"],
+      "explanation": "Recording a document gives constructive notice to the world — everyone is deemed to know about it whether they actually searched the records or not. This is a core principle of the recording system.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "constructive-notice", "public"]
+    }
+  ]
+}

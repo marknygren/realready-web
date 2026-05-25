@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NV-12",
+  "scope": "state",
+  "state": "NV",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NV-12.1",
+      "question_text": "Under the Statute of Frauds, what form must a listing agreement take in Nevada?",
+      "correct_answer": "It must be in writing",
+      "distractors": [
+        "Oral agreements are enforceable",
+        "Email confirmation is sufficient",
+        "It must be notarized to be valid"
+      ],
+      "explanation": "The Statute of Frauds requires listing agreements to be in writing. Oral listing agreements are not enforceable. While email may be part of communication, the listing agreement itself must be a written document with required terms.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing-agreement", "statute-of-frauds", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.1",
+      "question_text": "A seller signs an exclusive right-to-sell listing. The seller finds a buyer without the broker's help. Does the broker earn a commission?",
+      "correct_answer": "Yes, the broker earns the commission",
+      "distractors": [
+        "No, only if the broker found the buyer",
+        "Only if the broker showed the property",
+        "Only half the agreed commission rate"
+      ],
+      "explanation": "Under an exclusive right-to-sell listing, the broker earns a commission regardless of who finds the buyer, including the seller. This distinguishes it from an exclusive agency listing, where the seller retains the right to sell without owing a commission.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exclusive-right-to-sell", "commission", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.1",
+      "question_text": "Which element must be included in every Nevada listing agreement?",
+      "correct_answer": "A definite expiration date",
+      "distractors": [
+        "A minimum showing requirement",
+        "The buyer's financing terms",
+        "An automatic renewal clause"
+      ],
+      "explanation": "Nevada listing agreements must include a definite expiration date. Other required elements include property description, listing price, commission rate, and broker duties. Automatic renewal clauses and minimum showing requirements are not mandatory components.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing-agreement", "requirements", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.1",
+      "question_text": "A broker proposes a net listing to a seller, keeping anything above the seller's desired price. What is the status of net listings in Nevada?",
+      "correct_answer": "Discouraged but not prohibited by statute",
+      "distractors": [
+        "Expressly prohibited under NRS 645",
+        "Permitted without any restrictions",
+        "Allowed only for commercial properties"
+      ],
+      "explanation": "Net listings are discouraged in Nevada but not explicitly prohibited by statute. They create a conflict of interest because the broker benefits from a higher sales price rather than serving the seller's best interests. Most brokers avoid them due to ethical concerns.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["net-listing", "broker-ethics", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.1",
+      "question_text": "Under an exclusive agency listing, when does the broker NOT earn a commission?",
+      "correct_answer": "When the seller finds the buyer directly",
+      "distractors": [
+        "When another broker brings the buyer",
+        "When the property sells above list price",
+        "When the buyer uses a buyer's agent"
+      ],
+      "explanation": "Under an exclusive agency listing, the seller retains the right to find a buyer without owing the listing broker a commission. However, if any other broker brings a buyer or a buyer's agent is involved, the listing broker still earns a commission.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exclusive-agency", "commission", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.2",
+      "question_text": "As of 2025, when must a buyer representation agreement be signed in Nevada?",
+      "correct_answer": "Before performing licensed activity for buyer",
+      "distractors": [
+        "Within 5 days of the first showing",
+        "At the time of writing an offer",
+        "Before the buyer obtains financing"
+      ],
+      "explanation": "As of 2025, a written buyer representation agreement must be signed before the broker performs any licensed activity on the buyer's behalf. This includes showing properties, writing offers, or providing market analysis for the buyer.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer-representation", "2025-requirement", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.2",
+      "question_text": "A buyer's agent shows three properties before obtaining a signed buyer representation agreement. What issue exists?",
+      "correct_answer": "The agent violated the agreement requirement",
+      "distractors": [
+        "No issue if the buyer signs later",
+        "Only a problem if no offer is made",
+        "Acceptable for the first three showings"
+      ],
+      "explanation": "Under the 2025 requirement, a written buyer representation agreement must be in place before performing any licensed activity, including showing properties. Showing three homes without a signed agreement violates this requirement regardless of later signing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["buyer-representation", "violation", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.2",
+      "question_text": "What must a Nevada buyer representation agreement specify?",
+      "correct_answer": "Compensation terms and duration",
+      "distractors": [
+        "The seller's listing price only",
+        "The buyer's maximum budget",
+        "The lender's pre-approval amount"
+      ],
+      "explanation": "A buyer representation agreement must specify compensation terms, duration, and geographic area. It does not need to include seller-specific information, the buyer's budget, or lending details. These terms protect both the broker and the buyer.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer-representation", "agreement-terms", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.2",
+      "question_text": "A broker claims compensation from a buyer but has no signed written agreement. Can the broker collect?",
+      "correct_answer": "No, a written agreement is required",
+      "distractors": [
+        "Yes, if services were clearly rendered",
+        "Yes, based on an implied oral contract",
+        "Only if the seller agrees to pay instead"
+      ],
+      "explanation": "A broker is not entitled to compensation from a buyer without a signed written buyer representation agreement. Rendered services and implied contracts are insufficient. The written agreement requirement ensures transparency about compensation terms.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["buyer-representation", "compensation", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.2",
+      "question_text": "Which element must a buyer representation agreement include to be enforceable in Nevada?",
+      "correct_answer": "Geographic area of representation",
+      "distractors": [
+        "The buyer's credit score range",
+        "A minimum number of showings",
+        "The seller's concession terms"
+      ],
+      "explanation": "A buyer representation agreement must specify the geographic area of representation, along with compensation terms and duration. Credit scores, showing minimums, and seller concessions are not required elements of the agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer-representation", "geographic-area", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.3",
+      "question_text": "If a purchase contract does not specify a deadline for depositing earnest money in Nevada, when must it be deposited?",
+      "correct_answer": "Within 3 business days",
+      "distractors": [
+        "Within 24 hours of acceptance",
+        "Within 5 business days",
+        "Within 10 calendar days"
+      ],
+      "explanation": "When the purchase contract does not specify a deposit deadline, Nevada defaults to 3 business days for depositing earnest money. The funds must be placed in the broker's trust account or a neutral escrow account.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest-money", "deposit-deadline", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.3",
+      "question_text": "A buyer delivers earnest money to the listing broker. Where must these funds be placed?",
+      "correct_answer": "Broker trust account or neutral escrow",
+      "distractors": [
+        "The broker's operating account",
+        "The seller's personal bank account",
+        "A certificate of deposit in buyer's name"
+      ],
+      "explanation": "Earnest money must be placed in the broker's trust account or a neutral escrow account. Commingling earnest money with the broker's operating funds or depositing directly to the seller's account violates trust fund handling requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "trust-account", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.3",
+      "question_text": "What is an advance fee in Nevada real estate?",
+      "correct_answer": "A fee collected for future services",
+      "distractors": [
+        "A prepayment of property taxes",
+        "The first mortgage payment at closing",
+        "A non-refundable application charge"
+      ],
+      "explanation": "An advance fee is a fee charged for services to be performed in the future. Nevada requires a written contract specifying the services and fees before any advance fee can be collected, and the funds must be deposited into a trust account.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["advance-fees", "definition", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.3",
+      "question_text": "A broker collects an advance fee from a client without first signing a written contract specifying the services. What violation has occurred?",
+      "correct_answer": "Collecting advance fees without a contract",
+      "distractors": [
+        "No violation if services are provided later",
+        "A violation only if the fee exceeds $500",
+        "Acceptable if deposited in trust account"
+      ],
+      "explanation": "Nevada requires a written contract specifying services and fees before any advance fee is collected. Collecting the fee first, even with intent to provide services or proper trust account handling, violates the advance fee requirements.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["advance-fees", "violation", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-12.3",
+      "question_text": "A broker deposits a client's advance fee into the brokerage operating account. What trust fund violation exists?",
+      "correct_answer": "Advance fees must go into a trust account",
+      "distractors": [
+        "No violation if used for client services",
+        "Permitted if the client consents in writing",
+        "Only a violation if funds are not returned"
+      ],
+      "explanation": "Advance fees must be deposited into a trust account, not the broker's operating account. Depositing client funds into an operating account constitutes commingling, a serious trust fund violation regardless of client consent or intended use.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["advance-fees", "trust-account", "commingling", "nevada"]
+    }
+  ]
+}

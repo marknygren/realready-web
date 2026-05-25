@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MT-13",
+  "scope": "state",
+  "state": "MT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MT-13.1",
+      "question_text": "Which Montana law governs condominium ownership and creation?",
+      "correct_answer": "Montana Unit Ownership Act",
+      "distractors": ["Montana Subdivision and Platting Act", "Montana Homeowners Association Act", "Montana Common Interest Act"],
+      "explanation": "The Montana Unit Ownership Act governs condominium ownership, including creation requirements, unit owner rights, common elements, and HOA governance. Creation requires filing a declaration, bylaws, and plat.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominiums", "unit ownership act", "Montana law"]
+    },
+    {
+      "key_topic_ref": "MT-13.1",
+      "question_text": "A developer plans to create a condominium project in Missoula. Which documents must be filed to establish the project?",
+      "correct_answer": "Declaration, bylaws, and plat",
+      "distractors": ["Only a subdivision plat", "Articles of incorporation only", "A master deed and survey"],
+      "explanation": "Under the Montana Unit Ownership Act, creating a condominium requires filing a declaration (master deed), bylaws (governance rules), and a plat (survey map showing units and common elements).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominiums", "creation requirements", "declaration"]
+    },
+    {
+      "key_topic_ref": "MT-13.1",
+      "question_text": "A condo owner in Helena asks what she actually owns. What is the correct description of her ownership?",
+      "correct_answer": "Her unit plus a share of common elements",
+      "distractors": ["Her unit only, not common areas", "The entire building owned proportionally", "Shares of stock in the association"],
+      "explanation": "Under the Montana Unit Ownership Act, each unit owner owns their individual unit in fee simple plus an undivided share of the common elements (hallways, lobbies, grounds, etc.). Common elements are owned collectively by all unit owners.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condominiums", "unit ownership", "common elements"]
+    },
+    {
+      "key_topic_ref": "MT-13.1",
+      "question_text": "A Montana HOA levies a special assessment that an owner refuses to pay. What enforcement tool does the HOA have?",
+      "correct_answer": "File an assessment lien on the unit",
+      "distractors": ["Evict the unit owner immediately", "Suspend the owner's deed rights", "Report the owner to the state agency"],
+      "explanation": "Montana HOAs can place an assessment lien on a unit for unpaid assessments. These liens may take priority over certain other encumbrances. The HOA can ultimately foreclose on the lien to collect the debt.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HOA", "assessment lien", "enforcement"]
+    },
+    {
+      "key_topic_ref": "MT-13.1",
+      "question_text": "Are CC&Rs recorded by a Montana HOA binding on future purchasers of units in the development?",
+      "correct_answer": "Yes, they run with the land",
+      "distractors": ["No, only if the buyer signs them", "Only for the original owners", "Only if renewed every 10 years"],
+      "explanation": "CC&Rs (Covenants, Conditions, and Restrictions) are recorded and run with the land, binding all current and future owners. Purchasing a unit in the development means accepting the CC&Rs as a condition of ownership.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HOA", "CC&Rs", "covenants running with land"]
+    },
+    {
+      "key_topic_ref": "MT-13.2",
+      "question_text": "Which document is NOT typically part of a Montana condo resale package?",
+      "correct_answer": "The seller's personal mortgage statement",
+      "distractors": ["HOA annual financial statements", "Governing documents and association bylaws", "Pending special assessment notices"],
+      "explanation": "Montana condo resale packages include governing documents, HOA financial statements, reserve fund information, pending assessments, and litigation disclosures. The seller's personal mortgage statement is private and not part of the association's resale disclosure package.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "condominium", "resale package"]
+    },
+    {
+      "key_topic_ref": "MT-13.2",
+      "question_text": "A prospective condo buyer in Bozeman learns the HOA has no reserve fund. Why is this information significant?",
+      "correct_answer": "Future special assessments are likely",
+      "distractors": ["The HOA is operating illegally now", "Monthly dues will likely decrease", "The building must be condemned soon"],
+      "explanation": "Without a reserve fund, the HOA lacks savings for major repairs and capital improvements. This means unit owners will likely face special assessments for unexpected expenses. Reserve fund status is an important disclosure item for prospective buyers.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["reserve fund", "special assessments", "financial disclosure"]
+    },
+    {
+      "key_topic_ref": "MT-13.2",
+      "question_text": "What document summarizes a Montana condo unit's financial obligations and association status for a prospective buyer?",
+      "correct_answer": "Resale certificate",
+      "distractors": ["Title commitment", "Property disclosure form", "Appraisal report"],
+      "explanation": "A resale certificate provides prospective buyers with current information about the unit's assessment obligations, HOA financial health, pending litigation, and other material facts about the association. It is specific to common interest ownership resales.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["resale certificate", "disclosure", "buyer information"]
+    },
+    {
+      "key_topic_ref": "MT-13.2",
+      "question_text": "A Montana condo association votes to install a new elevator in the building. The cost will be $200,000. How is this typically funded?",
+      "correct_answer": "Special assessment to all unit owners",
+      "distractors": ["Only penthouse unit owners pay", "The developer covers all the costs", "A state grant program covers it"],
+      "explanation": "Major capital improvements in a Montana condo are typically funded through special assessments allocated to all unit owners based on their ownership percentage. If the reserve fund is insufficient, the association levies a special assessment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["special assessment", "capital improvements", "condo funding"]
+    },
+    {
+      "key_topic_ref": "MT-13.2",
+      "question_text": "A Montana condo association is being sued by a former contractor. Must this be disclosed to prospective buyers?",
+      "correct_answer": "Yes, it must be disclosed",
+      "distractors": ["No, only previously settled cases matter", "Only if the HOA lost the lawsuit", "Only if the buyer asks about lawsuits"],
+      "explanation": "Pending litigation against the HOA is a required disclosure item for prospective condo buyers in Montana. Lawsuits can result in financial liability, special assessments, or other consequences that materially affect unit owners.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["pending litigation", "disclosure", "material facts"]
+    },
+    {
+      "key_topic_ref": "MT-13.1",
+      "question_text": "In a Montana condominium, who collectively owns the common elements such as hallways and parking areas?",
+      "correct_answer": "All unit owners as a group",
+      "distractors": ["The HOA as a separate entity", "The original developer indefinitely", "The local municipality"],
+      "explanation": "Under the Montana Unit Ownership Act, common elements are owned collectively by all unit owners as tenants in common. Each owner holds an undivided percentage interest in the common elements proportional to their unit's value.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["common elements", "collective ownership", "condominiums"]
+    },
+    {
+      "key_topic_ref": "MT-13.2",
+      "question_text": "A buyer's agent reviewing condo documents discovers the HOA plans a $5,000 per-unit special assessment next quarter. What should the agent do?",
+      "correct_answer": "Disclose this to the buyer immediately",
+      "distractors": ["Wait until after closing to mention it", "Advise the buyer to skip the review", "Contact the HOA to delay the vote"],
+      "explanation": "Upcoming special assessments are material facts that must be disclosed to prospective buyers. The agent has a duty to inform the buyer of this significant financial obligation, which will affect the total cost of ownership.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "special assessment", "agent duty"]
+    },
+    {
+      "key_topic_ref": "MT-13.1",
+      "question_text": "Which statement about Montana HOA assessment liens is correct?",
+      "correct_answer": "They may take priority over some liens",
+      "distractors": ["They are always subordinate to all liens", "They cannot be foreclosed upon", "They expire after one year automatically"],
+      "explanation": "Montana HOA assessment liens may take priority over certain other encumbrances on the property. This gives the association a powerful collection tool, as the lien can be foreclosed if the owner fails to pay.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["assessment lien", "lien priority", "HOA enforcement"]
+    },
+    {
+      "key_topic_ref": "MT-13.2",
+      "question_text": "A Montana condo buyer receives the HOA's annual budget showing a 15% increase in monthly dues. This information comes from which disclosure item?",
+      "correct_answer": "HOA financial statements",
+      "distractors": ["The property condition report", "The title insurance policy", "The seller's personal finances"],
+      "explanation": "HOA financial statements, including budgets and fee schedules, are required disclosure items. A significant increase in monthly dues is material information that affects the buyer's cost of ownership and should be reviewed carefully.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["financial statements", "disclosure", "monthly dues"]
+    },
+    {
+      "key_topic_ref": "MT-13.1",
+      "question_text": "What is the primary purpose of the bylaws in a Montana condominium association?",
+      "correct_answer": "Govern the operation of the association",
+      "distractors": ["Describe the physical boundaries of units", "Set the property tax rates for units", "Establish local zoning classifications"],
+      "explanation": "Bylaws establish the rules for governing the condominium association, including meeting procedures, voting rights, board elections, and officer duties. The declaration describes physical boundaries, while bylaws address organizational governance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["bylaws", "governance", "condominium association"]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "standard_ref": "WY-03",
+  "scope": "state",
+  "state": "WY",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "WY-03.1",
+      "question_text": "How many total continuing education hours must a Wyoming salesperson complete per 3-year renewal cycle?",
+      "correct_answer": "45 hours",
+      "distractors": [
+        "30 hours",
+        "54 hours",
+        "60 hours"
+      ],
+      "explanation": "Wyoming salespersons must complete 45 hours of continuing education every 3 years. Of these, 24 hours are in mandatory topics and 21 hours are elective. This ensures licensees stay current on essential subjects while allowing flexibility to pursue areas of professional interest.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing_education", "hours", "salesperson", "renewal"]
+    },
+    {
+      "key_topic_ref": "WY-03.1",
+      "question_text": "A salesperson completed 24 hours of mandatory CE and 15 hours of elective CE. Can the salesperson renew?",
+      "correct_answer": "No, 6 more elective hours are needed",
+      "distractors": [
+        "Yes, 39 hours exceeds the requirement",
+        "Yes, only mandatory hours are required",
+        "No, 10 more mandatory hours are needed"
+      ],
+      "explanation": "Wyoming requires 45 total CE hours: 24 mandatory and 21 elective. This salesperson has completed all mandatory hours but only 15 of the required 21 elective hours, falling 6 hours short of the total requirement. Both components must be fully satisfied for renewal.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["continuing_education", "elective", "mandatory", "renewal"]
+    },
+    {
+      "key_topic_ref": "WY-03.1",
+      "question_text": "Which mandatory CE topic requires the most hours for Wyoming salespersons?",
+      "correct_answer": "Agency and Contracts at 8 hours",
+      "distractors": [
+        "Fair Housing and Anti-Trust at 4 hours",
+        "Valuation and Finance at 4 hours",
+        "Marketing and Advertising at 4 hours"
+      ],
+      "explanation": "Of the 24 mandatory CE hours, Agency and Contracts requires the largest allocation at 8 hours. The remaining 16 mandatory hours are split equally among four other topics at 4 hours each: Fair Housing and Anti-Trust, RE Management and Technology, Marketing/Advertising/Social Media, and Valuation and Finance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing_education", "mandatory_topics", "agency_contracts"]
+    },
+    {
+      "key_topic_ref": "WY-03.1",
+      "question_text": "A responsible broker completed 45 hours of CE but did not take the Broker Management course. Can the broker renew?",
+      "correct_answer": "No, the 8-hour Broker Management course is required",
+      "distractors": [
+        "Yes, 45 hours satisfies the requirement",
+        "Yes, Broker Management is optional for renewals",
+        "No, but a waiver is available for experienced brokers"
+      ],
+      "explanation": "Responsible brokers in Wyoming must complete 53 total CE hours per renewal cycle, which includes the standard 45 hours plus a mandatory 8-hour Broker Management course. Without completing this additional course, the responsible broker cannot renew, regardless of total hours completed.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["continuing_education", "responsible_broker", "broker_management"]
+    },
+    {
+      "key_topic_ref": "WY-03.1",
+      "question_text": "A licensee's license has been inactive for 2 years and they want to renew. How many CE hours are required for the inactive renewal?",
+      "correct_answer": "No CE is required for inactive renewal",
+      "distractors": [
+        "45 hours, same as active licensees",
+        "24 hours of mandatory topics only",
+        "Half the normal requirement at 22.5 hours"
+      ],
+      "explanation": "Wyoming does not require continuing education for inactive license renewal. However, the licensee must complete all CE requirements before reactivating the license. This allows licensees to maintain their license status without the education burden while they are not actively practicing.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inactive_license", "continuing_education", "renewal", "CE_exemption"]
+    },
+    {
+      "key_topic_ref": "WY-03.2",
+      "question_text": "When do Wyoming real estate licenses expire?",
+      "correct_answer": "December 31 every three years",
+      "distractors": [
+        "June 30 every two years",
+        "The licensee's birthday annually",
+        "March 31 every four years"
+      ],
+      "explanation": "Wyoming real estate licenses expire on December 31 every 3 years from the year of initial issuance. This fixed calendar date simplifies tracking for both licensees and WREC, though individual expiration years vary depending on when each license was originally issued.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["renewal", "expiration", "deadline", "3_year_cycle"]
+    },
+    {
+      "key_topic_ref": "WY-03.2",
+      "question_text": "A licensee fails to renew by December 31 but submits the renewal application on February 15. What is the status?",
+      "correct_answer": "The licensee is within the grace period",
+      "distractors": [
+        "The license is permanently cancelled",
+        "The licensee must retake the exam",
+        "The license expired with no remedy"
+      ],
+      "explanation": "Wyoming provides a grace period from January 1 through March 1 for late renewals after the December 31 deadline. A February 15 submission falls within this grace period, so the licensee can still renew, typically with a late fee. The licensee should not practice until the renewal is processed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["renewal", "grace_period", "late_renewal", "deadline"]
+    },
+    {
+      "key_topic_ref": "WY-03.2",
+      "question_text": "A licensee's renewal deadline is December 31. On March 15, the licensee has still not renewed. What happens to the license?",
+      "correct_answer": "The license is cancelled for failure to renew",
+      "distractors": [
+        "The license remains in the grace period",
+        "The license converts to inactive status",
+        "WREC automatically renews the license"
+      ],
+      "explanation": "The grace period in Wyoming runs from January 1 through March 1. After March 1, the grace period has expired, and a licensee who has not renewed faces cancellation of the license. March 15 is past the deadline, so the license is cancelled for failure to renew.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["renewal", "cancellation", "grace_period", "failure_to_renew"]
+    },
+    {
+      "key_topic_ref": "WY-03.2",
+      "question_text": "How long is the grace period for late license renewal in Wyoming?",
+      "correct_answer": "January 1 through March 1",
+      "distractors": [
+        "30 days after expiration",
+        "January 1 through June 30",
+        "There is no grace period"
+      ],
+      "explanation": "Wyoming provides a grace period from January 1 through March 1 following the December 31 expiration date. During this two-month window, licensees may still submit their renewal applications, typically with a late fee. After March 1, the license faces cancellation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["grace_period", "renewal", "deadline", "late_renewal"]
+    },
+    {
+      "key_topic_ref": "WY-03.2",
+      "question_text": "A salesperson renewed on time in December but forgot to complete CE. What issue does this create?",
+      "correct_answer": "The renewal may be denied or suspended",
+      "distractors": [
+        "No issue if the renewal fee was paid",
+        "CE can be completed anytime the next year",
+        "The salesperson gets extra credit next cycle"
+      ],
+      "explanation": "Submitting a renewal application without completing required CE does not satisfy the renewal requirements. WREC may deny or hold the renewal until CE is completed. Licensees must ensure all continuing education is finished before the renewal deadline to maintain uninterrupted active status.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["renewal", "continuing_education", "compliance", "deadline"]
+    },
+    {
+      "key_topic_ref": "WY-03.3",
+      "question_text": "A salesperson is terminated by their broker. What happens to the salesperson's license?",
+      "correct_answer": "The license becomes inactive immediately",
+      "distractors": [
+        "The license is automatically cancelled",
+        "The license stays active for 30 days",
+        "The salesperson becomes an independent broker"
+      ],
+      "explanation": "When a salesperson is terminated by their broker in Wyoming, the license becomes inactive until it is transferred to a new broker. A salesperson cannot practice without a responsible broker affiliation, so the license remains inactive until a new broker transfer is completed with WREC.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["license_status", "inactive", "termination", "broker_affiliation"]
+    },
+    {
+      "key_topic_ref": "WY-03.3",
+      "question_text": "A licensee wants to switch from active to inactive status voluntarily. Is continuing education required while inactive?",
+      "correct_answer": "No CE is required while inactive",
+      "distractors": [
+        "Yes, the same 45 hours are required",
+        "Yes, but only mandatory topics are needed",
+        "No CE, but the license expires after 1 year"
+      ],
+      "explanation": "Wyoming licensees on inactive status are not required to complete continuing education for renewal purposes. However, when the licensee decides to reactivate, all CE requirements must be satisfied before the license can return to active status.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["inactive_license", "continuing_education", "license_status"]
+    },
+    {
+      "key_topic_ref": "WY-03.3",
+      "question_text": "A salesperson changes broker affiliations. What notification must occur?",
+      "correct_answer": "WREC must be notified of the change",
+      "distractors": [
+        "No notification is required",
+        "Only the new broker files with the county",
+        "The salesperson files with Pearson VUE"
+      ],
+      "explanation": "When a salesperson changes broker affiliation in Wyoming, WREC must be notified of the change. This ensures the commission maintains accurate records of which licensees are affiliated with which brokers, which is essential for supervision accountability and consumer protection.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker_change", "WREC_notification", "license_status", "affiliation"]
+    },
+    {
+      "key_topic_ref": "WY-03.3",
+      "question_text": "A terminated salesperson receives a purchase offer from a previous client two days after termination. Can the salesperson present the offer?",
+      "correct_answer": "No, the license is inactive upon termination",
+      "distractors": [
+        "Yes, if the transaction started before termination",
+        "Yes, for up to 10 days after termination",
+        "Yes, if the client gives written consent"
+      ],
+      "explanation": "Once terminated by a broker, the salesperson's license is immediately inactive. An inactive licensee cannot engage in any licensed activity, including presenting offers. The previous client would need to work with another active licensee to continue the transaction.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["termination", "inactive_license", "unauthorized_practice"]
+    },
+    {
+      "key_topic_ref": "WY-03.3",
+      "question_text": "A licensee has been on inactive status for the entire 3-year cycle and wants to reactivate. What must they do regarding CE?",
+      "correct_answer": "Complete all CE requirements before reactivation",
+      "distractors": [
+        "No CE is needed since they were inactive",
+        "Take only 24 hours of mandatory topics",
+        "Pass the licensing exam again instead of CE"
+      ],
+      "explanation": "Although inactive licensees do not need CE to renew their inactive license, Wyoming requires completion of all continuing education requirements before a license can be reactivated. This ensures that licensees returning to active practice are current on laws, practices, and industry developments.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["reactivation", "continuing_education", "inactive_license"]
+    }
+  ]
+}

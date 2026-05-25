@@ -1,0 +1,118 @@
+{
+  "standard_ref": "SD-01",
+  "scope": "state",
+  "state": "SD",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "SD-01.1",
+      "question_text": "How many members serve on the South Dakota Real Estate Commission?",
+      "correct_answer": "Five members",
+      "distractors": ["Seven members", "Three members", "Nine members"],
+      "explanation": "The SDREC has 5 members appointed by the Governor. Three must be active real estate brokers and two must be public members. This structure ensures both industry expertise and public representation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SDREC", "commission", "composition"]
+    },
+    {
+      "key_topic_ref": "SD-01.1",
+      "question_text": "A newly appointed SDREC commissioner is a licensed broker. Of the other four current members, two are brokers and two are public members. Is this appointment valid?",
+      "correct_answer": "Yes, three brokers and two public is correct",
+      "distractors": ["No, only two brokers may serve at once", "No, the majority must be public members", "Yes, but only if from a different party"],
+      "explanation": "The SDREC requires exactly 3 active brokers and 2 public members. This appointment maintains the correct balance. The political party restriction is separate — all 5 may not be from the same party.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SDREC", "commission", "appointment"]
+    },
+    {
+      "key_topic_ref": "SD-01.1",
+      "question_text": "Which restriction applies to the political party membership of SDREC commissioners?",
+      "correct_answer": "All five may not be from the same party",
+      "distractors": ["At least three must be from the majority party", "No more than two from any single party", "Commissioners must be registered as independent"],
+      "explanation": "South Dakota law requires that not all five SDREC commissioners be from the same political party. This ensures bipartisan representation on the commission, though a majority from one party is permitted.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SDREC", "commission", "political-party"]
+    },
+    {
+      "key_topic_ref": "SD-01.2",
+      "question_text": "Under SDCL 36-21A, which activity falls within the SDREC's jurisdiction?",
+      "correct_answer": "Licensing and disciplining property managers",
+      "distractors": ["Regulating mortgage interest rates", "Setting property tax assessment values", "Approving zoning changes for developments"],
+      "explanation": "The SDREC has jurisdiction over brokers, broker associates, property managers, auctioneers, residential rental agents, and home inspectors. It does not regulate mortgage rates, property taxes, or zoning — those fall under other agencies.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SDREC", "jurisdiction", "authority"]
+    },
+    {
+      "key_topic_ref": "SD-01.2",
+      "question_text": "The SDREC operates under which state department?",
+      "correct_answer": "Department of Labor and Regulation",
+      "distractors": ["Department of Commerce and Industry", "Secretary of State's Office", "Department of Revenue and Taxation"],
+      "explanation": "The South Dakota Real Estate Commission operates under the Department of Labor and Regulation. This is the parent agency that oversees SDREC's administrative functions and regulatory activities.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SDREC", "department", "organization"]
+    },
+    {
+      "key_topic_ref": "SD-01.1",
+      "question_text": "Who appoints members to the South Dakota Real Estate Commission?",
+      "correct_answer": "The Governor",
+      "distractors": ["The state legislature", "The Secretary of State", "The existing commissioners"],
+      "explanation": "SDREC members are appointed by the Governor of South Dakota. The Governor selects 3 active broker members and 2 public members, subject to the political party balance requirement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SDREC", "appointment", "governor"]
+    },
+    {
+      "key_topic_ref": "SD-01.2",
+      "question_text": "A consumer complains that a home inspector provided a negligent report. Which entity has authority to investigate?",
+      "correct_answer": "The SDREC",
+      "distractors": ["The local building department", "The county assessor's office", "The Department of Revenue"],
+      "explanation": "The SDREC's jurisdiction includes home inspectors, in addition to brokers, broker associates, property managers, auctioneers, and residential rental agents. The commission can investigate complaints and discipline any licensee under its authority.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SDREC", "jurisdiction", "home-inspector"]
+    },
+    {
+      "key_topic_ref": "SD-01.1",
+      "question_text": "The SDREC includes two members who represent which group?",
+      "correct_answer": "The general public",
+      "distractors": ["Real estate appraisers", "Mortgage lenders", "Real estate attorneys"],
+      "explanation": "Of the 5 SDREC commissioners, 2 must be members of the general public — not real estate professionals. This ensures consumer interests are represented alongside the 3 required active broker members.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SDREC", "commission", "public-members"]
+    },
+    {
+      "key_topic_ref": "SD-01.2",
+      "question_text": "In addition to licensing real estate practitioners, the SDREC also registers which types of projects?",
+      "correct_answer": "Condominiums, timeshares, and subdivisions",
+      "distractors": ["Commercial office buildings and retail spaces", "Manufactured home parks and campgrounds", "Agricultural cooperatives and grain elevators"],
+      "explanation": "Beyond licensing individual practitioners, the SDREC is responsible for registering condominium projects, timeshare developments, and subdivisions before they can be marketed and sold to the public.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SDREC", "registration", "condominiums", "timeshares"]
+    },
+    {
+      "key_topic_ref": "SD-01.2",
+      "question_text": "A broker associate wants to know which powers the SDREC does NOT have. Which is correct?",
+      "correct_answer": "The SDREC cannot set commission rates",
+      "distractors": ["The SDREC cannot investigate complaints", "The SDREC cannot revoke licenses", "The SDREC cannot set education standards"],
+      "explanation": "The SDREC has broad authority to license, investigate, discipline, and set educational standards. However, it cannot set commission rates — those are determined by the market and negotiated between parties. Antitrust laws prohibit fixing commission rates.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["SDREC", "authority", "limitations"]
+    }
+  ]
+}

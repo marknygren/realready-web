@@ -1,0 +1,173 @@
+{
+  "standard_ref": "CT-13",
+  "scope": "state",
+  "state": "CT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CT-13.1",
+      "question_text": "What is the maximum security deposit a Connecticut landlord can collect from a tenant under age 62?",
+      "correct_answer": "2 months' rent",
+      "distractors": ["1 month's rent", "3 months' rent", "First and last month's rent"],
+      "explanation": "Connecticut limits security deposits to 2 months' rent for tenants under age 62. Tenants age 62 or older have a lower cap of 1 month's rent.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "maximum", "2-months"]
+    },
+    {
+      "key_topic_ref": "CT-13.1",
+      "question_text": "A 65-year-old tenant rents an apartment for $1,500/month. The maximum security deposit is:",
+      "correct_answer": "$1,500",
+      "distractors": ["$3,000", "$2,250", "$750"],
+      "explanation": "For tenants age 62 or older, the security deposit is capped at 1 month's rent ($1,500). The standard 2-month cap applies only to tenants under 62.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "elderly", "1-month"]
+    },
+    {
+      "key_topic_ref": "CT-13.1",
+      "question_text": "A Connecticut landlord must hold a tenant's security deposit in:",
+      "correct_answer": "An escrow account at a Connecticut bank",
+      "distractors": ["Any bank account in the landlord's name", "A special DCP-administered trust fund", "A non-interest-bearing account only"],
+      "explanation": "Security deposits must be held in an escrow account at a Connecticut bank. The landlord must also pay annual interest to the tenant at the rate set by the Banking Commissioner.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "escrow", "CT-bank"]
+    },
+    {
+      "key_topic_ref": "CT-13.1",
+      "question_text": "After a tenant moves out, the landlord must return the security deposit within:",
+      "correct_answer": "30 days",
+      "distractors": ["14 days", "45 days", "60 days"],
+      "explanation": "Connecticut requires landlords to return the security deposit within 30 days of move-out, along with an itemized list of any deductions. Failure to comply may result in double damages.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "return", "30-days"]
+    },
+    {
+      "key_topic_ref": "CT-13.1",
+      "question_text": "A landlord withholds $500 from a $3,000 security deposit for cleaning. The tenant must receive:",
+      "correct_answer": "$2,500 plus an itemized deduction statement",
+      "distractors": ["$2,500 with no explanation required", "$3,000 since cleaning is not a valid deduction", "$2,500 only if they request a statement"],
+      "explanation": "The landlord must return the remaining deposit ($2,500) with an itemized list of deductions within 30 days. Landlords cannot deduct for damage found in the pre-move-in walkthrough.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "deductions", "itemized"]
+    },
+    {
+      "key_topic_ref": "CT-13.2",
+      "question_text": "Under PA 23-207, the maximum late fee for overdue rent in Connecticut is:",
+      "correct_answer": "$50 or 5% of overdue rent (lesser amount)",
+      "distractors": ["$100 or 10% of overdue rent (lesser amount)", "$5 per day with no maximum cap applied", "Whatever amount the signed lease specifies"],
+      "explanation": "PA 23-207 caps late fees at $5 per day up to $50 maximum, or 5% of the overdue rent — whichever is less. Landlords can only charge one late fee per delinquent rent payment.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["late-fees", "cap", "PA-23-207"]
+    },
+    {
+      "key_topic_ref": "CT-13.2",
+      "question_text": "A monthly tenant's rent is due on the 1st. Under Connecticut law, late fees cannot begin until:",
+      "correct_answer": "The 10th of the month (9-day grace period)",
+      "distractors": ["The 2nd of the month (next day)", "The 5th of the month (4-day grace)", "The 15th of the month (14-day grace)"],
+      "explanation": "PA 23-207 requires a 9-day grace period for monthly leases before late fees can accrue. For weekly leases, the grace period is 4 days. No late fees can be charged during the grace period.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["late-fees", "grace-period", "9-days"]
+    },
+    {
+      "key_topic_ref": "CT-13.2",
+      "question_text": "A Connecticut landlord charges a $75 application processing fee to a prospective tenant. This is:",
+      "correct_answer": "Prohibited under PA 23-207",
+      "distractors": ["Permitted if disclosed in advance", "Allowed up to $100 per applicant", "Legal if refunded upon lease signing"],
+      "explanation": "PA 23-207 prohibits landlords from charging processing fees for rental applications. Landlords may only collect first month's rent, a security deposit, and a maximum $50 screening report fee.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["application-fees", "prohibited", "PA-23-207"]
+    },
+    {
+      "key_topic_ref": "CT-13.2",
+      "question_text": "What is the maximum a Connecticut landlord can charge for a tenant screening report?",
+      "correct_answer": "$50",
+      "distractors": ["$25", "$75", "$100"],
+      "explanation": "Landlords can charge up to $50 for a screening report and must provide the tenant a copy. No other application processing fees are permitted under PA 23-207.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["screening-fee", "50-maximum", "PA-23-207"]
+    },
+    {
+      "key_topic_ref": "CT-13.2",
+      "question_text": "A weekly tenant's rent is due on Monday. The grace period before late fees can accrue is:",
+      "correct_answer": "4 days",
+      "distractors": ["9 days", "2 days", "7 days"],
+      "explanation": "Weekly leases have a 4-day grace period under PA 23-207, compared to the 9-day grace period for monthly leases. Late fees cannot be charged during the grace period.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["late-fees", "grace-period", "weekly"]
+    },
+    {
+      "key_topic_ref": "CT-13.3",
+      "question_text": "Under Connecticut's eviction record sealing law, an eviction case that is dismissed must be removed from the court website within:",
+      "correct_answer": "30 days",
+      "distractors": ["7 days", "60 days", "90 days"],
+      "explanation": "Cases that are withdrawn, dismissed, or decided in the tenant's favor must be removed from the court website within 30 days. This protects tenants from being penalized by future landlords for unsuccessful eviction attempts.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "record-sealing", "30-days"]
+    },
+    {
+      "key_topic_ref": "CT-13.3",
+      "question_text": "A landlord raises rent significantly 2 months after a tenant filed a health code complaint. This could constitute:",
+      "correct_answer": "Retaliatory eviction or action",
+      "distractors": ["A normal business decision", "A fair rent commission matter only", "An action requiring tenant consent"],
+      "explanation": "Connecticut prohibits retaliatory actions (including rent increases) within 6 months of a tenant complaint. A significant rent increase shortly after a complaint raises a strong presumption of retaliation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["retaliation", "eviction", "6-months"]
+    },
+    {
+      "key_topic_ref": "CT-13.3",
+      "question_text": "Tenants age 62 or older in buildings with 5 or more units have protection against:",
+      "correct_answer": "Eviction without good cause",
+      "distractors": ["Any rent increase whatsoever", "All lease terminations", "Security deposit collection"],
+      "explanation": "Connecticut provides special eviction protections for tenants age 62+ and disabled tenants in buildings with 5 or more units. These tenants cannot be evicted without good cause, providing housing stability.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["protected-tenants", "elderly", "good-cause"]
+    },
+    {
+      "key_topic_ref": "CT-13.3",
+      "question_text": "Before moving in, a Connecticut tenant has the right to:",
+      "correct_answer": "A pre-move-in walkthrough with the landlord",
+      "distractors": ["A professional home inspection at landlord expense", "A 3-day cooling-off period after signing the lease", "Renegotiate rent based on property condition"],
+      "explanation": "Tenants have the right to a walkthrough with the landlord before moving in. Damage documented during this walkthrough cannot be deducted from the security deposit upon move-out.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["walkthrough", "pre-move-in", "tenant-rights"]
+    },
+    {
+      "key_topic_ref": "CT-13.3",
+      "question_text": "Connecticut municipalities may maintain Fair Rent Commissions to:",
+      "correct_answer": "Review complaints about excessive rent increases",
+      "distractors": ["Set maximum rent for all residential units", "Approve all rent increases before they take effect", "Provide rent subsidies to qualifying tenants"],
+      "explanation": "While Connecticut has no statewide rent control, municipalities may have Fair Rent Commissions that review complaints about excessive rent increases and can order rent reductions if increases are found excessive.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-rent-commission", "rent-control", "municipal"]
+    }
+  ]
+}

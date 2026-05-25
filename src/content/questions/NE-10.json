@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NE-10",
+  "scope": "state",
+  "state": "NE",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NE-10.1",
+      "question_text": "A broker signs a listing that guarantees commission regardless of who finds the buyer. What type of listing is this?",
+      "correct_answer": "Exclusive right to sell",
+      "distractors": ["Exclusive agency", "Open listing", "Net listing"],
+      "explanation": "An exclusive right to sell listing guarantees the broker earns a commission no matter who procures the buyer, including the owner. This is the most common listing type used in Nebraska.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing types", "exclusive right to sell"]
+    },
+    {
+      "key_topic_ref": "NE-10.1",
+      "question_text": "An owner wants to retain the right to sell her home herself without owing a commission. Which listing type best serves her goal?",
+      "correct_answer": "Exclusive agency listing",
+      "distractors": ["Exclusive right to sell", "Net listing", "Multiple listing"],
+      "explanation": "An exclusive agency listing gives one broker the exclusive right to market the property, but the owner retains the right to sell independently without owing the broker a commission.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["listing types", "exclusive agency"]
+    },
+    {
+      "key_topic_ref": "NE-10.1",
+      "question_text": "A seller asks why his listing agreement must be in writing. Which legal requirement mandates this?",
+      "correct_answer": "Statute of Frauds",
+      "distractors": ["Parol evidence rule", "Equal dignities doctrine", "Uniform Commercial Code"],
+      "explanation": "Under the Statute of Frauds, listing agreements in Nebraska must be in writing to be enforceable. The agreement must include the property description, listing price, compensation terms, dates, broker name, and owner signature.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Statute of Frauds", "listing agreements"]
+    },
+    {
+      "key_topic_ref": "NE-10.1",
+      "question_text": "A listing agreement is missing the compensation terms but includes all other required elements. What is the status of this listing?",
+      "correct_answer": "Unenforceable under the Statute of Frauds",
+      "distractors": ["Valid if the broker accepts it", "Enforceable with implied compensation", "Void but ratifiable later"],
+      "explanation": "Nebraska listing agreements must contain specific elements including compensation terms, property description, listing price, dates, broker name, and owner signature. Missing any required element renders the agreement unenforceable under the Statute of Frauds.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["listing requirements", "Statute of Frauds", "enforceability"]
+    },
+    {
+      "key_topic_ref": "NE-10.1",
+      "question_text": "A broker accepts a net listing where the seller wants $200,000 and the broker keeps anything above that. What risk does this create?",
+      "correct_answer": "Conflict of interest with the seller",
+      "distractors": ["Automatic license revocation", "Criminal prosecution for fraud", "Immediate voiding of the listing"],
+      "explanation": "Net listings are legal in Nebraska but heavily scrutinized because they create a conflict of interest. The broker's compensation increases as the sale price rises, which can tempt the broker to prioritize personal gain over the seller's best interests.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["net listing", "conflict of interest", "fiduciary duty"]
+    },
+    {
+      "key_topic_ref": "NE-10.2",
+      "question_text": "A buyer submits a written offer on a listed property. The listing broker dislikes the terms. What must the broker do?",
+      "correct_answer": "Present the offer to the seller promptly",
+      "distractors": ["Reject it on the seller's behalf", "Hold it until a better offer arrives", "Return it to the buyer's agent"],
+      "explanation": "Nebraska law requires brokers to present ALL written offers to the seller promptly. A broker cannot withhold, delay, or reject offers on behalf of the seller regardless of the broker's personal opinion of the terms.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["offer presentation", "broker duties"]
+    },
+    {
+      "key_topic_ref": "NE-10.2",
+      "question_text": "After both parties sign a purchase agreement, who must receive copies of the executed contract?",
+      "correct_answer": "All signatories to the agreement",
+      "distractors": ["Only the buyer and listing agent", "Only the listing broker", "Only the party who made the offer"],
+      "explanation": "Nebraska requires that copies of all executed documents be provided to all signatories. This ensures every party to the transaction has a complete record of the agreements they have signed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["document copies", "signatories"]
+    },
+    {
+      "key_topic_ref": "NE-10.2",
+      "question_text": "A broker closes her office and asks how long she must keep transaction records. What is the Nebraska requirement?",
+      "correct_answer": "5 years",
+      "distractors": ["3 years", "7 years", "10 years"],
+      "explanation": "Nebraska brokers must retain all transaction records for a minimum of 5 years. This applies to purchase agreements, listing agreements, closing documents, and all other records related to real estate transactions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record retention", "broker requirements"]
+    },
+    {
+      "key_topic_ref": "NE-10.2",
+      "question_text": "A buyer makes an oral offer of $350,000 on a residential property. Can the seller accept and create a binding contract?",
+      "correct_answer": "No, the Statute of Frauds requires writing",
+      "distractors": ["Yes, if both parties agree verbally", "Yes, if witnesses are present", "Yes, if a broker documents it later"],
+      "explanation": "Under the Statute of Frauds, contracts for the sale of real property must be in writing to be enforceable. An oral offer, even if accepted orally, does not create a binding real estate purchase contract in Nebraska.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Statute of Frauds", "oral agreements", "enforceability"]
+    },
+    {
+      "key_topic_ref": "NE-10.2",
+      "question_text": "A listing broker receives two competing written offers simultaneously, one from the broker's own buyer client. How should the broker proceed?",
+      "correct_answer": "Present both offers to the seller at once",
+      "distractors": ["Present the in-house offer first", "Present the outside offer first", "Choose the strongest offer to present"],
+      "explanation": "All written offers must be presented to the seller promptly. When multiple offers arrive simultaneously, the broker must present all of them together without favoring any offer, including one from the broker's own buyer client.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["competing offers", "broker duties", "fair dealing"]
+    },
+    {
+      "key_topic_ref": "NE-10.3",
+      "question_text": "Under LB 187, a person markets the right to purchase a residential property by assigning the contract for a fee. What does Nebraska require?",
+      "correct_answer": "A real estate license",
+      "distractors": ["A wholesaler permit only", "Registration with the county", "No special authorization"],
+      "explanation": "LB 187, effective July 2025, provides that marketing an equitable interest in a purchase contract for non-vacant land constitutes the business of real estate. Wholesalers who assign contracts for a fee must hold a Nebraska real estate license.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["LB 187", "wholesaling", "licensing"]
+    },
+    {
+      "key_topic_ref": "NE-10.3",
+      "question_text": "An investor assigns a purchase contract on a vacant lot for a $5,000 fee without a license. Does LB 187 apply?",
+      "correct_answer": "No, vacant land is exempt from LB 187",
+      "distractors": ["Yes, all assignments need a license", "Yes, but only if the fee exceeds $1,000", "No, but county approval is required"],
+      "explanation": "LB 187 specifically targets marketing equitable interest in purchase contracts for non-vacant land. Vacant land is exempt from the wholesaling license requirement, so assigning a contract on a vacant lot does not trigger the law.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["LB 187", "vacant land", "exemption"]
+    },
+    {
+      "key_topic_ref": "NE-10.3",
+      "question_text": "What type of interest does a wholesaler market when assigning a real estate purchase contract?",
+      "correct_answer": "Equitable interest",
+      "distractors": ["Legal title", "Leasehold interest", "Life estate"],
+      "explanation": "When a wholesaler enters a purchase contract and then assigns it, they are marketing their equitable interest in the contract. LB 187 treats this activity as the business of real estate when the property is non-vacant land.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["equitable interest", "wholesaling", "LB 187"]
+    },
+    {
+      "key_topic_ref": "NE-10.3",
+      "question_text": "LB 187 became effective in July 2025. What practice was its primary target?",
+      "correct_answer": "Unlicensed contract assignment for profit",
+      "distractors": ["Foreclosure consulting services", "Property management without a license", "Unlicensed home inspections"],
+      "explanation": "LB 187 primarily targets wholesalers who put properties under contract and then assign those contracts to end buyers for a fee without holding a real estate license. The law clarifies that this activity constitutes the business of real estate.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["LB 187", "wholesaling", "legislative intent"]
+    },
+    {
+      "key_topic_ref": "NE-10.3",
+      "question_text": "A licensed broker assigns a purchase contract on a single-family home for a fee. Under LB 187, is this permitted?",
+      "correct_answer": "Yes, the broker holds the required license",
+      "distractors": ["No, brokers cannot assign contracts", "Only if the NREC grants a waiver", "Only if the seller consents in writing"],
+      "explanation": "LB 187 requires that marketing equitable interest in a purchase contract for non-vacant land constitutes the business of real estate, meaning a license is required. A licensed broker already satisfies this requirement and may lawfully engage in this activity.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["LB 187", "broker authority", "contract assignment"]
+    }
+  ]
+}

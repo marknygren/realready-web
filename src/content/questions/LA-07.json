@@ -1,0 +1,233 @@
+{
+  "standard_ref": "LA-07",
+  "scope": "state",
+  "state": "LA",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "LA-07.1",
+      "question_text": "Where must a Louisiana broker maintain a trust account?",
+      "correct_answer": "At a bank or financial institution in Louisiana",
+      "distractors": [
+        "At any FDIC-insured bank in the United States",
+        "At a bank approved by the state treasurer",
+        "At the broker's out-of-state corporate headquarters"
+      ],
+      "explanation": "Louisiana requires trust accounts to be maintained at a bank or financial institution located within the state. Out-of-state banks do not satisfy this requirement, even if they are FDIC-insured. The account must be accessible for LREC audit purposes.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "Louisiana_bank", "LREC_requirement"]
+    },
+    {
+      "key_topic_ref": "LA-07.1",
+      "question_text": "How must a Louisiana broker's trust account be titled?",
+      "correct_answer": "In the broker's name designated as a trust account",
+      "distractors": [
+        "In the client's name for each transaction",
+        "In the name of the salesperson handling the deal",
+        "In the firm's operating account name"
+      ],
+      "explanation": "The trust account must be in the broker's name and clearly designated as a trust or escrow account. It is not opened in the client's or salesperson's name, and it must be separate from the firm's operating account.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "account_title", "broker_name"]
+    },
+    {
+      "key_topic_ref": "LA-07.1",
+      "question_text": "A broker deposits $50 of personal funds into the trust account to cover bank fees. Is this permissible?",
+      "correct_answer": "Yes, minimal personal funds to maintain the account",
+      "distractors": [
+        "No, any personal funds constitute commingling",
+        "Only if LREC grants written authorization",
+        "Yes, up to 10% of the account balance"
+      ],
+      "explanation": "Louisiana permits a broker to keep a minimal amount of personal funds in the trust account solely to cover bank service charges and prevent the account from being closed. This limited exception does not constitute commingling when the amount is truly minimal.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "personal_funds", "bank_fees"]
+    },
+    {
+      "key_topic_ref": "LA-07.1",
+      "question_text": "A broker opens a trust account at a bank in Mississippi because it offers better interest rates. Is this compliant with Louisiana law?",
+      "correct_answer": "No, the trust account must be in Louisiana",
+      "distractors": [
+        "Yes, if the bank is FDIC-insured",
+        "Yes, if within 50 miles of the Louisiana border",
+        "Only if LREC approves the out-of-state bank"
+      ],
+      "explanation": "Louisiana law requires trust accounts to be maintained at financial institutions within the state. There is no exception for proximity to the state border, FDIC insurance, or LREC approval. The requirement ensures the account is subject to Louisiana jurisdiction.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "out_of_state", "Louisiana_requirement"]
+    },
+    {
+      "key_topic_ref": "LA-07.1",
+      "question_text": "What is the primary purpose of a broker's trust account?",
+      "correct_answer": "To hold funds belonging to others separately",
+      "distractors": [
+        "To earn interest for the brokerage firm",
+        "To pay operating expenses of the firm",
+        "To hold the broker's personal savings"
+      ],
+      "explanation": "A trust account exists to hold funds belonging to clients and other parties separate from the broker's personal and business funds. It is not intended for earning interest for the firm, paying expenses, or holding personal savings.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "purpose", "client_funds"]
+    },
+    {
+      "key_topic_ref": "LA-07.2",
+      "question_text": "By when must a Louisiana broker deposit earnest money into the trust account after receiving it?",
+      "correct_answer": "Within 24 hours or the next banking day",
+      "distractors": [
+        "Within 72 hours of receiving the funds",
+        "Within 5 business days of contract execution",
+        "Before the property inspection is completed"
+      ],
+      "explanation": "Louisiana requires brokers to deposit earnest money and other trust funds within 24 hours of receipt or by the close of the next banking day. This strict timeline protects the funds and ensures prompt accounting.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deposit_timeline", "earnest_money", "24_hours"]
+    },
+    {
+      "key_topic_ref": "LA-07.2",
+      "question_text": "A salesperson receives a $10,000 earnest money check on Friday evening. The bank is closed Saturday and Sunday. When must the deposit be made?",
+      "correct_answer": "By close of business on Monday",
+      "distractors": [
+        "Within 24 hours regardless of bank hours",
+        "By the following Friday at the latest",
+        "Before the next scheduled property showing"
+      ],
+      "explanation": "The 24-hour deposit rule extends to the next banking day when the funds are received outside banking hours or on a non-banking day. Since the check was received Friday evening, the broker must deposit by close of business on Monday, the next banking day.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deposit_timeline", "banking_day", "earnest_money"]
+    },
+    {
+      "key_topic_ref": "LA-07.2",
+      "question_text": "A purchase agreement states that the earnest money deposit shall be held by the title company. The broker receives the check. What should the broker do?",
+      "correct_answer": "Forward the deposit to the title company promptly",
+      "distractors": [
+        "Deposit it into the broker's trust account regardless",
+        "Return the check to the buyer immediately",
+        "Hold the check until closing day"
+      ],
+      "explanation": "When the purchase agreement directs that the earnest money be held by a specific party such as a title company, the broker must follow those instructions and forward the deposit accordingly. The broker should not override the contract terms by depositing into the broker's trust account.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest_money", "purchase_agreement", "title_company"]
+    },
+    {
+      "key_topic_ref": "LA-07.2",
+      "question_text": "Earnest money held by a broker is classified as what type of funds?",
+      "correct_answer": "Trust funds belonging to the parties",
+      "distractors": [
+        "Operating revenue for the brokerage firm",
+        "A security deposit held by the state",
+        "A fee earned by the broker at contract signing"
+      ],
+      "explanation": "Earnest money is classified as trust funds under Louisiana law. It belongs to the parties to the transaction, not the broker. The broker holds it in a fiduciary capacity and must account for it according to the terms of the agreement and LREC rules.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest_money", "trust_funds", "classification"]
+    },
+    {
+      "key_topic_ref": "LA-07.2",
+      "question_text": "A broker receives earnest money on Wednesday morning but does not deposit it until the following Monday. What is the status of this deposit?",
+      "correct_answer": "The deposit violates the 24-hour rule",
+      "distractors": [
+        "The deposit is timely within the 5-day window",
+        "The delay is acceptable if under $5,000",
+        "The deposit is timely if a holiday fell that week"
+      ],
+      "explanation": "Unless a holiday or non-banking day intervened, holding the deposit from Wednesday to Monday exceeds the 24-hour/next banking day requirement. The broker has violated the deposit timeline rule and may face disciplinary action from the LREC.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deposit_timeline", "violation", "24_hour_rule"]
+    },
+    {
+      "key_topic_ref": "LA-07.3",
+      "question_text": "What is 'commingling' in the context of Louisiana trust accounts?",
+      "correct_answer": "Mixing personal funds with trust funds",
+      "distractors": [
+        "Depositing funds from multiple transactions",
+        "Holding funds for both buyer and seller",
+        "Keeping two trust accounts at different banks"
+      ],
+      "explanation": "Commingling means mixing personal or business funds with client trust funds in the same account. It is prohibited under Louisiana law. Holding funds from multiple transactions or for both parties in the same trust account is proper practice, not commingling.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "trust_account", "prohibited"]
+    },
+    {
+      "key_topic_ref": "LA-07.3",
+      "question_text": "What is the potential consequence of conversion of trust funds in Louisiana?",
+      "correct_answer": "Immediate license revocation",
+      "distractors": [
+        "A written warning for the first offense",
+        "A mandatory continuing education course",
+        "A 30-day suspension with probation"
+      ],
+      "explanation": "Conversion, the personal use of trust funds, is one of the most serious violations in Louisiana real estate law. It is grounds for immediate revocation of the broker's license. Unlike lesser violations, conversion typically does not result in merely a warning or suspension.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conversion", "revocation", "trust_funds"]
+    },
+    {
+      "key_topic_ref": "LA-07.3",
+      "question_text": "A broker uses $3,000 from the trust account to cover a temporary shortfall in the firm's operating account, intending to replace it the next day. Is this permissible?",
+      "correct_answer": "No, this constitutes conversion of trust funds",
+      "distractors": [
+        "Yes, if repaid within 24 hours",
+        "Yes, if the amount is under $5,000",
+        "Only if no client transactions are pending"
+      ],
+      "explanation": "Using trust funds for any personal or business purpose, even temporarily, constitutes conversion under Louisiana law. The broker's intent to repay the funds does not matter. Conversion is grounds for immediate license revocation regardless of the amount or duration.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conversion", "trust_funds", "temporary_use"]
+    },
+    {
+      "key_topic_ref": "LA-07.3",
+      "question_text": "LREC conducts an audit and discovers that a broker's trust account balance is $8,000 less than the total of all pending client deposits. What does this indicate?",
+      "correct_answer": "Possible commingling or conversion of funds",
+      "distractors": [
+        "Normal fluctuation due to bank processing",
+        "An accounting error with no legal consequence",
+        "An overpayment that benefits the clients"
+      ],
+      "explanation": "A shortfall in the trust account balance compared to the total of client deposits is a serious red flag indicating potential commingling or conversion. The broker must be able to account for every dollar in the trust account. LREC will investigate further and may take disciplinary action.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["LREC_audit", "trust_account_shortfall", "commingling"]
+    },
+    {
+      "key_topic_ref": "LA-07.3",
+      "question_text": "What records must a Louisiana broker maintain for trust account activity?",
+      "correct_answer": "Detailed records available for LREC audit",
+      "distractors": [
+        "Only annual summary statements",
+        "Bank statements but no individual ledgers",
+        "Records only for transactions over $10,000"
+      ],
+      "explanation": "Louisiana brokers must maintain detailed records of all trust account activity, including deposits, disbursements, and balances for each transaction. These records must be available for LREC inspection and audit at any time. Summary statements alone are insufficient.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record_keeping", "trust_account", "LREC_audit"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "HI-03",
+  "scope": "state",
+  "state": "HI",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "HI-03.1",
+      "question_text": "A licensee deposits a client's earnest money into the brokerage operating account. What violation has occurred?",
+      "correct_answer": "Commingling of funds",
+      "distractors": ["Misrepresentation of facts", "Unlicensed practice", "Breach of fiduciary duty"],
+      "explanation": "Under HRS 467-14, commingling occurs when a licensee mixes client funds with personal or business operating funds. Earnest money must be deposited into a separate trust account.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "trust-account", "discipline"]
+    },
+    {
+      "key_topic_ref": "HI-03.1",
+      "question_text": "Which of the following is grounds for discipline under HRS 467-14?",
+      "correct_answer": "Failing to disclose material facts",
+      "distractors": ["Charging a 6% commission rate", "Refusing to reduce a listing fee", "Declining to show a competing listing"],
+      "explanation": "HRS 467-14 lists failure to disclose material facts as grounds for discipline. Commission rates are negotiable, and agents are not required to reduce fees or show competitors' listings.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "material-facts", "HRS-467"]
+    },
+    {
+      "key_topic_ref": "HI-03.1",
+      "question_text": "A salesperson represents both buyer and seller without written consent from either party. What violation applies?",
+      "correct_answer": "Undisclosed dual agency",
+      "distractors": ["Unauthorized practice of law", "Breach of listing agreement", "Failure to cooperate with HIREC"],
+      "explanation": "Under HRS 467-14, acting as a dual agent without written consent from all parties is a specific ground for disciplinary action. Dual agency must always be disclosed and consented to in writing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["dual-agency", "consent", "discipline"]
+    },
+    {
+      "key_topic_ref": "HI-03.1",
+      "question_text": "A broker pays a referral fee to an unlicensed friend who sent a buyer. What ground for discipline applies?",
+      "correct_answer": "Paying unlicensed persons",
+      "distractors": ["Flagrant misrepresentation", "Converting client funds", "Making false promises"],
+      "explanation": "HRS 467-14 prohibits licensees from paying compensation for real estate services to unlicensed individuals. Referral fees may only be paid to properly licensed persons.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed", "referral-fee", "compensation"]
+    },
+    {
+      "key_topic_ref": "HI-03.1",
+      "question_text": "An agent knowingly uses false property descriptions in online advertisements. Which specific ground applies?",
+      "correct_answer": "Flagrant misrepresentation in advertising",
+      "distractors": ["Failure to maintain records", "Operating without a license", "Breach of listing agreement"],
+      "explanation": "HRS 467-14 specifically identifies flagrant misrepresentation through advertising as a ground for discipline. This includes intentionally false or misleading property descriptions in any advertising medium.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["advertising", "misrepresentation", "discipline"]
+    },
+    {
+      "key_topic_ref": "HI-03.2",
+      "question_text": "What is the maximum fine HIREC may impose per violation under HRS 467?",
+      "correct_answer": "$1,000 per violation",
+      "distractors": ["$500 per violation", "$2,500 per violation", "$5,000 per violation"],
+      "explanation": "Under HRS 467, HIREC may impose fines of up to $1,000 per violation. Each day a violation continues may constitute a separate violation, potentially increasing the total fine amount.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fines", "sanctions", "HRS-467"]
+    },
+    {
+      "key_topic_ref": "HI-03.2",
+      "question_text": "A licensee commits a continuing violation over 10 consecutive days. How might HIREC calculate the maximum fine?",
+      "correct_answer": "Up to $10,000 total",
+      "distractors": ["$1,000 total maximum", "$5,000 total maximum", "$500 total maximum"],
+      "explanation": "Under HRS 467, each day a violation continues may be treated as a separate violation. At $1,000 per violation per day, a 10-day continuing violation could result in fines up to $10,000.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fines", "continuing-violation", "calculation"]
+    },
+    {
+      "key_topic_ref": "HI-03.2",
+      "question_text": "Which of the following is a sanction HIREC may impose on a licensee?",
+      "correct_answer": "License revocation",
+      "distractors": ["Criminal prosecution", "Jail sentence", "Garnishment of wages"],
+      "explanation": "HIREC's disciplinary sanctions include revocation, suspension, fines up to $1,000 per violation, and license termination. Criminal prosecution and jail sentences are handled by the courts, not the commission.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sanctions", "revocation", "discipline"]
+    },
+    {
+      "key_topic_ref": "HI-03.2",
+      "question_text": "After a formal hearing, HIREC suspends a broker's license. The broker continues to practice. What additional penalty may apply?",
+      "correct_answer": "Each day may be a separate violation",
+      "distractors": ["No additional penalties are possible", "Only a written warning follows", "The fine is capped at the original amount"],
+      "explanation": "Practicing while suspended violates HRS 467. Since each day of violation may be counted separately, the broker faces up to $1,000 in fines per day plus potential license termination.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["suspension", "continuing-violation", "penalties"]
+    },
+    {
+      "key_topic_ref": "HI-03.2",
+      "question_text": "In addition to fines and suspension, what other sanction may HIREC impose?",
+      "correct_answer": "License termination",
+      "distractors": ["Property seizure", "Community service hours", "Mandatory incarceration"],
+      "explanation": "HIREC may impose revocation, suspension, fines up to $1,000 per violation, or license termination. These are administrative sanctions; criminal penalties are outside the commission's authority.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["termination", "sanctions", "HIREC"]
+    },
+    {
+      "key_topic_ref": "HI-03.3",
+      "question_text": "Under HRS 436B, what is the minimum fine per violation for licensed professionals?",
+      "correct_answer": "Not less than $100",
+      "distractors": ["Not less than $50", "Not less than $250", "Not less than $500"],
+      "explanation": "HRS 436B establishes a uniform framework for professional licensing and sets a minimum fine of $100 per violation. This applies across all professions regulated under the chapter.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["436B", "fines", "minimum"]
+    },
+    {
+      "key_topic_ref": "HI-03.3",
+      "question_text": "Under HRS 436B, HIREC may require a disciplined licensee to complete which of the following?",
+      "correct_answer": "Remedial education courses",
+      "distractors": ["Pro bono real estate services", "A public apology in local media", "Financial restitution to all clients"],
+      "explanation": "HRS 436B authorizes conditions such as remedial education, supervised practice, and limitations on the license. These measures aim to correct behavior and protect the public.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["436B", "remedial-education", "discipline"]
+    },
+    {
+      "key_topic_ref": "HI-03.3",
+      "question_text": "A licensee is disciplined under HRS 436B and required to practice under supervision. What is this sanction called?",
+      "correct_answer": "Supervised practice",
+      "distractors": ["Probationary mentorship", "Conditional apprenticeship", "Administrative monitoring"],
+      "explanation": "HRS 436B specifically authorizes supervised practice as a sanction, where the licensee may continue working but must do so under the oversight of an approved supervisor.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["436B", "supervised-practice", "sanctions"]
+    },
+    {
+      "key_topic_ref": "HI-03.3",
+      "question_text": "Which of the following actions can HIREC take under the HRS 436B uniform framework?",
+      "correct_answer": "Deny or refuse to renew a license",
+      "distractors": ["Issue a criminal arrest warrant", "Override a court judgment", "Impose a prison sentence"],
+      "explanation": "Under HRS 436B, HIREC may deny, refuse to renew, reinstate, or restore a license. It may also impose fines, require remedial education, and order supervised practice. Criminal enforcement is outside its authority.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["436B", "denial", "renewal"]
+    },
+    {
+      "key_topic_ref": "HI-03.3",
+      "question_text": "HRS 436B provides a uniform licensing framework. Which statement best describes its scope?",
+      "correct_answer": "It applies to all regulated professions",
+      "distractors": ["It applies only to real estate", "It applies only to health care fields", "It covers only contractor licenses"],
+      "explanation": "HRS Chapter 436B is Hawaii's uniform framework that applies to all professions and vocations regulated under the DCCA, not just real estate. It establishes baseline standards for licensing, discipline, and enforcement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["436B", "uniform", "scope"]
+    }
+  ]
+}

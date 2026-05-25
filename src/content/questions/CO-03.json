@@ -1,0 +1,173 @@
+{
+  "standard_ref": "CO-03",
+  "scope": "state",
+  "state": "CO",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "CO-03.1",
+      "question_text": "How often must a Colorado broker renew their license?",
+      "correct_answer": "Every 3 years",
+      "distractors": ["Every year", "Every 2 years", "Every 4 years"],
+      "explanation": "Colorado uses a triennial (3-year) renewal cycle. Brokers must complete 24 hours of continuing education during each cycle.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "renewal", "triennial"]
+    },
+    {
+      "key_topic_ref": "CO-03.1",
+      "question_text": "How many hours of continuing education must a Colorado broker complete per renewal cycle?",
+      "correct_answer": "24 hours",
+      "distractors": ["12 hours", "16 hours", "30 hours"],
+      "explanation": "Colorado requires 24 hours of CE per 3-year renewal cycle. This includes three 4-hour Annual Commission Update (ACU) courses plus 12 hours of electives.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "CE", "hours"]
+    },
+    {
+      "key_topic_ref": "CO-03.1",
+      "question_text": "A broker completes two ACU courses during a 3-year cycle but no other CE. How many more CE hours are needed?",
+      "correct_answer": "16 hours",
+      "distractors": ["8 hours", "12 hours", "20 hours"],
+      "explanation": "Two ACU courses = 8 hours. The broker needs 24 total, so 16 more hours are needed (one more 4-hour ACU + 12 hours of electives).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "CE", "ACU"]
+    },
+    {
+      "key_topic_ref": "CO-03.1",
+      "question_text": "The Annual Commission Update (ACU) course is how many hours?",
+      "correct_answer": "4 hours",
+      "distractors": ["2 hours", "3 hours", "8 hours"],
+      "explanation": "Each ACU is a 4-hour course. Three ACU courses (one per year) account for 12 of the 24 total CE hours required per triennial cycle.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "ACU", "education"]
+    },
+    {
+      "key_topic_ref": "CO-03.1",
+      "question_text": "Starting in 2027, the deadline for completing the Annual Commission Update course changes to:",
+      "correct_answer": "June 30 of each calendar year",
+      "distractors": ["March 31 of each calendar year", "September 30 of each calendar year", "December 31 of each calendar year"],
+      "explanation": "Beginning in 2027, the ACU deadline shifts from December 31 to June 30 of each calendar year.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "ACU", "deadline"]
+    },
+    {
+      "key_topic_ref": "CO-03.2",
+      "question_text": "A Colorado broker places their license on inactive status. What restriction applies?",
+      "correct_answer": "They cannot practice real estate",
+      "distractors": ["They must return their license to DORA", "They lose all accumulated CE credits", "They must retake the licensing exam"],
+      "explanation": "Inactive licensees cannot practice real estate. The license is not surrendered, and reactivation is possible by meeting CE and fee requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "inactive", "status"]
+    },
+    {
+      "key_topic_ref": "CO-03.2",
+      "question_text": "A broker's license expires because they failed to renew. To reinstate, the broker must:",
+      "correct_answer": "Complete additional CE and pay fees",
+      "distractors": ["Retake the full licensing exam", "Complete 168 hours of pre-license education", "Obtain a new employing broker first"],
+      "explanation": "Expired licenses have a grace period for reinstatement. The broker must complete additional CE requirements and pay reinstatement fees.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "expired", "reinstatement"]
+    },
+    {
+      "key_topic_ref": "CO-03.2",
+      "question_text": "A broker on inactive status receives an offer to help a friend sell a house. The broker should:",
+      "correct_answer": "Decline until the license is reactivated",
+      "distractors": ["Proceed since it is a personal favor", "Proceed if no commission is charged", "Proceed with written Commission approval"],
+      "explanation": "An inactive licensee cannot perform any licensed activity, even without compensation. The broker must reactivate the license first.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "inactive", "practice"]
+    },
+    {
+      "key_topic_ref": "CO-03.2",
+      "question_text": "What distinguishes an inactive license from a revoked license in Colorado?",
+      "correct_answer": "Inactive can be reactivated voluntarily",
+      "distractors": ["Inactive requires a new exam to restore", "Revoked licenses can be renewed annually", "There is no practical difference"],
+      "explanation": "An inactive license is a voluntary status that can be reactivated by meeting CE and fee requirements. Revocation is a disciplinary action that terminates the license.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["licensing", "inactive", "revocation"]
+    },
+    {
+      "key_topic_ref": "CO-03.2",
+      "question_text": "A broker who has been on inactive status for several years wants to reactivate. The broker will likely need to:",
+      "correct_answer": "Complete back CE hours and pay fees",
+      "distractors": ["Only pay a reactivation fee", "Complete new 168-hour pre-license education", "Obtain a court order for reinstatement"],
+      "explanation": "Reactivation after extended inactivity requires completing any missed CE hours during the inactive period plus paying applicable reinstatement fees.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "reactivation", "CE"]
+    },
+    {
+      "key_topic_ref": "CO-03.3",
+      "question_text": "Which type of insurance is required for all active Colorado real estate licensees?",
+      "correct_answer": "Errors and omissions insurance",
+      "distractors": ["General liability insurance", "Professional bonding coverage", "Title insurance on each transaction"],
+      "explanation": "Colorado requires all active licensees to maintain errors and omissions (E&O) insurance. The Commission negotiates a group policy, but licensees can obtain their own equivalent.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "E&O", "insurance"]
+    },
+    {
+      "key_topic_ref": "CO-03.3",
+      "question_text": "A broker lets their E&O insurance policy lapse without obtaining new coverage. The likely consequence is:",
+      "correct_answer": "License placed on inactive status",
+      "distractors": ["A warning letter with 30-day cure", "Automatic license revocation", "A fine but continued active status"],
+      "explanation": "Failure to maintain E&O insurance can result in the license being placed on inactive status. E&O coverage must be maintained continuously while the license is active.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "E&O", "lapse"]
+    },
+    {
+      "key_topic_ref": "CO-03.3",
+      "question_text": "The Colorado Real Estate Commission negotiates a group E&O policy for licensees. A broker who prefers a different insurer may:",
+      "correct_answer": "Obtain equivalent coverage independently",
+      "distractors": ["Not opt out of the group policy", "Only use the group policy provider", "Use any policy regardless of coverage"],
+      "explanation": "Licensees can use the Commission's group E&O policy or obtain their own equivalent coverage from another insurer. The key requirement is maintaining equivalent protection.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "E&O", "group-policy"]
+    },
+    {
+      "key_topic_ref": "CO-03.3",
+      "question_text": "E&O insurance protects a Colorado broker against claims arising from:",
+      "correct_answer": "Professional negligence or mistakes",
+      "distractors": ["Property damage during showings", "Auto accidents while driving to listings", "Personal injury on office premises"],
+      "explanation": "Errors and omissions insurance covers claims of professional negligence, errors, or omissions in the broker's real estate practice — not general liability situations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "E&O", "coverage"]
+    },
+    {
+      "key_topic_ref": "CO-03.3",
+      "question_text": "A new licensee asks whether E&O insurance is optional in Colorado. The correct answer is:",
+      "correct_answer": "It is mandatory for all active licensees",
+      "distractors": ["It is optional but recommended", "It is required only for employing brokers", "It is required only the first 3 years"],
+      "explanation": "E&O insurance is mandatory for ALL active licensees in Colorado, not just employing brokers. It must be maintained continuously while the license is active.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "E&O", "mandatory"]
+    }
+  ]
+}

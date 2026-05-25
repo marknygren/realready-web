@@ -1,0 +1,118 @@
+{
+  "standard_ref": "MI-15",
+  "scope": "state",
+  "state": "MI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MI-15.1",
+      "question_text": "What document must a developer record to legally create a condominium in Michigan?",
+      "correct_answer": "A master deed",
+      "distractors": ["A subdivision plat", "A declaration of trust", "A cooperative agreement"],
+      "explanation": "Under the Michigan Condominium Act, a developer must record a master deed that includes the bylaws, subdivision plan, and descriptions of units and common elements to create a condominium.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "master-deed", "creation"]
+    },
+    {
+      "key_topic_ref": "MI-15.1",
+      "question_text": "A buyer purchases a new condo unit directly from the developer in Michigan. After receiving all required documents, the buyer has second thoughts. How long is the rescission period?",
+      "correct_answer": "9 business days",
+      "distractors": ["9 calendar days", "7 business days", "15 calendar days"],
+      "explanation": "Michigan gives buyers of new construction condominiums from a developer a 9-business-day rescission period after receiving all required disclosure documents. This is measured in business days, not calendar days.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condominium", "rescission", "9-business-days"]
+    },
+    {
+      "key_topic_ref": "MI-15.1",
+      "question_text": "A buyer purchases a resale condominium from another owner in Michigan. Does the 9-business-day rescission period apply?",
+      "correct_answer": "No, it applies only to new developer units",
+      "distractors": ["Yes, it applies to all condo sales", "Yes, but only for 5 business days", "Only if the buyer requests it in writing"],
+      "explanation": "The Michigan Condominium Act's 9-business-day rescission right applies only to purchases of new construction units directly from the developer. Resale transactions between individual owners are not covered.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condominium", "rescission", "resale-exception"]
+    },
+    {
+      "key_topic_ref": "MI-15.1",
+      "question_text": "Which of the following is included in a Michigan condominium master deed?",
+      "correct_answer": "Bylaws and subdivision plan",
+      "distractors": ["Individual unit mortgage terms", "Resale price restrictions", "Property tax assessments for each unit"],
+      "explanation": "The master deed must include the bylaws, subdivision plan, and descriptions of units and common elements. It does not contain individual mortgage terms or tax assessments.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "master-deed", "contents"]
+    },
+    {
+      "key_topic_ref": "MI-15.1",
+      "question_text": "A developer builds a commercial office condominium in Michigan. Does the Michigan Condominium Act's buyer rescission right apply?",
+      "correct_answer": "No, it does not apply to commercial condos",
+      "distractors": ["Yes, all condos are covered under the Act", "Only if units exceed $500,000 in value", "Yes, but the rescission period is 5 days"],
+      "explanation": "The Michigan Condominium Act's buyer protection provisions, including the rescission right, do not apply to business or commercial condominiums.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condominium", "commercial", "exemption"]
+    },
+    {
+      "key_topic_ref": "MI-15.2",
+      "question_text": "Who manages the common elements of a Michigan condominium project?",
+      "correct_answer": "The association of co-owners",
+      "distractors": ["The original developer permanently", "The county building department", "Individual unit owners jointly"],
+      "explanation": "Under the Michigan Condominium Act, the association of co-owners is responsible for managing, maintaining, and insuring the common elements of the condominium.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "association", "common-elements"]
+    },
+    {
+      "key_topic_ref": "MI-15.2",
+      "question_text": "A Michigan condo owner fails to pay assessments. The association files an assessment lien. How does this lien rank against an existing first mortgage?",
+      "correct_answer": "It is subordinate to the first mortgage",
+      "distractors": ["It takes priority over all liens", "It eliminates the first mortgage", "It has equal priority with the mortgage"],
+      "explanation": "Michigan condominium assessment liens have super-priority over most liens but remain subordinate to property tax liens and prior recorded first mortgages.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condominium", "assessment-lien", "priority"]
+    },
+    {
+      "key_topic_ref": "MI-15.2",
+      "question_text": "A buyer is purchasing a resale condo in Michigan. What document should the buyer request from the association?",
+      "correct_answer": "A resale certificate",
+      "distractors": ["A new master deed", "A developer disclosure packet", "A title commitment only"],
+      "explanation": "Michigan law requires a resale certificate for condominium resales, which includes financial information, rules, pending litigation, insurance details, and current assessments.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condominium", "resale-certificate", "disclosure"]
+    },
+    {
+      "key_topic_ref": "MI-15.2",
+      "question_text": "A Michigan condo association has an unpaid assessment lien and the unit also has delinquent property taxes. Which lien takes priority?",
+      "correct_answer": "The property tax lien",
+      "distractors": ["The assessment lien", "They share equal priority", "Whichever was recorded first"],
+      "explanation": "Property tax liens take priority over condominium assessment liens in Michigan. Assessment liens have super-priority over most other liens, but not over tax liens or prior first mortgages.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condominium", "lien-priority", "tax-lien"]
+    },
+    {
+      "key_topic_ref": "MI-15.2",
+      "question_text": "What type of information is typically included in a Michigan condominium resale certificate?",
+      "correct_answer": "Assessments, rules, litigation, and insurance",
+      "distractors": ["Only the original unit sale price", "The developer's construction warranty only", "The unit's property tax history records only"],
+      "explanation": "A Michigan resale certificate provides prospective buyers with critical information including current assessments, association rules, any pending litigation, insurance coverage, and financial statements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "resale-certificate", "contents"]
+    }
+  ]
+}

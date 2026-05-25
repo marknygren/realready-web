@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WA-08",
+  "scope": "state",
+  "state": "WA",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "WA-08.1",
+      "question_text": "A brokerage firm's trust account has not been reconciled in 45 days. Who bears ultimate responsibility for this failure?",
+      "correct_answer": "The designated broker",
+      "distractors": ["The managing broker", "The firm's bookkeeper", "Each affiliated broker"],
+      "explanation": "The designated broker is responsible for ALL brokerage activities of the firm, including ensuring monthly reconciliation of trust accounts. This duty cannot be fully delegated away — the designated broker remains ultimately accountable.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["designated-broker", "trust-accounts", "oversight"]
+    },
+    {
+      "key_topic_ref": "WA-08.1",
+      "question_text": "Which requirement must a designated broker meet regarding the brokerage firm?",
+      "correct_answer": "Hold a controlling interest",
+      "distractors": ["Own 100% of the firm", "Be the firm's only manager", "Maintain a separate office"],
+      "explanation": "Washington law requires the designated broker to have a controlling interest in the brokerage firm. This ensures the person legally responsible for all firm activities has the authority to enforce compliance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["designated-broker", "firm-ownership", "requirements"]
+    },
+    {
+      "key_topic_ref": "WA-08.1",
+      "question_text": "A client asks who has authority to bind the brokerage firm to a contract. Which answer is correct?",
+      "correct_answer": "The designated broker",
+      "distractors": ["Any managing broker", "Any licensed broker", "The office administrator"],
+      "explanation": "The designated broker has the authority to enter, amend, bind, create, and rescind contracts on behalf of the firm. This contract authority is a core function of the designated broker role in Washington.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["designated-broker", "contracts", "authority"]
+    },
+    {
+      "key_topic_ref": "WA-08.1",
+      "question_text": "A brokerage firm discovers an unlicensed assistant has been showing properties and negotiating offers. Who is liable for this violation?",
+      "correct_answer": "The designated broker",
+      "distractors": ["Only the unlicensed assistant", "The broker who hired them", "The managing broker alone"],
+      "explanation": "The designated broker must ensure all persons performing brokerage services are properly licensed. Allowing an unlicensed person to show properties and negotiate constitutes unlicensed practice, and the designated broker bears responsibility for this oversight failure.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["designated-broker", "unlicensed-practice", "liability"]
+    },
+    {
+      "key_topic_ref": "WA-08.1",
+      "question_text": "A designated broker oversees four branch offices. Which statement about this arrangement is TRUE?",
+      "correct_answer": "The designated broker oversees all branches",
+      "distractors": ["Each branch operates fully independently", "Only the main office requires oversight", "Branch offices need their own firm license"],
+      "explanation": "The designated broker oversees all branch offices and is responsible for all brokerage activities across the entire firm. While managing brokers may handle day-to-day operations at branch locations, overall accountability rests with the designated broker.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["designated-broker", "branch-offices", "oversight"]
+    },
+    {
+      "key_topic_ref": "WA-08.2",
+      "question_text": "A newly licensed broker just closed their first transaction. What level of supervision does their managing broker owe them?",
+      "correct_answer": "Heightened supervision",
+      "distractors": ["Standard supervision only", "No special supervision", "Supervision by a peer broker"],
+      "explanation": "Washington requires managing brokers to provide heightened supervision to brokers during their first two years of licensure. This ensures new licensees receive extra guidance as they gain practical experience.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["managing-broker", "new-broker", "heightened-supervision"]
+    },
+    {
+      "key_topic_ref": "WA-08.2",
+      "question_text": "A managing broker wants to oversee two branch offices simultaneously. Is this permitted in Washington?",
+      "correct_answer": "No, only one branch at a time",
+      "distractors": ["Yes, up to three branches", "Yes, with DOL approval", "Yes, if both are nearby"],
+      "explanation": "A managing broker in Washington can manage only one branch office. This limitation ensures adequate supervision of affiliated brokers and compliance with office policies and procedures.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["managing-broker", "branch-offices", "limitations"]
+    },
+    {
+      "key_topic_ref": "WA-08.2",
+      "question_text": "A designated broker wants to delegate trust account reconciliation duties to a managing broker. What is required?",
+      "correct_answer": "A written delegation agreement",
+      "distractors": ["Verbal authorization is sufficient", "DOL must approve the delegation", "Trust duties cannot be delegated"],
+      "explanation": "Trust account duties may be delegated from the designated broker to a managing broker, but the delegation must be in writing. Even with delegation, the designated broker retains ultimate responsibility for trust account compliance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["managing-broker", "trust-accounts", "delegation"]
+    },
+    {
+      "key_topic_ref": "WA-08.2",
+      "question_text": "A managing broker receives earnest money from a buyer. What must the managing broker do with these funds?",
+      "correct_answer": "Timely deliver them to the designated broker",
+      "distractors": ["Deposit them in a personal account", "Hold them until closing", "Forward them directly to the seller"],
+      "explanation": "Managing brokers must timely deliver client funds and records to the designated broker. The designated broker then ensures the funds are deposited into the firm's trust account in compliance with Washington law.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["managing-broker", "client-funds", "trust-accounts"]
+    },
+    {
+      "key_topic_ref": "WA-08.2",
+      "question_text": "A broker has been licensed for 18 months and wants to reduce oversight from their managing broker. Can they do so?",
+      "correct_answer": "No, it lasts two full years",
+      "distractors": ["Yes, after passing an additional exam", "Yes, after completing 12 months", "Yes, with written client consent"],
+      "explanation": "Washington requires heightened supervision for brokers during their first two years of licensure. At 18 months the broker has not yet completed the two-year period, so the managing broker must continue providing heightened supervision.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["managing-broker", "heightened-supervision", "two-year-period"]
+    },
+    {
+      "key_topic_ref": "WA-08.3",
+      "question_text": "A broker receives a 1099 form at year-end rather than a W-2. What does this indicate about their work status?",
+      "correct_answer": "They are an independent contractor",
+      "distractors": ["They are a firm employee", "They are a government worker", "Their license has been suspended"],
+      "explanation": "Independent contractors receive IRS Form 1099 for tax reporting, while employees receive W-2 forms. Most brokers in Washington operate as independent contractors, meaning they control how they perform their work.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["independent-contractor", "tax-status", "1099"]
+    },
+    {
+      "key_topic_ref": "WA-08.3",
+      "question_text": "A brokerage firm tells its broker exactly when and how to hold open houses each week. What risk does this create?",
+      "correct_answer": "The broker may be reclassified as an employee",
+      "distractors": ["The broker's license is automatically revoked", "The firm loses its brokerage license", "The broker must pay the firm a fee"],
+      "explanation": "A key test for independent contractor status is that the firm cannot dictate when or how the broker works — only the results. Controlling the broker's schedule and methods risks IRS reclassification as an employee, with significant tax consequences.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["independent-contractor", "employee", "IRS-classification"]
+    },
+    {
+      "key_topic_ref": "WA-08.3",
+      "question_text": "Which document should a brokerage firm execute with a broker classified as an independent contractor?",
+      "correct_answer": "A written IC agreement",
+      "distractors": ["An employment contract", "A W-4 withholding form", "A benefits enrollment form"],
+      "explanation": "A written independent contractor agreement is recommended to establish the working relationship and help support IC classification. This agreement documents that the firm controls results, not the methods used by the broker.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["independent-contractor", "agreements", "documentation"]
+    },
+    {
+      "key_topic_ref": "WA-08.3",
+      "question_text": "A broker classified as an independent contractor must pay which additional tax that employees do not?",
+      "correct_answer": "Self-employment tax",
+      "distractors": ["Capital gains tax", "Inheritance tax", "Transfer tax"],
+      "explanation": "Independent contractors must pay self-employment tax covering both the employer and employee portions of Social Security and Medicare taxes. Employees split these taxes with their employer, but ICs bear the full burden.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["independent-contractor", "self-employment-tax", "taxes"]
+    },
+    {
+      "key_topic_ref": "WA-08.3",
+      "question_text": "Which factor is MOST important when the IRS evaluates whether a broker is an independent contractor or employee?",
+      "correct_answer": "The firm's degree of control over work methods",
+      "distractors": ["The broker's years of experience", "The number of transactions closed", "The firm's commission split percentage"],
+      "explanation": "The IRS primarily examines behavioral control — whether the firm controls how and when the broker performs work. If the firm dictates only results but not methods, the broker is more likely classified as an independent contractor.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["independent-contractor", "IRS-tests", "behavioral-control"]
+    }
+  ]
+}

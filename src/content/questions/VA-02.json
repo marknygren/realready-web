@@ -1,0 +1,308 @@
+{
+  "standard_ref": "VA-02",
+  "scope": "state",
+  "state": "VA",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "VA-02.1",
+      "question_text": "How many hours of pre-license education are required for a Virginia salesperson license?",
+      "correct_answer": "60 hours",
+      "distractors": [
+        "45 hours",
+        "90 hours",
+        "75 hours"
+      ],
+      "explanation": "Virginia requires 60 hours of Board-approved pre-license education for salesperson candidates. Broker candidates must complete 180 hours. All education must be provided by Board-approved providers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "salesperson", "education_hours"]
+    },
+    {
+      "key_topic_ref": "VA-02.1",
+      "question_text": "A 17-year-old completes 60 hours of pre-license education and passes the PSI exam. Can this person obtain a salesperson license?",
+      "correct_answer": "No, applicants must be at least 18",
+      "distractors": [
+        "Yes, if a parent co-signs the application",
+        "Yes, with a supervising broker's consent",
+        "Yes, age is not a licensing requirement"
+      ],
+      "explanation": "Virginia requires salesperson applicants to be at least 18 years old. Even if the applicant has completed education and passed the exam, the license cannot be issued until the minimum age requirement is met.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["age_requirement", "salesperson", "eligibility"]
+    },
+    {
+      "key_topic_ref": "VA-02.1",
+      "question_text": "A Virginia salesperson candidate sits for the licensing exam. Which portions must be passed separately?",
+      "correct_answer": "Both the national and state portions",
+      "distractors": [
+        "Only the state-specific portion",
+        "Only the national portion",
+        "Either portion but not both"
+      ],
+      "explanation": "Virginia uses a split exam. Candidates must pass the national portion (56/80 = 70%) and the state portion (30/40 = 75%) separately. Failing one section requires retaking only that section.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam_structure", "split_exam", "passing_score"]
+    },
+    {
+      "key_topic_ref": "VA-02.1",
+      "question_text": "A broker candidate has completed 120 hours of education. How many additional hours are needed?",
+      "correct_answer": "60 more hours for a total of 180",
+      "distractors": [
+        "30 more hours for a total of 150",
+        "No additional hours are needed",
+        "80 more hours for a total of 200"
+      ],
+      "explanation": "Virginia broker candidates must complete 180 hours of Board-approved pre-license education. With 120 hours completed, the candidate needs 60 additional hours to meet the requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker", "education_hours", "pre-license"]
+    },
+    {
+      "key_topic_ref": "VA-02.1",
+      "question_text": "Which educational credential is the minimum prerequisite to apply for a Virginia salesperson license?",
+      "correct_answer": "High school diploma or equivalent",
+      "distractors": [
+        "Associate degree in business",
+        "Bachelor's degree in any field",
+        "No formal education is required"
+      ],
+      "explanation": "Virginia requires salesperson applicants to hold a high school diploma or its equivalent (such as a GED). This is in addition to the 60-hour pre-license education and other requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["education_prerequisite", "high_school", "eligibility"]
+    },
+    {
+      "key_topic_ref": "VA-02.2",
+      "question_text": "A salesperson candidate passes the exam. Fingerprint results arrive on March 1. By when must the application be submitted?",
+      "correct_answer": "By April 15, within 45 calendar days",
+      "distractors": [
+        "By March 31, within 30 calendar days",
+        "By May 30, within 90 calendar days",
+        "By April 30, within 60 calendar days"
+      ],
+      "explanation": "Virginia requires license applications to be submitted within 45 calendar days after fingerprint results are received. From March 1, the 45-day deadline falls on April 15.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fingerprints", "application_deadline", "45_days"]
+    },
+    {
+      "key_topic_ref": "VA-02.2",
+      "question_text": "Which criminal records check is mandatory for all Virginia license applicants?",
+      "correct_answer": "Virginia Central Criminal Records Exchange",
+      "distractors": [
+        "FBI national background check only",
+        "Local police department clearance letter",
+        "County court records search"
+      ],
+      "explanation": "All Virginia real estate license applicants must undergo a criminal records check through the Virginia Central Criminal Records Exchange (CCRE). This requires mandatory fingerprinting as part of the application process.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fingerprints", "CCRE", "background_check"]
+    },
+    {
+      "key_topic_ref": "VA-02.2",
+      "question_text": "An applicant passed the licensing exam 14 months ago but has not yet applied. What is the status of the exam score?",
+      "correct_answer": "The exam score has expired",
+      "distractors": [
+        "The score is valid for 24 months",
+        "The score remains valid indefinitely",
+        "The score can be extended with Board approval"
+      ],
+      "explanation": "Virginia exam scores are valid for one year (12 months) after the passing date. Since 14 months have elapsed, this applicant's score has expired and the exam must be retaken.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exam_validity", "one_year", "expiration"]
+    },
+    {
+      "key_topic_ref": "VA-02.2",
+      "question_text": "A license applicant had fingerprints taken 50 days ago but has not yet submitted an application. What must the applicant do?",
+      "correct_answer": "Submit new fingerprints before applying",
+      "distractors": [
+        "Submit the application with the old results",
+        "Request a 30-day extension from DPOR",
+        "Appeal to the Board for a waiver"
+      ],
+      "explanation": "Virginia requires the license application to be received within 45 calendar days of the Board receiving fingerprint results. Since 50 days have passed, the applicant missed the deadline and must undergo fingerprinting again before the Board can process the application.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fingerprinting", "45_day_deadline", "application"]
+    },
+    {
+      "key_topic_ref": "VA-02.2",
+      "question_text": "A license applicant completes fingerprinting. The Board receives results on June 1. If the applicant fails to apply by July 16, what happens?",
+      "correct_answer": "The applicant must be re-fingerprinted",
+      "distractors": [
+        "The results remain valid for one year",
+        "DPOR grants a 30-day extension automatically",
+        "The application proceeds without issue"
+      ],
+      "explanation": "Virginia requires the license application within 45 calendar days of the Board receiving fingerprint results. June 1 plus 45 days is July 16. Missing this deadline means the applicant must submit new fingerprints.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fingerprints", "45_day_deadline", "re-fingerprinting"]
+    },
+    {
+      "key_topic_ref": "VA-02.3",
+      "question_text": "How many hours of post-license education must a new salesperson complete before the first renewal?",
+      "correct_answer": "30 hours",
+      "distractors": [
+        "16 hours",
+        "45 hours",
+        "24 hours"
+      ],
+      "explanation": "Virginia requires newly licensed salespersons to complete 30 hours of Board-approved post-license education before their first license renewal. This is separate from ongoing continuing education requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["post-license", "30_hours", "first_renewal"]
+    },
+    {
+      "key_topic_ref": "VA-02.3",
+      "question_text": "Under HB 383 and SB 330, how many required CE hours must licensees complete each biennium starting with renewals after June 30, 2026?",
+      "correct_answer": "11 hours of required topics",
+      "distractors": [
+        "8 hours of required topics",
+        "16 hours of required topics",
+        "6 hours of required topics"
+      ],
+      "explanation": "HB 383 and SB 330 increased required continuing education from 8 to 11 hours per biennium for licenses expiring after June 30, 2026. The required 11 hours include 2 hours of legal updates, 2 hours of agency, and 2 hours of contracts, among others.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "HB_383", "SB_330", "required_hours"]
+    },
+    {
+      "key_topic_ref": "VA-02.3",
+      "question_text": "A licensee renewing in 2027 completed 8 required hours and 8 elective hours. Does this satisfy CE requirements?",
+      "correct_answer": "No, 11 required hours are now mandated",
+      "distractors": [
+        "Yes, 16 total hours is sufficient",
+        "Yes, 8 required hours meets the standard",
+        "No, 20 total hours are now required"
+      ],
+      "explanation": "For licenses expiring after June 30, 2026, HB 383/SB 330 increased required CE from 8 to 11 hours. Although the licensee has 16 total hours, only 8 of the required 11 mandated topic hours have been completed, so the requirement is not met.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["CE", "renewal", "required_vs_elective"]
+    },
+    {
+      "key_topic_ref": "VA-02.3",
+      "question_text": "Which topic areas are included in Virginia's newly expanded required CE hours?",
+      "correct_answer": "Legal updates, agency, and contracts",
+      "distractors": [
+        "Fair housing, appraisal, and finance",
+        "Property management, ethics, and zoning",
+        "Environmental law, insurance, and taxation"
+      ],
+      "explanation": "The expanded CE requirements under HB 383/SB 330 include mandatory hours in legal updates (2 hrs), agency (2 hrs), and contracts (2 hrs). These core practice areas were specifically targeted to improve licensee competency.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "required_topics", "legal_updates", "agency", "contracts"]
+    },
+    {
+      "key_topic_ref": "VA-02.3",
+      "question_text": "How often must Virginia licensees complete continuing education?",
+      "correct_answer": "Every 2 years at license renewal",
+      "distractors": [
+        "Every year on the anniversary date",
+        "Every 3 years with Board review",
+        "Every 4 years at biennial renewal"
+      ],
+      "explanation": "Virginia real estate licenses are renewed on a biennial (2-year) cycle. Licensees must complete 16 hours of continuing education each renewal period, with required and elective hour breakdowns as specified by the Board.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "biennial", "renewal_cycle"]
+    },
+    {
+      "key_topic_ref": "VA-02.4",
+      "question_text": "A salesperson wants to become a broker. How many months of active salesperson experience are required within the preceding 48 months?",
+      "correct_answer": "36 months of active experience",
+      "distractors": [
+        "24 months of active experience",
+        "48 months of active experience",
+        "12 months of active experience"
+      ],
+      "explanation": "Virginia requires broker candidates to have 36 months of active experience as a licensed salesperson within the 48 months immediately preceding the application. This ensures recent, relevant practical experience.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker_requirements", "experience", "36_months"]
+    },
+    {
+      "key_topic_ref": "VA-02.4",
+      "question_text": "A salesperson was active for 30 months, then inactive for 6 months, then active for 12 months within the last 48 months. Does this person qualify for a broker license?",
+      "correct_answer": "Yes, 42 active months exceeds the minimum",
+      "distractors": [
+        "No, the inactive gap disqualifies them",
+        "No, only consecutive months count",
+        "No, they need 48 active months total"
+      ],
+      "explanation": "Virginia requires 36 months of active salesperson experience within the preceding 48 months. The months need not be consecutive. With 42 active months (30 + 12), this candidate exceeds the 36-month minimum.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["broker_requirements", "experience_calculation", "active_months"]
+    },
+    {
+      "key_topic_ref": "VA-02.4",
+      "question_text": "A newly licensed salesperson has not yet affiliated with a principal broker. What is the license status?",
+      "correct_answer": "The license is issued as inactive",
+      "distractors": [
+        "The license is active for 90 days",
+        "The license is automatically voided",
+        "The license is placed on probation"
+      ],
+      "explanation": "In Virginia, a salesperson license is issued on inactive status until the salesperson affiliates with a principal broker. The licensee cannot engage in real estate activities while the license remains inactive.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inactive_license", "principal_broker", "affiliation"]
+    },
+    {
+      "key_topic_ref": "VA-02.4",
+      "question_text": "As of July 2025, what happens when a salesperson transfers to a different brokerage?",
+      "correct_answer": "No transfer fee is charged",
+      "distractors": [
+        "A $50 transfer fee applies",
+        "A new background check is required",
+        "The salesperson must retake the exam"
+      ],
+      "explanation": "Effective July 2025, Virginia eliminated the transfer fee for salespersons moving between brokerages. Previously, a fee was charged for processing the transfer. The licensee still must complete the transfer paperwork with DPOR.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer_fee", "July_2025", "brokerage_change"]
+    },
+    {
+      "key_topic_ref": "VA-02.4",
+      "question_text": "A broker candidate has 36 months of active experience and 150 hours of education. What additional step is needed?",
+      "correct_answer": "Complete 30 more hours and pass the exam",
+      "distractors": [
+        "Pass the broker exam with no added hours",
+        "Complete 60 additional education hours only",
+        "Obtain a recommendation from current broker"
+      ],
+      "explanation": "Virginia broker candidates need 180 hours of education and must pass a separate broker exam. With 150 hours completed, this candidate needs 30 more education hours and must also pass the broker-specific licensing exam.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker_requirements", "education", "broker_exam"]
+    }
+  ]
+}

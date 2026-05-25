@@ -1,0 +1,233 @@
+{
+  "standard_ref": "MN-03",
+  "scope": "state",
+  "state": "MN",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "MN-03.1",
+      "question_text": "Where must a Minnesota broker maintain a trust account for client funds?",
+      "correct_answer": "A federally insured institution in Minnesota",
+      "distractors": [
+        "Any federally insured bank in the country",
+        "A state-chartered bank in any nearby state",
+        "A credit union pre-approved by Commerce"
+      ],
+      "explanation": "Minnesota law requires that trust accounts be maintained at a federally insured financial institution located in Minnesota. This ensures funds are protected by FDIC or NCUA insurance and remain within the jurisdiction of Minnesota regulators for inspection purposes.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "federally_insured", "Minnesota_institution"]
+    },
+    {
+      "key_topic_ref": "MN-03.1",
+      "question_text": "A broker deposits $500 of personal funds into her trust account to cover monthly bank fees. Is this permissible under Minnesota law?",
+      "correct_answer": "Yes, a small amount to keep the account open is allowed",
+      "distractors": [
+        "No, any personal funds constitute commingling",
+        "Yes, up to $5,000 of personal funds is allowed",
+        "No, bank fees must be paid from a separate account"
+      ],
+      "explanation": "Minnesota law permits a broker to deposit a small amount of personal funds into the trust account solely to keep the account open and cover bank service charges. This narrow exception does not constitute prohibited commingling, provided the amount is minimal and used only for account maintenance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "commingling", "personal_funds"]
+    },
+    {
+      "key_topic_ref": "MN-03.1",
+      "question_text": "A broker deposits a $10,000 commission check directly into the trust account and leaves it there for 60 days. What violation has occurred?",
+      "correct_answer": "Commingling personal funds with trust funds",
+      "distractors": [
+        "Exceeding the trust account balance limit",
+        "Failing to notify the Department of Commerce",
+        "No violation if the funds are eventually moved"
+      ],
+      "explanation": "Depositing earned commissions into a trust account constitutes commingling, which is prohibited under Minnesota law. Commissions belong to the broker and must be deposited into the broker's operating account. Leaving personal funds in the trust account for any period is a violation regardless of intent to move them.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "trust_account", "commission"]
+    },
+    {
+      "key_topic_ref": "MN-03.1",
+      "question_text": "The Department of Commerce requests access to a broker's trust account records during a routine audit. The broker refuses, citing client confidentiality. Is the broker's refusal justified?",
+      "correct_answer": "No, records must be available for Commerce inspection",
+      "distractors": [
+        "Yes, client privacy protects all trust records",
+        "Yes, a court order is always needed for access",
+        "No, but only if a formal complaint has been filed"
+      ],
+      "explanation": "Minnesota law requires that trust account records be available for inspection by the Department of Commerce at any time. Client confidentiality does not override this regulatory authority. Refusing to provide records during an audit is itself a violation and may result in disciplinary action.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust_account", "Commerce_inspection", "audit"]
+    },
+    {
+      "key_topic_ref": "MN-03.1",
+      "question_text": "A broker uses funds from one client's earnest money deposit to cover a shortfall in another client's closing costs. What violation has the broker committed?",
+      "correct_answer": "Conversion of trust funds",
+      "distractors": [
+        "Commingling of personal and trust funds",
+        "Unauthorized dual agency",
+        "Breach of advertising regulations"
+      ],
+      "explanation": "Using one client's trust funds for another client's benefit constitutes conversion, which is the unauthorized use of entrusted funds. This is a serious violation distinct from commingling, which involves mixing personal and client funds. Conversion may result in license revocation and criminal charges.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust_account", "conversion", "earnest_money"]
+    },
+    {
+      "key_topic_ref": "MN-03.2",
+      "question_text": "A buyer submits an earnest money check with a purchase agreement. Within how many business days must the broker deposit the check after acceptance?",
+      "correct_answer": "3 business days",
+      "distractors": [
+        "1 business day",
+        "5 business days",
+        "2 business days"
+      ],
+      "explanation": "Minnesota law requires that earnest money be deposited into the broker's trust account within 3 business days after acceptance of the purchase agreement, unless the parties agree otherwise in writing. This timeline protects the funds and establishes clear accountability.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest_money", "deposit_timing", "3_business_days"]
+    },
+    {
+      "key_topic_ref": "MN-03.2",
+      "question_text": "A purchase agreement is accepted on Tuesday. The buyer's earnest money check must be deposited by when under standard Minnesota rules?",
+      "correct_answer": "Friday of the same week",
+      "distractors": [
+        "Wednesday of the same week",
+        "The following Monday",
+        "The following Tuesday"
+      ],
+      "explanation": "With acceptance on Tuesday, counting 3 business days gives us Wednesday (day 1), Thursday (day 2), and Friday (day 3). The deposit must be made by Friday. Business days exclude weekends and holidays, so if Friday were a holiday, the deadline would extend to the next business day.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest_money", "deposit_timing", "business_days"]
+    },
+    {
+      "key_topic_ref": "MN-03.2",
+      "question_text": "A buyer and seller agree in their purchase agreement that the earnest money will be held uncashed until the inspection contingency is resolved. Is this arrangement lawful in Minnesota?",
+      "correct_answer": "Yes, parties may agree to different terms in writing",
+      "distractors": [
+        "No, deposits must always follow the standard 3-day rule",
+        "Yes, but only for earnest money amounts under $5,000",
+        "No, the broker must always deposit within 24 hours"
+      ],
+      "explanation": "Minnesota law allows the parties to agree in writing to terms different from the standard 3-business-day deposit requirement. If the purchase agreement specifies that the check will be held uncashed until a contingency is resolved, this written agreement overrides the default timeline.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest_money", "deposit_timing", "written_agreement"]
+    },
+    {
+      "key_topic_ref": "MN-03.2",
+      "question_text": "A listing agent receives an earnest money check on Thursday when the purchase agreement is accepted. She deposits it the following Wednesday, 4 business days later. Has she violated Minnesota law?",
+      "correct_answer": "Yes, the deposit exceeded the 3-business-day limit",
+      "distractors": [
+        "No, the actual deposit deadline is 5 business days",
+        "No, weekend days pause the counting period entirely",
+        "Yes, but only if the seller files a formal complaint"
+      ],
+      "explanation": "The 3-business-day deposit rule counts Friday (day 1), Monday (day 2), and Tuesday (day 3). By depositing on Wednesday, the agent exceeded the deadline by one business day. This is a violation regardless of whether anyone files a complaint, as the rule is a regulatory requirement.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest_money", "deposit_timing", "violation"]
+    },
+    {
+      "key_topic_ref": "MN-03.2",
+      "question_text": "When does the 3-business-day clock start for depositing earnest money in Minnesota?",
+      "correct_answer": "After acceptance of the purchase agreement",
+      "distractors": [
+        "After the buyer writes the check",
+        "After the listing agent receives the check",
+        "After the inspection contingency period"
+      ],
+      "explanation": "The 3-business-day deposit requirement begins upon acceptance of the purchase agreement, not when the check is written or received. Acceptance is the triggering event because it is the point at which a binding contract is formed between buyer and seller.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest_money", "deposit_timing", "acceptance"]
+    },
+    {
+      "key_topic_ref": "MN-03.3",
+      "question_text": "A transaction falls through and both buyer and seller claim the earnest money. The broker holds $8,000 in trust. What should the broker do?",
+      "correct_answer": "Hold funds until both parties consent or court orders",
+      "distractors": [
+        "Return the earnest money to the buyer immediately",
+        "Split the disputed funds equally between the parties",
+        "Release funds to whichever party demands them first"
+      ],
+      "explanation": "When both parties claim disputed trust funds, Minnesota law prohibits the broker from releasing the money without written authorization from both parties or a court order. The broker must hold the funds until the dispute is resolved through mutual agreement or legal proceedings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disputed_funds", "earnest_money", "trust_account"]
+    },
+    {
+      "key_topic_ref": "MN-03.3",
+      "question_text": "A broker holds disputed earnest money and neither party will agree on its release. Which legal action can the broker take to resolve the situation?",
+      "correct_answer": "File an interpleader action with the court",
+      "distractors": [
+        "Release funds to the listing agent's client",
+        "Deposit the funds with the Department of Commerce",
+        "Distribute funds based on the broker's judgment"
+      ],
+      "explanation": "When parties cannot agree on the disposition of disputed funds, a broker may file an interpleader action, which deposits the funds with the court and asks the court to determine the rightful recipient. This relieves the broker of liability and ensures a neutral resolution.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["interpleader", "disputed_funds", "court_action"]
+    },
+    {
+      "key_topic_ref": "MN-03.3",
+      "question_text": "A buyer requests that earnest money be placed in an interest-bearing trust account. What must occur before the broker opens this account?",
+      "correct_answer": "Written consent specifying who receives the interest",
+      "distractors": [
+        "Prior pre-approval from the Department of Commerce",
+        "The seller must formally waive rights to the interest",
+        "A minimum earnest money deposit amount of $10,000"
+      ],
+      "explanation": "Minnesota allows interest-bearing trust accounts, but requires written consent from the parties that specifies who will receive the interest earned. This agreement must be in place before the account is opened to prevent future disputes over interest distribution.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["interest-bearing_account", "written_consent", "trust_account"]
+    },
+    {
+      "key_topic_ref": "MN-03.3",
+      "question_text": "A broker places earnest money in an interest-bearing account without any written agreement about who receives the interest. Both parties later claim the interest. Who is entitled to it?",
+      "correct_answer": "Neither, until a written agreement is established",
+      "distractors": [
+        "The buyer, since they deposited the funds",
+        "The seller, as the intended contract recipient",
+        "The broker, as compensation for account management"
+      ],
+      "explanation": "Minnesota requires a written agreement specifying who receives interest before funds are placed in an interest-bearing account. Without this agreement, the broker violated the requirement, and neither party has an automatic claim. The interest remains in dispute until the parties reach a written agreement or a court decides.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["interest-bearing_account", "disputed_funds", "written_consent"]
+    },
+    {
+      "key_topic_ref": "MN-03.3",
+      "question_text": "Which of the following is a valid way to release disputed earnest money under Minnesota law?",
+      "correct_answer": "Written authorization from both parties",
+      "distractors": [
+        "A verbal agreement between the parties",
+        "The broker's independent determination",
+        "A demand letter from one party's attorney"
+      ],
+      "explanation": "Minnesota law requires written authorization from both parties or a court order before a broker may release disputed earnest money. A verbal agreement, the broker's own judgment, or a demand letter from one party's attorney are all insufficient to authorize the release of disputed funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disputed_funds", "written_authorization", "release"]
+    }
+  ]
+}

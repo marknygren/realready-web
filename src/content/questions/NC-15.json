@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NC-15",
+  "scope": "state",
+  "state": "NC",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NC-15.1",
+      "question_text": "A tenant's apartment has a severe roof leak making it uninhabitable. The landlord refuses to repair it. What remedy is available to the tenant?",
+      "correct_answer": "Vacate the unit claiming constructive eviction",
+      "distractors": [
+        "Withhold rent while remaining in the unit",
+        "Make repairs and deduct from next month's rent",
+        "Change the locks until repairs are completed"
+      ],
+      "explanation": "Under NC law, a tenant may vacate a unit and claim constructive eviction if it becomes uninhabitable. However, a tenant cannot unilaterally withhold rent while remaining in possession. The tenant must vacate to claim constructive eviction; only a court can grant the right to withhold rent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["constructive_eviction", "habitability", "tenant_remedy"]
+    },
+    {
+      "key_topic_ref": "NC-15.1",
+      "question_text": "Under the Residential Rental Agreements Act, which type of property is exempt from coverage?",
+      "correct_answer": "Commercial and industrial properties",
+      "distractors": [
+        "Single-family rental homes",
+        "Mobile homes on rented spaces",
+        "Duplexes with resident landlords"
+      ],
+      "explanation": "NCGS 42, Article 5 applies to residential properties including mobile homes and mobile home spaces. It does not apply to commercial or industrial properties, transient occupancies, or rent-free arrangements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RRAA", "exemptions", "commercial"]
+    },
+    {
+      "key_topic_ref": "NC-15.1",
+      "question_text": "A property management broker oversees a rental unit. Under the Residential Rental Agreements Act, what is the broker's legal status?",
+      "correct_answer": "The broker is considered the landlord",
+      "distractors": [
+        "The broker is only the owner's agent",
+        "The broker has no direct tenant obligations",
+        "The broker acts solely as a middleman"
+      ],
+      "explanation": "Under the NC Residential Rental Agreements Act, a broker managing property is treated as 'the landlord' and assumes the landlord's obligations including the implied warranty of habitability. This is a significant legal responsibility beyond typical agency duties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker_as_landlord", "property_management", "RRAA"]
+    },
+    {
+      "key_topic_ref": "NC-15.1",
+      "question_text": "A tenant stops paying rent because the bathroom plumbing has been broken for weeks. The tenant remains in the unit. Is this legally permitted?",
+      "correct_answer": "No, tenants cannot withhold rent while in possession",
+      "distractors": [
+        "Yes, if the condition violates habitability",
+        "Yes, after giving 10 days written notice",
+        "Yes, if the landlord was notified in writing"
+      ],
+      "explanation": "In North Carolina, a tenant is prohibited from unilaterally withholding rent while remaining in the unit. Only a court may grant the right to withhold rent. The tenant's remedy is to seek a court order or vacate and claim constructive eviction.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rent_withholding", "habitability", "tenant_rights"]
+    },
+    {
+      "key_topic_ref": "NC-15.1",
+      "question_text": "A lease contains a clause where the tenant waives rights under the Residential Rental Agreements Act. Is this enforceable?",
+      "correct_answer": "No, waiver of tenant rights is prohibited",
+      "distractors": [
+        "Yes, if both parties signed voluntarily",
+        "Yes, for leases shorter than one year",
+        "Only if the tenant received a rent discount"
+      ],
+      "explanation": "The NC Residential Rental Agreements Act explicitly prohibits waiver of its provisions. Any lease clause attempting to waive tenant protections under the Act is unenforceable regardless of whether both parties agreed. The obligations under the Act are mutually dependent.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["waiver", "RRAA", "lease_provisions"]
+    },
+    {
+      "key_topic_ref": "NC-15.2",
+      "question_text": "A month-to-month tenant pays $1,200 per month in rent. What is the maximum security deposit the landlord may collect?",
+      "correct_answer": "$1,800",
+      "distractors": [
+        "$1,200",
+        "$2,400",
+        "$3,600"
+      ],
+      "explanation": "For month-to-month tenancies in NC, the maximum security deposit is 1.5 months' rent. At $1,200 per month: $1,200 x 1.5 = $1,800. Different maximums apply for other lease terms: 2 weeks' rent for week-to-week, and 2 months' rent for terms longer than month-to-month.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security_deposit", "month-to-month", "maximum"]
+    },
+    {
+      "key_topic_ref": "NC-15.2",
+      "question_text": "A property manager holds tenant security deposits. Where must these funds be kept?",
+      "correct_answer": "In a trust account at a federally insured bank",
+      "distractors": [
+        "In the broker's operating account",
+        "In a bond posted with the state",
+        "In any interest-bearing savings account"
+      ],
+      "explanation": "A broker or property manager must hold security deposits in a trust or escrow account at a federally insured depository. Unlike property owners, brokers do NOT have the option to furnish a bond in lieu of a trust account. The bond option is available only to the property owner.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security_deposit", "trust_account", "broker"]
+    },
+    {
+      "key_topic_ref": "NC-15.2",
+      "question_text": "A landlord charges a $300 pet deposit to a tenant with a documented service animal. Is this permitted?",
+      "correct_answer": "No, a service animal is not considered a pet",
+      "distractors": [
+        "Yes, all animals require a pet deposit",
+        "Yes, if the deposit is refundable",
+        "Only if the animal weighs over 25 pounds"
+      ],
+      "explanation": "Under NC law, a service animal is not a pet. Landlords may charge reasonable nonrefundable pet deposits for actual pets, but charging any pet deposit for a service animal violates fair housing requirements. The distinction between pets and service animals is critical for deposit purposes.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["service_animal", "pet_deposit", "fair_housing"]
+    },
+    {
+      "key_topic_ref": "NC-15.2",
+      "question_text": "A tenant signs a one-year lease at $950 per month. What is the maximum security deposit?",
+      "correct_answer": "$1,900",
+      "distractors": [
+        "$950",
+        "$1,425",
+        "$2,850"
+      ],
+      "explanation": "For lease terms longer than month-to-month, NC limits the security deposit to 2 months' rent. A one-year lease qualifies: $950 x 2 = $1,900. The 1.5-month maximum applies only to month-to-month tenancies, and the 2-week maximum applies only to week-to-week tenancies.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security_deposit", "annual_lease", "maximum"]
+    },
+    {
+      "key_topic_ref": "NC-15.2",
+      "question_text": "A property owner wants to post a bond instead of maintaining a trust account for security deposits. A licensed broker manages the property. Is the bond option available?",
+      "correct_answer": "No, the broker must use a trust account",
+      "distractors": [
+        "Yes, the owner's preference controls",
+        "Yes, if the bond exceeds total deposits held",
+        "Only if the Commission approves the bond"
+      ],
+      "explanation": "While property owners may furnish a bond as an alternative to a trust account for security deposits, this option is not available when a licensed broker or property manager handles the funds. Brokers must maintain deposits in a trust or escrow account at a federally insured depository.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["security_deposit", "bond", "broker", "trust_account"]
+    },
+    {
+      "key_topic_ref": "NC-15.3",
+      "question_text": "Under the NC Vacation Rental Act, when must deposits received from a tenant be deposited into a trust account?",
+      "correct_answer": "Within 3 banking days of receipt",
+      "distractors": [
+        "Within 5 business days of receipt",
+        "Within 24 hours of receipt",
+        "Before the rental period begins"
+      ],
+      "explanation": "NCGS 42A requires that vacation rental deposits be placed in a trust account within 3 banking days of receipt. The bond option is not available under the Vacation Rental Act, even for unlicensed landlords. This strict timeline protects vacationers' funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["vacation_rental", "deposit", "banking_days"]
+    },
+    {
+      "key_topic_ref": "NC-15.3",
+      "question_text": "A landlord changes the locks on a tenant's apartment after the tenant falls two months behind on rent. Is this action lawful?",
+      "correct_answer": "No, self-help eviction is prohibited in NC",
+      "distractors": [
+        "Yes, after rent is 30 days overdue",
+        "Yes, if the landlord provides 24-hour notice",
+        "Only if the tenant has abandoned the property"
+      ],
+      "explanation": "Self-help eviction is prohibited in North Carolina. A landlord must use the court system to evict a tenant, regardless of how far behind on rent the tenant may be. Changing locks, removing belongings, or cutting utilities are all illegal self-help measures.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["self-help_eviction", "prohibited", "court_process"]
+    },
+    {
+      "key_topic_ref": "NC-15.3",
+      "question_text": "A tenant reports code violations to the health department. Two weeks later, the landlord issues a non-renewal notice. What protection does the tenant have?",
+      "correct_answer": "12-month retaliatory eviction protection applies",
+      "distractors": [
+        "No protection once the lease term ends",
+        "Protection only if the tenant has a written lease",
+        "6-month protection from any adverse action"
+      ],
+      "explanation": "NC law prohibits retaliatory eviction and provides 12 months of protection for tenants who exercise their legal rights, such as reporting code violations. The landlord's non-renewal notice so close to the complaint creates a presumption of retaliation.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["retaliatory_eviction", "12-month_protection", "tenant_rights"]
+    },
+    {
+      "key_topic_ref": "NC-15.3",
+      "question_text": "A vacation rental property is found unfit for occupancy upon the guest's arrival. What must the landlord provide?",
+      "correct_answer": "A substitute property or a full refund",
+      "distractors": [
+        "A partial refund for the first night only",
+        "Written notice that repairs will be completed",
+        "A credit toward a future rental period"
+      ],
+      "explanation": "Under the NC Vacation Rental Act, the landlord must provide a property that is fit and habitable. If the property fails this standard, the landlord must offer a comparable substitute or provide a full refund. Automatic forfeiture of the tenant's deposit for breach is prohibited.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["vacation_rental", "habitability", "substitute_property"]
+    },
+    {
+      "key_topic_ref": "NC-15.3",
+      "question_text": "A vacation rental landlord includes a clause automatically forfeiting the tenant's deposit if the tenant breaches the agreement. Is this enforceable?",
+      "correct_answer": "No, automatic deposit forfeiture is prohibited",
+      "distractors": [
+        "Yes, if clearly stated in the rental agreement",
+        "Yes, for breach of any material term",
+        "Only if the landlord provides a 7-day cure period"
+      ],
+      "explanation": "The NC Vacation Rental Act specifically prohibits automatic forfeiture of a tenant's security deposit for breach of the rental agreement. The landlord must follow proper procedures for retaining any portion of the deposit and cannot include blanket forfeiture clauses.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["vacation_rental", "deposit_forfeiture", "prohibited"]
+    }
+  ]
+}

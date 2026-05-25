@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OH-05",
+  "scope": "state",
+  "state": "OH",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "OH-05.1",
+      "question_text": "Which Ohio law prohibits housing discrimination and is administered by the Ohio Civil Rights Commission?",
+      "correct_answer": "ORC Chapter 4112 (Ohio Civil Rights Act)",
+      "distractors": ["ORC Chapter 4735 (License Law)", "ORC Chapter 5302 (Property Disclosure)", "ORC Chapter 5321 (Landlord-Tenant)"],
+      "explanation": "The Ohio Civil Rights Act (ORC Chapter 4112) is administered by the OCRC and prohibits discrimination in housing based on protected classes, including Ohio-specific additions beyond federal law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["civil-rights", "ORC-4112", "OCRC"]
+    },
+    {
+      "key_topic_ref": "OH-05.1",
+      "question_text": "Ohio's fair housing law includes two protected classes beyond the federal Fair Housing Act. Which are they?",
+      "correct_answer": "Military status and ancestry",
+      "distractors": ["Age and marital status", "Sexual orientation and gender identity", "Source of income and criminal history"],
+      "explanation": "Ohio adds military status and ancestry as state-protected classes beyond the seven federal classes (race, color, religion, sex, familial status, national origin, disability).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["protected-classes", "military", "ancestry"]
+    },
+    {
+      "key_topic_ref": "OH-05.1",
+      "question_text": "A veteran is denied housing because they served in the military. Under Ohio law, this is:",
+      "correct_answer": "A violation of the Ohio Civil Rights Act",
+      "distractors": ["Not prohibited under state or federal law", "A federal Fair Housing Act violation only", "Permitted if the landlord has security concerns"],
+      "explanation": "Military status is a protected class under Ohio's Civil Rights Act (ORC 4112). While not a federal protected class, it is specifically protected under Ohio law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["military-status", "discrimination", "protected-class"]
+    },
+    {
+      "key_topic_ref": "OH-05.1",
+      "question_text": "Which state agency administers Ohio's fair housing laws?",
+      "correct_answer": "Ohio Civil Rights Commission (OCRC)",
+      "distractors": ["Ohio Real Estate Commission", "Division of Real Estate", "Department of Commerce"],
+      "explanation": "The OCRC administers Ohio's fair housing laws under ORC Chapter 4112. The Real Estate Commission handles licensee discipline, while the OCRC handles civil rights complaints.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["OCRC", "fair-housing", "administration"]
+    },
+    {
+      "key_topic_ref": "OH-05.1",
+      "question_text": "A property manager refuses to rent to a family because of their ethnic ancestry. Under Ohio law, this violates which protected class?",
+      "correct_answer": "Ancestry",
+      "distractors": ["National origin only", "Race only", "Cultural background (not a protected class)"],
+      "explanation": "Ancestry is a specific protected class under Ohio's Civil Rights Act, separate from national origin and race. Discrimination based on ethnic ancestry violates ORC 4112.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ancestry", "protected-class", "discrimination"]
+    },
+    {
+      "key_topic_ref": "OH-05.2",
+      "question_text": "A person believes they were denied housing based on their disability. How long do they have to file a complaint with the OCRC?",
+      "correct_answer": "1 year from the discriminatory act",
+      "distractors": ["6 months from the discriminatory act", "2 years from the discriminatory act", "180 days from the discriminatory act"],
+      "explanation": "Complaints must be filed with the OCRC within 1 year of the alleged discriminatory act. The OCRC then investigates, attempts conciliation, and can hold hearings.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["complaint", "deadline", "OCRC"]
+    },
+    {
+      "key_topic_ref": "OH-05.2",
+      "question_text": "After receiving a fair housing complaint, the OCRC follows which sequence of actions?",
+      "correct_answer": "Investigation, conciliation, then hearing",
+      "distractors": ["Hearing, investigation, then mediation", "Mediation, citation, then court referral", "Warning letter, fine, then investigation"],
+      "explanation": "The OCRC first investigates the complaint, then attempts conciliation (voluntary resolution). If conciliation fails, the OCRC can hold administrative hearings.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["OCRC", "process", "conciliation"]
+    },
+    {
+      "key_topic_ref": "OH-05.2",
+      "question_text": "What remedies can the OCRC impose after finding a fair housing violation?",
+      "correct_answer": "Cease and desist orders, damages, civil penalties",
+      "distractors": ["Criminal prosecution and imprisonment", "License revocation and fines only", "Only monetary damages to the victim"],
+      "explanation": "The OCRC can order the violator to cease and desist, award damages to the complainant, and impose civil penalties. Criminal prosecution is handled separately.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["OCRC", "remedies", "enforcement"]
+    },
+    {
+      "key_topic_ref": "OH-05.2",
+      "question_text": "A buyer files a fair housing complaint 14 months after being denied a showing based on race. Can the OCRC accept this complaint?",
+      "correct_answer": "No, the 1-year filing deadline has passed",
+      "distractors": ["Yes, racial discrimination has no deadline", "Yes, but only for investigation purposes", "Only if the buyer can show ongoing harm"],
+      "explanation": "The OCRC requires complaints to be filed within 1 year of the discriminatory act. Even for serious violations like racial discrimination, this deadline applies at the state level.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deadline", "complaint", "OCRC"]
+    },
+    {
+      "key_topic_ref": "OH-05.2",
+      "question_text": "A tenant files a fair housing complaint with both the OCRC and HUD. Which agency investigates first?",
+      "correct_answer": "Both may investigate; OCRC handles state claims",
+      "distractors": ["HUD always takes priority over state agencies", "OCRC must defer to the federal investigation", "Only one agency may investigate at a time"],
+      "explanation": "Fair housing complaints can be filed at both state and federal levels. The OCRC handles claims under Ohio law while HUD handles federal Fair Housing Act claims. They may coordinate investigations.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["OCRC", "HUD", "dual-filing"]
+    },
+    {
+      "key_topic_ref": "OH-05.3",
+      "question_text": "An Ohio broker must display what in a prominent place in their office to comply with fair housing requirements?",
+      "correct_answer": "An equal housing opportunity sign",
+      "distractors": ["A copy of the Ohio Civil Rights Act", "A list of all protected classes", "A fair housing complaint form"],
+      "explanation": "Ohio brokers are required to display an equal housing opportunity sign prominently in their office, along with their broker's license.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["equal-housing", "sign", "broker"]
+    },
+    {
+      "key_topic_ref": "OH-05.3",
+      "question_text": "A buyer's agent only shows homes in certain neighborhoods based on the buyer's ethnicity. This practice is known as:",
+      "correct_answer": "Steering",
+      "distractors": ["Blockbusting", "Redlining", "Churning"],
+      "explanation": "Steering is directing buyers to or away from neighborhoods based on protected characteristics. Blockbusting involves inducing panic selling, and redlining is denying services to geographic areas.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["steering", "fair-housing", "violation"]
+    },
+    {
+      "key_topic_ref": "OH-05.3",
+      "question_text": "An agent tells homeowners that families of a certain race are moving into the neighborhood to encourage them to sell quickly. This practice is:",
+      "correct_answer": "Blockbusting, a fair housing violation",
+      "distractors": ["Steering, a fair housing violation", "Puffing, which is not a violation", "Redlining, a lending violation"],
+      "explanation": "Blockbusting (also called panic peddling) involves inducing homeowners to sell by implying that property values will decline due to the entry of a protected class. It violates fair housing laws.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["blockbusting", "fair-housing", "violation"]
+    },
+    {
+      "key_topic_ref": "OH-05.3",
+      "question_text": "Which of the following advertising practices violates Ohio fair housing law?",
+      "correct_answer": "Stating a preference for tenants of a specific religion",
+      "distractors": ["Describing the property's square footage", "Mentioning proximity to public transportation", "Listing the monthly rent amount"],
+      "explanation": "Advertising that states or implies a preference based on protected classes (including religion) violates fair housing law. Agents must apply consistent, non-discriminatory standards in all advertising.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["advertising", "fair-housing", "discrimination"]
+    },
+    {
+      "key_topic_ref": "OH-05.3",
+      "question_text": "An Ohio agent applies different qualifying standards to buyers based on their national origin. This violates the requirement to:",
+      "correct_answer": "Apply consistent standards to all prospects",
+      "distractors": ["Display the equal housing opportunity sign", "Provide agency disclosure at first contact", "Maintain separate trust accounts"],
+      "explanation": "Agents must apply consistent, non-discriminatory standards when qualifying, showing, and working with all prospects regardless of protected class characteristics.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["consistent-standards", "fair-housing", "discrimination"]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "standard_ref": "FL-10",
+  "scope": "state",
+  "state": "FL",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "FL-10.1",
+      "question_text": "Development seaward of the Coastal Construction Control Line in Florida requires permits from which agency?",
+      "correct_answer": "Department of Environmental Protection (DEP)",
+      "distractors": ["Department of Business and Professional Regulation", "Florida Fish and Wildlife Commission", "Army Corps of Engineers only"],
+      "explanation": "Construction seaward of the Coastal Construction Control Line (CCCL) requires permits from the Florida Department of Environmental Protection (DEP). This protects Florida's beaches and dune systems.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CCCL", "DEP", "coastal-construction"]
+    },
+    {
+      "key_topic_ref": "FL-10.1",
+      "question_text": "Development affecting wetlands in Florida may require permits from which entities?",
+      "correct_answer": "Both the Army Corps of Engineers and FL DEP",
+      "distractors": ["Only the county planning department", "Only the Army Corps of Engineers", "The Florida Real Estate Commission"],
+      "explanation": "Wetlands development in Florida requires both federal (Army Corps of Engineers under Section 404 of the Clean Water Act) and state (Florida DEP) permits. Both agencies have jurisdiction.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wetlands", "permits", "dual-jurisdiction"]
+    },
+    {
+      "key_topic_ref": "FL-10.1",
+      "question_text": "A developer is building homes in a coastal Florida county. The Florida Building Code requires compliance with what specific standards?",
+      "correct_answer": "Stringent wind resistance requirements",
+      "distractors": ["Federal earthquake retrofit standards", "FEMA flood elevation standards only", "EPA radon mitigation requirements"],
+      "explanation": "The Florida Building Code includes some of the nation's strictest wind resistance standards, particularly for coastal construction. These requirements apply to new construction and major renovations in wind-prone areas.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["building-code", "wind-resistance", "coastal"]
+    },
+    {
+      "key_topic_ref": "FL-10.1",
+      "question_text": "A Community Development District (CDD) in Florida is best described as:",
+      "correct_answer": "A special-purpose local government for infrastructure",
+      "distractors": ["A federal environmental protection zone designation", "A county zoning classification for new development", "A private homeowners' association for communities"],
+      "explanation": "CDDs are special-purpose local government entities created to finance and manage infrastructure in new developments. CDD assessments appear on the property tax bill and must be disclosed to buyers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CDD", "special-district", "infrastructure"]
+    },
+    {
+      "key_topic_ref": "FL-10.1",
+      "question_text": "Many Florida properties are located in FEMA-designated flood zones. What insurance implication does this create?",
+      "correct_answer": "Flood insurance may be required by lenders",
+      "distractors": ["Homeowners insurance is not available", "The property cannot be financed", "Only cash purchases are permitted"],
+      "explanation": "Properties in FEMA-designated flood zones are still financeable, but lenders typically require flood insurance as a condition of the mortgage. Florida has more flood zone properties than most states.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["flood-zones", "FEMA", "insurance"]
+    },
+    {
+      "key_topic_ref": "FL-10.2",
+      "question_text": "Florida's Community Planning Act requires every county and municipality to adopt what document?",
+      "correct_answer": "A comprehensive plan",
+      "distractors": ["A master zoning ordinance", "A capital improvement budget", "An environmental impact statement"],
+      "explanation": "The Community Planning Act (formerly the Growth Management Act) requires every county and municipality to adopt a comprehensive plan that guides local zoning and development decisions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["comprehensive-plan", "community-planning-act", "local-government"]
+    },
+    {
+      "key_topic_ref": "FL-10.2",
+      "question_text": "Under Florida's concurrency requirement, what must be available at the time of new development?",
+      "correct_answer": "Public services like roads, water, and schools",
+      "distractors": ["Environmental impact studies and assessments", "Private parking structures and amenities", "Federal building permits and inspections"],
+      "explanation": "Concurrency requires that public services (roads, water, sewer, schools) be available concurrent with the impact of new development. This prevents development from outpacing infrastructure capacity.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["concurrency", "infrastructure", "development"]
+    },
+    {
+      "key_topic_ref": "FL-10.2",
+      "question_text": "A large-scale development that may impact more than one county in Florida must undergo what additional review?",
+      "correct_answer": "Development of Regional Impact (DRI) review",
+      "distractors": ["FREC environmental clearance certification", "Federal highway impact study and approval", "State legislature vote and formal approval"],
+      "explanation": "Developments of Regional Impact (DRIs) are large-scale projects whose effects extend beyond one county. They must undergo additional state and regional review beyond normal local approvals.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["DRI", "regional-impact", "development"]
+    },
+    {
+      "key_topic_ref": "FL-10.2",
+      "question_text": "A property owner's existing use becomes noncompliant after a zoning change. Under Florida law, this nonconforming use:",
+      "correct_answer": "May continue but typically cannot be expanded",
+      "distractors": ["Must be discontinued within 1 year", "Is immediately illegal and must cease", "Automatically receives a variance"],
+      "explanation": "A nonconforming use (grandfathered use) may continue after a zoning change, but typically cannot be expanded or intensified. If the use is abandoned or the structure is destroyed, the nonconforming status is usually lost.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["nonconforming-use", "zoning", "grandfathered"]
+    },
+    {
+      "key_topic_ref": "FL-10.2",
+      "question_text": "A property owner seeks permission to deviate from a zoning requirement due to a unique hardship. This request is for a:",
+      "correct_answer": "Variance",
+      "distractors": ["Rezoning", "Nonconforming use permit", "Special exception"],
+      "explanation": "A variance is a permitted deviation from zoning rules for a specific property based on a showing of hardship. This differs from a special exception, which is a use allowed in the zone with special approval.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["variance", "hardship", "zoning"]
+    }
+  ]
+}

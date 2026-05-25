@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WI-04",
+  "scope": "state",
+  "state": "WI",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "WI-04.1",
+      "question_text": "Which protected class is covered by Wisconsin's Open Housing Law but NOT by the federal Fair Housing Act?",
+      "correct_answer": "Lawful source of income",
+      "distractors": ["Race", "Familial status", "National origin"],
+      "explanation": "Wisconsin's Open Housing Law adds several protected classes beyond federal law, including lawful source of income (Section 8 vouchers, Social Security), sexual orientation, marital status, age, ancestry, and domestic abuse victim status.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "protected classes", "Open Housing Law"]
+    },
+    {
+      "key_topic_ref": "WI-04.1",
+      "question_text": "A landlord refuses to rent to a tenant because they plan to pay with Section 8 vouchers. Under Wisconsin law, this is:",
+      "correct_answer": "Illegal discrimination based on lawful source of income",
+      "distractors": ["Legal because landlords can choose tenants", "Illegal only in Milwaukee and Madison", "Legal unless the property has 5+ units"],
+      "explanation": "Wisconsin's Open Housing Law protects 'lawful source of income' as a protected class, which includes Section 8 vouchers, Social Security, and other government assistance. Refusing to rent based on this is illegal statewide.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "source of income", "discrimination"]
+    },
+    {
+      "key_topic_ref": "WI-04.1",
+      "question_text": "A landlord refuses to rent to a 20-year-old applicant solely because of their age. Under the Open Housing Law, this is:",
+      "correct_answer": "Illegal, age 18 and older is a protected class",
+      "distractors": ["Legal, age is not protected in Wisconsin housing", "Illegal only if the applicant is over 40", "Legal unless the property receives federal funding"],
+      "explanation": "Wisconsin's Open Housing Law protects age as a class, covering anyone 18 years old and older. This is broader than federal employment law (which protects only 40+) and applies statewide to housing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "age", "protected class"]
+    },
+    {
+      "key_topic_ref": "WI-04.1",
+      "question_text": "A property manager declines to show an apartment to a couple because they are unmarried. Under Wisconsin law, this is:",
+      "correct_answer": "Illegal discrimination based on marital status",
+      "distractors": ["Legal because marital status is not protected", "Illegal only under federal fair housing law", "Legal unless the property receives federal funding"],
+      "explanation": "Marital status is a protected class under Wisconsin's Open Housing Law. Refusing to rent or show property based on whether someone is married, single, or divorced is illegal in Wisconsin.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "marital status", "discrimination"]
+    },
+    {
+      "key_topic_ref": "WI-04.1",
+      "question_text": "Under Wisconsin's Open Housing Law, what is the minimum age for the 'age' protected class?",
+      "correct_answer": "18 years old",
+      "distractors": ["21 years old", "40 years old", "No minimum age"],
+      "explanation": "Wisconsin's Open Housing Law protects age as a class, defined as 18 and older. This prevents discrimination against younger adults (18+) in housing, unlike federal employment law which protects those 40+.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "age", "protected class"]
+    },
+    {
+      "key_topic_ref": "WI-04.2",
+      "question_text": "Which state agency enforces Wisconsin's Open Housing Law?",
+      "correct_answer": "The Equal Rights Division of the DWD",
+      "distractors": ["The Department of Safety and Professional Services", "The Real Estate Examining Board", "The Attorney General's Office"],
+      "explanation": "Wisconsin's Open Housing Law is enforced by the Equal Rights Division within the Department of Workforce Development (DWD). Complaints can also be filed with HUD or pursued through private lawsuits.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "enforcement", "Equal Rights Division"]
+    },
+    {
+      "key_topic_ref": "WI-04.2",
+      "question_text": "Within what timeframe must a housing discrimination complaint be filed with the Equal Rights Division?",
+      "correct_answer": "1 year after the alleged discrimination",
+      "distractors": ["180 days after the alleged discrimination", "6 months after the alleged discrimination", "2 years after the alleged discrimination"],
+      "explanation": "A person alleging a violation under Wisconsin's Open Housing Law must file a complaint with the Equal Rights Division within 1 year of the alleged discrimination. The federal HUD complaint deadline is also 1 year.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "complaint", "deadline"]
+    },
+    {
+      "key_topic_ref": "WI-04.2",
+      "question_text": "A renter believes their landlord violated the Open Housing Law. Which is NOT a remedy option?",
+      "correct_answer": "Criminal prosecution of the landlord",
+      "distractors": ["Filing a complaint with the Equal Rights Division", "Filing a private lawsuit in state court", "Filing a complaint with HUD"],
+      "explanation": "Enforcement options include filing with the Equal Rights Division, filing with HUD, or pursuing a private lawsuit. Remedies include damages, injunctive relief, and attorney fees. Housing discrimination is typically a civil matter, not criminal.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair housing", "remedies", "enforcement"]
+    },
+    {
+      "key_topic_ref": "WI-04.2",
+      "question_text": "What remedies are available under Wisconsin's Open Housing Law?",
+      "correct_answer": "Damages, injunctive relief, and attorney fees",
+      "distractors": ["Only monetary damages up to $10,000", "Only injunctive relief, no damages", "Criminal penalties and imprisonment"],
+      "explanation": "The Open Housing Law provides for compensatory damages, injunctive relief (court orders to stop discrimination), and attorney fees. These remedies aim to make the victim whole and deter future violations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "remedies", "damages"]
+    },
+    {
+      "key_topic_ref": "WI-04.2",
+      "question_text": "A person files a fair housing complaint with both the Equal Rights Division and HUD. Is this allowed?",
+      "correct_answer": "Yes, complaints may be filed with both agencies",
+      "distractors": ["No, only one agency at a time", "Only if the complaint involves federal funds", "Only for discrimination based on federal classes"],
+      "explanation": "A complainant can file with the state Equal Rights Division and/or HUD and/or pursue a private lawsuit. Multiple avenues of enforcement are available and can be pursued simultaneously.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "complaints", "dual filing"]
+    },
+    {
+      "key_topic_ref": "WI-04.3",
+      "question_text": "A licensee practices in Madison. What must they understand about local fair housing protections?",
+      "correct_answer": "Madison may have additional protected classes beyond state law",
+      "distractors": ["Madison uses only federal fair housing law", "Local ordinances cannot exceed state protections", "Madison fair housing applies only to rentals"],
+      "explanation": "Madison, Milwaukee, Dane County, and other Wisconsin municipalities may add protected classes beyond both federal and state law. Licensees must know the local ordinances for their area of practice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "local ordinances", "Madison"]
+    },
+    {
+      "key_topic_ref": "WI-04.3",
+      "question_text": "Which Wisconsin municipalities are known for having additional fair housing protections beyond state law?",
+      "correct_answer": "Madison, Milwaukee, and Dane County",
+      "distractors": ["Only Milwaukee has extra protections", "Green Bay and Kenosha exclusively", "No local jurisdictions add protections"],
+      "explanation": "Madison, Milwaukee, Dane County, and other municipalities have adopted local fair housing ordinances that add protected classes beyond both federal and Wisconsin state law. Agents must stay current with local requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "local ordinances", "municipalities"]
+    },
+    {
+      "key_topic_ref": "WI-04.3",
+      "question_text": "A licensee moves from rural Wisconsin to practice in Milwaukee. Regarding fair housing, they should:",
+      "correct_answer": "Learn Milwaukee's additional protected classes",
+      "distractors": ["Apply only federal fair housing standards", "Assume state law covers all local requirements", "Register their license with the city separately"],
+      "explanation": "Milwaukee has local fair housing ordinances with additional protected classes beyond state and federal law. Licensees are responsible for knowing and complying with the fair housing laws in their area of practice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "local ordinances", "Milwaukee"]
+    },
+    {
+      "key_topic_ref": "WI-04.3",
+      "question_text": "In Wisconsin, which level of government can add protected classes to fair housing law?",
+      "correct_answer": "Federal, state, and local governments all can",
+      "distractors": ["Only the federal government sets fair housing law", "Only the state and federal government", "Only municipalities with populations over 100,000"],
+      "explanation": "Fair housing protections in Wisconsin operate at three levels: federal (Fair Housing Act), state (Open Housing Law), and local (municipal ordinances). Each level can add protections, creating a layered system.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair housing", "levels", "government"]
+    },
+    {
+      "key_topic_ref": "WI-04.3",
+      "question_text": "If a local ordinance protects a class not covered by state law, which standard applies to a licensee?",
+      "correct_answer": "The most protective standard applies",
+      "distractors": ["Only the state standard applies", "The licensee chooses which to follow", "Federal law supersedes all local rules"],
+      "explanation": "When multiple fair housing laws apply, the most protective standard governs. A licensee must comply with all applicable laws — federal, state, and local — and the broadest set of protections prevails.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair housing", "compliance", "local ordinances"]
+    }
+  ]
+}

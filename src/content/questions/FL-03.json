@@ -1,0 +1,173 @@
+{
+  "standard_ref": "FL-03",
+  "scope": "state",
+  "state": "FL",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "FL-03.1",
+      "question_text": "A consumer files a complaint against a licensee. What is the first action taken after DBPR receives the complaint?",
+      "correct_answer": "Investigate whether the complaint is legally sufficient",
+      "distractors": ["Immediately suspend the licensee's license", "Refer the matter to the full FREC commission", "Notify the licensee's employing broker first"],
+      "explanation": "After receiving a complaint, DBPR first investigates to determine if it is legally sufficient. If it is, the investigation continues and evidence is presented to a probable cause panel of FREC members for review.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["complaint-process", "DBPR", "investigation"]
+    },
+    {
+      "key_topic_ref": "FL-03.1",
+      "question_text": "After DBPR investigates a complaint, which group reviews the evidence to determine probable cause?",
+      "correct_answer": "A probable cause panel of FREC members",
+      "distractors": ["The full seven-member FREC commission", "The DBPR Secretary and legal staff", "A panel of three administrative judges"],
+      "explanation": "A probable cause panel consisting of FREC members (not the full commission) reviews evidence from the DBPR investigation. If probable cause is found, formal charges are filed via an Administrative Complaint.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["probable-cause", "FREC", "complaint-process"]
+    },
+    {
+      "key_topic_ref": "FL-03.1",
+      "question_text": "A broker is found to have commingled escrow funds with personal funds. This is grounds for which disciplinary action?",
+      "correct_answer": "Suspension or revocation",
+      "distractors": ["A written warning only", "Mandatory continuing education", "A citation with no fine"],
+      "explanation": "Commingling escrow funds with personal or operating funds is a serious violation that can result in suspension or revocation. Other grounds include fraud, misrepresentation, and culpable negligence.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "grounds", "discipline"]
+    },
+    {
+      "key_topic_ref": "FL-03.1",
+      "question_text": "Which of the following is NOT a ground for disciplinary action against a Florida licensee?",
+      "correct_answer": "Charging a commission above 6%",
+      "distractors": ["Culpable negligence in a transaction", "Failure to account for funds", "Operating without a proper license"],
+      "explanation": "Commission rates are always negotiable in Florida — there is no maximum rate. Charging any agreed-upon rate is legal. The other options are all grounds for discipline under Chapter 475.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["grounds", "discipline", "commissions"]
+    },
+    {
+      "key_topic_ref": "FL-03.1",
+      "question_text": "After formal charges are filed, a respondent may choose which of the following hearing options?",
+      "correct_answer": "Settlement, informal hearing, or formal hearing",
+      "distractors": ["Formal hearing before an administrative judge", "Mediation, arbitration, or voluntary dismissal", "Jury trial, bench trial, or grand jury review"],
+      "explanation": "After an Administrative Complaint is filed, the respondent can choose to settle, request an informal hearing (if facts are not disputed), or request a formal hearing before an administrative law judge.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["hearing-options", "respondent", "discipline"]
+    },
+    {
+      "key_topic_ref": "FL-03.2",
+      "question_text": "What is the maximum fine FREC can impose per violation of license law?",
+      "correct_answer": "$5,000 per violation",
+      "distractors": ["$1,000 per violation", "$10,000 per violation", "$25,000 per violation"],
+      "explanation": "FREC can impose fines up to $5,000 per count or offense. Other penalties include reprimand, probation, suspension (up to 10 years), and revocation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fines", "penalties", "FREC"]
+    },
+    {
+      "key_topic_ref": "FL-03.2",
+      "question_text": "A licensee's license is suspended by FREC. What is the maximum suspension period allowed?",
+      "correct_answer": "10 years",
+      "distractors": ["5 years", "2 years", "Indefinite"],
+      "explanation": "FREC can suspend a license for up to 10 years. Revocation results in permanent loss of the license, though the person may reapply after a specified time period.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["suspension", "penalties", "duration"]
+    },
+    {
+      "key_topic_ref": "FL-03.2",
+      "question_text": "A sales associate fails to display a required sign at the brokerage entrance. This minor violation may be resolved by:",
+      "correct_answer": "A citation with a fine",
+      "distractors": ["Automatic license revocation", "A formal hearing before FREC", "Mandatory 45-hour education course"],
+      "explanation": "Minor violations where there is no substantial threat to public health or safety may be resolved through the citation system — a notice of noncompliance with an associated fine, without a full disciplinary proceeding.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["citation", "minor-violations", "penalties"]
+    },
+    {
+      "key_topic_ref": "FL-03.2",
+      "question_text": "Which penalty permanently removes a licensee's ability to practice real estate in Florida?",
+      "correct_answer": "Revocation",
+      "distractors": ["Suspension", "Probation", "Reprimand"],
+      "explanation": "Revocation results in permanent loss of the license. While the person may reapply after a specified period, the revocation itself is permanent. Suspension is temporary (up to 10 years).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["revocation", "penalties", "permanent"]
+    },
+    {
+      "key_topic_ref": "FL-03.2",
+      "question_text": "A formal censure that remains on a licensee's permanent record but does not restrict practice is called a:",
+      "correct_answer": "Reprimand",
+      "distractors": ["Citation", "Probation", "Written warning"],
+      "explanation": "A reprimand is a formal censure that stays on the licensee's record but does not restrict their ability to practice. It is the least severe disciplinary action FREC can impose in a formal proceeding.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["reprimand", "penalties", "censure"]
+    },
+    {
+      "key_topic_ref": "FL-03.3",
+      "question_text": "What is the maximum amount the Florida Real Estate Recovery Fund will pay per transaction?",
+      "correct_answer": "$50,000",
+      "distractors": ["$25,000", "$100,000", "$150,000"],
+      "explanation": "The Recovery Fund pays a maximum of $50,000 per transaction. The aggregate lifetime cap per licensee is $150,000. These limits protect the fund while providing compensation to victims.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "limits", "per-transaction"]
+    },
+    {
+      "key_topic_ref": "FL-03.3",
+      "question_text": "Before filing a Recovery Fund claim, the injured party must first do which of the following?",
+      "correct_answer": "Obtain a civil court judgment",
+      "distractors": ["File a complaint with FREC", "Attempt mediation with the licensee", "Notify the licensee's broker"],
+      "explanation": "To claim from the Recovery Fund, the claimant must first obtain a civil court judgment against the licensee and exhaust all attempts to collect directly. The fund is a last resort.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "claim-requirements", "judgment"]
+    },
+    {
+      "key_topic_ref": "FL-03.3",
+      "question_text": "If the Recovery Fund pays a claim against a licensee, what happens to that licensee's license?",
+      "correct_answer": "It is automatically suspended",
+      "distractors": ["It is placed on probation", "Nothing until the next renewal", "It is permanently revoked"],
+      "explanation": "When the Recovery Fund pays a claim, the licensee's license is automatically suspended until the full amount plus interest is repaid. If not repaid, the license is eventually revoked.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "suspension", "repayment"]
+    },
+    {
+      "key_topic_ref": "FL-03.3",
+      "question_text": "What is the aggregate lifetime cap the Recovery Fund will pay for claims against a single licensee?",
+      "correct_answer": "$150,000",
+      "distractors": ["$50,000", "$100,000", "$250,000"],
+      "explanation": "The Recovery Fund has a $150,000 aggregate lifetime cap per licensee. Individual transactions are capped at $50,000. Once the aggregate cap is reached, no further claims can be paid against that licensee.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "aggregate-cap", "limits"]
+    },
+    {
+      "key_topic_ref": "FL-03.3",
+      "question_text": "The Florida Real Estate Recovery Fund is funded primarily through which source?",
+      "correct_answer": "A portion of each license fee",
+      "distractors": ["State general tax revenue", "FREC fines and penalties", "Voluntary licensee contributions"],
+      "explanation": "The Recovery Fund is funded by a $3.50 fee from each licensee at renewal. It only covers claims arising from licensed real estate activities — not claims against unlicensed persons.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "funding", "license-fees"]
+    }
+  ]
+}

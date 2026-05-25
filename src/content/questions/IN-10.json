@@ -1,0 +1,233 @@
+{
+  "standard_ref": "IN-10",
+  "scope": "state",
+  "state": "IN",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IN-10.1",
+      "question_text": "A seller asks her broker to prepare a listing agreement. Under Indiana law, which form is required for the agreement to be enforceable?",
+      "correct_answer": "Written agreement signed by both parties",
+      "distractors": [
+        "Oral agreement confirmed by email",
+        "Written agreement signed by seller only",
+        "Verbal agreement with written follow-up within 30 days"
+      ],
+      "explanation": "Indiana requires all listing agreements to be in writing and signed by both the seller and the broker to be enforceable. An oral listing agreement or one lacking the broker's signature does not satisfy the statutory requirement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing-agreements", "written-requirement", "IN-10.1"]
+    },
+    {
+      "key_topic_ref": "IN-10.1",
+      "question_text": "A seller signs an exclusive right-to-sell listing. The property sells through a cooperating broker who brought the buyer. Who earns the commission?",
+      "correct_answer": "The listing broker earns commission regardless of who sells",
+      "distractors": [
+        "Only the cooperating broker earns commission",
+        "Commission is split equally between listing and selling brokers",
+        "No commission is owed because the listing broker did not find the buyer"
+      ],
+      "explanation": "Under an exclusive right-to-sell listing, the listing broker earns the agreed commission no matter who procures the buyer — including the seller or a cooperating broker. This distinguishes it from an exclusive agency listing, where the seller may sell without owing commission.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exclusive-right-to-sell", "commission", "listing-types", "IN-10.1"]
+    },
+    {
+      "key_topic_ref": "IN-10.1",
+      "question_text": "A broker presents a listing agreement that contains an automatic renewal clause extending the listing indefinitely unless cancelled. How does Indiana law treat this provision?",
+      "correct_answer": "Auto-renewal clauses in listings are disfavored and should not be used",
+      "distractors": [
+        "Auto-renewal clauses are required for listings over 90 days",
+        "Auto-renewal clauses are permissible with 30-day cancellation notice",
+        "Auto-renewal clauses are enforceable only if initialed by both parties"
+      ],
+      "explanation": "Indiana disfavors automatic renewal provisions in listing agreements because they can trap sellers in perpetual obligations without clear consent. Listings must contain a definite expiration date, and any extension should require a new signed agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["auto-renewal", "listing-agreements", "expiration", "IN-10.1"]
+    },
+    {
+      "key_topic_ref": "IN-10.1",
+      "question_text": "A seller signs an exclusive agency listing. She later finds a buyer entirely on her own without any broker involvement. Which statement is correct?",
+      "correct_answer": "The seller owes no commission because she found the buyer herself",
+      "distractors": [
+        "The seller still owes full commission under the exclusive terms",
+        "The seller owes a reduced commission of 50% of the agreed rate",
+        "The seller must notify the broker in writing before selling independently"
+      ],
+      "explanation": "An exclusive agency listing allows the seller to sell the property without owing commission, provided the seller — not the broker — procures the buyer. The broker's exclusivity prevents other brokers from earning commission, but not the seller's own efforts.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["exclusive-agency", "listing-types", "commission", "IN-10.1"]
+    },
+    {
+      "key_topic_ref": "IN-10.1",
+      "question_text": "A listing agreement is missing an expiration date. The broker argues it is still valid because all other required elements are present. Under Indiana law, what is the most accurate assessment?",
+      "correct_answer": "The agreement is deficient; a definite expiration date is a required element",
+      "distractors": [
+        "The agreement is valid if the parties intended an ongoing relationship",
+        "A court will imply a reasonable expiration of six months",
+        "The agreement is valid because price and commission are included"
+      ],
+      "explanation": "Indiana requires listing agreements to contain a definite expiration date as an essential element. Without one, the agreement is incomplete and the broker risks having no enforceable right to commission. Having other elements present does not cure the omission of an expiration date.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["listing-agreements", "expiration-date", "required-elements", "IN-10.1"]
+    },
+    {
+      "key_topic_ref": "IN-10.2",
+      "question_text": "Under Indiana's HEA 1068 effective July 1, 2024, when must a broker obtain a written buyer agency agreement?",
+      "correct_answer": "Before providing any agency services to the buyer",
+      "distractors": [
+        "Before the buyer makes an offer on a property",
+        "Before the first showing of a property",
+        "Within three business days of first contact with the buyer"
+      ],
+      "explanation": "HEA 1068, effective July 1, 2024, requires brokers to have a written buyer agency agreement in place before they provide any agency services to a buyer client. This is earlier than simply before an offer — it applies as soon as the broker begins acting in an agency capacity.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer-agency", "HEA-1068", "written-agreement", "IN-10.2"]
+    },
+    {
+      "key_topic_ref": "IN-10.2",
+      "question_text": "Under HEA 1068, a buyer agency agreement must contain which essential element?",
+      "correct_answer": "A definite expiration date for the agreement",
+      "distractors": [
+        "A guaranteed minimum commission amount",
+        "The buyer's pre-approval letter from a lender",
+        "A list of specific properties the buyer will view"
+      ],
+      "explanation": "Indiana's HEA 1068 requires buyer agency agreements to include an expiration date, preventing indefinite commitments. A guaranteed commission amount, lender pre-approval, or specific property list are not required elements of the agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer-agency", "HEA-1068", "agreement-copies", "IN-10.2"]
+    },
+    {
+      "key_topic_ref": "IN-10.2",
+      "question_text": "A buyer contacts a broker asking only for information about Indiana neighborhoods before agreeing to any agency relationship. The broker provides neighborhood data and school ratings. Has the broker violated HEA 1068?",
+      "correct_answer": "No, because providing general information is not an agency service",
+      "distractors": [
+        "Yes, any buyer contact requires a signed agreement first",
+        "Yes, sharing school ratings constitutes agency representation",
+        "No, but the broker must get the agreement within 24 hours"
+      ],
+      "explanation": "HEA 1068 requires a written agreement before providing agency services, not before any contact. Providing general factual information such as neighborhood data does not constitute an agency service, so no agreement is required at that stage.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["buyer-agency", "HEA-1068", "agency-services", "IN-10.2"]
+    },
+    {
+      "key_topic_ref": "IN-10.2",
+      "question_text": "A buyer agency agreement in Indiana is missing an expiration date. The buyer later claims the broker cannot enforce the agreement. What is the most likely outcome?",
+      "correct_answer": "The agreement is deficient because an expiration date is required",
+      "distractors": [
+        "A six-month term is implied by Indiana common law",
+        "The agreement is valid because price and scope of services are stated",
+        "The broker can enforce it if services were actually performed"
+      ],
+      "explanation": "Like listing agreements, Indiana buyer agency agreements must contain a definite expiration date. Without one, the agreement is incomplete under Indiana requirements, which makes enforcement uncertain and exposes the broker to commission disputes.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["buyer-agency", "expiration-date", "required-elements", "IN-10.2"]
+    },
+    {
+      "key_topic_ref": "IN-10.2",
+      "question_text": "A broker is working with a buyer client under HEA 1068. The buyer asks the broker to show a home before they have signed a buyer agency agreement. What must the broker do?",
+      "correct_answer": "Obtain a signed buyer agency agreement before showing the home",
+      "distractors": [
+        "Show the home, then obtain the agreement before any offer",
+        "Show the home and disclose verbally that an agreement is needed",
+        "Refer the buyer to another broker until an agreement is signed"
+      ],
+      "explanation": "Showing a property is an agency service under HEA 1068. Indiana law requires the written buyer agency agreement to be signed before the broker provides any agency service, so the agreement must be executed before the showing occurs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["buyer-agency", "HEA-1068", "showing", "IN-10.2"]
+    },
+    {
+      "key_topic_ref": "IN-10.3",
+      "question_text": "A property owner hires a broker to manage a 20-unit apartment complex. What form must the management relationship take under Indiana law?",
+      "correct_answer": "A written property management agreement",
+      "distractors": [
+        "An oral agreement with a written fee schedule",
+        "A written agreement executed by the owner only",
+        "A letter of intent followed by a formal agreement within 30 days"
+      ],
+      "explanation": "Indiana requires property management and leasing arrangements to be established through a written agreement. The agreement must define the broker's authority, compensation, and responsibilities before the broker may act on behalf of the owner.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-management", "written-agreement", "IN-10.3"]
+    },
+    {
+      "key_topic_ref": "IN-10.3",
+      "question_text": "A property management broker collects security deposits from tenants. Where must the broker hold these funds?",
+      "correct_answer": "In a separate trust account, apart from operating funds",
+      "distractors": [
+        "In the broker's general business account for convenience",
+        "In a dedicated account owned jointly by broker and owner",
+        "In the owner's personal bank account upon collection"
+      ],
+      "explanation": "Security deposits collected by a managing broker must be held in a trust account separate from the broker's operating funds. Mixing client funds with business funds constitutes commingling, a serious violation under Indiana law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-management", "security-deposits", "trust-account", "IN-10.3"]
+    },
+    {
+      "key_topic_ref": "IN-10.3",
+      "question_text": "A property management agreement grants a broker authority to execute leases up to 12 months without owner approval. A broker signs an 18-month lease on the owner's behalf. What is the likely result?",
+      "correct_answer": "The broker exceeded authority; the lease may be voidable by the owner",
+      "distractors": [
+        "The lease is fully valid because tenants are protected",
+        "The broker is personally liable for the 6-month excess term only",
+        "The owner must ratify the lease because the tenant relied on it"
+      ],
+      "explanation": "A broker's authority under a property management agreement is limited to what the written agreement authorizes. Acting beyond that authority — here, executing an 18-month lease when only 12 months was authorized — may expose the broker to liability and give the owner grounds to void the transaction.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["property-management", "broker-authority", "leasing", "IN-10.3"]
+    },
+    {
+      "key_topic_ref": "IN-10.3",
+      "question_text": "A property management broker fails to provide the owner with monthly accounting statements as required by their agreement. Which party is primarily responsible for this compliance failure?",
+      "correct_answer": "The managing broker, who oversees all accounting and reporting",
+      "distractors": [
+        "The individual broker assigned to the property",
+        "The owner, who should request statements proactively",
+        "The brokerage firm's accountant who prepares the statements"
+      ],
+      "explanation": "The managing broker bears personal responsibility for ensuring proper accounting and reporting to property owners. The written management agreement defines these obligations, and the managing broker must enforce compliance within the firm.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-management", "accounting", "managing-broker", "IN-10.3"]
+    },
+    {
+      "key_topic_ref": "IN-10.3",
+      "question_text": "A property manager collects rent and pays maintenance expenses from the same account that holds security deposits. A broker auditor notes this practice. What violation has occurred?",
+      "correct_answer": "Commingling — operating funds mixed with client trust funds",
+      "distractors": [
+        "No violation if the account is reconciled monthly",
+        "Conversion — funds were used for unauthorized purposes",
+        "No violation if the management agreement permits it"
+      ],
+      "explanation": "Holding security deposits (client funds) in the same account as operating funds such as maintenance expenses constitutes commingling, which is prohibited. Even if no funds are misused, maintaining separate accounts is required. Conversion would occur only if client funds were actually misappropriated.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["property-management", "commingling", "trust-account", "IN-10.3"]
+    }
+  ]
+}

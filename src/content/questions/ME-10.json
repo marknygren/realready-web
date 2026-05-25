@@ -1,0 +1,233 @@
+{
+  "standard_ref": "ME-10",
+  "scope": "state",
+  "state": "ME",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "ME-10.1",
+      "question_text": "In Maine, when two unrelated buyers take title together without specifying the form of ownership, what type of tenancy is presumed?",
+      "correct_answer": "Tenancy in common",
+      "distractors": [
+        "Joint tenancy with survivorship",
+        "Tenancy by the entirety",
+        "Community property ownership"
+      ],
+      "explanation": "Maine law defaults to tenancy in common when the deed does not specify the form of co-ownership. Unlike joint tenancy, tenancy in common carries no right of survivorship, and each owner's share passes through their estate at death. Joint tenancy must be expressly created with survivorship language.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tenancy_in_common", "default_ownership", "co-ownership"]
+    },
+    {
+      "key_topic_ref": "ME-10.1",
+      "question_text": "A married couple in Maine wants creditor protection on their home so that one spouse's individual debts cannot force a sale. Which form of ownership best achieves this?",
+      "correct_answer": "Tenancy by the entirety",
+      "distractors": [
+        "Tenancy in common",
+        "Joint tenancy with survivorship",
+        "Community property with survivorship"
+      ],
+      "explanation": "Tenancy by the entirety is available only to married couples in Maine and provides creditor protection against the individual debts of one spouse. A creditor of only one spouse generally cannot force the sale of entirety property. Maine is not a community property state, so that option does not exist.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tenancy_by_entirety", "creditor_protection", "married_couples"]
+    },
+    {
+      "key_topic_ref": "ME-10.1",
+      "question_text": "Two business partners want to hold Maine property so that if one dies, the survivor automatically receives the deceased partner's share. What must their deed include?",
+      "correct_answer": "Express survivorship language",
+      "distractors": [
+        "A notarized partnership agreement",
+        "Community property designation",
+        "No special language is needed"
+      ],
+      "explanation": "Maine requires express language creating the right of survivorship to establish a joint tenancy. Without that specific language, the deed creates a tenancy in common by default, and each partner's share would pass through their estate rather than automatically to the survivor.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["joint_tenancy", "survivorship", "deed_language"]
+    },
+    {
+      "key_topic_ref": "ME-10.1",
+      "question_text": "A divorcing couple in Maine disputes how to divide their jointly owned home. Which legal principle governs the division?",
+      "correct_answer": "Equitable distribution",
+      "distractors": [
+        "Equal 50/50 community property split",
+        "Automatic survivorship partition",
+        "Homestead exemption allocation"
+      ],
+      "explanation": "Maine follows equitable distribution, not community property, when dividing marital assets in divorce. The court considers factors such as each spouse's contributions, economic circumstances, and the length of the marriage to reach a fair but not necessarily equal division.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["equitable_distribution", "divorce", "property_division"]
+    },
+    {
+      "key_topic_ref": "ME-10.1",
+      "question_text": "A creditor obtains a judgment against a husband for a personal business debt. The couple holds their home as tenants by the entirety. Can the creditor force a sale of the home?",
+      "correct_answer": "No, entirety property is shielded",
+      "distractors": [
+        "Yes, the husband's half can be sold",
+        "Yes, after a 90-day waiting period",
+        "Only if the debt exceeds the equity"
+      ],
+      "explanation": "Under Maine's tenancy by the entirety, neither spouse individually owns a divisible share that a creditor can seize. A judgment creditor of only one spouse generally cannot force the sale of entirety property. This protection is a key reason married couples choose this ownership form.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["tenancy_by_entirety", "creditor_protection", "judgment"]
+    },
+    {
+      "key_topic_ref": "ME-10.2",
+      "question_text": "Which type of deed provides the greatest protection to a buyer in Maine?",
+      "correct_answer": "Warranty deed with full covenants",
+      "distractors": [
+        "Quitclaim deed without any covenant",
+        "Quitclaim deed with limited covenant",
+        "Merger deed for parcel consolidation"
+      ],
+      "explanation": "A warranty deed with full covenants provides the buyer maximum protection. The grantor warrants clear title, the right to convey, freedom from encumbrances, quiet enjoyment, and defense against future claims. This is the strongest form of deed available in Maine.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["warranty_deed", "covenants", "buyer_protection"]
+    },
+    {
+      "key_topic_ref": "ME-10.2",
+      "question_text": "A seller conveys property using a quitclaim deed with covenant. What does the grantor warrant?",
+      "correct_answer": "The grantor has not encumbered title",
+      "distractors": [
+        "Full title free of all prior defects",
+        "Nothing at all about the title status",
+        "That all prior owners had clear title"
+      ],
+      "explanation": "The quitclaim with covenant is a distinctive New England instrument. The grantor warrants only that they personally have not encumbered the property during their ownership. Unlike a warranty deed, it provides no warranty about the actions of prior owners or the overall state of the title chain.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["quitclaim_with_covenant", "new_england", "deed_types"]
+    },
+    {
+      "key_topic_ref": "ME-10.2",
+      "question_text": "A property owner consolidates three adjacent lots into one parcel. Which deed type is commonly used for this purpose and often qualifies for a transfer tax exemption?",
+      "correct_answer": "Merger deed",
+      "distractors": [
+        "Warranty deed with full covenants",
+        "Quitclaim deed without covenant",
+        "Corrective deed"
+      ],
+      "explanation": "A merger deed is used in Maine to consolidate multiple parcels into a single lot. Because no actual change in ownership occurs, merger deeds are often exempt from the real estate transfer tax. This is a practical tool for landowners reorganizing their holdings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["merger_deed", "parcel_consolidation", "tax_exemption"]
+    },
+    {
+      "key_topic_ref": "ME-10.2",
+      "question_text": "A father gifts his lakefront cabin to his daughter. She asks what methods can legally transfer ownership. Which is NOT a valid transfer method in this situation?",
+      "correct_answer": "Adverse possession by the daughter",
+      "distractors": [
+        "Gift deed from father to daughter",
+        "Devise through the father's will",
+        "Quitclaim deed from father to daughter"
+      ],
+      "explanation": "When a father voluntarily gifts property to his daughter, adverse possession does not apply. Adverse possession requires hostile possession against the owner's wishes. Valid voluntary transfers include gift deed, quitclaim deed, or devise through a will. The daughter cannot adversely possess property her father willingly gives.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["transfer_methods", "gift", "adverse_possession"]
+    },
+    {
+      "key_topic_ref": "ME-10.2",
+      "question_text": "A grantor signs a deed in Maine but does not have it acknowledged before a notary. What is the effect on recording?",
+      "correct_answer": "The Registry of Deeds will reject it",
+      "distractors": [
+        "It records normally without issue",
+        "It records but has a 90-day grace period",
+        "It transfers title but with reduced priority"
+      ],
+      "explanation": "Maine requires that all deeds be acknowledged before a notary public (or other authorized official) before they can be recorded at the county Registry of Deeds. Without proper acknowledgment, the registry will reject the document, leaving the grantee without the protection that recording provides.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["notary", "acknowledgment", "recording"]
+    },
+    {
+      "key_topic_ref": "ME-10.3",
+      "question_text": "How many consecutive years must a person occupy property to claim adverse possession in Maine?",
+      "correct_answer": "20 years",
+      "distractors": [
+        "7 years",
+        "10 years",
+        "15 years"
+      ],
+      "explanation": "Maine requires 20 years of continuous adverse possession to acquire title. The possession must be actual, open, notorious, exclusive, hostile, and continuous for the entire 20-year period. This is among the longer statutory periods in the United States.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["adverse_possession", "statutory_period", "20_years"]
+    },
+    {
+      "key_topic_ref": "ME-10.3",
+      "question_text": "A neighbor has used a strip of your Maine property as a garden for 18 years openly and without permission. She now claims ownership by adverse possession. What is the likely outcome?",
+      "correct_answer": "The claim fails for insufficient time",
+      "distractors": [
+        "The claim succeeds if she proves hostility",
+        "The claim succeeds after 15 years",
+        "The claim transfers only garden rights"
+      ],
+      "explanation": "Maine requires 20 continuous years of adverse possession. At 18 years, even if all other elements are met (actual, open, notorious, exclusive, hostile, continuous), the neighbor falls 2 years short of the statutory period. The true owner still has time to assert their rights and stop the clock.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["adverse_possession", "statutory_period", "scenario"]
+    },
+    {
+      "key_topic_ref": "ME-10.3",
+      "question_text": "Maine follows which type of recording system for real property documents?",
+      "correct_answer": "Race-notice",
+      "distractors": [
+        "Pure race",
+        "Pure notice",
+        "Torrens title registration"
+      ],
+      "explanation": "Maine uses a race-notice recording system. To prevail over a prior unrecorded conveyance, a subsequent purchaser must both (1) record first and (2) take without actual or constructive notice of the prior conveyance. Simply recording first is not enough if the buyer had notice.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["race_notice", "recording_system", "priority"]
+    },
+    {
+      "key_topic_ref": "ME-10.3",
+      "question_text": "In Maine, recording fees at the Registry of Deeds are based on what factor?",
+      "correct_answer": "The number of pages in the document",
+      "distractors": [
+        "The sale price of the property",
+        "The assessed value of the property",
+        "A flat fee regardless of document size"
+      ],
+      "explanation": "Maine recording fees are calculated based on the number of pages in the document being recorded. There is a base fee for the first page and an additional per-page charge. The fees are paid at the county Registry of Deeds and are not tied to property value.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording_fees", "registry_of_deeds", "calculation"]
+    },
+    {
+      "key_topic_ref": "ME-10.3",
+      "question_text": "Seller A conveys to Buyer B, who does not record. Later, Seller A fraudulently conveys the same property to Buyer C, who has no knowledge of the prior sale and records immediately. Under Maine's recording system, who holds title?",
+      "correct_answer": "Buyer C, who recorded without notice",
+      "distractors": [
+        "Buyer B, who received the first deed only",
+        "Seller A, because both deeds are now void",
+        "Both buyers share title as tenants in common"
+      ],
+      "explanation": "Under Maine's race-notice system, Buyer C prevails because C both recorded first and had no notice of the prior conveyance to B. If C had known about B's deed, C would not prevail despite recording first. This illustrates why prompt recording is critical to protecting ownership rights.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["race_notice", "recording_priority", "constructive_notice"]
+    }
+  ]
+}

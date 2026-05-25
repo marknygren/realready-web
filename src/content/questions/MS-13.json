@@ -1,0 +1,118 @@
+{
+  "standard_ref": "MS-13",
+  "scope": "state",
+  "state": "MS",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MS-13.1",
+      "question_text": "An out-of-state broker wants to sell property in Mississippi. Can she act independently?",
+      "correct_answer": "No, she must cooperate with a MS broker",
+      "distractors": ["Yes, with a temporary MREC permit", "Yes, if she holds a principal broker license", "Only for commercial transactions"],
+      "explanation": "Mississippi is a cooperative state. Out-of-state licensees cannot act independently and must work in cooperation with a Mississippi-licensed broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["out-of-state broker", "cooperative state", "MREC"]
+    },
+    {
+      "key_topic_ref": "MS-13.1",
+      "question_text": "How many copies of the cooperative agreement must the Mississippi broker file with MREC?",
+      "correct_answer": "Two copies",
+      "distractors": ["One copy", "Three copies", "Four copies"],
+      "explanation": "The Mississippi broker must file TWO copies of the cooperative agreement with MREC when working with an out-of-state broker.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["cooperative agreement", "filing requirements", "MREC"]
+    },
+    {
+      "key_topic_ref": "MS-13.1",
+      "question_text": "Before entering a cooperative agreement, what must the Mississippi broker verify about the non-resident?",
+      "correct_answer": "Active principal broker license",
+      "distractors": ["At least 5 years of experience", "Current membership in NAR", "A Mississippi mailing address"],
+      "explanation": "The Mississippi broker must verify that the non-resident holds an active principal broker license in their home state before entering into a cooperative agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["verification", "principal broker", "cooperative agreement"]
+    },
+    {
+      "key_topic_ref": "MS-13.1",
+      "question_text": "A Florida broker contacts a Mississippi broker to jointly market a Gulf Coast development. Who files the cooperative agreement?",
+      "correct_answer": "The Mississippi broker files with MREC",
+      "distractors": ["The Florida broker files with both states", "Both brokers file independently", "The developer files on their behalf"],
+      "explanation": "It is the Mississippi broker's responsibility to file two copies of the cooperative agreement with MREC. The out-of-state broker cannot file directly.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["cooperative agreement", "filing", "MS broker responsibility"]
+    },
+    {
+      "key_topic_ref": "MS-13.1",
+      "question_text": "An out-of-state salesperson wants to work in Mississippi under a cooperative arrangement. Is this permitted?",
+      "correct_answer": "No, the non-resident must be a broker",
+      "distractors": ["Yes, with the MS broker's supervision", "Yes, if accompanied by a MS licensee", "Only for one transaction per year"],
+      "explanation": "The cooperative agreement requires the out-of-state party to hold an active principal broker license. A salesperson does not qualify for cooperative arrangements in Mississippi.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["cooperative agreement", "salesperson", "eligibility"]
+    },
+    {
+      "key_topic_ref": "MS-13.2",
+      "question_text": "Under what condition may Mississippi waive exam requirements for out-of-state applicants?",
+      "correct_answer": "When a reciprocal agreement exists",
+      "distractors": ["When the applicant has 10+ years experience", "When the applicant pays a double fee", "Mississippi never waives exam requirements"],
+      "explanation": "Mississippi may grant waivers through reciprocal agreements if the out-of-state license meets equivalency standards. The reciprocal agreement may waive the exam requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["reciprocity", "exam waiver", "non-resident licensing"]
+    },
+    {
+      "key_topic_ref": "MS-13.2",
+      "question_text": "A non-resident broker obtains a Mississippi license through reciprocity. With whom must she affiliate?",
+      "correct_answer": "A Mississippi broker",
+      "distractors": ["Any broker in a reciprocal state", "No affiliation needed with reciprocity", "The Mississippi Association of REALTORS"],
+      "explanation": "Even when licensed through reciprocity, non-resident licensees must be affiliated with a Mississippi broker. This ensures proper supervision within the state.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["non-resident licensing", "affiliation", "MS broker"]
+    },
+    {
+      "key_topic_ref": "MS-13.2",
+      "question_text": "How many references must a non-resident applicant provide, and what is the requirement for each reference?",
+      "correct_answer": "Three who have owned property 3+ years",
+      "distractors": ["Two who are MS licensed brokers", "Five who are current MS residents", "Four who are MREC-approved referees"],
+      "explanation": "Non-resident applicants must provide three references, each of whom has owned property for at least 3 years. Mississippi residency for the references is preferred but not required per MREC application forms.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["references", "non-resident", "application requirements"]
+    },
+    {
+      "key_topic_ref": "MS-13.2",
+      "question_text": "An out-of-state broker's home state license has lapsed. Can she still obtain a Mississippi license through reciprocity?",
+      "correct_answer": "No, the license must be active",
+      "distractors": ["Yes, if she provides proof of prior licensure", "Yes, within a 1-year grace period", "Only if she retakes the MS exam"],
+      "explanation": "Mississippi requires that the out-of-state license meet equivalency standards, which includes holding an active license. A lapsed license does not qualify for reciprocal licensing.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["reciprocity", "active license", "equivalency"]
+    },
+    {
+      "key_topic_ref": "MS-13.2",
+      "question_text": "What does Mississippi evaluate when deciding whether to grant a license waiver to a non-resident?",
+      "correct_answer": "Out-of-state license equivalency",
+      "distractors": ["The applicant's sales volume history", "The applicant's years of education", "Whether the applicant owns MS property"],
+      "explanation": "MREC grants waivers based on equivalency, comparing the out-of-state license requirements to Mississippi's standards. If they meet or exceed Mississippi's requirements, a waiver may be granted.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["equivalency", "waiver", "non-resident licensing"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ID-10",
+  "scope": "state",
+  "state": "ID",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "ID-10.1",
+      "question_text": "What is the name of Idaho's seller disclosure form?",
+      "correct_answer": "RE-25 Seller's Property Condition Disclosure",
+      "distractors": ["RE-16 Transfer Disclosure Statement", "RE-50 Property Inspection Report", "RE-10 Residential Seller Report"],
+      "explanation": "Idaho uses the RE-25 form, formally called the Seller's Property Condition Disclosure Form, required under the Property Condition Disclosure Act (Title 55, Chapter 25).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "RE-25", "seller"]
+    },
+    {
+      "key_topic_ref": "ID-10.1",
+      "question_text": "Within how many days of the offer must the seller deliver the RE-25 disclosure to the buyer?",
+      "correct_answer": "10 calendar days",
+      "distractors": ["5 business days", "7 calendar days", "15 calendar days"],
+      "explanation": "The seller must deliver the completed RE-25 form to the buyer within 10 calendar days of the offer to purchase. This gives buyers time to review property conditions before the transaction progresses.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "RE-25", "10 days"]
+    },
+    {
+      "key_topic_ref": "ID-10.1",
+      "question_text": "A seller knows their basement leaks during heavy rain. Are they required to disclose this on the RE-25?",
+      "correct_answer": "Yes, sellers must disclose all known defects",
+      "distractors": ["No, if the basement was recently repaired", "Only if the buyer specifically asks about water", "Only if the leak causes structural damage"],
+      "explanation": "Sellers must disclose all known defects on the RE-25 form. A leaking basement is a known condition that affects the property and must be disclosed regardless of repairs or severity.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "known defects", "RE-25"]
+    },
+    {
+      "key_topic_ref": "ID-10.1",
+      "question_text": "Is the seller required to inspect generally inaccessible areas of the property for defects?",
+      "correct_answer": "No, only known defects must be disclosed",
+      "distractors": ["Yes, all areas must be inspected before sale", "Yes, including crawl spaces and attics", "Only if the buyer requests an inspection"],
+      "explanation": "Sellers have no obligation to inspect 'generally inaccessible areas.' The RE-25 requires disclosure of known defects only — the seller discloses what they know, not what an inspection might reveal.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "known defects", "inspection"]
+    },
+    {
+      "key_topic_ref": "ID-10.1",
+      "question_text": "Which areas are covered by the RE-25 property condition disclosure?",
+      "correct_answer": "Foundation, electrical, plumbing, heating, septic, structural",
+      "distractors": ["Only the roof and foundation components", "Only mechanical systems less than 10 years old", "Only items visible during a standard walkthrough tour"],
+      "explanation": "The RE-25 covers many areas including foundation, electrical, heating, plumbing, septic systems, structural issues, past repairs, HOA conditions, and neighborhood conditions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "RE-25", "coverage"]
+    },
+    {
+      "key_topic_ref": "ID-10.2",
+      "question_text": "After receiving the RE-25 disclosure, how many days does the buyer have to rescind?",
+      "correct_answer": "3 business days",
+      "distractors": ["5 calendar days", "7 calendar days", "10 business days"],
+      "explanation": "The buyer has a 3-business-day rescission right from the date they receive the property condition disclosure. This allows buyers to reconsider after learning about the property's condition.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "rescission", "3 business days"]
+    },
+    {
+      "key_topic_ref": "ID-10.2",
+      "question_text": "A buyer receives the RE-25 on Wednesday. By when is the last day to rescind?",
+      "correct_answer": "The following Monday (3 business days later)",
+      "distractors": ["Friday of the same week (2 days later)", "Saturday of the same week (3 days later)", "The following Wednesday (5 business days later)"],
+      "explanation": "The 3-business-day rescission period starts when the buyer receives the disclosure. Counting Thursday, Friday, and Monday as business days (excluding weekend), the last day to rescind is Monday.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "rescission", "calculation"]
+    },
+    {
+      "key_topic_ref": "ID-10.2",
+      "question_text": "A buyer does not receive the RE-25 until 15 days after the offer. What right does the buyer still have?",
+      "correct_answer": "3 business days to rescind from date of receipt",
+      "distractors": ["No rescission right due to late delivery", "Automatic contract cancellation", "7 business days due to late delivery"],
+      "explanation": "The buyer's 3-business-day rescission right runs from the date they actually receive the disclosure, not from the offer date. Even with late delivery, the rescission period applies from receipt.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "rescission", "late delivery"]
+    },
+    {
+      "key_topic_ref": "ID-10.2",
+      "question_text": "During the rescission period, the buyer discovers a significant issue in the disclosure. How should they rescind?",
+      "correct_answer": "Provide written notice within the 3-business-day period",
+      "distractors": ["Verbal notice to the seller's agent is sufficient", "File a complaint with IREC", "Simply stop communicating with the seller"],
+      "explanation": "To exercise the rescission right, the buyer must provide written notice within the 3-business-day period. Verbal notice or silence does not constitute proper rescission under the Property Condition Disclosure Act.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "rescission", "written notice"]
+    },
+    {
+      "key_topic_ref": "ID-10.2",
+      "question_text": "If a buyer waives the rescission period and later discovers an undisclosed defect, what remedy is available?",
+      "correct_answer": "Legal action against the seller for non-disclosure",
+      "distractors": ["No remedy once the rescission period is waived", "The buyer can file an IREC complaint only", "The title insurance company covers all defects"],
+      "explanation": "Waiving the rescission period does not waive the right to sue for non-disclosure. If a seller knowingly failed to disclose a defect, the buyer may have a legal claim for damages against the seller.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disclosure", "rescission", "legal remedy"]
+    },
+    {
+      "key_topic_ref": "ID-10.3",
+      "question_text": "Which type of property sale is EXEMPT from Idaho's property condition disclosure requirement?",
+      "correct_answer": "Court-ordered sales",
+      "distractors": ["Sales of homes over 50 years old", "Sales to first-time homebuyers", "Sales involving FHA financing"],
+      "explanation": "Court-ordered sales are exempt from the RE-25 disclosure requirement. Other exemptions include new construction (builder warranty), foreclosures, and transfers between co-owners.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "exemptions", "court-ordered"]
+    },
+    {
+      "key_topic_ref": "ID-10.3",
+      "question_text": "A new home has never been occupied. Is the builder required to provide the RE-25 disclosure?",
+      "correct_answer": "No, new construction is covered by builder warranty",
+      "distractors": ["Yes, all residential sales require the RE-25", "Only if the home is over $500,000", "Only if requested by the buyer"],
+      "explanation": "New construction is exempt from the RE-25 disclosure requirement because it is covered by the builder's warranty. The builder's warranty provides its own set of protections for the buyer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "exemptions", "new construction"]
+    },
+    {
+      "key_topic_ref": "ID-10.3",
+      "question_text": "A seller is asked about a death that occurred in their home. Must they disclose it?",
+      "correct_answer": "No, deaths in the home are not required to be disclosed",
+      "distractors": ["Yes, all material events must be disclosed", "Only if the death was a homicide", "Only if the buyer asks directly"],
+      "explanation": "Idaho's psychologically impacted property statute (Title 55, Chapter 28) does not require sellers to disclose deaths in the home. Other non-disclosable items include HIV/AIDS status of prior occupants and sex offender proximity.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "non-disclosable", "death"]
+    },
+    {
+      "key_topic_ref": "ID-10.3",
+      "question_text": "Which of the following does Idaho law NOT require sellers to disclose?",
+      "correct_answer": "Proximity of registered sex offenders",
+      "distractors": ["Known foundation cracks", "A faulty septic system", "Previous water damage"],
+      "explanation": "Idaho law does not require disclosure of sex offender proximity. However, sellers must disclose known physical defects like foundation cracks, septic problems, and water damage on the RE-25.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "non-disclosable", "sex offenders"]
+    },
+    {
+      "key_topic_ref": "ID-10.3",
+      "question_text": "Two co-owners transfer their property between themselves. Is the RE-25 disclosure required?",
+      "correct_answer": "No, transfers between co-owners are exempt",
+      "distractors": ["Yes, all property transfers require disclosure", "Only if the property has known defects", "Only if one co-owner is a licensee"],
+      "explanation": "Transfers between co-owners are exempt from the RE-25 disclosure requirement. This exemption recognizes that co-owners already have knowledge of the property they jointly own.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "exemptions", "co-owners"]
+    }
+  ]
+}

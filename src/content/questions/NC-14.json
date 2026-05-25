@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NC-14",
+  "scope": "state",
+  "state": "NC",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NC-14.1",
+      "question_text": "How often must North Carolina counties reappraise property for ad valorem tax purposes?",
+      "correct_answer": "Every 8 years",
+      "distractors": [
+        "Every 4 years",
+        "Every 5 years",
+        "Every 10 years"
+      ],
+      "explanation": "North Carolina follows an octennial reappraisal cycle, meaning counties must reappraise all property every 8 years. A horizontal reappraisal is possible at the 4th year midpoint, but the full reappraisal occurs on the 8-year schedule.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["octennial_reappraisal", "ad_valorem", "property_tax"]
+    },
+    {
+      "key_topic_ref": "NC-14.1",
+      "question_text": "A property has an assessed value of $320,000 and the county tax rate is $0.75 per $100. What is the annual property tax?",
+      "correct_answer": "$2,400",
+      "distractors": [
+        "$2,560",
+        "$2,133",
+        "$2,240"
+      ],
+      "explanation": "The NC property tax formula is (Assessed Value / 100) x Rate. Here: ($320,000 / 100) x $0.75 = $3,200 x 0.75 = $2,400. The assessed value in NC equals market value, also called true value in money.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property_tax", "calculation", "tax_rate"]
+    },
+    {
+      "key_topic_ref": "NC-14.1",
+      "question_text": "A homeowner in a city within Wake County owes ad valorem taxes. Which taxes apply?",
+      "correct_answer": "Both county and city tax rates",
+      "distractors": [
+        "Only the county tax rate",
+        "Only the city tax rate",
+        "A single combined state rate"
+      ],
+      "explanation": "Property located within city limits in NC is subject to both the county tax rate and the municipal (city/town) tax rate. Each jurisdiction sets its own rate annually. Properties outside city limits pay only the county rate.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["county_tax", "city_tax", "dual_taxation"]
+    },
+    {
+      "key_topic_ref": "NC-14.1",
+      "question_text": "A property has a tax lien, a first mortgage, and a mechanics lien. Which lien has the highest priority?",
+      "correct_answer": "The ad valorem tax lien",
+      "distractors": [
+        "The first mortgage",
+        "The mechanics lien",
+        "All three share equal priority"
+      ],
+      "explanation": "In North Carolina, ad valorem tax liens have superior priority over all other liens, including first mortgages and mechanics liens. The tax lien attaches on January 1 of each year and takes precedence regardless of when other liens were recorded.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["tax_lien", "priority", "superior_lien"]
+    },
+    {
+      "key_topic_ref": "NC-14.1",
+      "question_text": "A property owner pays their tax bill on January 10. What penalty applies?",
+      "correct_answer": "A penalty is assessed after the January 5 deadline",
+      "distractors": [
+        "No penalty because taxes are not due until March",
+        "No penalty if paid within 30 days of January 1",
+        "Only interest accrues with no flat penalty"
+      ],
+      "explanation": "NC property taxes become due and payable on September 1. January 5 is the last day to pay without penalty. Payment on January 10 is past the deadline, so a penalty applies. Key dates: January 1 lien attaches, January 31 listing deadline, July 1 rate set, September 1 due, January 5 last day no penalty.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tax_deadline", "penalty", "January_5"]
+    },
+    {
+      "key_topic_ref": "NC-14.2",
+      "question_text": "A seller conveys property for $275,000. What is the NC excise tax?",
+      "correct_answer": "$550",
+      "distractors": [
+        "$275",
+        "$551",
+        "$500"
+      ],
+      "explanation": "NC excise tax is $1.00 per each $500 or portion thereof, paid by the grantor (seller). $275,000 / 500 = 550 exactly, so the tax is $550. If the price were $275,100, the result would be 550.2, rounded up to $551.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["excise_tax", "calculation", "grantor"]
+    },
+    {
+      "key_topic_ref": "NC-14.2",
+      "question_text": "A home sells for $387,250. What NC excise tax does the seller owe?",
+      "correct_answer": "$775",
+      "distractors": [
+        "$774",
+        "$774.50",
+        "$776"
+      ],
+      "explanation": "Divide the sales price by $500: $387,250 / 500 = 774.5. Since the tax applies to each $500 or portion thereof, round up to 775. The excise tax is $775. The tax always rounds up to the next full dollar when there is any remainder.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["excise_tax", "calculation", "rounding"]
+    },
+    {
+      "key_topic_ref": "NC-14.2",
+      "question_text": "Who is responsible for paying the NC excise tax at closing?",
+      "correct_answer": "The grantor (seller)",
+      "distractors": [
+        "The grantee (buyer)",
+        "Split equally between buyer and seller",
+        "The closing attorney"
+      ],
+      "explanation": "North Carolina excise tax is paid by the grantor, which is the seller in a typical transaction. The rate is $1.00 per $500 of the sales price or portion thereof. This is a transfer tax imposed when the deed is recorded.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["excise_tax", "grantor", "seller"]
+    },
+    {
+      "key_topic_ref": "NC-14.2",
+      "question_text": "A property sells for $500,001. The broker calculates the excise tax as $1,000. Is this correct?",
+      "correct_answer": "No, the tax should be $1,001",
+      "distractors": [
+        "Yes, $1,000 is correct",
+        "No, the tax should be $1,002",
+        "No, the tax should be $999"
+      ],
+      "explanation": "Divide $500,001 by 500 = 1,000.002. Because the rate applies to each $500 or portion thereof, any remainder rounds up. The correct tax is $1,001. The broker's calculation of $1,000 failed to account for the extra $1 above the even $500,000.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["excise_tax", "calculation", "rounding", "broker_error"]
+    },
+    {
+      "key_topic_ref": "NC-14.2",
+      "question_text": "A property in a coastal NC county sells for $600,000. Besides the state excise tax, what additional transfer cost might apply?",
+      "correct_answer": "An additional local transfer tax",
+      "distractors": [
+        "A state capital gains surcharge",
+        "A separate coastal development fee",
+        "No additional transfer taxes exist in NC"
+      ],
+      "explanation": "Some NC counties are authorized to levy an additional local transfer tax on top of the standard state excise tax rate. While the base rate is $1.00 per $500 statewide, certain counties have been granted authority to impose supplemental transfer taxes.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["excise_tax", "local_transfer_tax", "coastal"]
+    },
+    {
+      "key_topic_ref": "NC-14.3",
+      "question_text": "A lender requires flood insurance on a coastal NC property. Under which program is this coverage typically obtained?",
+      "correct_answer": "The National Flood Insurance Program",
+      "distractors": [
+        "The NC Coastal Protection Fund",
+        "The standard homeowner insurance policy",
+        "The Federal Housing Administration"
+      ],
+      "explanation": "Properties in FEMA-designated flood zones must obtain separate flood insurance, typically through the National Flood Insurance Program (NFIP). Standard homeowner insurance does not cover flood damage. NC coastal areas are especially important for flood coverage.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["flood_insurance", "NFIP", "FEMA", "coastal"]
+    },
+    {
+      "key_topic_ref": "NC-14.3",
+      "question_text": "A buyer purchasing a coastal NC home asks if standard homeowner insurance covers hurricane flood damage. What is correct?",
+      "correct_answer": "No, flood damage requires separate coverage",
+      "distractors": [
+        "Yes, all natural disasters are covered",
+        "Yes, if the policy includes a wind rider",
+        "Only if the home is in a FEMA zone"
+      ],
+      "explanation": "Standard homeowner insurance does not cover flood damage, including flooding from hurricanes. NC coastal areas are especially prone to hurricane-related flooding, making separate flood insurance through the National Flood Insurance Program critical. Brokers should advise buyers to verify flood zone status and insurance needs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["flood_insurance", "hurricane", "coastal", "NC"]
+    },
+    {
+      "key_topic_ref": "NC-14.3",
+      "question_text": "A buyer's agent in NC learns the property is in a FEMA-designated flood zone. What should the agent do?",
+      "correct_answer": "Advise the buyer to verify insurance needs",
+      "distractors": [
+        "Cancel the transaction immediately",
+        "Disclose only if the buyer asks about it",
+        "Obtain flood insurance on the buyer's behalf"
+      ],
+      "explanation": "NC brokers should advise buyers to verify flood zone status and associated insurance requirements. Properties in FEMA-designated flood zones require separate flood insurance, typically through the NFIP. The broker should disclose the flood zone as a material fact and recommend the buyer investigate coverage needs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["FEMA", "flood_zone", "broker_duty", "insurance"]
+    },
+    {
+      "key_topic_ref": "NC-14.3",
+      "question_text": "A lender requires a new homeowner to maintain insurance. What does a standard homeowner policy cover?",
+      "correct_answer": "Dwelling, personal property, and liability",
+      "distractors": [
+        "Dwelling and personal property only",
+        "Dwelling, personal property, and flood",
+        "Dwelling, flood, and earthquake coverage"
+      ],
+      "explanation": "A standard homeowner insurance policy covers the dwelling, personal property, and liability. It does not cover flood or earthquake damage, which require separate policies. In NC, where coastal areas are prone to hurricane flooding, brokers should advise buyers that flood insurance must be obtained separately.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homeowner_insurance", "coverage", "lender_requirement"]
+    },
+    {
+      "key_topic_ref": "NC-14.3",
+      "question_text": "A single homeowner sells after 18 months of occupancy and realizes a $200,000 gain. How much capital gains exclusion is available?",
+      "correct_answer": "$0 unless a qualifying exception applies",
+      "distractors": [
+        "$200,000 fully excluded",
+        "$125,000 prorated exclusion",
+        "$250,000 standard single exclusion"
+      ],
+      "explanation": "The capital gains exclusion requires at least 2 years of occupancy in the last 5 years. At 18 months, this homeowner does not meet the requirement. A partial exclusion may be available only for qualifying exceptions such as job relocation, health reasons, or unforeseen circumstances.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["capital_gains", "occupancy_requirement", "exclusion"]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "standard_ref": "GA-07",
+  "scope": "state",
+  "state": "GA",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "GA-07.1",
+      "question_text": "Under Georgia law, within how many banking days of a binding agreement must earnest money be deposited into the trust account?",
+      "correct_answer": "Five banking days",
+      "distractors": [
+        "Three banking days",
+        "Seven calendar days",
+        "Ten business days"
+      ],
+      "explanation": "Georgia requires earnest money to be deposited within five banking days of the binding agreement date, unless the contract specifies otherwise. This timeline ensures funds are secured promptly while allowing reasonable processing time.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "earnest-money", "deposit-timing"]
+    },
+    {
+      "key_topic_ref": "GA-07.1",
+      "question_text": "A purchase agreement becomes binding on Thursday. The contract does not specify a different deposit timeline. By when must the broker deposit the earnest money?",
+      "correct_answer": "By the end of the following Thursday",
+      "distractors": [
+        "By the end of the following Monday",
+        "Within 72 hours of the binding agreement",
+        "By the end of the current business week"
+      ],
+      "explanation": "The five-banking-day requirement starts from the binding agreement date. Counting five banking days from Thursday (Friday, Monday, Tuesday, Wednesday, Thursday), the deposit must be made by the end of the following Thursday, excluding weekends and holidays.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-account", "earnest-money", "deposit-timing"]
+    },
+    {
+      "key_topic_ref": "GA-07.1",
+      "question_text": "Where must a Georgia broker deposit earnest money received in a real estate transaction?",
+      "correct_answer": "A trust or escrow account at a Georgia bank",
+      "distractors": [
+        "The broker's business operating account",
+        "Any FDIC-insured account in any state",
+        "A GREC-managed statewide escrow fund"
+      ],
+      "explanation": "Georgia requires earnest money to be deposited in a trust or escrow account at a financial institution located in Georgia. Using the broker's operating account or an out-of-state account would violate trust account requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "Georgia-financial-institution", "escrow"]
+    },
+    {
+      "key_topic_ref": "GA-07.1",
+      "question_text": "A salesperson in Georgia receives an earnest money check from a buyer. Who is authorized to disburse funds from the trust account?",
+      "correct_answer": "The broker or a broker-designated person only",
+      "distractors": [
+        "Any licensed salesperson in the firm",
+        "The buyer who originally provided the funds",
+        "The closing attorney handling the transaction"
+      ],
+      "explanation": "Only the broker or a person specifically designated by the broker may disburse funds from the trust account. Salespersons are not independently authorized to make disbursements, ensuring accountability and oversight of client funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "disbursement", "broker-authority"]
+    },
+    {
+      "key_topic_ref": "GA-07.1",
+      "question_text": "A purchase contract specifies that earnest money will be deposited within ten days of the binding agreement. The standard rule requires five banking days. Which deadline controls?",
+      "correct_answer": "The contract's ten-day provision controls",
+      "distractors": [
+        "The five-banking-day rule always overrides",
+        "The shorter of the two deadlines applies",
+        "GREC must approve any extension beyond five days"
+      ],
+      "explanation": "Georgia's five-banking-day deposit rule applies unless the contract specifies otherwise. When the purchase contract includes a different timeline, the contractual provision controls. The parties may agree to a longer or shorter period.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust-account", "earnest-money", "contract-terms"]
+    },
+    {
+      "key_topic_ref": "GA-07.2",
+      "question_text": "A Georgia broker keeps $100 of personal funds in the trust account to cover bank service charges. Is this permitted?",
+      "correct_answer": "Yes, a reasonable amount for bank fees is allowed",
+      "distractors": [
+        "No, any personal funds in the trust account is commingling",
+        "Only with prior written approval from GREC",
+        "Yes, up to $500 is permitted in the trust account"
+      ],
+      "explanation": "Georgia allows a broker to maintain a reasonable amount of personal funds (approximately $100) in the trust account solely to cover bank service charges. This exception prevents accounts from incurring fees that would reduce client funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "trust-account", "bank-charges"]
+    },
+    {
+      "key_topic_ref": "GA-07.2",
+      "question_text": "A GREC investigator arrives unannounced at a brokerage and requests to inspect trust account records. Can the broker refuse access?",
+      "correct_answer": "No, records must be available for GREC inspection anytime",
+      "distractors": [
+        "Yes, GREC must schedule inspections in advance",
+        "Yes, the broker may request a 48-hour notice period",
+        "Only if the broker's attorney is not present"
+      ],
+      "explanation": "Trust account records must be available for GREC inspection at any time. Brokers cannot refuse or delay access. This ensures regulatory oversight and protects consumer funds held in trust.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-account", "GREC-inspection", "record-keeping"]
+    },
+    {
+      "key_topic_ref": "GA-07.2",
+      "question_text": "How long must a Georgia broker retain trust account records including deposits, disbursements, and reconciliations?",
+      "correct_answer": "A minimum of three years",
+      "distractors": [
+        "A minimum of five years",
+        "A minimum of one year",
+        "Until the end of the current license cycle"
+      ],
+      "explanation": "Georgia requires trust account records to be retained for a minimum of three years. These records must include all deposits, disbursements, and reconciliation statements, and must be available for GREC inspection at any time.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "record-retention", "three-years"]
+    },
+    {
+      "key_topic_ref": "GA-07.2",
+      "question_text": "A broker deposits a commission check into the trust account instead of the operating account. After realizing the error three days later, what is the broker's situation?",
+      "correct_answer": "The broker has commingled funds and must correct it",
+      "distractors": [
+        "No violation occurred since the funds are identifiable",
+        "This is permitted for up to five banking days",
+        "Only a violation if the funds remain over 30 days"
+      ],
+      "explanation": "Depositing commission or operating funds into the trust account is commingling, which is strictly prohibited even if accidental. The broker must immediately correct the error by transferring the commission to the proper operating account.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commingling", "trust-account", "commission-funds"]
+    },
+    {
+      "key_topic_ref": "GA-07.2",
+      "question_text": "A Georgia broker uses one bank account for both client trust funds and brokerage operating expenses. What violation has occurred?",
+      "correct_answer": "Commingling of trust and operating funds",
+      "distractors": [
+        "Failure to maintain FDIC insurance coverage",
+        "Operating without a proper business license",
+        "Violating the five-day deposit requirement"
+      ],
+      "explanation": "Mixing client trust funds with operating funds in a single account is commingling, strictly prohibited under Georgia law. Client funds must be kept in a separate trust or escrow account, distinct from any operating or personal accounts.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "trust-account", "separate-accounts"]
+    },
+    {
+      "key_topic_ref": "GA-07.3",
+      "question_text": "A buyer and seller dispute who is entitled to the earnest money after a failed transaction. The broker cannot determine who should receive the funds. What is an appropriate option?",
+      "correct_answer": "File an interpleader action with the court",
+      "distractors": [
+        "Return the funds to the buyer automatically",
+        "Split the funds equally between both parties",
+        "Deposit the funds into the broker's operating account"
+      ],
+      "explanation": "When parties dispute earnest money and the broker cannot resolve it, filing an interpleader action asks the court to decide who receives the funds. The broker cannot unilaterally disburse disputed funds to either party.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money-dispute", "interpleader", "court-action"]
+    },
+    {
+      "key_topic_ref": "GA-07.3",
+      "question_text": "During an earnest money dispute, a seller demands the broker release all funds immediately. The buyer has not agreed. What must the broker do?",
+      "correct_answer": "Hold the funds until both parties agree or a court orders",
+      "distractors": [
+        "Release the funds to the seller as the listing client",
+        "Return the funds to the buyer who made the deposit",
+        "Deduct the commission and split the remainder"
+      ],
+      "explanation": "A broker cannot unilaterally disburse disputed earnest money to one party. The funds must be held until both parties reach an agreement, a court orders disbursement, or the funds are tendered to GREC for safekeeping.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money-dispute", "broker-obligations", "hold-funds"]
+    },
+    {
+      "key_topic_ref": "GA-07.3",
+      "question_text": "A Georgia broker holds disputed earnest money and does not want the liability of choosing a recipient. Besides interpleader or holding funds, what third option exists?",
+      "correct_answer": "Tender the funds to GREC for safekeeping",
+      "distractors": [
+        "Deposit the funds into a personal savings account",
+        "Transfer the funds to the listing agent's trust account",
+        "Donate the funds to a state housing charity"
+      ],
+      "explanation": "Georgia provides three options for disputed earnest money: interpleader action, holding funds until agreement or court order, or tendering the funds to GREC for safekeeping. This third option relieves the broker of holding disputed funds.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest-money-dispute", "GREC-safekeeping", "broker-options"]
+    },
+    {
+      "key_topic_ref": "GA-07.3",
+      "question_text": "A transaction falls through and both the buyer and seller claim the $10,000 earnest money. The broker decides to give it all to the buyer without the seller's consent. What is the consequence?",
+      "correct_answer": "The broker violated the prohibition on unilateral disbursement",
+      "distractors": [
+        "No violation since the buyer originally deposited the funds",
+        "A violation only if the broker failed to notify GREC",
+        "No violation if done within five banking days of the dispute"
+      ],
+      "explanation": "A broker cannot unilaterally disburse disputed funds to one party. Even though the buyer deposited the money, the broker must either hold the funds, file interpleader, or tender to GREC. Unilateral disbursement exposes the broker to disciplinary action.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["earnest-money-dispute", "unilateral-disbursement", "violation"]
+    },
+    {
+      "key_topic_ref": "GA-07.3",
+      "question_text": "After filing an interpleader action for disputed earnest money, who ultimately decides the distribution of the funds?",
+      "correct_answer": "The court determines the rightful recipient",
+      "distractors": [
+        "GREC appoints an arbitrator to decide",
+        "The qualifying broker makes the final determination",
+        "The parties must agree or funds are forfeited"
+      ],
+      "explanation": "In an interpleader action, the broker deposits the disputed funds with the court, which then determines who is entitled to receive them. This removes the broker from the decision and lets a neutral judicial authority resolve the dispute.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money-dispute", "interpleader", "court-decision"]
+    }
+  ]
+}

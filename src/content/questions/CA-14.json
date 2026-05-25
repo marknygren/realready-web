@@ -1,0 +1,308 @@
+{
+  "standard_ref": "CA-14",
+  "scope": "state",
+  "state": "CA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CA-14.1",
+      "question_text": "In a California trust deed, which party holds bare legal title to the property as a neutral holder during the loan term?",
+      "correct_answer": "Trustee",
+      "distractors": [
+        "Trustor",
+        "Beneficiary",
+        "Escrow officer"
+      ],
+      "explanation": "The trustee holds bare legal title as a neutral third party. The trustor (borrower) retains equitable title, and the beneficiary (lender) holds the promissory note. This three-party structure distinguishes a trust deed from a mortgage.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "trust-deed",
+        "trustee",
+        "parties",
+        "title"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.1",
+      "question_text": "A borrower pays off her California home loan in full. Which document should the lender's trustee record to release the lien?",
+      "correct_answer": "Reconveyance deed",
+      "distractors": [
+        "Satisfaction of mortgage",
+        "Release of lien",
+        "Substitution of trustee"
+      ],
+      "explanation": "When a trust deed loan is fully repaid, the trustee records a deed of reconveyance (reconveyance deed) to transfer legal title back to the trustor and release the lien. California uses trust deeds rather than mortgages, so there is no 'satisfaction of mortgage.'",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "trust-deed",
+        "reconveyance",
+        "payoff",
+        "lien-release"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.1",
+      "question_text": "A seller in California carries back a second trust deed for $80,000. A year later, the senior lender forecloses non-judicially. What happens to the junior trust deed?",
+      "correct_answer": "The junior trust deed is wiped out by the senior foreclosure",
+      "distractors": [
+        "The junior trust deed survives and transfers with the property",
+        "The junior lienholder can block the senior foreclosure",
+        "The junior lienholder receives proceeds after the senior is paid"
+      ],
+      "explanation": "In a non-judicial (trustee's sale) foreclosure by the senior lienholder, all junior liens are extinguished. The junior lienholder loses the security interest in the property. This is why junior lienholders monitor senior loan defaults closely.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "trust-deed",
+        "junior-lien",
+        "foreclosure",
+        "priority"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.1",
+      "question_text": "A seller has an existing 5% first trust deed. A buyer cannot qualify for a new loan. The seller proposes an all-inclusive trust deed (AITD). What describes an AITD?",
+      "correct_answer": "Junior loan that wraps around the senior, buyer pays seller one payment",
+      "distractors": [
+        "Buyer assumes the existing loan and pays seller the difference",
+        "Senior lender approves a new interest rate for the buyer",
+        "Buyer takes title subject to the existing loan with no seller involvement"
+      ],
+      "explanation": "An AITD (wraparound) is a junior loan that includes the face amount of the senior loan plus additional seller financing. The buyer makes one payment to the seller, who continues paying the underlying senior loan — keeping the spread as profit.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "AITD",
+        "wraparound",
+        "seller-financing",
+        "trust-deed"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.1",
+      "question_text": "Which clause in a California trust deed allows the beneficiary to sell the property at auction without going through the court system?",
+      "correct_answer": "Power of sale clause",
+      "distractors": [
+        "Acceleration clause",
+        "Due-on-sale clause",
+        "Subordination clause"
+      ],
+      "explanation": "The power of sale clause grants the trustee authority to sell the property at a public auction without court involvement. This is the legal basis for non-judicial (trustee's sale) foreclosure, the most common foreclosure method in California.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "trust-deed",
+        "power-of-sale",
+        "non-judicial",
+        "foreclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.2",
+      "question_text": "A California borrower misses three mortgage payments. The beneficiary records a Notice of Default. During the next 3 months, the borrower wants to keep her home. What must she do to reinstate the loan?",
+      "correct_answer": "Pay all past-due amounts plus costs and fees",
+      "distractors": [
+        "Pay the full loan balance plus all penalties",
+        "File a court petition for judicial review",
+        "Negotiate a loan modification with the lender within 30 days"
+      ],
+      "explanation": "California's non-judicial foreclosure allows a borrower to reinstate the loan during the 3-month period after the Notice of Default by paying all delinquent payments plus allowable costs and fees. She does not need to pay off the full balance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "reinstatement",
+        "notice-of-default",
+        "non-judicial"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.2",
+      "question_text": "After a Notice of Default is recorded in California, what is the minimum total time that must pass before a trustee's sale can occur?",
+      "correct_answer": "Approximately 4 months",
+      "distractors": [
+        "60 days",
+        "90 days",
+        "6 months"
+      ],
+      "explanation": "The California non-judicial foreclosure timeline requires a 3-month reinstatement period after the Notice of Default, then a Notice of Sale must be posted at least 21 days before the trustee's sale. The total minimum period is approximately 4 months.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "timeline",
+        "notice-of-sale",
+        "trustee-sale"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.2",
+      "question_text": "A Notice of Sale is posted in California. A borrower wants to redeem the property before the auction. Which statement is accurate?",
+      "correct_answer": "Borrower can redeem up to the day before the trustee's sale by paying arrears",
+      "distractors": [
+        "No redemption is possible after the Notice of Sale is recorded",
+        "Redemption requires full payoff only during the 21-day notice period",
+        "Court approval is needed to redeem during the notice period"
+      ],
+      "explanation": "After the Notice of Sale is posted, the right to reinstate by paying arrears typically expires 5 business days before the sale date. Before that cutoff, the borrower can still stop the sale by paying the full balance or reinstating — the exact right depends on timing, but options remain until very close to the sale.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "redemption",
+        "notice-of-sale",
+        "trustee-sale"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.2",
+      "question_text": "A trustee's sale occurs in California on a purchase-money first trust deed. The sale proceeds are $40,000 less than the loan balance. Can the lender pursue a deficiency judgment?",
+      "correct_answer": "No, anti-deficiency law bars deficiency judgments after trustee sales on purchase-money loans",
+      "distractors": [
+        "Yes, if the lender files within 3 months of the sale",
+        "Yes, because the borrower still owes the contractual amount",
+        "Only if the deficiency exceeds 10% of the original loan"
+      ],
+      "explanation": "California Code of Civil Procedure §580b prohibits deficiency judgments after a trustee's sale on purchase-money loans (loans used to purchase the property). This is a key consumer protection in California real estate law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "anti-deficiency",
+        "CCP-580b",
+        "foreclosure",
+        "deficiency-judgment"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.2",
+      "question_text": "A California seller carries back a purchase-money second trust deed. The buyer defaults. After a trustee's sale, the seller-lender has a $30,000 shortfall. Which rule applies?",
+      "correct_answer": "CCP §580b bars deficiency on seller carryback purchase-money loans",
+      "distractors": [
+        "Seller may sue buyer for the $30,000 deficiency",
+        "Deficiency is limited to $10,000 under California law",
+        "Seller can pursue deficiency only through small claims court"
+      ],
+      "explanation": "CCP §580b's anti-deficiency protection extends to seller carryback purchase-money loans, not just institutional lenders. This protects buyers who used seller financing to purchase property from personal liability after a trustee's sale.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "anti-deficiency",
+        "seller-carryback",
+        "CCP-580b",
+        "foreclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.3",
+      "question_text": "A lender chooses judicial foreclosure in California rather than a trustee's sale. What significant right does the borrower gain?",
+      "correct_answer": "A 1-year statutory right of redemption after the sale",
+      "distractors": [
+        "The right to cure by paying only 3 months of arrears",
+        "Protection from all deficiency judgments",
+        "Automatic stay for 6 months during court proceedings"
+      ],
+      "explanation": "When a lender uses judicial foreclosure instead of a trustee's sale, the borrower gains a 1-year statutory right of redemption after the sale. However, the lender also gains the ability to pursue a deficiency judgment — a significant trade-off.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "judicial-foreclosure",
+        "redemption",
+        "deficiency",
+        "foreclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.3",
+      "question_text": "After a non-judicial trustee's sale occurs in California, the former owner asks about redeeming the property. Which statement is correct?",
+      "correct_answer": "There is no right of redemption after a trustee's sale in California",
+      "distractors": [
+        "Owner has 1 year to redeem by paying the sale price plus interest",
+        "Owner has 3 months to redeem if the lender waived deficiency rights",
+        "Owner may redeem within 90 days if the property was a primary residence"
+      ],
+      "explanation": "Unlike judicial foreclosure, a non-judicial trustee's sale in California provides NO right of redemption after the sale. The sale is final once completed, and the former owner has no statutory right to reclaim the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "trustee-sale",
+        "redemption",
+        "non-judicial",
+        "foreclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.3",
+      "question_text": "A homeowner owes $500,000 and the lender agrees to a short sale for $420,000. Which outcome is most likely under California anti-deficiency law?",
+      "correct_answer": "Lender waives deficiency by accepting the short sale proceeds",
+      "distractors": [
+        "Lender can pursue the $80,000 difference in all cases",
+        "Deficiency is automatically forgiven after 2 years",
+        "Borrower owes the difference unless it was a jumbo loan"
+      ],
+      "explanation": "In a short sale, the lender agrees to accept less than the amount owed as full satisfaction of the debt. By approving the short sale and accepting proceeds, the lender typically waives the right to pursue a deficiency judgment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "short-sale",
+        "deficiency",
+        "anti-deficiency",
+        "foreclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.3",
+      "question_text": "Why do lenders in California almost always prefer non-judicial foreclosure over judicial foreclosure?",
+      "correct_answer": "Non-judicial is faster and avoids giving the borrower a redemption right",
+      "distractors": [
+        "Non-judicial allows the lender to keep all surplus sale proceeds",
+        "Judicial foreclosure is prohibited for residential properties",
+        "Non-judicial produces higher sale prices at auction"
+      ],
+      "explanation": "Lenders prefer non-judicial (trustee's sale) foreclosure because it is much faster — approximately 4 months versus years for a court action — and eliminates the borrower's 1-year right of redemption. The trade-off is losing the ability to pursue a deficiency judgment in most cases.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "non-judicial",
+        "judicial-foreclosure",
+        "lender",
+        "redemption"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-14.3",
+      "question_text": "The minimum number of days between recording a Notice of Sale and conducting the trustee's auction in California is:",
+      "correct_answer": "21 days",
+      "distractors": [
+        "10 days",
+        "30 days",
+        "45 days"
+      ],
+      "explanation": "After the Notice of Sale is recorded, posted, and mailed, California law requires a minimum of 21 days before the trustee's sale can be conducted. Combined with the 3-month Notice of Default period, the total minimum timeline is approximately 4 months.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "notice-of-sale",
+        "trustee-sale",
+        "timeline",
+        "foreclosure"
+      ]
+    }
+  ]
+}

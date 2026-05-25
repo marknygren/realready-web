@@ -1,0 +1,293 @@
+{
+  "standard_ref": "NY-04",
+  "scope": "state",
+  "state": "NY",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "NY-04.1",
+      "question_text": "What must every real estate advertisement in New York include?",
+      "correct_answer": "The name of the licensed broker",
+      "distractors": [
+        "The salesperson's personal cell phone number",
+        "The MLS listing number and property address",
+        "The property's most recent assessed tax value"
+      ],
+      "explanation": "New York law prohibits blind ads. Every real estate advertisement must identify the licensed broker responsible for the ad, regardless of the medium used.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "advertising",
+        "blind-ads",
+        "broker-identification"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.1",
+      "question_text": "A salesperson posts a listing on social media using only her team name and personal contact info. Is this compliant with NY advertising rules?",
+      "correct_answer": "No, the broker's name must also appear",
+      "distractors": [
+        "Yes, team names satisfy the identification rule",
+        "Yes, social media is exempt from print ad rules",
+        "No, team names are prohibited in all ads"
+      ],
+      "explanation": "While team names are allowed in New York advertising, the licensed broker's name must always appear alongside. Social media ads follow the same rules as print advertising.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "advertising",
+        "social-media",
+        "team-names"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.1",
+      "question_text": "Under the NYC FARE Act effective June 2025, who is responsible for paying the broker's commission?",
+      "correct_answer": "The party who hired the broker",
+      "distractors": [
+        "The buyer in every residential transaction",
+        "The seller regardless of who hired the broker",
+        "Both parties split the commission equally"
+      ],
+      "explanation": "The NYC FARE Act, effective June 2025, establishes that the party who hires the broker pays the commission. This shifts away from the traditional model where sellers typically paid all broker fees.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "FARE-Act",
+        "commission",
+        "NYC"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.1",
+      "question_text": "A broker creates a print ad that mentions a property in a predominantly minority neighborhood and includes the phrase 'ideal for young professionals.' Which concern does this raise?",
+      "correct_answer": "Potential fair housing violation through steering",
+      "distractors": [
+        "Failure to include the listing price in the ad",
+        "Missing the required MLS cooperation statement",
+        "Violation of the blind ad prohibition rule"
+      ],
+      "explanation": "All advertising must comply with fair housing laws. Language that targets or excludes groups based on protected characteristics, such as familial status or race, can constitute illegal steering even if unintentional.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "advertising",
+        "fair-housing",
+        "steering"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.1",
+      "question_text": "How do New York advertising rules for internet listings compare to print advertising rules?",
+      "correct_answer": "The same rules apply to both media",
+      "distractors": [
+        "Internet ads require additional DOS approval",
+        "Print ads have stricter disclosure requirements",
+        "Internet ads are exempt from broker identification"
+      ],
+      "explanation": "New York applies the same advertising regulations regardless of medium. Internet and social media advertisements must meet all the same requirements as traditional print advertising, including broker identification and fair housing compliance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "advertising",
+        "internet",
+        "media-parity"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.2",
+      "question_text": "What is the most critical factor in determining whether a salesperson is an independent contractor or employee in New York?",
+      "correct_answer": "The degree of control the broker exercises",
+      "distractors": [
+        "Whether the salesperson works full-time or part-time",
+        "The existence of a written IC agreement alone",
+        "Whether the salesperson has a private office"
+      ],
+      "explanation": "Courts apply a substance-over-form test. The actual degree of control the broker exercises over the salesperson's work methods determines status, not just the written agreement. A written IC agreement will not overcome evidence of actual employer control.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "independent-contractor",
+        "employee",
+        "control-test"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.2",
+      "question_text": "A broker requires all agents to work set hours, attend mandatory daily meetings, and uses a time clock. The written agreement says 'independent contractor.' What is the likely classification?",
+      "correct_answer": "Employee, because actual control overrides the contract",
+      "distractors": [
+        "Independent contractor per the written agreement",
+        "Statutory employee exempt from withholding",
+        "Independent contractor if paid by commission only"
+      ],
+      "explanation": "Under IRC Section 3508 and NY labor law, substance prevails over form. When a broker directs and controls the manner of work through set hours, mandatory meetings, and time clocks, the salesperson is an employee regardless of what the contract states.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "independent-contractor",
+        "substance-over-form",
+        "IRC-3508"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.2",
+      "question_text": "If a salesperson classified as an independent contractor is reclassified as an employee, which obligation falls on the broker?",
+      "correct_answer": "Unemployment insurance and workers' compensation",
+      "distractors": [
+        "Paying the salesperson a guaranteed salary",
+        "Providing a company vehicle for showings",
+        "Reimbursing all past marketing expenses"
+      ],
+      "explanation": "When a salesperson is reclassified as an employee, the broker becomes liable for unemployment insurance, workers' compensation, and income tax withholding. This can result in significant back-tax liability and penalties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "independent-contractor",
+        "reclassification",
+        "broker-liability"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.2",
+      "question_text": "Under IRC Section 3508, which condition supports independent contractor status for a real estate salesperson?",
+      "correct_answer": "Compensation is based on sales output, not hours",
+      "distractors": [
+        "The broker provides all marketing materials",
+        "The salesperson works exclusively for one broker",
+        "The broker assigns specific territories to each agent"
+      ],
+      "explanation": "IRC Section 3508 provides that a licensed real estate agent qualifies as an independent contractor if substantially all compensation is based on sales or output rather than hours worked, and there is a written IC agreement in place.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "IRC-3508",
+        "independent-contractor",
+        "compensation"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.2",
+      "question_text": "What type of written document is required between a broker and an independent contractor salesperson in New York?",
+      "correct_answer": "A written independent contractor agreement",
+      "distractors": [
+        "A DOS-approved employment contract",
+        "A notarized partnership agreement",
+        "An oral agreement witnessed by two licensees"
+      ],
+      "explanation": "New York requires a written independent contractor agreement between broker and salesperson. While necessary, this document alone does not guarantee IC status; the actual working relationship must also reflect independent contractor characteristics.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "independent-contractor",
+        "written-agreement",
+        "broker-salesperson"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.3",
+      "question_text": "In New York, what license is required to manage real property for compensation?",
+      "correct_answer": "A real estate broker's license",
+      "distractors": [
+        "A separate property management certificate",
+        "A salesperson's license with a management endorsement",
+        "No license if managing fewer than four units"
+      ],
+      "explanation": "New York requires anyone who manages property for compensation to hold a real estate license. Property management for pay is considered a real estate activity, and the manager acts as a general agent of the property owner.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "property-management",
+        "licensing",
+        "general-agent"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.3",
+      "question_text": "What type of agency relationship does a property manager have with the property owner?",
+      "correct_answer": "General agent",
+      "distractors": [
+        "Special agent",
+        "Universal agent",
+        "Subagent of the listing broker"
+      ],
+      "explanation": "A property manager is a general agent of the property owner, authorized to perform a range of ongoing acts related to the management of the property. This is broader than a special agent, who handles only a single transaction.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "property-management",
+        "general-agent",
+        "agency-types"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.3",
+      "question_text": "A salesperson is holding an open house alone in a vacant property. Which safety practice is most important?",
+      "correct_answer": "Have an escape route and tell someone your location",
+      "distractors": [
+        "Keep all exterior doors securely locked during the entire open house",
+        "Only allow pre-approved and pre-screened buyers to enter the property",
+        "Carry personal defense tools and pepper spray at all times"
+      ],
+      "explanation": "Licensee safety at open houses and vacant properties is a recognized concern. Best practices include always informing someone of your whereabouts, having a clear exit route, and avoiding being cornered in isolated areas of a property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "licensee-safety",
+        "open-house",
+        "best-practices"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.3",
+      "question_text": "A property manager stores tenant Social Security numbers on an unencrypted laptop that is stolen. What area of liability does this implicate?",
+      "correct_answer": "Cybersecurity and client information protection",
+      "distractors": [
+        "Fair housing discrimination in tenant screening",
+        "Commingling of client escrow funds",
+        "Unauthorized practice of real estate law"
+      ],
+      "explanation": "Property managers have a duty to protect client and tenant personal information. Storing sensitive data like Social Security numbers without proper cybersecurity measures creates liability for data breaches and violates information protection obligations.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "cybersecurity",
+        "client-info-protection",
+        "property-management"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-04.3",
+      "question_text": "Which document establishes the relationship between a property owner and property manager?",
+      "correct_answer": "A property management agreement",
+      "distractors": [
+        "A listing agreement with the local MLS",
+        "A tenant lease signed by the manager",
+        "A DOS registration of agency form"
+      ],
+      "explanation": "The property management agreement is a contract that defines the duties, authority, compensation, and responsibilities between the property owner and the manager. It establishes the general agency relationship and protects both parties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "property-management",
+        "management-agreement",
+        "contract"
+      ]
+    }
+  ]
+}

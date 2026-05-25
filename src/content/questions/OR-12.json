@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OR-12",
+  "scope": "state",
+  "state": "OR",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OR-12.1",
+      "question_text": "In an Oregon trust deed, what role does the borrower hold?",
+      "correct_answer": "Grantor",
+      "distractors": ["Beneficiary", "Trustee", "Mortgagee"],
+      "explanation": "In Oregon's trust deed structure, the borrower is the grantor who conveys bare legal title to the trustee. The lender is the beneficiary, and the trustee is a neutral third party.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust deed", "grantor", "parties"]
+    },
+    {
+      "key_topic_ref": "OR-12.1",
+      "question_text": "Which Oregon statutes govern trust deed transactions?",
+      "correct_answer": "ORS 86.705 through 86.795",
+      "distractors": ["ORS 90.100 through 90.450", "ORS 696.010 through 696.490", "ORS 93.710 through 93.810"],
+      "explanation": "Oregon trust deeds are governed by ORS 86.705-86.795, known as the Oregon Trust Deed Act. These statutes establish the requirements for creation, enforcement, and foreclosure of trust deeds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust deed", "ORS 86", "statute"]
+    },
+    {
+      "key_topic_ref": "OR-12.1",
+      "question_text": "A lender wants to secure a residential loan in Oregon. Which instrument is most commonly used?",
+      "correct_answer": "A trust deed with a neutral trustee",
+      "distractors": ["A standard two-party mortgage", "A land sale contract", "A deed of reconveyance"],
+      "explanation": "Oregon primarily uses trust deeds rather than mortgages to secure real property loans. The trust deed involves three parties: the grantor (borrower), the beneficiary (lender), and a neutral trustee.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust deed", "security instrument", "Oregon"]
+    },
+    {
+      "key_topic_ref": "OR-12.1",
+      "question_text": "What is the trustee's primary function in an Oregon trust deed?",
+      "correct_answer": "Hold bare legal title as a neutral party",
+      "distractors": ["Represent the borrower in negotiations", "Guarantee the loan repayment", "Set the interest rate on the loan"],
+      "explanation": "The trustee in an Oregon trust deed is a neutral third party who holds bare legal title to the property. If the borrower defaults, the trustee has the power to conduct a non-judicial foreclosure sale.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trustee", "trust deed", "role"]
+    },
+    {
+      "key_topic_ref": "OR-12.1",
+      "question_text": "Why does Oregon's use of trust deeds benefit lenders compared to states that use mortgages?",
+      "correct_answer": "Trust deeds allow faster non-judicial foreclosure",
+      "distractors": ["Trust deeds eliminate the need for title insurance", "Trust deeds automatically prevent deficiency claims", "Trust deeds guarantee higher interest rates"],
+      "explanation": "Trust deeds benefit lenders because the power-of-sale clause allows the trustee to conduct a non-judicial foreclosure, which is significantly faster and less expensive than the judicial foreclosure required with mortgages.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust deed", "lender advantage", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "OR-12.2",
+      "question_text": "What is the minimum time between recording a Notice of Default and conducting a trustee's sale in Oregon?",
+      "correct_answer": "120 days",
+      "distractors": ["30 days", "60 days", "90 days"],
+      "explanation": "Oregon law requires a minimum of 120 days between recording the Notice of Default and the trustee's sale. In practice, the total process typically takes 5-6 months from start to finish.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "notice of default", "timeline"]
+    },
+    {
+      "key_topic_ref": "OR-12.2",
+      "question_text": "A borrower in Oregon is behind on payments. The trustee's sale is scheduled in 10 days. Can the borrower cure the default?",
+      "correct_answer": "Yes, by paying the delinquent amount within 5 days",
+      "distractors": ["No, the right to cure expired at the sale notice", "Yes, but only by paying the full loan balance", "Yes, up to the day of the sale"],
+      "explanation": "In Oregon, the borrower has the right to cure the default by paying the delinquent amount (not the full balance) up to 5 days before the scheduled trustee's sale date. With 10 days remaining, this borrower still has time to cure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["right to cure", "foreclosure", "borrower rights"]
+    },
+    {
+      "key_topic_ref": "OR-12.2",
+      "question_text": "After a non-judicial trustee's sale in Oregon, what redemption rights does the former borrower have?",
+      "correct_answer": "None; there is no post-sale redemption right",
+      "distractors": ["Six months to redeem the property", "One year to redeem at the sale price", "90 days to match the winning bid"],
+      "explanation": "Oregon provides NO right of redemption after a non-judicial trustee's sale. Once the sale is completed, the borrower's ownership interest is permanently extinguished. This finality is a key feature of the trust deed system.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["redemption", "trustee sale", "borrower rights"]
+    },
+    {
+      "key_topic_ref": "OR-12.2",
+      "question_text": "An Oregon borrower defaults and receives a Notice of Default. The sale is set for August 15. What is the last day the borrower can cure by paying the delinquent amount?",
+      "correct_answer": "August 10",
+      "distractors": ["August 14", "August 1", "July 15"],
+      "explanation": "Oregon law allows the borrower to cure the default by paying the delinquent amount up to 5 days before the sale date. With a sale on August 15, the last day to cure is August 10.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["right to cure", "deadline", "calculation"]
+    },
+    {
+      "key_topic_ref": "OR-12.2",
+      "question_text": "How does Oregon's non-judicial foreclosure process typically begin?",
+      "correct_answer": "Recording and serving a Notice of Default",
+      "distractors": ["Filing a complaint in circuit court", "Publishing notice in a local newspaper", "Sending a demand letter to the borrower"],
+      "explanation": "Non-judicial foreclosure in Oregon begins when the trustee records a Notice of Default and serves it on the borrower. This triggers the minimum 120-day waiting period before the trustee's sale can occur.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["notice of default", "foreclosure process", "initiation"]
+    },
+    {
+      "key_topic_ref": "OR-12.3",
+      "question_text": "A lender forecloses non-judicially on a borrower's primary residence secured by a trust deed. The sale proceeds fall $40,000 short. Can the lender recover this amount?",
+      "correct_answer": "No, deficiency judgments are prohibited here",
+      "distractors": ["Yes, through a separate court action", "Yes, if filed within 90 days of the sale", "Yes, but only up to $25,000"],
+      "explanation": "Oregon prohibits deficiency judgments after non-judicial foreclosure of residential trust deeds (1-4 units) that are the borrower's principal residence or involve purchase money. The lender absorbs the $40,000 shortfall.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deficiency judgment", "non-judicial", "residential"]
+    },
+    {
+      "key_topic_ref": "OR-12.3",
+      "question_text": "Under what circumstances can an Oregon lender obtain a deficiency judgment after foreclosure?",
+      "correct_answer": "Through judicial foreclosure proceedings",
+      "distractors": ["After any trust deed foreclosure", "Only on commercial properties over $1 million", "Never; Oregon bans all deficiency judgments"],
+      "explanation": "Deficiency judgments are permitted in Oregon only through judicial foreclosure. Non-judicial foreclosure of residential trust deeds bars deficiency recovery. Lenders seeking a deficiency must use the slower, more expensive court process.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deficiency judgment", "judicial foreclosure", "lender options"]
+    },
+    {
+      "key_topic_ref": "OR-12.3",
+      "question_text": "How long is the typical redemption period after a judicial foreclosure in Oregon?",
+      "correct_answer": "180 days",
+      "distractors": ["30 days", "365 days", "No redemption period exists"],
+      "explanation": "Judicial foreclosure in Oregon provides the borrower a right of redemption, typically 180 days. This is one reason lenders prefer non-judicial foreclosure, which has no post-sale redemption period.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["judicial foreclosure", "redemption period", "180 days"]
+    },
+    {
+      "key_topic_ref": "OR-12.3",
+      "question_text": "A borrower owes $300,000 but the home is worth $250,000. The lender agrees to a short sale at $250,000. What must happen for this sale to close?",
+      "correct_answer": "The lender must approve accepting less than owed",
+      "distractors": ["The court must order the reduced sale price", "The borrower must file for bankruptcy first", "The trustee must waive all foreclosure rights"],
+      "explanation": "A short sale requires lender approval because the sale price is less than the outstanding loan balance. The seller negotiates with the lender to accept the reduced amount. No court involvement or bankruptcy is required.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["short sale", "lender approval", "underwater"]
+    },
+    {
+      "key_topic_ref": "OR-12.3",
+      "question_text": "A lender is deciding between judicial and non-judicial foreclosure on a borrower's primary residence in Oregon. What trade-off should the lender consider?",
+      "correct_answer": "Judicial is slower but allows a deficiency judgment",
+      "distractors": ["Non-judicial allows deficiency on residential property", "Judicial is faster but has no redemption period", "Both methods prohibit deficiency judgments equally"],
+      "explanation": "The key trade-off is that judicial foreclosure is slower and more expensive but preserves the right to seek a deficiency judgment. Non-judicial foreclosure is faster with no redemption period, but bars deficiency recovery on residential trust deeds.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["judicial vs non-judicial", "deficiency", "strategy"]
+    }
+  ]
+}

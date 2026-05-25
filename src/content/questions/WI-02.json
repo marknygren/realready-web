@@ -1,0 +1,228 @@
+{
+  "standard_ref": "WI-02",
+  "scope": "state",
+  "state": "WI",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "WI-02.1",
+      "question_text": "How many hours of pre-license education does Wisconsin require for a salesperson license?",
+      "correct_answer": "72 hours",
+      "distractors": ["60 hours", "90 hours", "120 hours"],
+      "explanation": "Wisconsin requires 72 hours of REEB-approved pre-license education for salesperson licensure. Alternatively, candidates may complete 10 semester-hour credits in real estate or real estate law from an accredited institution.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "education", "hours"]
+    },
+    {
+      "key_topic_ref": "WI-02.1",
+      "question_text": "A candidate completed 10 semester credits in real estate law at a university 5 years ago. Can they use these credits for licensure?",
+      "correct_answer": "No, credits must be completed within 4 years",
+      "distractors": ["Yes, university credits never expire", "Yes, if the school is REEB-approved", "No, only 72-hour courses are accepted"],
+      "explanation": "The alternative education path (10 semester credits) must be completed within 4 years of applying for a license. Credits older than 4 years do not satisfy the requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["pre-license", "education", "credits"]
+    },
+    {
+      "key_topic_ref": "WI-02.1",
+      "question_text": "What is the alternative to completing 72 hours of REEB-approved pre-license education?",
+      "correct_answer": "10 semester credits in real estate or real estate law",
+      "distractors": ["A bachelor's degree in any field", "5 years of real estate work experience", "Passing the exam without coursework"],
+      "explanation": "Wisconsin offers two paths: 72 hours of REEB-approved courses OR 10 semester-hour credits from an accredited institution in real estate or real estate law. Both must be completed within 4 years of application.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "education", "alternative"]
+    },
+    {
+      "key_topic_ref": "WI-02.1",
+      "question_text": "Within how many years of applying must a candidate complete their pre-license education?",
+      "correct_answer": "4 years",
+      "distractors": ["2 years", "3 years", "5 years"],
+      "explanation": "Both the 72-hour course and the 10-semester-credit alternative must be completed within 4 years of submitting the license application to DSPS.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "education", "timeline"]
+    },
+    {
+      "key_topic_ref": "WI-02.1",
+      "question_text": "Which topic is NOT typically covered in Wisconsin's 72-hour pre-license curriculum?",
+      "correct_answer": "Commercial investment analysis",
+      "distractors": ["Wisconsin fair housing law", "Real estate contract practices", "Property valuation methods"],
+      "explanation": "The pre-license curriculum covers real estate law, property ownership, land description, title transfer, agency, contracts, financing, valuation, fair housing, environmental law, closings, and Wisconsin statutes. Commercial investment analysis is not a standard pre-license topic.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["pre-license", "curriculum", "topics"]
+    },
+    {
+      "key_topic_ref": "WI-02.2",
+      "question_text": "What is the minimum age to obtain a Wisconsin real estate salesperson license?",
+      "correct_answer": "18 years old",
+      "distractors": ["19 years old", "21 years old", "16 years old"],
+      "explanation": "Wisconsin requires salesperson license applicants to be at least 18 years old. They must also have a high school diploma or GED and pass a background check.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eligibility", "age", "requirements"]
+    },
+    {
+      "key_topic_ref": "WI-02.2",
+      "question_text": "A license candidate has completed pre-license education. What exam must they pass?",
+      "correct_answer": "The Pearson VUE salesperson examination",
+      "distractors": ["The REEB written competency test", "The DSPS oral examination", "The National Association of REALTORS exam"],
+      "explanation": "Wisconsin contracts with Pearson VUE to develop and administer the real estate licensing examination. Candidates must achieve 75% on both the national and state portions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "Pearson VUE", "requirements"]
+    },
+    {
+      "key_topic_ref": "WI-02.2",
+      "question_text": "An applicant with a criminal record applies for a salesperson license. Which statement is correct?",
+      "correct_answer": "Only crimes substantially related to real estate may affect eligibility",
+      "distractors": ["Any criminal conviction is an automatic disqualifier", "Criminal history is not considered at all", "Only felonies within the last 5 years matter"],
+      "explanation": "Wisconsin considers whether the conviction is substantially related to real estate practice. A background check is required, but not all convictions automatically disqualify an applicant.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eligibility", "background check", "criminal"]
+    },
+    {
+      "key_topic_ref": "WI-02.2",
+      "question_text": "What passing score is required on each portion of the Wisconsin salesperson exam?",
+      "correct_answer": "75% on each portion",
+      "distractors": ["70% on each portion", "80% on each portion", "75% combined, no separate scores"],
+      "explanation": "Wisconsin requires a 75% passing score on both the national and state portions of the exam. The two portions are scored separately, and candidates must pass both to earn their license.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "passing score", "requirements"]
+    },
+    {
+      "key_topic_ref": "WI-02.2",
+      "question_text": "Which of the following is required for a Wisconsin salesperson license?",
+      "correct_answer": "High school diploma or GED",
+      "distractors": ["Associate degree in business", "Two years of sales experience", "Sponsorship from a current licensee"],
+      "explanation": "Wisconsin requires a high school diploma or GED, being at least 18, U.S. citizen or lawful permanent resident status, completion of pre-license education, passing the exam, and a background check.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eligibility", "education", "diploma"]
+    },
+    {
+      "key_topic_ref": "WI-02.3",
+      "question_text": "How many total hours of continuing education must Wisconsin licensees complete per biennium?",
+      "correct_answer": "18 hours",
+      "distractors": ["12 hours", "24 hours", "15 hours"],
+      "explanation": "Wisconsin requires 18 hours of CE per two-year licensing period: 12 hours of mandatory courses plus 6 hours of elective courses. Electives must be Wisconsin-specific.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "continuing education", "hours"]
+    },
+    {
+      "key_topic_ref": "WI-02.3",
+      "question_text": "Of the 18 CE hours required, how many must be mandatory versus elective courses?",
+      "correct_answer": "12 mandatory and 6 elective",
+      "distractors": ["9 mandatory and 9 elective", "15 mandatory and 3 elective", "6 mandatory and 12 elective"],
+      "explanation": "The 18-hour CE requirement breaks down into 12 mandatory hours and 6 elective hours. Elective courses must be Wisconsin-specific, covering WI forms, law, or administrative code.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "mandatory", "elective"]
+    },
+    {
+      "key_topic_ref": "WI-02.3",
+      "question_text": "A salesperson takes an elective CE course on general negotiation skills with no Wisconsin content. Does this satisfy the elective requirement?",
+      "correct_answer": "No, electives must be Wisconsin-specific",
+      "distractors": ["Yes, any REEB-approved course qualifies", "Yes, if the course is at least 3 hours", "No, electives can only cover fair housing"],
+      "explanation": "Wisconsin CE electives must include instruction on Wisconsin forms, Wisconsin law, Wisconsin administrative code, or a combination of these topics. A generic negotiation course would not qualify.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["CE", "elective", "Wisconsin-specific"]
+    },
+    {
+      "key_topic_ref": "WI-02.3",
+      "question_text": "A salesperson obtains their license on November 1 of an even-numbered year. Must they complete CE for that biennium?",
+      "correct_answer": "No, they are exempt for that biennium",
+      "distractors": ["Yes, they must complete all 18 hours", "Yes, but only 9 hours are required", "No, but they must complete 6 elective hours"],
+      "explanation": "A salesperson licensed after October 1 of the even year of the biennium is exempt from CE for that biennium. Their first CE requirement begins the following biennium.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["CE", "exemption", "new licensee"]
+    },
+    {
+      "key_topic_ref": "WI-02.3",
+      "question_text": "What is the renewal deadline for Wisconsin real estate licenses?",
+      "correct_answer": "December 14 of even-numbered years",
+      "distractors": ["June 30 of even-numbered years", "December 31 of odd-numbered years", "March 1 of each year"],
+      "explanation": "Wisconsin real estate licenses expire on December 14 of even-numbered years. The next renewal deadline is December 14, 2026. All 18 CE hours must be completed before this date.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["renewal", "deadline", "biennial"]
+    },
+    {
+      "key_topic_ref": "WI-02.4",
+      "question_text": "A licensed salesperson wants to open their own real estate firm. What additional license type is required?",
+      "correct_answer": "A broker license and a firm license",
+      "distractors": ["Only a firm license is needed", "Only a broker license is needed", "A managing agent license from DSPS"],
+      "explanation": "To operate a real estate firm in Wisconsin, the individual needs both a broker license (requiring additional education and 2 years of salesperson experience) and a separate firm license for the business entity.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["license types", "broker", "firm"]
+    },
+    {
+      "key_topic_ref": "WI-02.4",
+      "question_text": "How much is the biennial license renewal fee for a Wisconsin real estate salesperson?",
+      "correct_answer": "$60",
+      "distractors": ["$45", "$75", "$100"],
+      "explanation": "The biennial renewal fee for a Wisconsin real estate license is $60. A $25 late fee applies if the renewal is submitted after the December 14 deadline.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["renewal", "fees", "cost"]
+    },
+    {
+      "key_topic_ref": "WI-02.4",
+      "question_text": "To qualify for a broker license, how many years of salesperson experience are required?",
+      "correct_answer": "2 years within the prior 5 years",
+      "distractors": ["1 year within the prior 3 years", "3 years within the prior 7 years", "5 years of total experience"],
+      "explanation": "A broker license requires at least 2 years of full-time salesperson experience within the prior 5 years, plus additional REEB-approved education beyond the salesperson level and passing the broker exam.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "experience", "requirements"]
+    },
+    {
+      "key_topic_ref": "WI-02.4",
+      "question_text": "A salesperson fails to renew by December 14. What must they do to continue practicing?",
+      "correct_answer": "Renew late with the standard fee plus a $25 late fee",
+      "distractors": ["Retake the licensing exam before renewal", "Complete an additional 18 hours of CE courses", "Reapply as a new licensee from scratch"],
+      "explanation": "Late renewals require the standard $60 fee plus a $25 late fee ($85 total). The license can be renewed late without retaking the exam, but the licensee should not practice while the license is expired.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["renewal", "late fee", "reinstatement"]
+    },
+    {
+      "key_topic_ref": "WI-02.4",
+      "question_text": "A salesperson submits their renewal 10 days after the December 14 deadline. What additional cost applies?",
+      "correct_answer": "$25 late fee",
+      "distractors": ["$50 late fee", "$10 late fee", "No additional fee for late renewal"],
+      "explanation": "Late renewals incur a $25 fee in addition to the standard $60 renewal fee, making the total $85. Licensees should renew before December 14 of even-numbered years to avoid this penalty.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["renewal", "late fee", "deadline"]
+    }
+  ]
+}

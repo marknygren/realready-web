@@ -1,0 +1,173 @@
+{
+  "standard_ref": "VA-08",
+  "scope": "state",
+  "state": "VA",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "VA-08.1",
+      "question_text": "In Virginia, from whom must a salesperson receive all compensation?",
+      "correct_answer": "Their own principal broker",
+      "distractors": ["The client who hired them", "The cooperating broker directly", "The title company at closing"],
+      "explanation": "Virginia law requires that salespersons receive compensation only from their own principal (supervising) broker. They may never accept payment directly from a client, customer, or another broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["compensation", "principal-broker", "salesperson"]
+    },
+    {
+      "key_topic_ref": "VA-08.1",
+      "question_text": "Agent Davis closes a sale and the grateful seller offers a $500 bonus directly. What should Davis do?",
+      "correct_answer": "Decline and direct payment through the broker",
+      "distractors": ["Accept it as a personal gift", "Accept if under $1,000 in value", "Accept and report it on taxes only"],
+      "explanation": "A salesperson must never accept compensation directly from a client or any party other than their own principal broker. Davis must decline and have any bonus routed through the brokerage.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["compensation", "direct-payment", "prohibited"]
+    },
+    {
+      "key_topic_ref": "VA-08.1",
+      "question_text": "Who bears responsibility for supervising the actions of both licensed and unlicensed staff at a Virginia brokerage?",
+      "correct_answer": "The principal broker",
+      "distractors": ["Each individual salesperson", "The Virginia Real Estate Board", "The office manager only"],
+      "explanation": "The principal broker is responsible for supervising all licensees and unlicensed assistants working under the brokerage. This includes ensuring compliance with Virginia real estate laws and regulations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["supervision", "principal-broker", "responsibility"]
+    },
+    {
+      "key_topic_ref": "VA-08.1",
+      "question_text": "Broker Allen wants to pay a referral fee to an out-of-state agent who sent a relocating buyer. What requirement must be met?",
+      "correct_answer": "The agent must hold an active license",
+      "distractors": ["The agent must be a Virginia licensee", "No referral fees are permitted", "The buyer must consent in writing"],
+      "explanation": "Referral fees may only be paid to actively licensed brokers. The referring agent does not need to be licensed in Virginia specifically, but must hold a valid real estate license in their jurisdiction.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["referral-fees", "licensed-brokers", "compensation"]
+    },
+    {
+      "key_topic_ref": "VA-08.1",
+      "question_text": "Are real estate commission rates in Virginia set by law or regulation?",
+      "correct_answer": "No, they are fully negotiable",
+      "distractors": ["Yes, the REB sets maximum rates", "Yes, they are capped at 6 percent", "Only for residential transactions"],
+      "explanation": "Commission rates in Virginia are always negotiable between the broker and client. No law, regulation, or real estate board sets or caps commission rates. Suggesting otherwise could constitute an antitrust violation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commission", "negotiable", "rates"]
+    },
+    {
+      "key_topic_ref": "VA-08.2",
+      "question_text": "A salesperson classified as an independent contractor receives which tax form from the brokerage?",
+      "correct_answer": "IRS Form 1099",
+      "distractors": ["IRS Form W-2", "IRS Form W-4", "IRS Form 1098"],
+      "explanation": "Independent contractors receive a 1099-NEC for income reporting, while employees receive a W-2. The tax form reflects the classification agreed upon between the broker and salesperson.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["independent-contractor", "1099", "tax"]
+    },
+    {
+      "key_topic_ref": "VA-08.2",
+      "question_text": "A broker classifies an agent as an independent contractor. Does this reduce the broker's regulatory supervision duties?",
+      "correct_answer": "No, supervision duties remain the same",
+      "distractors": ["Yes, IC status removes all oversight", "Yes, only tax duties remain", "Only if stated in the IC agreement"],
+      "explanation": "Regardless of whether a salesperson is classified as an employee or independent contractor, the principal broker's regulatory duties of supervision remain unchanged under Virginia real estate law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["independent-contractor", "supervision", "regulatory"]
+    },
+    {
+      "key_topic_ref": "VA-08.2",
+      "question_text": "Which factor is most relevant to the IRS when determining independent contractor status for a real estate agent?",
+      "correct_answer": "Degree of control over work methods",
+      "distractors": ["The agent's years of experience", "Whether the agent works full-time", "The size of the brokerage firm"],
+      "explanation": "The IRS primarily looks at the degree of control the broker exercises over how the agent performs work. Independent contractors control their own methods, hours, and business expenses.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["independent-contractor", "IRS", "classification"]
+    },
+    {
+      "key_topic_ref": "VA-08.2",
+      "question_text": "Agent Chen is an employee of a brokerage and receives a W-2. Compared to an IC agent, what additional benefit might Chen receive?",
+      "correct_answer": "Employer-provided benefits like insurance",
+      "distractors": ["Higher commission split percentages", "Exemption from licensing requirements", "Reduced supervision by the broker"],
+      "explanation": "Employee-status agents may receive employer-provided benefits such as health insurance, retirement plans, and paid leave. Independent contractors typically do not receive these benefits but may have more flexibility.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["employee", "W-2", "benefits"]
+    },
+    {
+      "key_topic_ref": "VA-08.2",
+      "question_text": "A written agreement states an agent is an independent contractor, but the broker dictates daily hours and provides all supplies. How would the IRS likely classify this agent?",
+      "correct_answer": "As an employee based on actual control",
+      "distractors": ["As an IC based on the agreement", "As neither until audited", "As an IC if licensed in Virginia"],
+      "explanation": "The IRS looks beyond written agreements to the actual working relationship. If the broker controls work hours and provides supplies, the agent is likely an employee regardless of what the contract says.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["independent-contractor", "employee", "IRS-criteria"]
+    },
+    {
+      "key_topic_ref": "VA-08.3",
+      "question_text": "A grateful client gives an unlicensed office assistant a $200 check for recommending a buyer. What violation occurred?",
+      "correct_answer": "Paying an unlicensed person for a referral",
+      "distractors": ["Accepting compensation above market rate", "Failing to disclose the payment to DPOR", "No violation if the amount is under $500"],
+      "explanation": "Virginia prohibits paying referral fees to unlicensed individuals. Only actively licensed brokers may receive referral compensation. The office assistant would need a real estate license to legally accept this payment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["referral-fees", "unlicensed-persons", "prohibited"]
+    },
+    {
+      "key_topic_ref": "VA-08.3",
+      "question_text": "Agent Rivera's listing sells. The cooperating buyer's broker sends a commission check directly to Rivera. What should Rivera do?",
+      "correct_answer": "Return it and have payment sent to her broker",
+      "distractors": ["Deposit it and report the income separately", "Accept it if the amount matches the MLS offer", "Hold it in escrow until closing is confirmed"],
+      "explanation": "Virginia salespersons may only receive compensation from their own principal broker. Rivera must return the check and have the cooperating broker route the payment through her own brokerage.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["compensation", "principal-broker", "prohibited"]
+    },
+    {
+      "key_topic_ref": "VA-08.3",
+      "question_text": "A seller offers to pay a 2% commission. The listing broker counters with 3%. Under Virginia law, which statement is correct?",
+      "correct_answer": "Commission rates are always negotiable",
+      "distractors": ["The Board sets minimum commission rates", "Standard rates are published by the MLS", "Brokers must charge at least 2.5%"],
+      "explanation": "Virginia law requires that commission rates be independently set and negotiated between the broker and client. No law, board, association, or MLS may set, suggest, or cap commission rates.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commission", "negotiable", "rates"]
+    },
+    {
+      "key_topic_ref": "VA-08.3",
+      "question_text": "A principal broker discovers that a salesperson posted a property ad on social media without broker review. What is the broker's liability?",
+      "correct_answer": "The broker is responsible for all firm advertising",
+      "distractors": ["Only the salesperson faces discipline", "No violation if the ad content is accurate", "Social media posts are exempt from oversight"],
+      "explanation": "In Virginia, the principal broker must supervise all advertising by licensees at the firm, including social media. Failure to oversee advertising is a violation of the broker's supervisory responsibilities.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["supervision", "advertising", "principal-broker"]
+    },
+    {
+      "key_topic_ref": "VA-08.3",
+      "question_text": "A Virginia brokerage pays a $500 bonus to a neighboring homeowner for every buyer referral that closes. Is this permitted?",
+      "correct_answer": "No, unlicensed persons cannot receive referrals",
+      "distractors": ["Yes, if the bonus amount is under $1,000", "Yes, homeowner-to-homeowner referrals are exempt", "Only with the buyer's prior written consent"],
+      "explanation": "Virginia law prohibits paying referral fees to anyone without an active real estate license. The homeowner would need to hold a real estate license to legally receive compensation for referring buyers to the brokerage.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["referral-fees", "unlicensed-persons", "compensation"]
+    }
+  ]
+}

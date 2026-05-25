@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ID-15",
+  "scope": "state",
+  "state": "ID",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "ID-15.1",
+      "question_text": "What water rights doctrine does Idaho follow?",
+      "correct_answer": "Prior appropriation",
+      "distractors": ["Riparian rights", "Correlative rights", "Reasonable use doctrine"],
+      "explanation": "Idaho follows the prior appropriation doctrine ('first in time, first in right'), established in the Idaho Constitution, Article XV. Water rights are based on priority of use, not proximity to water.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water rights", "prior appropriation"]
+    },
+    {
+      "key_topic_ref": "ID-15.1",
+      "question_text": "Does owning land in Idaho automatically grant the owner water rights?",
+      "correct_answer": "No, water rights are separate from land ownership",
+      "distractors": ["Yes, all land includes water rights", "Yes, for surface water only", "Only for properties bordering a river"],
+      "explanation": "In Idaho, water rights are separate from land ownership. Owning property near or on a waterway does not automatically convey water rights — they must be separately established through appropriation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water rights", "separate from land"]
+    },
+    {
+      "key_topic_ref": "ID-15.1",
+      "question_text": "During a drought, two farmers have competing water rights. Who gets priority?",
+      "correct_answer": "The farmer with the earlier priority date",
+      "distractors": ["The farmer with more acreage", "They share equally", "The farmer closer to the water source"],
+      "explanation": "Under prior appropriation, the priority date determines allocation during shortages. 'First in time, first in right' means the holder with the earlier (senior) priority date takes their full allocation before junior rights holders.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water rights", "priority date", "shortage"]
+    },
+    {
+      "key_topic_ref": "ID-15.1",
+      "question_text": "A water right holder has not used their water right for 6 years. What has likely occurred?",
+      "correct_answer": "Forfeiture due to 5 years of non-use",
+      "distractors": ["Automatic renewal for another 5 years", "Transfer to the state water bank", "No effect — rights never expire"],
+      "explanation": "In Idaho, a water right can be lost through forfeiture after 5 consecutive years of non-use. After 6 years of non-use, the right has likely been forfeited. Abandonment requires intent to permanently cease use.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water rights", "forfeiture", "5 years"]
+    },
+    {
+      "key_topic_ref": "ID-15.1",
+      "question_text": "Which state agency administers water rights in Idaho?",
+      "correct_answer": "Idaho Department of Water Resources (IDWR)",
+      "distractors": ["Idaho Department of Environmental Quality", "Idaho Real Estate Commission", "Idaho Department of Lands"],
+      "explanation": "The Idaho Department of Water Resources (IDWR) administers water rights, including processing applications for new water rights, adjudicating existing rights, and enforcing priority during shortages.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water rights", "IDWR", "administration"]
+    },
+    {
+      "key_topic_ref": "ID-15.2",
+      "question_text": "Which Idaho law delegates land use authority to local governments?",
+      "correct_answer": "Local Land Use Planning Act (Title 67, Chapter 65)",
+      "distractors": ["Idaho Real Estate License Law", "Property Condition Disclosure Act", "Idaho Subdivision Platting Act"],
+      "explanation": "The Local Land Use Planning Act (Title 67, Chapter 65) delegates land use planning authority to cities and counties through comprehensive plans, zoning ordinances, and subdivision regulations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land use", "Local Land Use Planning Act", "zoning"]
+    },
+    {
+      "key_topic_ref": "ID-15.2",
+      "question_text": "A developer wants to subdivide a parcel into 10 lots. What is required?",
+      "correct_answer": "A plat prepared by a licensed surveyor",
+      "distractors": ["Only a written description of lot sizes", "IREC subdivision approval", "A contract for deed for each lot"],
+      "explanation": "Subdivisions under Title 50, Chapter 13 require a plat — a scaled map prepared by a licensed surveyor showing lots, blocks, streets, easements, and dedications. Multiple agency approvals are also needed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["subdivisions", "plat", "surveyor"]
+    },
+    {
+      "key_topic_ref": "ID-15.2",
+      "question_text": "How does a parcel split differ from a full subdivision in Idaho?",
+      "correct_answer": "A parcel split divides into 2-4 parcels with simpler process",
+      "distractors": ["A parcel split requires no government approval", "A parcel split is only for commercial property", "There is no difference in the process"],
+      "explanation": "A parcel split divides an unplatted parcel into 2-4 resulting parcels using a simpler approval process than a full subdivision. Full subdivisions (more than 4 lots) require a formal plat and more extensive review.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["subdivisions", "parcel split", "process"]
+    },
+    {
+      "key_topic_ref": "ID-15.2",
+      "question_text": "Does Idaho have a statewide growth management act?",
+      "correct_answer": "No, local jurisdictions control planning",
+      "distractors": ["Yes, administered by DOPL", "Yes, through the Idaho Department of Lands", "Yes, but only for counties over 50,000 population"],
+      "explanation": "Idaho has no statewide growth management act. Land use planning authority is delegated entirely to local jurisdictions — cities and counties control their own comprehensive plans and zoning.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land use", "no statewide act", "local control"]
+    },
+    {
+      "key_topic_ref": "ID-15.2",
+      "question_text": "Which agencies must approve an Idaho subdivision plat before recording?",
+      "correct_answer": "Planning commission, health district, and highway district",
+      "distractors": ["Only the county commissioner's office approval", "IREC and the county assessor's office jointly", "The state legislature and the governor's office"],
+      "explanation": "Subdivision plats require approval from multiple agencies including the local planning commission, health district (for water/sewer), highway district, and potentially the Idaho Transportation Department if a state highway is involved.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["subdivisions", "approval", "agencies"]
+    },
+    {
+      "key_topic_ref": "ID-15.3",
+      "question_text": "For a manufactured home to qualify for Idaho's homeowner's exemption, what must occur?",
+      "correct_answer": "The title must be eliminated and the home permanently affixed",
+      "distractors": ["The home must be less than 10 years old at time of claim", "The home must be located on land leased from the county", "Only double-wide manufactured homes qualify for exemption"],
+      "explanation": "To qualify for the homeowner's exemption, a manufactured home must have its title eliminated (converted from personal to real property) and be permanently affixed to the land.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["manufactured homes", "title elimination", "homeowner exemption"]
+    },
+    {
+      "key_topic_ref": "ID-15.3",
+      "question_text": "A buyer is purchasing a manufactured home in a mobile home park. What should the buyer's agent verify?",
+      "correct_answer": "Whether the home has been converted to real property",
+      "distractors": ["Whether the park owner approves the sale", "The home's original factory specifications", "Whether IREC licenses the park"],
+      "explanation": "The agent should verify whether the manufactured home has been converted to real property (title eliminated and permanently affixed). If it remains personal property, different rules apply for the transaction.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["manufactured homes", "real property", "personal property"]
+    },
+    {
+      "key_topic_ref": "ID-15.3",
+      "question_text": "Mobile home park landlord-tenant relationships in Idaho are governed by what?",
+      "correct_answer": "Specific provisions under Idaho Code",
+      "distractors": ["The general Landlord and Tenant Act only", "Federal mobile home regulations", "IREC mobile home guidelines"],
+      "explanation": "Idaho has specific statutory provisions for manufactured/mobile home park landlord-tenant relationships that differ from the general residential landlord-tenant law. These address park rules, space rental, and eviction procedures.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["manufactured homes", "mobile home parks", "law"]
+    },
+    {
+      "key_topic_ref": "ID-15.3",
+      "question_text": "Why do water rights significantly affect agricultural property values in Idaho?",
+      "correct_answer": "Senior water rights ensure reliable irrigation during shortages",
+      "distractors": ["Water rights increase the property's tax exemption", "Water rights eliminate the need for crop insurance", "Water rights transfer automatically with the property"],
+      "explanation": "In Idaho's arid climate, senior water rights are extremely valuable because they ensure reliable water access during shortages under the prior appropriation doctrine. Agricultural land with senior rights commands premium prices.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["water rights", "property value", "agriculture"]
+    },
+    {
+      "key_topic_ref": "ID-15.3",
+      "question_text": "A buyer is purchasing agricultural land. What should they verify regarding water?",
+      "correct_answer": "That water rights exist and are transferable",
+      "distractors": ["That the property borders a river", "That annual rainfall exceeds 20 inches", "That the property has a well permit only"],
+      "explanation": "Buyers of agricultural land in Idaho must verify that water rights exist, are current (not forfeited), and are transferable with the property. Water rights are separate from land ownership and may not automatically convey.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water rights", "agricultural land", "due diligence"]
+    }
+  ]
+}

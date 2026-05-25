@@ -1,0 +1,239 @@
+{
+  "standard_ref": "WI-15",
+  "scope": "state",
+  "state": "WI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WI-15.1",
+      "question_text": "What is Wisconsin's real estate transfer fee rate?",
+      "correct_answer": "$0.30 per $100 of value",
+      "distractors": ["$0.50 per $100 of value", "$1.00 per $100 of value", "$0.10 per $100 of value"],
+      "explanation": "Wisconsin imposes a real estate transfer fee of $0.30 per $100 of value (or fraction thereof) on every conveyance of real property not otherwise exempt.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer fee", "$0.30", "rate"]
+    },
+    {
+      "key_topic_ref": "WI-15.1",
+      "question_text": "A property sells for $250,000. What is the Wisconsin transfer fee?",
+      "correct_answer": "$750",
+      "distractors": ["$500", "$1,250", "$2,500"],
+      "explanation": "Transfer fee = $250,000 / $100 x $0.30 = $750. The fee is $0.30 per $100 of the sale price.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer fee", "calculation", "math"]
+    },
+    {
+      "key_topic_ref": "WI-15.1",
+      "question_text": "How is the Wisconsin real estate transfer return filed?",
+      "correct_answer": "Electronically via eRETR",
+      "distractors": ["On paper at the county courthouse", "By mail to the Department of Revenue", "Through the DSPS online portal"],
+      "explanation": "Wisconsin uses the Electronic Real Estate Transfer Return (eRETR) system. The transfer fee and return are filed with the Register of Deeds electronically.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eRETR", "electronic filing", "transfer"]
+    },
+    {
+      "key_topic_ref": "WI-15.1",
+      "question_text": "A property sells for $175,000. What is the Wisconsin real estate transfer fee?",
+      "correct_answer": "$525",
+      "distractors": ["$350", "$875", "$1,750"],
+      "explanation": "Transfer fee = $175,000 / $100 x $0.30 = $525. The fee is $0.30 per $100 of the sale price, filed electronically via eRETR with the Register of Deeds.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer fee", "calculation", "math"]
+    },
+    {
+      "key_topic_ref": "WI-15.1",
+      "question_text": "A government agency transfers property to a private buyer. Is a transfer fee required?",
+      "correct_answer": "Government transfers are exempt from the fee",
+      "distractors": ["Yes, the fee applies to all conveyances", "Only if the property value exceeds $100,000", "The buyer pays double the normal rate"],
+      "explanation": "Government transfers are exempt from the real estate transfer fee. Other exemptions include transfers valued at $100 or less, delinquent tax sales, and certain intra-family transfers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer fee", "exemption", "government"]
+    },
+    {
+      "key_topic_ref": "WI-15.2",
+      "question_text": "A property has an assessed value of $180,000 and the mill rate is 22. What is the annual property tax?",
+      "correct_answer": "$3,960",
+      "distractors": ["$3,600", "$4,320", "$3,150"],
+      "explanation": "Property tax = (Assessed Value / 1,000) x Mill Rate = ($180,000 / $1,000) x 22 = 180 x 22 = $3,960.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property tax", "mill rate", "calculation"]
+    },
+    {
+      "key_topic_ref": "WI-15.2",
+      "question_text": "Wisconsin requires that property assessments be within what percentage of market value every 5 years?",
+      "correct_answer": "10%",
+      "distractors": ["5%", "15%", "20%"],
+      "explanation": "Wisconsin law requires that non-agricultural property assessments be within 10% of market value at least every 5 years. This ensures assessed values stay reasonably close to actual market conditions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["assessment", "accuracy", "10%"]
+    },
+    {
+      "key_topic_ref": "WI-15.2",
+      "question_text": "What is 'equalized value' used for in Wisconsin?",
+      "correct_answer": "Comparing property values across municipalities for tax levies",
+      "distractors": ["Setting the sale price for county-owned properties", "Determining insurance replacement costs", "Calculating the transfer fee on a sale"],
+      "explanation": "Equalized value divides assessed value by the average assessment ratio to approximate market value. It's used for inter-municipal comparisons and apportioning tax levies among municipalities.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["equalized value", "tax levy", "municipalities"]
+    },
+    {
+      "key_topic_ref": "WI-15.2",
+      "question_text": "Which Wisconsin property tax credit applies specifically to primary residences?",
+      "correct_answer": "Lottery Credit",
+      "distractors": ["First Dollar Credit", "School Levy Tax Credit", "Homestead Exemption"],
+      "explanation": "The Lottery Credit is available specifically for primary residences. The First Dollar Credit applies to all improved residential property, and the School Levy Tax Credit reduces the school portion of all tax bills.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "lottery credit", "primary residence"]
+    },
+    {
+      "key_topic_ref": "WI-15.2",
+      "question_text": "Non-agricultural property in Wisconsin is assessed at what standard?",
+      "correct_answer": "Market value as of January 1",
+      "distractors": ["75% of market value as of July 1", "Purchase price from the most recent sale", "Replacement cost minus depreciation"],
+      "explanation": "Non-agricultural property in Wisconsin is assessed at market value as of January 1 of each year. Agricultural property uses a different assessment method based on use value.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["assessment", "market value", "January 1"]
+    },
+    {
+      "key_topic_ref": "WI-15.3",
+      "question_text": "Wisconsin is generally described as what type of closing state?",
+      "correct_answer": "Table closing state",
+      "distractors": ["Escrow closing state", "Mail-away closing state", "Attorney-only closing state"],
+      "explanation": "Wisconsin is generally a 'table closing' state where all parties (or their representatives) meet at closing. Closings are commonly handled by title companies or attorneys.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "table closing", "procedure"]
+    },
+    {
+      "key_topic_ref": "WI-15.3",
+      "question_text": "Who typically handles real estate closings in Wisconsin?",
+      "correct_answer": "Title companies or attorneys",
+      "distractors": ["The listing broker exclusively", "The county Register of Deeds", "A REEB-appointed closing officer"],
+      "explanation": "Wisconsin closings are commonly handled by title companies or attorneys. They manage the closing documents, title insurance, fund disbursement, and deed recording.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "title company", "attorney"]
+    },
+    {
+      "key_topic_ref": "WI-15.3",
+      "question_text": "At a Wisconsin table closing, the deed is signed. Where must it then be filed?",
+      "correct_answer": "With the Register of Deeds in the property's county",
+      "distractors": ["With DSPS in Madison", "With the state Department of Revenue", "With the title insurance company"],
+      "explanation": "After closing, the deed must be recorded with the Register of Deeds in the county where the property is located. This provides constructive notice of the ownership transfer.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "recording", "Register of Deeds"]
+    },
+    {
+      "key_topic_ref": "WI-15.3",
+      "question_text": "The 'date of conveyance' for transfer fee purposes is:",
+      "correct_answer": "The date of closing",
+      "distractors": ["The date the deed was signed", "The date the deed was recorded", "The date the offer was accepted"],
+      "explanation": "For transfer fee purposes, the 'date of conveyance' is the date of closing, not necessarily when the deed was signed or recorded. The transfer fee is calculated based on the sale price at closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer fee", "conveyance date", "closing"]
+    },
+    {
+      "key_topic_ref": "WI-15.3",
+      "question_text": "Title insurance in a Wisconsin transaction protects against:",
+      "correct_answer": "Defects in title not discovered during the search",
+      "distractors": ["Physical damage to the property after closing", "The buyer's inability to make mortgage payments", "Future zoning changes affecting the property"],
+      "explanation": "Title insurance protects against defects in title that were not discovered during the title search, such as forgeries, recording errors, undisclosed heirs, or missing liens. It does not cover physical damage or future changes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title insurance", "defects", "protection"]
+    },
+    {
+      "key_topic_ref": "WI-15.4",
+      "question_text": "Wisconsin uses which type of foreclosure process?",
+      "correct_answer": "Judicial foreclosure only",
+      "distractors": ["Non-judicial (power of sale) only", "Both judicial and non-judicial", "Administrative foreclosure through DSPS"],
+      "explanation": "Wisconsin is strictly a judicial foreclosure state — all foreclosures must go through the court system. Non-judicial foreclosure (power of sale) is not available.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "judicial", "court"]
+    },
+    {
+      "key_topic_ref": "WI-15.4",
+      "question_text": "For a mortgage executed after April 27, 2016, what is the redemption period if the lender waives the deficiency judgment?",
+      "correct_answer": "3 months",
+      "distractors": ["6 months", "12 months", "5 weeks"],
+      "explanation": "For mortgages executed after April 27, 2016: 3 months if the lender waives deficiency, 6 months if the lender seeks deficiency. For older mortgages, the periods are 12 months (waives) and 6 months (seeks).",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "redemption", "post-2016"]
+    },
+    {
+      "key_topic_ref": "WI-15.4",
+      "question_text": "What is the redemption period for an abandoned property in Wisconsin?",
+      "correct_answer": "5 weeks",
+      "distractors": ["3 months", "6 months", "12 months"],
+      "explanation": "Under §846.102, if the property is abandoned (permanently vacated), the redemption period is reduced to 5 weeks. This allows faster resolution when the property is unoccupied.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "abandoned", "5 weeks"]
+    },
+    {
+      "key_topic_ref": "WI-15.4",
+      "question_text": "A homeowner facing foreclosure lists their property with a broker. Can the court extend the redemption period?",
+      "correct_answer": "Yes, up to 8 months if the borrower lists in good faith",
+      "distractors": ["No, redemption periods are fixed by statute", "Yes, but only to 6 months maximum", "Only if the lender agrees to the extension"],
+      "explanation": "The court may extend the redemption period to 8 months if the borrower is making a good-faith attempt to sell and has listed the property with a licensed real estate broker.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "extension", "8 months"]
+    },
+    {
+      "key_topic_ref": "WI-15.4",
+      "question_text": "WHEDA provides which type of assistance to Wisconsin homebuyers?",
+      "correct_answer": "Below-market rate mortgages and down payment assistance",
+      "distractors": ["Free home inspections for first-time buyers", "Property tax exemptions for 5 years", "Grant funding to cover closing costs entirely"],
+      "explanation": "WHEDA (Wisconsin Housing and Economic Development Authority) offers affordable housing financing including below-market interest rate mortgages (Advantage Conventional/FHA) and down payment assistance programs (Easy Close DPA, Capital Access DPA).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["WHEDA", "financing", "assistance"]
+    },
+    {
+      "key_topic_ref": "WI-15.4",
+      "question_text": "Wisconsin uses what type of security instrument for real estate loans?",
+      "correct_answer": "Mortgages (lien theory)",
+      "distractors": ["Deeds of trust (title theory)", "Land contracts exclusively", "Security deeds (intermediate theory)"],
+      "explanation": "Wisconsin is a lien theory state that uses mortgages as the primary security instrument. The borrower holds title while the lender holds a lien. This differs from deed of trust states where a trustee holds title.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mortgage", "lien theory", "security"]
+    }
+  ]
+}

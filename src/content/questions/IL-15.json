@@ -1,0 +1,308 @@
+{
+  "standard_ref": "IL-15",
+  "scope": "state",
+  "state": "IL",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IL-15.1",
+      "question_text": "A Chicago landlord refuses to rent to a prospective tenant because she receives housing choice vouchers. Under Illinois law, what violation has occurred?",
+      "correct_answer": "Source of income discrimination under state law",
+      "distractors": [
+        "No violation because vouchers are voluntary to accept",
+        "A federal Fair Housing Act violation only",
+        "A local ordinance violation but not a state violation"
+      ],
+      "explanation": "Illinois prohibits source of income discrimination, which includes refusing to rent to tenants who use housing vouchers. This protection goes beyond the federal Fair Housing Act, which does not include source of income as a protected class.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "source-of-income",
+        "protected-classes",
+        "IHRA",
+        "housing-vouchers"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.1",
+      "question_text": "A property manager denies housing to an applicant solely because the applicant has an arrest record with no conviction. Which Illinois agency would handle the resulting complaint?",
+      "correct_answer": "Illinois Department of Human Rights",
+      "distractors": [
+        "Illinois Real Estate Administrative Board",
+        "Federal HUD Office of Fair Housing",
+        "Illinois Attorney General Consumer Division"
+      ],
+      "explanation": "The Illinois Human Rights Act prohibits using arrest records alone (without convictions) as a basis for housing denial. Complaints are filed with the Illinois Department of Human Rights (IDHR), which administers and enforces the Act.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "IDHR",
+        "arrest-record",
+        "protected-classes",
+        "complaint-process"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.1",
+      "question_text": "An Illinois tenant believes she was denied a lease renewal because of her marital status. How long does she have to file a complaint with IDHR?",
+      "correct_answer": "One year from the discriminatory act",
+      "distractors": [
+        "180 days from the discriminatory act",
+        "Two years from the discriminatory act",
+        "90 days from the discriminatory act"
+      ],
+      "explanation": "Under the Illinois Human Rights Act, a complainant has one year from the date of the alleged discriminatory act to file a complaint with the Illinois Department of Human Rights. Marital status is among the additional protected classes Illinois recognizes beyond federal law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "IDHR",
+        "filing-deadline",
+        "marital-status",
+        "complaint-process"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.1",
+      "question_text": "A veteran received a general discharge under honorable conditions from the military. A landlord refuses to rent to him based on that discharge status. Is this legal under the Illinois Human Rights Act?",
+      "correct_answer": "No, only dishonorable discharge may be considered",
+      "distractors": [
+        "Yes, any non-honorable discharge may justify denial",
+        "Yes, military discharge is not a protected class",
+        "No, but only if the veteran is currently active duty"
+      ],
+      "explanation": "The Illinois Human Rights Act protects individuals with unfavorable military discharges other than dishonorable. A general discharge under honorable conditions is protected, and landlords cannot use it as a basis for denial. Only a dishonorable discharge falls outside this protection.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "military-discharge",
+        "protected-classes",
+        "IHRA",
+        "discrimination"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.1",
+      "question_text": "Which protected class is recognized under the Illinois Human Rights Act but NOT under the federal Fair Housing Act?",
+      "correct_answer": "Sexual orientation",
+      "distractors": [
+        "Race or color of the applicant",
+        "National origin",
+        "Familial status"
+      ],
+      "explanation": "The Illinois Human Rights Act includes several protected classes beyond the seven federal categories. Sexual orientation is one of these additional Illinois protections, along with marital status, military status, order of protection status, ancestry, unfavorable military discharge, and arrest record.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "protected-classes",
+        "IHRA",
+        "sexual-orientation",
+        "fair-housing"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.2",
+      "question_text": "A Chicago landlord collects a $1,500 security deposit and places it in a standard non-interest-bearing business checking account. What risk does the landlord face under the RLTO?",
+      "correct_answer": "Tenant may recover up to twice the deposit amount",
+      "distractors": [
+        "Landlord faces a small administrative fine only",
+        "Tenant can void the lease immediately without penalty",
+        "Landlord must refund the full deposit at signing"
+      ],
+      "explanation": "The Chicago Residential Landlord and Tenant Ordinance requires security deposits be held in federally insured interest-bearing accounts. Violating this requirement exposes the landlord to liability of up to two times the deposit amount plus attorney fees.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "RLTO",
+        "security-deposit",
+        "interest-bearing-account",
+        "penalties"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.2",
+      "question_text": "A tenant moves out of a Chicago apartment on March 1. By what date must the landlord provide an itemized statement of security deposit deductions?",
+      "correct_answer": "Within 30 days of move-out",
+      "distractors": [
+        "Within 14 days of move-out",
+        "Within 45 days after the tenant vacates",
+        "Within 60 days of move-out"
+      ],
+      "explanation": "Under the Chicago RLTO, a landlord must provide the tenant with an itemized statement of any deductions from the security deposit within 30 days of the tenant vacating the unit. Failure to meet this deadline can result in the tenant recovering up to twice the deposit.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "RLTO",
+        "security-deposit",
+        "itemized-statement",
+        "deadlines"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.2",
+      "question_text": "A Chicago tenant has held a lease for two years. The landlord has never paid any interest on the security deposit. What is the tenant entitled to under the RLTO?",
+      "correct_answer": "Annual interest payments on the deposit",
+      "distractors": [
+        "A one-time interest credit at lease end",
+        "No interest unless the lease specifically requires it",
+        "Interest only if the deposit exceeds one month rent"
+      ],
+      "explanation": "The Chicago RLTO requires landlords to pay interest on security deposits to tenants on an annual basis. This obligation applies regardless of lease terms and is a mandatory provision that landlords cannot waive through the lease agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "RLTO",
+        "security-deposit",
+        "interest-payment",
+        "tenant-rights"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.2",
+      "question_text": "A property in suburban Naperville has a security deposit dispute. The tenant demands protections under the Chicago RLTO. How should the landlord respond?",
+      "correct_answer": "The RLTO applies only within Chicago city limits",
+      "distractors": [
+        "The RLTO applies statewide to all Illinois rentals",
+        "The RLTO covers all Cook County municipalities",
+        "The RLTO extends to any metro area over 50,000 residents"
+      ],
+      "explanation": "The Chicago Residential Landlord and Tenant Ordinance applies only to most residential rental units within the City of Chicago. Properties in suburban municipalities like Naperville are governed by the Illinois Security Deposit Return Act and other state laws, which provide fewer tenant protections.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "RLTO",
+        "jurisdiction",
+        "suburban-properties",
+        "applicability"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.2",
+      "question_text": "A Chicago landlord fails to return a security deposit or provide an itemized statement after a tenant vacates. The tenant sues and wins. What damages can the court award?",
+      "correct_answer": "Up to two times the deposit plus attorney fees",
+      "distractors": [
+        "The deposit amount only with no additional penalties",
+        "Three times the deposit as a statutory treble damage",
+        "The deposit plus a flat $500 statutory penalty"
+      ],
+      "explanation": "Under the Chicago RLTO, when a landlord fails to comply with security deposit return and itemization requirements, the tenant may recover up to two times the security deposit amount plus reasonable attorney fees. This penalty structure provides stronger protection than Illinois state law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "RLTO",
+        "security-deposit",
+        "penalties",
+        "attorney-fees"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.3",
+      "question_text": "An Illinois tenant is two months behind on rent. What written notice must the landlord serve before filing for eviction?",
+      "correct_answer": "A 5-day notice to pay or vacate",
+      "distractors": [
+        "A 10-day notice to pay or vacate",
+        "A 30-day notice to pay or vacate",
+        "A 3-day notice to pay or vacate"
+      ],
+      "explanation": "In Illinois, when a tenant fails to pay rent, the landlord must serve a 5-day notice demanding payment. If the tenant does not pay within the 5-day period, the landlord may then file a forcible entry and detainer action in circuit court.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "eviction",
+        "5-day-notice",
+        "nonpayment",
+        "notice-requirements"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.3",
+      "question_text": "An Illinois landlord discovers a tenant is violating the lease by keeping unauthorized pets. What notice period must the landlord provide before pursuing eviction?",
+      "correct_answer": "A 10-day notice to cure the violation",
+      "distractors": [
+        "A 5-day notice to cure the violation",
+        "A 30-day notice to cure or vacate the unit",
+        "A 14-day notice to cure the violation"
+      ],
+      "explanation": "Illinois law requires a 10-day notice for lease violations other than nonpayment of rent. The notice gives the tenant an opportunity to cure the violation. If the tenant fails to comply within 10 days, the landlord can file a forcible entry and detainer action.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "eviction",
+        "10-day-notice",
+        "lease-violations",
+        "notice-requirements"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.3",
+      "question_text": "An Illinois landlord changes the locks on a tenant's apartment while the tenant is at work, hoping to force the tenant to leave. What legal consequence does the landlord face?",
+      "correct_answer": "Liability for illegal self-help eviction",
+      "distractors": [
+        "No penalty if rent is more than 30 days overdue",
+        "A warning for the first offense with no damages",
+        "Criminal trespass charges against the tenant instead"
+      ],
+      "explanation": "Illinois law strictly prohibits self-help evictions. Landlords cannot change locks, shut off utilities, or remove a tenant's belongings to force a tenant out. The landlord must follow the legal eviction process through a forcible entry and detainer action filed in circuit court.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "self-help-eviction",
+        "illegal-lockout",
+        "tenant-rights",
+        "eviction-process"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.3",
+      "question_text": "A Chicago alderman proposes a rent stabilization ordinance capping annual rent increases at 3%. Under current Illinois law, what is the status of this proposal?",
+      "correct_answer": "Prohibited by the Rent Control Preemption Act",
+      "distractors": [
+        "Permitted if approved by a citywide referendum",
+        "Allowed only for buildings with 6 or more units",
+        "Legal if the state legislature grants a waiver"
+      ],
+      "explanation": "The Illinois Rent Control Preemption Act (50 ILCS 825) prevents any Illinois municipality from enacting rent control or rent stabilization measures. This is a significant difference from states like California and New York, which allow various forms of rent regulation.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "rent-control",
+        "preemption-act",
+        "municipal-authority",
+        "state-law"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-15.3",
+      "question_text": "An Illinois tenant notifies the landlord of a broken furnace in winter, but the landlord ignores the request for three weeks. Which tenant remedy is supported by the implied warranty of habitability?",
+      "correct_answer": "Repair and deduct from future rent payments",
+      "distractors": [
+        "Withhold all rent indefinitely with no notice",
+        "Immediately change the locks for personal safety",
+        "Sue for triple damages under consumer fraud law"
+      ],
+      "explanation": "Illinois recognizes the implied warranty of habitability, which requires landlords to maintain rental units in livable condition. When a landlord fails to make essential repairs, tenants may exercise remedies including repair and deduct, rent withholding, or lease termination after proper notice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "habitability",
+        "repair-and-deduct",
+        "tenant-remedies",
+        "landlord-obligations"
+      ]
+    }
+  ]
+}

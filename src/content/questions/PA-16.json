@@ -1,0 +1,173 @@
+{
+  "standard_ref": "PA-16",
+  "scope": "state",
+  "state": "PA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "PA-16.1",
+      "question_text": "During the first year of a tenancy in Pennsylvania, the maximum security deposit a landlord can collect is:",
+      "correct_answer": "2 months' rent",
+      "distractors": ["1 month's rent", "3 months' rent", "First and last month's rent"],
+      "explanation": "During the first year of tenancy, the landlord may collect a maximum security deposit of 2 months' rent. This decreases to 1 month's rent starting in the second year.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "year 1", "2 months"]
+    },
+    {
+      "key_topic_ref": "PA-16.1",
+      "question_text": "A tenant begins their second year of a lease. The landlord must reduce the security deposit to a maximum of:",
+      "correct_answer": "1 month's rent",
+      "distractors": ["2 months' rent", "Half a month's rent", "No deposit required"],
+      "explanation": "Starting in the second year, the maximum deposit drops to 1 month's rent. The landlord must refund the excess within 30 days of the beginning of the second year of tenancy.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "year 2", "1 month"]
+    },
+    {
+      "key_topic_ref": "PA-16.1",
+      "question_text": "A tenant has lived in a unit for 6 years. The landlord wants to increase the security deposit due to a rent increase. Under PA law:",
+      "correct_answer": "The landlord may not increase the deposit after 5 years",
+      "distractors": ["The landlord may increase proportionally", "The deposit resets with each new lease", "The deposit may increase annually"],
+      "explanation": "After 5 years of tenancy, the landlord may not increase the security deposit even if the rent increases. This is a unique PA tenant protection.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "5 year rule", "no increase"]
+    },
+    {
+      "key_topic_ref": "PA-16.1",
+      "question_text": "A tenant vacates and provides a forwarding address. The landlord must return the security deposit within:",
+      "correct_answer": "30 days",
+      "distractors": ["14 days", "45 days", "60 days"],
+      "explanation": "The landlord must return the security deposit within 30 days after termination of the lease AND receipt of the tenant's forwarding address. An itemized list of any deductions must accompany the return.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "return", "30 days"]
+    },
+    {
+      "key_topic_ref": "PA-16.1",
+      "question_text": "A landlord holds a security deposit for more than 2 years. Under PA law, the landlord must:",
+      "correct_answer": "Pay interest on the deposit",
+      "distractors": ["Return the deposit to the tenant", "Increase the deposit amount", "Transfer the deposit to an escrow agent"],
+      "explanation": "When a security deposit is held for more than 2 years, the landlord must pay interest at the rate paid by the bank holding the funds. This interest accrues for the tenant's benefit.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "interest", "2 years"]
+    },
+    {
+      "key_topic_ref": "PA-16.2",
+      "question_text": "A Pennsylvania month-to-month tenant must give how much notice to terminate?",
+      "correct_answer": "15 days",
+      "distractors": ["30 days", "60 days", "7 days"],
+      "explanation": "Pennsylvania requires only 15 days' notice for month-to-month tenancies — NOT 30 days as in many other states. This is a commonly tested PA-specific rule.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lease termination", "month-to-month", "15 days"]
+    },
+    {
+      "key_topic_ref": "PA-16.2",
+      "question_text": "A year-to-year lease tenant in PA must give how much notice to terminate at the end of the lease term?",
+      "correct_answer": "3 months",
+      "distractors": ["30 days", "60 days", "6 months"],
+      "explanation": "Year-to-year tenancies in Pennsylvania require 3 months' notice for termination. Without proper notice, the tenancy automatically renews for another year.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lease termination", "year-to-year", "3 months"]
+    },
+    {
+      "key_topic_ref": "PA-16.2",
+      "question_text": "A month-to-month tenant gives only 10 days' notice before vacating. Under PA law, the tenant has:",
+      "correct_answer": "Given insufficient notice",
+      "distractors": ["Given proper notice for PA", "Given proper notice for any state", "Automatically terminated the tenancy"],
+      "explanation": "Pennsylvania requires 15 days' notice for month-to-month tenancies. Ten days is insufficient, and the tenant may be liable for additional rent or damages for the deficient notice period.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lease termination", "insufficient notice", "15 days"]
+    },
+    {
+      "key_topic_ref": "PA-16.2",
+      "question_text": "Pennsylvania recognizes an implied warranty of habitability, which means landlords must:",
+      "correct_answer": "Maintain units in safe, livable condition",
+      "distractors": ["Provide furnished apartments", "Pay all utility costs for tenants", "Renovate units every 5 years"],
+      "explanation": "The implied warranty of habitability requires landlords to maintain rental units in safe and livable condition. This includes working plumbing, heating, structural integrity, and compliance with building codes.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["habitability", "landlord duty", "livable"]
+    },
+    {
+      "key_topic_ref": "PA-16.2",
+      "question_text": "A PA landlord fails to repair a broken furnace during winter, making the unit uninhabitable. The tenant may claim a breach of:",
+      "correct_answer": "Implied warranty of habitability",
+      "distractors": ["Express warranty of merchantability", "Duty of full property maintenance", "Covenant of quiet enjoyment only"],
+      "explanation": "A broken furnace in winter creates uninhabitable conditions, breaching the implied warranty of habitability. This warranty requires landlords to maintain essential systems in working order.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["habitability", "furnace", "breach"]
+    },
+    {
+      "key_topic_ref": "PA-16.3",
+      "question_text": "A landlord fails to return a security deposit within the required 30-day period. The penalty is:",
+      "correct_answer": "Double the full security deposit amount",
+      "distractors": ["Return of the deposit only", "Triple the deposit amount", "A $500 fine per occurrence"],
+      "explanation": "Under Section 512 of the Landlord and Tenant Act, failure to return the deposit within 30 days makes the landlord liable for double the FULL security deposit amount — not just double the withheld portion.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "double damages", "penalty"]
+    },
+    {
+      "key_topic_ref": "PA-16.3",
+      "question_text": "A landlord withholds $800 from a $1,500 security deposit without providing an itemized list within 30 days. The tenant may recover:",
+      "correct_answer": "$3,000 (double the full deposit)",
+      "distractors": ["$1,600 (double the $800 withheld)", "$800 (only the amount withheld)", "$1,500 (the full deposit only)"],
+      "explanation": "Under Section 512, failure to provide an itemized list within 30 days means the landlord forfeits the right to withhold any amount. Failure to timely return the deposit makes the landlord liable for double the FULL security deposit ($1,500 × 2 = $3,000).",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "double damages", "calculation"]
+    },
+    {
+      "key_topic_ref": "PA-16.3",
+      "question_text": "Collecting rents and managing property for others in Pennsylvania requires:",
+      "correct_answer": "A real estate license under a broker",
+      "distractors": ["A separate property management license", "Only a business registration", "No license for residential properties"],
+      "explanation": "Property management activities (collecting rents, managing for others) for compensation require a real estate license. The property manager must operate under a licensed broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "license", "broker"]
+    },
+    {
+      "key_topic_ref": "PA-16.3",
+      "question_text": "A landlord returns a security deposit 45 days after the tenant vacated and provided a forwarding address. The landlord:",
+      "correct_answer": "May owe double the full deposit amount",
+      "distractors": ["Is within the acceptable time frame", "Owes only the original deposit amount", "Must pay a $100 late fee to PREC"],
+      "explanation": "The 30-day return deadline has been exceeded. Under Section 512, late return makes the landlord liable for double the full security deposit amount — a significant financial penalty designed to ensure prompt return.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "late return", "double damages"]
+    },
+    {
+      "key_topic_ref": "PA-16.3",
+      "question_text": "A property management company collecting rents must maintain tenant deposits in:",
+      "correct_answer": "A separate escrow/trust account",
+      "distractors": ["The company's operating account", "The property owner's personal account", "Any interest-bearing savings account"],
+      "explanation": "Property management licensees must maintain separate escrow/trust accounts for managed properties. Tenant security deposits and rents collected cannot be commingled with the manager's or owner's personal funds.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "escrow", "trust account"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NH-02",
+  "scope": "state",
+  "state": "NH",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "NH-02.1",
+      "question_text": "What is the minimum age to obtain a NH real estate salesperson license?",
+      "correct_answer": "18 years old",
+      "distractors": ["21 years old", "16 years old", "19 years old"],
+      "explanation": "New Hampshire requires salesperson applicants to be at least 18 years of age. This is consistent with the legal age to enter into binding contracts in the state.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["age requirement", "salesperson", "pre-license"]
+    },
+    {
+      "key_topic_ref": "NH-02.1",
+      "question_text": "How many hours of pre-license education must a NH salesperson candidate complete?",
+      "correct_answer": "40 hours total",
+      "distractors": ["60 hours total", "75 hours total", "90 hours total"],
+      "explanation": "NH requires 40 hours of pre-license education for salesperson candidates. Of these, a minimum of 32 hours must be completed in a classroom setting, with a maximum of 8 hours allowed via distance education.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license education", "40 hours", "salesperson"]
+    },
+    {
+      "key_topic_ref": "NH-02.1",
+      "question_text": "A candidate wants to complete all 40 pre-license hours online. Is this permitted in NH?",
+      "correct_answer": "No, at least 32 hours must be classroom",
+      "distractors": ["Yes, all hours can be online", "No, all 40 hours must be classroom", "Yes, with instructor approval only"],
+      "explanation": "NH limits distance education to a maximum of 8 hours of the 40-hour pre-license requirement. At least 32 hours must be completed in a traditional classroom setting to ensure adequate hands-on instruction.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["distance education", "classroom", "pre-license"]
+    },
+    {
+      "key_topic_ref": "NH-02.1",
+      "question_text": "Within what time frame must a candidate complete pre-license education before taking the state exam?",
+      "correct_answer": "Within 6 months of the exam",
+      "distractors": ["Within 12 months of the exam", "Within 3 months of the exam", "Within 24 months of the exam"],
+      "explanation": "NH requires that the 40-hour pre-license course be completed within 6 months of sitting for the licensing exam. Candidates who exceed this window must retake the course before attempting the exam.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "time limit", "exam eligibility"]
+    },
+    {
+      "key_topic_ref": "NH-02.1",
+      "question_text": "A candidate completed pre-license education 8 months ago and now wants to take the exam. What must the candidate do?",
+      "correct_answer": "Retake the pre-license course",
+      "distractors": ["Apply for a time extension", "Take only a refresher exam", "Submit a waiver to OPLC"],
+      "explanation": "Since pre-license education must be completed within 6 months of the exam, a candidate whose course was completed 8 months prior has exceeded the validity window and must retake the entire 40-hour pre-license course.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["pre-license", "expiration", "retake"]
+    },
+    {
+      "key_topic_ref": "NH-02.2",
+      "question_text": "What criminal background check is required for NH licensure?",
+      "correct_answer": "NH State Police records check",
+      "distractors": ["FBI federal fingerprint check", "County sheriff records check", "No background check is required"],
+      "explanation": "NH requires a criminal records check through the NH State Police as a condition of licensure. The results of this check are valid for 6 months from the date of issuance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["background check", "NH State Police", "licensure"]
+    },
+    {
+      "key_topic_ref": "NH-02.2",
+      "question_text": "A candidate obtained a criminal records check 7 months ago. Can she use this for her license application?",
+      "correct_answer": "No, the check is only valid for 6 months",
+      "distractors": ["Yes, it is valid for 12 months", "Yes, there is no expiration date", "No, she needs a federal check instead"],
+      "explanation": "The NH State Police criminal records check is valid for only 6 months. After that period, the applicant must obtain a new records check to submit with the license application.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["background check", "validity period", "6 months"]
+    },
+    {
+      "key_topic_ref": "NH-02.2",
+      "question_text": "A candidate passes the national portion of the NH exam but fails the state portion. What happens next?",
+      "correct_answer": "The candidate must retake the state portion",
+      "distractors": ["The candidate receives a full license", "Both portions must be retaken together", "The candidate is permanently disqualified"],
+      "explanation": "The NH licensing exam is split — candidates must pass both the national and state portions independently at 70%. If only one portion is failed, the candidate retakes only that portion within the allowed timeframe.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PSI exam", "split exam", "retake"]
+    },
+    {
+      "key_topic_ref": "NH-02.2",
+      "question_text": "A candidate scores 75% on the national portion but 65% on the state portion. What is the result?",
+      "correct_answer": "The candidate fails the exam",
+      "distractors": ["The candidate passes overall", "Only the state portion must be retaken", "The scores are averaged to 70%"],
+      "explanation": "Candidates must achieve at least 70% on each portion of the exam independently. Although the candidate passed the national portion (75%), the 65% on the state portion is below the 70% threshold, resulting in exam failure.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PSI exam", "passing score", "70 percent"]
+    },
+    {
+      "key_topic_ref": "NH-02.2",
+      "question_text": "A candidate has failed the NH licensing exam multiple times. What does NH require before allowing additional attempts?",
+      "correct_answer": "Retake the pre-license course after repeated failures",
+      "distractors": ["There is no limit on exam attempts in NH", "The candidate must wait one year to retake", "The candidate must obtain a waiver from OPLC"],
+      "explanation": "NH requires candidates who repeatedly fail the licensing exam to retake the entire pre-license education course before making additional attempts. This ensures candidates receive updated instruction to address knowledge gaps.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam attempts", "retake requirement", "pre-license"]
+    },
+    {
+      "key_topic_ref": "NH-02.3",
+      "question_text": "What is the NH real estate license renewal cycle?",
+      "correct_answer": "Biennial renewal",
+      "distractors": ["Annual renewal", "Triennial renewal", "Every four years"],
+      "explanation": "New Hampshire real estate licenses are renewed on a biennial (every two years) basis. The renewal fee is $90, and licensees must complete 15 hours of continuing education during each renewal period.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["renewal", "biennial", "license cycle"]
+    },
+    {
+      "key_topic_ref": "NH-02.3",
+      "question_text": "How many continuing education hours are required per renewal period in NH?",
+      "correct_answer": "15 hours total",
+      "distractors": ["24 hours total", "12 hours total", "20 hours total"],
+      "explanation": "NH licensees must complete 15 hours of continuing education each biennial renewal period. This includes 3 hours of mandatory core topics and 12 hours of elective courses.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing education", "15 hours", "renewal"]
+    },
+    {
+      "key_topic_ref": "NH-02.3",
+      "question_text": "A licensee completes 12 elective CE hours but skips the core requirement. Can the license be renewed?",
+      "correct_answer": "No, 3 core hours are mandatory",
+      "distractors": ["Yes, electives satisfy the total", "Yes, core hours are optional", "No, 6 core hours are required"],
+      "explanation": "The 15-hour CE requirement includes 3 mandatory core hours that cannot be replaced by elective hours. Both the 3 core hours and 12 elective hours must be completed for a valid renewal.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["core hours", "elective hours", "CE requirement"]
+    },
+    {
+      "key_topic_ref": "NH-02.3",
+      "question_text": "What additional CE requirement applies to a licensee renewing for the first time?",
+      "correct_answer": "Post-licensing topics must be completed",
+      "distractors": ["An additional 30 hours of CE", "A second criminal background check", "A supervised mentorship period"],
+      "explanation": "First-time renewals in NH require completion of post-licensing topics in addition to the standard CE requirements. This ensures new licensees receive supplemental education during their initial practice period.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["post-licensing", "first renewal", "CE requirement"]
+    },
+    {
+      "key_topic_ref": "NH-02.3",
+      "question_text": "A licensed broker from Vermont wants to practice in NH. Under HB 594, what reciprocity does NH offer?",
+      "correct_answer": "Universal reciprocity with all 50 states",
+      "distractors": ["Reciprocity with bordering states only", "No reciprocity agreements exist", "Reciprocity limited to 12 compact states"],
+      "explanation": "HB 594 established universal reciprocity, allowing NH to recognize real estate licenses from all 50 states. This means a licensed broker from any state, including Vermont, can obtain a NH license through the reciprocity process.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["reciprocity", "HB 594", "universal", "out-of-state"]
+    }
+  ]
+}

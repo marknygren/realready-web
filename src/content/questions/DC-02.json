@@ -1,0 +1,173 @@
+{
+  "standard_ref": "DC-02",
+  "scope": "state",
+  "state": "DC",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "DC-02.1",
+      "question_text": "How many hours of pre-licensing education must a DC salesperson candidate complete?",
+      "correct_answer": "60 hours",
+      "distractors": ["40 hours", "90 hours", "135 hours"],
+      "explanation": "DC requires 60 hours of approved pre-licensing education for salesperson candidates. The 135-hour requirement applies to broker candidates.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "education", "salesperson"]
+    },
+    {
+      "key_topic_ref": "DC-02.1",
+      "question_text": "A 17-year-old completes the 60-hour pre-licensing course and passes the exam. Can they obtain a DC salesperson license?",
+      "correct_answer": "No, they must be at least 18 years old",
+      "distractors": ["Yes, if they have a sponsoring broker", "Yes, with parental consent required", "No, the minimum age is 21 in DC"],
+      "explanation": "DC requires salesperson candidates to be at least 18 years old. Passing the exam and completing education alone are not sufficient if the age requirement is not met.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eligibility", "age", "requirements"]
+    },
+    {
+      "key_topic_ref": "DC-02.1",
+      "question_text": "What passing score is required on each portion of the DC real estate licensing exam?",
+      "correct_answer": "75%",
+      "distractors": ["70%", "80%", "65%"],
+      "explanation": "Candidates must score at least 75% on both the national and state portions of the PSI-administered exam. The two portions are scored separately.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "passing score", "PSI"]
+    },
+    {
+      "key_topic_ref": "DC-02.1",
+      "question_text": "A candidate passes the national portion but fails the state portion of the DC exam. What happens next?",
+      "correct_answer": "They must retake the state portion within 6 months",
+      "distractors": ["They must retake both portions immediately", "They keep the national score for 12 months", "They must complete additional coursework first"],
+      "explanation": "If a candidate fails one portion, they must retake it within 6 months. If that window expires without passing, both portions must be retaken.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exam", "retake", "eligibility"]
+    },
+    {
+      "key_topic_ref": "DC-02.1",
+      "question_text": "Which of the following is required as part of the DC salesperson licensing process?",
+      "correct_answer": "Background check with fingerprinting",
+      "distractors": ["Two years of real estate experience", "Completion of a post-licensing course", "Passing a separate ethics examination"],
+      "explanation": "DC requires a background check including fingerprinting for all salesperson license applicants. There is no experience requirement for the salesperson license or separate post-licensing course mandate.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["background check", "fingerprinting", "eligibility"]
+    },
+    {
+      "key_topic_ref": "DC-02.2",
+      "question_text": "Before a DC salesperson can receive their license, they must be affiliated with which type of licensee?",
+      "correct_answer": "A licensed DC broker",
+      "distractors": ["Any licensed salesperson", "A licensed property manager", "A licensed DC attorney"],
+      "explanation": "DC salespersons must be sponsored by a licensed DC broker. Salespersons cannot operate independently and must work under broker supervision.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sponsorship", "broker", "salesperson"]
+    },
+    {
+      "key_topic_ref": "DC-02.2",
+      "question_text": "What distinguishes a DC broker license from a salesperson license?",
+      "correct_answer": "Brokers can operate firms and hold trust accounts",
+      "distractors": ["Brokers only need 60 hours of education", "Salespersons can supervise other licensees", "Brokers do not need continuing education"],
+      "explanation": "DC brokers can operate their own firms, supervise salespersons, and hold trust accounts. Salespersons must work under a broker and cannot perform these functions independently.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "salesperson", "license types"]
+    },
+    {
+      "key_topic_ref": "DC-02.2",
+      "question_text": "A salesperson wants to become a broker in DC. How many hours of total education are required for a broker license?",
+      "correct_answer": "135 hours",
+      "distractors": ["60 hours", "90 hours", "180 hours"],
+      "explanation": "DC requires 135 hours of approved education for a broker license. This includes the salesperson coursework plus additional broker-level courses.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "education", "requirements"]
+    },
+    {
+      "key_topic_ref": "DC-02.2",
+      "question_text": "A DC salesperson's sponsoring broker retires and closes their firm. What must the salesperson do to continue practicing?",
+      "correct_answer": "Affiliate with a new licensed broker",
+      "distractors": ["Apply for a temporary independent license", "Wait 90 days before working with clients", "Automatically receive a broker upgrade"],
+      "explanation": "Salespersons cannot practice without broker sponsorship. When a broker closes their firm, the salesperson must find and affiliate with a new licensed broker to continue practicing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["sponsorship", "broker change", "affiliation"]
+    },
+    {
+      "key_topic_ref": "DC-02.2",
+      "question_text": "How many years of active licensure as a salesperson does DC require before a candidate can apply for a broker license?",
+      "correct_answer": "At least 2 years",
+      "distractors": ["At least 1 year", "At least 3 years", "At least 5 years"],
+      "explanation": "DC requires broker candidates to have been actively licensed as a salesperson for at least 2 years (or equivalent experience) in addition to completing 135 hours of education.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "experience", "requirements"]
+    },
+    {
+      "key_topic_ref": "DC-02.3",
+      "question_text": "Which of the following activities requires a DC real estate license?",
+      "correct_answer": "Negotiating a property sale for compensation",
+      "distractors": ["Selling your own personal residence", "Managing your own rental property", "Providing legal advice on a real estate matter"],
+      "explanation": "Negotiating, listing, selling, or managing real property for others for compensation requires a DC real estate license. Selling your own property, managing your own rentals, and providing legal advice (attorney) do not.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["license required", "activities", "compensation"]
+    },
+    {
+      "key_topic_ref": "DC-02.3",
+      "question_text": "A friend asks you to help find a buyer for their DC condo in exchange for a referral fee. You do not hold a real estate license. Is this legal?",
+      "correct_answer": "No, brokerage for compensation requires a license",
+      "distractors": ["Yes, referral fees do not require a license", "Yes, if the referral amount is under $1,000", "Yes, as long as no written contract is signed"],
+      "explanation": "Performing real estate brokerage activities for compensation, including referring buyers or sellers for a fee, requires a DC real estate license. The amount of compensation is irrelevant.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed activity", "referral fee", "compensation"]
+    },
+    {
+      "key_topic_ref": "DC-02.3",
+      "question_text": "Which person is exempt from DC real estate licensing requirements?",
+      "correct_answer": "An owner selling their own property",
+      "distractors": ["A paid property locator for tenants", "A salesperson working without a broker", "An unlicensed assistant showing properties"],
+      "explanation": "Owners selling or leasing their own property are generally exempt from licensing. Paid property locators, salespersons (who must have broker sponsorship), and unlicensed assistants performing licensed activities all need licensing or supervision.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "license required", "owner"]
+    },
+    {
+      "key_topic_ref": "DC-02.3",
+      "question_text": "Auctioning real property in DC on behalf of another person for compensation requires what?",
+      "correct_answer": "A real estate license",
+      "distractors": ["Only an auctioneer permit", "No license if the sale is court-ordered", "Only a business license from DLCP"],
+      "explanation": "Auctioning real property on behalf of others for compensation is a licensed real estate activity in DC, requiring the auctioneer to hold a valid real estate license.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["auction", "license required", "activities"]
+    },
+    {
+      "key_topic_ref": "DC-02.3",
+      "question_text": "A DC property management company leases apartments and collects rent for building owners. Does this require real estate licensing?",
+      "correct_answer": "Yes, managing for others for pay requires a license",
+      "distractors": ["No, property management is fully exempt", "Only if the building has 10 or more units", "Only if the company charges a commission"],
+      "explanation": "Property management activities performed for others for compensation, including leasing and rent collection, require a real estate license in DC. The size of the building and fee structure are irrelevant.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "license required", "leasing"]
+    }
+  ]
+}

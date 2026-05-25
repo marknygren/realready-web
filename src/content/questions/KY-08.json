@@ -1,0 +1,173 @@
+{
+  "standard_ref": "KY-08",
+  "scope": "state",
+  "state": "KY",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "KY-08.1",
+      "question_text": "Where must a Kentucky principal broker maintain their escrow accounts?",
+      "correct_answer": "Within the State of Kentucky",
+      "distractors": ["Any FDIC-insured institution", "In the county where the broker is licensed", "At a bank approved by KREC"],
+      "explanation": "All escrow accounts must be maintained within the State of Kentucky. This ensures KREC can effectively audit and oversee the accounts.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "location", "Kentucky"]
+    },
+    {
+      "key_topic_ref": "KY-08.1",
+      "question_text": "A principal broker opens a new escrow account. What must they do regarding KREC?",
+      "correct_answer": "Identify the account to KREC in writing",
+      "distractors": ["Get KREC approval before opening", "Register it with the state treasurer", "Nothing until the next license renewal"],
+      "explanation": "All escrow accounts must be identified to KREC in writing. This allows KREC to track and audit all accounts holding client funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "KREC", "notification"]
+    },
+    {
+      "key_topic_ref": "KY-08.1",
+      "question_text": "A broker uses a single account for both sales escrow and property management funds. Is this acceptable?",
+      "correct_answer": "Only if specifically identified in records",
+      "distractors": ["Yes, with no special requirements", "No, they must always be in separate accounts", "Only for brokers managing under 10 units"],
+      "explanation": "Property management escrow accounts must be separate from all other escrow accounts OR specifically identified in records. A combined account is permissible only with proper identification and tracking.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["escrow", "property management", "separate accounts"]
+    },
+    {
+      "key_topic_ref": "KY-08.1",
+      "question_text": "What document must the principal broker sign at licensure and each renewal regarding escrow accounts?",
+      "correct_answer": "Blanket audit permission",
+      "distractors": ["Escrow account bond agreement", "Annual financial statement", "Fiduciary responsibility pledge"],
+      "explanation": "The principal broker must sign blanket audit permission at licensure and each renewal, granting KREC the right to audit all escrow accounts at any time without advance notice.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["blanket audit", "escrow", "principal broker"]
+    },
+    {
+      "key_topic_ref": "KY-08.1",
+      "question_text": "What type of account must escrow funds be held in, separate from all other broker accounts?",
+      "correct_answer": "Separate escrow/trust account",
+      "distractors": ["The broker's operating account", "A joint account with the client", "The broker's personal savings account"],
+      "explanation": "Escrow accounts must be separate from personal and office accounts. Mixing escrow funds with personal or business funds constitutes commingling, a serious violation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "separate account", "trust"]
+    },
+    {
+      "key_topic_ref": "KY-08.2",
+      "question_text": "A broker receives an earnest money deposit on Wednesday. By when must it be deposited into the escrow account?",
+      "correct_answer": "By the end of business Monday",
+      "distractors": ["By the end of business Thursday", "By the end of business Friday", "Within 24 hours of receipt"],
+      "explanation": "Kentucky requires deposits within 3 business days of receipt. Received Wednesday, counting Thursday (1), Friday (2), Monday (3) — the deposit must be made by end of business Monday.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deposit", "3 business days", "timing"]
+    },
+    {
+      "key_topic_ref": "KY-08.2",
+      "question_text": "Within how many business days must a broker deposit money belonging to others into escrow?",
+      "correct_answer": "3 business days",
+      "distractors": ["1 business day", "5 business days", "Next business day"],
+      "explanation": "Kentucky requires that deposits of contract deposits and money belonging to others be made within 3 business days of receipt into the broker's escrow account.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deposit", "timeline", "escrow"]
+    },
+    {
+      "key_topic_ref": "KY-08.2",
+      "question_text": "Can a Kentucky escrow account earn interest? If so, who receives the interest?",
+      "correct_answer": "Yes, the party agreed to in writing",
+      "distractors": ["No, escrow accounts cannot earn interest", "Yes, it always goes to the broker", "Yes, it always goes to the buyer"],
+      "explanation": "Interest-bearing escrow accounts are permitted in Kentucky. The interest accrues to the party agreed to in writing by the parties involved in the transaction.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["interest", "escrow", "agreement"]
+    },
+    {
+      "key_topic_ref": "KY-08.2",
+      "question_text": "A buyer and seller disagree about who should receive interest on the escrow deposit. How should this be resolved?",
+      "correct_answer": "Per the written agreement between parties",
+      "distractors": ["The broker decides the matter independently", "Interest always goes to the buyer first", "KREC resolves all escrow account disputes"],
+      "explanation": "Interest on escrow accounts accrues to the party agreed to in writing. If the parties did not address this in their agreement, the broker should not unilaterally decide.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["interest", "dispute", "agreement"]
+    },
+    {
+      "key_topic_ref": "KY-08.2",
+      "question_text": "A broker receives a security deposit on a Saturday. When does the 3-business-day deposit clock start?",
+      "correct_answer": "The next business day (Monday)",
+      "distractors": ["Saturday, the actual day of receipt", "The following Tuesday after receipt", "The following Wednesday after receipt"],
+      "explanation": "Business days exclude weekends. The 3-business-day clock starts counting on Monday (the next business day). The deposit would be due by end of business Wednesday.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deposit", "business days", "timing"]
+    },
+    {
+      "key_topic_ref": "KY-08.3",
+      "question_text": "A broker deposits a personal check into the escrow account to cover a temporary shortfall. What has occurred?",
+      "correct_answer": "Commingling of personal and client funds",
+      "distractors": ["Acceptable temporary cash management", "A permitted advance with documentation", "A minor record-keeping issue"],
+      "explanation": "Commingling — mixing personal funds with client funds — is prohibited. Even depositing personal funds into escrow to cover a shortfall constitutes commingling.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "prohibition", "escrow"]
+    },
+    {
+      "key_topic_ref": "KY-08.3",
+      "question_text": "A broker's escrow account is overdrawn due to a bank error. The bank will correct it in 48 hours. Must the broker notify KREC?",
+      "correct_answer": "No, if correctable within 72 hours",
+      "distractors": ["Yes, all overdrafts must be reported", "Only if the overdraft exceeds $1,000", "No notification is ever required"],
+      "explanation": "The broker must advise KREC in writing if an overdraft occurs that is NOT correctable within 72 hours and not due to bank service charges. A 48-hour correction falls within the safe window.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["overdraft", "reporting", "72 hours"]
+    },
+    {
+      "key_topic_ref": "KY-08.3",
+      "question_text": "A broker's escrow account has an overdraft that cannot be corrected for 5 business days. What must they do?",
+      "correct_answer": "Advise KREC in writing",
+      "distractors": ["Close the account immediately", "Transfer funds from personal accounts", "Wait for the bank to resolve it"],
+      "explanation": "If an overdraft is not correctable within 72 hours and is not due to bank service charges, the broker must advise KREC in writing. This exceeds the 72-hour safe harbor.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["overdraft", "KREC", "notification"]
+    },
+    {
+      "key_topic_ref": "KY-08.3",
+      "question_text": "An escrow account overdraft occurs due to a bank service charge. Must the broker report this to KREC?",
+      "correct_answer": "No, bank service charge overdrafts are exempt",
+      "distractors": ["Yes, all overdrafts require immediate reporting", "Only if the service charge exceeds $100", "Only if the overdraft occurs more than once"],
+      "explanation": "Overdrafts due to bank service charges are specifically exempt from the KREC reporting requirement. The broker must report overdrafts that are not correctable within 72 hours and not caused by bank fees.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["overdraft", "bank charges", "exemption"]
+    },
+    {
+      "key_topic_ref": "KY-08.3",
+      "question_text": "A broker uses client escrow funds to pay brokerage operating expenses with intent to repay. What violation has occurred?",
+      "correct_answer": "Commingling and conversion of funds",
+      "distractors": ["A temporary cash advance only", "An accounting error requiring correction", "No violation if funds are repaid"],
+      "explanation": "Using client escrow funds for any purpose other than the intended transaction is both commingling and conversion (misappropriation). Intent to repay does not excuse the violation.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commingling", "conversion", "violation"]
+    }
+  ]
+}

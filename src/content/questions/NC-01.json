@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NC-01",
+  "scope": "state",
+  "state": "NC",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "NC-01.1",
+      "question_text": "How many hours of prelicensing education does North Carolina require before taking the licensing exam?",
+      "correct_answer": "75 hours",
+      "distractors": [
+        "60 hours",
+        "90 hours",
+        "120 hours"
+      ],
+      "explanation": "North Carolina requires a 75-hour prelicensing course from a Commission-certified education provider (EP). This course must be completed before a candidate can sit for the licensing exam administered by Pearson VUE.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["prelicensing", "education_hours", "EP"]
+    },
+    {
+      "key_topic_ref": "NC-01.1",
+      "question_text": "A candidate passed her prelicensing course 2 years ago but has not yet taken the exam. Can she still sit for it?",
+      "correct_answer": "Yes, the course is valid for 3 years",
+      "distractors": [
+        "No, the course expires after 1 year",
+        "No, the course expires after 2 years",
+        "Only if she takes a refresher course"
+      ],
+      "explanation": "Prelicensing education in North Carolina remains valid for 3 years from the date of completion. Since only 2 years have passed, the candidate is still eligible to sit for the licensing exam without retaking the course.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prelicensing", "course_validity", "exam_eligibility"]
+    },
+    {
+      "key_topic_ref": "NC-01.1",
+      "question_text": "A candidate failed the State section on day 1 of her 180-day eligibility. What is the earliest she can retest?",
+      "correct_answer": "Day 11 of the eligibility period",
+      "distractors": [
+        "Day 2 of the eligibility period",
+        "Day 31 of the eligibility period",
+        "Day 15 of the eligibility period"
+      ],
+      "explanation": "After failing a section, the earliest a candidate can retest is the 10th day after the last test date. Since she failed on day 1, she can retest on day 11. Each retest also requires a new $100 application fee.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["retest", "waiting_period", "exam"]
+    },
+    {
+      "key_topic_ref": "NC-01.1",
+      "question_text": "A candidate passed the National section but failed the State section. Her 180-day eligibility expires next week. What happens to her National score?",
+      "correct_answer": "The passed National section is forfeited",
+      "distractors": [
+        "The National score transfers to a new application",
+        "She receives a 90-day extension",
+        "The National score remains valid for 1 year"
+      ],
+      "explanation": "If a candidate does not pass both the National and State sections within the 180-day eligibility period, any previously passed section is forfeited. The candidate must submit a new application, obtain a new CRR, and retake both sections.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["180_day_period", "exam_forfeiture", "National_section"]
+    },
+    {
+      "key_topic_ref": "NC-01.1",
+      "question_text": "A candidate wants to retake only the State section after failing it. How much is the retake fee for a single section?",
+      "correct_answer": "$50",
+      "distractors": [
+        "$60",
+        "$100",
+        "$75"
+      ],
+      "explanation": "The fee to retake a single exam section is $50, while the comprehensive exam (both sections) costs $60. Each retest attempt also requires a separate $100 application fee submitted to NCREC.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam_fees", "retake", "single_section"]
+    },
+    {
+      "key_topic_ref": "NC-01.2",
+      "question_text": "A candidate submits her license application before her education provider reports passing. What happens?",
+      "correct_answer": "The application cannot be completed",
+      "distractors": [
+        "The application is approved provisionally",
+        "The candidate receives a temporary license",
+        "NCREC processes it within 30 days"
+      ],
+      "explanation": "North Carolina requires the education provider to report the candidate's passing before the online application through NCREC can be completed. Without this verification, the system will not allow the application to proceed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["application", "EP_reporting", "NCREC"]
+    },
+    {
+      "key_topic_ref": "NC-01.2",
+      "question_text": "A candidate obtained a Criminal Record Check (CRR) 7 months ago. Is it still valid for her license application?",
+      "correct_answer": "No, the CRR is only valid for 6 months",
+      "distractors": [
+        "Yes, the CRR is valid for 12 months",
+        "Yes, the CRR is valid for 1 year",
+        "Yes, if no new criminal activity occurred"
+      ],
+      "explanation": "A Criminal Record Check (CRR) in North Carolina is valid for only 6 months. Since 7 months have passed, the candidate must obtain a new CRR before her license application can be processed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["CRR", "validity_period", "criminal_record"]
+    },
+    {
+      "key_topic_ref": "NC-01.2",
+      "question_text": "A candidate wants to mail a paper license application to NCREC instead of applying online. Is this an option?",
+      "correct_answer": "No, applications must be submitted online",
+      "distractors": [
+        "Yes, either paper or online is accepted",
+        "Yes, but only with a certified check",
+        "Only if the candidate lacks internet access"
+      ],
+      "explanation": "North Carolina requires all license applications to be submitted through the NCREC online system. Paper applications are not accepted. The online system also requires the education provider to report the candidate's course completion before the application can be finalized.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["application", "online", "NCREC"]
+    },
+    {
+      "key_topic_ref": "NC-01.2",
+      "question_text": "An applicant with a prior felony conviction wants to know her eligibility before applying. What process is available?",
+      "correct_answer": "She may file a pre-determination petition",
+      "distractors": [
+        "She must wait until the conviction is expunged",
+        "She is permanently barred from licensure",
+        "She must apply and await the standard review"
+      ],
+      "explanation": "NCREC allows applicants with criminal history to file a pre-determination petition before completing the full application. This process lets the Commission evaluate eligibility in advance, saving the applicant time and expense if a disqualifying issue exists.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["criminal_history", "pre-determination", "eligibility"]
+    },
+    {
+      "key_topic_ref": "NC-01.2",
+      "question_text": "What is the application fee for a North Carolina real estate license?",
+      "correct_answer": "$100",
+      "distractors": [
+        "$50",
+        "$75",
+        "$150"
+      ],
+      "explanation": "The NC license application fee is $100, submitted online through NCREC. This fee is separate from exam fees and the $10 SSN verification fee. The application cannot be completed until the education provider reports the candidate's passing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["application_fee", "NCREC", "$100"]
+    },
+    {
+      "key_topic_ref": "NC-01.3",
+      "question_text": "Which North Carolina statute establishes the Real Estate Commission?",
+      "correct_answer": "NCGS 93A-3",
+      "distractors": [
+        "NCGS 47E-2",
+        "NCGS 105-164",
+        "NCGS 58A-1"
+      ],
+      "explanation": "The North Carolina Real Estate Commission is established under NCGS 93A-3. The Commission administers the entire Chapter 93A and promulgates administrative rules under Chapter 58A to regulate real estate brokerage.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NCREC", "NCGS_93A-3", "establishment"]
+    },
+    {
+      "key_topic_ref": "NC-01.3",
+      "question_text": "A broker falsified disclosure documents. Which actions can NCREC take against this broker?",
+      "correct_answer": "Suspend, revoke, or impose civil penalties",
+      "distractors": [
+        "Only issue a warning letter",
+        "Refer the matter solely to local courts",
+        "Suspend the license but not revoke it"
+      ],
+      "explanation": "NCREC has broad disciplinary authority including the power to suspend, revoke, or deny licenses. The Commission can also reprimand licensees and assess civil penalties. Falsifying disclosure documents is a serious violation warranting any of these actions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["NCREC", "disciplinary_authority", "civil_penalties"]
+    },
+    {
+      "key_topic_ref": "NC-01.3",
+      "question_text": "A broker argues that NCREC only regulates residential transactions. Is this correct?",
+      "correct_answer": "No, NCREC governs both residential and commercial",
+      "distractors": [
+        "Yes, commercial falls under a separate board",
+        "Yes, unless the property exceeds $500,000",
+        "No, but only if the broker holds a BIC designation"
+      ],
+      "explanation": "NCREC governs both residential and commercial real estate brokerage in North Carolina. There is no separate board for commercial transactions. All brokers engaged in either type of activity must be licensed and regulated by the Commission.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NCREC", "jurisdiction", "residential", "commercial"]
+    },
+    {
+      "key_topic_ref": "NC-01.3",
+      "question_text": "Under which set of administrative rules does NCREC operate when promulgating regulations?",
+      "correct_answer": "Rules Chapter 58A",
+      "distractors": [
+        "Rules Chapter 93A",
+        "Rules Chapter 47E",
+        "Rules Chapter 21-NCAC"
+      ],
+      "explanation": "NCREC promulgates its administrative rules under Chapter 58A of the North Carolina Administrative Code. While NCGS Chapter 93A is the enabling statute, the detailed regulations governing day-to-day operations are found in Rules Chapter 58A.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NCREC", "Rules_58A", "administrative_rules"]
+    },
+    {
+      "key_topic_ref": "NC-01.3",
+      "question_text": "NCREC discovers a licensee committed fraud. Beyond license action, what additional enforcement tool can the Commission use?",
+      "correct_answer": "Assess civil penalties against the licensee",
+      "distractors": [
+        "File criminal charges directly",
+        "Impose jail time on the licensee",
+        "Garnish the licensee's personal wages"
+      ],
+      "explanation": "In addition to suspending or revoking a license, NCREC can reprimand licensees and assess civil penalties. The Commission does not have criminal prosecution authority and cannot impose jail time. Criminal matters are referred to appropriate law enforcement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["NCREC", "civil_penalties", "enforcement", "fraud"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "TN-10",
+  "scope": "state",
+  "state": "TN",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "TN-10.1",
+      "question_text": "The Tennessee Residential Property Condition Disclosure Act applies to the sale of which type of property?",
+      "correct_answer": "Residential property with 1 to 4 units",
+      "distractors": ["All real property regardless of type", "Only single-family detached homes", "Commercial properties over $500,000"],
+      "explanation": "The disclosure requirement applies to residential property with 1-4 units. Commercial property and larger multifamily buildings are not covered by this act.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property disclosure", "residential", "1-4 units"]
+    },
+    {
+      "key_topic_ref": "TN-10.1",
+      "question_text": "When must a seller provide the property condition disclosure to a buyer?",
+      "correct_answer": "Before or at the time of the offer",
+      "distractors": ["Within 10 days after contract acceptance", "At the closing table only", "Only if the buyer requests it"],
+      "explanation": "The disclosure must be provided before or at the time of the offer, or as soon as practicable. It should inform the buyer's decision to purchase.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property disclosure", "timing", "offer"]
+    },
+    {
+      "key_topic_ref": "TN-10.1",
+      "question_text": "What does the property condition disclosure cover?",
+      "correct_answer": "The seller's knowledge of the property condition",
+      "distractors": ["A professional inspector's detailed report", "An appraiser's assessment of value", "The county's building code compliance check"],
+      "explanation": "The seller completes the disclosure form based on their personal knowledge of the property's condition, covering structural issues, water damage, environmental hazards, mechanical systems, and pest damage.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property disclosure", "seller knowledge", "condition"]
+    },
+    {
+      "key_topic_ref": "TN-10.1",
+      "question_text": "A seller selling a duplex receives a purchase offer. Must they provide the property condition disclosure?",
+      "correct_answer": "Yes, duplexes are 1-4 unit residential property",
+      "distractors": ["No, only single-family homes require disclosure", "Only if the duplex is owner-occupied", "Only if the buyer is not an investor"],
+      "explanation": "The disclosure act covers residential property with 1-4 units. A duplex falls within this range and requires the seller to complete the property condition disclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property disclosure", "duplex", "applicability"]
+    },
+    {
+      "key_topic_ref": "TN-10.1",
+      "question_text": "A seller knows the basement floods during heavy rain but does not mention it on the disclosure form. What has occurred?",
+      "correct_answer": "A failure to disclose a known condition",
+      "distractors": ["No issue if the buyer gets an inspection", "Acceptable if the flooding is seasonal", "Only a problem if the buyer asks about it"],
+      "explanation": "Sellers must disclose known conditions including water damage. Knowingly omitting flooding issues from the disclosure form is a failure to meet the disclosure obligation.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property disclosure", "known defects", "water damage"]
+    },
+    {
+      "key_topic_ref": "TN-10.2",
+      "question_text": "Which type of transfer is exempt from the Tennessee property condition disclosure requirement?",
+      "correct_answer": "Transfers by court order such as foreclosure",
+      "distractors": ["Sales to first-time homebuyers", "Sales of properties over 50 years old", "All sales involving a real estate agent"],
+      "explanation": "Transfers by court order (probate, foreclosure, bankruptcy) are exempt from the disclosure requirement. The seller in these cases may not have personal knowledge of the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure exemptions", "court order", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "TN-10.2",
+      "question_text": "A family member inherits a home and transfers it to a sibling. Is the property condition disclosure required?",
+      "correct_answer": "No, transfers between family members are exempt",
+      "distractors": ["Yes, all residential transfers require disclosure", "Only if the property has known defects", "Only if the transfer involves a mortgage"],
+      "explanation": "Transfers between co-owners or family members are specifically exempt from the property condition disclosure requirement under Tennessee law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure exemptions", "family transfers", "exempt"]
+    },
+    {
+      "key_topic_ref": "TN-10.2",
+      "question_text": "A seller lists their home 'as-is.' Does this eliminate the property condition disclosure requirement?",
+      "correct_answer": "No, as-is sales still require disclosure",
+      "distractors": ["Yes, as-is means no disclosure is needed", "Only if the buyer waives disclosure in writing", "Only for properties under $200,000"],
+      "explanation": "As-is sales do NOT eliminate the disclosure requirement. Sellers must still disclose known defects regardless of the as-is designation. The buyer assumes the condition, but must be informed of known issues.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["as-is sales", "disclosure required", "known defects"]
+    },
+    {
+      "key_topic_ref": "TN-10.2",
+      "question_text": "A builder sells a new home covered by a builder's warranty. Is the property condition disclosure required?",
+      "correct_answer": "No, new construction with warranty is exempt",
+      "distractors": ["Yes, all sales require disclosure", "Only for the structural components", "Only after the warranty expires"],
+      "explanation": "New construction covered by a builder's warranty is exempt from the property condition disclosure. The builder's warranty provides similar consumer protection.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure exemptions", "new construction", "warranty"]
+    },
+    {
+      "key_topic_ref": "TN-10.2",
+      "question_text": "A city government sells a foreclosed property it acquired for unpaid taxes. Must it provide a property condition disclosure?",
+      "correct_answer": "No, government entity transfers are exempt",
+      "distractors": ["Yes, for all properties over $100,000", "Yes, unless the property is sold at auction", "Only if a real estate agent is involved"],
+      "explanation": "Transfers by government entities are exempt from the property condition disclosure requirement. This applies to federal, state, and local government entities.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure exemptions", "government transfers", "exempt"]
+    },
+    {
+      "key_topic_ref": "TN-10.3",
+      "question_text": "Does Tennessee require real estate agents to independently inspect properties they list?",
+      "correct_answer": "No, there is no independent inspection duty",
+      "distractors": ["Yes, a visual inspection is always required", "Yes, but only for properties over 20 years old", "Yes, for all residential listings over $200,000"],
+      "explanation": "Tennessee does not impose an independent inspection duty on agents. However, agents must disclose any material facts they actually know about from their own observations or other sources.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agent role", "inspection", "no duty"]
+    },
+    {
+      "key_topic_ref": "TN-10.3",
+      "question_text": "An agent notices obvious water stains on a ceiling during a listing appointment. What must the agent do?",
+      "correct_answer": "Disclose the known material fact to buyers",
+      "distractors": ["Nothing unless the seller mentions it", "Order a professional inspection first", "Report it to TREC immediately"],
+      "explanation": "While agents have no duty to independently inspect, they must disclose any material facts they actually know about. Visible water damage observed by the agent is a known material fact.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["agent disclosure", "material facts", "known defects"]
+    },
+    {
+      "key_topic_ref": "TN-10.3",
+      "question_text": "An agent knows about termite damage from a prior inspection report but does not tell the buyer. What violation occurred?",
+      "correct_answer": "Actively concealing a known defect",
+      "distractors": ["No violation since agents don't inspect", "Only a violation if the seller also concealed it", "Acceptable if the agent isn't the listing agent"],
+      "explanation": "Agents cannot actively conceal known defects. While there is no independent inspection duty, agents must disclose material facts they are aware of. Concealment is grounds for TREC discipline.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["concealment", "known defects", "violation"]
+    },
+    {
+      "key_topic_ref": "TN-10.3",
+      "question_text": "A listing agent suspects but is not certain that the foundation has issues. What is the agent's obligation?",
+      "correct_answer": "Disclose the concern as a potential issue",
+      "distractors": ["No obligation without confirmed knowledge", "Only investigate if the buyer asks", "Wait for the buyer's inspector to find it"],
+      "explanation": "Agents should disclose potential material facts they have reason to believe may exist. While the duty covers 'known' facts, reasonable suspicion of a significant defect should be shared to avoid misrepresentation claims.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["agent disclosure", "suspected defects", "material facts"]
+    },
+    {
+      "key_topic_ref": "TN-10.3",
+      "question_text": "A licensee sells a property they personally own. What additional disclosure is required?",
+      "correct_answer": "They must disclose their ownership interest",
+      "distractors": ["No additional disclosure is needed", "They must hire an independent appraiser", "They must have TREC approve the sale"],
+      "explanation": "A licensee must disclose their own interest in a property being sold or purchased. Selling one's own property while licensed creates a potential conflict that must be transparently disclosed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["agent interest", "self-dealing", "disclosure"]
+    }
+  ]
+}

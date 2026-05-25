@@ -1,0 +1,228 @@
+{
+  "standard_ref": "WI-09",
+  "scope": "state",
+  "state": "WI",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "WI-09.1",
+      "question_text": "Under Chapter 709, within how many days of acceptance must the seller provide the Real Estate Condition Report?",
+      "correct_answer": "10 days",
+      "distractors": ["5 days", "15 days", "30 days"],
+      "explanation": "Wisconsin law requires sellers to furnish a completed Real Estate Condition Report to prospective buyers no later than 10 days after acceptance of the contract.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condition report", "Chapter 709", "deadline"]
+    },
+    {
+      "key_topic_ref": "WI-09.1",
+      "question_text": "What standard of disclosure applies to the Wisconsin Real Estate Condition Report?",
+      "correct_answer": "Sellers disclose what they actually know",
+      "distractors": ["Sellers must hire an inspector before disclosing", "Sellers must investigate all possible defects", "Sellers can choose what to disclose"],
+      "explanation": "Wisconsin uses a 'known' standard — sellers disclose what they actually know about the property's condition. They have no duty to inspect or investigate, but must be honest and disclose in good faith.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condition report", "known standard", "disclosure"]
+    },
+    {
+      "key_topic_ref": "WI-09.1",
+      "question_text": "Which areas does the Wisconsin Real Estate Condition Report cover?",
+      "correct_answer": "Structural, environmental, and legal issues",
+      "distractors": ["Only structural defects visible to the eye", "Only environmental contamination issues", "Only issues found during a professional inspection"],
+      "explanation": "The Condition Report covers structural defects (roof, foundation, HVAC, plumbing), environmental issues (wells, asbestos, lead, radon, tanks), and legal issues (boundary disputes, shared wells, encumbrances).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condition report", "coverage", "defects"]
+    },
+    {
+      "key_topic_ref": "WI-09.1",
+      "question_text": "A seller knows the basement floods during heavy rain but does not disclose this. What obligation was violated?",
+      "correct_answer": "The duty to provide honest, good-faith disclosure",
+      "distractors": ["The duty to repair all known defects first", "The duty to hire a professional inspector", "No obligation, since flooding is weather-related"],
+      "explanation": "The Condition Report requires honest, good-faith disclosure of known conditions. Knowingly failing to disclose a recurring basement flooding problem violates this requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condition report", "honesty", "flooding"]
+    },
+    {
+      "key_topic_ref": "WI-09.1",
+      "question_text": "A seller inherited a property and never lived there. Must they still provide a Condition Report?",
+      "correct_answer": "No, sellers who never occupied are exempt",
+      "distractors": ["Yes, all residential sellers must provide one", "Yes, but only for properties over $200,000", "No, but only if the property is being sold as-is"],
+      "explanation": "The Condition Report has several exemptions, including sellers who never occupied the property. Since they never lived there, they may not have knowledge of the property's condition.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condition report", "exemption", "non-occupant"]
+    },
+    {
+      "key_topic_ref": "WI-09.2",
+      "question_text": "Which property type is exempt from the Wisconsin Condition Report requirement?",
+      "correct_answer": "Multi-unit properties with 5 or more units",
+      "distractors": ["Any property built before 1978", "Properties listed for less than $100,000", "Commercial properties converted to residential"],
+      "explanation": "Properties with 5 or more units are exempt from the Condition Report. Other exemptions include estates/trusts, foreclosure sales, new construction (builder warranty applies), and sellers who never occupied.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condition report", "exemption", "multi-unit"]
+    },
+    {
+      "key_topic_ref": "WI-09.2",
+      "question_text": "A seller fails to provide the Condition Report within 10 days. What can the buyer do?",
+      "correct_answer": "Rescind within 2 business days after the period expires",
+      "distractors": ["Rescind at any time before closing", "Demand a $5,000 penalty from the seller", "Nothing, the contract remains fully binding"],
+      "explanation": "If the seller doesn't provide the Condition Report within 10 days, the buyer may rescind within 2 business days after that 10-day period expires. Once the report is received and accepted, rescission rights end.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condition report", "rescission", "buyer rights"]
+    },
+    {
+      "key_topic_ref": "WI-09.2",
+      "question_text": "A foreclosure property is being sold. Is a Condition Report required?",
+      "correct_answer": "No, foreclosure sales are exempt",
+      "distractors": ["Yes, the lender must provide one", "Yes, but only for owner-occupied foreclosures", "No, unless the buyer specifically requests one"],
+      "explanation": "Foreclosure sales are exempt from the Condition Report requirement. The lender typically has limited knowledge of the property's condition, so the exemption applies.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condition report", "exemption", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "WI-09.2",
+      "question_text": "New construction is exempt from the Condition Report because:",
+      "correct_answer": "Builder warranty applies to new homes",
+      "distractors": ["New homes have no possible defects", "The buyer inspects before the final walkthrough", "DSPS inspects all new construction"],
+      "explanation": "New construction is exempt because the builder warranty serves a similar purpose, providing protection against defects. The builder is responsible for construction quality under their warranty.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condition report", "exemption", "new construction"]
+    },
+    {
+      "key_topic_ref": "WI-09.2",
+      "question_text": "Once a buyer receives and accepts the Condition Report, can they still rescind based on the report?",
+      "correct_answer": "No, rescission rights end once the report is accepted",
+      "distractors": ["Yes, within 5 business days of acceptance", "Yes, if an inspector finds additional defects", "Yes, at any time before closing"],
+      "explanation": "The buyer's rescission right exists only if the report is not provided within 10 days. Once the buyer receives and accepts the report, there is no rescission right based on the report itself.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condition report", "rescission", "acceptance"]
+    },
+    {
+      "key_topic_ref": "WI-09.3",
+      "question_text": "Who is responsible for cleanup if an underground storage tank on a property leaks?",
+      "correct_answer": "The property owner of record",
+      "distractors": ["The company that installed the tank", "The Wisconsin Department of Natural Resources", "The previous owner who used the tank"],
+      "explanation": "In Wisconsin, the property owner of record is liable for contamination and remediation of underground storage tanks. USTs must be registered with the WI DNR and properly closed or removed by certified professionals.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental", "UST", "liability"]
+    },
+    {
+      "key_topic_ref": "WI-09.3",
+      "question_text": "Underground storage tanks in Wisconsin must be registered with which agency?",
+      "correct_answer": "The Wisconsin Department of Natural Resources",
+      "distractors": ["The Department of Safety and Professional Services", "The Real Estate Examining Board", "The county Register of Deeds"],
+      "explanation": "USTs must be registered with the Wisconsin DNR. The property owner of record is liable for contamination and remediation. Tanks must be properly closed or removed by certified professionals.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental", "UST", "DNR"]
+    },
+    {
+      "key_topic_ref": "WI-09.3",
+      "question_text": "How often must Private Onsite Wastewater Treatment Systems (POWTS) be inspected?",
+      "correct_answer": "At least every 3 years",
+      "distractors": ["Annually", "Every 5 years", "Only when the property is sold"],
+      "explanation": "POWTS (septic systems) require a visual inspection by a licensed POWTS professional at least every 3 years. Pumping is required when sludge or scum exceeds one-third of the tank volume.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental", "POWTS", "septic"]
+    },
+    {
+      "key_topic_ref": "WI-09.3",
+      "question_text": "A property borders a lake in Wisconsin. Development is typically restricted within:",
+      "correct_answer": "1,000 feet of the lake shore",
+      "distractors": ["100 feet of the lake shore", "300 feet of the lake shore", "500 feet of the lake shore"],
+      "explanation": "Wisconsin DNR has shoreland zoning jurisdiction. Development restrictions apply within 300 feet of navigable waterways and 1,000 feet of lakes. Wetland delineation may also be required.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental", "shoreland", "zoning"]
+    },
+    {
+      "key_topic_ref": "WI-09.3",
+      "question_text": "Radon testing in Wisconsin is most commonly performed at what level of the home?",
+      "correct_answer": "The lowest living level, typically the basement",
+      "distractors": ["The attic, where radon accumulates", "The main floor living area only", "Outside the home near the foundation"],
+      "explanation": "Radon testing is recommended at the lowest living level, typically the basement in Wisconsin homes. Southern Wisconsin counties tend to have higher radon levels.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental", "radon", "testing"]
+    },
+    {
+      "key_topic_ref": "WI-09.4",
+      "question_text": "When selling a condominium in Wisconsin, what additional disclosure must be provided?",
+      "correct_answer": "Association documents, budget, and reserve fund information",
+      "distractors": ["Only the monthly assessment amount", "A building inspection report from the HOA", "The original developer's marketing materials"],
+      "explanation": "Wisconsin has specific condominium disclosure requirements. Buyers must receive association documents, financial information including the budget and reserve fund, and other relevant association information.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "disclosure", "HOA"]
+    },
+    {
+      "key_topic_ref": "WI-09.4",
+      "question_text": "Federal lead-based paint disclosure is required for homes built before what year?",
+      "correct_answer": "1978",
+      "distractors": ["1970", "1985", "1990"],
+      "explanation": "Federal law requires lead-based paint disclosure for all residential properties built before 1978, when lead paint was banned for residential use. Sellers must provide known information about lead paint and give buyers a 10-day testing opportunity.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead paint", "disclosure", "1978"]
+    },
+    {
+      "key_topic_ref": "WI-09.4",
+      "question_text": "A listing for a condominium unit built in 1975 would require which disclosures?",
+      "correct_answer": "Both condominium and lead paint disclosures",
+      "distractors": ["Only the standard Condition Report", "Only the lead paint disclosure", "Only the condominium disclosure"],
+      "explanation": "A condo built in 1975 triggers both condominium-specific disclosures (association documents, budget) and federal lead paint disclosure (built before 1978). The Condition Report may also apply.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condominium", "lead paint", "multiple disclosures"]
+    },
+    {
+      "key_topic_ref": "WI-09.4",
+      "question_text": "Which form is used for a condominium listing in Wisconsin?",
+      "correct_answer": "WB-4",
+      "distractors": ["WB-1", "WB-3", "WB-5"],
+      "explanation": "WB-4 is the Residential Condominium Listing Contract. There is also a corresponding WB-14 Residential Condominium Offer to Purchase for the transaction.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "WB-4", "listing"]
+    },
+    {
+      "key_topic_ref": "WI-09.4",
+      "question_text": "A buyer of a pre-1978 home must be given how many days to conduct a lead paint inspection?",
+      "correct_answer": "10 days",
+      "distractors": ["5 days", "14 days", "30 days"],
+      "explanation": "Under federal lead paint disclosure rules, buyers of pre-1978 homes must be given a 10-day opportunity to conduct a lead paint inspection. The buyer may waive this right.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead paint", "inspection", "10 days"]
+    }
+  ]
+}

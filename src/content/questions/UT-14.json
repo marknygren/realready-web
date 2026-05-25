@@ -1,0 +1,173 @@
+{
+  "standard_ref": "UT-14",
+  "scope": "state",
+  "state": "UT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "UT-14.1",
+      "question_text": "Utah is a trust deed state, which means most residential loans use:",
+      "correct_answer": "A deed of trust instead of a mortgage",
+      "distractors": ["A mortgage with judicial foreclosure", "A land contract with seller financing", "A lease-purchase agreement"],
+      "explanation": "Utah is a trust deed state where most real estate loans use trust deeds (deeds of trust) rather than traditional mortgages. This enables non-judicial foreclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-deeds", "foreclosure", "security-instrument"]
+    },
+    {
+      "key_topic_ref": "UT-14.1",
+      "question_text": "What is the most common method of foreclosure in Utah?",
+      "correct_answer": "Non-judicial foreclosure (trustee's sale)",
+      "distractors": ["Judicial foreclosure through the courts", "Strict foreclosure by the lender", "Power of sale through the county"],
+      "explanation": "Non-judicial foreclosure through a trustee's sale is the most common method in Utah. It begins with recording a Notice of Default, followed by a 3-month reinstatement period and then the sale.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "non-judicial", "trustees-sale"]
+    },
+    {
+      "key_topic_ref": "UT-14.1",
+      "question_text": "After a Notice of Default is recorded in Utah, the borrower has how long to reinstate the loan?",
+      "correct_answer": "3 months",
+      "distractors": ["30 days", "6 months", "1 year"],
+      "explanation": "After the Notice of Default is recorded, the borrower has a 3-month reinstatement period to bring the loan current. After this period, a Notice of Sale is issued with at least 20 days before the sale.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "reinstatement", "3-months"]
+    },
+    {
+      "key_topic_ref": "UT-14.1",
+      "question_text": "After a trustee's sale in Utah, the former owner generally has:",
+      "correct_answer": "No statutory right of redemption",
+      "distractors": ["A 6-month redemption period", "A 1-year redemption period", "A 90-day redemption period"],
+      "explanation": "After a non-judicial trustee's sale in Utah, there is generally no statutory right of redemption for the borrower. This distinguishes Utah from states that allow post-sale redemption.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "no-redemption", "trustees-sale"]
+    },
+    {
+      "key_topic_ref": "UT-14.1",
+      "question_text": "What is the approximate minimum timeline for a non-judicial foreclosure in Utah from Notice of Default to sale?",
+      "correct_answer": "Approximately 4 months",
+      "distractors": ["Approximately 2 months", "Approximately 6 months", "Approximately 12 months"],
+      "explanation": "The minimum timeline is about 4 months: 3-month reinstatement period after Notice of Default, then at least 20 days after Notice of Sale before the trustee's sale can occur.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "timeline", "minimum"]
+    },
+    {
+      "key_topic_ref": "UT-14.2",
+      "question_text": "The Utah Mechanic's Lien Act allows which parties to place liens on property?",
+      "correct_answer": "Contractors, subcontractors, and material suppliers",
+      "distractors": ["Only licensed general contractors", "Only the property owner's direct contractors", "Only suppliers of materials over $5,000"],
+      "explanation": "The Mechanic's Lien Act allows contractors, subcontractors, and material suppliers to place liens on property for unpaid work. Preliminary notice requirements must be followed to preserve lien rights.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mechanics-lien", "eligible-parties", "construction"]
+    },
+    {
+      "key_topic_ref": "UT-14.2",
+      "question_text": "Mechanic's lien priority in Utah can date back to:",
+      "correct_answer": "The commencement of construction",
+      "distractors": ["The date the lien was filed", "The date the contract was signed", "The date of the building permit"],
+      "explanation": "Mechanic's liens can have priority dating back to the commencement of construction on the property, which may give them priority over later-recorded encumbrances.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mechanics-lien", "priority", "construction"]
+    },
+    {
+      "key_topic_ref": "UT-14.2",
+      "question_text": "A homeowner pays a contractor in full, but the contractor fails to pay a subcontractor. The subcontractor files a mechanic's lien. The homeowner may seek help from:",
+      "correct_answer": "The Residence Lien Recovery Fund",
+      "distractors": ["The Real Estate Recovery Fund", "The Division of Real Estate only", "The county building department"],
+      "explanation": "The Utah Residence Lien Restriction and Lien Recovery Fund provides compensation to homeowners who pay contractors who fail to pay subcontractors, protecting homeowners from paying twice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lien-recovery-fund", "homeowner-protection", "subcontractor"]
+    },
+    {
+      "key_topic_ref": "UT-14.2",
+      "question_text": "To preserve mechanic's lien rights in Utah, a subcontractor must:",
+      "correct_answer": "Follow preliminary notice requirements",
+      "distractors": ["Register with the Division of Real Estate", "Obtain the homeowner's written consent", "File a claim within 10 days of starting work"],
+      "explanation": "Preliminary notice requirements must be followed to preserve mechanic's lien rights. Failure to provide proper preliminary notice may result in loss of the right to file a lien.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mechanics-lien", "preliminary-notice", "requirements"]
+    },
+    {
+      "key_topic_ref": "UT-14.2",
+      "question_text": "The Residence Lien Restriction and Lien Recovery Fund primarily protects:",
+      "correct_answer": "Homeowners from paying twice for the same work",
+      "distractors": ["Contractors from non-paying homeowners", "Subcontractors from contractor bankruptcy", "Lenders from construction defects"],
+      "explanation": "The Fund protects homeowners who paid their contractor but the contractor failed to pay subcontractors. Without this protection, homeowners could face liens despite having paid in full.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lien-recovery-fund", "homeowner-protection", "purpose"]
+    },
+    {
+      "key_topic_ref": "UT-14.3",
+      "question_text": "How many years of continuous possession are required for adverse possession in Utah?",
+      "correct_answer": "7 years",
+      "distractors": ["5 years", "10 years", "20 years"],
+      "explanation": "Utah requires 7 years of continuous, open, notorious, hostile, and exclusive possession for adverse possession. Additionally, the possessor must pay property taxes during the entire statutory period.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["adverse-possession", "7-years", "requirements"]
+    },
+    {
+      "key_topic_ref": "UT-14.3",
+      "question_text": "In addition to continuous possession for 7 years, Utah's adverse possession requires the claimant to:",
+      "correct_answer": "Pay property taxes during the entire period",
+      "distractors": ["File notice with the county recorder", "Obtain a court order before the period starts", "Register with the Division of Real Estate"],
+      "explanation": "Utah requires payment of property taxes during the 7-year statutory period in addition to the standard adverse possession elements of continuous, open, notorious, hostile, and exclusive possession.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["adverse-possession", "tax-payment", "requirements"]
+    },
+    {
+      "key_topic_ref": "UT-14.3",
+      "question_text": "Under Utah's Statute of Frauds, which agreement must be in writing to be enforceable?",
+      "correct_answer": "A contract for the sale of real property",
+      "distractors": ["A month-to-month residential lease", "An oral agreement to share a commission", "A verbal property management agreement"],
+      "explanation": "Under Utah's Statute of Frauds, contracts for the sale of real property must be in writing and signed by the party to be charged. Leases exceeding one year must also be in writing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute-of-frauds", "written-requirement", "real-property"]
+    },
+    {
+      "key_topic_ref": "UT-14.3",
+      "question_text": "A landlord and tenant verbally agree to a 2-year lease. Under the Statute of Frauds, this lease is:",
+      "correct_answer": "Unenforceable because it exceeds one year",
+      "distractors": ["Fully enforceable as agreed", "Valid for the first year only", "Enforceable if witnessed by two parties"],
+      "explanation": "Under the Statute of Frauds, leases exceeding one year must be in writing. A verbal 2-year lease would be unenforceable because it exceeds the one-year threshold.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute-of-frauds", "leases", "one-year"]
+    },
+    {
+      "key_topic_ref": "UT-14.3",
+      "question_text": "A person occupies vacant land openly for 6 years, pays all taxes, and uses it exclusively. Can they claim adverse possession?",
+      "correct_answer": "No, 7 years of possession is required",
+      "distractors": ["Yes, 5 years is sufficient in Utah", "Yes, if they file a quiet title action now", "No, adverse possession only applies to structures"],
+      "explanation": "Utah requires 7 continuous years of adverse possession plus tax payment. At 6 years, the statutory period has not been met. The claimant would need to continue for at least one more year.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["adverse-possession", "7-years", "insufficient-time"]
+    }
+  ]
+}

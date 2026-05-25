@@ -1,0 +1,173 @@
+{
+  "standard_ref": "DE-01",
+  "scope": "state",
+  "state": "DE",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "DE-01.1",
+      "question_text": "How many members serve on the Delaware Real Estate Commission?",
+      "correct_answer": "9 members total",
+      "distractors": ["7 members total", "11 members total", "5 members total"],
+      "explanation": "The Delaware Real Estate Commission has 9 members: 5 professional members (3 brokers representing each county, 1 associate broker, and 1 salesperson) plus 4 public members. This composition ensures both industry expertise and public accountability.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commission", "composition", "membership"]
+    },
+    {
+      "key_topic_ref": "DE-01.1",
+      "question_text": "A broker from Sussex County resigns from the Commission. Who appoints the replacement?",
+      "correct_answer": "The Governor with Senate confirmation",
+      "distractors": ["The Division of Professional Regulation", "The remaining Commission members", "The Delaware Association of Realtors"],
+      "explanation": "All Commission members are appointed by the Governor and must be confirmed by the Delaware Senate. This applies to both professional and public members, ensuring a checks-and-balances approach to Commission composition.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commission", "appointment", "governor"]
+    },
+    {
+      "key_topic_ref": "DE-01.1",
+      "question_text": "A Commission member has served two consecutive 3-year terms. What is her eligibility for reappointment?",
+      "correct_answer": "She is ineligible for another term",
+      "distractors": ["She may serve one additional term", "She must wait one year then reapply", "She may serve indefinitely if reappointed"],
+      "explanation": "Delaware law limits Commission members to a maximum of two consecutive terms. Each term is 3 years, so after serving 6 years a member must step down. This rotation ensures fresh perspectives on the Commission.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commission", "term-limits", "appointment"]
+    },
+    {
+      "key_topic_ref": "DE-01.1",
+      "question_text": "The Commission's authority to adopt rules governing licensees derives from which source?",
+      "correct_answer": "Title 24 Chapter 29 of Delaware Code",
+      "distractors": ["Federal real estate licensing statutes", "The National Association of Realtors", "The Division of Professional Regulation"],
+      "explanation": "The Commission's rulemaking authority comes from Title 24 Chapter 29 of the Delaware Code. This statutory grant empowers the Commission to create and enforce rules governing real estate practice. The Division of Professional Regulation provides administrative support but does not grant the authority itself.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commission", "rulemaking", "statutory-authority"]
+    },
+    {
+      "key_topic_ref": "DE-01.1",
+      "question_text": "Which of the following correctly describes the professional members of the Commission?",
+      "correct_answer": "Three brokers, one associate broker, one salesperson",
+      "distractors": ["Five brokers from different counties", "Four brokers and one salesperson", "Three salespersons and two brokers"],
+      "explanation": "The 5 professional members include 3 brokers (one from each county: New Castle, Kent, and Sussex), 1 associate broker, and 1 salesperson. This structure ensures geographic diversity and representation of different license levels.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commission", "composition", "professional-members"]
+    },
+    {
+      "key_topic_ref": "DE-01.2",
+      "question_text": "A homebuyer believes a licensee misrepresented property conditions. Who may file a complaint with the Commission?",
+      "correct_answer": "Any person may file a complaint",
+      "distractors": ["Only the buyer's attorney may file", "Only another licensed agent may file", "Only the buyer after a court ruling"],
+      "explanation": "Delaware law allows any person to file a complaint against a licensee with the Real Estate Commission. The complainant does not need to be a party to the transaction, an attorney, or another licensee. This broad standing helps protect the public.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["complaints", "investigations", "public-protection"]
+    },
+    {
+      "key_topic_ref": "DE-01.2",
+      "question_text": "During a formal hearing, a licensee accused of misconduct wants to question the complainant directly. Is this permitted?",
+      "correct_answer": "Yes, respondents have the right to cross-examine",
+      "distractors": ["No, only the hearing officer may question", "Only if the Commission grants permission", "Only through written interrogatories"],
+      "explanation": "Delaware law guarantees due process in Commission hearings. Respondents have the right to be represented by counsel, present evidence, and cross-examine witnesses. These protections apply whether the hearing is before the full Commission or a designated hearing officer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["hearings", "due-process", "cross-examination"]
+    },
+    {
+      "key_topic_ref": "DE-01.2",
+      "question_text": "A licensee disagrees with the Commission's disciplinary decision. Where should she file an appeal?",
+      "correct_answer": "Delaware Superior Court",
+      "distractors": ["Delaware Supreme Court", "The Division of Professional Regulation", "The Delaware Court of Chancery"],
+      "explanation": "Appeals of Commission decisions go to Delaware Superior Court. This provides judicial review of administrative actions, ensuring that licensees have recourse if they believe the Commission acted improperly or exceeded its authority.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["appeals", "superior-court", "due-process"]
+    },
+    {
+      "key_topic_ref": "DE-01.2",
+      "question_text": "A formal hearing on a licensee complaint may be conducted by which of the following?",
+      "correct_answer": "The full Commission or a hearing officer",
+      "distractors": ["Only the full Commission as a body", "Only a judge from Superior Court", "Only the Division of Professional Regulation"],
+      "explanation": "Delaware permits formal hearings to be conducted either by the full Commission or by a designated hearing officer. Both forums provide the same due process protections, including the right to counsel and cross-examination of witnesses.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["hearings", "hearing-officer", "commission"]
+    },
+    {
+      "key_topic_ref": "DE-01.2",
+      "question_text": "An anonymous tip alleges a broker is running a trust account improperly. Can the Commission investigate based solely on this tip?",
+      "correct_answer": "Yes, the Commission may investigate any complaint",
+      "distractors": ["No, anonymous complaints are not accepted", "Only if the tipster later identifies herself", "Only if a client also files a complaint"],
+      "explanation": "Because any person may file a complaint, the Commission has authority to investigate allegations from any source. The Commission's investigative powers are broad to ensure public protection, and complaints do not require a specific form or identified complainant to trigger inquiry.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["complaints", "investigations", "trust-accounts"]
+    },
+    {
+      "key_topic_ref": "DE-01.3",
+      "question_text": "Which of the following is a sanction the Commission may impose on a licensee?",
+      "correct_answer": "Reprimand, probation, suspension, or fine",
+      "distractors": ["Only license revocation or suspension", "Criminal prosecution and imprisonment", "Mandatory community service hours"],
+      "explanation": "The Commission has a range of sanctions available: reprimand, probation, suspension, revocation, and fines. These may be combined as the Commission deems appropriate. Criminal prosecution is handled by law enforcement, not the Commission.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sanctions", "discipline", "penalties"]
+    },
+    {
+      "key_topic_ref": "DE-01.3",
+      "question_text": "A salesperson deposits a client's earnest money into her personal checking account. Which ground for discipline does this most clearly represent?",
+      "correct_answer": "Commingling of client funds",
+      "distractors": ["Practicing without a valid license", "Failure to complete continuing education", "Advertising without broker approval"],
+      "explanation": "Depositing client funds into a personal account is commingling, a serious violation and explicit ground for discipline under Delaware law. Earnest money and other client funds must be deposited into the broker's designated trust or escrow account, never a personal account.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "trust-accounts", "discipline"]
+    },
+    {
+      "key_topic_ref": "DE-01.3",
+      "question_text": "The Commission finds a broker guilty of fraud and incompetence. Which action may the Commission take?",
+      "correct_answer": "Revoke the license and impose a fine",
+      "distractors": ["Only revoke or only fine, not both", "Refer the matter to the courts only", "Issue a warning with no further action"],
+      "explanation": "The Commission may combine sanctions. For serious violations like fraud and incompetence, the Commission could revoke the license and impose a monetary fine simultaneously. This flexibility allows the Commission to craft penalties proportionate to the severity of the misconduct.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["sanctions", "fraud", "combined-penalties"]
+    },
+    {
+      "key_topic_ref": "DE-01.3",
+      "question_text": "A licensee is convicted of embezzlement in another state. Can the Delaware Commission take disciplinary action?",
+      "correct_answer": "Yes, a crime related to practice is grounds",
+      "distractors": ["No, only Delaware convictions apply", "Only if the conviction is a felony", "Only after serving the full sentence"],
+      "explanation": "Commission of a crime related to real estate practice is an explicit ground for discipline regardless of where the conviction occurred. Embezzlement directly relates to the trust and fiduciary duties inherent in real estate practice, making it a clear basis for Delaware Commission action.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["discipline", "criminal-conviction", "grounds"]
+    },
+    {
+      "key_topic_ref": "DE-01.3",
+      "question_text": "A broker fails to disclose a known material defect to a buyer. This is grounds for discipline under which category?",
+      "correct_answer": "Failure to disclose material information",
+      "distractors": ["Practicing beyond scope of license", "Violation of advertising regulations", "Failure to maintain continuing education"],
+      "explanation": "Failure to disclose material information is a specific ground for discipline under Delaware law. Licensees have a duty to disclose known material defects that affect property value or desirability. Intentional concealment can result in sanctions ranging from reprimand to revocation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "material-defects", "discipline"]
+    }
+  ]
+}

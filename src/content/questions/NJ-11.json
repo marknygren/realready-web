@@ -1,0 +1,293 @@
+{
+  "standard_ref": "NJ-11",
+  "scope": "state",
+  "state": "NJ",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NJ-11.1",
+      "question_text": "How many business days does the attorney review period last in a New Jersey real estate contract?",
+      "correct_answer": "Three business days",
+      "distractors": [
+        "Five business days",
+        "Seven calendar days",
+        "Ten business days"
+      ],
+      "explanation": "New Jersey real estate contracts include a distinctive 3-business-day attorney review period. During this time, either party's attorney can review, modify, or void the contract entirely.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "attorney-review",
+        "three-day-period",
+        "NJ-contracts"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.1",
+      "question_text": "During the attorney review period, the buyer's attorney sends a disapproval letter. What happens to the contract?",
+      "correct_answer": "The contract is voided and deposit returned",
+      "distractors": [
+        "The seller must accept the attorney's changes",
+        "The buyer forfeits the earnest money deposit",
+        "The contract remains binding for 30 more days"
+      ],
+      "explanation": "If either party's attorney disapproves the contract during the 3-business-day review period, the contract is voided and the deposit must be returned to the buyer. This is a distinctive protection in NJ practice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "attorney-review",
+        "disapproval",
+        "contract-void"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.1",
+      "question_text": "A buyer signs a purchase contract on Friday afternoon. When does the 3-business-day attorney review period end?",
+      "correct_answer": "At the end of the following Wednesday",
+      "distractors": [
+        "At the end of the following Monday",
+        "At midnight the following Sunday",
+        "At the end of the following Friday"
+      ],
+      "explanation": "The 3-business-day period counts only business days, excluding weekends. Starting from Friday, the three business days are Monday, Tuesday, and Wednesday, so the review period ends Wednesday.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "attorney-review",
+        "business-days",
+        "deadline-calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.1",
+      "question_text": "What power does an attorney have during the NJ attorney review period beyond simply approving the contract?",
+      "correct_answer": "The attorney may modify or void the contract",
+      "distractors": [
+        "The attorney can only suggest non-binding edits",
+        "The attorney may extend the review to 10 days",
+        "The attorney can renegotiate the purchase price only"
+      ],
+      "explanation": "During the 3-business-day review period, either party's attorney can approve, modify, or completely void the contract. This broad power makes the review period a significant feature of NJ real estate practice.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "attorney-review",
+        "attorney-power",
+        "contract-modification"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.1",
+      "question_text": "A seller's attorney sends modifications during the review period that the buyer rejects. What is the status of the original contract?",
+      "correct_answer": "The original contract is effectively voided",
+      "distractors": [
+        "The original contract remains fully binding",
+        "The seller must accept the buyer's position",
+        "A neutral mediator must resolve the dispute"
+      ],
+      "explanation": "When an attorney sends modifications during the review period, it functions as a disapproval of the original terms. If the other party rejects those modifications, the contract is voided and negotiations may start fresh.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "attorney-review",
+        "modifications-rejected",
+        "contract-void"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.2",
+      "question_text": "In New Jersey, a listing agreement must be in what form to be enforceable?",
+      "correct_answer": "Written form",
+      "distractors": [
+        "Verbal agreement with a witness present",
+        "Notarized oral agreement",
+        "Either written or oral form"
+      ],
+      "explanation": "New Jersey requires listing agreements to be in writing to be enforceable. This protects both the broker and the seller by clearly documenting the terms of the agency relationship.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "listing-agreement",
+        "written-requirement",
+        "enforceability"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.2",
+      "question_text": "A NJ listing agreement fails to include an expiration date. What is the effect on the agreement?",
+      "correct_answer": "The agreement may be unenforceable",
+      "distractors": [
+        "It automatically expires after 12 months",
+        "It remains valid until the property sells",
+        "NJREC assigns a default 90-day term"
+      ],
+      "explanation": "NJ listing agreements must include specific provisions including an expiration date. Missing required elements like the expiration date can render the agreement unenforceable and may violate NJREC regulations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "listing-agreement",
+        "expiration-date",
+        "NJREC"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.2",
+      "question_text": "Under which listing type does the broker earn a commission regardless of who procures the buyer?",
+      "correct_answer": "Exclusive right to sell listing",
+      "distractors": [
+        "Exclusive agency listing only",
+        "Open listing agreement",
+        "Net listing agreement"
+      ],
+      "explanation": "With an exclusive right to sell listing, the broker earns the commission no matter who finds the buyer, including the seller. This provides the greatest protection for the broker and is the most common listing type.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "listing-types",
+        "exclusive-right-to-sell",
+        "commission"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.2",
+      "question_text": "A NJ seller signs an exclusive agency listing. The seller finds a buyer independently without the broker's help. Does the broker earn a commission?",
+      "correct_answer": "No, the seller may sell independently commission-free",
+      "distractors": [
+        "Yes, all exclusive listings guarantee a commission",
+        "Yes, but at a reduced rate of 50 percent",
+        "No, and the listing is automatically terminated"
+      ],
+      "explanation": "An exclusive agency listing allows the seller to find a buyer independently without owing a commission. However, if any other broker procures the buyer, the listing broker earns the commission.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "exclusive-agency",
+        "commission",
+        "seller-procured"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.2",
+      "question_text": "Which of the following is a required element in a NJ listing agreement per NJREC regulations?",
+      "correct_answer": "Commission terms and broker's authority",
+      "distractors": [
+        "A guaranteed minimum sale price",
+        "The buyer's pre-approval letter",
+        "The seller's mortgage payoff amount"
+      ],
+      "explanation": "NJREC requires listing agreements to include property description, listing price, commission terms, expiration date, and broker's authority. These provisions protect both parties and ensure clear expectations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "listing-agreement",
+        "required-provisions",
+        "NJREC"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.3",
+      "question_text": "Under the Statute of Frauds, what form must a real estate purchase agreement take to be enforceable in NJ?",
+      "correct_answer": "It must be in writing and signed",
+      "distractors": [
+        "An oral agreement with two witnesses suffices",
+        "A verbal agreement recorded on video is valid",
+        "Email confirmation alone satisfies the requirement"
+      ],
+      "explanation": "The Statute of Frauds requires real estate contracts to be in writing and signed by the parties to be enforceable. This applies to purchase agreements, leases over a certain duration, and other real property conveyances.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Statute-of-Frauds",
+        "written-contracts",
+        "enforceability"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.3",
+      "question_text": "A buyer submits an offer on a NJ property. The seller responds with different price terms. What has occurred legally?",
+      "correct_answer": "The counteroffer terminates the original offer",
+      "distractors": [
+        "Both offers remain open for acceptance",
+        "The seller's response is merely a suggestion",
+        "The original offer remains valid for 48 hours"
+      ],
+      "explanation": "A counteroffer legally terminates the original offer. The buyer cannot later accept the original terms once the seller has made a counteroffer, as that original offer no longer exists.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "counteroffer",
+        "offer-termination",
+        "contract-law"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.3",
+      "question_text": "A seller instructs the listing agent not to present offers below $400,000. A $380,000 offer arrives. What should the agent do?",
+      "correct_answer": "Present it unless written instructions say otherwise",
+      "distractors": [
+        "Reject it immediately on behalf of the seller",
+        "Hold it until a higher offer comes in",
+        "Submit it only if the buyer increases to $400,000"
+      ],
+      "explanation": "NJ agents must present ALL offers to the seller unless the seller has provided written instructions to the contrary. Verbal instructions alone are insufficient to relieve the agent of this presentation duty.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "offer-presentation",
+        "agent-duty",
+        "written-instructions"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.3",
+      "question_text": "A NJ purchase contract includes a time-is-of-the-essence clause. The buyer misses the closing date by one day. What is the likely result?",
+      "correct_answer": "The seller may declare the buyer in default",
+      "distractors": [
+        "The closing automatically extends by 30 days",
+        "The clause is unenforceable in New Jersey",
+        "The buyer receives a 10-day grace period"
+      ],
+      "explanation": "Time-is-of-the-essence clauses are significant in NJ. When included, deadlines are strictly enforced and missing even a single day can constitute a breach, allowing the other party to declare default.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "time-is-of-the-essence",
+        "default",
+        "closing-deadline"
+      ]
+    },
+    {
+      "key_topic_ref": "NJ-11.3",
+      "question_text": "A buyer's agent receives three competing offers on the same NJ property. What is the agent's obligation?",
+      "correct_answer": "Present all offers to the seller promptly",
+      "distractors": [
+        "Present only the highest offer received",
+        "Hold all offers until the listing expires",
+        "Select the strongest offer for presentation"
+      ],
+      "explanation": "NJ agents have a duty to present all offers to the seller unless instructed otherwise in writing. The agent cannot screen, filter, or prioritize offers on their own and must present each one promptly.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "multiple-offers",
+        "presentation-duty",
+        "agent-obligation"
+      ]
+    }
+  ]
+}

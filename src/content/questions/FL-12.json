@@ -1,0 +1,118 @@
+{
+  "standard_ref": "FL-12",
+  "scope": "state",
+  "state": "FL",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "FL-12.1",
+      "question_text": "Florida condominiums are governed by which chapter of Florida Statutes?",
+      "correct_answer": "Chapter 718",
+      "distractors": ["Chapter 720", "Chapter 721", "Chapter 475"],
+      "explanation": "The Florida Condominium Act is Chapter 718, F.S. Chapter 720 covers homeowners' associations, and Chapter 721 covers timeshares. These are three distinct statutory frameworks.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "chapter-718", "statutes"]
+    },
+    {
+      "key_topic_ref": "FL-12.1",
+      "question_text": "A developer sells a new condo unit. The buyer has how many days to rescind the purchase contract?",
+      "correct_answer": "15 days",
+      "distractors": ["3 business days", "10 days", "30 days"],
+      "explanation": "For developer condo sales, the buyer has a 15-day rescission period from signing the contract or receiving the disclosure documents, whichever is later. Resale condos have only a 3-business-day rescission period.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "rescission", "15-days"]
+    },
+    {
+      "key_topic_ref": "FL-12.1",
+      "question_text": "A buyer purchases a resale condo (not from a developer). What is the rescission period?",
+      "correct_answer": "3 business days",
+      "distractors": ["15 days", "10 calendar days", "7 business days"],
+      "explanation": "Resale condo buyers have 3 business days to rescind, compared to 15 days for developer sales. The shorter period reflects that resale buyers are purchasing from an existing owner, not a developer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condominium", "resale", "3-days"]
+    },
+    {
+      "key_topic_ref": "FL-12.1",
+      "question_text": "A condominium in Florida is created by recording what document?",
+      "correct_answer": "A Declaration of Condominium",
+      "distractors": ["A subdivision plat", "Articles of incorporation", "A master deed"],
+      "explanation": "A Florida condominium is legally created by recording a Declaration of Condominium. The developer must also provide a Prospectus or Offering Circular to prospective buyers before they commit to purchase.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "declaration", "creation"]
+    },
+    {
+      "key_topic_ref": "FL-12.1",
+      "question_text": "Before purchasing a new condo from a developer, the buyer must receive which document?",
+      "correct_answer": "A Prospectus or Offering Circular",
+      "distractors": ["A comparative market analysis", "A building inspection report", "An appraisal from a licensed appraiser"],
+      "explanation": "Florida developers must provide a Prospectus or Offering Circular to prospective condo buyers. This document contains detailed information about the project, the association, and the buyer's rights.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "prospectus", "developer"]
+    },
+    {
+      "key_topic_ref": "FL-12.2",
+      "question_text": "Florida homeowners' associations are governed by which chapter of Florida Statutes?",
+      "correct_answer": "Chapter 720",
+      "distractors": ["Chapter 718", "Chapter 721", "Chapter 83"],
+      "explanation": "The Homeowners' Association Act is Chapter 720, F.S. It is separate from the Condominium Act (Chapter 718) and the Timesharing Act (Chapter 721).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HOA", "chapter-720", "statutes"]
+    },
+    {
+      "key_topic_ref": "FL-12.2",
+      "question_text": "A buyer receives the HOA disclosure summary for a resale property. How long does the buyer have to rescind?",
+      "correct_answer": "3 business days",
+      "distractors": ["15 days", "10 calendar days", "7 business days"],
+      "explanation": "After receiving the HOA disclosure summary for a resale property, the buyer has 3 business days to rescind the contract. This is the same rescission period as resale condos.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HOA", "rescission", "3-days"]
+    },
+    {
+      "key_topic_ref": "FL-12.2",
+      "question_text": "A timeshare buyer in Florida has how many days to cancel the purchase contract?",
+      "correct_answer": "10 calendar days",
+      "distractors": ["3 business days", "15 days", "30 calendar days"],
+      "explanation": "Florida timeshare buyers have a 10-calendar-day rescission period from signing or receiving the Public Offering Statement, whichever is later. The developer cannot require closing or payment during this period.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["timeshare", "rescission", "10-days"]
+    },
+    {
+      "key_topic_ref": "FL-12.2",
+      "question_text": "A timeshare developer may require the buyer to close or pay money during the rescission period. True or false?",
+      "correct_answer": "False — no closing or payment during rescission",
+      "distractors": ["True — a non-refundable deposit is allowed", "True — closing may occur with buyer consent", "True — up to 10% of purchase price may be collected"],
+      "explanation": "Florida law prohibits the developer from requiring the buyer to close or pay any money during the 10-day rescission period. The buyer may cancel for any reason during this window.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["timeshare", "rescission", "no-payment"]
+    },
+    {
+      "key_topic_ref": "FL-12.2",
+      "question_text": "Which Florida property type has the longest rescission period for a buyer?",
+      "correct_answer": "Developer condo sale (15 days)",
+      "distractors": ["Timeshare purchase (10 days)", "HOA resale property (3 days)", "Resale condo (3 days)"],
+      "explanation": "Developer condo sales have the longest rescission period at 15 days. Timeshares have 10 calendar days. HOA resales and resale condos each have 3 business days. Knowing these periods is frequently tested.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["rescission", "comparison", "developer-condo"]
+    }
+  ]
+}

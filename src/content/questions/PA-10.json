@@ -1,0 +1,173 @@
+{
+  "standard_ref": "PA-10",
+  "scope": "state",
+  "state": "PA",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "PA-10.1",
+      "question_text": "A broker receives an earnest money deposit on Wednesday afternoon. By when must it be deposited into escrow?",
+      "correct_answer": "End of business Thursday",
+      "distractors": ["End of business Friday", "Within 3 business days", "Within 24 hours"],
+      "explanation": "Pennsylvania requires brokers to deposit funds into escrow by the end of the next business day following receipt. Received Wednesday → deposited by end of business Thursday.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust accounts", "deposit deadline", "next business day"]
+    },
+    {
+      "key_topic_ref": "PA-10.1",
+      "question_text": "A PA escrow account must be maintained at what type of financial institution?",
+      "correct_answer": "FDIC-insured institution in Pennsylvania",
+      "distractors": ["Any U.S. bank, regardless of location", "Only a Pennsylvania state-chartered bank", "Any federally chartered credit union"],
+      "explanation": "Escrow accounts must be maintained at an FDIC-insured institution within Pennsylvania. The account must be in the broker's name and clearly identified as an escrow account.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust accounts", "FDIC", "requirements"]
+    },
+    {
+      "key_topic_ref": "PA-10.1",
+      "question_text": "A buyer and seller agree in writing to hold the buyer's deposit check pending acceptance. The broker:",
+      "correct_answer": "May hold the check as agreed",
+      "distractors": ["Must deposit by end of next business day", "Must return the check to the buyer", "Must notify PREC of the agreement"],
+      "explanation": "The next-business-day deposit requirement has an exception: if buyer and seller agree in writing to hold a check pending acceptance, the broker may comply with that written agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust accounts", "deposit exception", "written agreement"]
+    },
+    {
+      "key_topic_ref": "PA-10.1",
+      "question_text": "Under Pennsylvania law, escrow accounts should generally be:",
+      "correct_answer": "Interest-bearing unless parties agree otherwise",
+      "distractors": ["Non-interest-bearing always", "Interest-bearing with interest to the broker", "IOLTA accounts exclusively"],
+      "explanation": "PA escrow accounts must be interest-bearing at an FDIC-insured institution, unless the parties agree otherwise in writing. The interest disposition depends on the agreement between the parties.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust accounts", "interest-bearing", "requirements"]
+    },
+    {
+      "key_topic_ref": "PA-10.1",
+      "question_text": "A broker receives a $10,000 deposit on Friday evening after business hours. The deposit deadline is:",
+      "correct_answer": "End of business Monday",
+      "distractors": ["End of business Saturday", "Immediately upon receipt", "End of business the following Friday"],
+      "explanation": "The deposit must be made by the end of the next business day. Since the deposit was received Friday evening, the next business day is Monday (assuming no holiday).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust accounts", "deposit deadline", "weekend"]
+    },
+    {
+      "key_topic_ref": "PA-10.2",
+      "question_text": "A broker deposits a client's earnest money into the broker's personal checking account. This is called:",
+      "correct_answer": "Commingling",
+      "distractors": ["Conversion", "Embezzlement", "Misappropriation"],
+      "explanation": "Commingling is mixing client funds with personal or business funds. It is strictly prohibited in Pennsylvania. The funds should go into the designated escrow account.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "trust accounts", "prohibited"]
+    },
+    {
+      "key_topic_ref": "PA-10.2",
+      "question_text": "What is the key difference between commingling and conversion of trust funds?",
+      "correct_answer": "Conversion involves using the funds personally",
+      "distractors": ["There is no legal distinction", "Commingling is more serious than conversion", "Conversion only applies to cash deposits"],
+      "explanation": "Commingling is mixing client and personal funds; conversion is actually using client funds for personal purposes. Conversion is MORE serious than commingling and is grounds for license revocation.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commingling", "conversion", "distinction"]
+    },
+    {
+      "key_topic_ref": "PA-10.2",
+      "question_text": "A broker keeps $100 of personal funds in the escrow account to cover bank service charges. This is:",
+      "correct_answer": "Permitted as an exception to commingling rules",
+      "distractors": ["Prohibited commingling of funds", "Allowed only with PREC approval", "Permitted up to $500 maximum"],
+      "explanation": "PA allows a limited exception to the commingling prohibition: a broker may keep limited personal funds in the escrow account to cover bank service charges or minimum balance requirements.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "exception", "bank charges"]
+    },
+    {
+      "key_topic_ref": "PA-10.2",
+      "question_text": "A broker uses $5,000 from the escrow account to cover a personal business expense, intending to repay it next week. This is:",
+      "correct_answer": "Conversion, a serious RELRA violation",
+      "distractors": ["Acceptable if repaid within 7 days", "Commingling, a minor violation", "Permitted for short-term borrowing"],
+      "explanation": "Using client escrow funds for any personal or business purpose is conversion, regardless of intent to repay. Conversion is more serious than commingling and grounds for license revocation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conversion", "trust funds", "violation"]
+    },
+    {
+      "key_topic_ref": "PA-10.2",
+      "question_text": "Which action would constitute commingling in Pennsylvania?",
+      "correct_answer": "Depositing a commission check into escrow",
+      "distractors": ["Depositing earnest money into escrow", "Keeping bank fee funds in escrow", "Maintaining separate escrow records"],
+      "explanation": "Depositing personal funds (like a commission check) into the escrow account mixes personal and client funds, which constitutes commingling. Commission checks should go into the broker's operating account.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "commission", "escrow"]
+    },
+    {
+      "key_topic_ref": "PA-10.3",
+      "question_text": "Escrow funds may be disbursed at which of the following times?",
+      "correct_answer": "At settlement or by written agreement",
+      "distractors": ["At the broker's sole discretion", "When the listing expires", "When the buyer requests verbally"],
+      "explanation": "Funds may be disbursed at settlement, upon written agreement of all parties, by court order, or upon contract termination with proper documentation. The broker cannot disburse at their own discretion.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disbursement", "escrow", "settlement"]
+    },
+    {
+      "key_topic_ref": "PA-10.3",
+      "question_text": "A buyer and seller dispute an earnest money deposit after a failed transaction. The broker should:",
+      "correct_answer": "Hold funds until written agreement or court order",
+      "distractors": ["Return funds to the buyer immediately", "Give funds to the seller automatically", "Split the funds evenly between parties"],
+      "explanation": "When parties dispute escrow funds, the broker must hold the funds until receiving written agreement from all parties or a court order. The broker cannot unilaterally decide who gets the funds.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disbursement", "dispute", "escrow"]
+    },
+    {
+      "key_topic_ref": "PA-10.3",
+      "question_text": "A contract is terminated and the seller provides written authorization to release the deposit to the buyer. The broker:",
+      "correct_answer": "May disburse with proper documentation",
+      "distractors": ["Must wait for court approval", "Must hold for 30 days minimum", "Must get PREC authorization first"],
+      "explanation": "Upon contract termination with proper documentation and written agreement of the parties, the broker may disburse the escrow funds. No court order or PREC involvement is needed when parties agree.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disbursement", "termination", "documentation"]
+    },
+    {
+      "key_topic_ref": "PA-10.3",
+      "question_text": "Which of the following is a valid basis for disbursing escrow funds in Pennsylvania?",
+      "correct_answer": "A court order",
+      "distractors": ["The broker's professional judgment", "An oral agreement between parties", "The listing agent's recommendation"],
+      "explanation": "Valid bases for disbursing escrow funds are: settlement, written agreement of all parties, court order, or contract termination with proper documentation. Oral agreements and professional judgment are insufficient.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disbursement", "court order", "escrow"]
+    },
+    {
+      "key_topic_ref": "PA-10.3",
+      "question_text": "A buyer verbally tells the broker to release the earnest money deposit to the seller. The broker should:",
+      "correct_answer": "Require the instruction in writing",
+      "distractors": ["Release the funds immediately", "Release after a 48-hour waiting period", "Contact PREC for guidance"],
+      "explanation": "Oral instructions are not sufficient for disbursing escrow funds. The broker must require written agreement from the parties before releasing funds. This protects all parties and the broker.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disbursement", "written", "verbal"]
+    }
+  ]
+}

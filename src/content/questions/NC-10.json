@@ -1,0 +1,383 @@
+{
+  "standard_ref": "NC-10",
+  "scope": "state",
+  "state": "NC",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "NC-10.1",
+      "question_text": "A listing broker knows a home had polybutylene pipes that leaked but were fully replaced with copper. Must the broker disclose this to prospective buyers?",
+      "correct_answer": "Yes, prior polybutylene leaks are material facts",
+      "distractors": [
+        "No, the issue has been fully corrected",
+        "Only if the buyer specifically asks",
+        "Only if the pipes leaked within five years"
+      ],
+      "explanation": "In North Carolina, polybutylene pipes that leaked are considered a material fact even if they have been repaired or replaced. The broker must volunteer this information to all parties. The history of the defect, not just its current status, is what makes it material under NC law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material_facts", "polybutylene", "disclosure", "NC_specific"]
+    },
+    {
+      "key_topic_ref": "NC-10.1",
+      "question_text": "A buyer asks a listing broker whether anyone ever died in the home. Under NC law, which response is most accurate?",
+      "correct_answer": "Death in a property is not a material fact in NC",
+      "distractors": [
+        "The broker must disclose all known deaths",
+        "Only violent deaths must be disclosed",
+        "The broker should refer the buyer to police"
+      ],
+      "explanation": "North Carolina does not consider death or illness in a property to be a material fact. A broker is not required to disclose this information. However, NC-specific material facts include EIFS/synthetic stucco, leaking polybutylene pipes, and methamphetamine contamination.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["material_facts", "death", "stigmatized_property"]
+    },
+    {
+      "key_topic_ref": "NC-10.1",
+      "question_text": "A broker notices peeling exterior finish on a home that resembles EIFS but the seller's disclosure says the home has traditional stucco. What should the broker do?",
+      "correct_answer": "Investigate the red flag before proceeding",
+      "distractors": [
+        "Accept the seller's disclosure as final",
+        "Add a disclaimer to the listing",
+        "Refer the matter to the listing agent"
+      ],
+      "explanation": "Brokers must investigate red flags rather than ignore them. EIFS (synthetic stucco) is a North Carolina material fact even if fully replaced. A broker cannot avoid disclosure duties through disclaimers and must not rely solely on the seller's representations when there are visible indicators suggesting otherwise.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["EIFS", "synthetic_stucco", "material_facts", "red_flags"]
+    },
+    {
+      "key_topic_ref": "NC-10.1",
+      "question_text": "Which of the following is classified as puffing rather than misrepresentation?",
+      "correct_answer": "This is the best neighborhood in the city",
+      "distractors": [
+        "The roof was replaced last year",
+        "There are no easements on this lot",
+        "The property has never had termites"
+      ],
+      "explanation": "Puffing is an exaggerated opinion that a reasonable person would not take as a factual statement. Calling a neighborhood 'the best' is subjective opinion. The other options are specific factual claims that could constitute misrepresentation if false.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["puffing", "misrepresentation", "opinion_vs_fact"]
+    },
+    {
+      "key_topic_ref": "NC-10.1",
+      "question_text": "A home was previously used as a methamphetamine lab but has been professionally remediated. Is this a material fact in North Carolina?",
+      "correct_answer": "Yes, meth contamination is always material",
+      "distractors": [
+        "No, remediation eliminates the disclosure duty",
+        "Only if contamination levels remain unsafe",
+        "Only if the buyer plans to have children"
+      ],
+      "explanation": "Methamphetamine contamination is one of North Carolina's specifically designated material facts, alongside EIFS/synthetic stucco and leaking polybutylene pipes. The disclosure requirement persists regardless of remediation. Brokers must volunteer this information to all parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material_facts", "meth_house", "remediation", "NC_specific"]
+    },
+    {
+      "key_topic_ref": "NC-10.2",
+      "question_text": "A client asks their broker to add a clause holding the broker harmless from liability in the offer to purchase. What should the broker do?",
+      "correct_answer": "Decline because this is a prohibited provision",
+      "distractors": [
+        "Include the clause as the client requested",
+        "Include it only with the other party's consent",
+        "Modify the clause to limit liability instead"
+      ],
+      "explanation": "Broker liability disclaimers are prohibited provisions in North Carolina contracts. Brokers cannot include them even at the client's instruction. The prohibition exists to protect all parties and maintain professional accountability regardless of how the request is framed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unauthorized_practice", "prohibited_provisions", "broker_liability"]
+    },
+    {
+      "key_topic_ref": "NC-10.2",
+      "question_text": "A non-REALTOR broker in NC needs a standard contract form for a residential sale. Which forms may this broker use?",
+      "correct_answer": "Jointly approved NC REALTORS/NC Bar forms",
+      "distractors": [
+        "NC REALTORS proprietary forms only",
+        "Any preprinted form from an office supply store",
+        "Forms drafted by the broker's own attorney"
+      ],
+      "explanation": "Non-REALTOR brokers must use jointly approved NC REALTORS/NC Bar Association forms. NC REALTORS proprietary forms are reserved for REALTOR members. Brokers may only fill in blanks of preprinted forms and cannot draft contracts, as that constitutes unauthorized practice of law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contract_forms", "non_REALTOR", "NC_Bar", "UPL"]
+    },
+    {
+      "key_topic_ref": "NC-10.2",
+      "question_text": "A broker drafts a custom addendum with new contract terms for a buyer's specific situation. What issue does this create?",
+      "correct_answer": "Drafting contracts is unauthorized practice of law",
+      "distractors": [
+        "Custom addenda require BIC approval first",
+        "The addendum must be on NCREC letterhead",
+        "Only the listing broker may draft addenda"
+      ],
+      "explanation": "In North Carolina, brokers may only fill in blanks of preprinted forms. Drafting custom contract provisions constitutes the unauthorized practice of law regardless of the broker's intentions. An attorney should draft any nonstandard provisions needed for a transaction.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["unauthorized_practice_of_law", "custom_addendum", "broker_limits"]
+    },
+    {
+      "key_topic_ref": "NC-10.2",
+      "question_text": "Which entity authors the Working With Real Estate Agents brochure used in North Carolina?",
+      "correct_answer": "The NC Real Estate Commission",
+      "distractors": [
+        "NC REALTORS association",
+        "The NC Bar Association",
+        "The Broker-Lawyer Joint Committee"
+      ],
+      "explanation": "NCREC authors several key forms including the Working With Real Estate Agents (WWREA) brochure, the Residential Property and Owners' Association Disclosure Statement (RPOADS), and the Mineral and Oil and Gas Rights Mandatory Disclosure (MOG). These are regulatory forms, not transaction forms.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NCREC", "WWREA", "form_authorship"]
+    },
+    {
+      "key_topic_ref": "NC-10.2",
+      "question_text": "A buyer's broker inserts a clause the buyer dictated that limits the seller's right to seek damages for breach. Can the broker include this provision?",
+      "correct_answer": "No, brokers cannot add prohibited provisions",
+      "distractors": [
+        "Yes, the broker must follow client instructions",
+        "Yes, if the seller's attorney approves it",
+        "Only if the BIC authorizes the addition"
+      ],
+      "explanation": "Brokers cannot include prohibited provisions even at a client's instruction. Adding such a clause could constitute unauthorized practice of law. If a client wants nonstandard terms, the broker should refer them to an attorney to draft appropriate language.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prohibited_provisions", "client_instructions", "UPL"]
+    },
+    {
+      "key_topic_ref": "NC-10.3",
+      "question_text": "A provisional broker creates a social media ad featuring her name in large bold text with the firm name in small text below. Is this compliant?",
+      "correct_answer": "No, her name cannot be more prominent than the firm",
+      "distractors": [
+        "Yes, social media has different rules",
+        "Yes, individual names may appear in any size",
+        "No, only the BIC name may appear in ads"
+      ],
+      "explanation": "NC advertising rules apply equally to internet and social media. An individual broker's name may appear in advertising but cannot be more prominent than the firm name as registered with NCREC. The same rules that govern print advertising apply to all digital formats.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["advertising", "social_media", "firm_name", "prominence"]
+    },
+    {
+      "key_topic_ref": "NC-10.3",
+      "question_text": "A brokerage closes a transaction on March 1, 2026. Until what date must the BIC retain the transaction records?",
+      "correct_answer": "March 1, 2029",
+      "distractors": [
+        "March 1, 2028",
+        "March 1, 2031",
+        "March 1, 2027"
+      ],
+      "explanation": "NC requires that transaction records be retained for 3 years from closing or termination. A transaction closing on March 1, 2026 requires records to be kept until March 1, 2029. The broker-in-charge is responsible for ensuring proper record retention at the firm.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["record_retention", "3_years", "BIC", "closing"]
+    },
+    {
+      "key_topic_ref": "NC-10.3",
+      "question_text": "An agent posts a property listing on a website with no brokerage firm name visible anywhere. What type of violation is this?",
+      "correct_answer": "A blind ad, which is prohibited",
+      "distractors": [
+        "A minor formatting error with no penalty",
+        "Permissible if the agent's name is shown",
+        "A violation only if the MLS is not credited"
+      ],
+      "explanation": "A blind ad is any advertisement that fails to include the firm name as registered with NCREC. Blind ads are prohibited under NC law regardless of the medium. Showing only the agent's name without the firm name does not satisfy the requirement and constitutes a violation under 93A-6(a)(3).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["blind_ad", "advertising", "firm_name", "internet"]
+    },
+    {
+      "key_topic_ref": "NC-10.3",
+      "question_text": "An advertisement claims a property has lake access when the access is actually through a revocable easement that the HOA could terminate. What type of conduct is this?",
+      "correct_answer": "False or misleading advertising",
+      "distractors": [
+        "Acceptable puffing about amenities",
+        "Permissible if the easement currently exists",
+        "A minor omission with no consequences"
+      ],
+      "explanation": "Advertising that creates a misleading impression about property features violates 93A-6(a)(3). Stating the property has lake access without disclosing the access is through a revocable easement is misleading because a buyer would reasonably expect permanent access. This goes beyond puffing into false advertising.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["false_advertising", "misleading", "lake_access", "easement"]
+    },
+    {
+      "key_topic_ref": "NC-10.3",
+      "question_text": "A broker-in-charge discovers that a provisional broker discarded transaction files after only 18 months. Who bears responsibility for this violation?",
+      "correct_answer": "The BIC who oversees record retention",
+      "distractors": [
+        "Only the provisional broker who discarded files",
+        "The firm's owner regardless of BIC status",
+        "No one if no complaint has been filed"
+      ],
+      "explanation": "The BIC is responsible for ensuring proper record retention at the office. NC requires all transaction records to be retained for 3 years from closing or termination. Even though the PB physically discarded the files, the BIC has supervisory responsibility for compliance with record retention rules.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["record_retention", "BIC_responsibility", "3_years", "supervision"]
+    },
+    {
+      "key_topic_ref": "NC-10.4",
+      "question_text": "A listing broker receives a second offer while the property is already under contract. The broker contacts the seller, who says not to bother presenting it. What must the broker do?",
+      "correct_answer": "Present the offer within 3 days of receipt",
+      "distractors": [
+        "Follow the seller's instruction and decline",
+        "Hold the offer until the first contract falls through",
+        "Return the offer to the buyer's agent unread"
+      ],
+      "explanation": "NC brokers must present all offers within 3 days of receipt, even if the property is already under contract. The seller cannot instruct the broker to skip presentation. This requirement ensures sellers are fully informed about all available options throughout the transaction.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["offer_presentation", "3_day_rule", "under_contract"]
+    },
+    {
+      "key_topic_ref": "NC-10.4",
+      "question_text": "A listing agent receives two offers on the same day. How should the agent handle presentation?",
+      "correct_answer": "Present both offers at the same time",
+      "distractors": [
+        "Present the higher offer first",
+        "Present the offer received first",
+        "Let the seller choose which to review"
+      ],
+      "explanation": "Concurrent offers must be presented at the same time to give the seller an equal opportunity to evaluate each one. Presenting one before the other could disadvantage one offeror. The agent should not prioritize based on price, timing of receipt, or seller preference.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["concurrent_offers", "presentation", "equal_treatment"]
+    },
+    {
+      "key_topic_ref": "NC-10.4",
+      "question_text": "A listing agent tells a prospective buyer that other offers exist on the property. The seller has not authorized sharing this information. What rule has the agent violated?",
+      "correct_answer": "The agent needed seller authority to share this",
+      "distractors": [
+        "No rule was violated since offers are public",
+        "The agent should have shared the offer amounts",
+        "Only the number of offers is confidential"
+      ],
+      "explanation": "In North Carolina, the existence of other offers is not automatically considered a material fact. A listing agent needs the seller's authority before disclosing that other offers exist. Additionally, sharing material terms of any offer requires express permission from the offeror.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["offer_existence", "seller_authority", "confidentiality"]
+    },
+    {
+      "key_topic_ref": "NC-10.4",
+      "question_text": "A broker verbally informs the buyer of a competing offer three days after receiving it but has not provided written delivery. Has the broker complied with the delivery requirement?",
+      "correct_answer": "No, oral presentation does not satisfy the rule",
+      "distractors": [
+        "Yes, any form of communication is sufficient",
+        "Yes, if the buyer acknowledged it verbally",
+        "No, delivery must occur within 24 hours"
+      ],
+      "explanation": "Oral presentation does not satisfy the 3-day written delivery requirement under NC rules. All offers must be delivered in writing within 3 days of the broker's receipt. Verbal communication alone, regardless of timing, fails to meet this standard.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["written_delivery", "3_day_rule", "oral_presentation"]
+    },
+    {
+      "key_topic_ref": "NC-10.4",
+      "question_text": "A listing broker delays presenting an offer for two days while negotiating the commission split with the buyer's agent. Is this permissible?",
+      "correct_answer": "No, offers cannot be held for compensation talks",
+      "distractors": [
+        "Yes, if the offer is presented within 3 days",
+        "Yes, commission must be settled before presenting",
+        "No, but only if the delay exceeds 5 days"
+      ],
+      "explanation": "A broker cannot hold an offer while negotiating compensation. Even though the 3-day window may not have expired, the prohibition against delaying presentation for compensation discussions is separate from the timing rule. Offers must be presented promptly regardless of commission disputes.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["offer_presentation", "compensation", "prohibited_delay"]
+    },
+    {
+      "key_topic_ref": "NC-10.5",
+      "question_text": "The NC Fair Housing Act allows filing an administrative complaint within what time frame?",
+      "correct_answer": "Within 1 year of the violation",
+      "distractors": [
+        "Within 2 years of the violation",
+        "Within 180 days of the violation",
+        "Within 6 months of the violation"
+      ],
+      "explanation": "Under the NC Fair Housing Act (NCGS 41A), an administrative complaint must be filed within 1 year of the alleged violation. This differs from the federal timeline for private lawsuits, which allows 2 years. NC also limits private fair housing lawsuits to 1 year rather than the federal 2-year window.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair_housing", "administrative_complaint", "time_limit"]
+    },
+    {
+      "key_topic_ref": "NC-10.5",
+      "question_text": "A person wants to file a private fair housing lawsuit in NC. How does the filing deadline compare to federal law?",
+      "correct_answer": "NC allows 1 year versus federal 2 years",
+      "distractors": [
+        "Both allow 2 years for private suits",
+        "NC allows 2 years versus federal 1 year",
+        "Both allow 1 year for private suits"
+      ],
+      "explanation": "North Carolina limits private fair housing lawsuits to 1 year from the violation, while federal law provides a 2-year window. When state and federal laws differ, the more restrictive law applies. In this case, a complainant filing in NC courts must meet the shorter state deadline.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair_housing", "private_lawsuit", "NC_vs_federal", "time_limit"]
+    },
+    {
+      "key_topic_ref": "NC-10.5",
+      "question_text": "A HUD fair housing complaint is filed against a NC licensee. To which state agency is the complaint typically referred?",
+      "correct_answer": "NC Human Relations Commission",
+      "distractors": [
+        "NC Real Estate Commission",
+        "NC Attorney General's office",
+        "NC Department of Justice"
+      ],
+      "explanation": "HUD fair housing complaints involving North Carolina are referred to the NC Human Relations Commission, which is the state agency with substantially equivalent fair housing enforcement authority. NCREC handles licensing discipline, not fair housing enforcement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair_housing", "HUD", "Human_Relations_Commission", "referral"]
+    },
+    {
+      "key_topic_ref": "NC-10.5",
+      "question_text": "A NC broker claims a federal fair housing exemption applies to a transaction. However, the NC Fair Housing Act does not include that same exemption. Which law controls?",
+      "correct_answer": "The more restrictive NC law applies",
+      "distractors": [
+        "Federal law always supersedes state law",
+        "The broker may choose which law to follow",
+        "The exemption applies in all NC transactions"
+      ],
+      "explanation": "When NC and federal fair housing laws conflict, the more restrictive law applies. NC exemptions are substantially different from federal exemptions. If NC law does not provide the exemption, the broker cannot rely on the federal exemption because the stricter NC standard governs.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair_housing", "exemptions", "NC_vs_federal", "more_restrictive"]
+    },
+    {
+      "key_topic_ref": "NC-10.5",
+      "question_text": "The NC Fair Housing Act is codified under which North Carolina statute?",
+      "correct_answer": "NCGS Chapter 41A",
+      "distractors": [
+        "NCGS Chapter 93A",
+        "NCGS Chapter 47",
+        "NCGS Chapter 39"
+      ],
+      "explanation": "The NC Fair Housing Act is found in NCGS Chapter 41A. Chapter 93A is the Real Estate License Law. While the NC Fair Housing Act is virtually identical to federal law in its protections, its exemptions and filing deadlines differ substantially from the federal Fair Housing Act.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair_housing", "NCGS_41A", "statute"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MT-15",
+  "scope": "state",
+  "state": "MT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MT-15.1",
+      "question_text": "What is the standard redemption period after a judicial foreclosure sale in Montana?",
+      "correct_answer": "One year",
+      "distractors": ["Six months", "90 days", "Two years"],
+      "explanation": "Montana provides a one-year statutory redemption period after a judicial foreclosure sale. During this period, the borrower can redeem the property by paying the sale price plus interest and costs.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["judicial foreclosure", "redemption period", "one year"]
+    },
+    {
+      "key_topic_ref": "MT-15.1",
+      "question_text": "To redeem after judicial foreclosure, a borrower must pay what amount?",
+      "correct_answer": "Sale price plus interest and costs",
+      "distractors": ["Original loan balance amount only", "Current appraised value of property", "The foreclosure sale price only"],
+      "explanation": "To exercise the statutory right of redemption after judicial foreclosure in Montana, the borrower must pay the foreclosure sale price plus accrued interest and associated costs within the one-year redemption period.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["redemption", "payment requirements", "judicial foreclosure"]
+    },
+    {
+      "key_topic_ref": "MT-15.1",
+      "question_text": "A court finds a foreclosed property has been abandoned. What happens to the redemption period?",
+      "correct_answer": "Reduced to 60 days",
+      "distractors": ["Remains one year", "Eliminated entirely", "Extended to 18 months"],
+      "explanation": "When a judicially foreclosed property is determined to be abandoned, Montana reduces the statutory redemption period from one year to 60 days. This protects the property from deterioration during a lengthy vacant redemption period.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["abandoned property", "60-day redemption", "judicial foreclosure"]
+    },
+    {
+      "key_topic_ref": "MT-15.1",
+      "question_text": "A bank chooses judicial foreclosure instead of trustee sale. What is the primary advantage for the borrower?",
+      "correct_answer": "One-year redemption right",
+      "distractors": ["Lower legal fees", "Guaranteed below-market price", "Automatic loan modification"],
+      "explanation": "The primary advantage of judicial foreclosure for the borrower is the one-year statutory redemption period after the sale. In contrast, a non-judicial trust deed foreclosure provides no post-sale redemption right.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["judicial foreclosure", "redemption", "borrower advantage"]
+    },
+    {
+      "key_topic_ref": "MT-15.1",
+      "question_text": "Judicial foreclosure in Montana requires proceedings in which forum?",
+      "correct_answer": "District court",
+      "distractors": ["County clerk's office", "The trustee's office", "Federal bankruptcy court"],
+      "explanation": "Judicial foreclosure in Montana requires the lender to file a lawsuit in district court. The court supervises the process, orders the sale, and the borrower receives the one-year statutory redemption period afterward.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["judicial foreclosure", "court process", "district court"]
+    },
+    {
+      "key_topic_ref": "MT-15.2",
+      "question_text": "Which security instrument allows non-judicial foreclosure in Montana?",
+      "correct_answer": "Deed of trust",
+      "distractors": ["Standard mortgage", "Land contract", "Promissory note"],
+      "explanation": "Deeds of trust are commonly used in Montana real estate financing. They involve three parties (borrower, lender, trustee) and include a power of sale clause allowing non-judicial foreclosure through the trustee.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "non-judicial foreclosure", "security instrument"]
+    },
+    {
+      "key_topic_ref": "MT-15.2",
+      "question_text": "In a trust deed foreclosure, what is the minimum notice period before the sale?",
+      "correct_answer": "120 days",
+      "distractors": ["30 days", "60 days", "90 days"],
+      "explanation": "Montana requires a minimum of 120 days between recording the notice of default/sale and the actual trustee's sale. This gives the borrower time to cure the default or arrange alternative financing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["non-judicial foreclosure", "120 days", "notice period"]
+    },
+    {
+      "key_topic_ref": "MT-15.2",
+      "question_text": "After a trustee's sale under a deed of trust, does the borrower have a redemption period?",
+      "correct_answer": "No, the sale is final",
+      "distractors": ["Yes, a one-year period applies", "Yes, a 60-day period applies", "Yes, a six-month period applies"],
+      "explanation": "Unlike judicial foreclosure, there is no statutory right of redemption after a non-judicial trust deed foreclosure sale in Montana. The trustee's sale is final, making this a key distinction between the two foreclosure methods.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["non-judicial foreclosure", "no redemption", "trustee sale"]
+    },
+    {
+      "key_topic_ref": "MT-15.2",
+      "question_text": "A borrower defaults on a 10-acre property with a deed of trust. Which expedited process may apply?",
+      "correct_answer": "Small tract foreclosure",
+      "distractors": ["Judicial foreclosure only", "Tax lien foreclosure", "Strict foreclosure"],
+      "explanation": "Montana's small tract foreclosure process provides an expedited non-judicial foreclosure for properties under 15 acres. This 10-acre property qualifies for this streamlined process.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["small tract foreclosure", "under 15 acres", "expedited"]
+    },
+    {
+      "key_topic_ref": "MT-15.2",
+      "question_text": "A homeowner facing non-judicial foreclosure wants to stop the sale. When is the last chance to cure?",
+      "correct_answer": "Before the trustee's sale",
+      "distractors": ["Within 30 days after sale", "Only before notice is recorded", "There is no right to cure"],
+      "explanation": "In a Montana non-judicial foreclosure, the borrower can cure the default and stop the sale at any time before the trustee's sale occurs. Once the sale is completed, there is no redemption period for trust deed foreclosures.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["non-judicial foreclosure", "right to cure", "trustee sale"]
+    },
+    {
+      "key_topic_ref": "MT-15.3",
+      "question_text": "Under Montana's Statute of Frauds, which contract does NOT need to be in writing?",
+      "correct_answer": "A 6-month residential lease",
+      "distractors": ["A purchase agreement for land", "A listing agreement", "A 2-year commercial lease"],
+      "explanation": "Montana's Statute of Frauds requires writing for real estate contracts including purchase agreements, listing agreements, deeds, and leases over one year. A 6-month lease falls under one year and does not require writing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute of frauds", "written requirement", "lease exception"]
+    },
+    {
+      "key_topic_ref": "MT-15.3",
+      "question_text": "Which element is required in a Montana real estate contract under the Statute of Frauds?",
+      "correct_answer": "Signatures of the parties",
+      "distractors": ["Notarization by a licensed notary", "Signatures from two witnesses", "Approval from a licensed attorney"],
+      "explanation": "Montana's Statute of Frauds requires real estate contracts to contain the parties' names, property description, price or consideration, and signatures. Notarization, witnesses, and attorney approval are not required for validity.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute of frauds", "required elements", "signatures"]
+    },
+    {
+      "key_topic_ref": "MT-15.3",
+      "question_text": "A buyer and seller shake hands, and the buyer moves in and makes improvements. Can the buyer enforce this oral deal?",
+      "correct_answer": "Possibly, via part performance",
+      "distractors": ["No, oral deals are never valid", "Yes, handshakes are binding", "Only if a broker witnessed it"],
+      "explanation": "While oral real estate contracts generally violate the Statute of Frauds, the part performance doctrine may apply when one party has substantially performed (taking possession, making improvements, paying consideration). Courts may enforce to prevent injustice.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["statute of frauds", "part performance", "exception"]
+    },
+    {
+      "key_topic_ref": "MT-15.3",
+      "question_text": "A deed conveying property must be in writing because of which legal requirement?",
+      "correct_answer": "The Statute of Frauds",
+      "distractors": ["The Montana Constitution", "Federal recording laws", "The Uniform Commercial Code"],
+      "explanation": "The Statute of Frauds requires all deeds conveying real property to be in writing. This applies to all conveyance instruments in Montana, including warranty deeds, quitclaim deeds, and trust deeds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute of frauds", "deeds", "writing requirement"]
+    },
+    {
+      "key_topic_ref": "MT-15.3",
+      "question_text": "Which of the following must be in writing under Montana's Statute of Frauds?",
+      "correct_answer": "A mortgage on real property",
+      "distractors": ["A verbal 3-month rental", "An agreement to split utilities", "A verbal promise to mow a lawn"],
+      "explanation": "Montana's Statute of Frauds requires mortgages and trust deeds on real property to be in writing. Short-term rentals under one year, utility agreements, and service promises do not fall under the statute's writing requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute of frauds", "mortgage", "writing requirement"]
+    }
+  ]
+}

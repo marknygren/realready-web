@@ -1,0 +1,294 @@
+{
+  "standard_ref": "MN-14",
+  "scope": "state",
+  "state": "MN",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MN-14.1",
+      "question_text": "Minnesota uses a dual recording system. What are the two systems?",
+      "correct_answer": "Abstract (regular) and Torrens",
+      "distractors": [
+        "Grantor-grantee and tract index",
+        "County recorder and state registrar",
+        "Race-notice and pure notice"
+      ],
+      "explanation": "Minnesota maintains two parallel recording systems: the abstract (regular) system recorded with the county recorder, and the Torrens system administered by the county registrar of titles.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "recording",
+        "abstract-system",
+        "Torrens"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.1",
+      "question_text": "Two buyers each claim ownership of the same parcel recorded in the abstract system. Buyer A recorded first. Who has priority?",
+      "correct_answer": "Buyer A, based on first in time recording",
+      "distractors": [
+        "Buyer B, if they paid a higher purchase price",
+        "Neither, until a court determines ownership",
+        "Buyer B, if they took possession first"
+      ],
+      "explanation": "In the abstract recording system, priority is determined by 'first in time, first in right.' The party who records first has superior claim, providing constructive notice to subsequent purchasers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "recording",
+        "priority",
+        "constructive-notice"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.1",
+      "question_text": "What type of notice does recording a deed in the abstract system provide?",
+      "correct_answer": "Constructive notice",
+      "distractors": [
+        "Actual notice only",
+        "Implied notice",
+        "No notice until title search"
+      ],
+      "explanation": "Recording a document in the abstract system provides constructive notice to the world. Anyone could have discovered the recorded interest through a diligent title search.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "recording",
+        "constructive-notice",
+        "abstract-system"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.1",
+      "question_text": "A lender records a mortgage on Monday at 10 a.m. Another lender records a mortgage on the same property Monday at 2 p.m. Which has priority?",
+      "correct_answer": "The 10 a.m. mortgage has priority",
+      "distractors": [
+        "Both have equal priority as same-day recordings",
+        "The larger mortgage amount takes priority",
+        "Priority depends on when funds were disbursed"
+      ],
+      "explanation": "Under the abstract system, priority is determined by date and time of recording. The mortgage recorded at 10 a.m. was first in time and therefore has superior priority.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "recording",
+        "priority",
+        "mortgage"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.1",
+      "question_text": "An agent explains recording to a client. Which statement about Minnesota's abstract system is most accurate?",
+      "correct_answer": "Documents are filed with the county recorder",
+      "distractors": [
+        "All land in the county must use this system",
+        "Recording guarantees the title is free of defects",
+        "The county issues a certificate of title at recording"
+      ],
+      "explanation": "In the abstract system, documents are recorded with the county recorder. Not all land must use this system (some is Torrens), recording does not guarantee title quality, and certificates of title are a Torrens feature.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "recording",
+        "county-recorder",
+        "abstract-system"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.2",
+      "question_text": "Under the Torrens system, what document serves as conclusive evidence of ownership?",
+      "correct_answer": "Certificate of Title",
+      "distractors": [
+        "Recorded warranty deed",
+        "Abstract of title",
+        "Title insurance policy"
+      ],
+      "explanation": "In the Torrens system under Ch. 508, the Certificate of Title issued by the county registrar is conclusive evidence of ownership. This differs from the abstract system where a chain of recorded deeds must be examined.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Torrens",
+        "Ch-508",
+        "certificate-of-title"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.2",
+      "question_text": "A buyer purchases Torrens property and receives a deed but does not file for a new certificate. What is the effect?",
+      "correct_answer": "The transfer is incomplete until a new certificate is filed",
+      "distractors": [
+        "The deed alone transfers full legal title to the buyer",
+        "The county automatically issues a new certificate of title",
+        "The buyer owns the property but cannot sell or encumber it"
+      ],
+      "explanation": "In the Torrens system, merely recording a deed is insufficient. A new Certificate of Title must be filed with the county registrar to complete the transfer and reflect the new owner.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Torrens",
+        "transfer",
+        "certificate-of-title"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.2",
+      "question_text": "A clerical error in the Torrens system causes a property owner to lose title. What fund provides compensation?",
+      "correct_answer": "Torrens assurance fund",
+      "distractors": [
+        "County general reserve fund",
+        "State real estate recovery fund",
+        "Title insurance guaranty fund"
+      ],
+      "explanation": "The Torrens system maintains an assurance fund to compensate parties who suffer losses due to errors in the system. This fund provides a financial remedy when the certificate of title contains mistakes.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Torrens",
+        "assurance-fund",
+        "compensation"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.2",
+      "question_text": "Why is Minnesota notable among U.S. states regarding the Torrens system?",
+      "correct_answer": "It is one of few states still actively using it",
+      "distractors": [
+        "It invented the Torrens system in 1858",
+        "All Minnesota land must be registered under Torrens",
+        "It is the only state with a Torrens assurance fund"
+      ],
+      "explanation": "Minnesota is one of only a few states that still actively uses the Torrens title registration system. Not all Minnesota land is Torrens-registered; property owners may choose to bring land into the system.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Torrens",
+        "Ch-508",
+        "state-distinction"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.2",
+      "question_text": "A title examiner discovers that a parcel is registered under both the abstract and Torrens systems. Which analysis is correct?",
+      "correct_answer": "Land is registered under one system, not both simultaneously",
+      "distractors": [
+        "The abstract registration automatically overrides Torrens",
+        "Both registrations are valid and provide dual protection",
+        "The owner must pay fees under both systems annually"
+      ],
+      "explanation": "A parcel is registered under either the abstract or Torrens system, not both. If this situation appears, it indicates an error that must be resolved. Land can be brought into Torrens from the abstract system through a court proceeding.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "Torrens",
+        "abstract-system",
+        "title-examination"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.3",
+      "question_text": "A home sells for $350,000 and the buyer assumes a $100,000 mortgage. What is the deed tax owed?",
+      "correct_answer": "$825 based on $250,000 net consideration",
+      "distractors": [
+        "$1,155 based on the full sale price",
+        "$350 based on the assumed mortgage",
+        "$500 as a flat fee per transaction"
+      ],
+      "explanation": "Minnesota deed tax is 0.33% of net consideration (sale price minus assumed mortgages). Net consideration is $350,000 - $100,000 = $250,000. The tax is $250,000 x 0.0033 = $825.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "deed-tax",
+        "transfer-tax",
+        "calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.3",
+      "question_text": "Who is primarily responsible for paying the deed tax in Minnesota?",
+      "correct_answer": "The seller",
+      "distractors": [
+        "The buyer",
+        "Both parties equally",
+        "The title company"
+      ],
+      "explanation": "In Minnesota, the deed tax is paid by the seller. The rate is 0.33% of the net consideration, which is the sale price minus any assumed mortgages.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "deed-tax",
+        "seller-responsibility",
+        "transfer-tax"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.3",
+      "question_text": "A borrower takes out a $400,000 conventional mortgage in Hennepin County. What mortgage registry tax is due?",
+      "correct_answer": "$960 at the combined rate",
+      "distractors": [
+        "$920 at 0.23% only",
+        "$1,320 at 0.33% of the loan",
+        "$0 because residential loans are exempt"
+      ],
+      "explanation": "The mortgage registry tax is 0.23% of the debt secured. In Hennepin County, an additional 0.01% ERT applies, making the combined rate 0.24%. $400,000 x 0.0024 = $960.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "mortgage-registry-tax",
+        "Hennepin-County",
+        "ERT"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.3",
+      "question_text": "Which type of loan is typically exempt from Minnesota's mortgage registry tax?",
+      "correct_answer": "Government-backed loans",
+      "distractors": [
+        "Conventional loans under $500,000",
+        "Commercial loans from state-chartered banks",
+        "Second mortgages on residential property"
+      ],
+      "explanation": "Minnesota exempts government-backed loans (such as FHA and VA) from the mortgage registry tax. Conventional loans are not exempt regardless of size.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "mortgage-registry-tax",
+        "exemptions",
+        "government-loans"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-14.3",
+      "question_text": "A property in Ramsey County sells for $500,000 with no assumed mortgage. The buyer also records a $400,000 mortgage. Which taxes include the Environmental Response Fund Tax surcharge?",
+      "correct_answer": "Both deed tax and mortgage registry tax",
+      "distractors": [
+        "Only the deed tax on the sale",
+        "Only the mortgage registry tax on the loan",
+        "Neither tax applies in Ramsey County"
+      ],
+      "explanation": "Hennepin and Ramsey counties add a 0.01% Environmental Response Fund Tax (ERT) surcharge to both the deed tax and the mortgage registry tax. This is unique to these two counties.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "ERT",
+        "Ramsey-County",
+        "deed-tax",
+        "mortgage-registry-tax"
+      ]
+    }
+  ]
+}

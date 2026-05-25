@@ -1,0 +1,158 @@
+{
+  "standard_ref": "TX-15",
+  "scope": "state",
+  "state": "TX",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "TX-15.1",
+      "question_text": "A husband inherits a lakehouse from his parents during marriage. How is this property classified?",
+      "correct_answer": "Separate property of the husband",
+      "distractors": [
+        "Community property of both spouses",
+        "Joint tenancy with right of survivorship",
+        "Quasi-community property"
+      ],
+      "explanation": "Property acquired by gift or inheritance during marriage is classified as separate property under the Texas Family Code. Even though the inheritance occurred during the marriage, it does not become community property. Title alone does not determine the character of the property.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["separate_property", "inheritance", "community_property"]
+    },
+    {
+      "key_topic_ref": "TX-15.1",
+      "question_text": "During marriage, a wife uses her salary to buy an investment property titled solely in her name. What is the property's classification?",
+      "correct_answer": "Community property",
+      "distractors": [
+        "Separate property of the wife",
+        "Sole management community property",
+        "Mixed character property"
+      ],
+      "explanation": "Wages earned during marriage are community property in Texas, so property purchased with those wages is also community property. Title alone does not determine character. The property being in only the wife's name does not convert community funds into separate property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["community_property", "wages", "title"]
+    },
+    {
+      "key_topic_ref": "TX-15.1",
+      "question_text": "What is the presumption for property acquired during a Texas marriage?",
+      "correct_answer": "It is presumed to be community property",
+      "distractors": [
+        "It is presumed to be separate property",
+        "It depends on who holds title",
+        "It is presumed to be tenancy in common"
+      ],
+      "explanation": "Texas law presumes that all property acquired during marriage is community property, owned equally by both spouses. This presumption can be rebutted with clear evidence that the property qualifies as separate (owned before marriage, gift, inheritance, or personal injury recovery except lost wages).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["community_property", "presumption", "marriage"]
+    },
+    {
+      "key_topic_ref": "TX-15.1",
+      "question_text": "A spouse receives a personal injury settlement that includes compensation for lost wages and pain/suffering. Which portion is community property?",
+      "correct_answer": "The lost wages portion only",
+      "distractors": [
+        "The entire settlement is community",
+        "The pain and suffering portion only",
+        "Neither portion is community property"
+      ],
+      "explanation": "Personal injury recoveries are generally separate property, except for the lost wages component. Since wages during marriage are community property, the lost wages portion of a personal injury settlement retains that community character. Pain and suffering compensation remains the injured spouse's separate property.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["community_property", "personal_injury", "lost_wages"]
+    },
+    {
+      "key_topic_ref": "TX-15.1",
+      "question_text": "A couple wants to sell community property. Only the husband signs the deed. Is the conveyance valid?",
+      "correct_answer": "No, both spouses must join in the conveyance",
+      "distractors": [
+        "Yes, if the husband holds title",
+        "Yes, with a power of attorney on file",
+        "No, unless the property is homestead"
+      ],
+      "explanation": "Both spouses must join in the conveyance of community real property unless one spouse has sole management authority. The requirement applies regardless of how title is held. A power of attorney could authorize one spouse to sign, but the question states only the husband signed without such authority.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["community_property", "conveyance", "spousal_joinder"]
+    },
+    {
+      "key_topic_ref": "TX-15.2",
+      "question_text": "What is the maximum acreage for a rural homestead claimed by a single person in Texas?",
+      "correct_answer": "100 acres",
+      "distractors": [
+        "50 acres",
+        "200 acres",
+        "10 acres"
+      ],
+      "explanation": "A single person may claim up to 100 acres as a rural homestead in Texas. A family may claim up to 200 acres. Urban homesteads are limited to 10 acres within city limits. These limits apply to the homestead protection from forced sale by creditors.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead", "rural", "acreage_limits"]
+    },
+    {
+      "key_topic_ref": "TX-15.2",
+      "question_text": "A creditor obtains a judgment against a homeowner for unpaid credit card debt. Can the creditor force sale of the homestead?",
+      "correct_answer": "No, the homestead is protected from forced sale",
+      "distractors": [
+        "Yes, if the judgment exceeds $100,000",
+        "Yes, after a 12-month waiting period",
+        "No, but the creditor can place a lien"
+      ],
+      "explanation": "Texas homestead protections prevent forced sale for most debts, including credit card judgments, with no dollar cap. Exceptions are limited to purchase money mortgages, property tax liens, home equity loans, certain mechanic's liens, and HOA assessments.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homestead", "forced_sale", "creditor_protection"]
+    },
+    {
+      "key_topic_ref": "TX-15.2",
+      "question_text": "A home is titled solely in the husband's name and designated as homestead. The couple wants to sell. Whose signature is required on the deed?",
+      "correct_answer": "Both spouses must sign",
+      "distractors": [
+        "Only the husband who holds title",
+        "The husband, with the wife's notarized consent",
+        "Either spouse may sign individually"
+      ],
+      "explanation": "Spousal joinder is required for conveyance of a homestead even when only one spouse holds title. This protection ensures that both spouses consent to selling the family home. A separate notarized consent form does not substitute for actually signing the deed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homestead", "spousal_joinder", "conveyance"]
+    },
+    {
+      "key_topic_ref": "TX-15.2",
+      "question_text": "What is the standard school district homestead exemption amount in Texas effective January 1, 2025?",
+      "correct_answer": "$140,000",
+      "distractors": [
+        "$100,000",
+        "$40,000",
+        "$150,000"
+      ],
+      "explanation": "Under SB 4 passed by the 89th Legislature, the school district homestead exemption increased to $140,000 effective January 1, 2025. The $150,000 figure applies to the additional exemption for homeowners aged 65 and older or those with disabilities.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead", "tax_exemption", "school_district"]
+    },
+    {
+      "key_topic_ref": "TX-15.2",
+      "question_text": "Which of the following debts CAN result in forced sale of a Texas homestead?",
+      "correct_answer": "Unpaid property taxes",
+      "distractors": [
+        "Medical bills",
+        "Student loan debt",
+        "Business loan default"
+      ],
+      "explanation": "Property tax liens are one of the specific exceptions to Texas homestead protection. Other exceptions include purchase money mortgages, home equity loans, certain mechanic's liens, and HOA assessments. General unsecured debts like medical bills, student loans, and business loans cannot force a homestead sale.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["homestead", "forced_sale", "property_tax_lien"]
+    }
+  ]
+}

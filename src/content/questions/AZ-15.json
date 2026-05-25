@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AZ-15",
+  "scope": "state",
+  "state": "AZ",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AZ-15.1",
+      "question_text": "In Arizona, which type of lien always has first priority over all others?",
+      "correct_answer": "Property tax liens",
+      "distractors": ["Mortgage liens by recording date", "Mechanic's liens by work start date", "HOA assessment liens"],
+      "explanation": "Property tax liens have first priority (superior to all other liens) in Arizona. This means unpaid property taxes must be satisfied before any mortgage, mechanic's lien, or HOA assessment.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax lien", "priority", "first"]
+    },
+    {
+      "key_topic_ref": "AZ-15.1",
+      "question_text": "In Arizona, a mechanic's lien must be filed within how many days of project completion?",
+      "correct_answer": "120 days",
+      "distractors": ["60 days", "90 days", "180 days"],
+      "explanation": "Arizona allows 120 days from completion of the work to file a mechanic's lien. The lien's priority relates back to when construction began (not the filing date), which can make mechanic's liens very powerful.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mechanic's lien", "120 days", "filing deadline"]
+    },
+    {
+      "key_topic_ref": "AZ-15.1",
+      "question_text": "A mechanic's lien in Arizona has priority dating back to:",
+      "correct_answer": "The start of construction, not the filing date",
+      "distractors": ["The date the lien was filed", "The date the contract was signed", "The date the work was completed"],
+      "explanation": "Arizona mechanic's liens have \"relate-back\" priority to the start of construction. This means a mechanic's lien filed after a mortgage was recorded could still have priority if construction began before the mortgage.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mechanic's lien", "priority", "relate back"]
+    },
+    {
+      "key_topic_ref": "AZ-15.1",
+      "question_text": "Which deed provides the broadest protection against title defects?",
+      "correct_answer": "Warranty deed",
+      "distractors": ["Special warranty deed", "Quitclaim deed", "Beneficiary deed"],
+      "explanation": "A warranty deed warrants against ALL defects in title, including those that arose before the grantor's ownership. A special warranty deed only covers the grantor's ownership period. A quitclaim deed provides no warranties at all.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["warranty deed", "title protection", "deed types"]
+    },
+    {
+      "key_topic_ref": "AZ-15.1",
+      "question_text": "A grantor transfers property using a quitclaim deed. What warranties does the buyer receive?",
+      "correct_answer": "No warranties whatsoever",
+      "distractors": ["Warranty against the grantor's own actions", "Full warranty against all title defects", "Limited warranty for the prior 10 years"],
+      "explanation": "A quitclaim deed transfers whatever interest the grantor has (if any) with no warranties. The buyer receives no guarantees about the quality of title. This is the riskiest deed type for the grantee.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["quitclaim deed", "no warranties", "transfer"]
+    },
+    {
+      "key_topic_ref": "AZ-15.2",
+      "question_text": "Under Arizona law, what is the minimum number of lots to qualify as a subdivision?",
+      "correct_answer": "6 or more lots",
+      "distractors": ["3 or more lots", "10 or more lots", "5 or more lots"],
+      "explanation": "Arizona defines a subdivision as any land divided into 6 or more lots for sale or lease. Five or fewer lots is considered unsubdivided land and requires an Affidavit of Disclosure rather than a public report.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["subdivision", "6 lots", "definition"]
+    },
+    {
+      "key_topic_ref": "AZ-15.2",
+      "question_text": "A buyer in a planned community requests HOA governing documents from the seller. How quickly must they be provided?",
+      "correct_answer": "Within 10 days of request",
+      "distractors": ["Within 3 business days", "Within 30 calendar days", "Within 5 business days"],
+      "explanation": "Arizona's Planned Community Act requires sellers to provide HOA information (governing documents, financial statements, disclosure summary) within 10 days of the buyer's request.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HOA", "disclosure", "10 days"]
+    },
+    {
+      "key_topic_ref": "AZ-15.2",
+      "question_text": "An Arizona HOA wants to prohibit homeowners from installing solar panels. Under state law, this is:",
+      "correct_answer": "Prohibited — HOAs cannot ban solar panels",
+      "distractors": ["Allowed if approved by 75% of homeowners", "Permitted in any CC&R amendment", "Legal as long as written notice is given"],
+      "explanation": "Arizona limits certain HOA powers. HOAs cannot prohibit solar panels, political signs (within 71 days of an election), or flagpoles in certain circumstances. These protections are established by state statute.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HOA", "solar panels", "limitations"]
+    },
+    {
+      "key_topic_ref": "AZ-15.2",
+      "question_text": "CC&Rs (Covenants, Conditions, and Restrictions) in an Arizona subdivision are said to:",
+      "correct_answer": "Run with the land and bind future owners",
+      "distractors": ["Expire after 20 years automatically", "Apply only to the original purchaser", "Become void when the HOA board changes"],
+      "explanation": "CC&Rs run with the land, meaning they bind all current and future property owners in the subdivision. They are recorded against the property and transfer automatically when the property is sold.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CC&Rs", "run with land", "binding"]
+    },
+    {
+      "key_topic_ref": "AZ-15.2",
+      "question_text": "What must a buyer receive before signing a purchase contract for a lot in an Arizona subdivision?",
+      "correct_answer": "The ADRE public report",
+      "distractors": ["A property appraisal report", "An environmental impact study", "A building permit from the city"],
+      "explanation": "Buyers must receive the ADRE public report before signing a purchase contract in a subdivision. The report discloses legal description, utilities, roads, CC&Rs, financial arrangements, water supply, and potential hazards.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["public report", "subdivision", "before signing"]
+    },
+    {
+      "key_topic_ref": "AZ-15.3",
+      "question_text": "How long must open, notorious, hostile, and continuous use last to create a prescriptive easement in Arizona?",
+      "correct_answer": "10 years",
+      "distractors": ["5 years", "7 years", "20 years"],
+      "explanation": "In Arizona, a prescriptive easement requires 10 years of open, notorious, hostile, and continuous use. This is longer than some states but shorter than others. The use must be without the owner's permission.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["prescriptive easement", "10 years", "requirements"]
+    },
+    {
+      "key_topic_ref": "AZ-15.3",
+      "question_text": "A neighbor has been using a path across your Arizona property openly for 12 years without your permission. They may have acquired:",
+      "correct_answer": "A prescriptive easement",
+      "distractors": ["An easement by necessity", "An express easement", "No legal interest in the property"],
+      "explanation": "With 12 years of open, notorious, hostile, and continuous use (exceeding Arizona's 10-year requirement), the neighbor may have acquired a prescriptive easement. This creates a legal right to continue using the path.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prescriptive easement", "adverse use", "12 years"]
+    },
+    {
+      "key_topic_ref": "AZ-15.3",
+      "question_text": "What is the difference between an easement appurtenant and an easement in gross?",
+      "correct_answer": "Appurtenant runs with the land; in gross is personal",
+      "distractors": ["Appurtenant is temporary; in gross is permanent", "Appurtenant is written; in gross is implied", "Appurtenant is for utilities; in gross is for access"],
+      "explanation": "An easement appurtenant benefits a specific property (dominant estate) and runs with the land when sold. An easement in gross is a personal right held by an individual or entity (like a utility company) unconnected to land ownership.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["easement appurtenant", "easement in gross", "distinction"]
+    },
+    {
+      "key_topic_ref": "AZ-15.3",
+      "question_text": "A property is landlocked with no road access. The owner can seek which type of easement?",
+      "correct_answer": "An easement by necessity",
+      "distractors": ["A prescriptive easement only", "An easement by estoppel", "No easement is available for landlocked property"],
+      "explanation": "An easement by necessity can be created when a property is landlocked and needs access over an adjoining property. This type of easement arises from the circumstances of the original land division.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["easement by necessity", "landlocked", "access"]
+    },
+    {
+      "key_topic_ref": "AZ-15.3",
+      "question_text": "Which of the following can create an easement in Arizona?",
+      "correct_answer": "Express grant, implication, necessity, or prescription",
+      "distractors": ["Only by written agreement between parties", "Only by court order or eminent domain", "Only by recording with the county recorder"],
+      "explanation": "Arizona recognizes four methods of creating easements: express grant (written agreement), implication (circumstances suggest it), necessity (landlocked property), and prescription (adverse use for 10+ years).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["easement creation", "methods", "four types"]
+    }
+  ]
+}

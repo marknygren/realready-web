@@ -1,0 +1,233 @@
+{
+  "standard_ref": "VT-10",
+  "scope": "state",
+  "state": "VT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "VT-10.1",
+      "question_text": "What is the Vermont property transfer tax rate for a principal residence on the first $200,000?",
+      "correct_answer": "0.5%",
+      "distractors": [
+        "1.25%",
+        "1.47%",
+        "0.22%"
+      ],
+      "explanation": "Vermont's property transfer tax for a principal residence is 0.5% on the first $200,000 of value. This reduced rate benefits primary homeowners and is exempt from the additional clean water surcharge that applies to amounts above $200,000.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer_tax", "principal_residence", "rate"]
+    },
+    {
+      "key_topic_ref": "VT-10.1",
+      "question_text": "A family buys a primary home for $350,000 in Vermont. What total transfer tax rate applies to the amount above $200,000?",
+      "correct_answer": "1.47% with clean water surcharge",
+      "distractors": [
+        "0.5% principal residence rate only",
+        "1.25% general rate without surcharge",
+        "3.62% non-principal residence rate"
+      ],
+      "explanation": "For a principal residence, the first $200,000 is taxed at 0.5% and is exempt from the clean water surcharge. The amount above $200,000 is taxed at the general rate of 1.25% plus the 0.22% clean water surcharge, totaling 1.47%.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer_tax", "principal_residence", "clean_water"]
+    },
+    {
+      "key_topic_ref": "VT-10.1",
+      "question_text": "What is the general Vermont property transfer tax rate before any surcharges?",
+      "correct_answer": "1.25%",
+      "distractors": [
+        "0.5%",
+        "1.47%",
+        "3.40%"
+      ],
+      "explanation": "The general Vermont property transfer tax rate is 1.25%. This base rate applies to non-exempt transfers. The 0.22% clean water surcharge is added on top, and principal residence and non-principal residence rates are calculated separately.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer_tax", "general_rate", "1.25_percent"]
+    },
+    {
+      "key_topic_ref": "VT-10.1",
+      "question_text": "What is the purpose of Vermont's 0.22% clean water surcharge on property transfers?",
+      "correct_answer": "To fund clean water initiatives statewide",
+      "distractors": [
+        "To pay for septic system inspections",
+        "To subsidize municipal water connections",
+        "To reimburse well testing costs for buyers"
+      ],
+      "explanation": "Vermont imposes a 0.22% clean water surcharge on property transfers to fund statewide clean water initiatives. This surcharge applies in addition to the base transfer tax rate on most transactions, with the principal residence first $200,000 being exempt.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["clean_water_surcharge", "transfer_tax", "purpose"]
+    },
+    {
+      "key_topic_ref": "VT-10.1",
+      "question_text": "A buyer purchases a $250,000 principal residence. On which portion does the clean water surcharge of 0.22% apply?",
+      "correct_answer": "Only on the $50,000 above $200,000",
+      "distractors": [
+        "On the full $250,000",
+        "On nothing, principal residences are exempt",
+        "On the first $200,000 only"
+      ],
+      "explanation": "For principal residences, the first $200,000 is taxed at 0.5% and is exempt from the clean water surcharge. The 0.22% surcharge applies only to the amount exceeding $200,000, which in this case is $50,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["clean_water_surcharge", "principal_residence", "threshold"]
+    },
+    {
+      "key_topic_ref": "VT-10.2",
+      "question_text": "What is the total transfer tax rate for a second home fit for year-round use in Vermont?",
+      "correct_answer": "3.62% with the clean water surcharge",
+      "distractors": [
+        "1.47% general rate with surcharge",
+        "0.5% principal residence rate only",
+        "1.25% base rate without surcharge"
+      ],
+      "explanation": "Vermont imposes a significantly higher transfer tax on second homes and vacation properties fit for year-round use: 3.40% plus the 0.22% clean water surcharge totaling 3.62%. This reflects Vermont's policy to discourage speculative second-home ownership.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["second_home", "transfer_tax", "3.62_percent"]
+    },
+    {
+      "key_topic_ref": "VT-10.2",
+      "question_text": "A buyer purchases a $400,000 lakefront vacation home in Vermont. Which transfer tax rate applies?",
+      "correct_answer": "3.62% on the full purchase price",
+      "distractors": [
+        "0.5% on the first $200,000 then 1.47%",
+        "1.25% general rate on the full price",
+        "1.47% on the full purchase price"
+      ],
+      "explanation": "Since this is a vacation/second home fit for year-round use and not a principal residence, the 3.40% non-principal rate plus 0.22% clean water surcharge (3.62% total) applies to the entire purchase price. The principal residence discount does not apply.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["vacation_home", "transfer_tax", "non_principal"]
+    },
+    {
+      "key_topic_ref": "VT-10.2",
+      "question_text": "A landlord rents out a Vermont property year-round as a long-term rental. What certificate can help avoid the 3.40% rate?",
+      "correct_answer": "A landlord certificate for rentals",
+      "distractors": [
+        "A homestead exemption certificate",
+        "A Commission-issued rental waiver",
+        "A federal low-income housing credit"
+      ],
+      "explanation": "Vermont provides a landlord certificate option for properties used as long-term rentals. This certificate allows landlords to avoid the higher 3.40% non-principal residence rate that applies to second homes and vacation properties.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord_certificate", "long_term_rental", "transfer_tax"]
+    },
+    {
+      "key_topic_ref": "VT-10.2",
+      "question_text": "Why does Vermont impose a higher transfer tax on non-principal residences?",
+      "correct_answer": "To address second-home ownership impact",
+      "distractors": [
+        "To match neighboring state tax rates",
+        "To fund vacation property infrastructure",
+        "To discourage all real estate investment"
+      ],
+      "explanation": "Vermont's higher transfer tax rate on non-principal residences reflects state policy concerns about the impact of second-home ownership on housing availability and affordability for year-round residents. The rate differential is intentionally significant.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["policy", "second_home", "housing_affordability"]
+    },
+    {
+      "key_topic_ref": "VT-10.2",
+      "question_text": "A buyer claims their Vermont vacation cabin is a principal residence to avoid the 3.40% rate. The cabin is used only in summer. This claim is:",
+      "correct_answer": "Fraudulent and subject to penalties",
+      "distractors": [
+        "Valid if the buyer stays 30 days per year",
+        "Acceptable with a signed affidavit",
+        "Permitted for properties under $300,000"
+      ],
+      "explanation": "Misrepresenting a vacation property as a principal residence to obtain the lower transfer tax rate constitutes fraud. A seasonal cabin used only in summer does not qualify as a principal residence, and false claims can result in penalties and back taxes.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fraud", "principal_residence", "misrepresentation"]
+    },
+    {
+      "key_topic_ref": "VT-10.3",
+      "question_text": "Which property transfer is exempt from Vermont's transfer tax?",
+      "correct_answer": "A transfer between spouses",
+      "distractors": [
+        "Any sale under $100,000",
+        "First-time homebuyer purchases",
+        "Transfers to a limited liability company"
+      ],
+      "explanation": "Vermont exempts several types of transfers from the property transfer tax, including transfers between spouses. Other exemptions include devise or inheritance, government transfers, and certain transfers involving VHCB, VHFA, or USDA programs.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exemption", "spouse_transfer", "transfer_tax"]
+    },
+    {
+      "key_topic_ref": "VT-10.3",
+      "question_text": "A daughter inherits her father's Vermont home through his will. Is transfer tax owed?",
+      "correct_answer": "No, devise and inheritance are exempt",
+      "distractors": [
+        "Yes, at the general 1.25% rate",
+        "Yes, but only on amounts over $250,000",
+        "Yes, at half the standard transfer rate"
+      ],
+      "explanation": "Vermont exempts property transfers that occur through devise (will) or inheritance from the property transfer tax. The daughter receives the property without owing transfer tax regardless of the property's value.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemption", "inheritance", "devise"]
+    },
+    {
+      "key_topic_ref": "VT-10.3",
+      "question_text": "What form must be filed with the town clerk when recording a Vermont property transfer?",
+      "correct_answer": "Form PT-172",
+      "distractors": [
+        "Form PTT-100",
+        "Form VT-200",
+        "Form RE-172"
+      ],
+      "explanation": "Vermont requires Form PT-172 to be filed with the town clerk at the time of recording a property transfer. This form documents the transfer details and calculates the applicable transfer tax. Both buyer and seller have obligations related to its filing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PT-172", "town_clerk", "filing"]
+    },
+    {
+      "key_topic_ref": "VT-10.3",
+      "question_text": "A VHFA-assisted purchase of a home priced at $280,000 qualifies for a transfer tax exemption. How much of the price is exempt?",
+      "correct_answer": "The first $250,000",
+      "distractors": [
+        "The full $280,000",
+        "The first $200,000",
+        "The first $100,000"
+      ],
+      "explanation": "Transfers involving VHCB, VHFA, or USDA programs are exempt from transfer tax on the first $250,000 of value. The remaining $30,000 above the exemption threshold would be subject to the applicable transfer tax rate.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["VHFA", "exemption", "250K_threshold"]
+    },
+    {
+      "key_topic_ref": "VT-10.3",
+      "question_text": "Who has obligations regarding the filing of Vermont property transfer tax documents?",
+      "correct_answer": "Both the buyer and the seller",
+      "distractors": [
+        "Only the buyer as the new owner",
+        "Only the seller's attorney",
+        "Only the recording town clerk"
+      ],
+      "explanation": "Vermont law places transfer tax filing obligations on both the buyer and the seller. Form PT-172 must be filed with the town clerk at recording, and both parties share responsibility for ensuring proper documentation and payment.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["filing_obligations", "buyer_seller", "transfer_tax"]
+    }
+  ]
+}

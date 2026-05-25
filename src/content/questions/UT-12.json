@@ -1,0 +1,228 @@
+{
+  "standard_ref": "UT-12",
+  "scope": "state",
+  "state": "UT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "UT-12.1",
+      "question_text": "Utah real estate closings are typically handled by:",
+      "correct_answer": "Title companies or escrow agents",
+      "distractors": ["Real estate attorneys only", "The Division of Real Estate", "The buyer's lender exclusively"],
+      "explanation": "In Utah, closings are typically handled by title companies or escrow agents. They manage document execution, fund disbursement, and deed recording.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-process", "title-company", "escrow"]
+    },
+    {
+      "key_topic_ref": "UT-12.1",
+      "question_text": "At a Utah closing, the deed must be recorded with:",
+      "correct_answer": "The county recorder's office",
+      "distractors": ["The Division of Real Estate", "The Real Estate Commission", "The State Tax Commission"],
+      "explanation": "Deeds and other real estate documents are recorded with the county recorder's office to provide public notice of the ownership transfer. Recording fees are charged by the county.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-process", "recording", "county-recorder"]
+    },
+    {
+      "key_topic_ref": "UT-12.1",
+      "question_text": "Which events occur during a typical Utah closing?",
+      "correct_answer": "Document execution, fund disbursement, and recording",
+      "distractors": ["Property inspection and appraisal review", "License verification and Division approval", "HOA approval and zoning confirmation"],
+      "explanation": "A Utah closing involves the execution and delivery of documents, disbursement of funds, and recording of the deed. Inspections and appraisals occur during the contract period, not at closing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-process", "steps", "documents"]
+    },
+    {
+      "key_topic_ref": "UT-12.1",
+      "question_text": "A buyer's lender requires an ALTA title insurance policy. This policy protects against:",
+      "correct_answer": "Unrecorded claims and survey issues",
+      "distractors": ["Only recorded liens and encumbrances", "Physical damage to the property only", "Loss of property value after purchase"],
+      "explanation": "An ALTA (extended) policy protects against both recorded and unrecorded claims, survey issues, and rights of parties in possession. A standard policy covers only recorded defects.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-process", "title-insurance", "alta"]
+    },
+    {
+      "key_topic_ref": "UT-12.1",
+      "question_text": "Who typically requires an ALTA title insurance policy in a Utah transaction?",
+      "correct_answer": "The lender",
+      "distractors": ["The buyer only", "The Division of Real Estate", "The county recorder"],
+      "explanation": "Lenders typically require ALTA (extended coverage) title insurance policies to protect their mortgage interest. Buyers may separately purchase an owner's policy.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-process", "alta", "lender"]
+    },
+    {
+      "key_topic_ref": "UT-12.2",
+      "question_text": "Property taxes are $3,600 per year. The seller owned the property through March 15 and the closing uses a 365-day year with closing day to the seller. What is the seller's proration?",
+      "correct_answer": "$739.73 debit to the seller",
+      "distractors": ["$739.73 credit to the seller", "$900.00 debit to the seller", "$720.00 debit to the seller"],
+      "explanation": "Daily rate: $3,600 / 365 = $9.8630. Jan 1 through March 15 = 74 days (31 + 28 + 15). With closing day to seller: 75 days. 75 × $9.8630 = $739.73 debit to seller.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prorations", "property-tax", "calculation"]
+    },
+    {
+      "key_topic_ref": "UT-12.2",
+      "question_text": "When prorating HOA dues on a closing statement, the seller is typically debited for:",
+      "correct_answer": "Their share of dues through the closing date",
+      "distractors": ["The entire year's dues in advance", "Only unpaid past-due amounts", "Nothing; HOA dues are not prorated"],
+      "explanation": "HOA dues are typically prorated so the seller pays their share through the closing date. If the seller prepaid, they receive a credit for the buyer's portion.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prorations", "hoa-dues", "closing-statement"]
+    },
+    {
+      "key_topic_ref": "UT-12.2",
+      "question_text": "On a closing statement, a buyer credit means:",
+      "correct_answer": "The amount reduces what the buyer owes",
+      "distractors": ["The buyer must pay an additional amount", "The seller receives an additional payment", "The amount is held in escrow"],
+      "explanation": "Credits reduce what the party owes. A buyer credit reduces the amount the buyer needs to bring to closing. A buyer debit increases the amount the buyer must pay.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-statement", "debits-credits", "buyer"]
+    },
+    {
+      "key_topic_ref": "UT-12.2",
+      "question_text": "Monthly rent of $2,000 is collected by the seller on June 1. Closing occurs June 10 using a 30-day month. The rent proration on the buyer's side is:",
+      "correct_answer": "$1,333.33 credit to the buyer",
+      "distractors": ["$1,333.33 debit to the buyer", "$666.67 credit to the buyer", "$2,000.00 credit to the buyer"],
+      "explanation": "Daily rate: $2,000/30 = $66.67. Buyer owns 20 days (June 11-30). Buyer credit: 20 × $66.67 = $1,333.33. The seller collected full month's rent but the buyer owns the property for 20 of those days.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prorations", "rent", "calculation"]
+    },
+    {
+      "key_topic_ref": "UT-12.2",
+      "question_text": "Utah exam closing statement questions typically specify whether to use:",
+      "correct_answer": "360 or 365 days for prorations",
+      "distractors": ["Gross or net commission amounts", "Cash or financed purchase terms", "Standard or extended title coverage"],
+      "explanation": "Utah exam questions specify whether to use a 360-day year (banker's year) or 365-day year for proration calculations, and whether the closing day belongs to the buyer or seller.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["prorations", "exam-format", "days"]
+    },
+    {
+      "key_topic_ref": "UT-12.3",
+      "question_text": "A standard title insurance policy in Utah protects against:",
+      "correct_answer": "Recorded defects, liens, and encumbrances",
+      "distractors": ["Unrecorded claims and survey problems", "Physical damage from natural disasters", "Loss due to changes in zoning laws"],
+      "explanation": "A standard title insurance policy protects against recorded defects, liens, and encumbrances. For protection against unrecorded claims and survey issues, an extended ALTA policy is needed.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-insurance", "standard-policy", "coverage"]
+    },
+    {
+      "key_topic_ref": "UT-12.3",
+      "question_text": "Does Utah impose a state-level transfer tax when real property is conveyed?",
+      "correct_answer": "No, Utah has no state transfer tax",
+      "distractors": ["Yes, at 0.5% of the sale price", "Yes, but only for properties over $500,000", "Only on commercial property transfers"],
+      "explanation": "Utah does not impose a state-level transfer tax or documentary stamp tax on real estate conveyances. Recording fees are charged by the county recorder for recording deeds and documents.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-tax", "no-state-tax", "recording-fees"]
+    },
+    {
+      "key_topic_ref": "UT-12.3",
+      "question_text": "What is the difference between standard and ALTA title insurance coverage?",
+      "correct_answer": "ALTA also covers unrecorded claims and surveys",
+      "distractors": ["Standard covers more than ALTA", "ALTA is only for commercial properties", "There is no difference in coverage"],
+      "explanation": "Standard policies cover recorded defects only. ALTA (extended) policies additionally cover unrecorded claims, survey discrepancies, and rights of parties in possession.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["title-insurance", "standard-vs-alta", "comparison"]
+    },
+    {
+      "key_topic_ref": "UT-12.3",
+      "question_text": "Recording fees in Utah for a deed transfer are charged by the:",
+      "correct_answer": "County recorder's office",
+      "distractors": ["State Division of Real Estate", "Real Estate Commission", "Federal Housing Administration"],
+      "explanation": "County recorder's offices charge recording fees for recording deeds and other real estate documents. Since Utah has no state transfer tax, recording fees are the primary government charge at conveyance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording-fees", "county-recorder", "closing-costs"]
+    },
+    {
+      "key_topic_ref": "UT-12.3",
+      "question_text": "A buyer purchases a home with both an owner's and lender's title policy. The owner's policy protects:",
+      "correct_answer": "The buyer's ownership interest",
+      "distractors": ["The lender's mortgage interest", "The seller's remaining obligations", "The title company's liability"],
+      "explanation": "An owner's title insurance policy protects the buyer's ownership interest against title defects. The lender's policy separately protects the mortgage lender's interest in the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-insurance", "owners-policy", "coverage"]
+    },
+    {
+      "key_topic_ref": "UT-12.4",
+      "question_text": "Utah property is assessed for tax purposes at what percentage of fair market value?",
+      "correct_answer": "100% of fair market value",
+      "distractors": ["80% of fair market value", "50% of fair market value", "75% of fair market value"],
+      "explanation": "Utah property is assessed at 100% of fair market value by the county assessor. However, owner-occupied primary residences qualify for a 45% property tax exemption.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "assessment", "fair-market-value"]
+    },
+    {
+      "key_topic_ref": "UT-12.4",
+      "question_text": "An owner-occupied primary residence in Utah receives a property tax exemption of:",
+      "correct_answer": "45% of fair market value",
+      "distractors": ["25% of fair market value", "55% of fair market value", "100% for the first $50,000"],
+      "explanation": "Utah's primary residential exemption reduces the taxable value by 45%, meaning only 55% of the fair market value is subject to property tax. This is one of the most generous such exemptions in the country.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "primary-residence", "45-percent"]
+    },
+    {
+      "key_topic_ref": "UT-12.4",
+      "question_text": "A homeowner disagrees with their property's assessed value. Their first appeal should be to:",
+      "correct_answer": "The county Board of Equalization",
+      "distractors": ["The State Tax Commission directly", "The Division of Real Estate", "The county assessor's personal review"],
+      "explanation": "Property owners first appeal their assessed value to the county Board of Equalization. Further appeals can then be made to the Utah State Tax Commission.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "appeals", "board-of-equalization"]
+    },
+    {
+      "key_topic_ref": "UT-12.4",
+      "question_text": "Delinquent property taxes in Utah have what priority relative to mortgages?",
+      "correct_answer": "Tax liens take priority over mortgages",
+      "distractors": ["Mortgages always take first priority", "They share equal priority", "Priority depends on recording date"],
+      "explanation": "Property tax liens have priority over most other liens, including mortgages. This means tax liens must be satisfied before mortgage lenders in a foreclosure or tax sale.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "tax-liens", "priority"]
+    },
+    {
+      "key_topic_ref": "UT-12.4",
+      "question_text": "A home assessed at $400,000 qualifies for the primary residential exemption. The taxable value is:",
+      "correct_answer": "$220,000",
+      "distractors": ["$180,000", "$200,000", "$360,000"],
+      "explanation": "With the 45% exemption, only 55% of the assessed value is taxable. $400,000 × 0.55 = $220,000 taxable value. The $180,000 difference ($400,000 × 0.45) is the exempt amount.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-tax", "calculation", "exemption"]
+    }
+  ]
+}

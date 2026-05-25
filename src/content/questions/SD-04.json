@@ -1,0 +1,63 @@
+{
+  "standard_ref": "SD-04",
+  "scope": "state",
+  "state": "SD",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "SD-04.1",
+      "question_text": "What is the maximum payout from the South Dakota Real Estate Recovery Fund per transaction?",
+      "correct_answer": "$15,000",
+      "distractors": ["$25,000", "$50,000", "$10,000"],
+      "explanation": "The SD Recovery Fund pays a maximum of $15,000 per transaction for actual and direct losses. This is lower than many other states' recovery fund limits and only covers cases where a licensee committed intentional, improper, or dishonest conduct.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "maximum", "payout"]
+    },
+    {
+      "key_topic_ref": "SD-04.1",
+      "question_text": "Before a consumer can file a claim against the SD Recovery Fund, what must they first obtain?",
+      "correct_answer": "A civil judgment against the licensee",
+      "distractors": ["A written complaint from the SDREC", "An arbitration award from a mediator", "A police report documenting the misconduct"],
+      "explanation": "The recovery fund is a last resort. A claimant must first obtain a civil judgment against the licensee and attempt to collect on it. Only when collection fails can they file a verified application in circuit court for fund payment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "claim-process", "civil-judgment"]
+    },
+    {
+      "key_topic_ref": "SD-04.1",
+      "question_text": "Under SDCL 36-21A-102, what is the minimum balance that must be maintained in the Recovery Fund?",
+      "correct_answer": "$100,000",
+      "distractors": ["$50,000", "$250,000", "$500,000"],
+      "explanation": "The SD Recovery Fund must maintain a minimum balance of $100,000. If the fund drops below this threshold, a separate fee is assessed on all licensees to restore it. The fund is primarily supported by a portion of license fees.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "minimum-balance", "SDCL"]
+    },
+    {
+      "key_topic_ref": "SD-04.1",
+      "question_text": "A licensee's misconduct leads to a $15,000 payout from the Recovery Fund. What happens to the licensee's license?",
+      "correct_answer": "Automatic suspension until the fund is repaid",
+      "distractors": ["No effect on the licensee's license status", "The license is permanently revoked", "Only a letter of reprimand is issued"],
+      "explanation": "Recovery from the fund may result in automatic license suspension until the licensee repays the amount taken from the fund. This ensures the fund is replenished and discourages licensee misconduct.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "license-suspension", "repayment"]
+    },
+    {
+      "key_topic_ref": "SD-04.1",
+      "question_text": "The SD Recovery Fund covers losses from which type of licensee conduct?",
+      "correct_answer": "Intentional or dishonest conduct only",
+      "distractors": ["Any error regardless of the intent", "Only criminal fraud-related convictions", "Only breaches of a fiduciary duty"],
+      "explanation": "The Recovery Fund pays claims only for actual and direct losses caused by a licensee's intentional, improper, or dishonest conduct. It does not cover honest mistakes, negligence, or general dissatisfaction with a transaction.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "coverage", "conduct"]
+    }
+  ]
+}

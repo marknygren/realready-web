@@ -1,0 +1,158 @@
+{
+  "standard_ref": "TX-17",
+  "scope": "state",
+  "state": "TX",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "TX-17.1",
+      "question_text": "A tenant moves out on March 1. By what date must the landlord return the security deposit or provide an accounting?",
+      "correct_answer": "March 31",
+      "distractors": [
+        "March 15",
+        "April 14",
+        "April 30"
+      ],
+      "explanation": "Texas Property Code requires landlords to return the security deposit, minus lawful deductions, within 30 days of the tenant vacating. From March 1, that deadline is March 31. Failure to comply exposes the landlord to liability for the full deposit plus penalties.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security_deposit", "30_day_return", "landlord_tenant"]
+    },
+    {
+      "key_topic_ref": "TX-17.1",
+      "question_text": "A tenant reports a broken water heater creating a health hazard. What must the landlord do under Texas law?",
+      "correct_answer": "Make diligent repair effort after written notice",
+      "distractors": [
+        "Replace the water heater within 24 hours",
+        "Offer the tenant a rent reduction immediately",
+        "Allow the tenant to hire a plumber and deduct cost"
+      ],
+      "explanation": "Under Property Code Chapter 92, the landlord must make a diligent effort to repair conditions affecting health or safety after receiving written notice from the tenant. The law does not impose a specific hour deadline, require rent reductions, or automatically authorize tenant self-help repairs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["repair_duty", "health_safety", "written_notice"]
+    },
+    {
+      "key_topic_ref": "TX-17.1",
+      "question_text": "A tenant complains to code enforcement about mold. The landlord then refuses to renew the lease in retaliation. Is this lawful?",
+      "correct_answer": "No, retaliation by the landlord is prohibited",
+      "distractors": [
+        "Yes, landlords can choose not to renew freely",
+        "Yes, if the lease term has naturally expired",
+        "No, but only if the complaint was filed in court"
+      ],
+      "explanation": "Texas law prohibits landlord retaliation against tenants who exercise their legal rights, including reporting code violations. Non-renewal motivated by a tenant's complaint to code enforcement constitutes illegal retaliation regardless of whether the lease term has expired.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["retaliation", "landlord_tenant", "code_enforcement"]
+    },
+    {
+      "key_topic_ref": "TX-17.1",
+      "question_text": "What type of lien does a Texas landlord have on a tenant's property for unpaid rent?",
+      "correct_answer": "A lien on the tenant's non-exempt personal property",
+      "distractors": [
+        "A lien on the tenant's real property only",
+        "No lien rights exist under Texas law",
+        "A lien on all personal property without exception"
+      ],
+      "explanation": "Texas landlords have a statutory lien on the tenant's non-exempt personal property for unpaid rent. The lien does not extend to exempt property such as basic necessities. This provides landlords with a remedy beyond eviction for collecting unpaid rent.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord_lien", "unpaid_rent", "personal_property"]
+    },
+    {
+      "key_topic_ref": "TX-17.1",
+      "question_text": "A military service member receives deployment orders and needs to terminate a residential lease early. What protection exists?",
+      "correct_answer": "Texas law allows lease termination for deployment",
+      "distractors": [
+        "The tenant must pay 3 months' rent penalty",
+        "Only federal law, not Texas law, addresses this",
+        "The landlord may deny early termination"
+      ],
+      "explanation": "Texas Property Code provides specific lease termination rights for military personnel who receive deployment orders. This state protection supplements federal protections under the SCRA. The landlord cannot deny early termination or impose penalties when proper notice and documentation are provided.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["military_deployment", "lease_termination", "landlord_tenant"]
+    },
+    {
+      "key_topic_ref": "TX-17.2",
+      "question_text": "Non-judicial foreclosure in Texas requires the notice of sale to be posted at least how many days before the sale?",
+      "correct_answer": "21 days before the sale",
+      "distractors": [
+        "10 days before the sale",
+        "30 days before the sale",
+        "45 days before the sale"
+      ],
+      "explanation": "Texas requires that the notice of sale be filed and posted at least 21 days before the foreclosure sale date. This notice must be sent to the borrower and filed with the county clerk. The 21-day minimum ensures borrowers have time to seek alternatives.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "notice_of_sale", "21_days"]
+    },
+    {
+      "key_topic_ref": "TX-17.2",
+      "question_text": "On which day of the month do non-judicial foreclosure sales occur in Texas?",
+      "correct_answer": "The first Tuesday of the month",
+      "distractors": [
+        "The last business day of the month",
+        "The first Monday of the month",
+        "Any weekday chosen by the lender"
+      ],
+      "explanation": "Texas law designates the first Tuesday of each month as the day for non-judicial foreclosure sales, conducted at the county courthouse. This standardized schedule allows interested parties to plan accordingly and promotes transparency in the foreclosure process.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "first_Tuesday", "sale_date"]
+    },
+    {
+      "key_topic_ref": "TX-17.2",
+      "question_text": "A homestead property is sold at a tax foreclosure sale. How long does the former owner have to redeem the property?",
+      "correct_answer": "2 years",
+      "distractors": [
+        "6 months",
+        "1 year",
+        "180 days"
+      ],
+      "explanation": "For homestead properties sold at tax foreclosure sales, Texas provides a 2-year right of redemption. Non-homestead properties have a shorter 180-day redemption period. Note that there is generally no statutory right of redemption for deed-of-trust foreclosures in Texas.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tax_sale", "redemption_period", "homestead"]
+    },
+    {
+      "key_topic_ref": "TX-17.2",
+      "question_text": "A lender forecloses on a home equity loan. Which type of foreclosure is required in Texas?",
+      "correct_answer": "Judicial foreclosure through the courts",
+      "distractors": [
+        "Non-judicial foreclosure by power of sale",
+        "Either judicial or non-judicial at lender's choice",
+        "Administrative foreclosure through TREC"
+      ],
+      "explanation": "Texas requires judicial foreclosure for home equity loans. While most Texas foreclosures are non-judicial under a deed of trust, the state constitution mandates court oversight for home equity loan foreclosures as an additional consumer protection measure.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["foreclosure", "judicial", "home_equity_loan"]
+    },
+    {
+      "key_topic_ref": "TX-17.2",
+      "question_text": "A licensee lists a property as a short sale. What disclosure obligation does the licensee have regarding the short sale status?",
+      "correct_answer": "The licensee must disclose the short sale status",
+      "distractors": [
+        "No disclosure is needed until an offer is made",
+        "Only the seller must disclose to the buyer",
+        "Disclosure is optional if the lender agrees"
+      ],
+      "explanation": "Texas licensees must disclose that a property is a short sale. This material fact affects the transaction timeline, approval process, and certainty of closing. Short sales require lender approval since the sale price is less than the outstanding mortgage balance.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["short_sale", "disclosure", "licensee_duty"]
+    }
+  ]
+}

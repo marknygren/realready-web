@@ -1,0 +1,118 @@
+{
+  "standard_ref": "AL-13",
+  "scope": "state",
+  "state": "AL",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AL-13.1",
+      "question_text": "A home in Alabama closes on September 15. Property taxes are paid in arrears. Who owes the proration credit?",
+      "correct_answer": "Seller owes the buyer a credit",
+      "distractors": ["Buyer owes the seller a credit", "No proration is needed", "The lender handles the proration"],
+      "explanation": "Because Alabama property taxes are paid in arrears, the seller has occupied the property from January 1 through September 15 without paying those taxes. The buyer will pay the full tax bill later, so the seller must credit the buyer for the seller's share of the tax year.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["proration", "property taxes", "arrears"]
+    },
+    {
+      "key_topic_ref": "AL-13.1",
+      "question_text": "When must an Alabama licensee inform parties about expected closing costs?",
+      "correct_answer": "At the time the offer is presented",
+      "distractors": ["At the time of listing only", "Three days before closing", "Only when the buyer requests it"],
+      "explanation": "Alabama law requires licensees to inform both buyer and seller of expected closing costs at the time the offer is presented. This ensures both parties can make informed decisions about the transaction before committing to the agreement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing costs", "disclosure timing", "offer presentation"]
+    },
+    {
+      "key_topic_ref": "AL-13.1",
+      "question_text": "Annual HOA dues of $1,200 are prepaid by the seller on January 1. Closing occurs April 1 using a 360-day proration. What credit does the seller receive?",
+      "correct_answer": "$900",
+      "distractors": ["$300", "$1,200", "$600"],
+      "explanation": "The seller prepaid the full $1,200 for the year. Using 360-day method, the daily rate is $1,200 / 360 = $3.33/day. The seller used 90 days (Jan-Mar = 3 months x 30 days). Remaining: 270 days x $3.33 = $900 credit to the seller for the unused portion of prepaid HOA dues.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["proration", "HOA dues", "360-day method"]
+    },
+    {
+      "key_topic_ref": "AL-13.1",
+      "question_text": "Which items are commonly prorated at an Alabama real estate closing?",
+      "correct_answer": "Taxes, insurance, rents, and HOA dues",
+      "distractors": ["Only property taxes and insurance", "Only rents and security deposits", "Commission and title insurance fees"],
+      "explanation": "Common prorations at Alabama closings include property taxes, insurance premiums, rents, and HOA dues. These are ongoing expenses that must be divided fairly between buyer and seller based on the closing date. Commissions and title fees are not prorated.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["prorations", "closing", "common items"]
+    },
+    {
+      "key_topic_ref": "AL-13.1",
+      "question_text": "A property closes July 1 with annual taxes of $3,650. Using the 365-day method with taxes paid in arrears, what is the seller's proration?",
+      "correct_answer": "$1,810 credit to buyer",
+      "distractors": ["$1,840 credit to buyer", "$1,810 credit to seller", "$1,840 credit to seller"],
+      "explanation": "With the 365-day method, the daily rate is $3,650 / 365 = $10/day. The seller owes for January 1 through June 30 = 181 days (31+28+31+30+31+30). 181 x $10 = $1,810 credit to the buyer. Since taxes are paid in arrears, the buyer will pay the full annual bill, so the seller credits the buyer for the seller's portion.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["proration", "365-day method", "tax calculation"]
+    },
+    {
+      "key_topic_ref": "AL-13.2",
+      "question_text": "In Alabama, the documentary stamp tax on a $200,000 sale is calculated at what rate?",
+      "correct_answer": "$1.00 per $1,000 of sale price",
+      "distractors": ["$0.50 per $1,000 of sale price", "$2.00 per $1,000 of sale price", "$1.50 per $1,000 of sale price"],
+      "explanation": "Alabama's documentary stamp tax (deed transfer tax) is $0.50 per $500, which equals $1.00 per $1,000 of the sale price. On a $200,000 sale, the tax would be $200. This tax is typically paid by the seller at closing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["documentary stamp tax", "transfer tax", "rate"]
+    },
+    {
+      "key_topic_ref": "AL-13.2",
+      "question_text": "A property sells for $325,000. What is the Alabama documentary stamp tax?",
+      "correct_answer": "$325",
+      "distractors": ["$162.50", "$650", "$975"],
+      "explanation": "The Alabama documentary stamp tax is $1.00 per $1,000 of sale price ($0.50 per $500). For a $325,000 sale: $325,000 / $1,000 = 325 x $1.00 = $325. This tax is customarily paid by the seller.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["documentary stamp tax", "calculation", "seller cost"]
+    },
+    {
+      "key_topic_ref": "AL-13.2",
+      "question_text": "A buyer takes a $250,000 mortgage in Alabama. What is the mortgage recording tax?",
+      "correct_answer": "$375",
+      "distractors": ["$250", "$500", "$150"],
+      "explanation": "Alabama's mortgage recording tax is $0.15 per $100 of mortgage amount. For a $250,000 mortgage: $250,000 / $100 = 2,500 x $0.15 = $375. This tax is paid by the borrower when the mortgage is recorded.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["mortgage recording tax", "calculation", "buyer cost"]
+    },
+    {
+      "key_topic_ref": "AL-13.2",
+      "question_text": "Which closing cost is typically the seller's responsibility in Alabama?",
+      "correct_answer": "Deed preparation and documentary stamp tax",
+      "distractors": ["Loan origination fee and appraisal", "Lender's title insurance and recording", "Mortgage recording tax and prepaids"],
+      "explanation": "In Alabama, the seller typically pays for deed preparation, documentary stamp tax, real estate commission, and mortgage payoff. The buyer typically pays for loan origination, appraisal, lender's title insurance, recording of the mortgage, and prepaid items.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing costs", "seller costs", "deed preparation"]
+    },
+    {
+      "key_topic_ref": "AL-13.2",
+      "question_text": "A buyer purchases a home for $400,000 with a $320,000 mortgage. What are the combined documentary stamp tax and mortgage recording tax?",
+      "correct_answer": "$880",
+      "distractors": ["$400", "$480", "$720"],
+      "explanation": "Documentary stamp tax: $400,000 / $1,000 x $1.00 = $400 (seller pays). Mortgage recording tax: $320,000 / $100 x $0.15 = $480 (buyer pays). Combined total: $400 + $480 = $880. These are separate obligations paid by different parties at closing.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["documentary stamp tax", "mortgage recording tax", "combined calculation"]
+    }
+  ]
+}

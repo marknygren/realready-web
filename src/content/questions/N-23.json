@@ -1,0 +1,493 @@
+{
+  "standard_ref": "N-23",
+  "scope": "national",
+  "state": null,
+  "category": "financing_settlement",
+  "questions": [
+    {
+      "key_topic_ref": "N-23.1",
+      "question_text": "A 'conforming' conventional loan is one that:",
+      "correct_answer": "Meets the guidelines and loan limits set by Fannie Mae and Freddie Mac",
+      "distractors": [
+        "Is insured by the federal government against borrower default",
+        "Requires a minimum 20% down payment with no mortgage insurance",
+        "Has a fixed interest rate for the entire loan term"
+      ],
+      "explanation": "A conforming loan meets the purchase guidelines of Fannie Mae and Freddie Mac — including maximum loan limits (adjusted annually; approximately $766,550 for single-family homes in most areas for 2024), minimum credit scores, and debt-to-income ratios. Conforming loans can be sold on the secondary market, which provides lenders with liquidity to make more loans. A non-conforming (jumbo) loan exceeds these limits. Neither requires government insurance — that is the defining feature of FHA/VA/USDA loans. Conforming loans may allow as little as 3% down.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "conventional_loans",
+        "conforming_loan",
+        "Fannie_Mae",
+        "Freddie_Mac"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.2",
+      "question_text": "In a land contract (contract for deed), which party holds legal title during the repayment period?",
+      "correct_answer": "The seller",
+      "distractors": [
+        "The buyer",
+        "A neutral escrow company",
+        "The county recorder"
+      ],
+      "explanation": "A land contract (also called contract for deed, installment sale contract, or bond for deed) is a form of seller financing where the seller retains legal title throughout the installment repayment period. The buyer takes possession and receives equitable title — the right to obtain legal title — but does not receive the deed until the purchase price is fully paid. This arrangement benefits sellers who want installment income and buyers who cannot qualify for traditional financing. The risk to the buyer: if they default, laws in many states allow the seller to cancel the contract and retain all prior payments without a formal foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "seller_financing",
+        "land_contract",
+        "contract_for_deed",
+        "equitable_title"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.3",
+      "question_text": "In a lien theory state, when a borrower takes out a mortgage to purchase a home:",
+      "correct_answer": "The borrower retains title and the lender holds a lien",
+      "distractors": [
+        "The lender holds title until the loan is fully repaid",
+        "Title is held by a neutral trustee until the debt is satisfied",
+        "Both borrower and lender share title as co-owners"
+      ],
+      "explanation": "In lien theory states (the majority of U.S. states), the mortgage is treated as a lien — a security interest — against the borrower's property. The borrower retains title and can sell, refinance, or will the property. If the borrower defaults, the lender must go through a judicial foreclosure (court proceeding) to enforce the lien. In title theory states, the borrower conveys title to the lender (or a trustee) via a deed of trust, and the lender (or trustee) can conduct a non-judicial foreclosure (trustee's sale) upon default — typically faster than judicial foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "lien_theory",
+        "title_theory",
+        "mortgage",
+        "foreclosure",
+        "deed_of_trust"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.4",
+      "question_text": "Fannie Mae and Freddie Mac operate in the:",
+      "correct_answer": "Secondary mortgage market",
+      "distractors": [
+        "Primary mortgage market",
+        "Federal Reserve System",
+        "Insurance market"
+      ],
+      "explanation": "The primary mortgage market is where lenders originate loans directly to borrowers. The secondary mortgage market is where those loans are bought and sold after origination. Fannie Mae (Federal National Mortgage Association) and Freddie Mac (Federal Home Loan Mortgage Corporation) are government-sponsored enterprises (GSEs) that purchase conforming conventional loans from lenders, package them into mortgage-backed securities, and sell them to investors. This provides lenders with funds to make additional loans. Ginnie Mae (Government National Mortgage Association) performs a similar function for government-backed loans (FHA, VA, USDA).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "secondary_mortgage_market",
+        "Fannie_Mae",
+        "Freddie_Mac",
+        "Ginnie_Mae",
+        "liquidity"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.4",
+      "question_text": "The secondary mortgage market benefits homebuyers primarily by:",
+      "correct_answer": "Increasing mortgage credit availability",
+      "distractors": [
+        "Reducing closing costs for borrowers",
+        "Guaranteeing all mortgage loans against borrower default",
+        "Setting the maximum interest rates lenders may charge"
+      ],
+      "explanation": "Without the secondary market, a lender's ability to make new loans would be limited to their own capital. By selling loans to Fannie Mae, Freddie Mac, or private investors, lenders replenish their capital and can immediately make more loans. This creates a continuous flow of mortgage credit at competitive rates. The secondary market does not guarantee loans against default (that is Ginnie Mae's role for government-backed loans), set interest rates (those are market-determined), or pay origination costs. Its core function is providing lenders with liquidity.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "secondary_mortgage_market",
+        "liquidity",
+        "mortgage_credit"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.5",
+      "question_text": "A mortgage contains a due-on-sale clause. When the borrower sells the property, the lender:",
+      "correct_answer": "May require the entire loan balance to be paid off",
+      "distractors": [
+        "Must allow the new buyer to assume the loan at the original rate",
+        "May increase the rate but cannot demand full repayment",
+        "Has no right to accelerate the loan upon sale"
+      ],
+      "explanation": "A due-on-sale clause (also called an alienation clause) requires the entire loan balance to become immediately due and payable if the property is sold or transferred without the lender's consent. It prevents buyers from assuming the seller's lower-rate mortgage without lender approval. The Garn-St. Germain Depository Institutions Act (1982) federally preempted state laws that tried to limit due-on-sale clauses — lenders may enforce them. Government-backed loans (FHA, VA) are assumable — their terms allow new buyers to assume the loan with proper qualification and lender approval.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "due_on_sale_clause",
+        "alienation_clause",
+        "mortgage_assumption",
+        "loan_assumption"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.5",
+      "question_text": "A borrower defaults on their mortgage and the lender forecloses. The foreclosure sale proceeds are $30,000 less than the outstanding loan balance. The lender may pursue a:",
+      "correct_answer": "Deficiency judgment",
+      "distractors": [
+        "Acceleration",
+        "Lis pendens",
+        "Subordination"
+      ],
+      "explanation": "A deficiency judgment allows a lender to pursue the borrower personally for the difference between the foreclosure sale proceeds and the outstanding loan balance. For example, if the loan balance is $200,000 and the foreclosure sale brings $170,000, the lender may seek a $30,000 deficiency judgment against the borrower's other assets. Some states have anti-deficiency laws that limit or prohibit deficiency judgments on certain purchase-money mortgages. Acceleration is a contractual clause triggering full repayment on default — it precedes foreclosure. Lis pendens records the pending foreclosure lawsuit.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "deficiency_judgment",
+        "foreclosure",
+        "mortgage_default",
+        "lender_remedies"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.1",
+      "question_text": "A jumbo loan is a conventional loan that:",
+      "correct_answer": "Exceeds conforming loan limits set by Fannie Mae and Freddie Mac",
+      "distractors": [
+        "Is guaranteed by the federal government through the FHA",
+        "Has an adjustable rate that resets annually after a fixed period",
+        "Requires the borrower to be a first-time homebuyer"
+      ],
+      "explanation": "A jumbo loan is a non-conforming conventional loan that exceeds the maximum loan amount Fannie Mae and Freddie Mac will purchase (approximately $766,550 in most areas for 2024, higher in designated high-cost areas). Because jumbo loans cannot be sold to the GSEs, lenders typically require higher credit scores, larger down payments, and charge slightly higher interest rates. Jumbo loans are common in expensive markets where home prices routinely exceed conforming limits.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "jumbo_loan",
+        "non_conforming",
+        "conventional_loan"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.1",
+      "question_text": "Conventional loans differ from government-backed loans primarily because they:",
+      "correct_answer": "Are not insured or guaranteed by any federal government agency",
+      "distractors": [
+        "Always require a 20% minimum down payment from the borrower",
+        "Cannot be used to purchase primary residences in any circumstances",
+        "Are only available through credit unions and community banks"
+      ],
+      "explanation": "The defining characteristic of a conventional loan is that it has no government insurance or guarantee. FHA loans are insured by the Federal Housing Administration, VA loans are guaranteed by the Department of Veterans Affairs, and USDA loans are guaranteed by the Department of Agriculture. Conventional loans rely on private mortgage insurance (PMI) when the down payment is less than 20%. They are available through any approved lender and can be used for primary residences, second homes, and investment properties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "conventional_loan",
+        "government_backed",
+        "no_guarantee"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.1",
+      "question_text": "A conventional loan with less than 20% down payment typically requires:",
+      "correct_answer": "Private mortgage insurance (PMI) to protect the lender",
+      "distractors": [
+        "FHA mortgage insurance premium (MIP) paid to the government",
+        "A co-signer personally liable for the entire loan amount",
+        "An escrow account holding six months of property taxes"
+      ],
+      "explanation": "PMI is required on conventional loans with a loan-to-value ratio above 80% (down payment below 20%). PMI protects the lender — not the borrower — by covering a portion of the loan balance if the borrower defaults. Under the Homeowners Protection Act, PMI must be automatically terminated when the LTV reaches 78% based on the original amortization schedule. FHA MIP is for FHA loans only. Conventional loans may require as little as 3% down (Fannie Mae's HomeReady or Freddie Mac's Home Possible programs).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "conventional_loan",
+        "PMI",
+        "down_payment"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.1",
+      "question_text": "Which statement about conventional loans is TRUE?",
+      "correct_answer": "Conventional loans may have fixed or adjustable interest rates",
+      "distractors": [
+        "Conventional loans always have fixed rates that never change",
+        "Conventional loans are limited to 15-year terms only",
+        "Conventional loans require a homebuyer education course"
+      ],
+      "explanation": "Conventional loans come in many varieties: fixed-rate (15, 20, 30 year), adjustable-rate (ARMs with various adjustment periods), and hybrid products. The borrower selects the product that best fits their financial situation and risk tolerance. Fixed-rate loans provide payment certainty; ARMs typically start with lower rates but carry the risk of future increases. There is no federal requirement for homebuyer education on conventional loans (though some programs like HomeReady may require it).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "conventional_loan",
+        "fixed_rate",
+        "ARM"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.2",
+      "question_text": "A purchase money mortgage is one where:",
+      "correct_answer": "The seller provides financing to the buyer as part of the sale",
+      "distractors": [
+        "The buyer obtains a new mortgage from a bank to purchase the property",
+        "The buyer assumes the seller's existing mortgage in the transaction",
+        "The government provides subsidized financing for first-time buyers"
+      ],
+      "explanation": "A purchase money mortgage is seller financing — the seller acts as the lender, providing a loan to the buyer to complete the purchase. The buyer gives the seller a promissory note and mortgage (or deed of trust). This arrangement is used when the buyer cannot qualify for traditional bank financing, or when the seller wants to receive payments over time (often for tax advantages through installment sale treatment). Unlike a land contract, a purchase money mortgage typically transfers title to the buyer at closing, with the seller holding a lien.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "purchase_money_mortgage",
+        "seller_financing"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.2",
+      "question_text": "A wraparound mortgage involves:",
+      "correct_answer": "A new loan that includes the balance of an existing mortgage",
+      "distractors": [
+        "Two separate mortgages combined into a single monthly payment",
+        "A home equity line of credit wrapped around a first mortgage",
+        "A government program that wraps student debt into a mortgage"
+      ],
+      "explanation": "A wraparound mortgage (wrap) is a seller financing technique where the seller creates a new, larger mortgage that 'wraps around' the existing first mortgage. The buyer makes payments to the seller on the wrap amount, and the seller continues making payments on the underlying first mortgage. The seller profits from the interest rate spread (charging the buyer more than the first mortgage rate). Wraps can violate due-on-sale clauses in the underlying mortgage, which is a significant risk.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "wraparound_mortgage",
+        "seller_financing",
+        "interest_spread"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.2",
+      "question_text": "The main advantage of seller financing for a buyer is:",
+      "correct_answer": "More flexible qualification",
+      "distractors": [
+        "Lower interest rates than any available through traditional bank financing",
+        "No legal obligation to repay the loan since seller financing is informal",
+        "Automatic ownership of the property without any down payment requirement"
+      ],
+      "explanation": "Seller financing can help buyers who cannot qualify for traditional loans due to credit issues, self-employment income, or other underwriting challenges. The seller sets their own qualification standards, which may be more flexible than bank guidelines. However, interest rates on seller financing are often higher than bank rates (the seller is compensated for taking on more risk). Seller financing creates a legally binding obligation — the buyer must repay, and the seller can foreclose on default. A down payment is typically required.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "seller_financing",
+        "flexible_qualification",
+        "buyer_advantage"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.2",
+      "question_text": "A buyer under a land contract defaults on payments. In many states, the seller may:",
+      "correct_answer": "Cancel the contract and retain prior payments without full foreclosure",
+      "distractors": [
+        "Recover the property only through judicial foreclosure like a mortgage",
+        "Retain the property but must refund all payments made to date",
+        "Gain full ownership automatically without any legal process"
+      ],
+      "explanation": "One risk of a land contract for buyers is that default remedies in many states are more favorable to sellers than in mortgage foreclosure. Some states allow sellers to terminate the contract through forfeiture — the buyer loses possession and all prior payments without the protections of a formal foreclosure (court supervision, redemption rights, surplus proceeds). Other states require the seller to follow foreclosure-like procedures. Buyers should understand their state's land contract default rules before entering this arrangement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "land_contract",
+        "default",
+        "forfeiture",
+        "buyer_risk"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.3",
+      "question_text": "In a title theory state, a borrower conveys title to the lender through a:",
+      "correct_answer": "Deed of trust",
+      "distractors": [
+        "Standard two-party mortgage",
+        "Quitclaim deed",
+        "Land contract"
+      ],
+      "explanation": "In title theory states, the borrower conveys legal title to a third-party trustee (often a title company) through a deed of trust. The trustee holds 'bare' or 'naked' title as security for the loan. When the loan is paid in full, the trustee reconveys title back to the borrower. If the borrower defaults, the trustee can conduct a non-judicial foreclosure (trustee's sale) — typically faster and less expensive than judicial foreclosure. The deed of trust involves three parties: borrower (trustor), lender (beneficiary), and trustee.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "title_theory",
+        "deed_of_trust",
+        "trustee"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.3",
+      "question_text": "The primary practical difference between lien theory and title theory states is how:",
+      "correct_answer": "Foreclosure is conducted",
+      "distractors": [
+        "Interest rates are calculated",
+        "Property taxes are assessed",
+        "Down payments are determined"
+      ],
+      "explanation": "The main practical difference is foreclosure procedure. In lien theory states (most states), the lender must go through a judicial foreclosure — filing a lawsuit, obtaining a court order, and conducting a court-supervised sale. This process is slower but provides the borrower with more protections (right to cure, redemption period). In title theory states, the trustee can conduct a non-judicial (power of sale) foreclosure, which is typically faster and less expensive. Some states follow an intermediary theory combining elements of both.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "lien_theory",
+        "title_theory",
+        "foreclosure_process"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.3",
+      "question_text": "When a mortgage loan is fully paid, the lender must provide the borrower with a:",
+      "correct_answer": "Satisfaction of mortgage to release the lien",
+      "distractors": [
+        "New warranty deed proving clear title",
+        "Certificate that the property is no longer encumbered",
+        "Written appraisal confirming current market value"
+      ],
+      "explanation": "When the loan is paid off, the lender records a satisfaction of mortgage (in lien theory states) or the trustee records a reconveyance deed (in title theory states) to release the lien from the property's public records. Without this document, the mortgage lien remains on record — potentially clouding title and causing problems when the owner tries to sell or refinance. Most states require lenders to record the satisfaction within a specified timeframe (30-90 days). If the lender fails to do so, the borrower can take legal action to compel it.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "satisfaction_of_mortgage",
+        "reconveyance",
+        "lien_release"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.3",
+      "question_text": "An intermediary theory state treats the mortgage as:",
+      "correct_answer": "A lien until default, at which point title transfers to the lender",
+      "distractors": [
+        "Identical to a title theory state with no distinction",
+        "A temporary co-ownership between borrower and lender",
+        "A lease where the borrower rents from the lender until payoff"
+      ],
+      "explanation": "Intermediary (hybrid) theory states combine elements of both lien and title theories. The borrower holds title and the mortgage is treated as a lien during normal payments — but if the borrower defaults, title automatically vests in the lender (or a trustee), enabling non-judicial foreclosure. This gives borrowers the benefit of title ownership during good standing while giving lenders the efficiency of non-judicial foreclosure upon default. The specific mechanics vary by state.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "intermediary_theory",
+        "hybrid",
+        "foreclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.4",
+      "question_text": "Ginnie Mae differs from Fannie Mae and Freddie Mac in that Ginnie Mae:",
+      "correct_answer": "Guarantees securities backed by government-insured loans (FHA, VA, USDA)",
+      "distractors": [
+        "Originates mortgage loans directly to homebuyers",
+        "Purchases and holds conventional conforming loans in its portfolio",
+        "Sets the national conforming loan limits for conventional loans"
+      ],
+      "explanation": "Ginnie Mae (Government National Mortgage Association) is a wholly government-owned entity that guarantees the timely payment of principal and interest on mortgage-backed securities backed by federally insured or guaranteed loans (FHA, VA, USDA, PIH). Unlike Fannie Mae and Freddie Mac (which are GSEs that purchase conventional loans), Ginnie Mae does not purchase or sell loans — it guarantees securities. This guarantee carries the full faith and credit of the U.S. government, making Ginnie Mae MBS very attractive to investors.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Ginnie_Mae",
+        "MBS",
+        "government_guarantee"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.4",
+      "question_text": "Mortgage-backed securities (MBS) are created when:",
+      "correct_answer": "Pools of mortgage loans are packaged and sold as securities to investors",
+      "distractors": [
+        "Homeowners invest their mortgage payments in the stock market",
+        "Banks issue bonds directly to homebuyers for property purchases",
+        "The Federal Reserve buys individual mortgages from homeowners"
+      ],
+      "explanation": "The securitization process: (1) lenders originate mortgage loans, (2) loans are sold to Fannie Mae, Freddie Mac, or Ginnie Mae-approved issuers, (3) similar loans are pooled together, (4) the pool is converted into mortgage-backed securities, and (5) MBS are sold to investors (pension funds, insurance companies, mutual funds). Investors receive payments of principal and interest as borrowers make their mortgage payments. This process provides lenders with immediate capital to make new loans and distributes risk among many investors.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "MBS",
+        "securitization",
+        "secondary_market"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.4",
+      "question_text": "Fannie Mae and Freddie Mac are classified as:",
+      "correct_answer": "Government-sponsored enterprises (GSEs)",
+      "distractors": [
+        "Federal agencies within the Department of Housing and Urban Development",
+        "Private corporations with no government connection or oversight",
+        "Non-profit organizations funded by congressional appropriations"
+      ],
+      "explanation": "Fannie Mae and Freddie Mac are GSEs — they were created by Congress to promote homeownership by maintaining a liquid secondary mortgage market. They are technically private companies with shareholders, but they operate under a federal charter with government oversight. During the 2008 financial crisis, both were placed in conservatorship under the Federal Housing Finance Agency (FHFA), where they remain. Their unique status gives them an implicit government backing, which allows them to borrow at lower rates than purely private companies.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Fannie_Mae",
+        "Freddie_Mac",
+        "GSE",
+        "federal_charter"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.5",
+      "question_text": "FHA and VA loans are generally assumable, which means:",
+      "correct_answer": "A new buyer can take over the seller's existing loan with lender approval",
+      "distractors": [
+        "The buyer and seller split the remaining loan payments equally",
+        "The loan is automatically forgiven if the borrower sells the property",
+        "The buyer must refinance into their own name within 90 days"
+      ],
+      "explanation": "Assumable loans allow a new buyer to take over the seller's existing mortgage at its current interest rate and terms — subject to lender approval and the new buyer meeting qualification requirements. This can be valuable when interest rates have risen significantly since the original loan was made (the buyer gets a below-market rate). FHA loans originated after December 1989 and VA loans are assumable with lender approval. Most conventional loans contain due-on-sale clauses that prevent assumption.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "loan_assumption",
+        "FHA",
+        "VA",
+        "assumable"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.5",
+      "question_text": "When a VA loan is assumed by a new buyer, the original veteran borrower:",
+      "correct_answer": "May not regain full VA entitlement unless the new buyer is also a veteran",
+      "distractors": [
+        "Immediately regains full VA entitlement upon closing the assumption",
+        "Permanently loses VA entitlement regardless of the new buyer's status",
+        "Must pay a 3% fee to the VA to transfer entitlement"
+      ],
+      "explanation": "When a VA loan is assumed, the original veteran's entitlement remains tied to that loan until it is paid off. If the assuming buyer is a veteran who substitutes their own entitlement, the original veteran's entitlement is released. If the assuming buyer is not a veteran, the original veteran's entitlement remains encumbered — meaning they may not be able to use their full VA benefit for another purchase. This is an important consideration for veterans deciding whether to allow their loan to be assumed by a non-veteran buyer.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "VA_loan",
+        "assumption",
+        "entitlement"
+      ]
+    },
+    {
+      "key_topic_ref": "N-23.5",
+      "question_text": "The acceleration clause in a mortgage allows the lender to:",
+      "correct_answer": "Demand full payment of the remaining loan balance upon default",
+      "distractors": [
+        "Increase the interest rate by a fixed percentage each year",
+        "Require double payments to catch up on missed amounts",
+        "Sell the property at auction without notice to the borrower"
+      ],
+      "explanation": "The acceleration clause provides that upon default (missed payments, failure to maintain insurance, violation of due-on-sale clause), the lender may declare the entire remaining balance immediately due and payable. This is the legal mechanism that enables foreclosure — once the loan is accelerated, the lender can proceed to foreclose on the property to recover the accelerated balance. Without acceleration, the lender could only sue for individual missed payments. The acceleration clause also applies when a due-on-sale clause is triggered by an unauthorized transfer.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "acceleration_clause",
+        "default",
+        "foreclosure"
+      ]
+    }
+  ]
+}

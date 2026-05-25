@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WI-13",
+  "scope": "state",
+  "state": "WI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WI-13.1",
+      "question_text": "Two siblings inherit a property. Without any agreement specifying otherwise, how do they hold title?",
+      "correct_answer": "As tenants in common",
+      "distractors": ["As joint tenants", "As community property", "In sole ownership by the eldest"],
+      "explanation": "In Wisconsin, when multiple owners take title without specifying the type of ownership, the default is tenancy in common. Joint tenancy requires specific language and the four unities.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ownership", "tenancy in common", "default"]
+    },
+    {
+      "key_topic_ref": "WI-13.1",
+      "question_text": "What are the four unities required for joint tenancy in Wisconsin?",
+      "correct_answer": "Time, title, interest, and possession",
+      "distractors": ["Consent, consideration, capacity, and legality", "Intent, delivery, acceptance, and consideration", "Time, place, manner, and consideration"],
+      "explanation": "Joint tenancy requires the four unities: time (acquired at the same time), title (same deed), interest (equal shares), and possession (equal right to use the whole property).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["joint tenancy", "four unities", "ownership"]
+    },
+    {
+      "key_topic_ref": "WI-13.1",
+      "question_text": "One joint tenant in Wisconsin dies. What happens to their interest?",
+      "correct_answer": "It passes to the surviving joint tenant(s)",
+      "distractors": ["It passes to their heirs through probate", "It reverts to the state of Wisconsin", "It is divided among all co-owners equally"],
+      "explanation": "Joint tenancy includes the right of survivorship — when one joint tenant dies, their interest automatically passes to the surviving joint tenant(s) without going through probate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["joint tenancy", "survivorship", "death"]
+    },
+    {
+      "key_topic_ref": "WI-13.1",
+      "question_text": "A tenant in common sells their interest to a third party. What happens to the other owners' interests?",
+      "correct_answer": "They are unaffected and continue to own their shares",
+      "distractors": ["All owners must consent to the sale first", "The other owners must buy the interest first", "All ownership reverts to tenancy at will"],
+      "explanation": "Tenants in common can independently sell, mortgage, or transfer their interest without consent from other owners. The other owners' interests remain unchanged, and the new buyer becomes a co-tenant.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tenancy in common", "transfer", "independence"]
+    },
+    {
+      "key_topic_ref": "WI-13.1",
+      "question_text": "Which ownership form does NOT include right of survivorship?",
+      "correct_answer": "Tenancy in common",
+      "distractors": ["Joint tenancy", "Survivorship marital property", "Marital property with survivorship"],
+      "explanation": "Tenancy in common does not include right of survivorship. When a tenant in common dies, their interest passes through their will or by intestate succession, not automatically to the other co-owners.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tenancy in common", "no survivorship", "ownership"]
+    },
+    {
+      "key_topic_ref": "WI-13.2",
+      "question_text": "Wisconsin is one of how many community property states in the U.S.?",
+      "correct_answer": "9 states",
+      "distractors": ["3 states", "15 states", "25 states"],
+      "explanation": "Wisconsin adopted the Uniform Marital Property Act in 1986, making it one of only 9 community property states. Property acquired during marriage is presumed to be marital (community) property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["community property", "marital property", "9 states"]
+    },
+    {
+      "key_topic_ref": "WI-13.2",
+      "question_text": "Under Chapter 766, a couple buys a house during their marriage using earnings from one spouse's job. This property is classified as:",
+      "correct_answer": "Marital property",
+      "distractors": ["Individual property of the earning spouse", "Tenancy in common property", "Personal property of both spouses"],
+      "explanation": "Under the Marital Property Act, all property acquired during marriage by either spouse is presumed to be marital property. Earnings during marriage are marital property, so property purchased with those earnings is also marital.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["marital property", "Chapter 766", "classification"]
+    },
+    {
+      "key_topic_ref": "WI-13.2",
+      "question_text": "Which property is classified as individual rather than marital property in Wisconsin?",
+      "correct_answer": "Property owned by a spouse before marriage",
+      "distractors": ["Property purchased during marriage with savings", "Property acquired with a mortgage during marriage", "A home bought as the marital residence"],
+      "explanation": "Under Chapter 766, individual property includes property owned before marriage, gifts received by one spouse, and inheritances. These remain individual property unless commingled with marital property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["individual property", "marital property", "exceptions"]
+    },
+    {
+      "key_topic_ref": "WI-13.2",
+      "question_text": "One spouse inherits a cabin from a parent during the marriage. Under the Marital Property Act, this is:",
+      "correct_answer": "Individual property of the inheriting spouse",
+      "distractors": ["Marital property of both spouses", "Community property requiring both names on title", "Joint tenancy property automatically"],
+      "explanation": "Inheritances are classified as individual property under the Marital Property Act, even if received during marriage. The inheriting spouse retains sole ownership unless they commingle it with marital property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["individual property", "inheritance", "exception"]
+    },
+    {
+      "key_topic_ref": "WI-13.2",
+      "question_text": "All property of married spouses in Wisconsin is presumed to be which type?",
+      "correct_answer": "Marital property",
+      "distractors": ["Individual property", "Joint tenancy property", "Tenancy in common property"],
+      "explanation": "Under the Marital Property Act (Chapter 766), all property of spouses is presumed to be marital property unless classified otherwise. This presumption can be overcome for property owned before marriage, gifts, and inheritances.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["marital property", "presumption", "Chapter 766"]
+    },
+    {
+      "key_topic_ref": "WI-13.3",
+      "question_text": "A married person wants to sell their marital home in Wisconsin. What must occur?",
+      "correct_answer": "Both spouses must generally consent to the sale",
+      "distractors": ["Only the spouse whose name is on the title", "Only the spouse who earned the down payment", "Either spouse can sell without the other's consent"],
+      "explanation": "Under the Marital Property Act, both spouses must generally consent to sell or encumber marital real property. This protects both spouses' interests in community property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["spousal consent", "marital property", "sale"]
+    },
+    {
+      "key_topic_ref": "WI-13.3",
+      "question_text": "Can spouses in Wisconsin change the default community property classification?",
+      "correct_answer": "Yes, through a marital property agreement under §766.58",
+      "distractors": ["No, the classification cannot be changed", "Only by court order during divorce", "Only by filing with the Register of Deeds"],
+      "explanation": "Spouses may execute a marital property agreement under §766.58 to alter the default community property classification. However, additional legal formalities may apply when real property is involved.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["marital property agreement", "§766.58", "opt out"]
+    },
+    {
+      "key_topic_ref": "WI-13.3",
+      "question_text": "A husband signs a listing contract but his wife refuses. Can the property be sold?",
+      "correct_answer": "Generally no, both spouses must consent for marital real property",
+      "distractors": ["Yes, one spouse's signature is sufficient", "Yes, the listing agent can proceed with one signature", "Only if the property is titled in the husband's name alone"],
+      "explanation": "Even if title is in one spouse's name, if it is marital property, both spouses must generally consent to the sale. The listing agent should not proceed without both signatures.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["spousal consent", "listing", "both spouses"]
+    },
+    {
+      "key_topic_ref": "WI-13.3",
+      "question_text": "What happens to marital property when one spouse dies in Wisconsin?",
+      "correct_answer": "The surviving spouse has rights to the marital property",
+      "distractors": ["All marital property goes to probate court", "The deceased spouse's half goes to the state", "Marital property is divided among all heirs equally"],
+      "explanation": "The surviving spouse has rights to marital property upon the death of the other spouse under the Marital Property Act. The exact distribution depends on the estate plan and whether survivorship rights were established.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["marital property", "death", "surviving spouse"]
+    },
+    {
+      "key_topic_ref": "WI-13.3",
+      "question_text": "A licensee is preparing a listing for marital property. What should they verify?",
+      "correct_answer": "That both spouses will sign the listing contract",
+      "distractors": ["That the property is in both names on the deed", "That neither spouse has filed for divorce", "That the mortgage is current"],
+      "explanation": "Since both spouses generally must consent to sell marital real property, the licensee should verify that both will sign the listing contract. This is true even if only one spouse's name is on the deed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["spousal consent", "listing", "verification"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NV-01",
+  "scope": "state",
+  "state": "NV",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "NV-01.1",
+      "question_text": "How many members serve on the Nevada Real Estate Commission?",
+      "correct_answer": "Five members total",
+      "distractors": ["Seven members total", "Three members total", "Nine members total"],
+      "explanation": "The Nevada Real Estate Commission consists of five members appointed by the Governor. Three must be real estate licensees and two must be public members, ensuring both industry expertise and consumer representation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Commission", "membership", "structure"]
+    },
+    {
+      "key_topic_ref": "NV-01.1",
+      "question_text": "A newly appointed Commissioner asks how many licensees sit on the Commission. What is the correct composition?",
+      "correct_answer": "Three licensees and two public members",
+      "distractors": ["Four licensees and one public member", "Two licensees and three public members", "All five must be licensees"],
+      "explanation": "Nevada law requires three of the five Commission members to hold real estate licenses, while two must be members of the public. This balance provides industry knowledge alongside consumer protection perspectives.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Commission", "composition", "licensees", "public members"]
+    },
+    {
+      "key_topic_ref": "NV-01.1",
+      "question_text": "A Commissioner's term is about to expire. What is the length of each term on the Nevada Real Estate Commission?",
+      "correct_answer": "Three years with staggered terms",
+      "distractors": ["Four years with staggered terms", "Two years with simultaneous terms", "Five years with staggered terms"],
+      "explanation": "Commission members serve three-year staggered terms, meaning not all terms expire at the same time. This staggering ensures continuity and prevents a complete turnover of the Commission at any one time.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Commission", "terms", "staggered"]
+    },
+    {
+      "key_topic_ref": "NV-01.1",
+      "question_text": "Who manages the daily operations of the Nevada Real Estate Division?",
+      "correct_answer": "The Administrator of the Division",
+      "distractors": ["The Commission chairperson", "The Governor's housing liaison", "The state Attorney General"],
+      "explanation": "The Administrator runs the day-to-day operations of the Real Estate Division. While the Commission sets policy and conducts hearings, the Administrator handles administrative functions, staffing, and Division management.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Administrator", "Division", "operations"]
+    },
+    {
+      "key_topic_ref": "NV-01.1",
+      "question_text": "A licensee questions who appoints the Real Estate Commission members. Which official makes these appointments?",
+      "correct_answer": "The Governor appoints all members",
+      "distractors": ["The state legislature confirms nominees", "The Administrator selects members", "Licensed brokers elect members"],
+      "explanation": "All five Commission members are appointed by the Governor. This gubernatorial appointment authority gives the executive branch oversight of real estate regulation while the staggered terms provide stability across administrations.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Commission", "Governor", "appointment"]
+    },
+    {
+      "key_topic_ref": "NV-01.2",
+      "question_text": "Under which procedural framework does the Commission conduct disciplinary hearings?",
+      "correct_answer": "The Administrative Procedure Act",
+      "distractors": ["The Nevada Rules of Civil Procedure", "The Real Estate Settlement Act", "The Commission's internal bylaws"],
+      "explanation": "Nevada Real Estate Commission hearings follow the Administrative Procedure Act, which governs all state agency proceedings. This ensures due process protections including notice, the right to be heard, and the right to present evidence.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["hearings", "Administrative Procedure Act", "disciplinary"]
+    },
+    {
+      "key_topic_ref": "NV-01.2",
+      "question_text": "A licensee is found guilty of commingling funds. What is the maximum fine the Commission can impose per violation?",
+      "correct_answer": "$10,000 per violation",
+      "distractors": ["$5,000 per violation", "$25,000 per violation", "$15,000 per violation"],
+      "explanation": "The Commission can impose fines up to $10,000 per violation. In addition to fines, the Commission may require additional education, suspend or revoke licenses, and impose other sanctions as appropriate to the severity of the offense.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fines", "sanctions", "disciplinary"]
+    },
+    {
+      "key_topic_ref": "NV-01.2",
+      "question_text": "A broker receives multiple complaints about a salesperson's deceptive practices. What sanctions can the Commission impose after a hearing?",
+      "correct_answer": "Fines, added education, or revocation",
+      "distractors": ["Only fines up to $1,000", "Only license suspension for 30 days", "Only a written warning letter"],
+      "explanation": "The Commission has broad sanctioning authority including fines up to $10,000 per violation, mandatory additional education, license suspension, and license revocation. The Commission tailors sanctions to the severity and nature of the violation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["sanctions", "disciplinary", "revocation", "education"]
+    },
+    {
+      "key_topic_ref": "NV-01.2",
+      "question_text": "The Division discovers an unlicensed person conducting real estate transactions. What enforcement action is available?",
+      "correct_answer": "Issue a cease-and-desist order",
+      "distractors": ["Impose a fine after a hearing", "Suspend a nonexistent license", "Refer only to local police"],
+      "explanation": "The Division can issue cease-and-desist orders against unlicensed individuals engaged in real estate activity. Since these individuals hold no license, traditional sanctions like suspension or revocation do not apply. Criminal prosecution may also be pursued.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed activity", "cease-and-desist", "enforcement"]
+    },
+    {
+      "key_topic_ref": "NV-01.2",
+      "question_text": "A consumer files a formal complaint against a licensee. What is the first step in the Division's process?",
+      "correct_answer": "Conduct an investigation of the complaint",
+      "distractors": ["Schedule an immediate public hearing", "Suspend the license pending review", "Refer the matter to civil court"],
+      "explanation": "When a complaint is filed, the Division first investigates the allegations to determine if there is sufficient evidence of a violation. Only after investigation and a finding of probable cause will a formal hearing be scheduled under the Administrative Procedure Act.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["complaints", "investigation", "process"]
+    },
+    {
+      "key_topic_ref": "NV-01.3",
+      "question_text": "What is the maximum amount a single claimant can recover from the Nevada Recovery Fund per judgment?",
+      "correct_answer": "$25,000 per judgment",
+      "distractors": ["$50,000 per judgment", "$10,000 per judgment", "$100,000 per judgment"],
+      "explanation": "The Real Estate Education, Research, and Recovery Fund caps recovery at $25,000 per judgment against a licensee. This limit helps preserve the fund for multiple claimants while still providing meaningful compensation for victims of licensee misconduct.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery Fund", "maximum", "judgment"]
+    },
+    {
+      "key_topic_ref": "NV-01.3",
+      "question_text": "A licensee defrauds three different clients. What is the maximum aggregate the Recovery Fund will pay for all claims against that licensee?",
+      "correct_answer": "$100,000 total per licensee",
+      "distractors": ["$75,000 total per licensee", "$25,000 total per licensee", "$250,000 total per licensee"],
+      "explanation": "The Recovery Fund limits aggregate payouts to $100,000 per licensee, regardless of how many claims are filed. Each individual claim is capped at $25,000, so up to four full claims could be paid before the aggregate limit is reached.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Recovery Fund", "aggregate", "licensee cap"]
+    },
+    {
+      "key_topic_ref": "NV-01.3",
+      "question_text": "A buyer obtains a Recovery Fund payout after a licensee's fraud. What happens to that licensee's license?",
+      "correct_answer": "It is automatically suspended",
+      "distractors": ["It remains active with restrictions", "It converts to inactive status", "Nothing until a hearing is held"],
+      "explanation": "When the Recovery Fund pays a claim, the responsible licensee's license is automatically suspended. The licensee must repay the fund in full plus interest before the license can be reinstated. This protects consumers from further harm by the same licensee.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Recovery Fund", "suspension", "automatic"]
+    },
+    {
+      "key_topic_ref": "NV-01.3",
+      "question_text": "Which types of licensee misconduct qualify for Recovery Fund claims?",
+      "correct_answer": "Fraud, misrepresentation, or deceit",
+      "distractors": ["Any breach of contract", "Negligent property inspections", "Failure to return phone calls"],
+      "explanation": "The Recovery Fund covers losses resulting from fraud, misrepresentation, or deceit by a licensee. General breach of contract or negligence claims are not eligible. Claimants must first obtain a court judgment and exhaust other remedies before accessing the fund.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery Fund", "fraud", "misrepresentation", "eligibility"]
+    },
+    {
+      "key_topic_ref": "NV-01.3",
+      "question_text": "The Recovery Fund balance drops after several payouts. At what minimum balance must the fund be maintained?",
+      "correct_answer": "$300,000 minimum balance",
+      "distractors": ["$500,000 minimum balance", "$100,000 minimum balance", "$200,000 minimum balance"],
+      "explanation": "Nevada law requires the Recovery Fund to maintain a minimum balance of $300,000. When the balance falls below this threshold, the Division may assess additional fees from licensees to replenish the fund and ensure continued consumer protection.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery Fund", "minimum balance", "maintenance"]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "standard_ref": "WY-04",
+  "scope": "state",
+  "state": "WY",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "WY-04.1",
+      "question_text": "Which practice is explicitly prohibited in Wyoming real estate transactions?",
+      "correct_answer": "Dual agency representation",
+      "distractors": [
+        "Exclusive buyer agency",
+        "Seller-only representation",
+        "Transaction brokerage"
+      ],
+      "explanation": "Wyoming is one of the few states that prohibits dual agency entirely. A licensee cannot represent both the buyer and the seller in the same transaction. This prohibition exists to prevent the inherent conflict of interest that arises when one agent attempts to serve two parties with opposing interests.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["dual_agency", "prohibited", "agency", "violation"]
+    },
+    {
+      "key_topic_ref": "WY-04.1",
+      "question_text": "A broker deposits a client's earnest money into the broker's personal checking account. What violation has occurred?",
+      "correct_answer": "Commingling of trust funds",
+      "distractors": [
+        "Failure to maintain E&O insurance",
+        "Practicing without a license",
+        "Unauthorized dual agency"
+      ],
+      "explanation": "Depositing client funds into a personal account constitutes commingling, which is a serious violation of Wyoming real estate law. Client funds must be deposited into a properly maintained trust or escrow account, kept separate from the broker's personal or business operating funds.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "trust_funds", "violation", "earnest_money"]
+    },
+    {
+      "key_topic_ref": "WY-04.1",
+      "question_text": "A licensee tells a buyer that a property has no foundation issues, knowing the seller disclosed cracks. What violation is this?",
+      "correct_answer": "Fraud and misrepresentation",
+      "distractors": [
+        "Failure to maintain E&O insurance",
+        "Unlicensed practice of engineering",
+        "Improper advertising"
+      ],
+      "explanation": "Knowingly making false statements about a material property condition constitutes fraud and misrepresentation, a ground for discipline under Wyoming law. The licensee had actual knowledge of the foundation issues from the seller's disclosure and deliberately concealed this information from the buyer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fraud", "misrepresentation", "disclosure", "material_facts"]
+    },
+    {
+      "key_topic_ref": "WY-04.1",
+      "question_text": "A licensee is convicted of felony embezzlement. How does this affect their Wyoming real estate license?",
+      "correct_answer": "It is grounds for WREC discipline",
+      "distractors": [
+        "No effect unless real estate related",
+        "The license is unaffected until sentencing",
+        "Only misdemeanors trigger discipline"
+      ],
+      "explanation": "A felony conviction is an explicit ground for disciplinary action under Wyoming law, regardless of whether the crime was directly related to real estate practice. Embezzlement is particularly relevant as it involves dishonesty and financial misconduct.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["felony", "conviction", "discipline", "grounds"]
+    },
+    {
+      "key_topic_ref": "WY-04.1",
+      "question_text": "A newly licensed salesperson handles three transactions with significant errors due to lack of basic knowledge. What ground for discipline applies?",
+      "correct_answer": "Incompetence or negligence",
+      "distractors": [
+        "Fraud and misrepresentation",
+        "Commingling of funds",
+        "Unlicensed practice of real estate"
+      ],
+      "explanation": "Repeated significant errors stemming from a lack of basic professional knowledge constitute incompetence or negligence, which is a ground for discipline under Wyoming law. Even without fraudulent intent, a pattern of errors that harms clients can result in disciplinary action by WREC.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["incompetence", "negligence", "discipline", "violations"]
+    },
+    {
+      "key_topic_ref": "WY-04.2",
+      "question_text": "Who may file a complaint against a Wyoming real estate licensee with WREC?",
+      "correct_answer": "Any person may file a complaint",
+      "distractors": [
+        "Only consumers involved in a transaction",
+        "Only other licensed real estate agents",
+        "Only the responsible broker"
+      ],
+      "explanation": "Wyoming law allows any person to file a complaint with WREC against a licensee. There is no requirement that the complainant be a party to a transaction or hold a real estate license. Additionally, WREC has the power to self-initiate investigations even without a formal complaint.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["complaint", "filing", "WREC", "discipline"]
+    },
+    {
+      "key_topic_ref": "WY-04.2",
+      "question_text": "During a disciplinary proceeding, where are formal hearings held?",
+      "correct_answer": "Before the commission",
+      "distractors": [
+        "In district court",
+        "Before a jury of licensees",
+        "At the Attorney General's office"
+      ],
+      "explanation": "Formal disciplinary hearings in Wyoming are conducted before the commission itself. WREC acts as the adjudicatory body, hearing evidence and determining appropriate sanctions. Licensees who disagree with the commission's decision may seek judicial review through the courts.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["hearings", "disciplinary_procedures", "WREC", "commission"]
+    },
+    {
+      "key_topic_ref": "WY-04.2",
+      "question_text": "WREC receives a complaint and begins an investigation. During the process, can WREC examine the broker's records?",
+      "correct_answer": "Yes, WREC can examine records at any time",
+      "distractors": [
+        "Only with the broker's written permission",
+        "Only after obtaining a court subpoena",
+        "Only if the complaint involves trust funds"
+      ],
+      "explanation": "WREC has broad authority to examine broker records at any time during an investigation. This power is not limited to trust fund complaints and does not require broker permission or a court order. The ability to review records is essential to conducting thorough investigations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["investigation", "records", "WREC_authority", "examination"]
+    },
+    {
+      "key_topic_ref": "WY-04.2",
+      "question_text": "After a hearing, WREC finds a licensee guilty of commingling. Which combination of sanctions can WREC impose?",
+      "correct_answer": "Suspension plus civil penalties",
+      "distractors": [
+        "Only one sanction may be imposed per case",
+        "Criminal imprisonment and fines",
+        "License transfer to another state"
+      ],
+      "explanation": "WREC may impose multiple sanctions in a single disciplinary case, including suspension, revocation, civil penalties, probation, required education, and censure. For commingling, a combination such as suspension plus civil penalties is common. WREC cannot impose criminal sanctions, as those require court proceedings.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["sanctions", "multiple_penalties", "commingling", "WREC"]
+    },
+    {
+      "key_topic_ref": "WY-04.2",
+      "question_text": "WREC identifies a pattern of consumer complaints about a brokerage but no individual has filed a formal complaint. Can WREC act?",
+      "correct_answer": "Yes, WREC can self-initiate an investigation",
+      "distractors": [
+        "No, a formal complaint is always required",
+        "No, WREC must wait for the Attorney General",
+        "Yes, but only if 10 or more complaints exist"
+      ],
+      "explanation": "WREC has the authority to self-initiate investigations without a formal complaint from any individual. When the commission identifies patterns of potential violations through its own monitoring or informal reports, it may open an investigation to protect the public interest.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["self-initiated", "investigation", "WREC", "consumer_protection"]
+    }
+  ]
+}

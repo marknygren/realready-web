@@ -1,0 +1,228 @@
+{
+  "standard_ref": "TN-15",
+  "scope": "state",
+  "state": "TN",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "TN-15.1",
+      "question_text": "What is the property tax assessment ratio for residential property in Tennessee?",
+      "correct_answer": "25% of appraised value",
+      "distractors": ["40% of appraised value", "55% of appraised value", "100% of appraised value"],
+      "explanation": "Tennessee assesses residential and farm property at 25% of appraised value. Commercial/industrial is 40%, and public utility is 55%. The tax rate is then applied to this assessed value.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "assessment ratio", "residential"]
+    },
+    {
+      "key_topic_ref": "TN-15.1",
+      "question_text": "A commercial property in Tennessee is appraised at $500,000. What is its assessed value for tax purposes?",
+      "correct_answer": "$200,000",
+      "distractors": ["$125,000", "$275,000", "$500,000"],
+      "explanation": "Commercial/industrial property is assessed at 40% of appraised value. $500,000 × 0.40 = $200,000. Residential would be 25% ($125,000), and public utility would be 55% ($275,000).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property tax", "commercial", "assessment calculation"]
+    },
+    {
+      "key_topic_ref": "TN-15.1",
+      "question_text": "What is Tennessee's transfer tax (recordation tax) rate on real property sales?",
+      "correct_answer": "$0.37 per $100 of consideration",
+      "distractors": ["$0.50 per $100 of consideration", "$1.00 per $1,000 of consideration", "$0.25 per $100 of consideration"],
+      "explanation": "Tennessee imposes a transfer tax (recordation tax) of $0.37 per $100 of the consideration (purchase price) on transfers of real property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "recordation tax", "rate"]
+    },
+    {
+      "key_topic_ref": "TN-15.1",
+      "question_text": "Which type of property transfer is exempt from Tennessee's recordation tax?",
+      "correct_answer": "Transfers between spouses",
+      "distractors": ["All cash sales without a mortgage", "Transfers involving commercial property", "Sales where the buyer pays closing costs"],
+      "explanation": "Tennessee exempts certain transfers from the recordation tax, including transfers between spouses, certain family transfers, and transfers to government entities.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "exemptions", "recordation"]
+    },
+    {
+      "key_topic_ref": "TN-15.1",
+      "question_text": "Tennessee has no state income tax on earned income. Why is this relevant to real estate?",
+      "correct_answer": "Property tax is the primary local revenue source",
+      "distractors": ["Real estate agents pay no state income tax", "Commission income from sales is tax-exempt", "Property values in Tennessee are always higher"],
+      "explanation": "Without a state income tax on earned income, property tax becomes the primary source of local government revenue in Tennessee, making property tax discussions especially important in real estate.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["no income tax", "property tax", "revenue"]
+    },
+    {
+      "key_topic_ref": "TN-15.2",
+      "question_text": "What is the Tennessee homestead exemption amount for an individual?",
+      "correct_answer": "$35,000",
+      "distractors": ["$5,000", "$25,000", "$50,000"],
+      "explanation": "Tennessee's homestead exemption protects $35,000 of equity per individual from creditors. This was increased from $5,000 by SB 566, effective January 1, 2022.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead exemption", "$35,000", "individual"]
+    },
+    {
+      "key_topic_ref": "TN-15.2",
+      "question_text": "A married couple jointly owns their Tennessee home. What is their combined homestead exemption?",
+      "correct_answer": "$52,500",
+      "distractors": ["$35,000", "$70,000", "$7,500"],
+      "explanation": "Joint owners receive a $52,500 homestead exemption. This protects that amount of equity from creditors in the primary residence.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homestead exemption", "joint owners", "$52,500"]
+    },
+    {
+      "key_topic_ref": "TN-15.2",
+      "question_text": "A Tennessee homeowner has $100,000 in equity and a judgment creditor seeks to force a sale. How much equity is protected?",
+      "correct_answer": "$35,000 is exempt from the creditor's claim",
+      "distractors": ["The entire $100,000 is protected", "No equity is protected from judgment", "$5,000 is exempt from the claim"],
+      "explanation": "The homestead exemption protects $35,000 of equity for an individual. The remaining $65,000 in equity would be vulnerable to the creditor's judgment.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homestead exemption", "creditor protection", "equity"]
+    },
+    {
+      "key_topic_ref": "TN-15.2",
+      "question_text": "Must a Tennessee homeowner file a declaration to claim the homestead exemption?",
+      "correct_answer": "No, the exemption is automatic",
+      "distractors": ["Yes, they must file with the county clerk", "Yes, they must register with TREC", "Only if the home exceeds $200,000 in value"],
+      "explanation": "Tennessee's homestead exemption is automatic — there is no need to file a declaration or register the claim. It applies by operation of law to the primary residence.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead exemption", "automatic", "no filing"]
+    },
+    {
+      "key_topic_ref": "TN-15.2",
+      "question_text": "Which type of lien is NOT subject to the Tennessee homestead exemption?",
+      "correct_answer": "A mortgage lien on the homestead",
+      "distractors": ["An unsecured credit card judgment", "A personal loan judgment", "A medical debt judgment"],
+      "explanation": "The homestead exemption protects against general creditor claims but does not protect against mortgage liens or property tax liens. These secured liens take priority over the exemption.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["homestead exemption", "mortgage lien", "exception"]
+    },
+    {
+      "key_topic_ref": "TN-15.3",
+      "question_text": "The Tennessee URLTA applies to counties with a population of at least:",
+      "correct_answer": "75,000",
+      "distractors": ["50,000", "100,000", "25,000"],
+      "explanation": "The Uniform Residential Landlord and Tenant Act applies to Tennessee counties with populations of 75,000 or more. Smaller counties may opt in but are not automatically covered.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["URLTA", "population threshold", "75,000"]
+    },
+    {
+      "key_topic_ref": "TN-15.3",
+      "question_text": "Does Tennessee law cap the amount a landlord can charge for a security deposit?",
+      "correct_answer": "No, there is no statutory maximum",
+      "distractors": ["Yes, one month's rent maximum", "Yes, two months' rent maximum", "Yes, $2,000 maximum"],
+      "explanation": "Tennessee does not cap security deposit amounts. Landlords may charge whatever the market will bear, though excessive deposits may discourage tenants.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "no cap", "landlord-tenant"]
+    },
+    {
+      "key_topic_ref": "TN-15.3",
+      "question_text": "A tenant vacates a rental property. By when must the landlord return the security deposit?",
+      "correct_answer": "Within 30 days",
+      "distractors": ["Within 14 days", "Within 60 days", "Within 45 days"],
+      "explanation": "The landlord must return the security deposit (minus lawful deductions) within 30 days of the tenant vacating. An itemized list of deductions must be provided.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "30 days", "return"]
+    },
+    {
+      "key_topic_ref": "TN-15.3",
+      "question_text": "A landlord fails to return a security deposit or provide a deduction list within the required timeframe. What is the consequence?",
+      "correct_answer": "Landlord forfeits the right to withhold any portion",
+      "distractors": ["The tenant may withhold the next month's rent", "TREC suspends the landlord's real estate license", "The tenant may file a claim for double damages"],
+      "explanation": "If the landlord fails to return the deposit or provide an itemized list within 30 days, the landlord forfeits the right to withhold any portion of the deposit.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "forfeiture", "landlord penalty"]
+    },
+    {
+      "key_topic_ref": "TN-15.3",
+      "question_text": "A tenant notifies the landlord in writing of a needed repair. How long does the landlord generally have to make the repair?",
+      "correct_answer": "14 days",
+      "distractors": ["7 days", "30 days", "48 hours"],
+      "explanation": "Under URLTA, the landlord must make repairs within 14 days of written notice from the tenant, or as soon as practicable for emergencies.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["repairs", "14 days", "landlord obligation"]
+    },
+    {
+      "key_topic_ref": "TN-15.4",
+      "question_text": "Under the Tennessee Timeshare Act, what must be provided to prospective purchasers?",
+      "correct_answer": "A public offering statement",
+      "distractors": ["A TREC approval certificate", "A title insurance policy", "A property condition disclosure"],
+      "explanation": "The Timeshare Act requires a public offering statement be provided to prospective purchasers, giving them information about the timeshare interest before they commit to a purchase.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["timeshare", "public offering statement", "disclosure"]
+    },
+    {
+      "key_topic_ref": "TN-15.4",
+      "question_text": "A timeshare buyer in Tennessee signs a purchase agreement. What cancellation right do they have?",
+      "correct_answer": "A cooling-off period to rescind the purchase",
+      "distractors": ["No cancellation right exists after signing", "Cancellation only with the seller's written consent", "A 24-hour window to cancel the contract only"],
+      "explanation": "Tennessee timeshare purchasers have a right of cancellation (cooling-off period) to rescind the purchase. Deposits must be escrowed during this period.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["timeshare", "cancellation right", "cooling-off"]
+    },
+    {
+      "key_topic_ref": "TN-15.4",
+      "question_text": "Is a real estate license required to manage rental property for others in Tennessee?",
+      "correct_answer": "Yes, property management requires a license",
+      "distractors": ["No, property management is exempt", "Only for portfolios of 10+ units", "Only for commercial properties"],
+      "explanation": "A real estate license is required to manage property for others for compensation in Tennessee. The principal broker oversees property management activities.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "license required", "rental"]
+    },
+    {
+      "key_topic_ref": "TN-15.4",
+      "question_text": "A property manager collects rent and security deposits for several landlords. Where must these funds be kept?",
+      "correct_answer": "In the principal broker's trust account",
+      "distractors": ["In the property manager's personal account", "In a separate account for each landlord", "In the manager's business operating account"],
+      "explanation": "Property managers must comply with trust account rules. Tenant deposits and rent collected must be held in the principal broker's trust/escrow account, not personal or business accounts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "trust account", "rent"]
+    },
+    {
+      "key_topic_ref": "TN-15.4",
+      "question_text": "Commercial leases in Tennessee are subject to which of the following?",
+      "correct_answer": "Standard licensing requirements but not URLTA",
+      "distractors": ["Both URLTA and commercial lease statutes", "No licensing requirements at all", "Special TREC commercial license rules"],
+      "explanation": "Commercial transactions follow the same licensing requirements as residential. However, commercial leases are not subject to URLTA protections, which apply only to residential tenancies.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commercial", "URLTA", "licensing"]
+    }
+  ]
+}

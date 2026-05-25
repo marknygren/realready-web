@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MT-12",
+  "scope": "state",
+  "state": "MT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MT-12.1",
+      "question_text": "What is the primary system for legal descriptions of land in Montana?",
+      "correct_answer": "Rectangular survey system",
+      "distractors": ["Metes and bounds system", "Lot and block system", "Geodetic survey system"],
+      "explanation": "Montana primarily uses the rectangular (government) survey system for legal descriptions. This system divides land into townships, ranges, sections, and fractional parts using the Montana Principal Meridian as the reference point.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["legal descriptions", "rectangular survey", "government survey"]
+    },
+    {
+      "key_topic_ref": "MT-12.1",
+      "question_text": "A surveyor describes land as 'T3N, R5E, Section 14.' What is the reference meridian?",
+      "correct_answer": "Montana Principal Meridian",
+      "distractors": ["Boise Principal Meridian", "Willamette Principal Meridian", "Black Hills Principal Meridian"],
+      "explanation": "The Montana Principal Meridian is the reference meridian for the rectangular survey system in Montana. Township and range measurements are taken from this meridian and its associated baseline.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["legal descriptions", "principal meridian", "survey reference"]
+    },
+    {
+      "key_topic_ref": "MT-12.1",
+      "question_text": "A Montana agent lists a downtown Billings property. Which legal description method is most likely used?",
+      "correct_answer": "Lot and block",
+      "distractors": ["Metes and bounds", "Rectangular survey only", "Informal reference"],
+      "explanation": "Urban and subdivision properties typically use the lot and block (recorded plat) system. Downtown Billings properties would reference a recorded subdivision plat with specific lot and block numbers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["legal descriptions", "lot and block", "urban property"]
+    },
+    {
+      "key_topic_ref": "MT-12.1",
+      "question_text": "A ranch with irregular boundaries along a river needs a legal description. Which method supplements the rectangular survey?",
+      "correct_answer": "Metes and bounds",
+      "distractors": ["Lot and block only", "Street address reference", "Tax parcel number"],
+      "explanation": "Metes and bounds descriptions use compass directions, distances, and landmarks to describe irregular boundaries. Montana properties along rivers often need metes and bounds to supplement the rectangular survey.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["legal descriptions", "metes and bounds", "irregular parcels"]
+    },
+    {
+      "key_topic_ref": "MT-12.1",
+      "question_text": "How many acres are in the NW quarter of the SE quarter of a standard section?",
+      "correct_answer": "40 acres",
+      "distractors": ["10 acres", "80 acres", "160 acres"],
+      "explanation": "A standard section contains 640 acres. The SE quarter is 160 acres, and the NW quarter of that quarter is 40 acres (640 / 4 / 4 = 40). This fractional description is commonly used in Montana's rectangular survey system.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["legal descriptions", "section calculations", "acreage"]
+    },
+    {
+      "key_topic_ref": "MT-12.2",
+      "question_text": "Montana follows which doctrine for allocating surface water rights?",
+      "correct_answer": "Prior appropriation",
+      "distractors": ["Riparian rights doctrine", "Reasonable use doctrine", "Correlative rights doctrine"],
+      "explanation": "Montana follows the prior appropriation doctrine: 'first in time, first in right.' Water rights are based on the date of first beneficial use, not land ownership along a waterway. The DNRC administers water right permits.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water rights", "prior appropriation", "first in time"]
+    },
+    {
+      "key_topic_ref": "MT-12.2",
+      "question_text": "A rancher sells her property but wants to keep the irrigation water rights. Can she do this?",
+      "correct_answer": "Yes, water rights are severable",
+      "distractors": ["No, they always transfer with land", "Only with prior court approval", "Only for agricultural water rights"],
+      "explanation": "In Montana, water rights can be severed from the land and transferred or reserved separately. The rancher can specifically reserve water rights in the deed. If not addressed, water rights typically transfer with the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water rights", "severability", "reservation"]
+    },
+    {
+      "key_topic_ref": "MT-12.2",
+      "question_text": "Which Montana agency issues permits for new water appropriations?",
+      "correct_answer": "DNRC",
+      "distractors": ["Dept. of Environmental Quality", "Board of Land Commissioners", "Department of Agriculture"],
+      "explanation": "The Montana Department of Natural Resources and Conservation (DNRC) issues water right permits and administers the water rights system. All new appropriations of water require a DNRC permit.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water rights", "DNRC", "permits"]
+    },
+    {
+      "key_topic_ref": "MT-12.2",
+      "question_text": "A buyer purchases a farm and the deed is silent on water rights. Who holds them?",
+      "correct_answer": "The buyer receives them",
+      "distractors": ["The seller retains them", "The state reclaims them", "They are split equally"],
+      "explanation": "When a deed is silent on water rights, they transfer with the property to the buyer. Water rights must be specifically reserved or excluded in the conveyance documents to prevent transfer. Disclosure of water rights is required in Montana.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["water rights", "transfer", "deed silence"]
+    },
+    {
+      "key_topic_ref": "MT-12.2",
+      "question_text": "Under prior appropriation, what determines priority among competing water users?",
+      "correct_answer": "Date of first beneficial use",
+      "distractors": ["Size of the land parcel owned", "Proximity to the water source", "Type of beneficial use claimed"],
+      "explanation": "Under Montana's prior appropriation doctrine, priority is determined solely by the date of first beneficial use. Earlier users have senior rights over later users regardless of proximity, parcel size, or intended use.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water rights", "priority", "beneficial use"]
+    },
+    {
+      "key_topic_ref": "MT-12.3",
+      "question_text": "A property has mineral rights owned by a different party than the surface owner. This is called a:",
+      "correct_answer": "Split estate",
+      "distractors": ["Life estate", "Fee simple defeasible", "Tenancy in common"],
+      "explanation": "A split estate occurs when mineral rights and surface rights are owned by different parties. This is common in Montana due to the state's significant mineral resources including mining, oil, and gas deposits.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mineral rights", "split estate", "ownership"]
+    },
+    {
+      "key_topic_ref": "MT-12.3",
+      "question_text": "A buyer near Butte discovers the mineral rights were severed decades ago. What should the agent advise?",
+      "correct_answer": "Disclose the split estate fully",
+      "distractors": ["Mineral rights revert after 20 years", "The buyer inherits them at closing", "No action needed for homes"],
+      "explanation": "Disclosure of severed mineral rights is important in Montana transactions. A split estate means the buyer will own only surface rights. The mineral rights owner may have access rights to extract resources, affecting property use.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["mineral rights", "disclosure", "split estate"]
+    },
+    {
+      "key_topic_ref": "MT-12.3",
+      "question_text": "In Montana, mineral rights are considered what type of property interest?",
+      "correct_answer": "Severable real property",
+      "distractors": ["Personal property only", "A non-transferable right", "A government-held interest"],
+      "explanation": "Mineral rights in Montana are real property interests that can be severed from surface rights, bought, sold, leased, and inherited independently. Once severed, they remain separate unless reunited by the same owner.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mineral rights", "real property", "severability"]
+    },
+    {
+      "key_topic_ref": "MT-12.3",
+      "question_text": "A property listing shows 'mineral rights not included.' What does this mean for the buyer?",
+      "correct_answer": "Buyer gets surface rights only",
+      "distractors": ["Buyer can negotiate minerals later", "The listing is invalid", "Buyer gets half the minerals"],
+      "explanation": "When mineral rights are excluded from a sale, the buyer acquires only the surface estate. The mineral rights owner retains the right to extract subsurface resources and may have surface access rights for that purpose.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["mineral rights", "surface rights", "excluded minerals"]
+    },
+    {
+      "key_topic_ref": "MT-12.3",
+      "question_text": "A mineral rights holder wants to access the surface to drill. What right supports this?",
+      "correct_answer": "Implied right of surface access",
+      "distractors": ["No access without surface consent", "State permit is the only option", "Eminent domain by the holder"],
+      "explanation": "In Montana, mineral rights holders generally have an implied right to use a reasonable portion of the surface to access and extract their minerals. This right exists even without explicit surface access language in the mineral deed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["mineral rights", "surface access", "implied rights"]
+    }
+  ]
+}

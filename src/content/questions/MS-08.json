@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MS-08",
+  "scope": "state",
+  "state": "MS",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "MS-08.1",
+      "question_text": "Who is responsible for supervising all salespersons in a Mississippi brokerage?",
+      "correct_answer": "The responsible broker",
+      "distractors": ["The MREC compliance officer", "The office manager on duty", "Each salesperson supervises themselves"],
+      "explanation": "The responsible broker must supervise all salespersons associated with the brokerage. This is a non-delegable duty under Mississippi law, and the broker is accountable for associates' actions within the scope of their work.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["supervision", "responsible-broker", "salespersons"]
+    },
+    {
+      "key_topic_ref": "MS-08.1",
+      "question_text": "A salesperson misrepresents a property's square footage to a buyer. Who may be held responsible under Mississippi law?",
+      "correct_answer": "The salesperson and the broker",
+      "distractors": ["Only the salesperson involved", "Only the buyer's mortgage lender", "Only MREC after investigation"],
+      "explanation": "The responsible broker is liable for the acts of associated salespersons performed within the scope of their work. Both the salesperson who made the misrepresentation and the supervising broker may face disciplinary action.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["supervision", "liability", "misrepresentation"]
+    },
+    {
+      "key_topic_ref": "MS-08.1",
+      "question_text": "A broker discovers an associate is violating fair housing laws during showings. What must the broker do?",
+      "correct_answer": "Stop the conduct and take corrective action",
+      "distractors": ["Wait for a formal client complaint first", "Report to MREC within 30 calendar days", "Delegate the correction to office manager"],
+      "explanation": "The broker must ensure compliance with all laws and MREC rules. Upon discovering a violation, the broker has an immediate duty to stop the unlawful conduct and take corrective action.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["supervision", "compliance", "fair-housing"]
+    },
+    {
+      "key_topic_ref": "MS-08.1",
+      "question_text": "A newly licensed salesperson begins working at a brokerage. The broker's supervisory obligation includes ensuring compliance with:",
+      "correct_answer": "All laws and MREC rules",
+      "distractors": ["Only federal fair housing laws", "Only local zoning ordinances", "Only the brokerage's internal policies"],
+      "explanation": "The responsible broker must ensure that all associated licensees comply with all applicable laws and MREC rules, not just specific categories of regulation. This is a broad supervisory obligation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["supervision", "compliance", "MREC-rules"]
+    },
+    {
+      "key_topic_ref": "MS-08.1",
+      "question_text": "A salesperson acts outside the scope of their authority by signing a contract on behalf of the broker without permission. Who bears responsibility?",
+      "correct_answer": "The salesperson who exceeded authority",
+      "distractors": ["The broker in all circumstances", "MREC as the regulatory body", "The client who accepted the contract"],
+      "explanation": "The broker is responsible for associates' acts within the scope of their work. When a salesperson acts outside the scope of authority, the salesperson bears primary responsibility for exceeding their authorized role.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["supervision", "scope-of-authority", "liability"]
+    },
+    {
+      "key_topic_ref": "MS-08.2",
+      "question_text": "When a salesperson leaves a Mississippi brokerage, who must notify MREC of the status change?",
+      "correct_answer": "The responsible broker",
+      "distractors": ["The departing salesperson only", "The new employing broker only", "MREC monitors changes automatically"],
+      "explanation": "The responsible broker must notify MREC of any associate status changes or terminations. This ensures MREC maintains accurate records of where each licensee is currently practicing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC-notification", "termination", "status-change"]
+    },
+    {
+      "key_topic_ref": "MS-08.2",
+      "question_text": "A Mississippi salesperson closes a transaction. From whom does the salesperson receive their commission?",
+      "correct_answer": "Their responsible broker only",
+      "distractors": ["Directly from the buyer at closing", "From the title company escrow", "From either party to the transaction"],
+      "explanation": "Mississippi salespersons must receive compensation ONLY through their responsible broker. Direct payment from clients, title companies, or other brokers to a salesperson is prohibited.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["compensation", "responsible-broker", "commission"]
+    },
+    {
+      "key_topic_ref": "MS-08.2",
+      "question_text": "A broker prepares a BPO for a bank client. Which element must the BPO include?",
+      "correct_answer": "Purpose, description, and market data",
+      "distractors": ["Only the estimated sale price", "Only comparable sales within one mile", "Only the property's tax assessment value"],
+      "explanation": "Mississippi BPOs must be in writing and include the purpose, property description, market data, and disclosure of any interest. A BPO must be comprehensive, not just a single value estimate.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["BPO", "requirements", "market-data"]
+    },
+    {
+      "key_topic_ref": "MS-08.2",
+      "question_text": "A lender requires an appraisal for a mortgage loan. Can a broker's BPO substitute for the appraisal?",
+      "correct_answer": "No, a BPO cannot substitute for one",
+      "distractors": ["Yes, if the broker is also an appraiser", "Yes, for residential loans under $250,000", "Yes, if both parties consent in writing"],
+      "explanation": "A BPO cannot replace an appraisal when an appraisal is required by law or regulation. Additionally, a BPO that estimates value (rather than a suggested listing or sales price) is itself deemed an appraisal under Mississippi law.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["BPO", "appraisal", "restrictions"]
+    },
+    {
+      "key_topic_ref": "MS-08.2",
+      "question_text": "A broker's BPO estimates the market value of a property rather than a suggested sales price. Under Mississippi law, this BPO is considered:",
+      "correct_answer": "An appraisal",
+      "distractors": ["A standard BPO", "A comparative market analysis", "An informal price opinion"],
+      "explanation": "Under Mississippi law, a BPO that estimates value (as opposed to a suggested listing or sales price) is deemed an appraisal. This distinction is important because appraisals have separate licensing and regulatory requirements.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["BPO", "appraisal", "value-estimate"]
+    },
+    {
+      "key_topic_ref": "MS-08.3",
+      "question_text": "Where must Mississippi real estate licenses be displayed?",
+      "correct_answer": "At the broker's place of business",
+      "distractors": ["On each agent's personal website", "At the local MREC district office", "In the licensee's home office only"],
+      "explanation": "Mississippi law requires licenses to be prominently displayed at the broker's place of business. This allows clients and the public to verify that the individuals they are working with are properly licensed.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["license-display", "place-of-business", "requirements"]
+    },
+    {
+      "key_topic_ref": "MS-08.3",
+      "question_text": "A Mississippi broker operates from a home office with no signage. Does this meet the place-of-business requirement?",
+      "correct_answer": "Only if it meets definite business standards",
+      "distractors": ["Yes, any residential address is acceptable", "No, a commercial lease is always required", "Only with prior MREC written approval"],
+      "explanation": "A broker must maintain a definite place of business. Whether a home office qualifies depends on meeting MREC's requirements for what constitutes a definite place of business, including accessibility and proper license display.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["place-of-business", "home-office", "requirements"]
+    },
+    {
+      "key_topic_ref": "MS-08.3",
+      "question_text": "A broker opens a second branch office. What must be displayed at the new location?",
+      "correct_answer": "Licenses of agents working at that office",
+      "distractors": ["Only the broker's main office license", "Only a copy of the brokerage agreement", "No display is needed for branch offices"],
+      "explanation": "Licenses must be prominently displayed at the broker's place of business, including branch offices. Each location where licensees work should display the licenses of those agents.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["license-display", "branch-office", "compliance"]
+    },
+    {
+      "key_topic_ref": "MS-08.3",
+      "question_text": "What is the primary purpose of requiring brokers to maintain a definite place of business?",
+      "correct_answer": "To ensure public access and regulatory oversight",
+      "distractors": ["To increase commercial lease revenue", "To limit the number of active brokers", "To standardize office furniture requirements"],
+      "explanation": "Requiring a definite place of business ensures the public can access the broker and that MREC can conduct regulatory oversight, including inspections. It also provides a location where licenses are displayed.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["place-of-business", "public-access", "regulatory"]
+    },
+    {
+      "key_topic_ref": "MS-08.3",
+      "question_text": "A salesperson keeps their license certificate in a desk drawer rather than displaying it. This practice is:",
+      "correct_answer": "A violation of display requirements",
+      "distractors": ["Acceptable if available upon request", "Required for security purposes", "Permitted for salespersons but not brokers"],
+      "explanation": "Licenses must be prominently displayed at the broker's place of business. Keeping a license in a drawer does not meet the display requirement, which applies to all licensees working at that location.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["license-display", "violation", "compliance"]
+    }
+  ]
+}

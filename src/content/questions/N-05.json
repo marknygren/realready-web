@@ -1,0 +1,789 @@
+{
+  "standard_ref": "N-05",
+  "scope": "national",
+  "state": null,
+  "category": "ownership_transfer",
+  "questions": [
+    {
+      "key_topic_ref": "N-05.1",
+      "question_text": "The 'bundle of rights' associated with real property ownership includes all of the following EXCEPT:",
+      "correct_answer": "The right to government compensation for value increases",
+      "distractors": [
+        "The right to possess and occupy the property",
+        "The right to exclude others from the property",
+        "The right to dispose of the property by sale or gift"
+      ],
+      "explanation": "The bundle of rights includes the right to possess, use, enjoy, exclude others, and dispose of (transfer) the property. There is no inherent right to government compensation simply because property value increases — that is not part of the bundle. Compensation is only required when the government takes or substantially damages property through eminent domain. A helpful mnemonic is PUED: Possess, Use, Exclude, Dispose.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "bundle_of_rights",
+        "ownership",
+        "property_rights"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.1",
+      "question_text": "A homeowner posts 'No Trespassing' signs and calls the police when a neighbor cuts across the yard. The homeowner is exercising which right from the bundle of rights?",
+      "correct_answer": "The right to exclude others from the property",
+      "distractors": [
+        "The right to dispose of the property",
+        "The right to use the property as they see fit",
+        "The right to possess the property"
+      ],
+      "explanation": "The right to exclude others is one of the most fundamental property rights in the bundle. It means the owner can prevent others — including neighbors, the general public, and even relatives — from entering or using the property without permission. This right is not absolute (government agents with warrants, easement holders, and certain emergency responders may lawfully enter), but it is a core component of real property ownership.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "bundle_of_rights",
+        "right_to_exclude"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.2",
+      "question_text": "Fee simple absolute is BEST described as:",
+      "correct_answer": "The highest form of ownership",
+      "distractors": [
+        "Shared ownership with right of survivorship",
+        "Ownership that reverts if a stated condition is violated",
+        "Ownership lasting only for the owner's lifetime"
+      ],
+      "explanation": "Fee simple absolute is the most complete form of real property ownership. The owner holds all rights in the bundle with no conditions, time limits, or restrictions on how long it may be held. It can be sold, gifted, mortgaged, or devised by will. The other options describe joint tenancy (survivorship), defeasible fee (condition), and life estate (duration limit) respectively.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "fee_simple_absolute",
+        "estates",
+        "freehold"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.3",
+      "question_text": "A deed conveys property to a school district 'so long as the land is used for educational purposes.' If the district uses the land for a parking lot, the property:",
+      "correct_answer": "Automatically reverts to the grantor or their heirs",
+      "distractors": [
+        "Remains the school's property because the deed was validly recorded",
+        "Reverts only if the grantor files a timely court action",
+        "Becomes government property under the police power doctrine"
+      ],
+      "explanation": "The words 'so long as' create a fee simple determinable — a defeasible fee estate that automatically terminates and reverts to the grantor (or heirs) the moment the stated condition is violated. No court action or re-entry is required. Key trigger words include 'so long as,' 'while,' and 'during.' Compare this to a fee simple subject to condition subsequent, which uses words like 'but if' or 'provided that' and requires the grantor to take affirmative action to reclaim the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "defeasible_fee",
+        "fee_simple_determinable",
+        "conditions",
+        "estates"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.3",
+      "question_text": "How does a fee simple subject to condition subsequent differ from a fee simple determinable?",
+      "correct_answer": "Condition subsequent requires re-entry; determinable auto-reverts",
+      "distractors": [
+        "A condition subsequent also automatically reverts upon violation",
+        "A determinable requires the grantor to file suit to reclaim title",
+        "There is no practical legal difference between the two estates"
+      ],
+      "explanation": "The key distinction is automatic vs. elective reversion. Fee simple determinable ('so long as,' 'while'): automatically reverts to grantor upon violation — the grantor retains a 'possibility of reverter.' Fee simple subject to condition subsequent ('but if,' 'provided that'): ownership continues after the violation until the grantor exercises their right of re-entry (also called power of termination). If the grantor fails to act, the current owner may eventually perfect their title through adverse possession.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "defeasible_fee",
+        "condition_subsequent",
+        "right_of_reentry",
+        "estates"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.4",
+      "question_text": "A mother conveys her home 'to my son for life, then to my daughter.' The son is the:",
+      "correct_answer": "Life tenant",
+      "distractors": [
+        "Remainderman",
+        "Grantor",
+        "Trustee"
+      ],
+      "explanation": "In a life estate, the life tenant holds present ownership and all rights of possession for the duration of the measuring life (here, the son's own life). The remainderman (the daughter) holds a future interest called a remainder — she takes full ownership automatically when the measuring life ends. The grantor (the mother) has no retained interest because she gave the remainder to the daughter rather than keeping a reversion.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "life_estate",
+        "life_tenant",
+        "remainderman",
+        "future_interests"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.4",
+      "question_text": "A life tenant wants to demolish an older home on the property and replace it with a modern structure that would significantly increase the property's value. The remainderman objects. Who has the stronger legal position?",
+      "correct_answer": "The remainderman",
+      "distractors": [
+        "The life tenant",
+        "Neither party",
+        "The life tenant"
+      ],
+      "explanation": "A life tenant has broad rights of use and possession but cannot commit 'waste' — acts that permanently damage or alter the property to the detriment of the remainderman's future interest. Voluntary waste includes demolition, removing improvements, or substantially altering the character of the property. Even a 'valuable' improvement can be waste if done without consent. Permissive waste is failing to maintain the property (letting it deteriorate). The life tenant must maintain the property in reasonable condition and cannot take actions that would harm the remainder interest.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "life_estate",
+        "waste",
+        "remainderman",
+        "life_tenant_duties"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.5",
+      "question_text": "A tenant has a written lease for exactly one year. When the year ends, the lease:",
+      "correct_answer": "Terminates automatically on its stated end date without requiring notice",
+      "distractors": [
+        "Automatically converts to a month-to-month tenancy if neither party acts",
+        "Requires 30 days' written notice from either party to properly terminate",
+        "Continues until the landlord provides formal written notice of termination"
+      ],
+      "explanation": "An estate for years (a fixed-term tenancy) has a specific start and end date written into the lease. It terminates automatically on the end date — no notice is required by either party because both parties already know the termination date. This distinguishes it from a periodic tenancy (month-to-month), which continues indefinitely until proper notice is given. If a tenant stays after a fixed-term lease expires without a new agreement, they become a holdover tenant (tenancy at sufferance).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "leasehold_estates",
+        "estate_for_years",
+        "tenancy_types"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.6",
+      "question_text": "Two people own a property as tenants in common. One co-owner dies. What happens to their share?",
+      "correct_answer": "Their share passes to their heirs or beneficiaries",
+      "distractors": [
+        "Their share passes to the surviving co-owner by survivorship",
+        "Their share is extinguished and the survivor becomes sole owner",
+        "The property must be sold and proceeds split between the parties"
+      ],
+      "explanation": "Tenancy in common has NO right of survivorship. Each co-owner holds a distinct, separately transferable share that they can sell, mortgage, or devise by will. At death, the share passes through the deceased owner's estate — not automatically to the surviving co-owner. This is the critical distinction from joint tenancy, which does carry a right of survivorship. Each tenancy in common owner may hold an equal or unequal percentage, and new co-owners can join at any time.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "tenancy_in_common",
+        "concurrent_ownership",
+        "survivorship"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.6",
+      "question_text": "Three friends purchase a vacation home together as joint tenants. One friend later sells their interest to a fourth person without the others' knowledge. After the sale, how is the property held?",
+      "correct_answer": "The buyer and remaining friends hold as tenants in common",
+      "distractors": [
+        "All four hold as joint tenants, preserving the original tenancy",
+        "The sale is void because joint tenancy shares cannot be sold",
+        "The remaining friends hold as joint tenants; buyer gets nothing"
+      ],
+      "explanation": "A joint tenant may unilaterally transfer their interest, but doing so severs the joint tenancy as to that share because the buyer cannot satisfy the four unities (TTIP: Time, Title, Interest, Possession) required for joint tenancy — they received their interest at a different time and by a different title than the original owners. The result is a tenancy in common between the buyer and the remaining joint tenants. The two remaining original friends may still hold as joint tenants between themselves while sharing tenancy-in-common ownership with the new buyer.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "joint_tenancy",
+        "severance",
+        "four_unities",
+        "TTIP",
+        "concurrent_ownership"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.7",
+      "question_text": "Which of the following is a SPECIFIC lien rather than a general lien?",
+      "correct_answer": "A mortgage lien",
+      "distractors": [
+        "A judgment lien",
+        "An income tax lien",
+        "An estate tax lien"
+      ],
+      "explanation": "A specific lien attaches to one identified piece of property (e.g., a mortgage on a specific home, a mechanic's lien on a specific property, or a property tax lien). A general lien attaches to all property the debtor owns in a jurisdiction (e.g., judgment liens, federal and state tax liens). The distinction matters in title searches — a general lien on the seller from a prior judgment could affect any property they own, not just the one being sold.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "liens",
+        "specific_lien",
+        "general_lien",
+        "mortgage"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.8",
+      "question_text": "A landowner sells the surface rights to a buyer but retains the mineral rights. The buyer begins farming the land. Ten years later, an oil company approaches the buyer to lease drilling rights. The buyer:",
+      "correct_answer": "Cannot lease the drilling rights",
+      "distractors": [
+        "Can lease them because surface ownership includes all subsurface rights",
+        "Can lease them because ten years of use converts mineral rights",
+        "Must share royalties equally with the original seller"
+      ],
+      "explanation": "Real property rights can be divided vertically: surface rights, subsurface rights (minerals, oil, gas, water), and air rights can each be owned and transferred separately. When the original seller severed and retained the mineral rights, the deed conveyed only the surface estate. The buyer took title knowing the mineral rights were excluded. Subsurface mineral rights remain with the original seller (or whoever subsequently purchased them). The buyer has no authority to lease drilling rights they do not own.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "mineral_rights",
+        "subsurface_rights",
+        "severance",
+        "bundle_of_rights"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.1",
+      "question_text": "Which of the following is a right included in the bundle of rights?",
+      "correct_answer": "The right of enjoyment",
+      "distractors": [
+        "The right of taxation",
+        "The right of condemnation",
+        "The right of escheat"
+      ],
+      "explanation": "The bundle of rights includes possession, control/use, enjoyment, exclusion, and disposition. The right of enjoyment means the owner can use the property in any way that is lawful. Taxation, condemnation, and escheat are government powers (PETE), not individual ownership rights. A common exam strategy is mixing government powers with bundle-of-rights concepts to test whether students can distinguish them.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "bundle_of_rights",
+        "enjoyment",
+        "ownership"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.1",
+      "question_text": "An HOA restricts homeowners from painting their house bright colors, and the city zoning prohibits commercial use. These limitations demonstrate that the bundle of rights is:",
+      "correct_answer": "Subject to both private restrictions and government regulations",
+      "distractors": [
+        "Unlimited in scope and cannot be restricted by any external party",
+        "Protected from government interference by the First Amendment",
+        "Only subject to government restrictions, not private agreements"
+      ],
+      "explanation": "The bundle of rights is not absolute — it is limited by government powers (zoning, building codes, eminent domain, taxation) and private restrictions (CC&Rs, easements, liens). Property owners enjoy broad rights but must operate within these boundaries. Understanding that ownership rights are extensive but not unlimited is fundamental to real estate law. The more restrictive rule — whether government or private — typically controls.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "bundle_of_rights",
+        "limitations",
+        "government_powers",
+        "private_restrictions"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.2",
+      "question_text": "All of the following are TRUE about fee simple absolute EXCEPT:",
+      "correct_answer": "It terminates automatically if the owner violates a deed condition",
+      "distractors": [
+        "It is the most complete form of property ownership available",
+        "It can be freely sold, mortgaged, gifted, or devised by will",
+        "It has an indefinite duration with no time limit on ownership"
+      ],
+      "explanation": "Fee simple absolute has no conditions that can trigger automatic termination — that describes defeasible fee estates. Fee simple absolute is the highest, most complete form of ownership: indefinite duration, freely transferable, inheritable, and not subject to any conditions. If a deed includes conditions that can terminate ownership, the estate is a defeasible fee (determinable or subject to condition subsequent), not a fee simple absolute.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "fee_simple_absolute",
+        "freehold",
+        "estates",
+        "ownership"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.2",
+      "question_text": "A deed conveys property to the grantee 'and their heirs forever.' This language creates which type of estate?",
+      "correct_answer": "Fee simple absolute",
+      "distractors": [
+        "Fee simple determinable",
+        "Life estate",
+        "Joint tenancy"
+      ],
+      "explanation": "The phrase 'to X and their heirs forever' (or simply 'to X') is the traditional language creating a fee simple absolute — the most complete form of ownership. No conditions, no time limits, no measuring lives. Modern deeds typically use 'to X in fee simple' or even just 'to X,' as most jurisdictions presume fee simple absolute unless the deed specifies otherwise. The word 'heirs' is a word of limitation, not a word of purchase — it does not give rights to the heirs.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "fee_simple_absolute",
+        "deed_language",
+        "granting_clause"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.2",
+      "question_text": "A fee simple absolute owner decides to donate a portion of their property rights by granting an easement across their land. After granting the easement, the owner holds:",
+      "correct_answer": "Fee simple absolute, burdened by the easement",
+      "distractors": [
+        "A life estate, because they gave up some ownership rights",
+        "A defeasible fee, because the easement creates a condition on title",
+        "A leasehold, because the easement holder has partial possession"
+      ],
+      "explanation": "Granting an easement does not change the type of estate held — the owner still holds fee simple absolute. The easement is an encumbrance on the property (a nonpossessory interest in another's land), not a change in the estate itself. The owner retains all rights except those specifically granted in the easement. Encumbrances like easements and liens burden the property but do not alter the fundamental nature of the ownership estate.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "fee_simple_absolute",
+        "easements",
+        "encumbrances",
+        "estates"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.2",
+      "question_text": "Fee simple absolute is also known as:",
+      "correct_answer": "Fee simple or fee estate",
+      "distractors": [
+        "Estate for years",
+        "Life estate pur autre vie",
+        "Fee simple determinable"
+      ],
+      "explanation": "Fee simple absolute is often shortened to 'fee simple' or 'fee' in common usage. It refers to the most complete form of real property ownership. An estate for years is a leasehold with a fixed term. A life estate pur autre vie is measured by someone else's life. A fee simple determinable is a defeasible estate with automatic reversion — a lesser estate than fee simple absolute.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "fee_simple_absolute",
+        "terminology",
+        "definitions"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.3",
+      "question_text": "A deed states property is conveyed 'provided that no alcoholic beverages are sold on the premises.' This language creates a:",
+      "correct_answer": "Fee simple subject to condition subsequent",
+      "distractors": [
+        "Fee simple determinable with automatic reversion",
+        "Fee simple absolute with a restrictive covenant",
+        "Life estate with a special limitation attached"
+      ],
+      "explanation": "The phrase 'provided that' creates a fee simple subject to condition subsequent. If the condition is violated, the grantor has the right to re-enter and reclaim the property — but it does not happen automatically. Compare this to fee simple determinable, which uses 'so long as' or 'while' and reverts automatically. The distinction matters: with condition subsequent, the grantor must take action; with determinable, reversion is automatic.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "defeasible_fee",
+        "condition_subsequent",
+        "deed_language"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.3",
+      "question_text": "The grantor's retained interest in a fee simple determinable is called a:",
+      "correct_answer": "A possibility of reverter",
+      "distractors": [
+        "A right of re-entry",
+        "A remainder interest",
+        "A reversion interest"
+      ],
+      "explanation": "In a fee simple determinable, the grantor retains a 'possibility of reverter' — the property automatically reverts if the condition is violated. In a fee simple subject to condition subsequent, the grantor retains a 'right of re-entry' (power of termination) — they must take action to reclaim. A remainder is a future interest given to a third party. A reversion occurs when a life estate expires and returns to the grantor. These future interest terms are frequently tested.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "defeasible_fee",
+        "possibility_of_reverter",
+        "future_interests"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.3",
+      "question_text": "A church receives property with the deed stating 'while used for religious purposes.' The church later converts the building to a community center. The property:",
+      "correct_answer": "Automatically reverts because the limiting condition was violated",
+      "distractors": [
+        "Remains with the church because a deed transfer is irrevocable",
+        "Reverts only if the grantor obtains a court order first",
+        "Remains with the church under a new conditional limitation"
+      ],
+      "explanation": "The words 'while used for' create a fee simple determinable — the estate automatically terminates and reverts to the grantor (or their heirs) the moment the stated use ends. No court action is needed. The grantor holds a possibility of reverter. If the deed had said 'but if not used for religious purposes' (condition subsequent), the grantor would need to exercise a right of re-entry. The choice of language in the deed determines the type of defeasible estate.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "defeasible_fee",
+        "fee_simple_determinable",
+        "automatic_reversion"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.4",
+      "question_text": "A life estate measured by a person's life other than the life tenant is called:",
+      "correct_answer": "A life estate pur autre vie",
+      "distractors": [
+        "A fee simple determinable",
+        "A remainder interest",
+        "A life estate in reversion"
+      ],
+      "explanation": "Life estate pur autre vie ('for another's life') is a life estate where the measuring life is someone other than the life tenant. For example, 'to Alice for the life of Bob' — Alice has use of the property until Bob dies. This arrangement can occur intentionally (as in the example) or when a life tenant transfers their interest to a third party (the third party receives a life estate measured by the original life tenant's life).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "life_estate",
+        "pur_autre_vie",
+        "measuring_life",
+        "estates"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.4",
+      "question_text": "A life tenant fails to pay property taxes on the property for three years. The remainderman discovers this and is concerned. The life tenant's failure is an example of:",
+      "correct_answer": "Permissive waste",
+      "distractors": [
+        "Voluntary waste",
+        "Ameliorative waste",
+        "Constructive eviction"
+      ],
+      "explanation": "Permissive waste occurs when a life tenant neglects their duties, including failing to pay property taxes, insurance, or mortgage interest, or allowing the property to deteriorate. The life tenant is obligated to maintain the property in reasonable condition to protect the remainderman's future interest. Voluntary waste involves intentional damage. Ameliorative waste involves improvements that change character. Constructive eviction relates to landlord-tenant law, not life estates.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "life_estate",
+        "waste",
+        "permissive_waste",
+        "life_tenant_duties"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.4",
+      "question_text": "When a life tenant dies, the property passes to the remainderman. This transfer occurs:",
+      "correct_answer": "Automatically by operation of law, without probate",
+      "distractors": [
+        "Only after the remainderman files a claim in probate court",
+        "Only if the life tenant's will names the remainderman as heir",
+        "After a 90-day waiting period required by statute"
+      ],
+      "explanation": "When the measuring life ends (the life tenant dies), the remainder interest automatically vests in the remainderman. The property passes by operation of law — it does not go through the life tenant's probate estate because the life tenant did not own the remainder interest. The remainderman's interest was established when the original life estate was created. The remainderman simply needs to record evidence of the life tenant's death to clear title.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "life_estate",
+        "remainderman",
+        "transfer",
+        "operation_of_law"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.5",
+      "question_text": "A tenant continues to pay rent monthly with no written lease. The landlord accepts the rent each month. This arrangement creates a:",
+      "correct_answer": "Periodic tenancy (month-to-month)",
+      "distractors": [
+        "Tenancy at sufferance (holdover)",
+        "Estate for years (fixed-term)",
+        "Tenancy at will (no set term)"
+      ],
+      "explanation": "A periodic tenancy automatically renews at the end of each period (here, monthly) unless either party gives proper notice to terminate. It can be created by express agreement or implied when a landlord accepts rent payments on a regular basis without a fixed-term lease. A tenancy at sufferance occurs when a tenant holds over after a lease expires without consent. An estate for years has a fixed term. A tenancy at will can be terminated by either party at any time without notice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "leasehold_estates",
+        "periodic_tenancy",
+        "month_to_month"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.5",
+      "question_text": "A tenant's lease expires but the tenant refuses to leave and stops paying rent. The landlord has not consented to the continued occupancy. This tenant is classified as a:",
+      "correct_answer": "Tenant at sufferance",
+      "distractors": [
+        "Tenant at will",
+        "Periodic tenant",
+        "Trespasser"
+      ],
+      "explanation": "A tenancy at sufferance occurs when a tenant remains in possession after the lease expires without the landlord's consent. The tenant is not quite a trespasser (they originally had lawful possession) but has no current right to be there. The landlord can either evict the tenant or accept rent and create a new tenancy (typically periodic). If the landlord accepts rent, the sufferance tenancy converts to a periodic tenancy.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "leasehold_estates",
+        "tenancy_at_sufferance",
+        "holdover_tenant"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.5",
+      "question_text": "Which leasehold estate can be terminated by EITHER party at any time without advance notice?",
+      "correct_answer": "A tenancy at will",
+      "distractors": [
+        "An estate for years",
+        "A periodic tenancy",
+        "A tenancy at sufferance"
+      ],
+      "explanation": "A tenancy at will has no fixed duration and can be terminated by either the landlord or tenant at any time, often without advance notice (though some states require minimal notice). An estate for years terminates automatically at its end date. A periodic tenancy requires proper notice (typically one full period). A tenancy at sufferance is not really terminated by the tenant — the landlord must evict or accept the holdover. Tenancy at will is the least secure leasehold estate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "leasehold_estates",
+        "tenancy_at_will",
+        "termination"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.5",
+      "question_text": "A commercial tenant signs a lease beginning January 1, 2026 and ending December 31, 2028. This is classified as:",
+      "correct_answer": "An estate for years",
+      "distractors": [
+        "A periodic tenancy",
+        "A tenancy at will",
+        "A fee simple absolute"
+      ],
+      "explanation": "An estate for years (also called tenancy for years) has a specific, agreed-upon start and end date. Despite its name, it does not have to be measured in years — it could be a six-month lease or a week-long rental. The key feature is the definite termination date, which means no notice is required for termination. It is the most common commercial leasehold estate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "leasehold_estates",
+        "estate_for_years",
+        "commercial_lease"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.6",
+      "question_text": "Joint tenancy requires the four unities of TTIP, which stands for:",
+      "correct_answer": "Time, Title, Interest, and Possession",
+      "distractors": [
+        "Trust, Title, Insurance, and Payment",
+        "Transfer, Tenancy, Interest, and Partition",
+        "Time, Taxation, Inheritance, and Possession"
+      ],
+      "explanation": "The four unities required for joint tenancy are: Time (all owners acquire at the same time), Title (all receive title from the same document), Interest (all hold equal shares), and Possession (all have equal right to possess the entire property). If any unity is broken, the joint tenancy is severed and converts to a tenancy in common. The right of survivorship is the defining feature of joint tenancy — when one owner dies, their share passes to the surviving owners.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "joint_tenancy",
+        "four_unities",
+        "TTIP",
+        "concurrent_ownership"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.6",
+      "question_text": "A married couple owns their home as tenants by the entirety. One spouse receives a court judgment against them personally. The creditor attempts to place a lien on the home. The creditor will MOST likely:",
+      "correct_answer": "Be unable to force a sale due to entirety protections",
+      "distractors": [
+        "Be able to force a sale of the entire property",
+        "Be able to lien one spouse's half, leaving the other protected",
+        "Be required to wait until the debt becomes a joint judgment"
+      ],
+      "explanation": "Tenancy by the entirety (available only to married couples in states that recognize it) provides unique creditor protection. A creditor of one spouse alone generally cannot force a sale or partition of the property because both spouses must act together. The creditor may place a lien, but it only attaches if the debtor spouse becomes sole owner (through divorce or death). This is a significant advantage over joint tenancy, where individual creditors can typically force partition.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "tenancy_by_entirety",
+        "married_couples",
+        "creditor_protection",
+        "concurrent_ownership"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.6",
+      "question_text": "In community property states, property acquired by either spouse during the marriage is generally:",
+      "correct_answer": "Owned equally by both spouses regardless of who earned it",
+      "distractors": [
+        "Owned solely by the spouse whose income purchased it",
+        "Held as joint tenancy with right of survivorship automatically",
+        "Owned by the spouse whose name appears on the title"
+      ],
+      "explanation": "Community property states treat most property acquired during marriage as owned equally by both spouses, regardless of who earned the income or whose name is on the title. Exceptions include property acquired by gift, inheritance, or owned before the marriage (which remains separate property). Community property states include Arizona, California, Idaho, Louisiana, Nevada, New Mexico, Texas, Washington, and Wisconsin.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "community_property",
+        "marital_property",
+        "concurrent_ownership"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.7",
+      "question_text": "A contractor builds a new roof for a homeowner but is never paid. The contractor may file a:",
+      "correct_answer": "Mechanic's lien against the specific property that was improved",
+      "distractors": [
+        "General judgment lien against all of the homeowner's real property",
+        "Voluntary mortgage lien against the specific property that was improved",
+        "Lis pendens notice that prevents any transfer of the property title"
+      ],
+      "explanation": "A mechanic's lien (also called a construction lien) is a specific, involuntary lien filed by contractors, subcontractors, or material suppliers who have not been paid for work performed on a property. It attaches only to the specific property improved. It must be filed within a statutory time period. A judgment lien requires a court proceeding. A mortgage is voluntary. A lis pendens is notice of pending litigation, not a lien itself.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "liens",
+        "mechanics_lien",
+        "involuntary_lien",
+        "construction"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.7",
+      "question_text": "Property tax liens, mechanic's liens, and mortgage liens are all examples of:",
+      "correct_answer": "Specific liens",
+      "distractors": [
+        "General liens",
+        "Voluntary liens",
+        "Equitable liens"
+      ],
+      "explanation": "All three are specific liens because each attaches to one identified property. However, they differ in other ways: a mortgage lien is voluntary (the owner agreed to it) while tax and mechanic's liens are involuntary (imposed without consent). In terms of priority, property tax liens are generally superior to all others, regardless of recording date. Mechanic's liens often relate back to the start of construction. Mortgage liens follow recording order unless given special priority.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "liens",
+        "specific_lien",
+        "classification",
+        "priority"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.7",
+      "question_text": "Among the following liens on the same property, which has the HIGHEST priority?",
+      "correct_answer": "Property tax lien",
+      "distractors": [
+        "First mortgage recorded three years ago",
+        "Mechanic's lien filed last month",
+        "Judgment lien recorded two years ago"
+      ],
+      "explanation": "Property tax liens have super-priority — they take precedence over virtually all other liens regardless of when they were recorded. This is because the government's right to collect property taxes is considered essential to public services. After property tax liens, priority is generally determined by recording date ('first in time, first in right'), with some exceptions for mechanic's liens that may relate back to the start of construction.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "liens",
+        "lien_priority",
+        "property_tax",
+        "recording"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.7",
+      "question_text": "A property has the following liens recorded against it: a first mortgage for $200,000, a second mortgage for $50,000, and a judgment lien for $30,000. The property is sold at foreclosure for $240,000. After paying the first mortgage, how much will the second mortgage holder receive?",
+      "correct_answer": "$40,000",
+      "distractors": [
+        "$50,000",
+        "$80,000",
+        "$0"
+      ],
+      "explanation": "In a foreclosure sale, liens are paid in order of priority. The first mortgage ($200,000) is paid first, leaving $40,000. The second mortgage ($50,000) is next in priority, but only $40,000 remains — so the second mortgage holder receives $40,000 and takes a $10,000 deficiency. The judgment lien holder ($30,000) receives nothing because the proceeds are exhausted. The second mortgage holder may seek a deficiency judgment for the remaining $10,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "liens",
+        "lien_priority",
+        "foreclosure",
+        "deficiency"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.8",
+      "question_text": "In riparian rights states, water rights belong to:",
+      "correct_answer": "Owners of land bordering a natural watercourse",
+      "distractors": [
+        "The first person to divert and use the water source",
+        "The state government, which allocates water through permits",
+        "Whoever has the highest elevation property in the watershed"
+      ],
+      "explanation": "Riparian rights are water rights that belong to owners of land adjacent to (riparian to) a natural body of water such as a river, stream, or lake. Riparian owners have a reasonable right to use the water as long as it does not unreasonably interfere with other riparian owners' use. This contrasts with prior appropriation ('first in time, first in right'), used primarily in western states where water is scarce.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "water_rights",
+        "riparian_rights",
+        "natural_watercourse"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.8",
+      "question_text": "The prior appropriation doctrine of water rights, used primarily in western states, allocates water based on:",
+      "correct_answer": "Who first diverted and put the water to beneficial use",
+      "distractors": [
+        "Who owns the land adjacent to the water source",
+        "Who owns the largest parcel of land in the watershed",
+        "Who pays the highest annual water usage fee to the state"
+      ],
+      "explanation": "Prior appropriation follows the principle 'first in time, first in right.' The first person to divert water and put it to beneficial use has the senior right, regardless of whether they own land adjacent to the water source. During drought, senior rights holders receive their full allocation before junior rights holders get any. This system developed in the arid West where water scarcity required a system different from riparian rights used in water-abundant eastern states.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "water_rights",
+        "prior_appropriation",
+        "western_states"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.8",
+      "question_text": "A property owner sells the surface rights but retains the mineral rights. The mineral rights holder later wants to access minerals beneath the surface. The surface owner objects. In most states, the mineral rights holder:",
+      "correct_answer": "Has an implied right of reasonable access for extraction",
+      "distractors": [
+        "Must purchase the surface rights before extraction can begin",
+        "Cannot access minerals without the surface owner's written consent",
+        "Must wait until the surface owner sells or abandons the land"
+      ],
+      "explanation": "When mineral rights are severed from surface rights, the mineral rights holder generally has an implied right of reasonable surface access to extract the minerals — this is known as the dominant mineral estate doctrine. However, the mineral rights holder must use only as much surface as reasonably necessary and must compensate the surface owner for damages. Some states have passed surface damage acts requiring additional protections. The surface owner cannot simply block mineral extraction.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "mineral_rights",
+        "surface_rights",
+        "access",
+        "dominant_mineral_estate"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.8",
+      "question_text": "Air rights in real estate refer to:",
+      "correct_answer": "The right to use the space above the land's surface",
+      "distractors": [
+        "The right to clean air and freedom from pollution",
+        "The right to install HVAC systems without permits",
+        "The right to prevent aircraft from flying over the property"
+      ],
+      "explanation": "Air rights are the right to use, develop, or lease the space above the surface of real property. These rights can be bought, sold, or leased separately — common in urban areas where developers purchase air rights above existing buildings to construct additional floors. Air rights do not extend to an unlimited height (aircraft have the right to fly at regulated altitudes). Air rights are part of the bundle of rights and can be severed from the surface estate.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "air_rights",
+        "development_rights",
+        "bundle_of_rights"
+      ]
+    },
+    {
+      "key_topic_ref": "N-05.1",
+      "question_text": "An owner rents out a property, sells a utility easement across it, and places a mortgage on it — all at the same time. This demonstrates that the bundle of rights can be:",
+      "correct_answer": "Divided and shared among multiple parties simultaneously",
+      "distractors": [
+        "Held by only one party at a time under property law",
+        "Transferred only as a complete set through a single deed",
+        "Exercised by the owner but never delegated to others"
+      ],
+      "explanation": "The bundle of rights can be divided — the owner retains ownership while granting possession rights to a tenant (lease), use rights to a utility company (easement), and a security interest to a lender (mortgage). Multiple parties can hold different rights in the same property simultaneously. This divisibility is a fundamental concept in real property law and is what makes real estate transactions so flexible.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "bundle_of_rights",
+        "divisibility",
+        "multiple_parties",
+        "ownership"
+      ]
+    }
+  ]
+}

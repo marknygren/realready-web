@@ -1,0 +1,118 @@
+{
+  "standard_ref": "SD-12",
+  "scope": "state",
+  "state": "SD",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "SD-12.1",
+      "question_text": "Under the Statute of Frauds, South Dakota real estate contracts must be:",
+      "correct_answer": "In writing and signed by the parties",
+      "distractors": ["Notarized and recorded at the county office", "Witnessed by two disinterested parties", "Approved by the SDREC before execution"],
+      "explanation": "The Statute of Frauds requires real estate contracts to be in writing and signed. South Dakota also requires licensees to use standard purchase agreements and to give copies of every offer and counteroffer to anyone signing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "statute-of-frauds", "written"]
+    },
+    {
+      "key_topic_ref": "SD-12.1",
+      "question_text": "A buyer signs a counteroffer but the seller does not. Is this a binding contract in South Dakota?",
+      "correct_answer": "No, both parties must sign for enforceability",
+      "distractors": ["Yes, the buyer's signature alone creates a contract", "Yes, if the counteroffer was delivered in writing", "No, but the buyer is still bound by their signature"],
+      "explanation": "All offers and counteroffers must be in writing and signed by BOTH parties to be enforceable in South Dakota. A one-sided signature does not create a binding agreement. The licensee must give copies to anyone who signs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contracts", "counteroffers", "signatures"]
+    },
+    {
+      "key_topic_ref": "SD-12.1",
+      "question_text": "Which element is NOT typically required in a South Dakota purchase agreement?",
+      "correct_answer": "The buyer's credit score and employment history",
+      "distractors": ["The purchase price and legal description", "The closing date and earnest money terms", "The financing type and possession date"],
+      "explanation": "SD purchase agreements must include price, legal description, closing date, contingencies, earnest money terms, names of parties, method of payment, financing type, and possession date. The buyer's credit score is a lending matter, not a contract element.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "purchase-agreement", "elements"]
+    },
+    {
+      "key_topic_ref": "SD-12.1",
+      "question_text": "A seller receives a written offer while already under contract with another buyer. What must the listing agent do?",
+      "correct_answer": "Present the offer to the seller in a timely manner",
+      "distractors": ["Reject the offer since a contract already exists", "Hold the offer until the current contract expires", "Forward the offer only if it is higher than the existing one"],
+      "explanation": "SD law requires presenting ALL written offers in a timely manner, regardless of existing contracts. The seller decides whether to accept, reject, or counter. The agent may not withhold or filter offers based on their own judgment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contracts", "multiple-offers", "presentation"]
+    },
+    {
+      "key_topic_ref": "SD-12.1",
+      "question_text": "In a South Dakota contract for deed, who retains legal ownership until the contract is fully paid?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "The title company", "The responsible broker"],
+      "explanation": "In a contract for deed, the seller remains the legal owner until the contract is fully paid. The buyer makes monthly payments directly to the seller. This arrangement is used when traditional mortgage financing cannot be obtained.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "contract-for-deed", "ownership"]
+    },
+    {
+      "key_topic_ref": "SD-12.2",
+      "question_text": "A purchase agreement is accepted on Saturday. The earnest money must be deposited by:",
+      "correct_answer": "First legal banking day after acceptance",
+      "distractors": ["The following Monday by noon sharp", "Within 48 hours of signed acceptance", "Within 5 business days of acceptance"],
+      "explanation": "Earnest money must be deposited on the first legal banking day after acceptance. For a Saturday acceptance, this would typically be Monday (assuming it's a banking day). The timing can also be modified by written agreement of the parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "deposit", "timeline"]
+    },
+    {
+      "key_topic_ref": "SD-12.2",
+      "question_text": "An earnest money dispute involves $10,000. Can this be resolved in Small Claims Court?",
+      "correct_answer": "Yes, disputes of $12,000 or less qualify",
+      "distractors": ["No, earnest money disputes cannot go to small claims", "No, the threshold is only $5,000", "Yes, but only if both parties consent"],
+      "explanation": "South Dakota allows earnest money disputes involving $12,000 or less to be handled in Small Claims Court. The SDREC does not get involved in earnest money disputes unless the broker acted recklessly.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "dispute", "small-claims"]
+    },
+    {
+      "key_topic_ref": "SD-12.2",
+      "question_text": "A buyer's financing contingency expires and financing was not obtained. What happens to the contract?",
+      "correct_answer": "The contract ends with no legal obligation",
+      "distractors": ["The buyer must find alternative financing", "The seller can force the sale to proceed", "The earnest money is automatically forfeited"],
+      "explanation": "If a contingency cannot be met within its specified timeframe, the contract ends with no legal obligation to either party. Common contingencies include financing, inspection, appraisal, and sale of existing property.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contingencies", "financing", "termination"]
+    },
+    {
+      "key_topic_ref": "SD-12.2",
+      "question_text": "A seller adds a clause requiring the buyer to remove their sale contingency within 48 hours or the seller can accept another offer. This is called a:",
+      "correct_answer": "Time clause",
+      "distractors": ["Acceleration clause", "Due-on-sale clause", "Liquidated damages clause"],
+      "explanation": "A seller may add a time clause (also called a kick-out or bump clause) requiring the buyer to remove contingencies within a specified period. This protects the seller from being locked into a contract while the buyer's existing property remains unsold.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["contingencies", "time-clause", "seller-protection"]
+    },
+    {
+      "key_topic_ref": "SD-12.2",
+      "question_text": "The SDREC generally does NOT get involved in earnest money disputes unless:",
+      "correct_answer": "The broker acted recklessly with the funds",
+      "distractors": ["The dispute amount exceeds $15,000 total", "Both parties file a written complaint", "The transaction involved a newly licensed agent"],
+      "explanation": "The SDREC stays out of earnest money disputes between buyers and sellers — that's a civil matter. The commission only intervenes if the broker acted recklessly in handling the funds, which would be a license law violation.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["earnest-money", "SDREC", "reckless"]
+    }
+  ]
+}

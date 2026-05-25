@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MO-13",
+  "scope": "state",
+  "state": "MO",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MO-13.1",
+      "question_text": "Missouri residential real estate financing primarily uses which security instrument?",
+      "correct_answer": "Deed of trust, not a mortgage",
+      "distractors": ["A standard two-party mortgage", "A land contract with the seller", "A promissory note without a lien"],
+      "explanation": "Missouri uses a deed of trust rather than a mortgage as the primary security instrument for real estate financing. The deed of trust involves three parties and includes a power of sale clause that enables non-judicial foreclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "security-instrument", "Missouri-practice"]
+    },
+    {
+      "key_topic_ref": "MO-13.1",
+      "question_text": "In a Missouri deed of trust, the three parties are the trustor, the beneficiary, and the trustee. Who is the trustor?",
+      "correct_answer": "The borrower who conveys the interest",
+      "distractors": ["The lender who provides the loan funds", "The neutral third party holding title", "The title company that records the deed"],
+      "explanation": "In a Missouri deed of trust, the trustor is the borrower who conveys a security interest in the property. The beneficiary is the lender, and the trustee is a neutral third party who holds the power of sale and can conduct foreclosure if the borrower defaults.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "trustor", "three-party-structure"]
+    },
+    {
+      "key_topic_ref": "MO-13.1",
+      "question_text": "What legal authority does the power of sale clause in a Missouri deed of trust provide?",
+      "correct_answer": "Allows foreclosure without court proceedings",
+      "distractors": ["Requires the lender to file a judicial foreclosure", "Permits the borrower to sell during default", "Authorizes the county to seize the property"],
+      "explanation": "The power of sale clause in a Missouri deed of trust authorizes the trustee to conduct a non-judicial foreclosure (foreclosure without going through court) if the borrower defaults. This makes the foreclosure process faster than judicial foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["power-of-sale", "non-judicial", "trustee-authority"]
+    },
+    {
+      "key_topic_ref": "MO-13.1",
+      "question_text": "A borrower pays off their Missouri home loan in full. What happens to the deed of trust?",
+      "correct_answer": "The trustee issues a deed of release",
+      "distractors": ["The deed of trust automatically expires after 30 days", "The county recorder removes it from public records", "The beneficiary files a satisfaction of mortgage"],
+      "explanation": "When the loan is paid in full, the trustee issues a deed of release (also called a deed of reconveyance) that releases the lien on the property. In mortgage states, a satisfaction of mortgage serves a similar purpose, but Missouri uses the deed of trust system.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deed-of-release", "loan-payoff", "lien-release"]
+    },
+    {
+      "key_topic_ref": "MO-13.1",
+      "question_text": "How does Missouri's deed of trust differ from a traditional mortgage?",
+      "correct_answer": "It involves three parties instead of two",
+      "distractors": ["It requires a larger down payment from the borrower", "It prohibits the lender from foreclosing", "It must be renewed every five years"],
+      "explanation": "A Missouri deed of trust involves three parties (trustor/borrower, beneficiary/lender, trustee) compared to a mortgage's two parties (mortgagor and mortgagee). The trustee's role enables non-judicial foreclosure through the power of sale clause.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "mortgage-comparison", "three-parties"]
+    },
+    {
+      "key_topic_ref": "MO-13.2",
+      "question_text": "What is the approximate timeline for a non-judicial foreclosure in Missouri?",
+      "correct_answer": "45 to 60 days from start to sale",
+      "distractors": ["6 to 12 months from filing to sale", "120 to 180 days after court approval", "30 days or less from first notice"],
+      "explanation": "Missouri non-judicial foreclosure typically takes 45 to 60 days from initiation to the trustee's sale. This is relatively fast compared to judicial foreclosure states, which can take many months or years.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure-timeline", "non-judicial", "45-60-days"]
+    },
+    {
+      "key_topic_ref": "MO-13.2",
+      "question_text": "Before conducting a trustee's sale in Missouri, the borrower must receive notice how?",
+      "correct_answer": "Certified or registered mail, 20 days prior",
+      "distractors": ["Personal service from a licensed process server", "Posting notice on the property door only", "Publication in a newspaper without mailing"],
+      "explanation": "Missouri law requires that the borrower receive notice of the trustee's sale via certified or registered mail at least 20 days before the sale. Publication notice is also required but is separate from the personal notice to the borrower.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure-notice", "certified-mail", "20-day-notice"]
+    },
+    {
+      "key_topic_ref": "MO-13.2",
+      "question_text": "A foreclosure is occurring in Kansas City (population over 50,000). How must the trustee's sale be published?",
+      "correct_answer": "20 times in a daily newspaper",
+      "distractors": ["4 consecutive weekly newspaper publications", "Once in the county legal journal", "10 times in any local publication"],
+      "explanation": "In Missouri cities with populations of 50,000 or more, foreclosure publication must appear 20 times in a daily newspaper. In smaller areas, publication is required in 4 successive weekly issues. This distinction is frequently tested.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["foreclosure-publication", "large-city", "20-times-daily"]
+    },
+    {
+      "key_topic_ref": "MO-13.2",
+      "question_text": "A property in a rural Missouri town with 8,000 residents faces foreclosure. What publication requirement applies?",
+      "correct_answer": "4 successive weekly newspaper issues",
+      "distractors": ["20 times in a daily newspaper", "Once in the county recorder's office", "No publication is required for rural areas"],
+      "explanation": "In Missouri areas with populations under 50,000, the trustee's sale must be published in 4 successive weekly issues of a newspaper. Cities over 50,000 require 20 publications in a daily newspaper.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["foreclosure-publication", "small-city", "4-weekly-issues"]
+    },
+    {
+      "key_topic_ref": "MO-13.2",
+      "question_text": "Who conducts the actual foreclosure sale at a Missouri non-judicial foreclosure?",
+      "correct_answer": "The trustee named in the deed of trust",
+      "distractors": ["The county sheriff by court order", "The lender's attorney on behalf of the bank", "A court-appointed special master"],
+      "explanation": "In Missouri non-judicial foreclosure, the trustee named in the deed of trust conducts the public auction. This distinguishes it from judicial foreclosure states where the sheriff or a court-appointed officer conducts the sale.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trustee-sale", "public-auction", "non-judicial"]
+    },
+    {
+      "key_topic_ref": "MO-13.3",
+      "question_text": "At a Missouri trustee's sale, the lender purchases the property. Does the borrower have a right of redemption?",
+      "correct_answer": "Yes, the borrower has 1 year to redeem",
+      "distractors": ["No, Missouri has no redemption rights", "Yes, but only 6 months to redeem", "Yes, but only 90 days to redeem"],
+      "explanation": "When the LENDER purchases the property at a Missouri trustee's sale, the borrower has a 1-year redemption period. The borrower must give written notice at the sale or within 10 days before and post a bond. If a third party purchases, there is NO redemption right.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["redemption-right", "lender-purchase", "one-year"]
+    },
+    {
+      "key_topic_ref": "MO-13.3",
+      "question_text": "A third-party investor purchases a property at a Missouri trustee's sale. Can the former owner redeem the property?",
+      "correct_answer": "No, there is no redemption right",
+      "distractors": ["Yes, the owner has 1 year to redeem", "Yes, the owner has 6 months to redeem", "Yes, if the owner matches the sale price plus 10%"],
+      "explanation": "In Missouri, when a THIRD PARTY purchases the property at a trustee's sale, the borrower has NO right of redemption. The 1-year redemption period only applies when the LENDER is the purchaser at the sale.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["no-redemption", "third-party-buyer", "trustee-sale"]
+    },
+    {
+      "key_topic_ref": "MO-13.3",
+      "question_text": "To preserve the right of redemption when the lender buys at a Missouri trustee's sale, the borrower must:",
+      "correct_answer": "Give written notice at sale and post a bond",
+      "distractors": ["File a court petition within 60 days of sale", "Pay 10% of the sale price within 30 days", "Simply occupy the property continuously"],
+      "explanation": "To preserve redemption rights in Missouri when the lender purchases, the borrower must give written notice at the sale (or within 10 days before) and post a bond. Without these steps, the redemption right may be lost.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["redemption-requirements", "written-notice", "bond"]
+    },
+    {
+      "key_topic_ref": "MO-13.3",
+      "question_text": "After a Missouri non-judicial foreclosure, the lender sells the property for less than the loan balance. Can the lender pursue the borrower for the difference?",
+      "correct_answer": "Yes, deficiency judgments are allowed",
+      "distractors": ["No, Missouri prohibits deficiency judgments", "Only if the loan was for commercial property", "Only through judicial foreclosure proceedings"],
+      "explanation": "Missouri allows deficiency judgments in BOTH judicial and non-judicial foreclosures. If the foreclosure sale proceeds are less than the outstanding loan balance, the lender may pursue the borrower for the deficiency.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deficiency-judgment", "non-judicial", "lender-remedy"]
+    },
+    {
+      "key_topic_ref": "MO-13.3",
+      "question_text": "Which statement about Missouri deficiency judgments is correct?",
+      "correct_answer": "They are permitted in both judicial and non-judicial",
+      "distractors": ["They are only permitted in judicial foreclosures", "They are prohibited for residential properties", "They are limited to the first 6 months after sale"],
+      "explanation": "Missouri allows deficiency judgments in both judicial and non-judicial foreclosure proceedings. This means lenders can pursue borrowers for any remaining balance after a foreclosure sale regardless of which foreclosure method was used.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deficiency-judgment", "both-types", "lender-rights"]
+    }
+  ]
+}

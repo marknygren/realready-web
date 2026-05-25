@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OK-03",
+  "scope": "state",
+  "state": "OK",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "OK-03.1",
+      "question_text": "As of June 2025, how many hours of continuing education must an Oklahoma sales associate complete per renewal cycle?",
+      "correct_answer": "30 hours per 3-year cycle",
+      "distractors": ["21 hours per 3-year cycle", "24 hours per 2-year cycle", "18 hours per 2-year cycle"],
+      "explanation": "Effective June 1, 2025, Oklahoma increased CE from 21 to 30 hours per 3-year renewal cycle. The increase added 9 hours, primarily in Contracts and Forms.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "hours", "renewal"]
+    },
+    {
+      "key_topic_ref": "OK-03.1",
+      "question_text": "How many hours of Contracts and Forms CE must an Oklahoma sales associate complete each renewal cycle?",
+      "correct_answer": "6 hours",
+      "distractors": ["3 hours", "4 hours", "9 hours"],
+      "explanation": "Of the 30 required CE hours, 6 must be in Contracts and Forms. Other required topics include 3 hours Professional Conduct, and 1 hour each in BRA, Code/Rules, Fair Housing, and Hot Topic.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "contracts", "required topics"]
+    },
+    {
+      "key_topic_ref": "OK-03.1",
+      "question_text": "A sales associate renewing in September 2025 completed only 21 hours of CE. Is this sufficient?",
+      "correct_answer": "No, 30 hours are required after June 2025",
+      "distractors": ["Yes, 21 hours was the prior requirement", "Yes, with a transition grace period", "No, but only 24 hours are needed"],
+      "explanation": "The 30-hour CE requirement applies to all renewals on or after June 1, 2025. Licensees renewing before that date could renew with 21 hours, but this September renewal requires the full 30.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["CE", "transition", "2025"]
+    },
+    {
+      "key_topic_ref": "OK-03.1",
+      "question_text": "How many elective CE hours may an Oklahoma sales associate choose freely each renewal cycle?",
+      "correct_answer": "17 hours",
+      "distractors": ["12 hours", "14 hours", "21 hours"],
+      "explanation": "Of the 30 total CE hours, 13 are in required topics (6 Contracts, 3 Professional Conduct, 1 BRA, 1 Code/Rules, 1 Fair Housing, 1 Hot Topic). The remaining 17 hours are electives.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["CE", "electives", "hours"]
+    },
+    {
+      "key_topic_ref": "OK-03.1",
+      "question_text": "A non-resident Oklahoma licensee must complete how many CE hours per renewal cycle?",
+      "correct_answer": "8 hours",
+      "distractors": ["15 hours", "21 hours", "30 hours"],
+      "explanation": "Non-resident licensees need only 8 hours: 1 hour BRA, 1 hour Code/Rules, and 6 hours Contracts/Forms. This is significantly less than the 30-hour resident requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "non-resident", "hours"]
+    },
+    {
+      "key_topic_ref": "OK-03.2",
+      "question_text": "A sales associate leaves one brokerage to join another. What must they do?",
+      "correct_answer": "Notify OREC of the change in affiliation",
+      "distractors": ["Complete 6 additional CE hours", "Retake the state licensing exam", "Obtain a new license number from OREC"],
+      "explanation": "Licensees must notify OREC of any change in broker affiliation. The license transfers to the new broker. No additional education or re-examination is required for a transfer.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer", "broker change", "notification"]
+    },
+    {
+      "key_topic_ref": "OK-03.2",
+      "question_text": "A licensee on inactive status wants to return to active practice. What is required?",
+      "correct_answer": "Complete current CE requirements",
+      "distractors": ["Retake the licensing exam", "Complete 90 hours of pre-license education", "Pay a reactivation penalty of $500"],
+      "explanation": "To reactivate an inactive license, the licensee must complete the current CE requirements. No CE is required while the license is inactive, but it must be current before reactivation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inactive", "reactivation", "CE"]
+    },
+    {
+      "key_topic_ref": "OK-03.2",
+      "question_text": "While a license is on inactive status in Oklahoma, which of the following is true?",
+      "correct_answer": "No CE is required during inactive status",
+      "distractors": ["CE must still be completed on schedule", "The license automatically expires after 2 years", "The licensee may still conduct limited transactions"],
+      "explanation": "Oklahoma does not require CE while a license is inactive. However, the licensee cannot practice real estate. To return to active status, they must complete current CE requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["inactive", "CE", "status"]
+    },
+    {
+      "key_topic_ref": "OK-03.2",
+      "question_text": "A sales associate's broker retires and closes the brokerage. What happens to the associate's license?",
+      "correct_answer": "It becomes inactive until transferred",
+      "distractors": ["It is automatically revoked by OREC", "It transfers to the nearest brokerage", "It remains active for 90 days"],
+      "explanation": "When a broker ceases business, associates' licenses become inactive until they transfer to a new broker. The closing broker must notify OREC and ensure all trust funds are properly distributed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer", "broker closure", "inactive"]
+    },
+    {
+      "key_topic_ref": "OK-03.2",
+      "question_text": "A licensee decides to stop practicing real estate temporarily. Which option preserves their license?",
+      "correct_answer": "Place the license on inactive status",
+      "distractors": ["Let the license expire naturally", "Request a practice suspension from OREC", "Transfer the license to a family member"],
+      "explanation": "Placing a license on inactive status preserves it without CE requirements. When ready to return, the licensee completes current CE and reactivates. Letting it expire may require starting over.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inactive", "license preservation", "options"]
+    },
+    {
+      "key_topic_ref": "OK-03.3",
+      "question_text": "A licensee is convicted of a misdemeanor in another state. What must they do?",
+      "correct_answer": "Notify OREC of the conviction",
+      "distractors": ["No notification is required", "Report only felony convictions", "Notify only their employing broker"],
+      "explanation": "Oklahoma licensees must notify OREC of criminal convictions, including those in other jurisdictions. OREC must also be notified of disciplinary actions taken by other states.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["notification", "conviction", "OREC"]
+    },
+    {
+      "key_topic_ref": "OK-03.3",
+      "question_text": "A licensee changes their home address. Must they notify OREC?",
+      "correct_answer": "Yes, address changes must be reported",
+      "distractors": ["No, only office address changes matter", "Only if the address is in a new county", "Only at the next license renewal date"],
+      "explanation": "OREC must be notified of address changes, criminal convictions, and disciplinary actions in other jurisdictions. Failing to provide required notifications can itself be grounds for discipline.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["notification", "address", "OREC"]
+    },
+    {
+      "key_topic_ref": "OK-03.3",
+      "question_text": "A licensee receives a disciplinary sanction from the Texas Real Estate Commission. Are they required to report this to OREC?",
+      "correct_answer": "Yes, out-of-state discipline must be reported",
+      "distractors": ["No, only Oklahoma actions matter", "Only if the sanction includes revocation", "Only if they hold an Oklahoma active license"],
+      "explanation": "Oklahoma licensees must report disciplinary actions from other jurisdictions to OREC. This allows OREC to evaluate whether the conduct also warrants discipline under Oklahoma law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["notification", "out-of-state", "discipline"]
+    },
+    {
+      "key_topic_ref": "OK-03.3",
+      "question_text": "A licensee moves to a new address but does not inform OREC. What is the potential consequence?",
+      "correct_answer": "Grounds for disciplinary action",
+      "distractors": ["Automatic license suspension", "A $500 administrative fine", "No consequence if license is current"],
+      "explanation": "Failure to notify OREC of required changes, including address changes, can be grounds for disciplinary action. OREC needs current contact information for regulatory correspondence.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["notification", "address", "compliance"]
+    },
+    {
+      "key_topic_ref": "OK-03.3",
+      "question_text": "An Oklahoma licensee also holds a license in Kansas. Their Kansas license is suspended. What Oklahoma obligation applies?",
+      "correct_answer": "Must notify OREC promptly",
+      "distractors": ["Their Oklahoma license is automatically suspended", "No obligation unless practicing in both states", "Must surrender their Oklahoma license"],
+      "explanation": "Licensees must notify OREC of disciplinary actions in other jurisdictions. The Kansas suspension does not automatically affect the Oklahoma license, but OREC may investigate and take its own action.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["notification", "multi-state", "discipline"]
+    }
+  ]
+}

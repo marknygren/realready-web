@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NH-01",
+  "scope": "state",
+  "state": "NH",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "NH-01.1",
+      "question_text": "Which state agency oversees the NH Real Estate Commission?",
+      "correct_answer": "Office of Professional Licensure and Certification",
+      "distractors": ["Department of Justice consumer protection division", "Secretary of State professional licensing bureau", "Department of Revenue Administration office"],
+      "explanation": "The NH Real Estate Commission operates under OPLC (Office of Professional Licensure and Certification). OPLC was restructured in 2023 under HB 655, consolidating professional licensing oversight.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["OPLC", "NH Real Estate Commission", "oversight"]
+    },
+    {
+      "key_topic_ref": "NH-01.1",
+      "question_text": "What is the primary statute governing real estate practice in New Hampshire?",
+      "correct_answer": "RSA 331-A",
+      "distractors": ["RSA 356-B", "RSA 477-A", "RSA 331-B"],
+      "explanation": "RSA 331-A is the New Hampshire Real Estate Practice Act, which establishes the legal framework for licensing, conduct standards, and enforcement of real estate practitioners in the state.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 331-A", "Practice Act", "statute"]
+    },
+    {
+      "key_topic_ref": "NH-01.1",
+      "question_text": "A licensee asks what administrative rules supplement RSA 331-A. Which rules should the licensee review?",
+      "correct_answer": "Rea 100 through Rea 900",
+      "distractors": ["Env 100 through Env 900", "Jus 100 through Jus 500", "Lab 200 through Lab 800"],
+      "explanation": "The NH Real Estate Commission's administrative rules are codified as Rea 100 through Rea 900. These rules detail the procedural and substantive requirements that supplement the statutory provisions of RSA 331-A.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Rea rules", "administrative rules", "RSA 331-A"]
+    },
+    {
+      "key_topic_ref": "NH-01.1",
+      "question_text": "How does the OPLC restructuring affect the NH Real Estate Commission's administrative framework?",
+      "correct_answer": "Disciplinary authority was reorganized under OPLC",
+      "distractors": ["The Commission was dissolved entirely", "The Commission merged with the court system", "The Commission was moved to federal oversight"],
+      "explanation": "The OPLC restructuring consolidated professional licensing oversight, which reorganized how the Real Estate Commission handles disciplinary authority. Understanding this relationship helps licensees know where regulatory authority resides.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["OPLC", "HB 655", "restructuring"]
+    },
+    {
+      "key_topic_ref": "NH-01.1",
+      "question_text": "After certain sections of RSA 331-A were repealed during the OPLC restructuring, what happened to the Commission's disciplinary authority?",
+      "correct_answer": "It was reorganized under the OPLC framework",
+      "distractors": ["It was eliminated entirely", "It was transferred to the courts", "It was delegated to local municipalities"],
+      "explanation": "When portions of RSA 331-A were repealed as part of the OPLC restructuring, disciplinary authority was not eliminated but reorganized under the new OPLC framework. Licensees should understand that the Commission still retains enforcement power through this structure.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["RSA 331-A:28", "HB 655", "OPLC", "repeal"]
+    },
+    {
+      "key_topic_ref": "NH-01.2",
+      "question_text": "Which powers does the NH Real Estate Commission hold under RSA 331-A:30?",
+      "correct_answer": "Rulemaking, licensing, and investigation",
+      "distractors": ["Setting local property tax rates", "Approving mortgage interest rates", "Zoning and land use planning authority"],
+      "explanation": "Under RSA 331-A:30, the Commission has broad authority including rulemaking, licensing, investigation, discipline, and records examination. These powers are designed to protect consumers through effective licensee oversight.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 331-A:30", "Commission powers", "rulemaking"]
+    },
+    {
+      "key_topic_ref": "NH-01.2",
+      "question_text": "The Commission suspects a brokerage of keeping incomplete records. Under RSA 331-A:30, can the Commission examine those records?",
+      "correct_answer": "Yes, the Commission has records examination authority",
+      "distractors": ["Only after obtaining a formal court order first", "Only if the broker gives prior written consent", "No, brokerage records are fully private under HIPAA"],
+      "explanation": "RSA 331-A:30 grants the Commission explicit authority to examine licensee records. This investigative power allows the Commission to ensure compliance with recordkeeping requirements without needing a court order or the licensee's consent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 331-A:30", "records examination", "investigation"]
+    },
+    {
+      "key_topic_ref": "NH-01.2",
+      "question_text": "A consumer complains that an agent misrepresented a property condition. Which Commission power applies first?",
+      "correct_answer": "Investigation of the complaint",
+      "distractors": ["Immediate license revocation", "Referral to municipal court", "Mandatory arbitration hearing"],
+      "explanation": "When a complaint is received, the Commission first exercises its investigative authority to gather facts. Discipline, if warranted, comes after investigation. The Commission does not immediately revoke a license or refer to court without first conducting an investigation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["investigation", "Commission powers", "complaint"]
+    },
+    {
+      "key_topic_ref": "NH-01.2",
+      "question_text": "The Commission proposes a new rule on advertising disclosures. Which power does this exercise?",
+      "correct_answer": "Rulemaking authority",
+      "distractors": ["Judicial review power", "Legislative veto power", "Executive order authority"],
+      "explanation": "The Commission's rulemaking authority under RSA 331-A:30 allows it to adopt administrative rules (Rea 100-900) that carry the force of law. New advertising disclosure requirements would be implemented through this administrative rulemaking process.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rulemaking", "Commission powers", "advertising"]
+    },
+    {
+      "key_topic_ref": "NH-01.2",
+      "question_text": "An applicant asks whether the Commission can deny a license based on investigation findings. What is the correct answer?",
+      "correct_answer": "Yes, licensing and discipline are Commission powers",
+      "distractors": ["No, only the courts can deny a license application", "Only OPLC can deny a license, not the Commission", "Denial requires prior legislative approval from the state"],
+      "explanation": "The Commission holds both licensing and disciplinary powers under RSA 331-A:30. This includes the authority to grant, deny, suspend, or revoke licenses based on investigation findings and statutory criteria.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["licensing", "discipline", "Commission powers"]
+    },
+    {
+      "key_topic_ref": "NH-01.3",
+      "question_text": "What disciplinary actions can the NH Real Estate Commission impose on a licensee?",
+      "correct_answer": "Suspension, revocation, fines, or education",
+      "distractors": ["Only written warnings to the licensee", "Criminal imprisonment sentences only", "Monetary damages awarded to consumers"],
+      "explanation": "The Commission can impose a range of sanctions including license suspension, revocation, fines, and required additional education. Criminal penalties are handled by the courts, and the Commission does not award monetary damages to consumers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["discipline", "sanctions", "enforcement"]
+    },
+    {
+      "key_topic_ref": "NH-01.3",
+      "question_text": "A licensee repeatedly fails to deposit earnest money on time. After investigation, what is the most severe sanction the Commission can impose?",
+      "correct_answer": "Revocation of the license",
+      "distractors": ["A verbal reprimand only", "Reduction in commission rates", "Transfer to a different brokerage"],
+      "explanation": "License revocation is the most severe sanction available to the Commission. Failure to properly handle client funds is a serious violation under RSA 331-A:26, and repeated offenses can justify the maximum penalty.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["revocation", "discipline", "trust funds"]
+    },
+    {
+      "key_topic_ref": "NH-01.3",
+      "question_text": "A consumer asks about filing a recovery fund claim against a NH licensee. What should they be told?",
+      "correct_answer": "NH repealed its recovery fund in 2023",
+      "distractors": ["Claims are capped at $50,000", "File with the state treasurer", "Claims must include a court judgment"],
+      "explanation": "New Hampshire's real estate recovery fund was repealed effective September 1, 2023. Consumer protection is now provided through the $25,000 principal broker surety bond requirement rather than a pooled recovery fund.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery fund", "repeal", "consumer protection", "surety bond"]
+    },
+    {
+      "key_topic_ref": "NH-01.3",
+      "question_text": "Since the recovery fund repeal, what mechanism protects consumers harmed by a principal broker?",
+      "correct_answer": "A $25,000 principal broker surety bond",
+      "distractors": ["A $100,000 state insurance policy", "The OPLC general operating fund", "Federal RESPA escrow protection"],
+      "explanation": "After the recovery fund was repealed on September 1, 2023, consumer protection shifted to the $25,000 principal broker surety bond. This bond must be concurrent with the license dates and provides a source of recovery for consumers harmed by broker misconduct.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["surety bond", "consumer protection", "recovery fund repeal"]
+    },
+    {
+      "key_topic_ref": "NH-01.3",
+      "question_text": "The Commission orders a licensee to complete 20 hours of additional education as a disciplinary measure. Is this a valid sanction?",
+      "correct_answer": "Yes, required education is a valid sanction",
+      "distractors": ["No, additional education cannot be mandated", "Only courts can order additional education", "Education requirements apply only to new applicants"],
+      "explanation": "Required additional education is among the disciplinary tools available to the Commission. This sanction allows a licensee to correct knowledge deficiencies while maintaining their license, often combined with other conditions like probation or fines.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["discipline", "required education", "sanctions"]
+    }
+  ]
+}

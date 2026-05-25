@@ -1,0 +1,118 @@
+{
+  "standard_ref": "MI-12",
+  "scope": "state",
+  "state": "MI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MI-12.1",
+      "question_text": "Michigan's Elliott-Larsen Civil Rights Act protects which classes that federal fair housing law does NOT cover?",
+      "correct_answer": "Age, marital status, and sexual orientation",
+      "distractors": ["Only race and national origin are added", "Religion and disability protections only", "Familial status and color protections only"],
+      "explanation": "The Elliott-Larsen Civil Rights Act goes beyond federal protections by adding age, marital status, sexual orientation, and gender identity/expression as protected classes in Michigan housing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["elliott-larsen", "protected-classes", "state-vs-federal"]
+    },
+    {
+      "key_topic_ref": "MI-12.1",
+      "question_text": "A Michigan landlord refuses to rent to a couple because they are unmarried. Is this lawful?",
+      "correct_answer": "No, marital status is protected in Michigan",
+      "distractors": ["Yes, landlords may set moral standards", "Yes, unless the property has 5+ units", "Only if the landlord lives on the premises"],
+      "explanation": "Michigan's Elliott-Larsen Civil Rights Act protects marital status as a class. Refusing to rent based on whether tenants are married or unmarried constitutes unlawful discrimination.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["elliott-larsen", "marital-status", "rental-discrimination"]
+    },
+    {
+      "key_topic_ref": "MI-12.1",
+      "question_text": "A 62-year-old applies to rent an apartment in Michigan but is denied because the landlord prefers younger tenants. What law has the landlord violated?",
+      "correct_answer": "The Elliott-Larsen Civil Rights Act",
+      "distractors": ["The federal Fair Housing Act only", "No law, age is not protected in housing", "Michigan's Senior Housing Act"],
+      "explanation": "Age is a protected class under Michigan's Elliott-Larsen Civil Rights Act for housing. Unlike federal law, which does not protect age in housing, Michigan explicitly prohibits this form of discrimination.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["elliott-larsen", "age-discrimination", "rental"]
+    },
+    {
+      "key_topic_ref": "MI-12.1",
+      "question_text": "A Michigan real estate agent steers a same-sex couple away from a certain neighborhood. Under which state law can the couple file a complaint?",
+      "correct_answer": "The Elliott-Larsen Civil Rights Act",
+      "distractors": ["Michigan Occupational Code only", "Michigan Consumer Protection Act", "No state law covers this situation"],
+      "explanation": "Sexual orientation is a protected class under Michigan's Elliott-Larsen Civil Rights Act as of March 31, 2024. Steering based on sexual orientation violates this law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["elliott-larsen", "sexual-orientation", "steering"]
+    },
+    {
+      "key_topic_ref": "MI-12.1",
+      "question_text": "Which of the following is a protected class under BOTH federal fair housing law AND Michigan's Elliott-Larsen Act?",
+      "correct_answer": "Familial status",
+      "distractors": ["Marital status", "Age", "Sexual orientation"],
+      "explanation": "Familial status is protected under both the federal Fair Housing Act and Michigan's Elliott-Larsen Act. Marital status, age, and sexual orientation are Michigan-only protections not covered by federal housing law.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["elliott-larsen", "federal-comparison", "familial-status"]
+    },
+    {
+      "key_topic_ref": "MI-12.2",
+      "question_text": "A tenant with a mobility disability requests a ramp at the entrance of her Michigan apartment. The landlord refuses, citing building aesthetics. Is this lawful?",
+      "correct_answer": "No, reasonable modifications must be allowed",
+      "distractors": ["Yes, landlords control the building appearance", "Only if the tenant pays for full restoration", "Only in buildings with 4 or more rental units"],
+      "explanation": "Under Michigan's disability protections (PA 220 and Elliott-Larsen), landlords must allow reasonable modifications for tenants with disabilities. The tenant typically pays for the modification, but the landlord cannot refuse based on aesthetics alone.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disability", "reasonable-modification", "rental"]
+    },
+    {
+      "key_topic_ref": "MI-12.2",
+      "question_text": "A Michigan homeowner with a visual impairment requests a waiver of the 'no pets' policy for her guide dog. What must the HOA do?",
+      "correct_answer": "Grant the request as a reasonable accommodation",
+      "distractors": ["Deny it because rules apply to all owners", "Allow it only with a standard pet deposit", "Require a vote of all current HOA members"],
+      "explanation": "A guide dog is a service animal, and allowing it despite a no-pets policy is a reasonable accommodation under Michigan disability law. No pet deposit can be charged for service or assistance animals.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disability", "reasonable-accommodation", "service-animal"]
+    },
+    {
+      "key_topic_ref": "MI-12.2",
+      "question_text": "Where does a person file a housing discrimination complaint under Michigan state law?",
+      "correct_answer": "Michigan Dept of Civil Rights (MDCR)",
+      "distractors": ["Michigan Real Estate Commission", "Local circuit court only", "Michigan Attorney General's office"],
+      "explanation": "Housing discrimination complaints under Michigan law are filed with the Michigan Department of Civil Rights (MDCR), which investigates and can pursue remedies including cease and desist orders and damages.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["enforcement", "MDCR", "complaint-filing"]
+    },
+    {
+      "key_topic_ref": "MI-12.2",
+      "question_text": "Which remedies can the MDCR order in a Michigan housing discrimination case?",
+      "correct_answer": "Cease and desist plus actual damages",
+      "distractors": ["Criminal imprisonment penalties only", "Revocation of the real estate license only", "A formal written apology letter only"],
+      "explanation": "The MDCR can order cease and desist of discriminatory practices, award actual damages, and impose civil penalties. Private lawsuits are also available as an alternative enforcement path.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["enforcement", "MDCR", "remedies"]
+    },
+    {
+      "key_topic_ref": "MI-12.2",
+      "question_text": "A Michigan buyer believes she was denied a mortgage because of her disability. Besides filing with MDCR, what other option does she have?",
+      "correct_answer": "File a private lawsuit in court",
+      "distractors": ["She must use MDCR exclusively", "Appeal to the Michigan Real Estate Commission", "File a police report for discrimination"],
+      "explanation": "Michigan law allows individuals to file private lawsuits as an alternative to or in addition to MDCR complaints. Victims of housing discrimination can pursue court action for damages and injunctive relief.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["enforcement", "private-lawsuit", "disability"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MD-14",
+  "scope": "state",
+  "state": "MD",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MD-14.1",
+      "question_text": "What type of foreclosure process does Maryland use?",
+      "correct_answer": "Judicial foreclosure through courts",
+      "distractors": ["Non-judicial power of sale", "Administrative foreclosure", "Strict foreclosure without sale"],
+      "explanation": "Maryland requires judicial foreclosure through the courts. Even when a deed of trust with a power of sale clause is used, the lender must still proceed through the court system.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["judicial foreclosure", "court process", "foreclosure type"]
+    },
+    {
+      "key_topic_ref": "MD-14.1",
+      "question_text": "A Maryland lender intends to foreclose on a delinquent borrower. How many days before filing must the lender send a Notice of Intent to Foreclose?",
+      "correct_answer": "At least 45 days",
+      "distractors": ["At least 30 days", "At least 60 days", "At least 90 days"],
+      "explanation": "Maryland law requires lenders to send a Notice of Intent to Foreclose at least 45 days before filing foreclosure papers with the court. This gives borrowers time to explore alternatives.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Notice of Intent", "45 days", "pre-foreclosure"]
+    },
+    {
+      "key_topic_ref": "MD-14.1",
+      "question_text": "A Maryland borrower receives a foreclosure notice and wants to explore alternatives. Which program may the borrower request?",
+      "correct_answer": "Foreclosure mediation",
+      "distractors": ["Automatic loan forgiveness", "Mandatory short sale approval", "State-funded mortgage buyout"],
+      "explanation": "Maryland offers a foreclosure mediation program that borrowers may request. Mediation provides an opportunity for the borrower and lender to negotiate alternatives to foreclosure, such as loan modifications.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["foreclosure mediation", "borrower rights", "alternatives"]
+    },
+    {
+      "key_topic_ref": "MD-14.1",
+      "question_text": "After a Maryland foreclosure sale is conducted, what additional step must occur before the sale is final?",
+      "correct_answer": "Court must ratify the sale",
+      "distractors": ["Buyer must record the deed within 10 days", "Borrower must sign a release", "Title company must issue clearance"],
+      "explanation": "In Maryland's judicial foreclosure process, the court must ratify (approve) the foreclosure sale before it becomes final. This provides judicial oversight to ensure the process was properly conducted.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["court ratification", "foreclosure sale", "judicial approval"]
+    },
+    {
+      "key_topic_ref": "MD-14.1",
+      "question_text": "A Maryland foreclosure case begins with which filing?",
+      "correct_answer": "Order to Docket",
+      "distractors": ["Lis pendens", "Complaint for foreclosure", "Notice of default"],
+      "explanation": "Maryland foreclosures begin with the filing of an Order to Docket with the court. This is distinct from other states that may use a lis pendens or complaint. The lender must have already sent the 45-day Notice of Intent to Foreclose.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Order to Docket", "foreclosure filing", "court process"]
+    },
+    {
+      "key_topic_ref": "MD-14.2",
+      "question_text": "A Maryland borrower facing foreclosure wants to keep their home. Up to what point can the borrower exercise the right of redemption?",
+      "correct_answer": "Before the court ratifies the sale",
+      "distractors": ["Within 30 days after the sale", "Up to one year after the sale", "At any time before the deed records"],
+      "explanation": "In Maryland, a borrower may redeem the property by paying the full debt at any time before the court ratifies the foreclosure sale. Once the court ratifies the sale, the right of redemption is extinguished.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["right of redemption", "court ratification", "borrower rights"]
+    },
+    {
+      "key_topic_ref": "MD-14.2",
+      "question_text": "A Maryland foreclosure sale yields $280,000 but the outstanding debt is $320,000. Can the lender pursue the borrower for the $40,000 difference?",
+      "correct_answer": "Yes, deficiency judgments are permitted",
+      "distractors": ["No, Maryland prohibits deficiency judgments", "Only if the loan was non-recourse", "Only for commercial properties"],
+      "explanation": "Maryland permits deficiency judgments, meaning lenders can pursue borrowers for the difference between the foreclosure sale price and the outstanding debt. This applies to both residential and commercial properties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deficiency judgment", "foreclosure shortfall", "lender rights"]
+    },
+    {
+      "key_topic_ref": "MD-14.2",
+      "question_text": "A Maryland court ratifies a foreclosure sale on Tuesday. On Wednesday, the borrower attempts to pay the full outstanding debt. Can the borrower still redeem?",
+      "correct_answer": "No, ratification extinguishes redemption",
+      "distractors": ["Yes, within 24 hours of ratification", "Yes, if they pay court costs too", "Only with the buyer's consent"],
+      "explanation": "Once the Maryland court ratifies a foreclosure sale, the borrower's right of redemption is permanently extinguished. The borrower cannot redeem the property after ratification, regardless of ability to pay.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["right of redemption", "ratification", "extinguished"]
+    },
+    {
+      "key_topic_ref": "MD-14.2",
+      "question_text": "To exercise the right of redemption in Maryland, the borrower must pay:",
+      "correct_answer": "The full outstanding debt",
+      "distractors": ["Only the past-due payments", "Fair market value of the property", "The original loan amount"],
+      "explanation": "Maryland's right of redemption requires the borrower to pay the full outstanding debt, including principal, interest, fees, and costs. Paying only the delinquent amount is not sufficient to redeem.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["right of redemption", "full debt", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "MD-14.2",
+      "question_text": "A Maryland foreclosure sale produces excess proceeds after satisfying the debt. Who receives the surplus funds?",
+      "correct_answer": "The former borrower",
+      "distractors": ["The lender retains them", "The court keeps them as fees", "The purchasing bidder receives a refund"],
+      "explanation": "When a Maryland foreclosure sale produces more than the outstanding debt, the surplus funds belong to the former borrower. Conversely, if the sale falls short, the lender may seek a deficiency judgment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["foreclosure surplus", "borrower rights", "excess proceeds"]
+    },
+    {
+      "key_topic_ref": "MD-14.3",
+      "question_text": "A Maryland deed of trust involves three parties. Who holds legal title to the property as security for the loan?",
+      "correct_answer": "The trustee",
+      "distractors": ["The lender/beneficiary", "The borrower/trustor", "The settlement attorney"],
+      "explanation": "In a deed of trust, the trustee holds legal title as security. The three parties are the borrower (trustor), the lender (beneficiary), and the trustee. Despite the deed of trust structure, Maryland still requires judicial foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "trustee", "three parties"]
+    },
+    {
+      "key_topic_ref": "MD-14.3",
+      "question_text": "Which financing instrument is more commonly used in Maryland real estate transactions?",
+      "correct_answer": "Deed of trust",
+      "distractors": ["Traditional mortgage", "Land contract", "Lease-purchase agreement"],
+      "explanation": "While both mortgages and deeds of trust are used in Maryland, deeds of trust are more common. Unlike many deed-of-trust states, Maryland still requires judicial foreclosure regardless of which instrument is used.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "mortgage", "financing instruments"]
+    },
+    {
+      "key_topic_ref": "MD-14.3",
+      "question_text": "A lender holds a deed of trust on a Maryland property with a power of sale clause. Can the lender foreclose without going through the courts?",
+      "correct_answer": "No, judicial foreclosure is always required",
+      "distractors": ["Yes, the power of sale clause allows it", "Only for properties under $500,000", "Yes, with 90 days' notice to the borrower"],
+      "explanation": "Maryland does not permit non-judicial power of sale foreclosures. Even when a deed of trust contains a power of sale clause, the lender must still proceed through the judicial foreclosure process.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["power of sale", "judicial foreclosure", "deed of trust"]
+    },
+    {
+      "key_topic_ref": "MD-14.3",
+      "question_text": "In a Maryland deed of trust, the lender is known as the:",
+      "correct_answer": "Beneficiary",
+      "distractors": ["Trustor", "Mortgagor", "Grantor"],
+      "explanation": "In a deed of trust, the lender is the beneficiary who benefits from the security arrangement. The borrower is the trustor (who creates the trust), and the trustee holds legal title as security.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "beneficiary", "lender terminology"]
+    },
+    {
+      "key_topic_ref": "MD-14.3",
+      "question_text": "How does Maryland's foreclosure process differ from most deed-of-trust states?",
+      "correct_answer": "Maryland requires judicial foreclosure for DOTs",
+      "distractors": ["Maryland allows non-judicial foreclosure", "Maryland prohibits deeds of trust entirely", "Maryland uses strict foreclosure only"],
+      "explanation": "Most deed-of-trust states allow non-judicial power of sale foreclosure. Maryland is unusual because it requires judicial foreclosure through the courts even when the security instrument is a deed of trust.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deed of trust", "judicial foreclosure", "Maryland distinction"]
+    }
+  ]
+}

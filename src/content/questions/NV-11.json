@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NV-11",
+  "scope": "state",
+  "state": "NV",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NV-11.1",
+      "question_text": "Under NRS 116, how many days does an HOA have to provide the resale package after a request?",
+      "correct_answer": "10 days",
+      "distractors": [
+        "5 days",
+        "15 days",
+        "30 days"
+      ],
+      "explanation": "NRS 116 requires the HOA to provide the resale package within 10 days of the request. This package includes CC&Rs, bylaws, financial statements, reserve study summary, pending litigation, and other material information for the buyer.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CIC-resale-package", "NRS-116", "HOA", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.1",
+      "question_text": "A buyer receives the CIC resale package for a condominium purchase. How many days does the buyer have to cancel?",
+      "correct_answer": "5 days after receiving the package",
+      "distractors": [
+        "10 days after receiving the package",
+        "3 days after signing the contract",
+        "7 days after the HOA delivers it"
+      ],
+      "explanation": "After receiving the CIC resale package, the buyer has 5 days to cancel the purchase. This cancellation period begins upon receipt, giving the buyer time to review CC&Rs, financial statements, assessments, and other HOA documents.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CIC-resale-package", "buyer-cancellation", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.1",
+      "question_text": "Which document would NOT typically be included in a Nevada CIC resale package?",
+      "correct_answer": "The seller's original purchase contract",
+      "distractors": [
+        "CC&Rs, bylaws, and community rules",
+        "Reserve study summary and financials",
+        "Pending litigation and assessment info"
+      ],
+      "explanation": "The CIC resale package includes CC&Rs, bylaws, rules, financial statements, reserve study summary, pending litigation, assessment information, and insurance details. The seller's original purchase contract is a personal transaction document, not part of the HOA resale package.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["CIC-resale-package", "HOA-documents", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.1",
+      "question_text": "A buyer is purchasing a unit in a planned community governed by NRS 116. The HOA delays providing the resale package for 20 days. What is the buyer's status?",
+      "correct_answer": "The cancellation period has not started",
+      "distractors": [
+        "The buyer has waived cancellation rights",
+        "The contract is automatically voided",
+        "The buyer must close without the package"
+      ],
+      "explanation": "The buyer's 5-day cancellation period begins only upon receipt of the resale package. If the HOA fails to deliver within 10 days, the cancellation period simply has not started. The buyer does not lose cancellation rights due to HOA delay.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["CIC-resale-package", "HOA-delay", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.1",
+      "question_text": "NRS 116 applies to which types of common-interest communities in Nevada?",
+      "correct_answer": "Condos, planned communities, and co-ops",
+      "distractors": [
+        "Only condominium associations",
+        "Only single-family subdivisions",
+        "Only communities with over 50 units"
+      ],
+      "explanation": "NRS 116 implements the Uniform Common-Interest Ownership Act and governs condominiums, planned communities, and cooperatives. It is not limited to a single property type or based on community size.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NRS-116", "CIC-types", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.2",
+      "question_text": "How many months of unpaid HOA assessments can constitute a superpriority lien in Nevada?",
+      "correct_answer": "Up to 9 months",
+      "distractors": [
+        "Up to 6 months",
+        "Up to 12 months",
+        "Up to 3 months"
+      ],
+      "explanation": "In Nevada, up to 9 months of unpaid HOA assessments can create a superpriority lien that is senior to most first mortgage liens. This superpriority portion can be foreclosed and may extinguish the first deed of trust.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["superpriority-lien", "HOA-assessments", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.2",
+      "question_text": "An HOA forecloses its superpriority lien on a property with an outstanding first mortgage. What happens to the mortgage?",
+      "correct_answer": "The first deed of trust is extinguished",
+      "distractors": [
+        "The mortgage remains in first position",
+        "The lender must pay the HOA dues",
+        "The mortgage converts to a second lien"
+      ],
+      "explanation": "Nevada's HOA superpriority lien is senior to most first mortgage liens. When the HOA forecloses this lien through non-judicial foreclosure, it can extinguish the first deed of trust. This makes HOA superpriority liens particularly significant for lenders.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["superpriority-lien", "foreclosure", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.2",
+      "question_text": "A homeowner owes 12 months of unpaid HOA dues at $200 per month. What is the maximum superpriority lien amount based on assessments alone?",
+      "correct_answer": "$1,800",
+      "distractors": [
+        "$2,400",
+        "$1,200",
+        "$600"
+      ],
+      "explanation": "The superpriority lien is limited to 9 months of unpaid assessments. At $200 per month, the maximum superpriority amount is $1,800 (9 x $200). The remaining 3 months ($600) would be a regular lien subordinate to the first mortgage.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["superpriority-lien", "assessment-calculation", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.2",
+      "question_text": "Which Nevada office handles disputes between homeowners and their common-interest communities?",
+      "correct_answer": "Office of the Ombudsman for Owners",
+      "distractors": [
+        "Nevada Real Estate Division",
+        "County District Court exclusively",
+        "State Attorney General's office"
+      ],
+      "explanation": "The Office of the Ombudsman for Owners in Common-Interest Communities handles disputes between homeowners and their HOAs. While the Real Estate Division regulates licensees and courts handle litigation, the Ombudsman specifically addresses CIC owner complaints.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ombudsman", "CIC-disputes", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.2",
+      "question_text": "An HOA's superpriority lien includes collection costs and attorney fees. Under what condition are these costs included in the superpriority amount?",
+      "correct_answer": "If total does not exceed 9 monthly assessments",
+      "distractors": [
+        "If approved by the homeowner in writing",
+        "If the HOA board votes to include them",
+        "Collection costs are always excluded"
+      ],
+      "explanation": "Collection costs and attorney fees may be included in the superpriority lien amount as long as the total does not exceed 9 times the monthly assessment. This cap prevents the superpriority amount from growing beyond the statutory limit.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["superpriority-lien", "collection-costs", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.3",
+      "question_text": "A licensed agent wants to purchase a property for personal investment. When must they disclose their license status?",
+      "correct_answer": "Before entering a binding agreement",
+      "distractors": [
+        "At the time of closing only",
+        "Within 10 days of making an offer",
+        "Only if asked by the other party"
+      ],
+      "explanation": "A licensee buying or selling for their own account must disclose their license status in writing before entering into a binding agreement. This ensures the other party knows they are dealing with a licensed professional who may have superior market knowledge.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensee-as-principal", "disclosure", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.3",
+      "question_text": "Which environmental disclosure is required for residential properties built before 1978?",
+      "correct_answer": "Lead-based paint disclosure",
+      "distractors": [
+        "Asbestos testing certificate",
+        "Radon mitigation report",
+        "Mold remediation clearance"
+      ],
+      "explanation": "Federal law requires lead-based paint disclosure for residential properties built before 1978. While asbestos, radon, and mold may also require disclosure if known, the pre-1978 threshold specifically triggers the mandatory lead paint disclosure requirement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead-paint", "environmental-disclosure", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.3",
+      "question_text": "A seller knows their rural Nevada property has well water contamination issues. What disclosure obligation exists?",
+      "correct_answer": "Must disclose water and sewer conditions",
+      "distractors": [
+        "No duty to disclose in rural areas",
+        "Only disclose if buyer requests testing",
+        "Disclosure waived for rural properties"
+      ],
+      "explanation": "In rural areas of Nevada, water and sewer information must be disclosed, especially when properties rely on wells or septic systems. Known contamination is a material fact that the seller must disclose regardless of whether the buyer requests testing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rural-property", "water-disclosure", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.3",
+      "question_text": "A licensee sells her own home but fails to disclose her license status before the contract is signed. What violation has occurred?",
+      "correct_answer": "Failure to disclose licensee status",
+      "distractors": [
+        "No violation if she listed with a broker",
+        "A violation only if the buyer is harmed",
+        "No violation for personal residences"
+      ],
+      "explanation": "Licensees must disclose their license status in writing before any binding agreement when buying or selling for their own account. This requirement applies regardless of whether the licensee uses another broker, whether harm occurs, or whether the property is a personal residence.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["licensee-as-principal", "violation", "nevada"]
+    },
+    {
+      "key_topic_ref": "NV-11.3",
+      "question_text": "Which environmental hazard must a Nevada licensee disclose if they have actual knowledge of its presence?",
+      "correct_answer": "Radon, asbestos, or mold if known",
+      "distractors": [
+        "Only hazards confirmed by testing",
+        "Only federally mandated hazards",
+        "None unless buyer requests disclosure"
+      ],
+      "explanation": "Nevada licensees must disclose known environmental hazards including radon, asbestos, and mold. The disclosure obligation is triggered by actual knowledge, not by testing requirements. Waiting for buyer requests does not satisfy the duty to disclose known hazards.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental-disclosure", "hazards", "nevada"]
+    }
+  ]
+}

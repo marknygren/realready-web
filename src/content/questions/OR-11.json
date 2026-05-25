@@ -1,0 +1,298 @@
+{
+  "standard_ref": "OR-11",
+  "scope": "state",
+  "state": "OR",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OR-11.1",
+      "question_text": "A tenant has lived in an Oregon rental unit for 14 months. Under SB 608, what must the landlord have to terminate the tenancy?",
+      "correct_answer": "Just cause for termination",
+      "distractors": [
+        "No special reason after 30-day notice",
+        "Written approval from the tenant",
+        "Permission from the local housing authority"
+      ],
+      "explanation": "Under SB 608 (2019), after 12 months of occupancy, landlords must have 'just cause' to terminate a tenancy. This applies to both at-fault and no-fault terminations.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "ORLTA",
+        "just cause",
+        "SB 608",
+        "termination"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.1",
+      "question_text": "Which is an at-fault cause allowing a landlord to terminate under Oregon's just-cause requirement?",
+      "correct_answer": "Repeated lease violations by the tenant",
+      "distractors": [
+        "Owner plans to move into the unit",
+        "The unit needs substantial repairs",
+        "Sale to a buyer who will occupy"
+      ],
+      "explanation": "At-fault causes include nonpayment of rent, lease violations, and criminal activity. Owner move-in, sale to an occupying buyer, and substantial repairs are no-fault causes requiring different procedures.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "ORLTA",
+        "at-fault",
+        "termination",
+        "lease violations"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.1",
+      "question_text": "An Oregon landlord terminates a tenancy for a no-fault reason after 12 months of occupancy. What must the landlord provide?",
+      "correct_answer": "90-day notice and one month's rent relocation",
+      "distractors": [
+        "30-day notice and security deposit refund",
+        "60-day notice only",
+        "120-day notice with no payment required"
+      ],
+      "explanation": "No-fault terminations (owner move-in, sale to occupying buyer, substantial repairs) require 90-day written notice AND payment of one month's rent as relocation assistance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "ORLTA",
+        "no-fault",
+        "relocation assistance",
+        "90-day notice"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.1",
+      "question_text": "An Oregon tenant discovers a broken furnace in December. The landlord ignores repair requests for two weeks. What remedy is available under ORLTA?",
+      "correct_answer": "Repair and deduct up to one month's rent",
+      "distractors": [
+        "Withhold all rent indefinitely",
+        "Immediately vacate without notice",
+        "File a criminal complaint against landlord"
+      ],
+      "explanation": "Under ORLTA (ORS 90.100-90.840), tenants may repair and deduct up to one month's rent when a landlord fails to maintain habitable premises. Other remedies include terminating the agreement or seeking injunctive relief.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "ORLTA",
+        "repair and deduct",
+        "habitability",
+        "tenant remedies"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.1",
+      "question_text": "Under ORLTA, which tenant remedy allows a court to order a landlord to make specific repairs?",
+      "correct_answer": "Injunctive relief",
+      "distractors": [
+        "Repair and deduct",
+        "Rent abatement",
+        "Constructive eviction claim"
+      ],
+      "explanation": "Injunctive relief is a court order compelling the landlord to perform specific actions such as making repairs. This is one of three main remedies available to Oregon tenants alongside repair-and-deduct and lease termination.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "ORLTA",
+        "injunctive relief",
+        "tenant remedies"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.2",
+      "question_text": "Oregon became the first state in the nation to enact statewide rent control through which law?",
+      "correct_answer": "SB 608, enacted in 2019",
+      "distractors": [
+        "HB 2004, enacted in 2017",
+        "SB 611, enacted in 2023",
+        "ORS 90, enacted in 2015"
+      ],
+      "explanation": "SB 608 (2019) made Oregon the first state in the nation to pass statewide rent control, capping annual rent increases at 7% plus the consumer price index.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "rent control",
+        "SB 608",
+        "statewide"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.2",
+      "question_text": "Under SB 611 (2023), what is the hard cap on annual rent increases in Oregon regardless of CPI?",
+      "correct_answer": "10%",
+      "distractors": [
+        "7%",
+        "12%",
+        "15%"
+      ],
+      "explanation": "SB 611 (2023) amended the original rent control formula to add a hard cap of 10%. Even if 7% + CPI exceeds 10%, landlords cannot raise rent above 10% annually. The 2026 cap is 9.5%.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "rent control",
+        "SB 611",
+        "hard cap",
+        "10%"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.2",
+      "question_text": "A landlord owns a rental home built 8 years ago. Is the property subject to Oregon's statewide rent control cap?",
+      "correct_answer": "No, properties under 15 years old are exempt",
+      "distractors": [
+        "Yes, all rental properties are covered",
+        "Only if the unit is in a city over 50,000",
+        "Only if the landlord owns three or more units"
+      ],
+      "explanation": "Oregon's rent control applies only to units 15 or more years old. Newer construction is exempt to encourage housing development. The exemption is based on the age of the building, not ownership duration.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "rent control",
+        "exemption",
+        "15-year rule"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.2",
+      "question_text": "A manufactured dwelling park with 40 spaces plans a rent increase. What annual cap applies under Oregon law?",
+      "correct_answer": "6% per year",
+      "distractors": [
+        "7% + CPI",
+        "10% hard cap",
+        "No cap for manufactured parks"
+      ],
+      "explanation": "Manufactured dwelling parks with 30 or more spaces are subject to a separate, lower cap of 6% per year on rent increases, distinct from the general 7% + CPI formula for standard rentals.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "manufactured dwelling",
+        "rent control",
+        "6% cap"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.2",
+      "question_text": "How much advance notice must an Oregon landlord provide before raising rent on a covered unit?",
+      "correct_answer": "90 days",
+      "distractors": [
+        "30 days",
+        "60 days",
+        "120 days"
+      ],
+      "explanation": "Oregon law requires landlords to give tenants at least 90 days' written notice before any rent increase takes effect. This applies to all rental units subject to the statewide rent control provisions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "rent increase",
+        "notice",
+        "90 days"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.3",
+      "question_text": "Oregon law sets the maximum security deposit a landlord may collect at:",
+      "correct_answer": "No statutory cap on the deposit amount",
+      "distractors": [
+        "One month of the tenant's rent",
+        "Two months of the tenant's rent",
+        "First and last month's rent combined"
+      ],
+      "explanation": "Unlike many states, Oregon does not impose a statutory cap on security deposit amounts. However, landlords must return deposits within 31 days with an itemized statement of any deductions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "security deposit",
+        "no cap",
+        "ORLTA"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.3",
+      "question_text": "A tenant vacates an Oregon rental on March 1. By what date must the landlord return the security deposit with an itemized statement?",
+      "correct_answer": "April 1 (within 31 days)",
+      "distractors": [
+        "March 15 (within 14 days)",
+        "March 31 (within 30 days)",
+        "April 30 (within 60 days)"
+      ],
+      "explanation": "Oregon requires landlords to return the security deposit with a written itemized statement of deductions within 31 days of the tenant vacating the unit.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "security deposit",
+        "31 days",
+        "return deadline"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.3",
+      "question_text": "An Oregon landlord willfully withholds $800 of a tenant's security deposit without justification. What penalty may the tenant recover?",
+      "correct_answer": "Up to twice the amount wrongfully withheld",
+      "distractors": [
+        "The exact amount withheld only",
+        "Three times the amount withheld",
+        "A flat $500 statutory penalty"
+      ],
+      "explanation": "If a landlord willfully fails to return a security deposit or provide proper accounting, the tenant may recover up to two times the amount wrongfully withheld, in addition to the deposit itself.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "security deposit",
+        "penalty",
+        "2x damages"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.3",
+      "question_text": "For which of the following may an Oregon landlord lawfully deduct from a security deposit?",
+      "correct_answer": "Damage beyond normal wear and tear",
+      "distractors": [
+        "Routine carpet shampooing after 5 years",
+        "Repainting walls with minor scuffs",
+        "Replacing worn-out appliances"
+      ],
+      "explanation": "Landlords may deduct for unpaid rent, damage beyond normal wear and tear, and cleaning costs if specified in the rental agreement. Normal wear and tear, such as minor scuffs or aged carpet, is not deductible.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "security deposit",
+        "deductions",
+        "normal wear"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-11.3",
+      "question_text": "A manufactured dwelling park with 50 spaces plans to close permanently. How much notice must the park owner give residents?",
+      "correct_answer": "365 days",
+      "distractors": [
+        "180 days",
+        "90 days",
+        "30 days"
+      ],
+      "explanation": "Manufactured dwelling parks must provide residents with 365 days' notice before park closure. Rent and eviction protections also apply during the notice period to protect residents from displacement.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "manufactured dwelling",
+        "park closure",
+        "365 days"
+      ]
+    }
+  ]
+}

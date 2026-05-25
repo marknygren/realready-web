@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WA-13",
+  "scope": "state",
+  "state": "WA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WA-13.1",
+      "question_text": "In Washington, who typically handles real estate closings?",
+      "correct_answer": "Licensed escrow agents",
+      "distractors": ["Real estate attorneys", "The listing broker", "County clerks"],
+      "explanation": "Washington is an escrow state, not an attorney state. Closings are handled by licensed escrow agents, which may include title companies, banks, or independent escrow companies. Attorneys are not required for closing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow-closing", "escrow-agents", "closing-process"]
+    },
+    {
+      "key_topic_ref": "WA-13.1",
+      "question_text": "Which Washington state agency oversees escrow agents under the Escrow Agent Registration Act?",
+      "correct_answer": "Department of Financial Institutions",
+      "distractors": ["Department of Licensing", "Office of the Attorney General", "Department of Commerce"],
+      "explanation": "The Escrow Agent Registration Act (RCW 18.44) requires escrow agents to register with the Department of Financial Institutions (DFI), which oversees their licensing and compliance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow-agents", "DFI", "regulation"]
+    },
+    {
+      "key_topic_ref": "WA-13.1",
+      "question_text": "A real estate broker refers a client to an escrow company and asks for a referral fee. Is this permitted in Washington?",
+      "correct_answer": "No, referral fees are prohibited",
+      "distractors": ["Yes, if disclosed to all parties", "Yes, up to $500 per referral", "Yes, with managing broker approval"],
+      "explanation": "Washington law prohibits escrow agents from paying referral fees to real estate brokers. This rule prevents conflicts of interest and ensures that escrow company selection is based on service quality rather than financial incentives.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["escrow-agents", "referral-fees", "prohibited-conduct"]
+    },
+    {
+      "key_topic_ref": "WA-13.1",
+      "question_text": "Which entity may NOT serve as an escrow agent for a Washington real estate closing?",
+      "correct_answer": "An unlicensed real estate assistant",
+      "distractors": ["A title insurance company", "An independent escrow company", "A bank or financial institution"],
+      "explanation": "Title companies, banks, and independent escrow companies may serve as escrow agents in Washington. An unlicensed assistant has no authority to act as an escrow agent under the Escrow Agent Registration Act.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow-agents", "eligible-entities", "RCW-18.44"]
+    },
+    {
+      "key_topic_ref": "WA-13.1",
+      "question_text": "What must a Washington escrow agent disclose to the parties before closing?",
+      "correct_answer": "All escrow fees in writing",
+      "distractors": ["The seller's net proceeds only", "The buyer's credit score", "The broker's commission rate"],
+      "explanation": "Washington escrow agents are required to disclose their fees in writing to all parties. This ensures transparency in the closing process and allows parties to understand costs before proceeding.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow-agents", "fee-disclosure", "transparency"]
+    },
+    {
+      "key_topic_ref": "WA-13.2",
+      "question_text": "A Washington home sells for $600,000. What is the state REET on this sale before any local additions?",
+      "correct_answer": "$6,600",
+      "distractors": ["$6,735", "$7,200", "$7,680"],
+      "explanation": "Washington REET uses graduated rates. As of 2026, the first $750,000 is taxed at 1.10%. Since the entire $600,000 falls within this first tier, the state REET is $600,000 x 1.10% = $6,600.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["REET", "graduated-rates", "tax-calculation"]
+    },
+    {
+      "key_topic_ref": "WA-13.2",
+      "question_text": "Which Washington REET rate applies to the portion of a sale price between $750,001 and $1,525,000?",
+      "correct_answer": "1.28%",
+      "distractors": ["1.10%", "2.75%", "3.00%"],
+      "explanation": "Washington's 2026 graduated REET rates are: up to $750K at 1.10%, $750K–$1.525M at 1.28%, $1.525M–$3.025M at 2.75%, and over $3.025M at 3.00%. Each rate applies only to the portion within that tier.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["REET", "graduated-rates", "tax-tiers"]
+    },
+    {
+      "key_topic_ref": "WA-13.2",
+      "question_text": "A property transfers from a deceased parent to an heir. How is this treated for Washington REET purposes?",
+      "correct_answer": "Exempt from REET",
+      "distractors": ["Taxed at the 1.10% base rate", "Taxed at a flat 1.28% rate", "Subject to local REET only"],
+      "explanation": "Transfers by inheritance are exempt from Washington's Real Estate Excise Tax. Other exemptions include gifts, spousal/domestic partner transfers, and government transfers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["REET", "exemptions", "inheritance"]
+    },
+    {
+      "key_topic_ref": "WA-13.2",
+      "question_text": "Who is primarily responsible for paying the Washington Real Estate Excise Tax?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "Both parties equally", "The escrow agent"],
+      "explanation": "In Washington, the seller is primarily responsible for paying REET, though the payment is processed through escrow at closing. The parties may negotiate otherwise, but the default obligation falls on the seller.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["REET", "seller-responsibility", "closing-costs"]
+    },
+    {
+      "key_topic_ref": "WA-13.2",
+      "question_text": "What flat REET rate applies to qualifying agricultural land in Washington?",
+      "correct_answer": "1.28%",
+      "distractors": ["1.10%", "2.75%", "0% — agricultural land is exempt"],
+      "explanation": "Agricultural land and timberland in Washington are taxed at a flat 1.28% REET rate regardless of sale price, rather than the standard graduated rate schedule that applies to other property types.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["REET", "agricultural-land", "flat-rate"]
+    },
+    {
+      "key_topic_ref": "WA-13.3",
+      "question_text": "Who prepares the settlement statement for a Washington real estate closing?",
+      "correct_answer": "The escrow agent",
+      "distractors": ["The listing broker", "The buyer's lender", "The title examiner"],
+      "explanation": "In Washington, the escrow agent prepares the settlement statement, which includes debits, credits, prorations, and closing costs. Both the buyer and seller receive copies of this document.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["settlement-statement", "escrow-agent", "closing"]
+    },
+    {
+      "key_topic_ref": "WA-13.3",
+      "question_text": "A Washington property closes on June 15. The annual property tax is $6,000. The first half was paid April 30. How is the second-half tax prorated?",
+      "correct_answer": "Seller owes 46 days of the second half",
+      "distractors": ["Buyer owes the full second half", "Seller owes the entire annual tax", "No proration is needed"],
+      "explanation": "Washington property taxes are due April 30 (first half) and October 31 (second half). Since the seller paid through April 30, the second half covers May 1–October 31. Closing on June 15 means the seller owes 46 days (May 1–June 15) and the buyer owes the remainder.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prorations", "property-tax", "settlement"]
+    },
+    {
+      "key_topic_ref": "WA-13.3",
+      "question_text": "When are Washington property taxes due each year?",
+      "correct_answer": "April 30 and October 31",
+      "distractors": ["January 1 and July 1", "March 15 and September 15", "June 30 and December 31"],
+      "explanation": "Washington property taxes are payable in two installments: the first half is due April 30, and the second half is due October 31. These dates are critical for accurate proration calculations at closing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "due-dates", "prorations"]
+    },
+    {
+      "key_topic_ref": "WA-13.3",
+      "question_text": "Which items appear on a Washington settlement statement?",
+      "correct_answer": "Debits, credits, and prorations",
+      "distractors": ["Only the purchase price", "Broker commissions only", "Tax returns and pay stubs"],
+      "explanation": "The Washington settlement statement prepared by the escrow agent includes debits, credits, prorations, and closing costs for both parties. Both the buyer and seller receive copies for their records.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["settlement-statement", "contents", "closing"]
+    },
+    {
+      "key_topic_ref": "WA-13.3",
+      "question_text": "A seller's property taxes were prepaid for the full year. How does this affect the settlement statement at a mid-year closing?",
+      "correct_answer": "Buyer credits seller for unused portion",
+      "distractors": ["Seller forfeits the prepaid amount", "County refunds seller directly", "No adjustment is made at closing"],
+      "explanation": "When property taxes have been prepaid beyond the closing date, the buyer must credit the seller for the unused portion on the settlement statement. This ensures the seller is reimbursed for taxes covering the buyer's ownership period.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["prorations", "prepaid-taxes", "settlement-credit"]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "standard_ref": "IA-08",
+  "scope": "state",
+  "state": "IA",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "IA-08.1",
+      "question_text": "An unlicensed assistant at an Iowa brokerage answers phones and schedules showing appointments. Is this activity permitted?",
+      "correct_answer": "Yes, these are permitted clerical activities",
+      "distractors": [
+        "No, scheduling showings requires a license",
+        "Only if the assistant has a license pending",
+        "Yes, but only under direct agent observation"
+      ],
+      "explanation": "Iowa law allows unlicensed assistants to perform clerical and administrative tasks such as answering phones and scheduling appointments. These activities do not require real estate licensure because they do not involve negotiation, property evaluation, or substantive real estate advice.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "permitted_activities", "clerical"]
+    },
+    {
+      "key_topic_ref": "IA-08.1",
+      "question_text": "Which task may an unlicensed assistant perform in an Iowa real estate office?",
+      "correct_answer": "Assembling documents for closing",
+      "distractors": [
+        "Explaining contract terms to a buyer",
+        "Conducting a property showing for a sale",
+        "Providing a comparative market analysis"
+      ],
+      "explanation": "Unlicensed assistants may perform administrative tasks such as assembling closing documents, placing signs, delivering keys, and bookkeeping. They cannot explain contracts, show properties for sale, or provide market analyses, as these are licensed activities.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "permitted_activities", "closing_docs"]
+    },
+    {
+      "key_topic_ref": "IA-08.1",
+      "question_text": "Under HF 2326 (April 2024), a non-licensed broker employee in Iowa shows a residential rental unit to a prospective tenant. Is this lawful?",
+      "correct_answer": "Yes, HF 2326 permits residential rental showings",
+      "distractors": [
+        "No, all property showings require licensure",
+        "Only if the prospective tenant signed a waiver",
+        "Yes, but only for commercial rental properties"
+      ],
+      "explanation": "HF 2326 (effective April 2024) expanded what non-licensed broker employees may do for residential rentals only. This includes showing rental units, collecting rent and deposits, completing forms, and advertising. These allowances do not extend to sales transactions or commercial properties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "HF_2326", "residential_rentals", "showings"]
+    },
+    {
+      "key_topic_ref": "IA-08.1",
+      "question_text": "A broker's non-licensed employee in Iowa collects a security deposit for a residential rental and completes the lease form. Under HF 2326, is this permitted?",
+      "correct_answer": "Yes, both activities are allowed for rentals",
+      "distractors": [
+        "Deposit collection yes, form completion no",
+        "No, both require licensure regardless",
+        "Only if the broker co-signs the lease"
+      ],
+      "explanation": "HF 2326 permits non-licensed broker employees to collect rent and security deposits and complete forms for residential rentals. Both activities fall within the expanded scope of permitted activities for non-licensed employees under this 2024 law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "HF_2326", "deposit_collection", "form_completion"]
+    },
+    {
+      "key_topic_ref": "IA-08.1",
+      "question_text": "Under HF 2326, a non-licensed employee shows a commercial office space to a prospective tenant. Is this permitted?",
+      "correct_answer": "No, the rental exemption is residential only",
+      "distractors": [
+        "Yes, HF 2326 covers all rental types",
+        "Yes, if the broker provides written consent",
+        "Only if the space is under 2,000 square feet"
+      ],
+      "explanation": "HF 2326 expanded unlicensed employee activities exclusively for residential rentals. Commercial property showings, leasing, and related activities still require a real estate license. The residential-only limitation is a key restriction of this law.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "HF_2326", "commercial_excluded", "residential_only"]
+    },
+    {
+      "key_topic_ref": "IA-08.2",
+      "question_text": "An unlicensed assistant in Iowa shows a home for sale to prospective buyers while the listing agent is unavailable. What is the consequence?",
+      "correct_answer": "The broker faces disciplinary action",
+      "distractors": [
+        "The assistant receives a fine only",
+        "No consequence if no offer is made",
+        "A warning is issued to the salesperson"
+      ],
+      "explanation": "Showing properties for sale is a licensed activity that unlicensed assistants cannot perform. Under Iowa law, the broker is responsible for the conduct of unlicensed assistants and faces disciplinary action when an assistant performs prohibited activities.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "prohibited", "showing_sales", "broker_liability"]
+    },
+    {
+      "key_topic_ref": "IA-08.2",
+      "question_text": "Which activity is an unlicensed assistant in Iowa PROHIBITED from performing?",
+      "correct_answer": "Negotiating the terms of a purchase offer",
+      "distractors": [
+        "Placing a for-sale sign on a property",
+        "Delivering documents to a title company",
+        "Filing transaction paperwork in the office"
+      ],
+      "explanation": "Unlicensed assistants may not negotiate terms, discuss or explain contracts, show properties for sale, give value opinions, or hold themselves out as licensed. Placing signs, delivering documents, and filing paperwork are all permitted clerical activities.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "prohibited", "negotiation"]
+    },
+    {
+      "key_topic_ref": "IA-08.2",
+      "question_text": "An unlicensed assistant at an open house tells visitors the home is 'worth at least $400,000 based on recent sales.' What rule has been violated?",
+      "correct_answer": "Giving a value opinion is a licensed activity",
+      "distractors": [
+        "No violation if the opinion is accurate",
+        "Violation only if it appears in writing",
+        "Permitted at open houses supervised by an agent"
+      ],
+      "explanation": "Unlicensed assistants are prohibited from giving opinions of value. Stating a property is 'worth at least $400,000' constitutes a value opinion regardless of accuracy, whether it is verbal or written, or whether a licensed agent is present at the open house.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "prohibited", "value_opinion"]
+    },
+    {
+      "key_topic_ref": "IA-08.2",
+      "question_text": "An unlicensed assistant introduces herself to clients as a 'real estate associate' and hands out business cards with that title. What violation has occurred?",
+      "correct_answer": "Holding out as a licensed professional",
+      "distractors": [
+        "Using a title without broker approval",
+        "No violation if the cards include the brokerage",
+        "Violation only if she performs licensed acts"
+      ],
+      "explanation": "Iowa prohibits unlicensed assistants from holding themselves out as licensed real estate professionals. Using the title 'real estate associate' on business cards implies licensure and misleads consumers, regardless of whether licensed activities are actually performed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "prohibited", "holding_out", "misrepresentation"]
+    },
+    {
+      "key_topic_ref": "IA-08.2",
+      "question_text": "An Iowa broker claims an unlicensed assistant acted independently in conducting an open house. Does this defense shield the broker from discipline?",
+      "correct_answer": "No, the broker is responsible regardless",
+      "distractors": [
+        "Yes, if the broker was unaware",
+        "Yes, if the assistant signed a disclaimer",
+        "Only if the broker can prove no supervision"
+      ],
+      "explanation": "Iowa law places responsibility for unlicensed assistant conduct squarely on the supervising broker. An unlicensed assistant cannot independently conduct open houses, and the broker cannot avoid disciplinary action by claiming ignorance or lack of authorization.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "broker_liability", "open_house", "supervision"]
+    }
+  ]
+}

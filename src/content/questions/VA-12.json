@@ -1,0 +1,228 @@
+{
+  "standard_ref": "VA-12",
+  "scope": "state",
+  "state": "VA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "VA-12.1",
+      "question_text": "In Virginia, who typically oversees the real estate settlement process?",
+      "correct_answer": "An attorney acting as settlement agent",
+      "distractors": ["A title company representative only", "The buyer's real estate agent", "An escrow officer from a bank"],
+      "explanation": "Virginia is an attorney state where an attorney typically oversees settlements, unlike states such as California where escrow companies handle closings.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney-state", "settlement-agent", "closing"]
+    },
+    {
+      "key_topic_ref": "VA-12.1",
+      "question_text": "Under TRID rules, who prepares the Closing Disclosure for a Virginia residential closing?",
+      "correct_answer": "The settlement agent",
+      "distractors": ["The buyer's real estate agent", "The local circuit court clerk", "The Virginia Real Estate Board"],
+      "explanation": "Under TILA-RESPA Integrated Disclosure (TRID) rules, the settlement agent prepares the Closing Disclosure, which must be provided to the borrower at least three business days before closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TRID", "closing-disclosure", "settlement-agent"]
+    },
+    {
+      "key_topic_ref": "VA-12.1",
+      "question_text": "A Virginia settlement agent's duties include preparing closing documents and:",
+      "correct_answer": "Handling fund disbursement after closing",
+      "distractors": ["Negotiating the purchase price for buyers", "Inspecting the property before settlement", "Approving the buyer's mortgage application"],
+      "explanation": "The settlement agent in Virginia prepares closing documents, ensures all conditions are met, and handles the disbursement of funds to the appropriate parties after closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["settlement-agent", "fund-disbursement", "closing-duties"]
+    },
+    {
+      "key_topic_ref": "VA-12.1",
+      "question_text": "A buyer relocating from California to Virginia expects an escrow company to handle closing. The agent should explain that Virginia uses:",
+      "correct_answer": "Attorney-supervised settlement instead",
+      "distractors": ["The same escrow process as California", "A title company without attorney oversight", "A county government closing officer"],
+      "explanation": "Virginia is an attorney state where settlements are typically overseen by attorneys, unlike California where independent escrow companies commonly handle closings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["attorney-state", "escrow-comparison", "California-vs-Virginia"]
+    },
+    {
+      "key_topic_ref": "VA-12.1",
+      "question_text": "In Virginia, who ensures all closing conditions are met and funds are properly distributed at settlement?",
+      "correct_answer": "The settlement agent",
+      "distractors": ["The buyer's real estate agent", "The listing agent for the seller", "The mortgage lender's processor"],
+      "explanation": "In Virginia, the settlement agent (typically an attorney or title company with attorney supervision) verifies all closing conditions, prepares documents, and handles proper disbursement of funds to all parties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["settlement-agent", "fund-disbursement", "closing"]
+    },
+    {
+      "key_topic_ref": "VA-12.2",
+      "question_text": "An owner's title insurance policy in Virginia protects which party?",
+      "correct_answer": "The buyer against title defects",
+      "distractors": ["The lender against loan default", "The seller against future claims", "The agent against commission disputes"],
+      "explanation": "An owner's title insurance policy protects the buyer (new owner) against losses from title defects, liens, or encumbrances that existed before the policy date but were not discovered during the title search.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-insurance", "owners-policy", "buyer-protection"]
+    },
+    {
+      "key_topic_ref": "VA-12.2",
+      "question_text": "A Virginia buyer purchases owner's title insurance at closing. This policy protects against losses from:",
+      "correct_answer": "Title defects existing before the policy date",
+      "distractors": ["Physical damage to the property structure", "Future zoning changes by the locality", "Mortgage interest rate increases"],
+      "explanation": "An owner's title insurance policy protects the Virginia buyer against losses from undiscovered title defects, liens, or encumbrances that existed before the policy's effective date but were not found during the title search.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-insurance", "owners-policy", "coverage"]
+    },
+    {
+      "key_topic_ref": "VA-12.2",
+      "question_text": "Before closing in Virginia, a title examination is conducted to:",
+      "correct_answer": "Identify liens, defects, or encumbrances on title",
+      "distractors": ["Determine the property's fair market value", "Verify the buyer's creditworthiness", "Inspect the physical condition of the home"],
+      "explanation": "A title examination searches public records to identify any liens, defects, or encumbrances that could affect the buyer's ownership rights. This is completed before closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-examination", "liens", "encumbrances"]
+    },
+    {
+      "key_topic_ref": "VA-12.2",
+      "question_text": "A lender's title insurance policy in Virginia protects the lender up to what amount?",
+      "correct_answer": "The outstanding loan balance",
+      "distractors": ["The full purchase price of the property", "The appraised value at closing", "The original loan amount permanently"],
+      "explanation": "A lender's title insurance policy protects the lender's interest up to the outstanding loan balance, which decreases as the borrower pays down the mortgage.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lenders-policy", "loan-balance", "title-insurance"]
+    },
+    {
+      "key_topic_ref": "VA-12.2",
+      "question_text": "A title search in Virginia reveals an old mechanics lien. The settlement agent should:",
+      "correct_answer": "Require the lien to be resolved before closing",
+      "distractors": ["Ignore it if more than one year old", "Transfer the lien to the new buyer", "Record the deed over the existing lien"],
+      "explanation": "Outstanding liens must be resolved before closing to ensure the buyer receives clear title. The settlement agent works to have liens satisfied or addressed prior to transfer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["mechanics-lien", "title-search", "clear-title"]
+    },
+    {
+      "key_topic_ref": "VA-12.3",
+      "question_text": "In Virginia, real estate deeds are recorded in the clerk's office of which court?",
+      "correct_answer": "The circuit court where the property is located",
+      "distractors": ["The state Supreme Court in Richmond", "The general district court of the county", "The federal district court of the region"],
+      "explanation": "Virginia deeds are recorded in the clerk's office of the circuit court in the jurisdiction where the property is located. Recording provides constructive notice to the public.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "circuit-court", "constructive-notice"]
+    },
+    {
+      "key_topic_ref": "VA-12.3",
+      "question_text": "Recording a deed in Virginia provides what type of notice to the public?",
+      "correct_answer": "Constructive notice",
+      "distractors": ["Actual notice only", "Inquiry notice only", "No legal notice"],
+      "explanation": "Recording a deed in Virginia's public records provides constructive notice, meaning all parties are legally presumed to know about the recorded interest regardless of whether they actually searched the records.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["constructive-notice", "recording", "public-records"]
+    },
+    {
+      "key_topic_ref": "VA-12.3",
+      "question_text": "Virginia follows a race-notice recording statute. Buyer A purchases first but does not record. Buyer B then purchases and records without knowledge of Buyer A. Who prevails?",
+      "correct_answer": "Buyer B, who recorded first without notice",
+      "distractors": ["Buyer A, who purchased first in time", "Neither, and the property reverts to seller", "The court splits ownership equally"],
+      "explanation": "Under Virginia's race-notice statute, a subsequent purchaser who records first and had no notice of the prior unrecorded claim prevails over the earlier purchaser who failed to record.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["race-notice", "recording-statute", "priority"]
+    },
+    {
+      "key_topic_ref": "VA-12.3",
+      "question_text": "Under Virginia's race-notice statute, which two conditions must a subsequent buyer meet to prevail over a prior unrecorded deed?",
+      "correct_answer": "Record first and have no notice of prior claim",
+      "distractors": ["Pay a higher price and record first", "File a court action and obtain title insurance", "Obtain a survey and record within 30 days"],
+      "explanation": "Virginia's race-notice statute requires two conditions: the subsequent buyer must (1) record before the prior buyer and (2) have no actual or constructive notice of the prior unrecorded interest.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["race-notice", "two-conditions", "recording-priority"]
+    },
+    {
+      "key_topic_ref": "VA-12.3",
+      "question_text": "A buyer in Virginia does not record the deed after closing. What risk does the buyer face?",
+      "correct_answer": "A subsequent buyer without notice could prevail",
+      "distractors": ["The deed becomes void after 90 days", "The seller can cancel the transaction", "Property taxes will not be assessed"],
+      "explanation": "Under Virginia's race-notice statute, failure to record leaves the buyer vulnerable. A later purchaser who buys without notice and records first could obtain superior title.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["failure-to-record", "risk", "race-notice"]
+    },
+    {
+      "key_topic_ref": "VA-12.4",
+      "question_text": "Which deed type provides the most protection to a buyer in Virginia?",
+      "correct_answer": "General warranty deed",
+      "distractors": ["Special warranty deed", "Bargain and sale deed", "Quitclaim deed"],
+      "explanation": "A general warranty deed provides the most protection because the grantor warrants title against all defects, including those arising before the grantor's ownership, with all statutory covenants.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["general-warranty", "deed-types", "buyer-protection"]
+    },
+    {
+      "key_topic_ref": "VA-12.4",
+      "question_text": "A seller conveys property using a special warranty deed. The seller's warranties are limited to:",
+      "correct_answer": "Defects arising during the seller's ownership",
+      "distractors": ["All defects in the chain of title", "Only liens recorded in the past year", "Physical defects found during inspection"],
+      "explanation": "A special warranty deed limits the grantor's warranties to the period of the grantor's ownership. The grantor does not warrant against title defects that arose before they acquired the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["special-warranty", "limited-warranty", "grantor-period"]
+    },
+    {
+      "key_topic_ref": "VA-12.4",
+      "question_text": "A family member transfers property using a quitclaim deed in Virginia. This deed provides:",
+      "correct_answer": "No warranties about the quality of title",
+      "distractors": ["Full warranties against all title defects", "Warranties limited to the transfer period", "An implied warranty of marketable title"],
+      "explanation": "A quitclaim deed conveys whatever interest the grantor may have without any warranties. It is commonly used for transfers between family members or to clear title clouds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["quitclaim", "no-warranties", "family-transfer"]
+    },
+    {
+      "key_topic_ref": "VA-12.4",
+      "question_text": "A bargain and sale deed in Virginia differs from a quitclaim deed because a bargain and sale deed:",
+      "correct_answer": "Implies the grantor holds title to the property",
+      "distractors": ["Includes all statutory covenants of title", "Requires title insurance before delivery", "Must be approved by the circuit court"],
+      "explanation": "A bargain and sale deed contains no express warranties but implies that the grantor holds title. A quitclaim deed makes no such implication and simply conveys whatever interest exists.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["bargain-and-sale", "implied-title", "deed-comparison"]
+    },
+    {
+      "key_topic_ref": "VA-12.4",
+      "question_text": "A buyer purchasing a foreclosed property in Virginia receives a special warranty deed. The buyer should be aware that:",
+      "correct_answer": "Title defects before the seller's ownership are excluded",
+      "distractors": ["The deed provides no protection at all", "All prior liens are automatically cleared", "The deed guarantees the full chain of title"],
+      "explanation": "A special warranty deed only covers defects during the grantor's period of ownership. For foreclosed properties, title issues predating the foreclosing entity's ownership would not be warranted.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["special-warranty", "foreclosure", "title-risk"]
+    }
+  ]
+}

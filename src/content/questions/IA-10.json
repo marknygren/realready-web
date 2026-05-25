@@ -1,0 +1,173 @@
+{
+  "standard_ref": "IA-10",
+  "scope": "state",
+  "state": "IA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IA-10.1",
+      "question_text": "In Iowa, when does a purchase agreement become binding on all parties?",
+      "correct_answer": "On acceptance and communication to buyer",
+      "distractors": ["When the buyer signs the initial offer", "When the earnest money is deposited", "When the seller verbally agrees to terms"],
+      "explanation": "In Iowa, a purchase agreement becomes binding when the seller accepts the offer AND that acceptance is communicated back to the buyer or buyer's agent. Simply signing the acceptance without communication is insufficient to create a binding contract.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["purchase agreement", "contract formation", "acceptance"]
+    },
+    {
+      "key_topic_ref": "IA-10.1",
+      "question_text": "A buyer submits an offer on a home. The seller signs it Saturday evening but the listing agent does not notify the buyer's agent until Monday. When is the contract formed?",
+      "correct_answer": "Monday when acceptance is communicated",
+      "distractors": ["Saturday when the seller signed", "Sunday at midnight automatically", "When the earnest money check clears"],
+      "explanation": "Iowa requires both acceptance and communication of that acceptance for a binding contract. The seller's signature alone on Saturday did not form the contract. The contract was formed Monday when the buyer's agent received notice of acceptance.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contract formation", "communication", "acceptance"]
+    },
+    {
+      "key_topic_ref": "IA-10.1",
+      "question_text": "Which organization publishes standardized real estate forms commonly used in Iowa transactions?",
+      "correct_answer": "Iowa Association of REALTORS",
+      "distractors": ["Iowa Real Estate Commission", "Iowa State Bar Association", "Iowa Department of Commerce"],
+      "explanation": "The Iowa Association of REALTORS (IAR) publishes standardized purchase agreement forms widely used in Iowa transactions. Unlike some states where the real estate commission mandates specific forms, Iowa's Commission does not require particular forms.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["IAR", "forms", "purchase agreement"]
+    },
+    {
+      "key_topic_ref": "IA-10.1",
+      "question_text": "A buyer and seller negotiate a home sale entirely through text messages. Under Iowa's Statute of Frauds, is this agreement enforceable?",
+      "correct_answer": "No, real estate contracts must be in writing",
+      "distractors": ["Yes, text messages are valid contracts", "Only if both parties are licensed agents", "Yes, if a witness can confirm the texts"],
+      "explanation": "Iowa's Statute of Frauds requires real estate contracts to be in writing and signed by the parties to be enforceable. Informal text messages typically do not satisfy the writing requirement for the transfer of an interest in real property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute of frauds", "writing requirement", "enforceability"]
+    },
+    {
+      "key_topic_ref": "IA-10.1",
+      "question_text": "Iowa standardized real estate forms are published by IAR. What is the Commission's role regarding these forms?",
+      "correct_answer": "The Commission does not mandate their use",
+      "distractors": ["The Commission requires their use statewide", "The Commission drafts all approved forms", "The Commission must approve every revision"],
+      "explanation": "Unlike states such as Texas where the real estate commission mandates use of specific forms, Iowa's Real Estate Commission does not require licensees to use IAR forms. However, IAR forms are widely used because they are designed to comply with Iowa law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["IAR", "commission", "forms", "regulation"]
+    },
+    {
+      "key_topic_ref": "IA-10.2",
+      "question_text": "Is earnest money legally required to form a valid purchase agreement in Iowa?",
+      "correct_answer": "No, customary but not required",
+      "distractors": ["Yes, at least 1% of the sale price", "Yes, a minimum deposit of $500", "Yes, both parties must contribute"],
+      "explanation": "In Iowa, earnest money is customary in real estate transactions but is not legally required to create a valid contract. Consideration can take other forms. However, most sellers expect earnest money as a sign of good faith.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest money", "contract validity", "consideration"]
+    },
+    {
+      "key_topic_ref": "IA-10.2",
+      "question_text": "A buyer's purchase agreement includes a financing contingency. The lender denies the loan before closing. What is the buyer's position?",
+      "correct_answer": "Buyer may terminate and recover earnest money",
+      "distractors": ["Buyer must proceed to close without financing", "Seller keeps all of the earnest money deposited", "Buyer must find a replacement lender immediately"],
+      "explanation": "A financing contingency protects the buyer if they cannot obtain the specified financing. If the lender denies the loan and the contingency has not expired, the buyer can terminate the contract and receive a refund of earnest money.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["financing contingency", "earnest money", "termination"]
+    },
+    {
+      "key_topic_ref": "IA-10.2",
+      "question_text": "An Iowa purchase agreement states closing will occur on June 15, with a 'time is of the essence' clause. The buyer requests a June 20 closing. What must happen?",
+      "correct_answer": "Both parties must agree in writing to extend",
+      "distractors": ["The 5-day delay is automatically allowed", "The seller must accept if buyer has financing", "The listing agent can approve the extension"],
+      "explanation": "When 'time is of the essence' is included in an Iowa purchase agreement, all deadlines are strictly enforced. Any extension of the closing date requires a written agreement signed by both parties. Missing the deadline without an extension could constitute a breach.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["time is of the essence", "closing date", "extension"]
+    },
+    {
+      "key_topic_ref": "IA-10.2",
+      "question_text": "Which of the following is a common contingency found in Iowa purchase agreements?",
+      "correct_answer": "Sale of the buyer's current home",
+      "distractors": ["Seller's approval of buyer's employer", "Buyer's astrological reading", "Approval by the county assessor"],
+      "explanation": "Sale-of-home contingencies are common in Iowa, allowing buyers to make their purchase contingent on selling their current property. Other standard contingencies include financing, inspection, and appraisal contingencies.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contingencies", "sale of home", "purchase agreement"]
+    },
+    {
+      "key_topic_ref": "IA-10.2",
+      "question_text": "A buyer wants to extend the inspection deadline in an Iowa purchase agreement. How must this be handled?",
+      "correct_answer": "Written amendment signed by both parties",
+      "distractors": ["The buyer can extend it unilaterally", "A verbal agreement between the parties", "The home inspector decides the new date"],
+      "explanation": "All modifications to an Iowa purchase agreement, including extending contingency deadlines, must be in writing and signed by both parties. Verbal agreements to modify real estate contracts are not enforceable under the Statute of Frauds.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["amendment", "inspection", "contingency", "writing requirement"]
+    },
+    {
+      "key_topic_ref": "IA-10.3",
+      "question_text": "An Iowa licensee is asked to draft a complex installment contract with unusual terms. What should the licensee do?",
+      "correct_answer": "Refer the client to an attorney",
+      "distractors": ["Draft the contract using IAR forms", "Create a custom contract from scratch", "Ask the broker to draft the document"],
+      "explanation": "Iowa is an attorney state for real estate transactions. Licensees may only fill in blanks on approved forms and must not draft complex legal documents. Complex contracts with unusual terms require an attorney to avoid the unauthorized practice of law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unauthorized practice of law", "attorney state", "drafting"]
+    },
+    {
+      "key_topic_ref": "IA-10.3",
+      "question_text": "What is the scope of activity permitted for Iowa licensees when preparing purchase agreements?",
+      "correct_answer": "Filling in blanks on approved forms only",
+      "distractors": ["Drafting any contract the client needs", "Writing custom addenda with legal clauses", "Modifying pre-printed legal language"],
+      "explanation": "Iowa licensees are limited to filling in the blanks on approved standardized forms. They cannot draft custom legal documents, write complex addenda, or modify pre-printed legal language. Doing so constitutes the unauthorized practice of law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["approved forms", "fill in blanks", "scope of practice"]
+    },
+    {
+      "key_topic_ref": "IA-10.3",
+      "question_text": "Under Iowa's 2025 administrative rules (Chapter 22), what new requirement applies to real estate wholesaling?",
+      "correct_answer": "Wholesaling disclosure is now required",
+      "distractors": ["Wholesaling is completely prohibited statewide", "No license is needed for wholesaling activity", "Only licensed brokers may engage in wholesaling"],
+      "explanation": "Iowa's 2025 administrative rules under Chapter 22 require disclosure in wholesale real estate transactions. This ensures consumers understand the nature of the transaction and that the wholesaler intends to assign the contract rather than purchase the property.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wholesaling", "disclosure", "Chapter 22", "2025 rules"]
+    },
+    {
+      "key_topic_ref": "IA-10.3",
+      "question_text": "A seller asks their agent to add a hold-harmless clause to the purchase agreement. The agent should:",
+      "correct_answer": "Advise the seller to consult an attorney",
+      "distractors": ["Add the clause using standard language", "Write the clause based on online templates", "Have the broker draft the clause"],
+      "explanation": "A hold-harmless clause is a complex legal provision that goes beyond filling in blanks on approved forms. In Iowa, an attorney state, licensees must refer clients to attorneys for any custom legal drafting to avoid the unauthorized practice of law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unauthorized practice of law", "attorney", "legal drafting"]
+    },
+    {
+      "key_topic_ref": "IA-10.3",
+      "question_text": "Which statement best describes Iowa's classification regarding real estate closings?",
+      "correct_answer": "Iowa is considered an attorney state",
+      "distractors": ["Iowa allows agents to conduct closings alone", "Iowa has no restrictions on document prep", "Iowa requires notary-only closings"],
+      "explanation": "Iowa is classified as an attorney state, meaning attorneys play a significant role in real estate transactions. While agents can fill in blanks on approved forms, complex legal drafting and certain closing activities require attorney involvement.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney state", "closing practices", "Iowa classification"]
+    }
+  ]
+}

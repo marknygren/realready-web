@@ -1,0 +1,118 @@
+{
+  "standard_ref": "MI-14",
+  "scope": "state",
+  "state": "MI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MI-14.1",
+      "question_text": "What is the Michigan county transfer tax rate?",
+      "correct_answer": "$1.10 per $1,000 of sale price",
+      "distractors": ["$3.75 per $1,000 of sale price", "$7.50 per $1,000 of sale price", "$0.55 per $1,000 of sale price"],
+      "explanation": "Michigan's county transfer tax rate is $0.55 per $500, which equals $1.10 per $1,000 of the sale price.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-tax", "county-rate", "calculation"]
+    },
+    {
+      "key_topic_ref": "MI-14.1",
+      "question_text": "What is the Michigan state transfer tax rate per $500 of value?",
+      "correct_answer": "$3.75 per $500",
+      "distractors": ["$0.55 per $500", "$4.30 per $500", "$7.50 per $500"],
+      "explanation": "The Michigan state transfer tax rate is $3.75 per $500 of value, which equates to $7.50 per $1,000. This is separate from and in addition to the county transfer tax.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-tax", "state-rate", "per-500"]
+    },
+    {
+      "key_topic_ref": "MI-14.1",
+      "question_text": "A Michigan property sells for $350,000. What is the combined county and state transfer tax?",
+      "correct_answer": "$3,010",
+      "distractors": ["$2,625", "$385", "$1,505"],
+      "explanation": "The combined rate is $8.60 per $1,000. For $350,000: $350 x $8.60 = $3,010. Alternatively, county ($1.10 x 350 = $385) plus state ($7.50 x 350 = $2,625) = $3,010.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "combined", "calculation"]
+    },
+    {
+      "key_topic_ref": "MI-14.1",
+      "question_text": "A buyer purchases a Michigan home for $247,300. Transfer taxes are calculated in $500 increments. How many increments apply?",
+      "correct_answer": "495 increments",
+      "distractors": ["494 increments", "496 increments", "247 increments"],
+      "explanation": "Michigan transfer taxes are computed in $500 increments, rounding up any partial increment. $247,300 / $500 = 494.6, which rounds up to 495 increments (covering $247,500). The total tax would be 495 x $4.30 = $2,128.50.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "increments", "rounding"]
+    },
+    {
+      "key_topic_ref": "MI-14.1",
+      "question_text": "When are Michigan real estate transfer taxes paid?",
+      "correct_answer": "At the time of recording the deed",
+      "distractors": ["Within 30 days of closing", "At the time the offer is accepted", "When the mortgage is approved"],
+      "explanation": "Michigan transfer taxes are paid at the time the deed is recorded with the county register of deeds. The taxes must be paid before the deed will be accepted for recording.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-tax", "recording", "timing"]
+    },
+    {
+      "key_topic_ref": "MI-14.2",
+      "question_text": "A Michigan couple divorces and one spouse transfers their interest in the marital home to the other. What transfer tax applies?",
+      "correct_answer": "The transfer is exempt from transfer tax",
+      "distractors": ["Only the county transfer tax applies", "Only the state transfer tax applies", "The full combined transfer tax is owed"],
+      "explanation": "Transfers between spouses as part of a divorce decree are exempt from Michigan real estate transfer taxes. This exemption applies to both the county and state portions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "exemption", "divorce"]
+    },
+    {
+      "key_topic_ref": "MI-14.2",
+      "question_text": "A property sells for $200,000 in Michigan. What is the total transfer tax?",
+      "correct_answer": "$1,720",
+      "distractors": ["$860", "$1,500", "$2,000"],
+      "explanation": "Combined rate is $8.60 per $1,000. For $200,000: 200 x $8.60 = $1,720. County portion is $220 ($1.10 x 200) and state portion is $1,500 ($7.50 x 200).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "calculation", "200k-example"]
+    },
+    {
+      "key_topic_ref": "MI-14.2",
+      "question_text": "A father gifts a vacant Michigan lot valued at $85 to his son. Is transfer tax owed?",
+      "correct_answer": "No, transfers under $100 are exempt",
+      "distractors": ["Yes, all transfers require the tax", "Only the state portion is owed", "Only if the lot is residential"],
+      "explanation": "Michigan exempts transfers where the total consideration is less than $100 from both county and state transfer taxes.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "exemption", "under-100"]
+    },
+    {
+      "key_topic_ref": "MI-14.2",
+      "question_text": "In a typical Michigan residential sale, which party customarily pays the transfer tax?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "Both parties equally", "The closing agent"],
+      "explanation": "In Michigan, the seller customarily pays the real estate transfer tax, though this can be negotiated between the parties as part of the purchase agreement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-tax", "seller-pays", "custom"]
+    },
+    {
+      "key_topic_ref": "MI-14.2",
+      "question_text": "A lender records a mortgage on a Michigan property. Is transfer tax due on this recording?",
+      "correct_answer": "No, security instruments are exempt",
+      "distractors": ["Yes, at the combined rate", "Only the county portion is due", "Yes, but at half the standard rate"],
+      "explanation": "Mortgages and other security instruments are exempt from Michigan real estate transfer tax. The tax applies to transfers of ownership, not to the creation of liens.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["transfer-tax", "exemption", "mortgage"]
+    }
+  ]
+}

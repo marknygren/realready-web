@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NE-01",
+  "scope": "state",
+  "state": "NE",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "NE-01.1",
+      "question_text": "How many members serve on the Nebraska Real Estate Commission?",
+      "correct_answer": "7 members",
+      "distractors": ["5 members", "9 members", "11 members"],
+      "explanation": "The NREC consists of 7 members. Six are appointed by the Governor (3 from Congressional Districts, 1 at-large broker, 1 salesperson, and 1 public member). The Secretary of State serves as the seventh member and chairs the Commission.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NREC", "commission composition"]
+    },
+    {
+      "key_topic_ref": "NE-01.1",
+      "question_text": "A newly appointed NREC commissioner asks who serves as chairperson. Which official chairs the Nebraska Real Estate Commission?",
+      "correct_answer": "Secretary of State",
+      "distractors": ["Governor", "Attorney General", "Elected commission member"],
+      "explanation": "The Nebraska Secretary of State serves as chair of the NREC. The remaining 6 members are appointed by the Governor and include 3 from Congressional Districts, 1 at-large broker, 1 salesperson, and 1 public member.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NREC", "chairperson", "Secretary of State"]
+    },
+    {
+      "key_topic_ref": "NE-01.1",
+      "question_text": "A Governor-appointed NREC commissioner finishes her term. How long did she serve?",
+      "correct_answer": "6 years",
+      "distractors": ["3 years", "4 years", "5 years"],
+      "explanation": "Governor-appointed NREC commissioners serve 6-year terms. The 6 appointed members include 3 from Congressional Districts, 1 at-large broker, 1 salesperson, and 1 public member.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NREC", "term length", "appointment"]
+    },
+    {
+      "key_topic_ref": "NE-01.1",
+      "question_text": "A developer plans to sell time-share units in Nebraska. Besides licensing, which authority does NREC exercise over time-shares?",
+      "correct_answer": "NREC registers time-share offerings",
+      "distractors": ["NREC sets time-share pricing", "NREC finances time-share projects", "NREC insures time-share buyers"],
+      "explanation": "NREC has the authority to register subdivisions, time-shares, campgrounds, and retirement communities. This registration power is separate from individual licensee regulation and ensures consumer protection in these specialized property types.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["NREC", "registration", "time-shares"]
+    },
+    {
+      "key_topic_ref": "NE-01.1",
+      "question_text": "Which types of properties must be registered with the NREC in addition to subdivisions?",
+      "correct_answer": "Time-shares, campgrounds, retirement communities",
+      "distractors": ["Hotels, motels, shopping centers", "Farms, ranches, feedlots", "Warehouses, factories, offices"],
+      "explanation": "NREC registers subdivisions, time-shares, campgrounds, and retirement communities. This registration authority protects consumers purchasing or investing in these specialized property categories by ensuring proper disclosures.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NREC", "registration", "property types"]
+    },
+    {
+      "key_topic_ref": "NE-01.2",
+      "question_text": "A consumer believes a Nebraska licensee committed fraud. What must the consumer file to initiate an NREC investigation?",
+      "correct_answer": "A sworn written complaint",
+      "distractors": ["A verbal complaint by phone", "A civil lawsuit first", "A notarized affidavit with court seal"],
+      "explanation": "NREC investigations begin with a sworn written complaint filed by the consumer. Alternatively, the Commission may initiate its own investigation (own-motion). A verbal complaint or lawsuit is not sufficient to trigger the formal NREC process.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["NREC", "complaints", "investigation"]
+    },
+    {
+      "key_topic_ref": "NE-01.2",
+      "question_text": "NREC staff discover potential license law violations during a routine audit. Can the Commission investigate without a consumer complaint?",
+      "correct_answer": "Yes, through own-motion investigation",
+      "distractors": ["No, a complaint is always required", "Only if the Governor orders it", "Only after a court referral"],
+      "explanation": "The NREC may launch investigations on its own motion without a formal consumer complaint. This allows the Commission to act proactively when staff or other sources identify potential violations during audits or other oversight activities.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["NREC", "own-motion", "investigation"]
+    },
+    {
+      "key_topic_ref": "NE-01.2",
+      "question_text": "A buyer suffers a financial loss due to a licensee's misrepresentation. The buyer asks NREC about a recovery fund. What is the correct response?",
+      "correct_answer": "Nebraska has no recovery fund",
+      "distractors": ["The fund covers up to $25,000", "The fund covers up to $50,000", "Claims must exceed $10,000 to qualify"],
+      "explanation": "Nebraska does not maintain a recovery fund for consumers. Consumers who suffer losses due to licensee misconduct must sue the licensee directly. The Commission Fund pays for NREC operations and Attorney General fees, not consumer claims.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["NREC", "recovery fund", "consumer protection"]
+    },
+    {
+      "key_topic_ref": "NE-01.2",
+      "question_text": "What does the Nebraska Commission Fund pay for?",
+      "correct_answer": "NREC operations and AG fees",
+      "distractors": ["Consumer damage claims", "Licensee education grants", "Property tax refunds"],
+      "explanation": "The Commission Fund finances NREC operations and pays Attorney General fees for legal work on behalf of the Commission. It does not function as a consumer recovery fund. Injured consumers must pursue civil remedies directly against the licensee.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NREC", "Commission Fund", "operations"]
+    },
+    {
+      "key_topic_ref": "NE-01.2",
+      "question_text": "A consumer harmed by a licensee in Nebraska wants compensation. Since there is no recovery fund, what must the consumer do?",
+      "correct_answer": "Sue the licensee directly",
+      "distractors": ["File a claim with NREC for payment", "Apply to the state insurance pool", "Request reimbursement from the AG"],
+      "explanation": "Because Nebraska has no real estate recovery fund, consumers must pursue civil action against the licensee to recover financial losses. NREC handles discipline but cannot award monetary damages to consumers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["consumer remedies", "no recovery fund", "civil action"]
+    },
+    {
+      "key_topic_ref": "NE-01.3",
+      "question_text": "NREC finds a licensee guilty of fraud. What is the maximum civil fine the Commission can impose?",
+      "correct_answer": "$5,000 or the commission earned",
+      "distractors": ["$1,000 or the listing price", "$10,000 maximum per complaint", "$2,500 per verified violation"],
+      "explanation": "NREC may impose a civil fine of up to $5,000 or the commission earned on the transaction, whichever is greater. This ensures penalties are meaningful even on high-value transactions where the earned commission exceeds $5,000.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NREC", "fines", "discipline"]
+    },
+    {
+      "key_topic_ref": "NE-01.3",
+      "question_text": "Which of the following is a valid disciplinary action NREC can take against a licensee?",
+      "correct_answer": "Censure, suspension, or revocation",
+      "distractors": ["Jail time up to 30 days", "Mandatory community service", "Garnishment of personal wages"],
+      "explanation": "NREC's disciplinary tools include censure, suspension, revocation, consent orders, and civil fines. The Commission handles administrative discipline only. Criminal penalties like jail time require prosecution through the courts.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NREC", "discipline", "sanctions"]
+    },
+    {
+      "key_topic_ref": "NE-01.3",
+      "question_text": "A licensee is found guilty of commingling client funds and ordered to pay costs. She fails to pay. What happens automatically?",
+      "correct_answer": "Her license is automatically suspended",
+      "distractors": ["A lien is placed on her property", "Her fine doubles every 30 days", "Nothing until a court orders payment"],
+      "explanation": "Failure to pay assessed costs results in automatic suspension of the license. This automatic consequence ensures compliance with NREC financial orders without requiring additional hearings or court action.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["NREC", "automatic suspension", "costs"]
+    },
+    {
+      "key_topic_ref": "NE-01.3",
+      "question_text": "Which of the following is NOT a ground for NREC disciplinary action?",
+      "correct_answer": "Charging below-market commission rates",
+      "distractors": ["Paying an unlicensed person", "Commingling client funds", "Felony conviction"],
+      "explanation": "Commission rates are negotiated freely between brokers and clients. NREC cannot discipline a licensee for their pricing. Grounds for discipline include fraud, commingling, paying unlicensed persons, felony conviction, and misrepresentation.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["NREC", "discipline", "grounds"]
+    },
+    {
+      "key_topic_ref": "NE-01.3",
+      "question_text": "A broker enters a consent order with NREC rather than proceeding to a formal hearing. What does this mean?",
+      "correct_answer": "The broker agreed to specific terms",
+      "distractors": ["The broker admitted no wrongdoing", "The case was dismissed entirely", "The broker must appeal within 30 days"],
+      "explanation": "A consent order is a voluntary agreement between the licensee and NREC that resolves the matter without a formal hearing. The broker agrees to specific disciplinary terms such as additional education, fines, or practice restrictions.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["NREC", "consent order", "discipline"]
+    }
+  ]
+}

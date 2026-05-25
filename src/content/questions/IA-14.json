@@ -1,0 +1,173 @@
+{
+  "standard_ref": "IA-14",
+  "scope": "state",
+  "state": "IA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IA-14.1",
+      "question_text": "What is Iowa's real estate transfer tax rate?",
+      "correct_answer": "$0.80 per $500 of value",
+      "distractors": ["$1.00 per $500 of value", "$0.50 per $1,000 of value", "$2.00 per $1,000 of value"],
+      "explanation": "Iowa's real estate transfer tax is $0.80 per $500 of consideration, which equates to $1.60 per $1,000. The tax applies when the property value exceeds $500 and is collected by the county recorder at the time of recording.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "rate", "$0.80"]
+    },
+    {
+      "key_topic_ref": "IA-14.1",
+      "question_text": "A home sells for $250,000 in Iowa. How much transfer tax is owed?",
+      "correct_answer": "$400",
+      "distractors": ["$250", "$500", "$200"],
+      "explanation": "Iowa's transfer tax is $0.80 per $500 of value. $250,000 / $500 = 500 units. 500 x $0.80 = $400. Alternatively, $250,000 / $1,000 x $1.60 = $400. The seller typically pays unless otherwise negotiated.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer tax", "calculation", "closing costs"]
+    },
+    {
+      "key_topic_ref": "IA-14.1",
+      "question_text": "Which transfer is exempt from Iowa's real estate transfer tax?",
+      "correct_answer": "A transfer between spouses",
+      "distractors": ["A sale between unrelated investors", "A property sold at public auction", "A home sold by a private corporation"],
+      "explanation": "Iowa exempts several types of transfers from the transfer tax, including transfers between spouses, transfers by will or inheritance, government transfers, gifts with no consideration, and some court-ordered transfers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "exemptions", "spousal transfer"]
+    },
+    {
+      "key_topic_ref": "IA-14.1",
+      "question_text": "Who typically pays the transfer tax in Iowa unless otherwise negotiated?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "Both parties equally", "The closing attorney"],
+      "explanation": "In Iowa, the seller customarily pays the real estate transfer tax. However, this is negotiable and can be assigned to the buyer or split between the parties as part of the purchase agreement terms.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "seller responsibility", "closing"]
+    },
+    {
+      "key_topic_ref": "IA-14.1",
+      "question_text": "A parent gifts a vacation cabin worth $150,000 to their adult child with no money exchanged. Is transfer tax due?",
+      "correct_answer": "No, gifts with no consideration are exempt",
+      "distractors": ["Yes, tax applies at the full $150,000 value", "Yes, but the tax is calculated at a reduced rate", "Only if the total property value exceeds $100,000"],
+      "explanation": "Iowa exempts transfers made as genuine gifts with no consideration from the real estate transfer tax. Since no money changed hands and this is a gift from parent to child, the transfer qualifies for the gift exemption.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer tax", "gift exemption", "no consideration"]
+    },
+    {
+      "key_topic_ref": "IA-14.2",
+      "question_text": "Iowa uses which type of recording statute?",
+      "correct_answer": "Race-notice",
+      "distractors": ["Pure race", "Pure notice", "Period of grace"],
+      "explanation": "Iowa is a race-notice state, meaning a subsequent bona fide purchaser who records first and had no notice of a prior unrecorded interest will prevail over the prior unrecorded claimant. Both lack of notice and priority of recording are required.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["race-notice", "recording statute", "priority"]
+    },
+    {
+      "key_topic_ref": "IA-14.2",
+      "question_text": "A buyer purchases a home but does not record the deed. A second buyer later purchases the same property without knowledge of the first sale and records immediately. Who prevails in Iowa?",
+      "correct_answer": "The second buyer who recorded first",
+      "distractors": ["The first buyer who purchased first", "Neither buyer has valid title", "The seller retains ownership"],
+      "explanation": "Under Iowa's race-notice statute, the second buyer prevails because they (1) had no notice of the prior unrecorded deed and (2) recorded their deed first. The first buyer's failure to record left them vulnerable to this outcome.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["race-notice", "recording priority", "BFP"]
+    },
+    {
+      "key_topic_ref": "IA-14.2",
+      "question_text": "Is recording a deed required for the deed to be valid between the buyer and seller in Iowa?",
+      "correct_answer": "No, recording is not required between parties",
+      "distractors": ["Yes, an unrecorded deed is completely void", "Yes, recording is what validates the transfer", "Only if the sale price exceeds the $10,000 mark"],
+      "explanation": "Recording is not required for a deed to be valid between the parties to the transaction. A properly executed deed transfers title between buyer and seller without recording. However, recording provides constructive notice to third parties and protects the buyer's interest.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "validity", "constructive notice"]
+    },
+    {
+      "key_topic_ref": "IA-14.2",
+      "question_text": "What does recording a deed with the county recorder provide in Iowa?",
+      "correct_answer": "Constructive notice to the public",
+      "distractors": ["Actual notice to all neighbors", "Guaranteed title insurance", "Automatic property tax assessment"],
+      "explanation": "Recording a deed with the county recorder provides constructive notice, meaning the public is deemed to have knowledge of the recorded interest whether or not they actually search the records. This protects the grantee against subsequent claims.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["constructive notice", "recording", "county recorder"]
+    },
+    {
+      "key_topic_ref": "IA-14.2",
+      "question_text": "A second buyer knows about a prior unrecorded deed but records first anyway. Under Iowa's race-notice statute, who has superior title?",
+      "correct_answer": "The first buyer prevails",
+      "distractors": ["The second buyer who recorded first prevails", "Both buyers have equal legal claims", "The seller retains ownership of the property"],
+      "explanation": "Under Iowa's race-notice statute, a subsequent purchaser must both record first AND have no notice of the prior interest. Since the second buyer had actual knowledge of the prior unrecorded deed, they fail the notice requirement and the first buyer prevails.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["race-notice", "actual notice", "recording"]
+    },
+    {
+      "key_topic_ref": "IA-14.3",
+      "question_text": "What is the traditional method of title evidence in Iowa?",
+      "correct_answer": "Abstract with attorney title opinion",
+      "distractors": ["Title insurance policy only", "Torrens certificate of title", "County recorder's verbal confirmation"],
+      "explanation": "Iowa is traditionally a title opinion state where an abstract of title is examined by an attorney who issues a title opinion. While title insurance is available and increasingly common, the abstract-plus-attorney-opinion method remains the traditional Iowa approach.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title opinion", "abstract", "attorney"]
+    },
+    {
+      "key_topic_ref": "IA-14.3",
+      "question_text": "Iowa property taxes are paid in arrears with installments due on which dates?",
+      "correct_answer": "September 1 and March 1",
+      "distractors": ["January 1 and July 1", "April 15 and October 15", "June 1 and December 1"],
+      "explanation": "Iowa property taxes are paid in arrears with two installment due dates: September 1 for the first half and March 1 for the second half. At closing, property taxes are prorated between buyer and seller based on these payment schedules.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "installments", "arrears"]
+    },
+    {
+      "key_topic_ref": "IA-14.3",
+      "question_text": "Iowa assesses property at 100% of actual value but applies a residential rollback. What is the approximate rollback percentage?",
+      "correct_answer": "Approximately 50-55%",
+      "distractors": ["Approximately 75-80%", "Approximately 25-30%", "Approximately 90-95%"],
+      "explanation": "While Iowa assesses residential property at 100% of actual value, the residential rollback reduces the taxable value to approximately 50-55% of the assessed value. This rollback is applied statewide to limit the growth of residential property tax valuations.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rollback", "assessment", "property tax"]
+    },
+    {
+      "key_topic_ref": "IA-14.3",
+      "question_text": "A homeowner occupies their Iowa residence as a primary home. What tax benefit are they eligible for?",
+      "correct_answer": "Homestead tax credit",
+      "distractors": ["Full property tax exemption", "Capital gains exclusion at state level", "Transfer tax refund upon sale"],
+      "explanation": "Iowa offers a homestead tax credit for owner-occupied primary residences. This credit reduces the property tax burden for qualifying homeowners. The property must be the owner's primary residence to qualify for the credit.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homestead credit", "owner-occupied", "tax benefit"]
+    },
+    {
+      "key_topic_ref": "IA-14.3",
+      "question_text": "Starting in 2024, Iowa caps annual residential property assessment increases at what percentage?",
+      "correct_answer": "3% per year",
+      "distractors": ["5% per year", "10% per year", "No cap exists"],
+      "explanation": "Iowa enacted a 3% annual assessment cap for residential properties effective 2024. This limits how much a property's assessed value can increase year over year, protecting homeowners from dramatic tax increases due to rapidly rising property values.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["assessment cap", "3%", "2024", "property tax"]
+    }
+  ]
+}

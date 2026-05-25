@@ -1,0 +1,388 @@
+{
+  "standard_ref": "OR-01",
+  "scope": "state",
+  "state": "OR",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "OR-01.1",
+      "question_text": "Who heads the Oregon Real Estate Agency (OREA)?",
+      "correct_answer": "The Real Estate Commissioner",
+      "distractors": [
+        "A five-member commission",
+        "The Governor directly",
+        "The Attorney General"
+      ],
+      "explanation": "OREA is headed by the Real Estate Commissioner, who is appointed by the Governor. Unlike most states that use a commission structure, Oregon uses a single-administrator model.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "OREA",
+        "commissioner",
+        "organization"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.1",
+      "question_text": "How is the Oregon Real Estate Commissioner selected?",
+      "correct_answer": "Appointed by the Governor",
+      "distractors": [
+        "Elected by licensed brokers",
+        "Appointed by the legislature",
+        "Selected by OREA staff"
+      ],
+      "explanation": "The Real Estate Commissioner is appointed by the Governor. The Commissioner has powers including rulemaking, licensing, investigation, and disciplinary action over real estate licensees.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "OREA",
+        "commissioner",
+        "appointment"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.1",
+      "question_text": "OREA discovers that an unlicensed person has been conducting real estate transactions. Can OREA investigate this activity?",
+      "correct_answer": "Yes, OREA can investigate unlicensed activity",
+      "distractors": [
+        "No, only the Attorney General can",
+        "No, only licensed activity is within scope",
+        "Yes, but only with a court order"
+      ],
+      "explanation": "OREA has jurisdiction to investigate both licensed and unlicensed real estate activity. This power helps protect the public from unauthorized practice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "OREA",
+        "jurisdiction",
+        "unlicensed"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.1",
+      "question_text": "Which Oregon statute does the Real Estate Commissioner administer?",
+      "correct_answer": "ORS Chapter 696",
+      "distractors": [
+        "ORS Chapter 90",
+        "ORS Chapter 87",
+        "ORS Chapter 100"
+      ],
+      "explanation": "The Commissioner administers ORS Chapter 696, the Oregon Real Estate License Law. ORS 90 covers landlord-tenant, ORS 87 covers construction liens, and ORS 100 covers condominiums.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "OREA",
+        "ORS 696",
+        "license law"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.1",
+      "question_text": "What distinguishes OREA from the real estate regulatory bodies in most other states?",
+      "correct_answer": "OREA is a state agency, not a commission",
+      "distractors": [
+        "OREA regulates only brokers",
+        "OREA is part of the judiciary",
+        "OREA members are elected"
+      ],
+      "explanation": "Most states use a commission-based structure to regulate real estate. Oregon is different in that OREA operates as a standalone state agency headed by a single Commissioner appointed by the Governor.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "OREA",
+        "structure",
+        "agency"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.2",
+      "question_text": "In Oregon, the entry-level real estate license is called a:",
+      "correct_answer": "Broker license",
+      "distractors": [
+        "Salesperson license",
+        "Associate license",
+        "Agent license"
+      ],
+      "explanation": "Oregon uses unique terminology: the entry-level license is called 'broker' (equivalent to 'salesperson' in other states), and the supervisory license is called 'principal broker' (equivalent to 'broker' elsewhere).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "license types",
+        "broker",
+        "terminology"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.2",
+      "question_text": "A principal broker registers or assumes responsibility for a Registered Business Name. Under HB 3137, this principal broker is designated as a:",
+      "correct_answer": "Managing principal broker",
+      "distractors": [
+        "Designated broker",
+        "Supervising broker",
+        "Qualifying broker"
+      ],
+      "explanation": "HB 3137 (effective January 1, 2026) created the managing principal broker designation for the principal broker who registers or assumes responsibility for an RBN. This is not a new license type but a designation carrying ultimate responsibility.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "managing principal broker",
+        "HB 3137",
+        "RBN"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.2",
+      "question_text": "Under HB 2373, what new license type was created effective January 1, 2026?",
+      "correct_answer": "Timeshare sales agent",
+      "distractors": [
+        "Vacation rental agent",
+        "Limited broker",
+        "Residential specialist"
+      ],
+      "explanation": "HB 2373 created the timeshare sales agent license, limited to timeshare sales only. It requires a 14-hour course and PSI exam, and the agent must be supervised by a managing principal broker.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "timeshare",
+        "HB 2373",
+        "license types"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.2",
+      "question_text": "Which Oregon license type is the supervisory equivalent of a 'broker' in most other states?",
+      "correct_answer": "Principal broker",
+      "distractors": [
+        "Managing broker",
+        "Supervising agent",
+        "Senior broker"
+      ],
+      "explanation": "Oregon's 'principal broker' is equivalent to what most states call a 'broker.' The principal broker supervises associated brokers and is responsible for brokerage operations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "principal broker",
+        "license types",
+        "terminology"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.2",
+      "question_text": "A person wants to manage rental properties for others in Oregon. Which license must they obtain?",
+      "correct_answer": "Property manager license",
+      "distractors": [
+        "Broker license",
+        "Principal broker license",
+        "No license is required"
+      ],
+      "explanation": "Oregon has a separate property manager license specifically for managing property for others. This is distinct from the broker and principal broker licenses used for sales transactions.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property manager",
+        "license types"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.3",
+      "question_text": "How many hours of pre-license education must an Oregon broker candidate complete?",
+      "correct_answer": "150 hours",
+      "distractors": [
+        "120 hours",
+        "90 hours",
+        "180 hours"
+      ],
+      "explanation": "Oregon requires 150 hours of pre-license education from an OREA-approved provider. Only courses completed on or after January 1, 2013, qualify for licensing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "pre-license",
+        "education",
+        "150 hours"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.3",
+      "question_text": "A broker candidate passes the Oregon licensing exam. What must they complete before receiving their license?",
+      "correct_answer": "Fingerprinting and background check",
+      "distractors": [
+        "A post-license internship",
+        "An additional 30-hour course",
+        "An interview with the Commissioner"
+      ],
+      "explanation": "After passing the exam, candidates must complete fingerprinting ($61.25) at the PSI test center and undergo a background check before receiving their license.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "fingerprinting",
+        "background check",
+        "licensing"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.3",
+      "question_text": "A broker candidate passes the state portion of the exam but fails the national portion. How long is the passing score valid?",
+      "correct_answer": "12 months",
+      "distractors": [
+        "6 months",
+        "24 months",
+        "90 days"
+      ],
+      "explanation": "If a candidate passes one section but fails the other, the passing score is valid for 12 months. The candidate must pass the remaining section within that time.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "exam",
+        "score validity",
+        "split exam"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.3",
+      "question_text": "What is the fee for each attempt at the Oregon real estate broker exam?",
+      "correct_answer": "$75",
+      "distractors": [
+        "$50",
+        "$95",
+        "$125"
+      ],
+      "explanation": "The exam fee is $75 per attempt and is non-refundable. This is separate from the $300 license application fee and $61.25 fingerprinting fee.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "exam fee",
+        "costs",
+        "licensing"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.3",
+      "question_text": "A broker candidate completed pre-license courses in 2011. Can these courses satisfy Oregon's current licensing requirements?",
+      "correct_answer": "No, only courses from 2013 onward qualify",
+      "distractors": [
+        "Yes, courses never expire",
+        "Yes, if accredited at the time",
+        "No, courses expire after 1 year"
+      ],
+      "explanation": "Only pre-license courses completed on or after January 1, 2013, meet Oregon's current licensing requirements. Courses completed before that date do not qualify.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "pre-license",
+        "education",
+        "course validity"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.4",
+      "question_text": "How many total hours of continuing education must an Oregon broker complete for license renewal?",
+      "correct_answer": "30 hours",
+      "distractors": [
+        "24 hours",
+        "36 hours",
+        "18 hours"
+      ],
+      "explanation": "Oregon requires 30 hours of CE for renewal: 3-hour LARRC (Law and Rule Required Course), the State and Federal Fair Housing course, and 26 hours of Advanced Practices.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "CE",
+        "continuing education",
+        "renewal"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.4",
+      "question_text": "An Oregon broker's license has been inactive for three consecutive years. What must they do to reactivate it?",
+      "correct_answer": "Pass a reactivation exam and complete CE",
+      "distractors": [
+        "Retake the full licensing exam",
+        "Complete 150 hours of pre-license education",
+        "Simply pay the reactivation fee"
+      ],
+      "explanation": "If a license has been inactive for 2 or more consecutive years, the licensee must pass a reactivation exam (48 questions, 120 minutes) and complete required continuing education.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "reactivation",
+        "inactive license",
+        "exam"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.4",
+      "question_text": "What is the fee for renewing an active Oregon broker license?",
+      "correct_answer": "$300",
+      "distractors": [
+        "$150",
+        "$200",
+        "$450"
+      ],
+      "explanation": "Active license renewal costs $300. Inactive renewal is $150. A late renewal fee of $150 is added if the renewal is filed after the deadline. Licenses expire on the last day of the licensee's birthday month.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "renewal fee",
+        "costs",
+        "licensing"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.4",
+      "question_text": "Starting in 2026, what new CE requirement was added for all Oregon licensees?",
+      "correct_answer": "State and Federal Fair Housing course",
+      "distractors": [
+        "State and Federal Ethics course",
+        "Cybersecurity awareness course",
+        "Environmental hazards course"
+      ],
+      "explanation": "Effective 2026, all brokers, principal brokers, and property managers must complete the State and Federal Fair Housing (SAFFH) course as a separate CE requirement, in addition to LARRC and Advanced Practices.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "CE",
+        "fair housing",
+        "SAFFH",
+        "2026"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-01.4",
+      "question_text": "How often must an Oregon broker renew their license?",
+      "correct_answer": "Every two years",
+      "distractors": [
+        "Annually",
+        "Every three years",
+        "Every four years"
+      ],
+      "explanation": "Oregon broker licenses must be renewed every two years. The license expires on the last day of the month in which the licensee's birthday falls.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "renewal",
+        "biennial",
+        "licensing"
+      ]
+    }
+  ]
+}

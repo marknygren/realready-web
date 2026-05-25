@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AZ-14",
+  "scope": "state",
+  "state": "AZ",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AZ-14.1",
+      "question_text": "Arizona is one of how many community property states?",
+      "correct_answer": "Nine",
+      "distractors": ["Five", "Twelve", "Seven"],
+      "explanation": "Arizona is one of 9 community property states (along with CA, ID, LA, NV, NM, TX, WA, and WI). Property acquired during marriage is presumed to be community property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["community property", "nine states"]
+    },
+    {
+      "key_topic_ref": "AZ-14.1",
+      "question_text": "A married couple in Arizona buys a home during their marriage using joint earnings. The deed lists only the husband's name. The home is presumed to be:",
+      "correct_answer": "Community property",
+      "distractors": ["The husband's sole and separate property", "Tenancy in common between the spouses", "Joint tenancy with right of survivorship"],
+      "explanation": "In Arizona, property acquired during marriage using community funds is presumed community property, regardless of how the deed is titled. The deed listing only one spouse's name does not change this presumption.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["community property", "presumption", "marriage"]
+    },
+    {
+      "key_topic_ref": "AZ-14.1",
+      "question_text": "A wife owned a condo before marriage. After the wedding, is this property community or separate?",
+      "correct_answer": "Sole and separate property of the wife",
+      "distractors": ["Community property after the marriage", "Joint tenancy with the husband", "Community property with right of survivorship"],
+      "explanation": "Property owned before marriage remains the separate property of that spouse. Community property only applies to property acquired during the marriage. The condo stays the wife's sole and separate property.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["separate property", "pre-marriage", "ownership"]
+    },
+    {
+      "key_topic_ref": "AZ-14.1",
+      "question_text": "A married couple wants to sell their community property home in Arizona. Both spouses must:",
+      "correct_answer": "Sign the listing agreement and deed",
+      "distractors": ["Only the spouse on the deed must sign", "Either spouse can sign independently", "Only the spouse with the higher income"],
+      "explanation": "Both spouses must consent to the sale of community property. Neither spouse can unilaterally sell, encumber, or dispose of community real property without the other's written agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["community property", "spousal consent", "sale"]
+    },
+    {
+      "key_topic_ref": "AZ-14.1",
+      "question_text": "A husband inherits a vacation home during the marriage. This property is classified as:",
+      "correct_answer": "His sole and separate property",
+      "distractors": ["Community property of both spouses", "Joint tenancy between the spouses", "Community property with right of survivorship"],
+      "explanation": "Property received by gift or inheritance during marriage is the separate property of the receiving spouse, even though it was acquired during the marriage. Only property purchased with community funds is community property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["separate property", "inheritance", "community property"]
+    },
+    {
+      "key_topic_ref": "AZ-14.2",
+      "question_text": "What is the key feature of joint tenancy that distinguishes it from tenancy in common?",
+      "correct_answer": "Right of survivorship",
+      "distractors": ["Unequal ownership shares", "Required spousal relationship", "Automatic probate avoidance"],
+      "explanation": "Joint tenancy includes the right of survivorship — when one owner dies, their share automatically passes to the surviving joint tenant(s). Tenancy in common has no survivorship right; the deceased's share goes through their estate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["joint tenancy", "survivorship", "tenancy in common"]
+    },
+    {
+      "key_topic_ref": "AZ-14.2",
+      "question_text": "Two unmarried friends buy a house together in Arizona without specifying the form of ownership. They hold title as:",
+      "correct_answer": "Tenants in common",
+      "distractors": ["Joint tenants with survivorship", "Community property owners", "Tenants by the entirety"],
+      "explanation": "Tenancy in common is the default form of co-ownership for unmarried persons in Arizona when no other form is specified. Joint tenancy requires express language creating survivorship rights.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tenancy in common", "default", "unmarried"]
+    },
+    {
+      "key_topic_ref": "AZ-14.2",
+      "question_text": "Arizona allows married couples to hold title as \"community property with right of survivorship.\" What is the main advantage of this form?",
+      "correct_answer": "It avoids probate on the first spouse's death",
+      "distractors": ["It provides stronger creditor protection", "It allows unequal ownership shares", "It eliminates the need for title insurance"],
+      "explanation": "Community property with right of survivorship combines community property benefits with automatic transfer to the surviving spouse, avoiding probate. The property passes directly without court proceedings.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["community property", "right of survivorship", "probate"]
+    },
+    {
+      "key_topic_ref": "AZ-14.2",
+      "question_text": "Three friends own a property as joint tenants. One friend sells their interest to a stranger. The stranger and the remaining two friends now hold title as:",
+      "correct_answer": "TIC with the stranger; joint tenants between the two",
+      "distractors": ["All three as joint tenants with survivorship", "All three as tenants in common equally", "The sale is void without the others' consent"],
+      "explanation": "When a joint tenant sells their interest, it breaks the joint tenancy as to that share. The buyer becomes a tenant in common with the remaining joint tenants, who still hold joint tenancy between themselves.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["joint tenancy", "severance", "tenancy in common"]
+    },
+    {
+      "key_topic_ref": "AZ-14.2",
+      "question_text": "Does Arizona recognize tenancy by the entirety?",
+      "correct_answer": "No, Arizona does not recognize this form of ownership",
+      "distractors": ["Yes, for all married couples", "Yes, but only for homestead properties", "Only if both spouses are on the deed"],
+      "explanation": "Arizona does not recognize tenancy by the entirety. Married couples can hold title as community property, community property with right of survivorship, joint tenancy, or tenancy in common.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tenancy by entirety", "not recognized", "ownership forms"]
+    },
+    {
+      "key_topic_ref": "AZ-14.3",
+      "question_text": "What is a beneficiary deed in Arizona?",
+      "correct_answer": "A deed transferring property on death to a beneficiary",
+      "distractors": ["A deed given to the lender as loan security", "A deed transferring property into a living trust", "A deed issued by the court after full probate"],
+      "explanation": "A beneficiary deed is unique to Arizona — it allows property to transfer on the owner's death to a named beneficiary without going through probate. It must be recorded during the owner's lifetime and is revocable.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["beneficiary deed", "transfer on death", "probate"]
+    },
+    {
+      "key_topic_ref": "AZ-14.3",
+      "question_text": "A homeowner records a beneficiary deed naming their daughter as beneficiary. Can the homeowner later change their mind?",
+      "correct_answer": "Yes, beneficiary deeds are revocable",
+      "distractors": ["No, once recorded it is irrevocable", "Only with the beneficiary's written consent", "Only by court order"],
+      "explanation": "Beneficiary deeds are revocable during the owner's lifetime. The owner can record a new beneficiary deed naming a different person or revoke the deed entirely without the beneficiary's consent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["beneficiary deed", "revocable", "change"]
+    },
+    {
+      "key_topic_ref": "AZ-14.3",
+      "question_text": "For a beneficiary deed to be effective in Arizona, it must be:",
+      "correct_answer": "Recorded during the owner's lifetime",
+      "distractors": ["Notarized and filed after the owner's death", "Approved by the probate court first", "Signed by the named beneficiary"],
+      "explanation": "A beneficiary deed must be recorded with the county recorder during the owner's lifetime to be effective. The beneficiary does not need to sign or even know about the deed. It takes effect only upon the owner's death.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["beneficiary deed", "recording", "lifetime"]
+    },
+    {
+      "key_topic_ref": "AZ-14.3",
+      "question_text": "The primary advantage of a beneficiary deed over a will for transferring real property is:",
+      "correct_answer": "It avoids the probate process entirely",
+      "distractors": ["It provides better creditor protection", "It transfers the property immediately upon signing", "It eliminates the need for title insurance"],
+      "explanation": "The main advantage is probate avoidance. The property transfers directly to the beneficiary upon the owner's death without court proceedings. Unlike a will, which must go through probate, the beneficiary deed works automatically.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["beneficiary deed", "probate avoidance", "advantage"]
+    },
+    {
+      "key_topic_ref": "AZ-14.3",
+      "question_text": "A homeowner with a beneficiary deed sells the property to a third party. What happens to the beneficiary deed?",
+      "correct_answer": "It becomes void since the owner no longer holds title",
+      "distractors": ["The beneficiary deed transfers to the new property owner", "The named beneficiary can legally block the sale", "The deed remains valid and enforceable against the buyer"],
+      "explanation": "If the owner sells the property, the beneficiary deed becomes moot because the owner no longer holds title to transfer at death. The beneficiary has no interest in the property until the owner's death, and the sale eliminates that possibility.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["beneficiary deed", "sale", "void"]
+    }
+  ]
+}

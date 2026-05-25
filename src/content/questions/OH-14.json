@@ -1,0 +1,118 @@
+{
+  "standard_ref": "OH-14",
+  "scope": "state",
+  "state": "OH",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OH-14.1",
+      "question_text": "Ohio property taxes are paid on what schedule?",
+      "correct_answer": "Semi-annually",
+      "distractors": ["Annually in December", "Quarterly", "Monthly with the mortgage payment only"],
+      "explanation": "Ohio property taxes are paid semi-annually, typically in January and June/July. Taxes are assessed by county auditors based on the appraised value of the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "semi-annual", "payment"]
+    },
+    {
+      "key_topic_ref": "OH-14.1",
+      "question_text": "Ohio uses a 'tax reduction factor' to prevent what from happening when property values increase?",
+      "correct_answer": "Automatic revenue increases from reappraisals",
+      "distractors": ["Homestead exemptions from decreasing", "Tax rates from being voted on by residents", "County auditors from reassessing property"],
+      "explanation": "Ohio's tax reduction factor lowers the effective tax rate below voted millage when property values increase, preventing automatic revenue increases from reappraisals without voter approval.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["reduction-factor", "reappraisal", "revenue"]
+    },
+    {
+      "key_topic_ref": "OH-14.1",
+      "question_text": "An Ohio homeowner is 67 years old with an annual income of $35,000. How much market value can they shield from property tax through the homestead exemption?",
+      "correct_answer": "Up to $28,000",
+      "distractors": ["Up to $25,000", "Up to $50,000", "Up to $56,000"],
+      "explanation": "Qualifying homeowners (65+ or permanently disabled) can shield up to $28,000 of market value. The income limit is $40,000 (2025). Disabled veterans receive the enhanced $56,000 exemption.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homestead", "exemption", "$28K"]
+    },
+    {
+      "key_topic_ref": "OH-14.1",
+      "question_text": "A disabled veteran in Ohio applies for the enhanced homestead exemption. What is the maximum market value they can shield?",
+      "correct_answer": "$56,000",
+      "distractors": ["$28,000", "$40,000", "$100,000"],
+      "explanation": "Disabled veterans receive the enhanced homestead exemption of up to $56,000 of market value, double the standard $28,000 exemption. There is no income limit for disabled veterans.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead", "veteran", "enhanced"]
+    },
+    {
+      "key_topic_ref": "OH-14.1",
+      "question_text": "A farmer wants their agricultural land taxed at its farm use value rather than market value. Which Ohio program applies?",
+      "correct_answer": "Current Agricultural Use Value (CAUV)",
+      "distractors": ["Homestead exemption program", "Tax reduction factor adjustment", "Farm Bureau tax credit program"],
+      "explanation": "Ohio's CAUV program allows qualifying agricultural land to be valued at agricultural use rather than market value, significantly reducing the property tax burden for farmers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CAUV", "agricultural", "valuation"]
+    },
+    {
+      "key_topic_ref": "OH-14.2",
+      "question_text": "What is Ohio's mandatory state conveyance fee rate?",
+      "correct_answer": "$1 per $1,000 of the sale price",
+      "distractors": ["$2 per $1,000 of the sale price", "$0.50 per $1,000 of the sale price", "$1 per $500 of the sale price"],
+      "explanation": "Ohio's state conveyance fee is $1 per $1,000 of the sale price. Counties may impose additional permissive fees of $1-$3 per $1,000, making total fees vary by county.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-fee", "state-rate", "transfer-tax"]
+    },
+    {
+      "key_topic_ref": "OH-14.2",
+      "question_text": "A home sells for $300,000 in a county with a $2 per $1,000 county permissive fee. What is the total conveyance fee?",
+      "correct_answer": "$900 (state $300 + county $600)",
+      "distractors": ["$300 (state fee only)", "$600 (county fee only)", "$1,200 (at $4 per $1,000)"],
+      "explanation": "Total = state fee ($1/$1,000 × $300,000 = $300) + county fee ($2/$1,000 × $300,000 = $600) = $900. Rates vary by county; total is typically $1-$4 per $1,000.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conveyance-fee", "calculation", "county"]
+    },
+    {
+      "key_topic_ref": "OH-14.2",
+      "question_text": "In Ohio, who customarily pays the conveyance fee at closing?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "Both parties split equally", "The party with the higher income"],
+      "explanation": "In Ohio, the conveyance fee is customarily paid by the seller. However, this is a matter of custom and negotiation — the parties may agree otherwise in the purchase contract.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-fee", "seller-pays", "closing"]
+    },
+    {
+      "key_topic_ref": "OH-14.2",
+      "question_text": "A husband transfers his property to his wife as part of a divorce settlement. Is the Ohio conveyance fee required?",
+      "correct_answer": "No, transfers between spouses are exempt",
+      "distractors": ["Yes, all property transfers require the fee", "Only if the property value exceeds $50,000", "Yes, but at a reduced rate of 50%"],
+      "explanation": "Transfers between spouses are exempt from the Ohio conveyance fee. Other exemptions include government transfers, no-consideration transfers, and certain foreclosure transfers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conveyance-fee", "exemption", "spouse"]
+    },
+    {
+      "key_topic_ref": "OH-14.2",
+      "question_text": "What is the maximum county permissive conveyance fee Ohio counties may impose?",
+      "correct_answer": "$3 per $1,000 of the sale price",
+      "distractors": ["$1 per $1,000 of the sale price", "$5 per $1,000 of the sale price", "$2 per $1,000 of the sale price"],
+      "explanation": "Ohio counties may impose a permissive fee of up to $3 per $1,000 in addition to the mandatory $1 state fee. The actual county rate varies; not all counties impose the maximum.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-fee", "county-maximum", "permissive"]
+    }
+  ]
+}

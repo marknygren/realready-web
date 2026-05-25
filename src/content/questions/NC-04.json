@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NC-04",
+  "scope": "state",
+  "state": "NC",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "NC-04.1",
+      "question_text": "Under NCGS 93A-4.2, who is responsible for supervising Provisional Brokers in a brokerage office?",
+      "correct_answer": "The Broker-in-Charge",
+      "distractors": [
+        "Any full Broker in the office",
+        "The firm's managing partner",
+        "The senior Provisional Broker"
+      ],
+      "explanation": "NCGS 93A-4.2 specifically assigns supervisory responsibility for Provisional Brokers to the Broker-in-Charge (BIC). Full Brokers who are not designated as BIC do not have this supervisory authority, even if they are experienced.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["BIC", "supervision", "NCGS_93A-4.2"]
+    },
+    {
+      "key_topic_ref": "NC-04.1",
+      "question_text": "A BIC delegates daily trust account entries to an office administrator. The administrator makes an error causing a shortage. Who is responsible?",
+      "correct_answer": "The BIC remains responsible for the account",
+      "distractors": [
+        "The office administrator who made the error",
+        "The firm owner exclusively",
+        "Responsibility is shared equally among all brokers"
+      ],
+      "explanation": "Even when a BIC delegates trust account maintenance tasks to others, the BIC retains ultimate responsibility for the trust account. Delegation does not transfer accountability. The BIC must ensure proper procedures are followed and any errors are corrected.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["BIC", "trust_account", "delegation", "responsibility"]
+    },
+    {
+      "key_topic_ref": "NC-04.1",
+      "question_text": "A BIC is the listing agent on a property. Her affiliated Provisional Broker brings a buyer for the same property. Can the BIC serve as designated dual agent?",
+      "correct_answer": "No, a BIC cannot be dual agent opposite her PB",
+      "distractors": [
+        "Yes, with written consent from both parties",
+        "Yes, if the PB has over 2 years of experience",
+        "Only if another BIC supervises the transaction"
+      ],
+      "explanation": "A BIC must not serve as a designated dual agent opposite an affiliated Provisional Broker. This restriction exists because the supervisory relationship between BIC and PB creates an inherent conflict that undermines the independence required for dual agency.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["BIC", "dual_agency", "PB", "conflict"]
+    },
+    {
+      "key_topic_ref": "NC-04.1",
+      "question_text": "A Provisional Broker closes a deal while her BIC is on vacation and unreachable. Is this a compliance issue?",
+      "correct_answer": "Yes, PBs cannot work without BIC supervision",
+      "distractors": [
+        "No, if the PB has more than 1 year of experience",
+        "No, the BIC can review the file upon return",
+        "Only if the transaction exceeds $250,000"
+      ],
+      "explanation": "Provisional Brokers must always work under the active supervision of their BIC. A BIC who is unreachable cannot provide the required oversight. The brokerage should designate a temporary BIC or ensure another qualified BIC covers during absences.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PB", "BIC_supervision", "compliance"]
+    },
+    {
+      "key_topic_ref": "NC-04.1",
+      "question_text": "A BIC resigns from a firm and no replacement is designated. What happens to the firm's Provisional Brokers?",
+      "correct_answer": "They cannot perform brokerage activities",
+      "distractors": [
+        "They become full Brokers automatically",
+        "They may practice independently for 30 days",
+        "The firm owner can supervise them temporarily"
+      ],
+      "explanation": "Without a designated BIC, Provisional Brokers cannot legally perform any brokerage activities. The firm must designate a new BIC before its PBs can resume practicing. A non-BIC firm owner or full Broker cannot substitute for a designated BIC in supervising PBs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["BIC", "resignation", "PB_supervision", "firm"]
+    },
+    {
+      "key_topic_ref": "NC-04.2",
+      "question_text": "A listing broker finds a ready, willing, and able buyer, but the seller refuses to close. Is the broker entitled to the commission?",
+      "correct_answer": "Yes, the broker earned the fee",
+      "distractors": [
+        "No, closing is required for commission",
+        "Only if the buyer sues for specific performance",
+        "Only half the agreed commission"
+      ],
+      "explanation": "When a listing broker produces a ready, willing, and able buyer under the listing terms, the broker has earned the commission regardless of whether the seller follows through. The seller's refusal to close does not negate the broker's right to compensation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commission", "ready_willing_able", "seller_refusal"]
+    },
+    {
+      "key_topic_ref": "NC-04.2",
+      "question_text": "A listing agent discovers that the seller's spouse refuses to sign the deed at closing. Does the broker still earn the fee?",
+      "correct_answer": "Yes, the broker is still entitled to the fee",
+      "distractors": [
+        "No, the transaction must close for payment",
+        "Only if the listing agreement addresses this",
+        "No, a spousal refusal voids the commission"
+      ],
+      "explanation": "A broker who has procured a ready, willing, and able buyer is entitled to the fee even if the seller's spouse refuses to sign. The broker fulfilled the listing obligation by producing a qualified buyer. The seller's inability to deliver clear title does not extinguish the broker's earned commission.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commission", "spousal_refusal", "listing_agent"]
+    },
+    {
+      "key_topic_ref": "NC-04.2",
+      "question_text": "A buyer agent holds an active license and a written buyer agency agreement. What additional element must exist for the agent to earn compensation?",
+      "correct_answer": "The agent must procure the property the buyer buys",
+      "distractors": [
+        "The agent must also hold a BIC designation",
+        "The transaction must close within 60 days",
+        "The seller must agree to pay the buyer agent"
+      ],
+      "explanation": "For a buyer agent to earn compensation, three elements must exist: an active license, a written buyer agency agreement, and the agent must have procured the property the buyer ultimately purchases. Seller agreement to pay is not required.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["buyer_agent", "compensation", "procuring_cause"]
+    },
+    {
+      "key_topic_ref": "NC-04.2",
+      "question_text": "A seller and buyer secretly agree to cancel a contract to avoid paying the listing broker's commission. What is the broker's right?",
+      "correct_answer": "The broker is still entitled to the commission",
+      "distractors": [
+        "The broker loses the right to any fee",
+        "The broker can only recover actual expenses",
+        "The broker must renegotiate with the seller"
+      ],
+      "explanation": "When a buyer and seller conspire to cancel a contract to avoid paying a commission, the listing broker who procured the ready, willing, and able buyer remains entitled to the full commission. The parties cannot collude to deprive the broker of earned compensation.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commission", "conspiracy_to_cancel", "broker_rights"]
+    },
+    {
+      "key_topic_ref": "NC-04.2",
+      "question_text": "A broker lets her license lapse before closing a transaction she negotiated. Can she collect her commission?",
+      "correct_answer": "No, the license must be active when services are rendered",
+      "distractors": [
+        "Yes, if the listing was signed while she was active",
+        "Yes, the commission was earned at contract",
+        "Only if she reinstates within 30 days of closing"
+      ],
+      "explanation": "A broker must hold an active license at the time brokerage services are performed. If the license lapses before the transaction closes, the broker cannot legally collect compensation. Maintaining active status through closing is essential to preserving commission rights.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["active_license", "commission", "lapsed_license"]
+    },
+    {
+      "key_topic_ref": "NC-04.3",
+      "question_text": "How must a Provisional Broker receive her commission from a transaction?",
+      "correct_answer": "Through her supervising BIC",
+      "distractors": [
+        "Directly from the closing attorney",
+        "From the seller at closing",
+        "From the co-operating brokerage firm"
+      ],
+      "explanation": "In North Carolina, Provisional Brokers must receive all compensation through their supervising BIC. They cannot be paid directly by clients, closing attorneys, or cooperating brokerages. This rule ensures proper oversight of financial transactions involving PBs.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PB", "compensation", "BIC", "payment"]
+    },
+    {
+      "key_topic_ref": "NC-04.3",
+      "question_text": "An out-of-state broker wants to co-broke on a North Carolina listing. She holds an active license in her home state. What restriction applies?",
+      "correct_answer": "She must not enter NC for brokerage activity",
+      "distractors": [
+        "She must obtain a full NC broker license",
+        "She can operate freely with her home license",
+        "She needs written NCREC approval first"
+      ],
+      "explanation": "A foreign broker with an active home-state license may co-broke with a NC broker but must not physically enter North Carolina to perform brokerage activities. The out-of-state broker refers the client and shares the fee but conducts no NC-based brokerage work.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["co-brokerage", "out_of_state", "restriction"]
+    },
+    {
+      "key_topic_ref": "NC-04.3",
+      "question_text": "Which of the following is a valid fee arrangement for a buyer agent in North Carolina?",
+      "correct_answer": "A retainer fee paid at the start of services",
+      "distractors": [
+        "A percentage of the buyer's mortgage amount",
+        "An hourly rate deducted from property taxes",
+        "A flat fee paid by the appraiser"
+      ],
+      "explanation": "Valid fee types for buyer agents include retainers, success fees, and sharing the listing broker's offered fee. A retainer paid at engagement is a legitimate arrangement. Fees based on mortgage amounts or paid by appraisers are not standard compensation structures.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer_agent", "fee_types", "retainer"]
+    },
+    {
+      "key_topic_ref": "NC-04.3",
+      "question_text": "A buyer's agent wants to include her compensation request in the purchase offer submitted to the seller. Is this permitted?",
+      "correct_answer": "Yes, buyer-agent compensation may be in offers",
+      "distractors": [
+        "No, compensation must be separate from offers",
+        "Only if the listing broker agrees in advance",
+        "Only for transactions over $300,000"
+      ],
+      "explanation": "Under current NC rules, buyer-agent compensation may now be included in purchase offers presented to sellers. This change reflects evolving industry practices around buyer representation and compensation transparency.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["buyer_agent", "compensation", "purchase_offer"]
+    },
+    {
+      "key_topic_ref": "NC-04.3",
+      "question_text": "A full Broker affiliated with a firm closes a sale. Who pays her commission?",
+      "correct_answer": "The BIC of the firm she is affiliated with",
+      "distractors": [
+        "The buyer directly at closing",
+        "The listing broker of the other firm",
+        "The closing attorney from escrow funds"
+      ],
+      "explanation": "Even full Brokers affiliated with a firm receive compensation through the firm's BIC, not directly from clients or cooperating brokerages. This maintains proper accounting and ensures all firm transactions flow through the designated BIC.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Broker", "compensation", "BIC", "firm"]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "standard_ref": "CT-14",
+  "scope": "state",
+  "state": "CT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CT-14.1",
+      "question_text": "The Connecticut Common Interest Ownership Act (CIOA) governs condominiums, planned communities, and cooperatives created after:",
+      "correct_answer": "January 1, 1984",
+      "distractors": ["January 1, 1990", "January 1, 2000", "January 1, 1975"],
+      "explanation": "CIOA governs common interest communities created after January 1, 1984. Pre-1984 communities are governed by the older Connecticut Condominium Act.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CIOA", "effective-date", "1984"]
+    },
+    {
+      "key_topic_ref": "CT-14.1",
+      "question_text": "When selling a unit in a CIOA community, the seller must provide the buyer with a:",
+      "correct_answer": "Resale certificate",
+      "distractors": ["Property condition report only", "Title insurance commitment", "Municipal lien certificate"],
+      "explanation": "The seller must provide a resale certificate containing association financial information, governing documents, and special assessments. This gives the buyer essential information about the community's financial health.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CIOA", "resale-certificate", "disclosure"]
+    },
+    {
+      "key_topic_ref": "CT-14.1",
+      "question_text": "After receiving a CIOA resale certificate, the buyer has how many days to review and cancel?",
+      "correct_answer": "15 days",
+      "distractors": ["7 days", "10 days", "30 days"],
+      "explanation": "The buyer has 15 days to review the resale certificate and cancel the purchase if desired. This provides a meaningful review period to evaluate the community's financial and governance information.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CIOA", "cancellation", "15-days"]
+    },
+    {
+      "key_topic_ref": "CT-14.1",
+      "question_text": "A buyer requests a resale certificate from a CIOA association. The association must provide it within:",
+      "correct_answer": "10 days",
+      "distractors": ["5 days", "15 days", "30 days"],
+      "explanation": "The association must provide the resale certificate within 10 days of the request. The buyer then has 15 days from receipt to review and potentially cancel.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CIOA", "resale-certificate", "10-days"]
+    },
+    {
+      "key_topic_ref": "CT-14.1",
+      "question_text": "An HOA in a CIOA community has unpaid common expenses from a unit owner. The association's lien for these expenses has priority over:",
+      "correct_answer": "Most liens except tax liens and first mortgages",
+      "distractors": ["All other liens including first mortgages", "Only judgment liens and mechanic's liens", "No other liens; it is the lowest priority"],
+      "explanation": "The HOA has a statutory lien for unpaid common expenses that takes priority over most liens. However, tax liens and first mortgages still have higher priority than the HOA lien.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["CIOA", "lien-priority", "HOA"]
+    },
+    {
+      "key_topic_ref": "CT-14.2",
+      "question_text": "Connecticut's fair housing law is enforced by the:",
+      "correct_answer": "Commission on Human Rights and Opportunities",
+      "distractors": ["Department of Consumer Protection (DCP)", "Connecticut Real Estate Commission (CREC)", "Office of the Connecticut Attorney General"],
+      "explanation": "The CHRO enforces Connecticut's fair housing law (Connecticut Human Rights and Opportunities Act). CHRO investigates complaints, mediates, holds hearings, and can award damages.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "CHRO", "enforcement"]
+    },
+    {
+      "key_topic_ref": "CT-14.2",
+      "question_text": "A landlord refuses to rent to a tenant who pays with a Section 8 housing voucher. In Connecticut, this is:",
+      "correct_answer": "Illegal discrimination based on lawful source of income",
+      "distractors": ["Legal because landlords can choose payment methods", "Legal unless the unit has more than 4 units", "Illegal only in municipalities with fair rent commissions"],
+      "explanation": "Connecticut protects lawful source of income as a fair housing class. Refusing to rent to someone because they use Section 8 vouchers, public assistance, or other legal income sources is illegal statewide.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "source-of-income", "Section-8"]
+    },
+    {
+      "key_topic_ref": "CT-14.2",
+      "question_text": "Connecticut's fair housing law differs from federal law in that Connecticut:",
+      "correct_answer": "Has no exemption for owner-occupied small properties",
+      "distractors": ["Protects fewer classes than federal law", "Only applies to rental properties", "Exempts single-family home sales"],
+      "explanation": "Connecticut does not have the federal 'Mrs. Murphy' exemption for owner-occupied properties. Connecticut's law is stricter — it applies to all housing transactions regardless of owner occupancy.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair-housing", "no-exemption", "stricter"]
+    },
+    {
+      "key_topic_ref": "CT-14.2",
+      "question_text": "A fair housing complaint must be filed with CHRO within how many days of the discriminatory act?",
+      "correct_answer": "180 days",
+      "distractors": ["90 days", "365 days", "30 days"],
+      "explanation": "A CHRO complaint must be filed within 180 days of the discriminatory act. CHRO can investigate, mediate, hold hearings, and award compensatory damages, attorney fees, and civil penalties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "CHRO", "180-days"]
+    },
+    {
+      "key_topic_ref": "CT-14.2",
+      "question_text": "Which of the following is a Connecticut-specific protected class not covered by federal fair housing law?",
+      "correct_answer": "Veteran status",
+      "distractors": ["Race", "Disability", "Familial status"],
+      "explanation": "Connecticut protects additional classes beyond federal law including veteran status, lawful source of income, gender identity/expression, sexual orientation, age, marital status, and domestic violence victim status.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "protected-classes", "veteran"]
+    },
+    {
+      "key_topic_ref": "CT-14.3",
+      "question_text": "Under Connecticut's adoption of UETA, electronic signatures on real estate contracts are:",
+      "correct_answer": "Legally equivalent to handwritten signatures",
+      "distractors": ["Valid only for contracts under $50,000", "Valid only with notary verification", "Not yet recognized for real estate transactions"],
+      "explanation": "Connecticut adopted UETA, giving electronic signatures the same legal effect as handwritten signatures for real estate contracts, disclosures, and agency agreements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["UETA", "electronic-signatures", "validity"]
+    },
+    {
+      "key_topic_ref": "CT-14.3",
+      "question_text": "For an electronic signature to be valid on a real estate contract in Connecticut, both parties must:",
+      "correct_answer": "Consent to conducting the transaction electronically",
+      "distractors": ["Use the same electronic platform", "Have their signatures notarized digitally", "File a copy with the town clerk electronically"],
+      "explanation": "UETA requires mutual consent to electronic transactions. Both parties must agree to conduct the transaction electronically — one party cannot force electronic execution on an unwilling party.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["UETA", "consent", "electronic"]
+    },
+    {
+      "key_topic_ref": "CT-14.3",
+      "question_text": "Connecticut's UETA does NOT apply to which of the following?",
+      "correct_answer": "Wills and testamentary trusts",
+      "distractors": ["Purchase and sale agreements", "Agency disclosure forms", "Listing agreements"],
+      "explanation": "UETA does not apply to wills, testamentary trusts, or certain UCC transactions. Real estate contracts, disclosures, and agency agreements can all be executed electronically.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["UETA", "exceptions", "wills"]
+    },
+    {
+      "key_topic_ref": "CT-14.3",
+      "question_text": "A buyer wants to sign a purchase contract electronically but the seller insists on paper. Under UETA:",
+      "correct_answer": "The seller's preference for paper must be respected",
+      "distractors": ["The buyer can require electronic signing", "A judge must decide the format", "The listing agent determines the method"],
+      "explanation": "UETA requires mutual consent for electronic transactions. If either party prefers paper, the transaction must accommodate that preference. Neither party can be forced to use electronic signatures.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["UETA", "consent", "paper-preference"]
+    },
+    {
+      "key_topic_ref": "CT-14.3",
+      "question_text": "Which of the following Connecticut real estate documents can be executed with an electronic signature under UETA?",
+      "correct_answer": "Agency disclosure forms",
+      "distractors": ["A testamentary trust transferring real property", "A last will devising real property", "A UCC financing statement"],
+      "explanation": "Agency disclosures, purchase contracts, listing agreements, and most real estate documents can be signed electronically under UETA. Wills, testamentary trusts, and certain UCC transactions are excluded.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["UETA", "applicable-documents", "agency"]
+    },
+    {
+      "key_topic_ref": "CT-14.4",
+      "question_text": "Under PA 25-168 (effective July 2026), real estate wholesalers in Connecticut must:",
+      "correct_answer": "Register with the Department of Consumer Protection",
+      "distractors": ["Obtain a real estate broker's license", "Complete 60 hours of pre-license education", "Pass the state real estate licensing exam"],
+      "explanation": "PA 25-168 requires wholesalers to register with DCP (not obtain a full license). The registration fee is $285 biennial. This is a lighter requirement than full licensure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wholesaling", "registration", "PA-25-168"]
+    },
+    {
+      "key_topic_ref": "CT-14.4",
+      "question_text": "A wholesale contract in Connecticut must give the seller a cancellation window of:",
+      "correct_answer": "3 business days",
+      "distractors": ["5 business days", "7 calendar days", "10 business days"],
+      "explanation": "PA 25-168 requires that sellers be given a 3-business-day cancellation window on wholesale contracts, providing time to review terms and consult advisors.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wholesaling", "cancellation", "3-days"]
+    },
+    {
+      "key_topic_ref": "CT-14.4",
+      "question_text": "The maximum time between contract signing and closing for a wholesale transaction in Connecticut is:",
+      "correct_answer": "90 days",
+      "distractors": ["30 days", "60 days", "180 days"],
+      "explanation": "PA 25-168 prohibits wholesalers from setting a closing date more than 90 days after the contract is signed. This prevents deals from dragging on indefinitely.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wholesaling", "closing-deadline", "90-days"]
+    },
+    {
+      "key_topic_ref": "CT-14.4",
+      "question_text": "The biennial registration fee for a Connecticut real estate wholesaler is:",
+      "correct_answer": "$285",
+      "distractors": ["$80", "$120", "$500"],
+      "explanation": "The wholesaler registration fee is $285, paid biennially (every 2 years). This is separate from the $80 salesperson application fee or $120 broker application fee.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wholesaling", "fee", "285"]
+    },
+    {
+      "key_topic_ref": "CT-14.4",
+      "question_text": "A wholesaler assigns a contract to an investor 45 days after the seller signed. The seller wants to cancel. Under PA 25-168:",
+      "correct_answer": "The 3-business-day cancellation period has already passed",
+      "distractors": ["The seller can cancel at any time before closing", "The seller has 10 days from the assignment date", "The seller can cancel because 90 days haven't elapsed"],
+      "explanation": "The 3-business-day cancellation window runs from the date the seller signs the contract. At 45 days, the cancellation period has long passed. The 90-day limit is for the closing deadline, not cancellation.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["wholesaling", "cancellation", "timing"]
+    }
+  ]
+}

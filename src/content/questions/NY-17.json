@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NY-17",
+  "scope": "state",
+  "state": "NY",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NY-17.1",
+      "question_text": "Which agency sets annual rent increases for rent-stabilized apartments in New York City?",
+      "correct_answer": "The Rent Guidelines Board",
+      "distractors": [
+        "DHCR (Division of Housing and Community Renewal)",
+        "The NYC Department of Buildings",
+        "The New York State Legislature"
+      ],
+      "explanation": "The Rent Guidelines Board (RGB) sets annual allowable rent increases for rent-stabilized apartments in New York City. The RGB considers factors such as operating costs, inflation, and housing market conditions when determining guidelines for one-year and two-year lease renewals.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rent-stabilization", "Rent-Guidelines-Board", "rent-increase"]
+    },
+    {
+      "key_topic_ref": "NY-17.1",
+      "question_text": "A tenant has lived continuously in the same NYC apartment since 1968. The building was constructed in 1940. This tenant is most likely subject to which form of rent regulation?",
+      "correct_answer": "Rent control",
+      "distractors": [
+        "Rent stabilization under ETPA",
+        "No rent regulation applies",
+        "Section 8 federal voucher program"
+      ],
+      "explanation": "Rent control applies to buildings constructed before 1947 where the tenant has been in continuous occupancy since before July 1, 1971. This tenant has lived there since 1968 in a 1940 building, meeting both criteria. Very few rent-controlled apartments remain in NYC.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rent-control", "continuous-occupancy", "pre-1947"]
+    },
+    {
+      "key_topic_ref": "NY-17.1",
+      "question_text": "A building in Manhattan has 8 units and was constructed in 1970. Under the ETPA, what rent regulation likely applies?",
+      "correct_answer": "Rent stabilization",
+      "distractors": [
+        "Rent control",
+        "No regulation — too few units",
+        "Market rate with voluntary guidelines"
+      ],
+      "explanation": "Rent stabilization under the Emergency Tenant Protection Act (ETPA) generally applies to buildings with six or more units constructed before 1974 in New York City and certain surrounding counties. This 8-unit building from 1970 meets both thresholds.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rent-stabilization", "ETPA", "unit-threshold", "pre-1974"]
+    },
+    {
+      "key_topic_ref": "NY-17.1",
+      "question_text": "A rent-stabilized tenant's lease is expiring. The tenant wants to remain. What renewal right does the tenant have?",
+      "correct_answer": "Right to renew for one or two years at regulated rates",
+      "distractors": [
+        "No renewal right because the landlord decides at lease end",
+        "Automatic three-year renewal at the same rent amount",
+        "Right to purchase the unit at fair market value"
+      ],
+      "explanation": "Rent-stabilized tenants have the right to renew their leases for either one or two years. The rent increase is limited to the percentage set by the Rent Guidelines Board for that year. Landlords cannot refuse to renew without specific legal grounds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rent-stabilization", "lease-renewal", "tenant-rights"]
+    },
+    {
+      "key_topic_ref": "NY-17.1",
+      "question_text": "A landlord asks DHCR to set a rent increase for a rent-controlled unit. What factor does DHCR primarily consider?",
+      "correct_answer": "The building's operating cost increases",
+      "distractors": [
+        "Comparable market rents in the neighborhood",
+        "The tenant's household income level",
+        "The Rent Guidelines Board's annual percentage"
+      ],
+      "explanation": "For rent-controlled apartments, DHCR (Division of Housing and Community Renewal) determines allowable rent increases based on the landlord's actual operating cost increases, not market comparables or the RGB guidelines. This is a different mechanism than rent stabilization.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["rent-control", "DHCR", "operating-costs", "rent-increase"]
+    },
+    {
+      "key_topic_ref": "NY-17.2",
+      "question_text": "Under New York law, what is the maximum security deposit a residential landlord can collect?",
+      "correct_answer": "One month's rent",
+      "distractors": [
+        "Two months' rent",
+        "First and last month's rent combined",
+        "Three months' rent for luxury apartments"
+      ],
+      "explanation": "New York law limits residential security deposits to one month's rent. Landlords cannot collect additional deposits labeled as pet deposits, cleaning deposits, or other fees. This single-month limit applies regardless of the rental amount or property type.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "one-month-limit", "tenant-protection"]
+    },
+    {
+      "key_topic_ref": "NY-17.2",
+      "question_text": "A tenant moves out and the landlord deducts cleaning costs from the security deposit. Within how many days must the landlord return the remaining balance with an itemized statement?",
+      "correct_answer": "14 days",
+      "distractors": [
+        "30 days",
+        "45 days",
+        "60 days"
+      ],
+      "explanation": "New York law requires landlords to return the security deposit within 14 days of the tenant vacating the unit. The return must include an itemized statement of any deductions. Failure to comply can result in the landlord forfeiting the right to retain any portion of the deposit.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "14-day-return", "itemized-deductions"]
+    },
+    {
+      "key_topic_ref": "NY-17.2",
+      "question_text": "A tenant in a 10-unit building wants to sublet her apartment. The landlord refuses without explanation. Under New York law, is the landlord's refusal valid?",
+      "correct_answer": "No, landlords cannot unreasonably withhold consent in 4+ units",
+      "distractors": [
+        "Yes, landlords can always refuse sublets without any reason",
+        "No, but only in rent-stabilized apartment buildings",
+        "Yes, unless the lease specifically permits subletting"
+      ],
+      "explanation": "In buildings with four or more units, New York's Real Property Law provides tenants the right to sublet, and landlords cannot unreasonably withhold consent. An unreasonable refusal allows the tenant to sublet despite the landlord's objection.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["subletting", "landlord-consent", "4-plus-units", "tenant-rights"]
+    },
+    {
+      "key_topic_ref": "NY-17.2",
+      "question_text": "A tenant's apartment has no heat during January and the landlord refuses to repair the boiler. The conditions make the unit uninhabitable. What legal doctrine protects the tenant?",
+      "correct_answer": "Warranty of habitability",
+      "distractors": [
+        "Doctrine of estoppel",
+        "Statute of frauds",
+        "Implied warranty of fitness"
+      ],
+      "explanation": "The warranty of habitability requires landlords to maintain rental units in a condition fit for human habitation, including providing heat, hot water, structural integrity, and pest control. A landlord who fails to provide heat in winter violates this warranty, entitling the tenant to remedies.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["warranty-of-habitability", "heat", "landlord-obligation", "tenant-rights"]
+    },
+    {
+      "key_topic_ref": "NY-17.2",
+      "question_text": "A landlord collects a $2,000 security deposit and a separate $500 pet deposit from a new tenant. Under current New York law, is this permissible?",
+      "correct_answer": "No, total deposits cannot exceed one month's rent",
+      "distractors": [
+        "Yes, pet deposits are separate from security deposits",
+        "Yes, if the combined total is under three months' rent",
+        "No, but only in rent-regulated apartments"
+      ],
+      "explanation": "New York law prohibits stacking additional deposits such as pet or cleaning deposits on top of the security deposit. The total amount collected as a deposit cannot exceed one month's rent, regardless of what the landlord labels each charge.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "pet-deposit", "stacking-prohibition"]
+    },
+    {
+      "key_topic_ref": "NY-17.3",
+      "question_text": "What was the most significant change the HSTPA of 2019 made to New York's rent stabilization system?",
+      "correct_answer": "Eliminated vacancy decontrol of apartments",
+      "distractors": [
+        "Created the Rent Guidelines Board",
+        "Extended rent control to buildings built after 1974",
+        "Established the DHCR as the enforcement agency"
+      ],
+      "explanation": "The Housing Stability and Tenant Protection Act (HSTPA) of 2019 eliminated vacancy decontrol, which previously allowed apartments to be deregulated when the rent reached a threshold amount upon vacancy. Now apartments remain rent-stabilized regardless of the rent level.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HSTPA", "vacancy-decontrol", "rent-stabilization", "2019-reform"]
+    },
+    {
+      "key_topic_ref": "NY-17.3",
+      "question_text": "Before HSTPA 2019, a landlord could deregulate a vacant apartment when the rent exceeded a statutory threshold. What was this process called?",
+      "correct_answer": "Vacancy decontrol",
+      "distractors": [
+        "Luxury deregulation",
+        "Market-rate conversion",
+        "Threshold deregulation"
+      ],
+      "explanation": "Vacancy decontrol allowed landlords to remove apartments from rent stabilization when the legal regulated rent exceeded a threshold amount and the unit became vacant. HSTPA 2019 permanently eliminated this practice, keeping apartments stabilized indefinitely.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["vacancy-decontrol", "HSTPA", "deregulation", "rent-stabilization"]
+    },
+    {
+      "key_topic_ref": "NY-17.3",
+      "question_text": "A landlord in a non-rent-stabilized building wants to evict a tenant who pays rent on time. Under the Good Cause Eviction Law, is this permitted?",
+      "correct_answer": "No, eviction requires good cause even outside rent stabilization",
+      "distractors": [
+        "Yes, non-regulated tenants have no eviction protections whatsoever",
+        "Yes, as long as the landlord gives 90 days written notice",
+        "No, but only if the tenant has lived there over 10 years"
+      ],
+      "explanation": "New York's Good Cause Eviction Law extends eviction protections beyond rent-stabilized housing. Landlords statewide must demonstrate good cause to evict tenants, even in market-rate apartments. Simply wanting to remove a tenant who pays rent on time is not sufficient cause.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["good-cause-eviction", "tenant-protection", "statewide", "non-regulated"]
+    },
+    {
+      "key_topic_ref": "NY-17.3",
+      "question_text": "An investor considering purchasing a rent-stabilized building in Brooklyn asks how HSTPA affected allowable rent increases after a vacancy. What should the agent explain?",
+      "correct_answer": "HSTPA limited the rent increase a landlord can take on vacancy",
+      "distractors": [
+        "Landlords can set any market rent they want after a vacancy occurs",
+        "HSTPA froze all rents at their 2019 levels permanently",
+        "Vacancy increases are now set by the local housing court"
+      ],
+      "explanation": "HSTPA 2019 significantly limited the rent increases landlords could take when a rent-stabilized apartment becomes vacant. Previously, landlords could take substantial vacancy bonuses and individual apartment improvements. These provisions were either eliminated or sharply curtailed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["HSTPA", "vacancy-increase", "rent-stabilization", "investment"]
+    },
+    {
+      "key_topic_ref": "NY-17.3",
+      "question_text": "A building owner argues that Good Cause Eviction should not apply to her 3-unit property. Under the law, does it apply?",
+      "correct_answer": "Yes, the law applies broadly regardless of building size",
+      "distractors": [
+        "No, buildings under 6 residential units are fully exempt",
+        "No, only buildings with 10 or more units are covered",
+        "It applies only in New York City, not statewide"
+      ],
+      "explanation": "New York's Good Cause Eviction Law applies broadly statewide and is not limited by building size. It extends eviction protections to tenants across most residential rental housing, moving beyond the traditional scope of rent stabilization which was limited to larger buildings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["good-cause-eviction", "building-size", "statewide", "applicability"]
+    }
+  ]
+}

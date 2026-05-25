@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WV-13",
+  "scope": "state",
+  "state": "WV",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WV-13.1",
+      "question_text": "Which protected class is unique to West Virginia's Fair Housing Act and listed separately from general disability?",
+      "correct_answer": "Blindness",
+      "distractors": ["Age", "Marital status", "Sexual orientation"],
+      "explanation": "Blindness is specifically enumerated as a separate protected class in WV's Fair Housing Act, in addition to the general handicap/disability protection. This is a WV-specific provision.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "blindness", "protected-class"]
+    },
+    {
+      "key_topic_ref": "WV-13.1",
+      "question_text": "West Virginia's Fair Housing Act adds which protected class that is NOT in the federal Fair Housing Act?",
+      "correct_answer": "Ancestry",
+      "distractors": ["National origin", "Familial status", "Color"],
+      "explanation": "Ancestry is a WV-specific protected class not found in the federal Fair Housing Act. National origin, familial status, and color are already in the federal law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "ancestry", "WV-specific"]
+    },
+    {
+      "key_topic_ref": "WV-13.1",
+      "question_text": "How many protected classes are covered under West Virginia's Fair Housing Act?",
+      "correct_answer": "Nine",
+      "distractors": ["Seven", "Eight", "Eleven"],
+      "explanation": "WV's Fair Housing Act covers nine protected classes: race, color, religion, ancestry, sex, familial status, blindness, handicap, and national origin. The federal law covers seven.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "protected-classes", "count"]
+    },
+    {
+      "key_topic_ref": "WV-13.1",
+      "question_text": "A landlord refuses to rent to a tenant because the tenant is blind. Under WV law, is this discrimination?",
+      "correct_answer": "Yes, blindness is a protected class in WV",
+      "distractors": ["Only if the landlord receives federal funding", "Only if the property has 5 or more units", "No, blindness falls under disability only"],
+      "explanation": "Blindness is specifically enumerated as a separate protected class under WV's Fair Housing Act, providing explicit protection beyond the general handicap/disability category.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "blindness", "discrimination"]
+    },
+    {
+      "key_topic_ref": "WV-13.1",
+      "question_text": "A property owner discriminates against a prospective buyer based on their Italian ancestry. Is this a violation under WV law?",
+      "correct_answer": "Yes, ancestry is a WV protected class",
+      "distractors": ["Only if it also involves national origin", "No, ancestry is not a WV protected class", "Only in rental situations, not sales"],
+      "explanation": "Ancestry is a protected class under WV's Fair Housing Act, separate from national origin. Discrimination based on Italian ancestry violates both state and potentially federal law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "ancestry", "discrimination"]
+    },
+    {
+      "key_topic_ref": "WV-13.2",
+      "question_text": "An agent steers minority buyers away from certain neighborhoods. Under WV law, this is an example of what?",
+      "correct_answer": "Steering — a prohibited fair housing practice",
+      "distractors": ["Good customer service to match preferences", "An acceptable marketing strategy", "Legal if both parties agree"],
+      "explanation": "Steering is a prohibited practice under WV's Fair Housing Act. Directing buyers toward or away from neighborhoods based on protected characteristics is illegal.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "steering", "prohibited"]
+    },
+    {
+      "key_topic_ref": "WV-13.2",
+      "question_text": "A real estate agent tells homeowners in a neighborhood that property values will drop because families of a different race are moving in. What violation is this?",
+      "correct_answer": "Blockbusting",
+      "distractors": ["Steering", "Redlining", "Discriminatory advertising"],
+      "explanation": "Blockbusting (also called panic selling) is the practice of telling homeowners that property values will decline due to the entry of minority groups. It is a prohibited practice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "blockbusting", "prohibited"]
+    },
+    {
+      "key_topic_ref": "WV-13.2",
+      "question_text": "A WV property listing states 'no children allowed.' Under the Fair Housing Act, what type of discrimination is this?",
+      "correct_answer": "Familial status discrimination",
+      "distractors": ["Age discrimination", "Not a violation for rental properties", "Legal if the property is unsafe for children"],
+      "explanation": "Refusing to rent or sell based on familial status (presence of children under 18) is prohibited. Only qualified senior housing (55+ or 62+ communities) may restrict based on age.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "familial-status", "advertising"]
+    },
+    {
+      "key_topic_ref": "WV-13.2",
+      "question_text": "A lending institution refuses to make loans for properties in certain neighborhoods based on racial composition. This practice is called what?",
+      "correct_answer": "Redlining",
+      "distractors": ["Blockbusting", "Steering", "Predatory lending"],
+      "explanation": "Redlining is the practice of denying services (especially lending) based on the racial or ethnic composition of a neighborhood. It is a prohibited fair housing practice.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "redlining", "prohibited"]
+    },
+    {
+      "key_topic_ref": "WV-13.2",
+      "question_text": "A WV broker denies a licensee access to the local MLS based on the licensee's religion. What violation has occurred?",
+      "correct_answer": "Denial of access to real estate services",
+      "distractors": ["No violation since MLSs are private", "Only a violation if religion affects competency", "A violation of WVREC advertising rules only"],
+      "explanation": "Denying access to real estate services, organizations, or facilities based on protected characteristics is a prohibited practice under both federal and WV Fair Housing Acts.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair-housing", "denial-of-services", "religion"]
+    },
+    {
+      "key_topic_ref": "WV-13.3",
+      "question_text": "Which state agency enforces the WV Fair Housing Act?",
+      "correct_answer": "The WV Human Rights Commission",
+      "distractors": ["The WV Real Estate Commission", "The WV Attorney General's office", "The WV Department of Housing"],
+      "explanation": "The WV Human Rights Commission enforces the WV Fair Housing Act. It investigates complaints, holds hearings, and orders remedies. The WVREC regulates licensing, not fair housing enforcement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "Human-Rights-Commission", "enforcement"]
+    },
+    {
+      "key_topic_ref": "WV-13.3",
+      "question_text": "What powers does the WV Human Rights Commission have regarding fair housing complaints?",
+      "correct_answer": "Investigate, hold hearings, and order remedies",
+      "distractors": ["Only accept and forward complaints to HUD", "Only mediate between the parties", "Only issue advisory opinions without enforcement"],
+      "explanation": "The WV Human Rights Commission has full enforcement powers: it can investigate complaints, hold hearings, and order remedies for fair housing violations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "enforcement", "powers"]
+    },
+    {
+      "key_topic_ref": "WV-13.3",
+      "question_text": "A homebuyer experiences housing discrimination in WV. Where can they file a complaint?",
+      "correct_answer": "WV Human Rights Commission, HUD, or state court",
+      "distractors": ["Only with the WV Human Rights Commission", "Only with HUD in Washington DC", "Only in federal district court"],
+      "explanation": "Complainants have three avenues: the WV Human Rights Commission, HUD (federal level), or state court. They are not limited to a single option.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "complaint-filing", "options"]
+    },
+    {
+      "key_topic_ref": "WV-13.3",
+      "question_text": "A person files a fair housing complaint with the WV Human Rights Commission. What happens next?",
+      "correct_answer": "The commission investigates the complaint",
+      "distractors": ["The respondent is immediately fined", "The complainant must hire an attorney first", "The case goes directly to a jury trial"],
+      "explanation": "After receiving a fair housing complaint, the WV Human Rights Commission investigates the allegations. If probable cause is found, the commission may hold hearings and order remedies.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "complaint-process", "investigation"]
+    },
+    {
+      "key_topic_ref": "WV-13.3",
+      "question_text": "A WV real estate licensee violates the Fair Housing Act. Which entities could take action against the licensee?",
+      "correct_answer": "Both the Human Rights Commission and the WVREC",
+      "distractors": ["Only the WV Human Rights Commission", "Only the WVREC for license discipline", "Only a civil court for monetary damages"],
+      "explanation": "A licensee who violates fair housing law faces both fair housing enforcement by the WV Human Rights Commission and potential license discipline by the WVREC. The violation can trigger action from both agencies.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair-housing", "dual-enforcement", "licensee-discipline"]
+    }
+  ]
+}

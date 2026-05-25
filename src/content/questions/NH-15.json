@@ -1,0 +1,294 @@
+{
+  "standard_ref": "NH-15",
+  "scope": "state",
+  "state": "NH",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NH-15.1",
+      "question_text": "What is the default notice period for eviction in NH under RSA 540?",
+      "correct_answer": "30 days",
+      "distractors": [
+        "14 days",
+        "60 days",
+        "7 days"
+      ],
+      "explanation": "RSA 540 establishes a default 30-day notice period for eviction in New Hampshire. Shorter periods apply for nonpayment, damage, or non-compliance (7 days), and longer periods for non-renewal of 12+ month leases (60 days).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "RSA 540",
+        "eviction",
+        "notice period"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.1",
+      "question_text": "A tenant fails to pay rent. How many days notice must the landlord provide before filing for eviction?",
+      "correct_answer": "7 days",
+      "distractors": [
+        "30 days",
+        "14 days",
+        "60 days"
+      ],
+      "explanation": "Under RSA 540, nonpayment of rent, property damage, or non-compliance with lease terms requires only 7 days notice before the landlord can proceed with eviction.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "RSA 540",
+        "nonpayment",
+        "7-day notice"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.1",
+      "question_text": "A landlord decides not to renew a 2-year lease. What notice period is required?",
+      "correct_answer": "60 days",
+      "distractors": [
+        "30 days",
+        "90 days",
+        "7 days"
+      ],
+      "explanation": "Under RSA 540, when a landlord chooses not to renew a lease of 12 months or longer, 60 days notice is required. This provides longer-term tenants additional time to find alternative housing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "RSA 540",
+        "lease non-renewal",
+        "60-day notice"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.1",
+      "question_text": "A frustrated landlord changes the locks while a tenant is at work. What penalty applies under RSA 540-A?",
+      "correct_answer": "$1,000 per violation plus attorney fees",
+      "distractors": [
+        "$500 per violation only",
+        "$2,500 per violation plus court costs",
+        "Criminal charges and up to 30 days jail"
+      ],
+      "explanation": "RSA 540-A prohibits self-help eviction including lock changes, utility cutoffs, property removal, and harassment. Each violation subjects the landlord to $1,000 in damages plus the tenant's attorney fees.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "RSA 540-A",
+        "self-help eviction",
+        "penalty"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.1",
+      "question_text": "A landlord owns a 3-unit building. What is the maximum security deposit the landlord can collect per unit?",
+      "correct_answer": "One month's rent",
+      "distractors": [
+        "Two months' rent",
+        "First and last month's rent",
+        "Three months' rent"
+      ],
+      "explanation": "Under RSA 540-A:6, landlords with fewer than 5 units may collect a maximum security deposit of one month's rent. The deposit must be held in a separate bank account or bonded, and returned within 30 days with an itemized list.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "RSA 540-A:6",
+        "security deposit",
+        "maximum"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.2",
+      "question_text": "New Hampshire follows which recording system for real property?",
+      "correct_answer": "Race-notice",
+      "distractors": [
+        "Pure race",
+        "Pure notice",
+        "Torrens system"
+      ],
+      "explanation": "New Hampshire is a race-notice recording state, meaning the first party to record without notice of a prior unrecorded conveyance prevails. Both recording first AND lacking knowledge of prior claims are required.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "race-notice",
+        "recording",
+        "priority"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.2",
+      "question_text": "Buyer A purchases a property but does not record the deed. Buyer B later purchases the same property without knowledge of Buyer A's deed and records immediately. Who prevails?",
+      "correct_answer": "Buyer B, who recorded first without notice",
+      "distractors": [
+        "Buyer A, who purchased first in time",
+        "Neither, the court must decide",
+        "The original seller retains ownership"
+      ],
+      "explanation": "Under NH's race-notice system, Buyer B prevails because they both recorded first AND had no notice of Buyer A's prior unrecorded deed. If Buyer B had known about Buyer A's deed, Buyer A would prevail despite not recording.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "race-notice",
+        "recording priority",
+        "unrecorded deed"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.2",
+      "question_text": "Under RSA 563-D, what key feature distinguishes a Transfer on Death Deed?",
+      "correct_answer": "It avoids probate and is revocable",
+      "distractors": [
+        "It transfers ownership immediately",
+        "It requires court approval to execute",
+        "It is irrevocable once recorded"
+      ],
+      "explanation": "RSA 563-D (effective July 2024) allows owners to designate a beneficiary who receives the property at death, avoiding probate. The deed is revocable during the owner's lifetime and is exempt from transfer tax.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "RSA 563-D",
+        "TOD deed",
+        "probate"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.2",
+      "question_text": "Where are deeds and mortgages recorded in New Hampshire?",
+      "correct_answer": "County Registry of Deeds",
+      "distractors": [
+        "Municipal clerk's office",
+        "Secretary of State's office",
+        "Superior Court clerk's office"
+      ],
+      "explanation": "Under RSA 477 and RSA 478, deeds and mortgages must be recorded at the county Registry of Deeds in New Hampshire to provide constructive notice and protect priority.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "RSA 477",
+        "RSA 478",
+        "recording",
+        "Registry of Deeds"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.1",
+      "question_text": "A rooming house tenant fails to pay rent. How many days notice is required under RSA 540-B?",
+      "correct_answer": "7 days",
+      "distractors": [
+        "30 days",
+        "3 days",
+        "14 days"
+      ],
+      "explanation": "Under RSA 540-B, rooming house eviction timelines differ from standard rentals: 30 days for no cause, 7 days for nonpayment, and 72 hours for damage or health hazards.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "RSA 540-B",
+        "rooming house",
+        "nonpayment"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.3",
+      "question_text": "Which NH statute governs intestate succession?",
+      "correct_answer": "RSA 561",
+      "distractors": [
+        "RSA 551",
+        "RSA 563-D",
+        "RSA 477:18"
+      ],
+      "explanation": "RSA 561 governs intestate succession in New Hampshire, determining how property is distributed when a person dies without a valid will.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "RSA 561",
+        "intestate succession",
+        "descent"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.3",
+      "question_text": "A spouse claims rights in property that the deceased owner tried to convey before death. Which statute protects spousal rights?",
+      "correct_answer": "RSA 477:18",
+      "distractors": [
+        "RSA 563-D",
+        "RSA 561",
+        "RSA 551"
+      ],
+      "explanation": "RSA 477:18 addresses spousal rights in New Hampshire property conveyances, providing protections that prevent one spouse from unilaterally conveying property without the other's consent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "RSA 477:18",
+        "spousal rights",
+        "conveyance"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.1",
+      "question_text": "A landlord returns a security deposit 45 days after a tenant vacates. Has the landlord complied with RSA 540-A:6?",
+      "correct_answer": "No, the deposit must be returned within 30 days",
+      "distractors": [
+        "Yes, 45 days is within the legal window",
+        "Yes, if an itemized list was included",
+        "No, the deposit must be returned within 14 days"
+      ],
+      "explanation": "Under RSA 540-A:6, landlords must return the security deposit within 30 days of the tenant vacating, along with an itemized list of any deductions. Returning it at 45 days violates this deadline.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "RSA 540-A:6",
+        "security deposit",
+        "return deadline"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.1",
+      "question_text": "A rooming house tenant causes a health hazard. What is the shortest eviction notice period under RSA 540-B?",
+      "correct_answer": "72 hours",
+      "distractors": [
+        "24 hours",
+        "7 days",
+        "48 hours"
+      ],
+      "explanation": "Under RSA 540-B, rooming house tenants who cause damage or create health hazards can be given 72-hour notice to vacate. This is the shortest eviction notice period available in NH landlord-tenant law.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "RSA 540-B",
+        "rooming house",
+        "72-hour notice"
+      ]
+    },
+    {
+      "key_topic_ref": "NH-15.2",
+      "question_text": "An owner executes a Transfer on Death Deed naming a beneficiary, then later changes their mind. Under RSA 563-D, can the deed be revoked?",
+      "correct_answer": "Yes, TOD deeds are revocable during the owner's lifetime",
+      "distractors": [
+        "No, TOD deeds are irrevocable once recorded",
+        "Only with the beneficiary's written consent",
+        "Only by court order after a hearing"
+      ],
+      "explanation": "Under RSA 563-D (effective July 2024), Transfer on Death Deeds are revocable during the owner's lifetime. The property does not transfer until death, and the owner retains full control until that time.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "RSA 563-D",
+        "TOD deed",
+        "revocable"
+      ]
+    }
+  ]
+}

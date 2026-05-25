@@ -1,0 +1,173 @@
+{
+  "standard_ref": "VT-15",
+  "scope": "state",
+  "state": "VT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "VT-15.1",
+      "question_text": "Vermont is classified as what type of state regarding real estate closings?",
+      "correct_answer": "An attorney-closing state",
+      "distractors": ["An escrow-closing state", "A title-company-closing state", "A notary-closing state"],
+      "explanation": "Vermont is an attorney-closing state. Only licensed attorneys or those with a Vermont title insurance producer license may conduct closings and issue title insurance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "attorney-state", "VT-practice"]
+    },
+    {
+      "key_topic_ref": "VT-15.1",
+      "question_text": "At a Vermont closing, which professional examines title, prepares documents, and handles disbursement of funds?",
+      "correct_answer": "The closing attorney",
+      "distractors": ["The title insurance company", "The real estate broker", "The mortgage loan officer"],
+      "explanation": "In Vermont, the closing attorney performs the title examination, prepares closing documents, and handles the disbursement of funds. This comprehensive role is required by Vermont's attorney-closing practice.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-attorney", "duties", "title-exam"]
+    },
+    {
+      "key_topic_ref": "VT-15.1",
+      "question_text": "A Vermont attorney represents the seller at closing and also wants to issue the buyer's title insurance policy. Is this permitted?",
+      "correct_answer": "No, it is a prohibited conflict of interest",
+      "distractors": ["Yes, with written disclosure to both parties", "Yes, this is considered standard VT practice", "Yes, if both parties provide written consent"],
+      "explanation": "Vermont prohibits an attorney from representing the seller AND providing title insurance to the buyer in the same transaction. This conflict of interest rule protects both parties.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conflict-of-interest", "closing-attorney", "title-insurance"]
+    },
+    {
+      "key_topic_ref": "VT-15.1",
+      "question_text": "Besides a licensed attorney, who else may issue title insurance in Vermont?",
+      "correct_answer": "A VT title insurance producer licensee",
+      "distractors": ["Any licensed real estate broker in VT", "Any licensed mortgage originator in VT", "Any state-licensed property appraiser"],
+      "explanation": "In Vermont, only licensed attorneys or holders of a Vermont title insurance producer license may issue title insurance. Real estate brokers, mortgage originators, and appraisers cannot issue title insurance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-insurance", "producer-license", "eligibility"]
+    },
+    {
+      "key_topic_ref": "VT-15.1",
+      "question_text": "A Vermont buyer hires an out-of-state title company to handle the closing instead of a local attorney. Is this permissible?",
+      "correct_answer": "No, VT requires a licensed attorney or producer",
+      "distractors": ["Yes, any licensed title company may close in VT", "Yes, with written approval from the mortgage lender", "Yes, if the company holds a national title license"],
+      "explanation": "Vermont requires that closings be conducted by a licensed Vermont attorney or a Vermont title insurance producer. Out-of-state title companies without proper Vermont licensing cannot handle closings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["closing", "attorney-requirement", "out-of-state"]
+    },
+    {
+      "key_topic_ref": "VT-15.2",
+      "question_text": "Vermont is classified as what type of state regarding title insurance rates and policy forms?",
+      "correct_answer": "Filed rate and filed form",
+      "distractors": ["Promulgated rate and form", "Free market rate and form", "Use and file rate and form"],
+      "explanation": "Vermont is a filed rate and filed form state, meaning all title insurance rates and policy forms must be filed with and approved by the Department of Financial Regulation before use.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-insurance", "filed-rate", "regulation"]
+    },
+    {
+      "key_topic_ref": "VT-15.2",
+      "question_text": "In Vermont, who typically issues the title insurance policy to the buyer at closing?",
+      "correct_answer": "The closing attorney",
+      "distractors": ["The real estate broker", "The mortgage lender", "A national title company directly"],
+      "explanation": "In Vermont's attorney-closing system, the closing attorney typically issues the title insurance policy. The attorney acts as a title agent for the underwriting title insurance company.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-insurance", "premium-split", "attorney-retention"]
+    },
+    {
+      "key_topic_ref": "VT-15.2",
+      "question_text": "A Vermont title insurance company wants to charge a cancellation fee when a transaction falls through. Is this permitted?",
+      "correct_answer": "No, cancellation fees are prohibited",
+      "distractors": ["Yes, up to 10% of the premium", "Yes, with 30 days written notice", "Yes, if disclosed at the commitment"],
+      "explanation": "Vermont does not permit title insurance companies to charge cancellation or commitment fees. This consumer protection applies even when transactions fail to close.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["title-insurance", "cancellation-fee", "consumer-protection"]
+    },
+    {
+      "key_topic_ref": "VT-15.2",
+      "question_text": "Which Vermont state agency approves title insurance rates and forms?",
+      "correct_answer": "Department of Financial Regulation",
+      "distractors": ["Secretary of State's office", "Office of the Attorney General", "Real Estate Commission"],
+      "explanation": "The Vermont Department of Financial Regulation (DFR) oversees title insurance in the state, approving all rates and policy forms before they may be used in transactions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-insurance", "DFR", "regulatory"]
+    },
+    {
+      "key_topic_ref": "VT-15.2",
+      "question_text": "A Vermont buyer's lender requires title insurance. Is an owner's policy also mandatory?",
+      "correct_answer": "No, the owner's policy is optional",
+      "distractors": ["Yes, both policies are required", "Yes, if the loan exceeds $200,000", "Yes, for first-time homebuyers"],
+      "explanation": "While most Vermont lenders require a lender's title insurance policy, the owner's policy is optional but recommended. The owner's policy protects the buyer's equity in the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-insurance", "owners-policy", "optional"]
+    },
+    {
+      "key_topic_ref": "VT-15.3",
+      "question_text": "Does Vermont mandate the use of state-promulgated real estate contract forms?",
+      "correct_answer": "No, promulgated forms are not required",
+      "distractors": ["Yes, for all residential property sales", "Yes, for any sales exceeding $100,000", "Yes, for all new construction projects"],
+      "explanation": "Vermont does not mandate state-promulgated contract forms. Vermont Association of Realtors (VAR) standard forms are commonly used in practice but are not legally required.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "promulgated-forms", "VAR"]
+    },
+    {
+      "key_topic_ref": "VT-15.3",
+      "question_text": "Two unmarried co-buyers purchase Vermont property without specifying how they hold title. What form of ownership is presumed?",
+      "correct_answer": "Tenants in common",
+      "distractors": ["Joint tenants with survivorship", "Tenancy by the entirety", "Community property"],
+      "explanation": "In Vermont, tenants in common is the default form of co-ownership when no other form is specified. Joint tenancy requires the four unities, and tenancy by the entirety is limited to married couples.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ownership", "tenants-in-common", "default"]
+    },
+    {
+      "key_topic_ref": "VT-15.3",
+      "question_text": "Vermont follows which type of recording statute for determining priority of interests in real property?",
+      "correct_answer": "Race-notice recording statute",
+      "distractors": ["Pure race recording statute", "Pure notice recording statute", "Period of grace recording statute"],
+      "explanation": "Vermont follows a race-notice recording system. To have priority, a subsequent purchaser must both record first AND take without notice of the prior unrecorded interest.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "priority"]
+    },
+    {
+      "key_topic_ref": "VT-15.3",
+      "question_text": "Where are real estate documents recorded in Vermont?",
+      "correct_answer": "At the town clerk's office",
+      "distractors": ["At the county courthouse", "At the state land office", "At the registry of deeds"],
+      "explanation": "Vermont records real estate documents at the town clerk's office, not at the county level. Each town maintains its own land records, which is distinctive to Vermont's municipal governance system.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "town-clerk", "land-records"]
+    },
+    {
+      "key_topic_ref": "VT-15.3",
+      "question_text": "A married couple in Vermont purchases a home together. Which form of ownership provides survivorship rights exclusive to married couples?",
+      "correct_answer": "Tenancy by the entirety",
+      "distractors": ["Tenants in common", "Joint tenancy", "Sole ownership"],
+      "explanation": "Tenancy by the entirety is available only to married couples in Vermont and includes automatic survivorship rights. Vermont also recognizes civil unions for this purpose.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ownership", "tenancy-by-entirety", "married-couples"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WA-12",
+  "scope": "state",
+  "state": "WA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WA-12.1",
+      "question_text": "A buyer asks who is responsible for completing the Washington Seller Disclosure Statement. What is the correct answer?",
+      "correct_answer": "The seller personally",
+      "distractors": ["The listing broker", "The buyer's agent", "The escrow agent"],
+      "explanation": "In Washington, the Seller Disclosure Statement is completed by the seller, not the broker. The broker should not fill out the form on the seller's behalf, as it reflects the seller's personal knowledge of the property's condition.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "disclosure-responsibility", "RCW-64.06"]
+    },
+    {
+      "key_topic_ref": "WA-12.1",
+      "question_text": "Under RCW 64.06, when must the Seller Disclosure Statement be delivered to the buyer unless the buyer waives the right?",
+      "correct_answer": "Within 5 days of mutual acceptance",
+      "distractors": ["Within 3 days of mutual acceptance", "Within 10 days of listing", "Before the property is listed"],
+      "explanation": "Washington law requires the Seller Disclosure Statement to be delivered within 5 business days of mutual acceptance of the purchase and sale agreement, unless the buyer waives the right to receive it.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "delivery-timeline", "mutual-acceptance"]
+    },
+    {
+      "key_topic_ref": "WA-12.1",
+      "question_text": "A seller claims the disclosure statement guarantees the property's condition. How should the broker respond?",
+      "correct_answer": "Explain it is not a warranty",
+      "distractors": ["Confirm the guarantee to buyer", "Add a warranty clause to it", "Refer seller to an appraiser"],
+      "explanation": "The Washington Seller Disclosure Statement is expressly not a warranty of the property's condition. It reflects the seller's knowledge at the time of completion but does not guarantee the property is free of defects.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller-disclosure", "warranty", "broker-duties"]
+    },
+    {
+      "key_topic_ref": "WA-12.1",
+      "question_text": "Which Seller Disclosure Statement form applies to unimproved residential property in Washington?",
+      "correct_answer": "RCW 64.06.015",
+      "distractors": ["RCW 64.06.020", "RCW 64.06.013", "RCW 18.44.010"],
+      "explanation": "Washington uses three different disclosure forms: RCW 64.06.020 for improved residential property, RCW 64.06.015 for unimproved residential property, and RCW 64.06.013 for commercial property.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "form-types", "unimproved-property"]
+    },
+    {
+      "key_topic_ref": "WA-12.1",
+      "question_text": "Which category is NOT covered by the Washington Seller Disclosure Statement?",
+      "correct_answer": "Future market value projections",
+      "distractors": ["Title and deed status", "Structural conditions", "Environmental hazards"],
+      "explanation": "The Seller Disclosure Statement covers title, water/sewer, structural, heating/electrical/mechanical, and environmental conditions. It does not cover future market value, which is speculative and outside the scope of property condition disclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "covered-categories", "scope"]
+    },
+    {
+      "key_topic_ref": "WA-12.2",
+      "question_text": "A seller answers 'Yes' to the question about proximity to a working farm on the disclosure. What is the effect on the buyer's waiver rights?",
+      "correct_answer": "The environmental section cannot be waived",
+      "distractors": ["The entire disclosure is voided", "The buyer must rescind the offer", "All sections become non-waivable"],
+      "explanation": "Under Washington law, if any answer in the environmental section of the Seller Disclosure Statement is 'Yes,' the buyer cannot waive the environmental section. Other sections of the disclosure may still be waived.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["environmental-disclosure", "waiver-restriction", "working-farm"]
+    },
+    {
+      "key_topic_ref": "WA-12.2",
+      "question_text": "Which environmental issue on the Seller Disclosure Statement triggers the non-waiver rule when answered 'Yes'?",
+      "correct_answer": "Underground storage tanks",
+      "distractors": ["Roof age over 15 years", "Unpermitted bedroom addition", "Shared driveway easement"],
+      "explanation": "The environmental section covers flooding, asbestos, radon, lead paint, underground tanks, contaminated soil/water, and proximity to farm/working forest. A 'Yes' to any of these makes the environmental section non-waivable by the buyer.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental-disclosure", "non-waiver", "underground-tanks"]
+    },
+    {
+      "key_topic_ref": "WA-12.2",
+      "question_text": "A buyer wants to waive the entire Seller Disclosure Statement. The seller disclosed radon in the environmental section. What can the buyer waive?",
+      "correct_answer": "All sections except environmental",
+      "distractors": ["The entire disclosure statement", "Only the title section", "No sections at all"],
+      "explanation": "When any environmental question is answered 'Yes,' Washington law prohibits the buyer from waiving the environmental section. However, the buyer may still waive the other sections of the Seller Disclosure Statement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["environmental-disclosure", "radon", "waiver-limits"]
+    },
+    {
+      "key_topic_ref": "WA-12.2",
+      "question_text": "All environmental answers on the Seller Disclosure Statement are 'No.' Can the buyer waive the environmental section?",
+      "correct_answer": "Yes, the buyer may waive it",
+      "distractors": ["No, environmental is never waivable", "Only with broker approval", "Only if the lender consents"],
+      "explanation": "The non-waiver rule for the environmental section is triggered only when a seller answers 'Yes' to any environmental question. If all answers are 'No,' the buyer retains the right to waive the environmental section along with other sections.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["environmental-disclosure", "waiver-rights", "no-answers"]
+    },
+    {
+      "key_topic_ref": "WA-12.2",
+      "question_text": "Which item is part of the environmental section of Washington's Seller Disclosure Statement?",
+      "correct_answer": "Contaminated soil or water",
+      "distractors": ["Plumbing system condition", "Heating system age", "Boundary line disputes"],
+      "explanation": "The environmental section specifically covers flooding, asbestos, radon, lead paint, underground tanks, contaminated soil/water, and proximity to farm/working forest. Plumbing, heating, and boundary issues are addressed in other sections.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental-disclosure", "contamination", "disclosure-sections"]
+    },
+    {
+      "key_topic_ref": "WA-12.3",
+      "question_text": "A buyer receives the Seller Disclosure Statement on Monday. By when must the buyer rescind under RCW 64.06?",
+      "correct_answer": "By end of day Thursday",
+      "distractors": ["By end of day Tuesday", "By end of day Wednesday", "By end of day Friday"],
+      "explanation": "Washington law gives the buyer 3 business days from receipt of the Seller Disclosure Statement to rescind. Receiving on Monday means the 3 business days are Tuesday, Wednesday, and Thursday, so rescission must occur by end of day Thursday.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rescission", "business-days", "buyer-rights"]
+    },
+    {
+      "key_topic_ref": "WA-12.3",
+      "question_text": "A seller provides a revised Seller Disclosure Statement with new material information. What happens to the buyer's rescission period?",
+      "correct_answer": "A new 3-business-day period begins",
+      "distractors": ["The original period continues", "The buyer loses rescission rights", "A 5-business-day period begins"],
+      "explanation": "When a buyer receives a revised disclosure with new material information, a new 3-business-day rescission period starts from the date of receipt. This protects the buyer's right to evaluate newly disclosed conditions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rescission", "revised-disclosure", "material-info"]
+    },
+    {
+      "key_topic_ref": "WA-12.3",
+      "question_text": "In what form must a buyer's rescission of the purchase agreement based on the Seller Disclosure Statement be delivered?",
+      "correct_answer": "In writing",
+      "distractors": ["Verbal notice to the broker", "Phone call to the seller", "Email to the escrow agent only"],
+      "explanation": "Under RCW 64.06, a buyer's rescission based on the Seller Disclosure Statement must be in writing. Verbal or informal notice is not sufficient to exercise this statutory right.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rescission", "written-notice", "statutory-requirements"]
+    },
+    {
+      "key_topic_ref": "WA-12.3",
+      "question_text": "A buyer receives the initial disclosure on Day 1 and does not rescind. On Day 10, a revised disclosure reveals a new defect. What is the buyer's right?",
+      "correct_answer": "3 new business days to rescind",
+      "distractors": ["No further rescission rights", "Must close as originally agreed", "10 calendar days to rescind"],
+      "explanation": "Each time a buyer receives a revised Seller Disclosure Statement containing new material information, a fresh 3-business-day rescission period begins, regardless of whether the original rescission period has expired.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["rescission", "revised-disclosure", "new-defect"]
+    },
+    {
+      "key_topic_ref": "WA-12.3",
+      "question_text": "How many business days does a Washington buyer have to rescind after receiving the Seller Disclosure Statement?",
+      "correct_answer": "3 business days",
+      "distractors": ["5 business days", "7 calendar days", "10 calendar days"],
+      "explanation": "Under RCW 64.06, the buyer has 3 business days from receipt of the Seller Disclosure Statement to rescind the purchase and sale agreement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rescission", "timeline", "buyer-rights"]
+    }
+  ]
+}

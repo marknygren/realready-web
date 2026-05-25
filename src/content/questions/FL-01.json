@@ -1,0 +1,118 @@
+{
+  "standard_ref": "FL-01",
+  "scope": "state",
+  "state": "FL",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "FL-01.1",
+      "question_text": "How many members serve on the Florida Real Estate Commission (FREC)?",
+      "correct_answer": "7 members",
+      "distractors": ["5 members", "9 members", "11 members"],
+      "explanation": "FREC consists of 7 members: 4 licensed real estate practitioners and 3 consumer (lay) members. They are appointed by the Governor and confirmed by the Senate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["FREC", "commission", "composition"]
+    },
+    {
+      "key_topic_ref": "FL-01.1",
+      "question_text": "A newly appointed FREC member must be confirmed by which body before taking office?",
+      "correct_answer": "The Florida Senate",
+      "distractors": ["The Florida House", "The Governor's Cabinet", "The DBPR Secretary"],
+      "explanation": "FREC members are appointed by the Governor but must be confirmed by the Florida Senate before serving. Each member serves a 4-year term.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["FREC", "appointment", "governance"]
+    },
+    {
+      "key_topic_ref": "FL-01.1",
+      "question_text": "Of FREC's seven members, how many must be licensed real estate practitioners?",
+      "correct_answer": "4 members",
+      "distractors": ["3 members", "5 members", "6 members"],
+      "explanation": "FREC has 4 licensed members (brokers or sales associates) and 3 consumer/lay members who are not licensed. This ensures both industry expertise and public representation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["FREC", "composition", "licensees"]
+    },
+    {
+      "key_topic_ref": "FL-01.1",
+      "question_text": "FREC adopts rules to implement Florida's real estate license law. These administrative rules carry what legal weight?",
+      "correct_answer": "They have the force of law",
+      "distractors": ["They are advisory guidelines only", "They apply only to brokers, not associates", "They expire after each legislative session"],
+      "explanation": "FREC's administrative rules have the force and effect of law. They implement Chapter 475, F.S. and are codified in the Florida Administrative Code. Licensees must comply with these rules just as they would with the statute itself.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["FREC", "rulemaking", "administrative-rules"]
+    },
+    {
+      "key_topic_ref": "FL-01.1",
+      "question_text": "A FREC meeting requires a quorum of at least how many members to conduct official business?",
+      "correct_answer": "4 members",
+      "distractors": ["3 members", "5 members", "6 members"],
+      "explanation": "A quorum of 4 members (out of 7 total) is required for FREC to conduct official business. Without a quorum, no official actions or votes can be taken.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["FREC", "quorum", "meetings"]
+    },
+    {
+      "key_topic_ref": "FL-01.2",
+      "question_text": "Which state agency serves as the parent organization for the Division of Real Estate in Florida?",
+      "correct_answer": "Dept. of Business and Professional Regulation",
+      "distractors": ["Dept. of Financial Services and Insurance", "Florida Department of State Operations", "Dept. of Economic Opportunity and Growth"],
+      "explanation": "The Department of Business and Professional Regulation (DBPR) is the parent agency. The Division of Real Estate operates under DBPR and handles day-to-day administration of license law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["DBPR", "division-of-real-estate", "structure"]
+    },
+    {
+      "key_topic_ref": "FL-01.2",
+      "question_text": "A consumer files a complaint against a Florida licensee. Which entity investigates the complaint?",
+      "correct_answer": "DBPR",
+      "distractors": ["FREC", "The local REALTOR board", "The Division of Real Estate"],
+      "explanation": "DBPR handles complaint investigations and prosecutions. While FREC reviews probable cause and enters final orders, the investigation itself is conducted by DBPR.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["DBPR", "complaints", "investigation"]
+    },
+    {
+      "key_topic_ref": "FL-01.2",
+      "question_text": "A licensee needs to update their mailing address on file. This routine administrative task is handled by which entity?",
+      "correct_answer": "The Division of Real Estate",
+      "distractors": ["FREC at its monthly meeting", "The licensee's employing broker", "The county clerk of court"],
+      "explanation": "The Division of Real Estate within DBPR handles day-to-day administration of license law, including routine matters like address changes, renewals, and application processing. FREC sets policy but does not handle individual administrative tasks.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["division-of-real-estate", "administration", "licensing"]
+    },
+    {
+      "key_topic_ref": "FL-01.2",
+      "question_text": "Which entity is responsible for prosecuting formal charges against a licensee in Florida?",
+      "correct_answer": "DBPR",
+      "distractors": ["FREC", "The state attorney general", "The Division of Real Estate"],
+      "explanation": "DBPR handles both investigation and prosecution of complaints against licensees. FREC's role is to review probable cause findings and enter final disciplinary orders after hearings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["DBPR", "prosecution", "discipline"]
+    },
+    {
+      "key_topic_ref": "FL-01.2",
+      "question_text": "Which entity has the authority to set education requirements for obtaining and renewing a Florida real estate license?",
+      "correct_answer": "FREC",
+      "distractors": ["DBPR", "The Florida Department of Education", "The Division of Real Estate"],
+      "explanation": "FREC has the authority to set education standards for pre-licensing, post-licensing, and continuing education. While DBPR is the parent agency, FREC — as the specialized real estate commission — determines education requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["FREC", "education", "authority"]
+    }
+  ]
+}

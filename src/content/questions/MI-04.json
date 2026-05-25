@@ -1,0 +1,118 @@
+{
+  "standard_ref": "MI-04",
+  "scope": "state",
+  "state": "MI",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "MI-04.1",
+      "question_text": "A salesperson places an ad for a listing that only shows the salesperson's name. What rule is violated?",
+      "correct_answer": "The broker's licensed name must appear",
+      "distractors": ["The MLS number must be included", "The listing price must be displayed", "The property address is required"],
+      "explanation": "Michigan requires all real estate advertisements to include the broker's name as licensed. An ad showing only the salesperson's name without the broker is a blind ad, which is prohibited.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["advertising", "broker-name", "blind-ad"]
+    },
+    {
+      "key_topic_ref": "MI-04.1",
+      "question_text": "What is a 'blind ad' in Michigan real estate?",
+      "correct_answer": "An ad that omits the broker's identity",
+      "distractors": ["An ad without a property photo", "An ad placed by an unlicensed person", "An ad that hides the listing price"],
+      "explanation": "A blind ad is one that does not include the broker's licensed name, making it impossible for consumers to identify the responsible brokerage. Blind ads are prohibited in Michigan.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["blind-ad", "definition", "advertising"]
+    },
+    {
+      "key_topic_ref": "MI-04.1",
+      "question_text": "An agent posts a property listing on social media without including the broker's name. Is this a violation?",
+      "correct_answer": "Yes, all ads must include broker ID",
+      "distractors": ["No, social media is exempt", "Only if the post is sponsored", "Only if it generates a lead"],
+      "explanation": "Michigan advertising rules apply to all media, including internet and social media. Every advertisement must include the broker's identification regardless of the platform used.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["social-media", "broker-ID", "advertising"]
+    },
+    {
+      "key_topic_ref": "MI-04.1",
+      "question_text": "Agent Lisa wants to advertise a listing held by another brokerage on her website. What must she do first?",
+      "correct_answer": "Get permission from the listing broker",
+      "distractors": ["File a co-listing agreement with LARA", "Pay a referral fee to the other broker", "Post it with a disclaimer only"],
+      "explanation": "Michigan prohibits advertising another broker's listing without their permission. Lisa must obtain consent from the listing broker before advertising the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["advertising", "permission", "other-broker"]
+    },
+    {
+      "key_topic_ref": "MI-04.1",
+      "question_text": "A broker's advertisement claims a property has 'lake access' when public records show no deeded access. Which advertising rule is violated?",
+      "correct_answer": "Ads must be truthful and not misleading",
+      "distractors": ["The ad must include the MLS number", "Only drone photos reveal access issues", "Lake properties require LARA approval to list"],
+      "explanation": "All Michigan real estate advertising must be truthful and not misleading. Claiming lake access when none exists is a misrepresentation that violates advertising rules.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["truthful", "misleading", "advertising"]
+    },
+    {
+      "key_topic_ref": "MI-04.2",
+      "question_text": "How long must a Michigan broker retain transaction records?",
+      "correct_answer": "3 years",
+      "distractors": ["1 year", "5 years", "7 years"],
+      "explanation": "Michigan requires brokers to retain all transaction records for a minimum of 3 years. This includes listing agreements, purchase agreements, and closing statements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["retention", "records", "3-year"]
+    },
+    {
+      "key_topic_ref": "MI-04.2",
+      "question_text": "LARA requests to inspect a broker's trust account records. The broker refuses, citing client privacy. Is this refusal valid?",
+      "correct_answer": "No, records must be available for inspection",
+      "distractors": ["Yes, client consent is required first", "Yes, unless a court order is issued", "Only if the investigation is formal"],
+      "explanation": "Michigan law requires brokers to make their records available for Department inspection upon request. Client privacy does not override LARA's inspection authority.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inspection", "trust-account", "LARA"]
+    },
+    {
+      "key_topic_ref": "MI-04.2",
+      "question_text": "Which document must a Michigan broker retain as part of record keeping requirements?",
+      "correct_answer": "Agency disclosure forms",
+      "distractors": ["Personal tax returns", "Marketing budget reports", "Staff meeting minutes"],
+      "explanation": "Brokers must retain transaction-related documents including agency disclosures, listing agreements, purchase agreements, closing statements, and trust account records for 3 years.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency-disclosure", "records", "retention"]
+    },
+    {
+      "key_topic_ref": "MI-04.2",
+      "question_text": "A broker closes their office and discards all files after two years. A LARA audit then requests records from that period. What is the consequence?",
+      "correct_answer": "The broker violated the 3-year retention rule",
+      "distractors": ["No violation since the office closed", "Records transfer to LARA automatically", "The 2-year period is sufficient"],
+      "explanation": "The 3-year record retention requirement applies regardless of whether the brokerage remains open. Discarding records after only 2 years is a violation subject to discipline.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["retention", "violation", "office-closure"]
+    },
+    {
+      "key_topic_ref": "MI-04.2",
+      "question_text": "Which set of records must a Michigan broker maintain for the required retention period?",
+      "correct_answer": "Listings, closings, and trust account records",
+      "distractors": ["Only listing agreements and disclosures", "Only trust account ledgers and receipts", "Only signed purchase agreements and addenda"],
+      "explanation": "Michigan brokers must retain a comprehensive set of records including listing agreements, purchase agreements, closing statements, trust account records, and agency disclosures for 3 years.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["records", "comprehensive", "retention"]
+    }
+  ]
+}

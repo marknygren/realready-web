@@ -1,0 +1,118 @@
+{
+  "standard_ref": "RI-03",
+  "scope": "state",
+  "state": "RI",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "RI-03.1",
+      "question_text": "Is Errors and Omissions insurance optional or mandatory for Rhode Island real estate licensees?",
+      "correct_answer": "Mandatory for all licensees",
+      "distractors": ["Optional but recommended", "Required only for brokers", "Required only for firms"],
+      "explanation": "Rhode Island requires all real estate licensees to maintain Errors and Omissions insurance as a condition of holding an active license. Failure to maintain coverage is grounds for discipline.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O insurance", "mandatory", "licensing requirement"]
+    },
+    {
+      "key_topic_ref": "RI-03.1",
+      "question_text": "An individual licensee is sued for a negligent misrepresentation. What is the maximum E&O coverage available per claim?",
+      "correct_answer": "$50,000 per claim",
+      "distractors": ["$25,000 per claim", "$100,000 per claim", "$150,000 per claim"],
+      "explanation": "Individual Rhode Island licensees must carry E&O insurance with minimum coverage of $50,000 per claim and $150,000 in the aggregate. These are the required minimums for individual coverage.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O insurance", "per claim limit", "individual coverage"]
+    },
+    {
+      "key_topic_ref": "RI-03.1",
+      "question_text": "A small brokerage firm with 3 licensees needs E&O coverage. What is the minimum aggregate the policy must provide?",
+      "correct_answer": "$1,000,000 minimum aggregate",
+      "distractors": ["$450,000 aggregate", "$500,000 aggregate", "$150,000 aggregate"],
+      "explanation": "Firm E&O aggregate coverage is $150,000 per licensee, but subject to a $1,000,000 minimum floor. With only 3 licensees the per-licensee calculation yields $450,000, which is below the floor, so the $1,000,000 minimum applies.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["E&O insurance", "firm coverage", "aggregate minimum"]
+    },
+    {
+      "key_topic_ref": "RI-03.1",
+      "question_text": "A broker allows her E&O policy to lapse during the license period. What consequence does she face from DBR?",
+      "correct_answer": "Grounds for disciplinary action",
+      "distractors": ["An automatic 30-day grace period", "A warning letter with no further action", "Her license converts to inactive only"],
+      "explanation": "Failure to maintain E&O insurance is a ground for discipline by DBR. E&O coverage is a condition of maintaining an active real estate license in Rhode Island.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O insurance", "lapse", "discipline", "DBR"]
+    },
+    {
+      "key_topic_ref": "RI-03.1",
+      "question_text": "A firm with 4 licensees is determining its minimum per-claim E&O coverage. What amount must the policy provide per licensee per claim?",
+      "correct_answer": "$50,000 per claim per licensee",
+      "distractors": ["$25,000 per claim per licensee", "$100,000 per claim per licensee", "$75,000 per claim per licensee"],
+      "explanation": "Firm E&O policies must provide $50,000 per claim per licensee, with a $300,000 minimum for per-claim coverage. The aggregate must be at least $150,000 per licensee with a $1,000,000 minimum.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O insurance", "firm coverage", "per claim"]
+    },
+    {
+      "key_topic_ref": "RI-03.2",
+      "question_text": "What is the purpose of the Rhode Island Real Estate Recovery Account?",
+      "correct_answer": "Compensating victims of licensee fraud",
+      "distractors": ["Funding pre-license education programs", "Paying for DBR operating expenses", "Providing loans to first-time homebuyers"],
+      "explanation": "The Real Estate Recovery Account under RIGL 5-20.5-5 compensates victims of fraud, misrepresentation, or deceit committed by a licensee acting in a licensed capacity.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery Account", "fraud", "consumer protection"]
+    },
+    {
+      "key_topic_ref": "RI-03.2",
+      "question_text": "A buyer was defrauded by a licensed agent and wants to file a Recovery Account claim. What must the buyer obtain first?",
+      "correct_answer": "A court order from Superior Court",
+      "distractors": ["A written apology from the licensee", "An arbitration award from DBR", "A police report filed within 30 days"],
+      "explanation": "To receive payment from the Recovery Account, a claimant must first obtain a court order from the Superior Court of the county where the violation occurred. This is a prerequisite before DBR will process the claim.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Recovery Account", "court order", "Superior Court", "claim process"]
+    },
+    {
+      "key_topic_ref": "RI-03.2",
+      "question_text": "What is the maximum amount a claimant can recover from the Rhode Island Recovery Account per claim?",
+      "correct_answer": "$50,000",
+      "distractors": ["$25,000", "$100,000", "$75,000"],
+      "explanation": "The Rhode Island Real Estate Recovery Account limits claims to a maximum of $50,000 per claim. This cap applies regardless of the actual damages suffered by the claimant.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery Account", "maximum claim", "cap"]
+    },
+    {
+      "key_topic_ref": "RI-03.2",
+      "question_text": "How is the Rhode Island Real Estate Recovery Account primarily funded?",
+      "correct_answer": "$25 from each license application",
+      "distractors": ["Annual assessments on all licensees", "A percentage of transaction commissions", "State general fund appropriations"],
+      "explanation": "The Recovery Account is funded by collecting $25 from each real estate license application. This is part of the total $165 application fee ($140 General Treasurer + $25 Recovery Account).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery Account", "funding", "application fee"]
+    },
+    {
+      "key_topic_ref": "RI-03.2",
+      "question_text": "A victim seeks Recovery Account compensation for harm caused by a licensee who was acting outside her licensed capacity at the time. Will the claim be approved?",
+      "correct_answer": "No, the act must occur in a licensed capacity",
+      "distractors": ["Yes, any act by a licensee qualifies", "Yes, if the licensee was active at the time", "Only if DBR confirms the violation first"],
+      "explanation": "The Recovery Account only covers acts committed by a licensee while acting in a licensed capacity. Conduct outside the scope of licensed real estate activity is not eligible for Recovery Account compensation.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Recovery Account", "licensed capacity", "eligibility", "claim denial"]
+    }
+  ]
+}

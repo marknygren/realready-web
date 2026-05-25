@@ -1,0 +1,308 @@
+{
+  "standard_ref": "GA-15",
+  "scope": "state",
+  "state": "GA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "GA-15.1",
+      "question_text": "Does Georgia law set a maximum amount for residential security deposits?",
+      "correct_answer": "No, there is no statutory maximum deposit amount",
+      "distractors": [
+        "Yes, the maximum is two months' rent",
+        "Yes, the maximum is one month's rent",
+        "Yes, the maximum is three months' rent"
+      ],
+      "explanation": "Georgia does not impose a statutory cap on security deposit amounts. Landlords may charge whatever the market will bear. However, deposits must be held in an escrow account at a Georgia financial institution.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "security-deposit",
+        "no-maximum",
+        "landlord-tenant",
+        "Georgia"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.1",
+      "question_text": "A Georgia landlord collects a $2,500 security deposit. Where must these funds be held?",
+      "correct_answer": "In an escrow account at a Georgia financial institution",
+      "distractors": [
+        "In the landlord's personal checking account",
+        "In a trust account managed by the tenant's attorney",
+        "In a GREC-approved broker trust account"
+      ],
+      "explanation": "Georgia law requires landlords to hold security deposits in an escrow account at a financial institution in Georgia. The landlord must also provide the tenant written notice of the escrow account location.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "security-deposit",
+        "escrow-account",
+        "landlord-tenant",
+        "Georgia"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.1",
+      "question_text": "A tenant moves out of a Georgia rental on March 1. By what date must the landlord return the security deposit with itemized deductions?",
+      "correct_answer": "By March 31 (within 30 days of move-out)",
+      "distractors": [
+        "By March 15 (within 14 days of move-out)",
+        "By April 30 (within 60 days of move-out)",
+        "By March 22 (within 21 days of move-out)"
+      ],
+      "explanation": "Georgia requires landlords to return the security deposit within 30 days of the tenant vacating the property. The return must include an itemized list of any deductions taken from the deposit.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "security-deposit",
+        "30-day-return",
+        "itemized-deductions",
+        "landlord-tenant"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.1",
+      "question_text": "A landlord personally manages 8 rental units in Georgia. Must she place security deposits in escrow?",
+      "correct_answer": "No, landlords with 10 or fewer self-managed units are exempt",
+      "distractors": [
+        "Yes, all landlords must escrow regardless of unit count",
+        "No, the escrow exemption applies to 25 or fewer units",
+        "Yes, but only if monthly rent exceeds $1,000 per unit"
+      ],
+      "explanation": "Georgia exempts landlords who personally manage 10 or fewer rental units from the escrow requirement. However, the 30-day return requirement and itemized deduction rules still apply to all landlords regardless of portfolio size.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "security-deposit",
+        "escrow-exemption",
+        "10-units",
+        "self-managed"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.1",
+      "question_text": "Before a tenant moves into a Georgia rental, what documentation must the landlord provide regarding the property's condition?",
+      "correct_answer": "A written list of existing damage in the unit",
+      "distractors": [
+        "A professional home inspection report",
+        "A signed affidavit that the unit is damage-free",
+        "A video walkthrough uploaded to a state database"
+      ],
+      "explanation": "Georgia law requires landlords to provide a written list of existing damage at move-in. This protects both parties by documenting pre-existing conditions that cannot later be charged against the tenant's security deposit.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "security-deposit",
+        "move-in-inspection",
+        "existing-damage",
+        "landlord-tenant"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.2",
+      "question_text": "What is the legal term for the eviction process in Georgia?",
+      "correct_answer": "Dispossessory action",
+      "distractors": [
+        "Unlawful detainer action",
+        "Forcible entry and detainer",
+        "Summary possession proceeding"
+      ],
+      "explanation": "Georgia uses the term 'dispossessory action' rather than 'eviction' in its statutes. This proceeding is filed in Magistrate Court and follows specific notice and response timelines set by Georgia law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "eviction",
+        "dispossessory",
+        "landlord-tenant",
+        "Georgia"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.2",
+      "question_text": "A Georgia landlord files a dispossessory action. How many days does the tenant have to respond after being served?",
+      "correct_answer": "7 days to file an answer",
+      "distractors": [
+        "3 days to file an answer",
+        "14 days to file an answer",
+        "30 days to file an answer"
+      ],
+      "explanation": "After being served with a dispossessory action in Georgia, the tenant has 7 days to file a written answer with the Magistrate Court. If no answer is filed within that period, the landlord may obtain a default judgment.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "dispossessory",
+        "7-days",
+        "tenant-response",
+        "magistrate-court"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.2",
+      "question_text": "A tenant is served with a dispossessory action in Georgia but fails to respond within the required time. What happens next?",
+      "correct_answer": "The landlord may obtain a default judgment",
+      "distractors": [
+        "The case is automatically dismissed",
+        "The tenant receives an additional 14-day extension",
+        "A mediator is assigned to negotiate between the parties"
+      ],
+      "explanation": "If a Georgia tenant does not file an answer within 7 days of being served, the court may enter a default judgment in favor of the landlord. This accelerates the eviction process significantly.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "dispossessory",
+        "default-judgment",
+        "no-answer",
+        "eviction"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.2",
+      "question_text": "In which court is a Georgia dispossessory action filed?",
+      "correct_answer": "Magistrate Court",
+      "distractors": [
+        "Superior Court",
+        "State Court",
+        "Municipal Court"
+      ],
+      "explanation": "Georgia dispossessory actions are filed in Magistrate Court, which handles landlord-tenant disputes. Magistrate Courts provide a faster and less formal process than Superior Court for resolving possession disputes.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "dispossessory",
+        "magistrate-court",
+        "jurisdiction",
+        "eviction"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.2",
+      "question_text": "A Georgia municipality wants to enact rent control to help tenants afford housing. Can it do so?",
+      "correct_answer": "No, Georgia state law preempts local rent control",
+      "distractors": [
+        "Yes, any municipality may enact rent control ordinances",
+        "Yes, but only in counties with over 500,000 residents",
+        "Only with approval from the Georgia General Assembly"
+      ],
+      "explanation": "Georgia state law preempts rent control, meaning no city or county can impose limits on how much landlords may charge for rent. This applies statewide regardless of local housing market conditions.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "rent-control",
+        "preemption",
+        "state-law",
+        "landlord-tenant"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.3",
+      "question_text": "Under Georgia's Statute of Frauds, which leases must be in writing to be enforceable?",
+      "correct_answer": "Leases with a term exceeding one year",
+      "distractors": [
+        "All leases regardless of duration",
+        "Leases for residential property only",
+        "Leases with monthly rent over $1,000"
+      ],
+      "explanation": "Georgia's Statute of Frauds requires leases longer than one year to be in writing. Oral leases for one year or less are generally enforceable. There is no required standard lease form in Georgia.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "lease",
+        "statute-of-frauds",
+        "written-requirement",
+        "one-year"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.3",
+      "question_text": "A Georgia landlord and tenant agree orally to a 10-month lease at $1,200 per month. Is this lease enforceable?",
+      "correct_answer": "Yes, oral leases of one year or less are enforceable",
+      "distractors": [
+        "No, all Georgia leases must be in writing",
+        "No, leases over $1,000 monthly must be written",
+        "Only if witnessed by a licensed real estate agent"
+      ],
+      "explanation": "Under Georgia's Statute of Frauds, only leases exceeding one year must be in writing. A 10-month oral lease is within the one-year threshold and is therefore enforceable between the parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "lease",
+        "oral-lease",
+        "statute-of-frauds",
+        "enforceable"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.3",
+      "question_text": "A Georgia tenant discovers a broken furnace in January, making the home uninhabitable. Which implied warranty protects the tenant?",
+      "correct_answer": "The implied warranty of habitability",
+      "distractors": [
+        "The implied warranty of merchantability",
+        "The covenant against encumbrances",
+        "The warranty of seisin and possession"
+      ],
+      "explanation": "The implied warranty of habitability requires Georgia landlords to maintain rental properties in a condition fit for human habitation. A non-functioning furnace in winter likely breaches this warranty, entitling the tenant to remedies.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "habitability",
+        "implied-warranty",
+        "landlord-duty",
+        "repairs"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.3",
+      "question_text": "A Georgia tenant's neighbor holds loud parties every weekend. The landlord takes no action. Which tenant right is potentially being violated?",
+      "correct_answer": "The right to quiet enjoyment of the premises",
+      "distractors": [
+        "The right to withhold rent for any inconvenience",
+        "The right to terminate without notice for noise",
+        "The right to file a dispossessory against the neighbor"
+      ],
+      "explanation": "Georgia tenants have an implied right to quiet enjoyment, meaning the landlord must not interfere with the tenant's peaceful use of the property. A landlord who fails to address persistent noise from other tenants may breach this covenant.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "quiet-enjoyment",
+        "tenant-rights",
+        "landlord-duty",
+        "lease"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-15.3",
+      "question_text": "A Georgia landlord wants to use a custom lease agreement rather than a state-issued standard form. Is this permitted?",
+      "correct_answer": "Yes, Georgia does not require a standard lease form",
+      "distractors": [
+        "No, GREC requires use of an approved lease form",
+        "Only for commercial leases, not residential",
+        "Yes, but it must be reviewed by the county clerk"
+      ],
+      "explanation": "Georgia does not mandate a specific lease form. Landlords and tenants may use any written agreement that covers essential terms. However, leases must still comply with all applicable Georgia landlord-tenant statutes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "lease",
+        "no-required-form",
+        "custom-agreement",
+        "Georgia"
+      ]
+    }
+  ]
+}

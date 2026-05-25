@@ -1,0 +1,308 @@
+{
+  "standard_ref": "IN-14",
+  "scope": "state",
+  "state": "IN",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IN-14.1",
+      "question_text": "A buyer's attorney is not present at closing in Indiana. Is the closing still legally valid?",
+      "correct_answer": "Yes, attorney attendance at closing is optional in Indiana",
+      "distractors": [
+        "No, Indiana requires an attorney to oversee all residential closings",
+        "No, an attorney must at least review all documents before closing",
+        "Yes, but only for transactions under $500,000"
+      ],
+      "explanation": "Indiana is an attorney-optional state for real estate closings. Title companies typically conduct closings without attorney involvement, which is legally valid. Buyers and sellers may choose to hire attorneys, but it is not required by Indiana law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "attorney-optional", "Indiana-closing", "IN-14.1"]
+    },
+    {
+      "key_topic_ref": "IN-14.1",
+      "question_text": "Which entity typically conducts real estate closings in Indiana?",
+      "correct_answer": "Title companies are the standard closing agents",
+      "distractors": [
+        "An attorney is legally required to conduct the closing",
+        "The county recorder's office oversees each closing",
+        "IREC must approve all residential closings"
+      ],
+      "explanation": "Indiana is an attorney-optional state, meaning closings are typically conducted by title companies rather than attorneys. While buyers and sellers may hire attorneys, it is not required by law. The county recorder records the deed but does not conduct closings.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "deed-recording", "county-recorder", "IN-14.1"]
+    },
+    {
+      "key_topic_ref": "IN-14.1",
+      "question_text": "A buyer is budgeting for closing costs in Indiana. Should the buyer include a state real estate transfer tax in the estimate?",
+      "correct_answer": "No, Indiana does not impose a state real estate transfer tax",
+      "distractors": [
+        "Yes, Indiana charges 0.1% of the sale price as a transfer tax",
+        "Yes, the transfer tax applies to sales over $300,000",
+        "Yes, but sellers pay the tax and it does not affect buyer costs"
+      ],
+      "explanation": "Indiana does not have a state real estate transfer tax, which distinguishes it from many other states. Buyers and sellers should budget for other closing costs — title insurance, recording fees, lender fees — but not a state transfer tax.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "transfer-tax", "Indiana-specific", "IN-14.1"]
+    },
+    {
+      "key_topic_ref": "IN-14.1",
+      "question_text": "A buyer asks whether they need title insurance for their Indiana purchase. The broker explains that title insurance is the standard method of title protection in Indiana. Why is this important?",
+      "correct_answer": "Title insurance protects against defects in the title not revealed by a title search",
+      "distractors": [
+        "Title insurance is required by Indiana law for all residential purchases",
+        "Title insurance replaces the need for a deed to be recorded",
+        "Title insurance guarantees the property's appraised value for 10 years"
+      ],
+      "explanation": "Title insurance is the standard method of title protection in Indiana because it covers defects — such as undisclosed liens, forgeries, or errors in public records — that a title search might not reveal. While not legally required in all cases, lenders typically require it, and it protects the buyer's ownership interest.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "title-insurance", "title-protection", "IN-14.1"]
+    },
+    {
+      "key_topic_ref": "IN-14.1",
+      "question_text": "A buyer discovers three weeks after closing that the title company failed to identify an unpaid mechanic's lien on the property. The buyer has an owner's title insurance policy. What protection does the buyer have?",
+      "correct_answer": "The title insurance policy covers losses from defects that existed before the policy date",
+      "distractors": [
+        "No protection; the buyer should have ordered an independent title search",
+        "Coverage only if the buyer can prove the title company was negligent",
+        "Coverage only for defects discovered within 30 days of closing"
+      ],
+      "explanation": "An owner's title insurance policy protects against pre-existing defects in title, including liens that existed before the policy was issued. The policy continues to protect the buyer regardless of when the defect is discovered, as long as it predated the policy. The buyer does not need to prove negligence to make a claim.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["closing", "title-insurance", "mechanic-lien", "IN-14.1"]
+    },
+    {
+      "key_topic_ref": "IN-14.2",
+      "question_text": "A broker collects a $5,000 earnest money check from a buyer and places it in the firm's operating account pending the managing broker's review. What has the broker done wrong?",
+      "correct_answer": "Commingled client funds with the firm's operating account",
+      "distractors": [
+        "Nothing; funds may be held briefly in operating accounts during review",
+        "Converted client funds by placing them in a non-client account",
+        "Violated escrow rules by accepting a check rather than wire transfer"
+      ],
+      "explanation": "Client funds such as earnest money must be placed in the trust account immediately upon receipt — not held in the operating account pending review. Even briefly depositing client funds in a business account constitutes commingling. The managing broker's review process must not delay proper deposit.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "commingling", "earnest-money", "IN-14.2"]
+    },
+    {
+      "key_topic_ref": "IN-14.2",
+      "question_text": "A managing broker reconciles the trust account and discovers $800 more than expected. What should the managing broker do?",
+      "correct_answer": "Investigate the source and correct the records or notify affected parties",
+      "distractors": [
+        "Transfer the overage to operating funds as unclaimed income",
+        "No action needed; overages are not a violation",
+        "Report the overage to IREC within 24 hours as a trust surplus"
+      ],
+      "explanation": "An unexplained overage in a trust account indicates a bookkeeping error or misapplied funds and requires investigation. The funds may belong to a client, and transferring them to operating funds without identification would constitute conversion. The managing broker must correct the records and ensure client funds are properly accounted for.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-account", "reconciliation", "overage", "IN-14.2"]
+    },
+    {
+      "key_topic_ref": "IN-14.2",
+      "question_text": "A broker disburses earnest money to the seller before the closing agent has confirmed that all closing conditions are satisfied. Is this practice appropriate?",
+      "correct_answer": "No, disbursement should follow confirmation that all closing conditions are met",
+      "distractors": [
+        "Yes, disbursing on the scheduled closing date is standard practice",
+        "Yes, if both parties verbally confirm they are ready to close",
+        "Yes, provided the amount is under the FDIC insurance limit"
+      ],
+      "explanation": "Proper handling of client funds requires that disbursements follow the satisfaction of all closing conditions — signed documents, funds received, lender conditions met. Disbursing prematurely exposes the broker to liability if the transaction does not complete.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-account", "disbursement", "closing", "IN-14.2"]
+    },
+    {
+      "key_topic_ref": "IN-14.2",
+      "question_text": "A buyer demands a receipt for the earnest money check immediately upon delivery to the broker. Is the buyer entitled to this?",
+      "correct_answer": "Yes, brokers must provide documentation and receipts for all client funds received",
+      "distractors": [
+        "No, receipts are only provided upon request after trust account deposit",
+        "No, the purchase agreement serves as sufficient documentation",
+        "Yes, but only if the check exceeds $1,000"
+      ],
+      "explanation": "Proper accounting of client funds requires documentation and receipts. A buyer is entitled to a receipt confirming the broker received the earnest money. This is part of the broker's duty to account for all client funds, regardless of check amount or whether the purchase agreement is already signed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "receipts", "documentation", "IN-14.2"]
+    },
+    {
+      "key_topic_ref": "IN-14.2",
+      "question_text": "A transaction fails to close due to a financing contingency. The purchase agreement specifies the earnest money is refundable if financing is not obtained. The seller refuses to sign a release. What should the broker do with the earnest money?",
+      "correct_answer": "Retain the funds and seek written mutual authorization or court direction before disbursing",
+      "distractors": [
+        "Refund to the buyer immediately since the agreement specifies refundability",
+        "Release to the seller as the principal party to the transaction",
+        "Donate the funds to an escrow reserve if no resolution is reached in 60 days"
+      ],
+      "explanation": "Even when the purchase agreement specifies that earnest money is refundable, the broker cannot disburse unilaterally if the seller refuses to authorize release. Without mutual written authorization or a court order, the broker must hold the funds to avoid liability. Releasing to the buyer without seller consent could expose the broker to a claim from the seller.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["earnest-money", "disputed-funds", "financing-contingency", "IN-14.2"]
+    },
+    {
+      "key_topic_ref": "IN-14.3",
+      "question_text": "A managing broker has 12 brokers working in the firm. Which of the following best describes the managing broker's supervisory obligation?",
+      "correct_answer": "General supervision of all firm brokers and enforcement of legal compliance",
+      "distractors": [
+        "Supervision only of brokers who handle trust account transactions",
+        "Personal review of every transaction document before closing",
+        "Supervision only of newly licensed brokers in their first year"
+      ],
+      "explanation": "Indiana managing brokers are responsible for general supervision of all brokers in the firm — not just those handling trust accounts or new licensees. This includes enforcing compliance with Indiana law and Commission rules across all firm activities. Personal review of every document is not required, but adequate oversight is.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["managing-broker", "supervision", "compliance", "IN-14.3"]
+    },
+    {
+      "key_topic_ref": "IN-14.3",
+      "question_text": "A broker in the firm runs an advertisement that violates IREC advertising rules. The managing broker was unaware of the ad. Who is held responsible by IREC?",
+      "correct_answer": "The managing broker bears responsibility for all firm advertising compliance",
+      "distractors": [
+        "Only the broker who placed the advertisement",
+        "The brokerage entity is fined but the managing broker faces no personal action",
+        "No one, because the managing broker did not approve the advertisement"
+      ],
+      "explanation": "Advertising oversight is among the managing broker's supervisory responsibilities. IREC holds managing brokers accountable for all advertising conducted by brokers in their firm. Not personally approving an advertisement does not insulate the managing broker from regulatory responsibility.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["managing-broker", "advertising", "supervision", "IN-14.3"]
+    },
+    {
+      "key_topic_ref": "IN-14.3",
+      "question_text": "A managing broker has no written training program for new brokers at the firm. An untrained broker makes a significant disclosure error on a transaction. What is the managing broker's exposure?",
+      "correct_answer": "Potential discipline for inadequate supervision and failure to train",
+      "distractors": [
+        "No exposure; training is optional under Indiana law",
+        "Exposure only if the managing broker personally knew of the error",
+        "Exposure only if the client files a complaint within 30 days"
+      ],
+      "explanation": "Training responsibilities are part of the managing broker's supervisory obligations. Failing to establish adequate training procedures — and having that failure result in a broker error — can expose the managing broker to regulatory discipline for inadequate supervision. The absence of a formal complaint does not eliminate the risk.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["managing-broker", "training", "supervision", "IN-14.3"]
+    },
+    {
+      "key_topic_ref": "IN-14.3",
+      "question_text": "A managing broker wants to delegate all trust account oversight to a senior broker in the firm. Under Indiana law, can the managing broker fully delegate this responsibility?",
+      "correct_answer": "No, the managing broker retains personal responsibility for trust account management",
+      "distractors": [
+        "Yes, with written authorization from IREC to designate a trust account manager",
+        "Yes, provided the designated broker holds a managing broker license",
+        "Yes, if the firm's written policy authorizes the delegation"
+      ],
+      "explanation": "The managing broker's personal responsibility for trust account management cannot be fully delegated under Indiana law. While a senior broker may assist with daily tasks, the managing broker remains personally accountable for trust account compliance. IREC looks to the managing broker in all trust account matters.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["managing-broker", "trust-account", "delegation", "IN-14.3"]
+    },
+    {
+      "key_topic_ref": "IN-14.3",
+      "question_text": "IREC initiates an investigation into a firm's practices. The managing broker is cooperative but is out of the country for three months. Which action best demonstrates the managing broker's ongoing supervisory responsibility?",
+      "correct_answer": "Designate a qualified broker to respond on behalf of the firm and stay informed",
+      "distractors": [
+        "Pause the investigation until the managing broker returns",
+        "Ask IREC to postpone all actions pending the managing broker's availability",
+        "Assign another broker to manage the investigation without any oversight"
+      ],
+      "explanation": "Supervisory responsibilities do not pause when the managing broker is unavailable. The managing broker must make arrangements to ensure the firm remains compliant and responsive to regulatory inquiries at all times. Designating a qualified proxy while staying informed reflects proper management of supervisory duties.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["managing-broker", "supervision", "IREC-investigation", "IN-14.3"]
+    },
+    {
+      "key_topic_ref": "IN-14.4",
+      "question_text": "A broker in Indiana is classified as an independent contractor for federal tax purposes. Who sets the terms of the commission split between the broker and the firm?",
+      "correct_answer": "The broker and the firm by private written agreement",
+      "distractors": [
+        "IREC, which sets minimum commission splits by rule",
+        "The Indiana Department of Revenue based on income levels",
+        "The MLS, which establishes standard split percentages"
+      ],
+      "explanation": "Commission splits between brokers and their firms are private contractual arrangements — not regulated by IREC, the MLS, or any government agency. Independent contractor status means the broker negotiates compensation terms directly with the firm.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commissions", "independent-contractor", "commission-split", "IN-14.4"]
+    },
+    {
+      "key_topic_ref": "IN-14.4",
+      "question_text": "A buyer's broker from Firm A closes a transaction with the listing broker from Firm B. The seller wants to pay the buyer's broker directly at closing. Is this permissible in Indiana?",
+      "correct_answer": "No, all commissions must flow through the managing broker and firm",
+      "distractors": [
+        "Yes, the seller may pay any party directly with written consent",
+        "Yes, if the buyer's broker's firm provides written authorization",
+        "No, unless both brokers are independently licensed as managing brokers"
+      ],
+      "explanation": "Indiana requires all commissions to be paid through the managing broker and firm — not directly to individual brokers. This ensures proper accounting and supervision of compensation. The seller cannot bypass this requirement by paying a broker directly, even with the firm's consent.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commissions", "managing-broker", "payment-flow", "IN-14.4"]
+    },
+    {
+      "key_topic_ref": "IN-14.4",
+      "question_text": "Firm A and Firm B agree to cooperate on a transaction. Firm B brings the buyer and is to receive a portion of the commission. Who pays Firm B's cooperating commission?",
+      "correct_answer": "Firm A pays Firm B's managing broker as a firm-to-firm transaction",
+      "distractors": [
+        "The seller pays Firm B directly as compensation for services",
+        "The buyer pays Firm B directly per the buyer agency agreement",
+        "Firm A pays the individual cooperating broker at Firm B directly"
+      ],
+      "explanation": "Commission sharing in Indiana occurs between firms — from Firm A's managing broker to Firm B's managing broker — not between individual brokers. An individual broker at Firm B receives their share from their own firm's internal split arrangement. Direct payment from one firm to an individual broker at another firm is not permitted.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commissions", "inter-firm", "cooperating-broker", "IN-14.4"]
+    },
+    {
+      "key_topic_ref": "IN-14.4",
+      "question_text": "Firm A lists a property and offers 2.5% cooperation to the buyer's firm. A broker from Firm B brings a buyer and the transaction closes. Firm B's broker demands the cooperation fee be paid directly to him rather than to Firm B. What must happen?",
+      "correct_answer": "The fee must be paid to Firm B; Firm B then pays its broker",
+      "distractors": [
+        "Firm A may pay the individual broker directly with managing broker approval",
+        "The fee may be split half to Firm B and half directly to the broker",
+        "The seller can direct the fee to the individual broker as a bonus"
+      ],
+      "explanation": "Indiana requires commission payments between firms, not to individual brokers outside their own firm. The cooperation fee flows from Firm A to Firm B, and Firm B pays its broker according to their private compensation agreement. No direct payment from Firm A to Firm B's individual broker is permissible.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commissions", "inter-firm", "payment-flow", "IN-14.4"]
+    },
+    {
+      "key_topic_ref": "IN-14.4",
+      "question_text": "Two cooperating firms have only a verbal cooperation agreement on a listed property. The transaction closes but a dispute arises about the commission split. What is the problem with the verbal agreement?",
+      "correct_answer": "Verbal cooperation agreements are difficult to enforce; written agreements are strongly recommended",
+      "distractors": [
+        "Verbal agreements are void and unenforceable under Indiana law",
+        "The MLS offer of cooperation automatically creates a binding written agreement",
+        "Indiana requires the seller to approve all cooperation agreements in writing"
+      ],
+      "explanation": "While an MLS offer of cooperation provides some basis for cooperation, relying solely on verbal agreements for commission splits creates enforcement problems. Indiana recommends that inter-firm cooperation arrangements be documented in writing to avoid disputes. A verbal agreement is not automatically void, but it is hard to enforce when terms are disputed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commissions", "inter-firm", "cooperation-agreement", "written-agreements", "IN-14.4"]
+    }
+  ]
+}

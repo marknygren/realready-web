@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ID-11",
+  "scope": "state",
+  "state": "ID",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "ID-11.1",
+      "question_text": "A seller receives two offers simultaneously. What is the listing agent's obligation?",
+      "correct_answer": "Present all offers to the seller promptly",
+      "distractors": ["Present only the highest offer", "Present the first offer received only", "Wait for a third offer before presenting"],
+      "explanation": "Idaho agents must present all offers to their client promptly. The seller has the right to see every offer and decide which to accept, reject, or counter. Agents cannot screen or filter offers.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["offers", "presenting", "all offers"]
+    },
+    {
+      "key_topic_ref": "ID-11.1",
+      "question_text": "A buyer submits a counteroffer. What happens to the original offer?",
+      "correct_answer": "The original offer is terminated",
+      "distractors": ["The original offer remains as a backup", "Both offers are active simultaneously", "The seller has 48 hours to choose between them"],
+      "explanation": "A counteroffer terminates the original offer. The counteroffer becomes a new offer that the original offeror (buyer) can accept, reject, or counter. The original terms are no longer binding.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["offers", "counteroffer", "termination"]
+    },
+    {
+      "key_topic_ref": "ID-11.1",
+      "question_text": "When does acceptance of an offer create a binding contract in Idaho?",
+      "correct_answer": "When acceptance is communicated to the offeror",
+      "distractors": ["When the seller signs the offer", "When earnest money is deposited", "When the title company receives the contract"],
+      "explanation": "A contract is formed when acceptance is communicated to the offeror or their agent. Simply signing the offer is insufficient — the acceptance must be communicated to create a binding agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["offers", "acceptance", "contract formation"]
+    },
+    {
+      "key_topic_ref": "ID-11.1",
+      "question_text": "A seller accepts an offer but the buyer never learns of the acceptance. Is there a binding contract?",
+      "correct_answer": "No, acceptance must be communicated to the buyer",
+      "distractors": ["Yes, the seller's signature creates the contract", "Yes, if the agent witnessed the acceptance", "Only if earnest money was already deposited"],
+      "explanation": "Acceptance must be communicated to the offeror or their agent to create a binding contract. Uncommunicated acceptance does not form a contract — the buyer must know their offer was accepted.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["offers", "acceptance", "communication"]
+    },
+    {
+      "key_topic_ref": "ID-11.1",
+      "question_text": "A buyer includes a deadline for acceptance in their offer. What happens if the seller accepts after the deadline?",
+      "correct_answer": "The late acceptance is treated as a new counteroffer",
+      "distractors": ["The contract is still valid", "The seller's agent must request an extension", "The buyer must accept the late acceptance"],
+      "explanation": "Once an offer's deadline passes, the offer expires. An acceptance after the deadline is treated as a new counteroffer that the original buyer can accept, reject, or counter.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["offers", "deadline", "expiration"]
+    },
+    {
+      "key_topic_ref": "ID-11.2",
+      "question_text": "When must an Idaho licensee deliver contracts and related documents to the parties?",
+      "correct_answer": "Promptly after execution",
+      "distractors": ["Within 10 business days", "At the closing only", "When requested by the parties"],
+      "explanation": "Idaho law requires prompt delivery of all contracts, agreements, and related documents to the appropriate parties. Delays in delivery can create liability and violate Commission rules.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["documents", "delivery", "prompt"]
+    },
+    {
+      "key_topic_ref": "ID-11.2",
+      "question_text": "A broker maintains transaction records in a locked cabinet at their home instead of the office. Is this acceptable?",
+      "correct_answer": "Only if records are accessible for Commission audit",
+      "distractors": ["Yes, any secure location is acceptable", "No, records must be at the brokerage office only", "Only if duplicates are filed with IREC"],
+      "explanation": "The key requirement is that records must be accessible for Commission audit. While the brokerage office is typical, the critical factor is accessibility, not the specific physical location.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["documents", "records", "accessibility"]
+    },
+    {
+      "key_topic_ref": "ID-11.2",
+      "question_text": "What is the broker's responsibility regarding transaction file completeness?",
+      "correct_answer": "Maintain complete files for all transactions",
+      "distractors": ["Keep only the final signed contract", "Maintain files for closed transactions only", "Keep records only if a complaint is filed"],
+      "explanation": "Brokers must maintain complete transaction files including all contracts, correspondence, and related documents. Files must be kept for all transactions, not just closed ones or those with complaints.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["documents", "records", "completeness"]
+    },
+    {
+      "key_topic_ref": "ID-11.2",
+      "question_text": "A salesperson fails to deliver the signed purchase agreement to the buyer's agent until a week after signing. What issue may arise?",
+      "correct_answer": "Violation of prompt document delivery requirement",
+      "distractors": ["No issue if the contract is still within contingency periods", "A trust account violation", "An advertising violation"],
+      "explanation": "Idaho requires prompt delivery of all transaction documents. A week-long delay in delivering a signed purchase agreement violates this requirement and could subject the licensee to discipline.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["documents", "delivery", "delay"]
+    },
+    {
+      "key_topic_ref": "ID-11.2",
+      "question_text": "Which documents must be included in a broker's transaction file?",
+      "correct_answer": "All contracts, agreements, and related correspondence",
+      "distractors": ["Only the purchase agreement and closing statement", "Only documents signed by both parties", "Only documents related to the commission"],
+      "explanation": "A complete transaction file includes all contracts, agreements, and related documents from the transaction. This ensures a full record is available for Commission audit if needed.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["documents", "records", "transaction file"]
+    },
+    {
+      "key_topic_ref": "ID-11.3",
+      "question_text": "Can an Idaho licensee negotiate their commission rate with a client?",
+      "correct_answer": "Yes, all commissions are fully negotiable",
+      "distractors": ["No, IREC sets standard commission rates", "Only brokers can negotiate rates", "Commissions are set by the local MLS"],
+      "explanation": "All real estate commissions in Idaho are fully negotiable between the licensee and the client. There are no standard or mandated rates set by IREC, the state, or any real estate association.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commission", "negotiable", "rates"]
+    },
+    {
+      "key_topic_ref": "ID-11.3",
+      "question_text": "A salesperson receives a bonus check directly from a grateful seller. Is this proper in Idaho?",
+      "correct_answer": "No, all compensation must go through the designated broker",
+      "distractors": ["Yes, bonuses are separate from commissions", "Yes, if the salesperson provides a receipt", "Only if the broker gives verbal approval"],
+      "explanation": "All compensation for licensed activity, including bonuses, must be paid through the licensee's designated broker. Direct payment from a client to a salesperson violates Idaho compensation rules.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commission", "direct payment", "broker"]
+    },
+    {
+      "key_topic_ref": "ID-11.3",
+      "question_text": "Under what terms is a commission considered earned?",
+      "correct_answer": "As specified in the listing or buyer agreement",
+      "distractors": ["Only upon successful closing of the transaction", "When the offer is first accepted", "When the agent spends 10+ hours on the deal"],
+      "explanation": "A commission is earned according to the specific terms of the listing agreement or buyer representation agreement. Different agreements may specify different triggering events.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commission", "earned", "agreement terms"]
+    },
+    {
+      "key_topic_ref": "ID-11.3",
+      "question_text": "A cooperating brokerage wants to pay a buyer's agent directly for a referral fee. Is this permitted?",
+      "correct_answer": "No, the fee must go through the agent's designated broker",
+      "distractors": ["Yes, referral fees are exempt from broker routing", "Yes, if both parties are licensed", "Only if the fee is under $1,000"],
+      "explanation": "All compensation, including referral fees, must be paid through the licensee's designated broker. Direct payment between cooperating agents or brokerages to individual agents is not permitted.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commission", "referral fee", "broker routing"]
+    },
+    {
+      "key_topic_ref": "ID-11.3",
+      "question_text": "A group of agents agree to charge the same commission rate in their market area. What legal issue does this create?",
+      "correct_answer": "Price fixing in violation of antitrust law",
+      "distractors": ["No issue if all agents are from the same brokerage", "A licensing violation but not an antitrust issue", "No issue if the rate is reasonable"],
+      "explanation": "Agreeing to charge the same commission rate is price fixing, which violates federal antitrust law (Sherman Act). Commissions must be independently and individually negotiated between each licensee and their client.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commission", "antitrust", "price fixing"]
+    }
+  ]
+}

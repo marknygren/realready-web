@@ -1,0 +1,228 @@
+{
+  "standard_ref": "VA-15",
+  "scope": "state",
+  "state": "VA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "VA-15.1",
+      "question_text": "Under Virginia's Condominium Act, how many days does a buyer have to cancel a new unit purchase from a developer?",
+      "correct_answer": "10 days",
+      "distractors": ["3 days", "7 days", "15 days"],
+      "explanation": "Under the Virginia Condominium Act (Section 55.1-1900), buyers of new condominium units from a developer have 10 days to cancel the contract after receiving the public offering statement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium-act", "cancellation", "developer-sales"]
+    },
+    {
+      "key_topic_ref": "VA-15.1",
+      "question_text": "A buyer receives a resale certificate for a Virginia condo. How long is the cancellation period?",
+      "correct_answer": "3 days after receiving the certificate",
+      "distractors": ["10 days after receiving the certificate", "7 days after receiving the certificate", "5 days after receiving the certificate"],
+      "explanation": "For resale transactions, the buyer has 3 days to cancel after receiving the resale certificate. This is shorter than the 10-day period for new units purchased from a developer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condominium-act", "resale-certificate", "cancellation"]
+    },
+    {
+      "key_topic_ref": "VA-15.1",
+      "question_text": "Where must a Virginia condominium developer register before offering units for sale?",
+      "correct_answer": "Common Interest Community Board within DPOR",
+      "distractors": ["Virginia Real Estate Board", "Department of Housing and Urban Development", "Local circuit court clerk's office"],
+      "explanation": "Virginia condominium developers must register with the Common Interest Community Board, which operates within the Department of Professional and Occupational Regulation (DPOR).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium-act", "developer-registration", "DPOR"]
+    },
+    {
+      "key_topic_ref": "VA-15.1",
+      "question_text": "A condo owner fails to pay assessments. How does the association's lien priority compare to a first deed of trust?",
+      "correct_answer": "The lien is subordinate to the first deed of trust",
+      "distractors": ["The lien takes priority over all other liens", "The lien is equal to the first deed of trust", "No lien attaches for unpaid assessments"],
+      "explanation": "A condominium association's lien for unpaid assessments is superior to most liens but subordinate to tax liens and the first deed of trust. This protects the primary mortgage lender's position.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condominium-act", "assessment-lien", "lien-priority"]
+    },
+    {
+      "key_topic_ref": "VA-15.1",
+      "question_text": "What document must a developer provide to a Virginia condo buyer before sale?",
+      "correct_answer": "A public offering statement",
+      "distractors": ["A property condition disclosure", "A home inspection report", "A title insurance commitment"],
+      "explanation": "The Virginia Condominium Act requires developers to provide a public offering statement to buyers. This document discloses key information about the condominium, its budget, rules, and the buyer's cancellation rights.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium-act", "public-offering-statement", "disclosure"]
+    },
+    {
+      "key_topic_ref": "VA-15.2",
+      "question_text": "Under VRLTA, what is the maximum security deposit a Virginia landlord may collect?",
+      "correct_answer": "Two months' rent",
+      "distractors": ["One month's rent", "Three months' rent", "No statutory limit exists"],
+      "explanation": "The Virginia Residential Landlord and Tenant Act (VRLTA) caps security deposits at two months' rent. The deposit must be held in a separate escrow account.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["VRLTA", "security-deposit", "landlord-tenant"]
+    },
+    {
+      "key_topic_ref": "VA-15.2",
+      "question_text": "A Virginia tenant moves out. Within how many days must the landlord return the security deposit?",
+      "correct_answer": "45 days with itemized deductions",
+      "distractors": ["30 days with itemized deductions", "60 days with itemized deductions", "21 days with itemized deductions"],
+      "explanation": "VRLTA requires landlords to return the security deposit within 45 days of move-out with an itemized list of deductions. If the landlord fails to comply, they forfeit the right to retain any portion.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["VRLTA", "security-deposit", "return-deadline"]
+    },
+    {
+      "key_topic_ref": "VA-15.2",
+      "question_text": "A tenant fails to pay rent in Virginia. What notice must the landlord serve before filing for eviction?",
+      "correct_answer": "5-day pay-or-quit notice",
+      "distractors": ["3-day pay-or-quit notice", "10-day pay-or-quit notice", "30-day pay-or-quit notice"],
+      "explanation": "Under VRLTA, a landlord must serve a 5-day pay-or-quit notice for nonpayment of rent. For other lease violations, the landlord must give a 21-day or 30-day notice depending on the situation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["VRLTA", "eviction", "pay-or-quit"]
+    },
+    {
+      "key_topic_ref": "VA-15.2",
+      "question_text": "A Virginia landlord changes the locks while a tenant is at work to force them out. Is this lawful?",
+      "correct_answer": "No, self-help evictions are prohibited",
+      "distractors": ["Yes, if rent is 30 days overdue", "Yes, with 24 hours written notice", "Only if the lease specifically allows it"],
+      "explanation": "VRLTA prohibits self-help evictions such as lock changes, utility shutoffs, or removing belongings. Landlords must use the unlawful detainer process through General District Court to legally remove a tenant.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["VRLTA", "self-help-eviction", "tenant-rights"]
+    },
+    {
+      "key_topic_ref": "VA-15.2",
+      "question_text": "Under HB 1519 effective July 2025, where must all mandatory fees appear in a Virginia lease?",
+      "correct_answer": "On the first page of the lease",
+      "distractors": ["In a separate addendum", "On the last page before signatures", "In the lease table of contents"],
+      "explanation": "HB 1519, effective July 2025, requires all mandatory fees to be disclosed on the first page of a Virginia residential lease. This ensures tenants see all required charges before signing.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["VRLTA", "HB-1519", "fee-disclosure"]
+    },
+    {
+      "key_topic_ref": "VA-15.3",
+      "question_text": "Under the Property Owners Association Act, how many days does a buyer have to cancel after receiving the disclosure packet?",
+      "correct_answer": "3 days",
+      "distractors": ["5 days", "7 days", "10 days"],
+      "explanation": "Under the Virginia Property Owners Association Act (Section 55.1-1800), the buyer has 3 days to cancel the contract after receiving the disclosure packet from the POA.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["POA-act", "cancellation", "disclosure-packet"]
+    },
+    {
+      "key_topic_ref": "VA-15.3",
+      "question_text": "A buyer requests a POA disclosure packet. How long does the association have to provide it?",
+      "correct_answer": "14 days after the request",
+      "distractors": ["7 days after the request", "21 days after the request", "30 days after the request"],
+      "explanation": "The POA must deliver the disclosure packet within 14 days of the request. The packet includes financial statements, assessments, rules, pending litigation, and reserve fund information.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["POA-act", "disclosure-packet", "timeline"]
+    },
+    {
+      "key_topic_ref": "VA-15.3",
+      "question_text": "A homeowner in a Virginia planned community stops paying assessments. What remedy does the POA have?",
+      "correct_answer": "File a lien and potentially foreclose",
+      "distractors": ["Suspend the owner's voting rights only", "Report the debt to credit agencies only", "Revoke the owner's deed to the property"],
+      "explanation": "Under the Property Owners Association Act, the POA can place a lien on the property for unpaid assessments and may pursue foreclosure to collect the debt. The POA may also charge a reasonable fee for providing disclosure packets.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["POA-act", "assessment-lien", "enforcement"]
+    },
+    {
+      "key_topic_ref": "VA-15.3",
+      "question_text": "What information is included in a Virginia POA disclosure packet?",
+      "correct_answer": "Financials, assessments, rules, and litigation",
+      "distractors": ["Only the annual assessment amount", "Property survey and title report", "Neighborhood crime statistics"],
+      "explanation": "The POA disclosure packet must include financial statements, current assessments, community rules and covenants, any pending litigation, and reserve fund information. The POA may charge a reasonable fee for preparation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["POA-act", "disclosure-packet", "contents"]
+    },
+    {
+      "key_topic_ref": "VA-15.3",
+      "question_text": "Can a Virginia POA charge a fee for preparing the disclosure packet?",
+      "correct_answer": "Yes, a reasonable fee is permitted",
+      "distractors": ["No, it must be provided at no cost", "Only if the seller requests expedited delivery", "Only for communities with 50 or more lots"],
+      "explanation": "The Property Owners Association Act allows the POA to charge a reasonable fee for preparing and delivering the disclosure packet. The packet must still be provided within 14 days of the request.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["POA-act", "disclosure-fee", "reasonable-charge"]
+    },
+    {
+      "key_topic_ref": "VA-15.4",
+      "question_text": "Before excavating in Virginia, who must a contractor contact?",
+      "correct_answer": "Miss Utility Virginia by calling 811",
+      "distractors": ["The local building inspector", "The county zoning administrator", "The Virginia DEQ office"],
+      "explanation": "Virginia's Underground Utility Damage Prevention Act requires anyone planning excavation to contact Miss Utility Virginia (811) at least 48 hours before digging. Utility companies then mark underground line locations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["utility-damage-prevention", "miss-utility", "811"]
+    },
+    {
+      "key_topic_ref": "VA-15.4",
+      "question_text": "How much advance notice must be given before excavating in Virginia?",
+      "correct_answer": "48 hours before digging begins",
+      "distractors": ["24 hours before digging begins", "72 hours before digging begins", "7 days before digging begins"],
+      "explanation": "Virginia law requires at least 48 hours advance notice to Miss Utility (811) before any excavation begins. This allows utility companies time to locate and mark underground lines.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["utility-damage-prevention", "48-hour-notice", "excavation"]
+    },
+    {
+      "key_topic_ref": "VA-15.4",
+      "question_text": "A homeowner digs a fence post hole without calling 811 and hits a gas line. What consequences apply?",
+      "correct_answer": "Fines and liability for the damage",
+      "distractors": ["No penalty for residential projects", "Only a verbal warning for first offense", "The utility company absorbs all costs"],
+      "explanation": "The Underground Utility Damage Prevention Act applies to all excavation including residential. Failure to call 811 before digging can result in fines and the excavator being held liable for all damage to underground utilities.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["utility-damage-prevention", "liability", "residential"]
+    },
+    {
+      "key_topic_ref": "VA-15.4",
+      "question_text": "After a contractor calls 811, what must utility companies do?",
+      "correct_answer": "Mark underground utility locations on site",
+      "distractors": ["Issue a written excavation permit", "Send a representative to supervise digging", "Provide blueprints of all utility lines"],
+      "explanation": "After receiving a 811 notification, utility companies must physically mark the locations of their underground lines at the excavation site using color-coded paint or flags before work begins.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["utility-damage-prevention", "marking", "utility-response"]
+    },
+    {
+      "key_topic_ref": "VA-15.4",
+      "question_text": "Does Virginia's call-before-you-dig law apply to a homeowner planting a tree in their own yard?",
+      "correct_answer": "Yes, it applies to all excavation",
+      "distractors": ["No, only commercial projects", "Only if digging deeper than 24 inches", "Only within 10 feet of the street"],
+      "explanation": "Virginia's Underground Utility Damage Prevention Act applies to all excavation, including residential projects like planting trees or installing fence posts. The homeowner must call 811 at least 48 hours before digging.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["utility-damage-prevention", "residential", "applicability"]
+    }
+  ]
+}

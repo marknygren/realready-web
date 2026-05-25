@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WV-02",
+  "scope": "state",
+  "state": "WV",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "WV-02.1",
+      "question_text": "What type of accounts is the WVREC authorized to audit?",
+      "correct_answer": "Broker trust accounts and business records",
+      "distractors": ["Salesperson personal bank accounts", "Client mortgage loan accounts", "Title company escrow accounts"],
+      "explanation": "The WVREC has specific authority to audit broker trust accounts and business records to ensure compliance with trust fund requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["audits", "trust-accounts", "enforcement"]
+    },
+    {
+      "key_topic_ref": "WV-02.1",
+      "question_text": "A broker refuses to allow WVREC inspectors to review trust account records. What is the consequence?",
+      "correct_answer": "The broker violates the License Act",
+      "distractors": ["The commission needs a court order first", "The broker has no obligation to allow access", "Only the financial institution must cooperate"],
+      "explanation": "Brokers must authorize the commission to make periodic inspections of trust fund accounts. Refusing access is a violation of the License Act.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["audits", "trust-accounts", "compliance"]
+    },
+    {
+      "key_topic_ref": "WV-02.1",
+      "question_text": "What must a financial institution agree to do regarding a broker's trust account?",
+      "correct_answer": "Notify WVREC if trust checks bounce",
+      "distractors": ["Provide monthly statements to clients", "Guarantee all deposits up to $500,000", "Audit the account on the broker's behalf"],
+      "explanation": "Financial institutions must execute a commission-prepared statement agreeing to notify the WVREC if any trust account checks are returned for insufficient funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["audits", "trust-accounts", "bank-notification"]
+    },
+    {
+      "key_topic_ref": "WV-02.1",
+      "question_text": "How does the WVREC gain access to broker trust account records at the financial institution?",
+      "correct_answer": "The broker authorizes periodic inspections",
+      "distractors": ["The commission subpoenas records each time", "The bank automatically provides records monthly", "Access requires a court order in every case"],
+      "explanation": "As a condition of licensure, brokers must authorize the WVREC to conduct periodic inspections of trust fund accounts. The commission can also obtain records from the institution.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["audits", "inspections", "authorization"]
+    },
+    {
+      "key_topic_ref": "WV-02.1",
+      "question_text": "A broker's trust account check is returned for insufficient funds. Who must the bank notify?",
+      "correct_answer": "The WV Real Estate Commission",
+      "distractors": ["The payee of the check only", "The broker's errors and omissions insurer", "The county circuit court clerk"],
+      "explanation": "Financial institutions must agree to notify the WVREC if any trust account checks bounce. This is a key consumer protection measure that enables the commission to investigate potential trust fund violations.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["audits", "trust-accounts", "NSF"]
+    },
+    {
+      "key_topic_ref": "WV-02.2",
+      "question_text": "Who may file a complaint with the WVREC against a licensee?",
+      "correct_answer": "Any person",
+      "distractors": ["Only other licensed real estate agents", "Only parties to the transaction", "Only the employing broker"],
+      "explanation": "Anyone can file a complaint with the WVREC. The commission then investigates alleged violations of the License Act or commission rules.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["complaints", "investigation", "enforcement"]
+    },
+    {
+      "key_topic_ref": "WV-02.2",
+      "question_text": "A homebuyer believes a salesperson misrepresented property conditions. What is the first step in the WVREC enforcement process?",
+      "correct_answer": "File a complaint with the WVREC",
+      "distractors": ["File a lawsuit in circuit court", "Request arbitration through the MLS", "Contact the employing broker's insurer"],
+      "explanation": "The first step is filing a complaint with the WVREC. The commission then investigates alleged violations of the License Act or commission rules before proceeding to a hearing if warranted.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["complaints", "process", "enforcement"]
+    },
+    {
+      "key_topic_ref": "WV-02.2",
+      "question_text": "The WVREC receives a complaint alleging unlicensed practice. What does the commission do next?",
+      "correct_answer": "Investigates the alleged License Act violation",
+      "distractors": ["Immediately suspends the person's license", "Forwards the complaint to criminal court", "Dismisses unless the complainant is a client"],
+      "explanation": "When the WVREC receives a complaint, it investigates the alleged violations. The commission does not take immediate action without investigation, and anyone (not just clients) can file complaints.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["complaints", "investigation", "unlicensed-practice"]
+    },
+    {
+      "key_topic_ref": "WV-02.2",
+      "question_text": "What types of violations does the WVREC investigate?",
+      "correct_answer": "Violations of the License Act or commission rules",
+      "distractors": ["Only criminal fraud allegations in court", "Only trust account and escrow violations", "Only fair housing complaints from consumers"],
+      "explanation": "The WVREC investigates alleged violations of both the Real Estate License Act and the commission's own rules and regulations, covering the full scope of licensed real estate practice.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["complaints", "investigation", "scope"]
+    },
+    {
+      "key_topic_ref": "WV-02.2",
+      "question_text": "A salesperson's neighbor files a complaint about an advertising violation. Can the WVREC investigate?",
+      "correct_answer": "Yes, anyone can file a valid complaint",
+      "distractors": ["No, only clients can file complaints", "No, only brokers can report advertising issues", "Yes, but only after a civil lawsuit is filed"],
+      "explanation": "Anyone can file a complaint with the WVREC. The commission investigates all complaints alleging violations of the License Act or commission rules, regardless of the complainant's relationship to the licensee.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["complaints", "filing", "enforcement"]
+    },
+    {
+      "key_topic_ref": "WV-02.3",
+      "question_text": "After a hearing, what does the WVREC issue if it determines a violation occurred?",
+      "correct_answer": "Findings of fact and conclusions of law",
+      "distractors": ["A criminal conviction and sentence", "A civil judgment for monetary damages", "An advisory opinion without legal effect"],
+      "explanation": "If the commission determines a violation occurred after a hearing, it issues a formal decision containing findings of fact and conclusions of law, and may impose sanctions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["hearings", "decisions", "enforcement"]
+    },
+    {
+      "key_topic_ref": "WV-02.3",
+      "question_text": "What authority does the WVREC have after finding a licensee violated the License Act at a hearing?",
+      "correct_answer": "Impose one or more sanctions",
+      "distractors": ["Only issue a written warning", "Only recommend prosecution to the AG", "Award monetary damages to the complainant"],
+      "explanation": "After finding a violation, the WVREC may impose one or more sanctions as appropriate, including fines, license suspension, or revocation. The commission does not award monetary damages.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["hearings", "sanctions", "enforcement"]
+    },
+    {
+      "key_topic_ref": "WV-02.3",
+      "question_text": "A licensee is accused of trust account violations. In what order does the WVREC process proceed?",
+      "correct_answer": "Complaint, investigation, hearing, decision",
+      "distractors": ["Hearing, complaint, investigation, decision", "Investigation, arrest, trial, sentencing", "Complaint, hearing, investigation, appeal"],
+      "explanation": "The WVREC enforcement process follows a logical sequence: a complaint is filed, the commission investigates, a hearing is held if warranted, and the commission issues a formal decision with findings.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["hearings", "process", "enforcement"]
+    },
+    {
+      "key_topic_ref": "WV-02.3",
+      "question_text": "During a WVREC hearing, the commission must base its decision on what?",
+      "correct_answer": "Evidence presented at the hearing",
+      "distractors": ["Public opinion and media reports", "The employing broker's recommendation", "The complainant's settlement demand"],
+      "explanation": "WVREC hearings follow due process requirements. The commission's formal decision must contain findings of fact and conclusions of law based on evidence presented at the hearing.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["hearings", "due-process", "decisions"]
+    },
+    {
+      "key_topic_ref": "WV-02.3",
+      "question_text": "A licensee disagrees with the WVREC's disciplinary decision. What recourse is available?",
+      "correct_answer": "Appeal the decision through the court system",
+      "distractors": ["No recourse — WVREC decisions are final", "Request a new hearing with different commissioners", "File a complaint with the Governor's office"],
+      "explanation": "Licensees may appeal WVREC disciplinary decisions through the court system. Administrative decisions are subject to judicial review, ensuring due process protections.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["hearings", "appeals", "due-process"]
+    }
+  ]
+}

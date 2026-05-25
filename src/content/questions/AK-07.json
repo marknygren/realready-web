@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AK-07",
+  "scope": "state",
+  "state": "AK",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "AK-07.1",
+      "question_text": "Under AS 34.70, when must a seller deliver the Residential Real Property Transfer Disclosure Statement to the buyer?",
+      "correct_answer": "Before the buyer makes a written offer",
+      "distractors": ["Within 10 days of accepting the offer", "At the closing table before signing", "Within 5 days of listing the property"],
+      "explanation": "Alaska law requires the seller to deliver the transfer disclosure statement before the buyer makes a written offer. This ensures buyers have information about the property's condition before committing to a purchase.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "transfer", "timing"]
+    },
+    {
+      "key_topic_ref": "AK-07.1",
+      "question_text": "A seller completes the Alaska transfer disclosure in good faith but unknowingly omits a hidden plumbing defect. Is the seller liable?",
+      "correct_answer": "Not for unknown defects disclosed in good faith",
+      "distractors": ["Yes, strict liability applies to all defects", "Yes, the seller guarantees property condition", "Only if the defect is discovered within one year"],
+      "explanation": "The disclosure must be made in good faith, covering known defects and conditions. A seller is not liable for defects they genuinely did not know about if they completed the disclosure honestly. The requirement is to disclose what is known, not to guarantee condition.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "good faith", "liability"]
+    },
+    {
+      "key_topic_ref": "AK-07.1",
+      "question_text": "What must the Alaska Residential Real Property Transfer Disclosure Statement cover?",
+      "correct_answer": "Known defects and conditions of the property",
+      "distractors": ["Only structural defects found by an inspector", "Only defects that cost more than $500 to repair", "All defects regardless of seller's knowledge"],
+      "explanation": "The disclosure covers known defects and conditions of the property as disclosed by the seller in good faith. It is not limited to structural issues or those above a dollar threshold, nor does it require the seller to discover unknown defects.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "transfer", "content"]
+    },
+    {
+      "key_topic_ref": "AK-07.1",
+      "question_text": "A seller discovers a new roof leak after delivering the transfer disclosure to the buyer. What must the seller do?",
+      "correct_answer": "Deliver an amendment to the disclosure to the buyer",
+      "distractors": ["Nothing, the original disclosure is final", "Cancel the listing and relist the property", "Repair the leak before closing without disclosing"],
+      "explanation": "If information in the disclosure becomes inaccurate after delivery, the seller must deliver an amendment to the buyer. The obligation to disclose continues throughout the transaction — new material defects must be communicated.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "amendment", "new defects"]
+    },
+    {
+      "key_topic_ref": "AK-07.1",
+      "question_text": "A listing agent knows the seller's transfer disclosure omits a known basement flooding issue. What should the agent do?",
+      "correct_answer": "Advise the seller to amend the disclosure",
+      "distractors": ["Ignore it since it is the seller's responsibility", "Correct the disclosure without the seller's knowledge", "Report the seller to AREC immediately"],
+      "explanation": "Licensees have a duty to ensure material facts are disclosed. The agent should advise the seller to amend the disclosure to include the basement flooding. If the seller refuses, the agent may have additional obligations including disclosing the material fact directly.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "agent duty", "material facts"]
+    },
+    {
+      "key_topic_ref": "AK-07.2",
+      "question_text": "A seller delivers the transfer disclosure after the buyer has already made an offer. The disclosure is hand-delivered. How long does the buyer have to terminate?",
+      "correct_answer": "3 days",
+      "distractors": ["5 days", "7 days", "10 days"],
+      "explanation": "If the transfer disclosure is delivered after the buyer makes an offer and is delivered in person, the buyer has 3 days to terminate the agreement. If mailed instead of hand-delivered, the rescission period extends to 6 days.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "rescission", "in-person"]
+    },
+    {
+      "key_topic_ref": "AK-07.2",
+      "question_text": "A seller mails the late transfer disclosure to the buyer on Monday. How many days does the buyer have to cancel?",
+      "correct_answer": "6 days from mailing",
+      "distractors": ["3 days from receipt", "10 days from mailing", "5 days from receipt"],
+      "explanation": "When the transfer disclosure is mailed rather than delivered in person, the buyer has 6 days to terminate. The longer period accounts for mail delivery time. If delivered in person, the rescission period is only 3 days.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "rescission", "mailed"]
+    },
+    {
+      "key_topic_ref": "AK-07.2",
+      "question_text": "A buyer receives an amended disclosure revealing new foundation issues after the original was timely delivered. Does the buyer have rescission rights?",
+      "correct_answer": "Yes, the same rescission periods apply to amendments",
+      "distractors": ["No, rescission applies only to the original disclosure", "Yes, but only if the buyer hasn't waived inspection", "No, the buyer must negotiate repairs instead"],
+      "explanation": "When the seller delivers an amendment to the disclosure, the buyer's rescission rights are triggered again with the same time periods (3 days in person, 6 days mailed). Amendments revealing material changes give the buyer another opportunity to evaluate.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disclosure", "rescission", "amendment"]
+    },
+    {
+      "key_topic_ref": "AK-07.2",
+      "question_text": "A buyer receives the transfer disclosure before making an offer, as required by law. Does the buyer still have a right to cancel based on the disclosure?",
+      "correct_answer": "No, the rescission right applies only to late disclosures",
+      "distractors": ["Yes, the buyer has 3 days regardless of timing", "Yes, the buyer has 15 days to review", "No, but the buyer can negotiate a price reduction"],
+      "explanation": "The 3-day/6-day rescission rights only apply when the disclosure is delivered after the buyer makes an offer (late disclosure). When the disclosure is timely — delivered before the buyer's offer — the buyer uses the information to decide whether to make an offer at all.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disclosure", "rescission", "timely"]
+    },
+    {
+      "key_topic_ref": "AK-07.3",
+      "question_text": "Which of the following transactions is exempt from Alaska's transfer disclosure requirement?",
+      "correct_answer": "First transfer of new construction never occupied",
+      "distractors": ["Sale of a property built before 1980", "Transfer between non-related parties", "Sale of any single-family residence"],
+      "explanation": "The first transfer of new construction that has never been occupied is exempt from the transfer disclosure requirement under AS 34.70. Other exemptions include court-ordered transfers, foreclosures, and situations where buyer and seller mutually waive the disclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "exemptions", "new construction"]
+    },
+    {
+      "key_topic_ref": "AK-07.3",
+      "question_text": "A buyer and seller in Alaska agree in writing to waive the transfer disclosure requirement. Is this permitted?",
+      "correct_answer": "Yes, the parties may waive by written agreement",
+      "distractors": ["No, the disclosure is mandatory and cannot be waived", "Yes, but only with AREC approval", "Yes, but only for commercial properties"],
+      "explanation": "Alaska is one of the states where the buyer and seller may mutually waive the transfer disclosure requirement by written agreement. This is an unusual provision — many states do not allow such waivers for residential properties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "waiver", "exemptions"]
+    },
+    {
+      "key_topic_ref": "AK-07.3",
+      "question_text": "A seller willfully conceals a known defect on the transfer disclosure. What is the maximum penalty?",
+      "correct_answer": "Up to 3 times actual damages (treble damages)",
+      "distractors": ["Actual damages only plus court costs", "A $10,000 fine from AREC", "Criminal prosecution for fraud"],
+      "explanation": "Willful violation of the transfer disclosure requirement exposes the seller to treble damages — up to 3 times the actual damages suffered. Negligent violations result in liability for actual damages only. This creates a strong incentive for honest disclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "penalties", "treble damages"]
+    },
+    {
+      "key_topic_ref": "AK-07.3",
+      "question_text": "A seller negligently fails to disclose a known termite problem. What damages may the buyer recover?",
+      "correct_answer": "Actual damages suffered",
+      "distractors": ["Up to 3 times actual damages", "A minimum of $5,000 statutory damages", "No damages for negligent violations"],
+      "explanation": "Negligent violation of the disclosure requirement results in liability for actual damages. Treble damages (up to 3x) are reserved for willful violations. The distinction between negligent and willful violation significantly affects the seller's exposure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "penalties", "negligent"]
+    },
+    {
+      "key_topic_ref": "AK-07.3",
+      "question_text": "A foreclosure sale occurs in Alaska. Does the foreclosing lender need to provide a transfer disclosure?",
+      "correct_answer": "No, foreclosure transfers are exempt",
+      "distractors": ["Yes, all residential transfers require disclosure", "Only if the property is owner-occupied", "Yes, but the lender has 30 days after the sale"],
+      "explanation": "Court-ordered transfers and foreclosures are among the transfers exempt from Alaska's transfer disclosure requirement. The exemption recognizes that foreclosing lenders typically lack personal knowledge of property conditions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "exemptions", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "AK-07.2",
+      "question_text": "A seller hand-delivers a late disclosure on Wednesday. The buyer decides to terminate on Friday. Is this within the rescission period?",
+      "correct_answer": "Yes, Friday is within the 3-day period",
+      "distractors": ["No, the buyer only had until Thursday", "No, the period starts the next business day", "Yes, but only if the buyer sends written notice"],
+      "explanation": "The 3-day rescission period for in-person delivery gives the buyer until Saturday (day 3) to terminate. Friday (day 2) is well within the allowed period. The right to terminate exists because the disclosure was late — delivered after the buyer made an offer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "rescission", "timeline"]
+    }
+  ]
+}

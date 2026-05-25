@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NC-02",
+  "scope": "state",
+  "state": "NC",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "NC-02.1",
+      "question_text": "What is the entry-level individual license category in North Carolina?",
+      "correct_answer": "Provisional Broker",
+      "distractors": [
+        "Sales Associate",
+        "Associate Broker",
+        "Broker Apprentice"
+      ],
+      "explanation": "The entry-level license in North Carolina is the Provisional Broker (PB). Unlike many states that use 'sales associate' or 'salesperson,' NC starts all new licensees as Provisional Brokers who must work under BIC supervision and complete postlicensing education.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Provisional_Broker", "license_categories", "entry_level"]
+    },
+    {
+      "key_topic_ref": "NC-02.1",
+      "question_text": "A Provisional Broker has completed all postlicensing requirements. What license status can she now hold?",
+      "correct_answer": "Full Broker",
+      "distractors": [
+        "Broker-in-Charge",
+        "Senior Provisional Broker",
+        "Associate Broker"
+      ],
+      "explanation": "After completing all 90 hours of postlicensing education, a Provisional Broker advances to full Broker status. A full Broker may work independently without BIC supervision. Becoming a Broker-in-Charge requires additional qualifications beyond postlicensing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Broker", "postlicensing", "license_upgrade"]
+    },
+    {
+      "key_topic_ref": "NC-02.1",
+      "question_text": "An out-of-state commercial broker wants to handle a single NC commercial transaction. Which license type applies?",
+      "correct_answer": "Limited Nonresident Commercial Broker",
+      "distractors": [
+        "Provisional Broker",
+        "Temporary Commercial Permit",
+        "Full Broker with reciprocity"
+      ],
+      "explanation": "North Carolina offers the Limited Nonresident Commercial Broker license for out-of-state brokers who need to handle limited commercial transactions in NC. This special category allows commercial activity without obtaining a full NC license.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Limited_Nonresident", "commercial", "out_of_state"]
+    },
+    {
+      "key_topic_ref": "NC-02.1",
+      "question_text": "Which entity type must also hold a license to operate a brokerage in North Carolina?",
+      "correct_answer": "The firm itself",
+      "distractors": [
+        "Only the individual BIC needs a license",
+        "The state Department of Commerce",
+        "The firm's registered agent"
+      ],
+      "explanation": "In North Carolina, real estate firms must hold their own firm license in addition to the individual licenses held by their brokers. The BIC designation is for individuals supervising the office, but the business entity also requires separate licensure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["firm_license", "brokerage", "entity_licensing"]
+    },
+    {
+      "key_topic_ref": "NC-02.1",
+      "question_text": "A Provisional Broker wants to manage an office and supervise other PBs. Is this permitted?",
+      "correct_answer": "No, only a BIC can supervise PBs and offices",
+      "distractors": [
+        "Yes, with 2 years of experience",
+        "Yes, if the firm owner authorizes it",
+        "Yes, after completing postlicensing"
+      ],
+      "explanation": "Only a Broker-in-Charge (BIC) may supervise Provisional Brokers and manage office operations. A PB cannot work independently and certainly cannot take on supervisory responsibilities. Even a full Broker must obtain BIC designation before supervising others.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["BIC", "supervision", "Provisional_Broker"]
+    },
+    {
+      "key_topic_ref": "NC-02.2",
+      "question_text": "A property owner's nephew offers to find a buyer for the property in exchange for a referral fee. Does he need a license?",
+      "correct_answer": "Yes, receiving compensation for referrals requires one",
+      "distractors": [
+        "No, family members are always exempt",
+        "No, referrals do not require a license",
+        "Only if the property exceeds $100,000"
+      ],
+      "explanation": "Referring buyers or sellers for compensation is a licensed activity in North Carolina. Family relationships do not create an exemption. The individual owner exemption applies only to the owner personally, not to relatives acting on the owner's behalf for a fee.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["referral_fee", "license_required", "compensation"]
+    },
+    {
+      "key_topic_ref": "NC-02.2",
+      "question_text": "An attorney-at-law negotiates a property sale as part of her legal practice. Does she need a real estate license?",
+      "correct_answer": "No, attorneys-at-law are exempt",
+      "distractors": [
+        "Yes, all real estate sales require a license",
+        "Only if she receives a separate commission",
+        "Only if the property is residential"
+      ],
+      "explanation": "Attorneys-at-law are specifically exempt from NC real estate licensing requirements when performing real estate activities as part of their legal practice. Other exemptions include court-appointed receivers, trustees, and guardians acting under court order.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exemptions", "attorney", "license_not_required"]
+    },
+    {
+      "key_topic_ref": "NC-02.2",
+      "question_text": "Under HB 797 (effective October 2025), a person contracts to buy a home then immediately assigns the contract for profit. How does NC law treat this?",
+      "correct_answer": "It is wholesaling, classified as brokerage activity",
+      "distractors": [
+        "It is a private investment, no license needed",
+        "It is legal if disclosed to the seller",
+        "It is permitted for up to 3 transactions per year"
+      ],
+      "explanation": "HB 797, effective October 2025, classifies wholesaling as brokerage activity in North Carolina. Contract assignments for profit require a real estate license. The law also grants homeowners a cancellation right to protect consumers from exploitative wholesaling practices.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HB_797", "wholesaling", "brokerage_activity", "2025"]
+    },
+    {
+      "key_topic_ref": "NC-02.2",
+      "question_text": "A corporation wants to sell commercial property it owns. Must the corporation hold a real estate license?",
+      "correct_answer": "No, entities selling their own RE are exempt",
+      "distractors": [
+        "Yes, all commercial sales require a license",
+        "Only if the property exceeds $1 million",
+        "Yes, unless a licensed broker handles the closing"
+      ],
+      "explanation": "A business entity selling its own real estate is exempt from licensing requirements in North Carolina. This exemption applies because the entity is acting as the principal owner, not as a broker or agent for another party.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "business_entity", "own_property"]
+    },
+    {
+      "key_topic_ref": "NC-02.2",
+      "question_text": "Which of the following activities requires a North Carolina real estate license?",
+      "correct_answer": "Offering to auction real estate for others",
+      "distractors": [
+        "A guardian selling property under court order",
+        "An owner renting their own vacation home",
+        "An attorney-in-fact acting under a power of attorney"
+      ],
+      "explanation": "Auctioning or offering to auction real estate for others is a licensed brokerage activity. Guardians acting under court order, individual owners managing their own property, and attorneys-in-fact under a power of attorney are all specifically exempt.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["licensed_activities", "auctioning", "exemptions"]
+    },
+    {
+      "key_topic_ref": "NC-02.3",
+      "question_text": "An unlicensed assistant at a brokerage answers a caller's question about the listing price of a property. Is this permitted?",
+      "correct_answer": "No, discussing price requires a license",
+      "distractors": [
+        "Yes, if the BIC authorized the assistant",
+        "Yes, price is public information",
+        "Only if the assistant reads from a script"
+      ],
+      "explanation": "Unlicensed assistants may not discuss terms or price with clients or prospects. This crosses into brokerage activity that requires licensure. Assistants may answer phones and take messages but must not provide substantive information about listings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "prohibited_activities", "price"]
+    },
+    {
+      "key_topic_ref": "NC-02.3",
+      "question_text": "Which task may an unlicensed assistant legally perform?",
+      "correct_answer": "Place for-sale signs on listed properties",
+      "distractors": [
+        "Show properties to prospective buyers",
+        "Hold open houses without a broker present",
+        "Negotiate repair requests with buyers"
+      ],
+      "explanation": "Unlicensed assistants may place for-sale signs, answer phones, take messages, schedule appointments, and distribute pre-approved marketing materials. They cannot show property, hold open houses independently, negotiate, or advise on value.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "permitted_activities", "signs"]
+    },
+    {
+      "key_topic_ref": "NC-02.3",
+      "question_text": "A BIC asks her unlicensed assistant to draft a counteroffer for a buyer. Is this appropriate?",
+      "correct_answer": "No, drafting contracts requires a license",
+      "distractors": [
+        "Yes, if the BIC reviews it before sending",
+        "Yes, assistants may prepare all paperwork",
+        "Only if the assistant has paralegal training"
+      ],
+      "explanation": "Drafting contracts, counteroffers, or any legally binding documents is a brokerage activity that requires a real estate license. An unlicensed assistant may assemble pre-existing closing documents but cannot draft or modify contract terms regardless of BIC review.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "prohibited_activities", "contracts"]
+    },
+    {
+      "key_topic_ref": "NC-02.3",
+      "question_text": "An unlicensed assistant independently hosts an open house while the listing broker attends another showing. What is the compliance issue?",
+      "correct_answer": "Assistants cannot hold open houses independently",
+      "distractors": [
+        "No issue if the assistant only greets visitors",
+        "Permitted if fewer than 5 visitors attend",
+        "Allowed with written BIC authorization"
+      ],
+      "explanation": "Holding an open house independently is prohibited for unlicensed assistants because it inevitably involves discussing property features, answering questions about terms, and interacting with prospects in ways that constitute brokerage activity requiring a license.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "open_house", "prohibited_activities"]
+    },
+    {
+      "key_topic_ref": "NC-02.3",
+      "question_text": "Which of the following may an unlicensed assistant do for a brokerage?",
+      "correct_answer": "Distribute pre-approved marketing materials",
+      "distractors": [
+        "Advise a seller on a competitive list price",
+        "Negotiate commission splits with co-brokers",
+        "Explain agency disclosure forms to clients"
+      ],
+      "explanation": "Unlicensed assistants may prepare and distribute marketing materials that have been pre-approved by the broker. They cannot advise on pricing, negotiate any terms, or explain legal documents to clients, as these activities require licensure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["unlicensed_assistant", "permitted_activities", "marketing"]
+    }
+  ]
+}

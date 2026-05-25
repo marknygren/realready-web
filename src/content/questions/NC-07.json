@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NC-07",
+  "scope": "state",
+  "state": "NC",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "NC-07.1",
+      "question_text": "Within how many days must a broker deliver copies of completed documents to a client under NC law?",
+      "correct_answer": "3 days",
+      "distractors": [
+        "1 day",
+        "5 days",
+        "7 days"
+      ],
+      "explanation": "Under NCGS 93A-6(a)(13), brokers must deliver copies of all completed documents to their clients within 3 days. This ensures clients have timely access to transaction records. Neither 1, 5, nor 7 days is the correct statutory timeframe.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["document_delivery", "3_days", "93A-6"]
+    },
+    {
+      "key_topic_ref": "NC-07.1",
+      "question_text": "A broker receives a referral fee from a home warranty company for recommending their services to clients. What must the broker do?",
+      "correct_answer": "Disclose the referral fee to the client",
+      "distractors": [
+        "Return the fee to the warranty company",
+        "Deposit the fee in the trust account",
+        "Nothing, referral fees are standard practice"
+      ],
+      "explanation": "Under Rule 58A .0109, brokers must disclose commissions, referral fees, and kickbacks received from third parties to their clients. The broker may keep the fee but must inform the client of its existence. Failure to disclose creates an undisclosed conflict of interest.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["referral_fees", "disclosure", "third_party", "Rule_58A_0109"]
+    },
+    {
+      "key_topic_ref": "NC-07.1",
+      "question_text": "A broker knowingly tells a buyer that a property has no water damage, despite visible staining on the basement walls. Which violation has occurred?",
+      "correct_answer": "Willful misrepresentation of material facts",
+      "distractors": [
+        "Negligent misrepresentation only",
+        "A minor disclosure oversight",
+        "No violation if the seller approved it"
+      ],
+      "explanation": "Knowingly making a false statement about a material condition constitutes willful misrepresentation under NCGS 93A-6(a)(1). Visible water staining is a material fact that must be disclosed honestly. The seller's approval does not shield the broker from liability for making false statements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["willful_misrepresentation", "material_facts", "93A-6"]
+    },
+    {
+      "key_topic_ref": "NC-07.1",
+      "question_text": "A broker promises a seller that the property will sell within 30 days to secure the listing, knowing this is unlikely given market conditions. What duty has the broker violated?",
+      "correct_answer": "The prohibition against false promises",
+      "distractors": [
+        "The duty to market the property",
+        "The duty of confidentiality",
+        "The duty to set a fair price"
+      ],
+      "explanation": "Under NCGS 93A-6(a)(2) and (3), brokers must avoid making false promises likely to influence or persuade. Guaranteeing a sale timeline the broker knows is unrealistic constitutes a false promise made to induce the seller to sign the listing agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["false_promises", "93A-6", "listing_practices"]
+    },
+    {
+      "key_topic_ref": "NC-07.1",
+      "question_text": "A broker secretly purchases a property listed through her own firm using a relative's name. Which violation is this?",
+      "correct_answer": "Undisclosed conflict of interest",
+      "distractors": [
+        "Improper trust fund handling",
+        "Failure to deliver documents",
+        "Practicing without a valid license"
+      ],
+      "explanation": "Under NCGS 93A-6(a)(4), brokers must avoid undisclosed conflicts of interest. Using a relative's name to secretly purchase a property the broker is involved in listing is a clear undisclosed conflict. The broker's personal financial interest must be disclosed to all parties.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["conflict_of_interest", "undisclosed", "self_dealing"]
+    },
+    {
+      "key_topic_ref": "NC-07.2",
+      "question_text": "A listing agent discovers a cracked foundation during a showing. The buyer is not the agent's client. Must the agent disclose this to the buyer?",
+      "correct_answer": "Yes, material facts must be told to all parties",
+      "distractors": [
+        "No, duty is only to the seller client",
+        "Only if the buyer's agent requests it",
+        "Only if the seller authorizes disclosure"
+      ],
+      "explanation": "NC imposes an affirmative duty on brokers to discover and disclose material facts to ALL parties, regardless of agency relationship. A cracked foundation is a material fact about the property. The duty extends to third parties and does not require seller authorization or a request from the buyer's agent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material_facts", "third_parties", "affirmative_duty"]
+    },
+    {
+      "key_topic_ref": "NC-07.2",
+      "question_text": "How does a broker's duty level differ between a principal and a third-party customer?",
+      "correct_answer": "The broker owes a higher duty to the principal",
+      "distractors": [
+        "Duties are identical to both parties",
+        "The broker owes more to the customer",
+        "No duty exists toward third parties"
+      ],
+      "explanation": "While NC brokers owe duties to all parties including honesty and material fact disclosure, the duty to a principal or client is higher than to a customer or third party. Principals receive full fiduciary-level duties including loyalty and advocacy, while third parties receive honesty and disclosure of material facts.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["principal_vs_customer", "duty_levels", "third_parties"]
+    },
+    {
+      "key_topic_ref": "NC-07.2",
+      "question_text": "A buyer's agent shows a property and notices severe mold in the attic. The seller's agent claims to be unaware. What is the buyer's agent obligated to do?",
+      "correct_answer": "Disclose the mold to the buyer immediately",
+      "distractors": [
+        "Wait for the seller to provide disclosures",
+        "Defer to the home inspector's findings",
+        "Notify only the seller's agent in writing"
+      ],
+      "explanation": "The buyer's agent must immediately disclose discovered material facts to the buyer. Mold is a significant material fact about the property. The agent cannot wait for seller disclosures or defer to future inspections. The duty to avoid willful or negligent misrepresentation applies to interactions with all parties.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material_facts", "mold", "buyer_agent_duty"]
+    },
+    {
+      "key_topic_ref": "NC-07.2",
+      "question_text": "A seller's agent tells a prospective buyer that the neighborhood has excellent schools, knowing the nearest school is rated poorly. What duty has been violated?",
+      "correct_answer": "The duty to avoid misrepresentation to all",
+      "distractors": [
+        "No duty, since the buyer is not a client",
+        "Only the duty of competence",
+        "Only the duty to the seller"
+      ],
+      "explanation": "Brokers must avoid willful or negligent misrepresentation to third parties as well as clients. Making knowingly false statements about school quality to a prospective buyer violates this duty regardless of whether the buyer is a client. The duty of honest dealing extends to all parties in NC.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["misrepresentation", "third_parties", "school_ratings"]
+    },
+    {
+      "key_topic_ref": "NC-07.2",
+      "question_text": "Under NC law, which statement best describes a broker's duty to third parties?",
+      "correct_answer": "Brokers must be honest with all parties",
+      "distractors": [
+        "Brokers owe no duties to non-clients",
+        "Brokers must advocate for all parties equally",
+        "Duties arise only after a contract is signed"
+      ],
+      "explanation": "NC requires brokers to be honest with all parties and to disclose material facts regardless of the agency relationship. While the broker does not owe full fiduciary duties to non-clients, honesty and material fact disclosure are mandatory. These duties exist from first contact, not just after contract signing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["third_party_duties", "honesty", "NC_law"]
+    },
+    {
+      "key_topic_ref": "NC-07.3",
+      "question_text": "A home previously had EIFS (synthetic stucco) siding that was completely replaced with traditional stucco. Must the broker disclose the prior EIFS?",
+      "correct_answer": "Yes, prior EIFS is material even if replaced",
+      "distractors": [
+        "No, the issue was remediated",
+        "Only if moisture damage remains",
+        "Only if the buyer specifically asks"
+      ],
+      "explanation": "NC specifically declares EIFS (synthetic stucco) a material fact that must be disclosed even after replacement. The history of EIFS can indicate past moisture intrusion issues. Brokers cannot avoid this disclosure by claiming the problem has been fixed or by waiting for buyer inquiries.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["EIFS", "synthetic_stucco", "material_fact", "replaced"]
+    },
+    {
+      "key_topic_ref": "NC-07.3",
+      "question_text": "A buyer asks a broker whether a previous occupant died in the home. Under NC law, is this a material fact?",
+      "correct_answer": "No, death of an occupant is not material in NC",
+      "distractors": [
+        "Yes, all property history must be disclosed",
+        "Yes, if the death was violent",
+        "Only if it occurred within the past year"
+      ],
+      "explanation": "NC law specifically provides that death or illness of an occupant is NOT a material fact. Similarly, a property being considered haunted is not material. Brokers are not required to disclose this information regardless of the circumstances of the death or how recently it occurred.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["death_disclosure", "not_material", "stigmatized_property"]
+    },
+    {
+      "key_topic_ref": "NC-07.3",
+      "question_text": "A broker notices a strong chemical smell during a listing appointment. The seller says it is nothing to worry about. What should the broker do?",
+      "correct_answer": "Investigate the red flag further",
+      "distractors": [
+        "Accept the seller's explanation",
+        "Note it only if the buyer asks",
+        "Ignore it since the seller would know best"
+      ],
+      "explanation": "NC brokers have an affirmative duty to investigate red flags. A strong chemical smell could indicate environmental contamination, methamphetamine production, or other hazardous conditions. The broker cannot rely on disclaimers or the seller's reassurance and must take steps to determine whether a material fact exists.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["red_flags", "investigation_duty", "environmental"]
+    },
+    {
+      "key_topic_ref": "NC-07.3",
+      "question_text": "Which of the following is categorized as a material fact in NC?",
+      "correct_answer": "Polybutylene pipes that previously leaked",
+      "distractors": [
+        "A reported ghost sighting at the property",
+        "The seller's reason for moving",
+        "A neighbor's pending divorce"
+      ],
+      "explanation": "NC specifically identifies polybutylene pipes that have leaked as a material fact, even if they have been replaced. Ghost sightings and haunted property claims are explicitly excluded from material facts. The seller's motivation and a neighbor's personal matters are not material facts about the property.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["polybutylene_pipes", "material_fact", "NC_specific"]
+    },
+    {
+      "key_topic_ref": "NC-07.3",
+      "question_text": "NC groups material facts into how many categories?",
+      "correct_answer": "4 categories",
+      "distractors": [
+        "2 categories",
+        "3 categories",
+        "6 categories"
+      ],
+      "explanation": "NC recognizes 4 categories of material facts: facts about the property itself, facts relating to the property, facts about a party's ability to complete the transaction, and facts of specific importance to a party. Each category requires different types of investigation and disclosure by the broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["material_facts", "four_categories", "NC_classification"]
+    }
+  ]
+}

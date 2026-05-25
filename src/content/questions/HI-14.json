@@ -1,0 +1,173 @@
+{
+  "standard_ref": "HI-14",
+  "scope": "state",
+  "state": "HI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "HI-14.1",
+      "question_text": "Which standard form is used as the primary residential purchase contract in Hawaii?",
+      "correct_answer": "HAR Form RR201",
+      "distractors": ["HAR Form RR104", "HIREC Form 508D", "HAR Form RR301"],
+      "explanation": "The Hawaii Association of REALTORS (HAR) Form RR201 is the standard Purchase Contract used for primary residential real estate transactions. It includes mandatory sections such as the Agency Disclosure requirement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "RR201", "HAR-forms"]
+    },
+    {
+      "key_topic_ref": "HI-14.1",
+      "question_text": "Hawaii's standard purchase contract requires agency disclosure in what specific format?",
+      "correct_answer": "10-point bold type",
+      "distractors": ["8-point italic type", "12-point standard type", "Any legible font size"],
+      "explanation": "Hawaii's standard purchase contract (RR201) requires the Agency Disclosure section to be printed in 10-point bold type. This ensures buyers and sellers clearly understand the agency relationships involved in the transaction.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency-disclosure", "contracts", "formatting"]
+    },
+    {
+      "key_topic_ref": "HI-14.1",
+      "question_text": "A buyer's agent prepares an offer on a leasehold condo. Which addenda should accompany the standard purchase contract?",
+      "correct_answer": "Both leasehold and condo addenda",
+      "distractors": ["Only the leasehold addendum", "Only the condominium addendum", "No addenda are required"],
+      "explanation": "When a property is both leasehold and a condominium, the purchase contract should include both the leasehold addendum (addressing ground lease terms, rent, and expiration) and the condo/PUD addendum (addressing association documents and assessments).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contracts", "addenda", "leasehold-condo"]
+    },
+    {
+      "key_topic_ref": "HI-14.1",
+      "question_text": "What form number is used for the Buyer Representation Contract in Hawaii?",
+      "correct_answer": "HAR Form RR104",
+      "distractors": ["HAR Form RR201", "HAR Form RR301", "HIREC Form 514B"],
+      "explanation": "HAR Form RR104 is the standard Buyer Representation Contract used in Hawaii. It establishes the agency relationship between a buyer and their agent, including the scope of representation and compensation terms.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer-representation", "RR104", "HAR-forms"]
+    },
+    {
+      "key_topic_ref": "HI-14.1",
+      "question_text": "An agent drafts a purchase offer where the seller is a mainland resident. Which tax withholding must the contract address?",
+      "correct_answer": "HARPTA withholding from seller proceeds",
+      "distractors": ["No withholding for mainland sellers", "Only GET on the commission amount", "Only conveyance tax allocation"],
+      "explanation": "When a seller is not a Hawaii resident, the contract must address HARPTA withholding of 7.25% of the gross sales price from the seller's proceeds. If the seller is also a foreign national, FIRPTA (15% federal) withholding also applies.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contracts", "HARPTA", "FIRPTA", "withholding"]
+    },
+    {
+      "key_topic_ref": "HI-14.2",
+      "question_text": "In a Hawaii Agreement of Sale (AOS), what type of title does the buyer hold during the payment period?",
+      "correct_answer": "Equitable title only",
+      "distractors": ["Full legal title", "No title interest whatsoever", "Joint tenancy title"],
+      "explanation": "Under an Agreement of Sale (Hawaii's land contract), the seller retains legal title while the buyer receives equitable title and possession. The deed is not recorded until the buyer completes all installment payments.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agreement-of-sale", "equitable-title", "financing"]
+    },
+    {
+      "key_topic_ref": "HI-14.2",
+      "question_text": "A seller uses an Agreement of Sale to finance a property to a buyer. Where should the AOS be recorded?",
+      "correct_answer": "At the Bureau of Conveyances",
+      "distractors": ["It should not be recorded", "At the county clerk's office", "At the Department of Taxation"],
+      "explanation": "Under HRS 502-85, an Agreement of Sale should be recorded at the Bureau of Conveyances (BOC) to provide constructive notice of the buyer's equitable interest. Recording protects the buyer against subsequent claims on the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["agreement-of-sale", "recording", "BOC"]
+    },
+    {
+      "key_topic_ref": "HI-14.2",
+      "question_text": "A buyer is comparing an Agreement of Sale with a Purchase Money Mortgage. Which option better protects the buyer?",
+      "correct_answer": "Purchase Money Mortgage transfers title immediately",
+      "distractors": ["Agreement of Sale gives full legal title", "Both provide identical buyer protections", "Neither transfers any ownership rights"],
+      "explanation": "A Purchase Money Mortgage is more protective of the buyer because the seller transfers legal title immediately and takes back a mortgage. With an AOS, the buyer holds only equitable title until all payments are made, and faces risks like due-on-sale clause triggers.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["agreement-of-sale", "purchase-money-mortgage", "comparison"]
+    },
+    {
+      "key_topic_ref": "HI-14.2",
+      "question_text": "What is the general usury rate in Hawaii under HRS 478?",
+      "correct_answer": "10%",
+      "distractors": ["6%", "8%", "12%"],
+      "explanation": "Under HRS 478, Hawaii's general usury rate is 10%. However, first mortgage loans on real property made after May 30, 1980 are exempt from this cap. FHA, VA, and SBA loans are also exempt from the usury limit.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["usury", "interest-rate", "HRS-478"]
+    },
+    {
+      "key_topic_ref": "HI-14.2",
+      "question_text": "A private lender charges 12% interest on a first mortgage originated in 2025. Does this violate Hawaii's usury law?",
+      "correct_answer": "No, first mortgage loans are exempt after 1980",
+      "distractors": ["Yes, it exceeds the 10% usury limit", "Only if the borrower is a resident", "Only if the loan exceeds $500,000"],
+      "explanation": "Under HRS 478, first mortgage loans on real property are exempt from the 10% general usury rate if originated after May 30, 1980. Therefore, a 12% rate on a 2025 first mortgage does not violate Hawaii usury law.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["usury", "first-mortgage", "exemption"]
+    },
+    {
+      "key_topic_ref": "HI-14.3",
+      "question_text": "Hawaii is classified as what type of closing state?",
+      "correct_answer": "An escrow state",
+      "distractors": ["An attorney-only closing state", "A round-table closing state", "A title company mandate state"],
+      "explanation": "Hawaii is an escrow state, meaning closings are conducted through a neutral third-party escrow company. The buyer and seller typically do not sit together at a closing table. Title and escrow companies such as Title Guaranty and Fidelity handle most transactions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "closing", "state-practice"]
+    },
+    {
+      "key_topic_ref": "HI-14.3",
+      "question_text": "Which parties are authorized to conduct escrow closings in Hawaii?",
+      "correct_answer": "Title companies, attorneys, brokers, and lenders",
+      "distractors": ["Only licensed title companies", "Only real estate attorneys", "Only HIREC-approved escrow agents"],
+      "explanation": "Hawaii allows several types of entities to conduct escrow closings: title/escrow companies, trust companies, institutional lenders, licensed attorneys, and licensed real estate brokers. Title companies handle the majority of residential transactions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "authorized-parties", "closing"]
+    },
+    {
+      "key_topic_ref": "HI-14.3",
+      "question_text": "In a typical Hawaii residential closing, who customarily pays the conveyance tax?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "Split equally between parties", "The listing broker"],
+      "explanation": "In Hawaii's customary closing cost allocation, the conveyance tax is paid by the seller. Other typical allocations include: lender's title insurance paid by the buyer, and escrow fees split 50/50 between buyer and seller. All allocations are negotiable.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-costs", "conveyance-tax", "seller"]
+    },
+    {
+      "key_topic_ref": "HI-14.3",
+      "question_text": "A non-resident seller nets $600,000 on a Hawaii sale priced at $900,000. How are HARPTA proceeds handled at closing?",
+      "correct_answer": "Withheld from seller's proceeds at closing",
+      "distractors": ["Paid by the buyer separately after closing", "Deducted from the buyer's down payment", "Billed to the seller after closing"],
+      "explanation": "HARPTA withholding (7.25% of the gross sales price) is deducted from the seller's proceeds at closing by the escrow company. The buyer is responsible for remitting the withheld amount to the Hawaii Department of Taxation within 20 days of closing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HARPTA", "closing", "withholding"]
+    },
+    {
+      "key_topic_ref": "HI-14.3",
+      "question_text": "In Hawaii, who customarily selects the title and escrow company for a residential transaction?",
+      "correct_answer": "The seller, though it is negotiable",
+      "distractors": ["The buyer always selects", "The listing agent selects exclusively", "State law requires random assignment"],
+      "explanation": "In Hawaii's customary practice, the seller typically chooses the title and escrow company, though this is negotiable between the parties. Some purchase contracts specify that this choice is part of the negotiations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "title-company", "selection"]
+    }
+  ]
+}

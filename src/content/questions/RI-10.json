@@ -1,0 +1,118 @@
+{
+  "standard_ref": "RI-10",
+  "scope": "state",
+  "state": "RI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "RI-10.1",
+      "question_text": "A landlord in Rhode Island refuses to rent to a tenant because they plan to pay with a Section 8 voucher. Is this lawful?",
+      "correct_answer": "No, lawful source of income is protected",
+      "distractors": ["Yes, landlords may choose payment methods", "Only if the unit has fewer than 4 units", "Only if the voucher amount is below market rent"],
+      "explanation": "Rhode Island's Fair Housing Practices Act (RIGL §34-37-1) protects tenants from discrimination based on lawful source of income, which includes Section 8 housing vouchers. Landlords cannot refuse tenancy solely because a tenant uses government assistance to pay rent.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "source of income", "Section 8", "protected class"]
+    },
+    {
+      "key_topic_ref": "RI-10.1",
+      "question_text": "Which of the following is a protected class under Rhode Island law but NOT under federal fair housing law?",
+      "correct_answer": "Gender identity or expression",
+      "distractors": ["Race", "National origin", "Familial status"],
+      "explanation": "Rhode Island's Fair Housing Practices Act extends protection beyond federal classes to include gender identity/expression, sexual orientation, marital status, lawful source of income, military status, country of ancestral origin, housing status, age, and domestic abuse victim status.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "protected classes", "gender identity", "state law"]
+    },
+    {
+      "key_topic_ref": "RI-10.1",
+      "question_text": "A property manager asks a prospective tenant about their citizenship status during a rental application in 2026. What is the legal consequence?",
+      "correct_answer": "It violates RI law prohibiting such inquiries",
+      "distractors": ["It is permitted if done uniformly to all applicants", "It is allowed if the property has more than 4 units", "It is required for federally assisted housing"],
+      "explanation": "Effective July 2025, Rhode Island prohibits landlords and agents from inquiring about a prospective tenant's immigration or citizenship status. This applies regardless of the property size or how uniformly the question is asked.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "immigration status", "landlord obligations", "2025 law"]
+    },
+    {
+      "key_topic_ref": "RI-10.1",
+      "question_text": "An agent advertises a rental listing as ideal for young professionals. A retired veteran with a housing voucher applies and is rejected. How many RI protected classes could this scenario implicate?",
+      "correct_answer": "At least three: age, military, source of income",
+      "distractors": ["Only one: lawful source of income protection", "Only two: age and military status together", "None, advertising preferences are not discriminatory"],
+      "explanation": "This scenario could implicate age (targeting young people), military status (veteran), and lawful source of income (housing voucher). All three are protected classes under Rhode Island's Fair Housing Practices Act, and the advertising language could serve as evidence of discriminatory intent.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair housing", "protected classes", "advertising", "multiple violations"]
+    },
+    {
+      "key_topic_ref": "RI-10.1",
+      "question_text": "Under the RI Fair Housing Practices Act, the right to equal housing is classified as which type of right?",
+      "correct_answer": "A civil right",
+      "distractors": ["A contractual right", "A statutory privilege", "A property right"],
+      "explanation": "Rhode Island classifies the right to equal housing as a civil right under RIGL §34-37-1 et seq. This designation provides strong legal protections and remedies for individuals who experience housing discrimination.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "civil rights", "RIGL 34-37"]
+    },
+    {
+      "key_topic_ref": "RI-10.2",
+      "question_text": "A buyer believes they were denied a mortgage because of their marital status. Which Rhode Island agency should they file a complaint with?",
+      "correct_answer": "RI Commission for Human Rights",
+      "distractors": ["Department of Business Regulation", "RI Housing and Mortgage Finance Corp", "Office of the Attorney General"],
+      "explanation": "The Rhode Island Commission for Human Rights (RICHR) enforces the state's fair housing laws, which cover the sale, rental, and financing of housing. RICHR investigates complaints and can impose penalties for violations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RICHR", "enforcement", "fair housing complaint", "financing"]
+    },
+    {
+      "key_topic_ref": "RI-10.2",
+      "question_text": "After filing a complaint with RICHR, a tenant learns the investigation found probable cause. What additional legal remedy is available to the tenant?",
+      "correct_answer": "A private lawsuit in court",
+      "distractors": ["Only RICHR administrative remedies", "An appeal to the Governor's office", "Mandatory arbitration through DBR"],
+      "explanation": "In addition to the RICHR administrative process, Rhode Island law allows individuals to file private lawsuits in court for fair housing violations. This dual-track approach gives complainants multiple avenues for seeking justice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RICHR", "enforcement", "private lawsuit", "remedies"]
+    },
+    {
+      "key_topic_ref": "RI-10.2",
+      "question_text": "A real estate agent steers minority buyers away from certain neighborhoods. Which transactions does the RI Fair Housing Practices Act cover in this scenario?",
+      "correct_answer": "Sale, rental, and financing of housing",
+      "distractors": ["Only the sale of residential property", "Only rental transactions over $500/month", "Only transactions involving licensed agents"],
+      "explanation": "The RI Fair Housing Practices Act applies broadly to the sale, rental, and financing of housing. Steering buyers based on protected characteristics violates the Act regardless of the transaction type or property value.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "steering", "covered transactions", "enforcement"]
+    },
+    {
+      "key_topic_ref": "RI-10.2",
+      "question_text": "A landlord with a domestic abuse victim as a tenant tells the victim they must leave because of police calls to the property. Under RI law, what is this landlord's legal exposure?",
+      "correct_answer": "Fair housing violation for discrimination",
+      "distractors": ["No exposure if lease has a nuisance clause", "Liability only if tenant has a restraining order", "No liability since police calls affect neighbors"],
+      "explanation": "Domestic abuse victim status is a protected class under Rhode Island's Fair Housing Practices Act. A landlord cannot evict or penalize a tenant solely because they are a victim of domestic abuse, even if police are called to the property as a result of abuse incidents.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair housing", "domestic abuse", "protected class", "RICHR"]
+    },
+    {
+      "key_topic_ref": "RI-10.2",
+      "question_text": "RICHR completes an investigation and finds a property management company systematically excluded applicants with housing vouchers. What can RICHR do?",
+      "correct_answer": "Impose penalties on the company",
+      "distractors": ["Only issue a warning letter", "Refer the case to federal HUD exclusively", "Revoke the company's business license"],
+      "explanation": "RICHR has the authority to investigate complaints and impose penalties for fair housing violations. Systematic exclusion of applicants based on lawful source of income violates the RI Fair Housing Practices Act, and RICHR can take enforcement action directly.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RICHR", "enforcement", "penalties", "source of income"]
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "standard_ref": "N-33",
+  "scope": "national",
+  "state": null,
+  "category": "real_estate_math",
+  "questions": [
+    {
+      "key_topic_ref": "N-33.1",
+      "question_text": "A 10-unit apartment building charges $950 per month per unit. The building operates at a 7% vacancy rate. What is the Effective Gross Income (EGI) for the year?",
+      "correct_answer": "$106,020",
+      "distractors": [
+        "$114,000",
+        "$9,500",
+        "$99,540"
+      ],
+      "explanation": "Effective Gross Income = Potential Gross Income × (1 − Vacancy Rate). Step 1: Potential Gross Income (PGI) = $950 × 10 units × 12 months = $114,000. Step 2: Vacancy loss = $114,000 × 0.07 = $7,980. Step 3: EGI = $114,000 − $7,980 = $106,020. Alternatively: EGI = $114,000 × (1 − 0.07) = $114,000 × 0.93 = $106,020. EGI represents realistic annual income after accounting for units that are vacant or not collecting rent. It is the starting point for calculating NOI (subtract operating expenses from EGI).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "EGI",
+        "effective_gross_income",
+        "vacancy_rate",
+        "rental_income",
+        "property_management_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.1",
+      "question_text": "A property manager reports that a 20-unit building had 3 units vacant for the entire year. What was the building's annual vacancy rate?",
+      "correct_answer": "15%",
+      "distractors": [
+        "85%",
+        "6.67%",
+        "3%"
+      ],
+      "explanation": "Vacancy rate = Number of Vacant Units ÷ Total Units. 3 ÷ 20 = 0.15 = 15%. Occupancy rate = 1 − Vacancy Rate = 85%. A common confusion: the occupancy rate is the complement of the vacancy rate. If 17 of 20 units are occupied, the occupancy rate is 17/20 = 85% and the vacancy rate is 3/20 = 15%. Property managers track both metrics and compare them to market vacancy rates to assess performance. A below-market vacancy rate generally indicates strong management and pricing.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "vacancy_rate",
+        "occupancy_rate",
+        "property_management_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.2",
+      "question_text": "A rental property has an Effective Gross Income of $84,000 and a Net Operating Income of $52,500. What is the operating expense ratio?",
+      "correct_answer": "37.5%",
+      "distractors": [
+        "62.5%",
+        "37.5% of NOI",
+        "160%"
+      ],
+      "explanation": "Operating Expense Ratio (OER) = Operating Expenses ÷ EGI. Step 1: Operating expenses = EGI − NOI = $84,000 − $52,500 = $31,500. Step 2: OER = $31,500 ÷ $84,000 = 0.375 = 37.5%. The OER measures what percentage of gross income is consumed by operating expenses (taxes, insurance, maintenance, management fees, utilities, reserves). A lower OER indicates more efficient operations. The NOI ratio (NOI ÷ EGI = 62.5%) is the complement of OER — together they always add up to 100%.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "operating_expense_ratio",
+        "OER",
+        "NOI",
+        "EGI",
+        "property_management_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.3",
+      "question_text": "A property manager charges 8% of monthly gross rents collected. The building collects $4,200 in rent in January and $3,780 in February (one unit was vacant). What are the management fees for each month?",
+      "correct_answer": "January: $336; February: $302.40",
+      "distractors": [
+        "January: $336; February: $336",
+        "January: $4,200; February: $3,780",
+        "January: $33.60; February: $30.24"
+      ],
+      "explanation": "Property management fees are typically charged as a percentage of gross rents collected (not gross rents due). 'Collected' means the manager only earns a fee on rents actually received — this aligns the manager's incentive with the owner's. January: $4,200 × 0.08 = $336. February: $3,780 × 0.08 = $302.40. Because February had a vacancy, fewer rents were collected, so the fee is lower. This is why good property management directly benefits the owner: higher occupancy means higher collected rents and a higher management fee, aligning interests.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_management_fee",
+        "gross_rents_collected",
+        "property_management_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.3",
+      "question_text": "A property owner wants to receive exactly $3,000 per month net after paying a 10% property management fee. What must the gross monthly rent be?",
+      "correct_answer": "$3,333",
+      "distractors": [
+        "$3,300",
+        "$2,700",
+        "$3,000"
+      ],
+      "explanation": "The management fee is 10% of gross rent, leaving the owner 90% of gross rent. Equation: Gross Rent × 0.90 = $3,000, so Gross Rent = $3,000 ÷ 0.90 = $3,333.33. Verify: $3,333.33 × 10% = $333.33 management fee; $3,333.33 − $333.33 = $3,000 net ✓. The common mistake is adding 10% of the desired net ($300) to get $3,300 — but then $3,300 × 10% = $330, leaving only $2,970 net. Whenever working backward from a net figure, divide by the decimal complement of the fee percentage.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_management_fee",
+        "working_backward",
+        "net_income",
+        "gross_rent"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.1",
+      "question_text": "A 50-unit complex charges $1,200/month per unit. Vacancy is 5% and collection losses are 2%. What is the Effective Gross Income?",
+      "correct_answer": "$669,600",
+      "distractors": [
+        "$720,000",
+        "$684,000",
+        "$558,000"
+      ],
+      "explanation": "PGI = 50 × $1,200 × 12 = $720,000. Total losses = 5% vacancy + 2% collection = 7%. EGI = $720,000 × (1 - 0.07) = $720,000 × 0.93 = $669,600. The $720,000 is PGI before any deductions. The $684,000 only deducts vacancy (5%). Collection losses represent tenants who occupy units but fail to pay rent — they are deducted alongside vacancy to arrive at realistic income. EGI = PGI - Vacancy and Collection Losses.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "EGI",
+        "vacancy",
+        "collection_losses",
+        "PGI"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.1",
+      "question_text": "A building has PGI of $180,000 and EGI of $162,000. What is the combined vacancy and collection loss rate?",
+      "correct_answer": "10%",
+      "distractors": [
+        "90%",
+        "11.1%",
+        "18%"
+      ],
+      "explanation": "Loss amount = PGI - EGI = $180,000 - $162,000 = $18,000. Loss rate = $18,000 ÷ $180,000 = 10%. The 90% is the occupancy/collection rate (complement). The 11.1% divides $18,000 by EGI instead of PGI. Working backward from EGI to determine the loss rate: Loss Rate = (PGI - EGI) ÷ PGI. This is useful for comparing buildings' performance against market vacancy rates.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "EGI",
+        "vacancy_rate",
+        "working_backward"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.1",
+      "question_text": "Potential Gross Income (PGI) assumes which of the following?",
+      "correct_answer": "100% occupancy with all tenants paying full market rent",
+      "distractors": [
+        "Current occupancy levels with actual rents being collected",
+        "Historical average occupancy over the prior three years",
+        "Maximum legally allowable rent under local rent control"
+      ],
+      "explanation": "PGI represents the theoretical maximum income a property could generate if every unit were rented at full market rate with zero vacancy and zero collection losses. It is the starting point for income analysis. EGI adjusts PGI downward for realistic vacancy and collection losses. NOI then subtracts operating expenses from EGI. This three-step progression (PGI → EGI → NOI) is the standard income analysis framework for investment properties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "PGI",
+        "potential_gross_income",
+        "definition"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.2",
+      "question_text": "A property has EGI of $120,000 and operating expenses of $48,000. What is the operating expense ratio?",
+      "correct_answer": "40%",
+      "distractors": [
+        "60%",
+        "250%",
+        "2.5%"
+      ],
+      "explanation": "OER = Operating expenses ÷ EGI = $48,000 ÷ $120,000 = 0.40 = 40%. This means 40 cents of every dollar of income goes to operating expenses. The 60% is the NOI ratio ($72,000 ÷ $120,000). The 250% inverts the fraction ($120,000 ÷ $48,000). OER + NOI ratio = 100% (40% + 60% = 100%).",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "OER",
+        "operating_expenses",
+        "EGI"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.2",
+      "question_text": "Building A has an OER of 35% and Building B has an OER of 50%. Assuming equal EGI of $200,000, which building has higher NOI?",
+      "correct_answer": "Building A",
+      "distractors": [
+        "Building B",
+        "They have the same NOI since EGI is equal",
+        "Cannot be determined without knowing each building's cap rate"
+      ],
+      "explanation": "Building A: NOI = $200,000 × (1 - 0.35) = $200,000 × 0.65 = $130,000. Building B: NOI = $200,000 × (1 - 0.50) = $200,000 × 0.50 = $100,000. A lower OER means less income is consumed by expenses, leaving more as NOI. Building A retains 65% of income while Building B retains only 50%. OER is a key efficiency metric — lower is generally better, though some expenses (like property taxes) are beyond management control.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "OER",
+        "NOI_comparison",
+        "efficiency"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.2",
+      "question_text": "A property has a NOI of $75,000 and an OER of 25%. What is the Effective Gross Income?",
+      "correct_answer": "$100,000",
+      "distractors": [
+        "$93,750",
+        "$56,250",
+        "$300,000"
+      ],
+      "explanation": "If OER is 25%, then NOI represents 75% of EGI (since OER + NOI ratio = 100%). EGI = NOI ÷ (1 - OER) = $75,000 ÷ 0.75 = $100,000. Cross-check: Expenses = $100,000 × 0.25 = $25,000. NOI = $100,000 - $25,000 = $75,000. The $93,750 divides by 0.80. The $56,250 multiplies by 0.75. Working backward from NOI to EGI requires dividing by the NOI ratio (1 - OER), not multiplying.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "OER",
+        "working_backward",
+        "EGI",
+        "NOI"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.2",
+      "question_text": "Which of the following is typically included in operating expenses when calculating NOI?",
+      "correct_answer": "Property taxes, insurance, maintenance, and management fees",
+      "distractors": [
+        "Mortgage payments, principal reduction, and loan interest",
+        "Capital improvements such as a new roof or HVAC system",
+        "Income tax on the property owner's rental income profit"
+      ],
+      "explanation": "Operating expenses include recurring costs of running the property: property taxes, insurance, maintenance/repairs, management fees, utilities (if landlord-paid), landscaping, pest control, and reserves for replacement. NOT included in operating expenses: debt service (mortgage payments — NOI is calculated before financing), capital expenditures (major improvements are not recurring expenses), depreciation (a tax concept, not a cash expense), and the owner's income taxes. NOI = EGI - Operating Expenses.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "operating_expenses",
+        "NOI",
+        "exclusions"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.3",
+      "question_text": "A property manager earns a 6% fee on gross rents. The building collected $15,000 in rent last month. What is the management fee?",
+      "correct_answer": "$900",
+      "distractors": [
+        "$90",
+        "$9,000",
+        "$1,500"
+      ],
+      "explanation": "Management fee = Gross rents collected × Fee rate = $15,000 × 0.06 = $900. The $90 uses 0.6% instead of 6%. The $9,000 uses 60%. The $1,500 uses 10%. Property management fees typically range from 4-12% of gross rents collected, depending on property type, size, and services provided. Residential properties often pay 8-10%, while large commercial properties may negotiate lower rates (4-6%) due to higher total volume.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "management_fee",
+        "gross_rents",
+        "percentage"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.3",
+      "question_text": "A property manager charges either 7% of gross rents or a $500 flat monthly fee, whichever is greater. Monthly rent collected is $6,000. Which fee applies?",
+      "correct_answer": "$500 flat fee",
+      "distractors": [
+        "$420",
+        "$920",
+        "$6,000"
+      ],
+      "explanation": "7% of $6,000 = $420. The flat fee is $500. Since $500 > $420, the flat fee applies. This 'greater of' structure is common in property management agreements — it protects the manager during low-occupancy periods when percentage-based income would be very low. The manager always receives at least the minimum flat fee. When occupancy is high and rents increase, the percentage fee will eventually exceed the flat fee and become the applicable charge.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "management_fee",
+        "flat_fee",
+        "fee_structure"
+      ]
+    },
+    {
+      "key_topic_ref": "N-33.3",
+      "question_text": "A 30-unit building charges $1,000/month per unit with 90% occupancy. The management fee is 8% of collected rents. What is the annual management fee?",
+      "correct_answer": "$25,920",
+      "distractors": [
+        "$28,800",
+        "$2,160",
+        "$24,000"
+      ],
+      "explanation": "Occupied units: 30 × 0.90 = 27 units. Monthly collected rent: 27 × $1,000 = $27,000. Annual collected rent: $27,000 × 12 = $324,000. Management fee: $324,000 × 0.08 = $25,920. The $28,800 ignores vacancy ($360,000 × 0.08). The $2,160 is one month's fee. The $24,000 uses a lower occupancy. Since the fee is based on collected rents, vacancy reduces the management fee — an incentive for the manager to minimize vacancy.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "management_fee",
+        "annual_calculation",
+        "occupancy"
+      ]
+    }
+  ]
+}

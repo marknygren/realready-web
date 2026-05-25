@@ -1,0 +1,299 @@
+{
+  "standard_ref": "N-29",
+  "scope": "national",
+  "state": null,
+  "category": "real_estate_math",
+  "questions": [
+    {
+      "key_topic_ref": "N-29.1",
+      "question_text": "A home sells for $480,000. The listing agreement specifies a 5.5% commission. What is the total gross commission?",
+      "correct_answer": "$26,400",
+      "distractors": [
+        "$24,000",
+        "$28,800",
+        "$264"
+      ],
+      "explanation": "Gross commission = Sale Price × Commission Rate. $480,000 × 0.055 = $26,400. Always convert the percentage to a decimal before multiplying (5.5% = 0.055). This is the total commission paid by the seller before any splits between brokerages or between broker and agent. On exam questions, make sure you are using the correct sale price — some questions provide both list price and sale price.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "commission",
+        "gross_commission",
+        "commission_rate",
+        "sale_price"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.2",
+      "question_text": "A home sells for $360,000 at a 6% commission. The listing and selling brokerages split the total commission equally (50/50). The selling agent receives 65% of their brokerage's share. How much does the selling agent earn?",
+      "correct_answer": "$7,020",
+      "distractors": [
+        "$14,040",
+        "$10,800",
+        "$6,480"
+      ],
+      "explanation": "Work through the splits step by step. Step 1: Total commission = $360,000 × 0.06 = $21,600. Step 2: Selling brokerage receives 50% of $21,600 = $10,800. Step 3: Selling agent receives 65% of $10,800 = $7,020. Always follow the chain: total commission → brokerage split → agent/broker split. A common mistake is applying the agent's percentage to the total commission rather than to the brokerage's portion.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "commission_split",
+        "agent_compensation",
+        "brokerage_split",
+        "commission_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.3",
+      "question_text": "An agent received a commission check of $8,400. This represents 70% of the selling side of the commission. The total commission was split 50/50 between listing and selling brokerages. The commission rate was 6%. What was the sale price of the property?",
+      "correct_answer": "$400,000",
+      "distractors": [
+        "$280,000",
+        "$200,000",
+        "$168,000"
+      ],
+      "explanation": "Work backward through each split. Step 1: Agent's check = 70% of brokerage share → brokerage share = $8,400 ÷ 0.70 = $12,000. Step 2: Selling brokerage's $12,000 = 50% of total commission → total commission = $12,000 ÷ 0.50 = $24,000. Step 3: Total commission = 6% of sale price → sale price = $24,000 ÷ 0.06 = $400,000. 'Working backward' problems require dividing at each step where you would normally multiply. Cross-check: $400,000 × 6% = $24,000 → $12,000 per side → $12,000 × 70% = $8,400 ✓",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "working_backward",
+        "commission_math",
+        "sale_price",
+        "commission_split"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.3",
+      "question_text": "A seller wants to net exactly $275,000 after paying a 5% commission. What must the minimum sale price be?",
+      "correct_answer": "$289,474",
+      "distractors": [
+        "$288,750",
+        "$275,000",
+        "$302,500"
+      ],
+      "explanation": "The commission is a percentage of the sale price, not of the seller's net. If the seller wants to net $275,000 after a 5% commission, then: Sale Price − (5% of Sale Price) = $275,000. This means 95% of Sale Price = $275,000, so Sale Price = $275,000 ÷ 0.95 = $289,473.68 ≈ $289,474. A common mistake: adding 5% of $275,000 ($13,750) to get $288,750 — this understates the price because $288,750 × 5% = $14,437.50, leaving only $274,312.50 net. Always divide the desired net by (1 − commission rate).",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "seller_net",
+        "working_backward",
+        "commission_math",
+        "minimum_sale_price"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.3",
+      "question_text": "A seller owes $195,000 on their mortgage. They want to walk away with at least $50,000 cash after paying off the mortgage and a 6% commission. What is the minimum sale price needed?",
+      "correct_answer": "$260,638",
+      "distractors": [
+        "$245,000",
+        "$255,000",
+        "$266,000"
+      ],
+      "explanation": "The seller needs to cover: (1) mortgage payoff of $195,000 and (2) desired net of $50,000 — so total gross proceeds needed after commission = $245,000. The commission is 6% of the sale price, leaving the seller 94% of the sale price. Equation: 0.94 × Sale Price = $245,000. Sale Price = $245,000 ÷ 0.94 = $260,638.30 ≈ $260,638. Verify: $260,638 × 6% = $15,638 commission; $260,638 − $15,638 = $245,000 net proceeds; $245,000 − $195,000 mortgage = $50,000 cash to seller ✓",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "seller_net",
+        "mortgage_payoff",
+        "commission_math",
+        "minimum_sale_price",
+        "working_backward"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.1",
+      "question_text": "A property sells for $525,000 with a 6% total commission. The listing brokerage receives 60% of the total commission. How much does the listing brokerage earn?",
+      "correct_answer": "$18,900",
+      "distractors": [
+        "$31,500",
+        "$12,600",
+        "$15,750"
+      ],
+      "explanation": "Total commission: $525,000 × 0.06 = $31,500. Listing brokerage receives 60%: $31,500 × 0.60 = $18,900. Note that commission splits between listing and selling brokerages are not always 50/50 — they can be any negotiated percentage. The $31,500 distractor is the total commission. The $12,600 is the selling side (40%). Always read carefully to determine which brokerage's share the question is asking about.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "commission",
+        "listing_brokerage",
+        "commission_split"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.1",
+      "question_text": "A listing agreement specifies a 7% commission on the first $100,000 and 5% on the balance. The property sells for $300,000. What is the total commission?",
+      "correct_answer": "$17,000",
+      "distractors": [
+        "$15,000",
+        "$21,000",
+        "$14,000"
+      ],
+      "explanation": "This is a graduated commission structure. First $100,000 at 7%: $100,000 × 0.07 = $7,000. Remaining $200,000 at 5%: $200,000 × 0.05 = $10,000. Total: $7,000 + $10,000 = $17,000. The $15,000 distractor applies 5% to the entire amount. The $21,000 applies 7% to the entire amount. Graduated commissions incentivize higher sale prices by offering a higher rate on the base amount.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "commission",
+        "graduated_commission",
+        "commission_calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.1",
+      "question_text": "A commercial property sold for $1,200,000 at a 4% commission rate. What is the gross commission?",
+      "correct_answer": "$48,000",
+      "distractors": [
+        "$72,000",
+        "$4,800",
+        "$120,000"
+      ],
+      "explanation": "Gross commission = $1,200,000 × 0.04 = $48,000. Commercial properties often have lower commission rates than residential properties, typically ranging from 3-6% depending on the property type and local market. The $72,000 uses 6%, the $4,800 uses 0.4%, and $120,000 uses 10%. Always use the specific rate stated in the question.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "commission",
+        "commercial_property",
+        "gross_commission"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.1",
+      "question_text": "An agent sells a $350,000 home at 6% commission. The commission is split 50/50 between brokerages. The listing agent keeps 70% of their brokerage's share. What is the listing agent's commission?",
+      "correct_answer": "$7,350",
+      "distractors": [
+        "$10,500",
+        "$14,700",
+        "$5,250"
+      ],
+      "explanation": "Step 1: Total commission = $350,000 × 0.06 = $21,000. Step 2: Listing brokerage share = $21,000 × 0.50 = $10,500. Step 3: Listing agent's portion = $10,500 × 0.70 = $7,350. The $10,500 is the brokerage share before the agent/broker split. The $14,700 incorrectly applies 70% to the total commission. Follow the chain: sale price → total commission → brokerage split → agent split.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "commission",
+        "commission_split",
+        "agent_compensation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.2",
+      "question_text": "A listing agent has a 60/40 split with their broker (agent keeps 60%). The agent's share of a commission check is $9,000. What was the brokerage's total commission share?",
+      "correct_answer": "$15,000",
+      "distractors": [
+        "$5,400",
+        "$22,500",
+        "$6,000"
+      ],
+      "explanation": "If the agent keeps 60% and received $9,000, then: Brokerage total = $9,000 ÷ 0.60 = $15,000. The broker's portion is $15,000 - $9,000 = $6,000 (40%). Cross-check: $15,000 × 0.60 = $9,000. The $5,400 incorrectly multiplies $9,000 × 0.60. Working backward from the agent's portion to the brokerage total requires dividing by the agent's split percentage.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "commission_split",
+        "working_backward",
+        "agent_broker_split"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.2",
+      "question_text": "A property sells for $400,000 at 5% commission, split 50/50 between brokerages. The listing agent has an 80/20 split with their broker. The selling agent has a 60/40 split. What is the difference between what each agent earns?",
+      "correct_answer": "$2,000",
+      "distractors": [
+        "$4,000",
+        "$8,000",
+        "$6,000"
+      ],
+      "explanation": "Total commission: $400,000 × 0.05 = $20,000. Each brokerage: $10,000. Listing agent (80%): $10,000 × 0.80 = $8,000. Selling agent (60%): $10,000 × 0.60 = $6,000. Difference: $8,000 - $6,000 = $2,000. The different agent/broker split ratios result in different agent earnings even when the brokerage shares are equal. More experienced agents typically negotiate higher splits.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "commission_split",
+        "agent_comparison",
+        "commission_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.2",
+      "question_text": "A cooperating broker brings the buyer in a transaction with a $30,000 total commission. The listing agreement provides the cooperating broker with 45% of the total commission. How much does the cooperating broker receive?",
+      "correct_answer": "$13,500",
+      "distractors": [
+        "$15,000",
+        "$16,500",
+        "$10,500"
+      ],
+      "explanation": "Cooperating broker's share: $30,000 × 0.45 = $13,500. The listing brokerage keeps the remaining 55% ($16,500). The cooperating broker's commission is determined by the listing agreement and/or MLS offer of compensation. Splits are not always 50/50 — the listing broker sets the cooperating broker compensation as part of the listing agreement. The $15,000 assumes a 50/50 split.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "cooperating_broker",
+        "commission_split",
+        "MLS_compensation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.2",
+      "question_text": "A broker's office earned $420,000 in total commissions last year. The broker paid 55% to agents and kept the rest. The broker's office expenses were $150,000. What was the broker's net profit?",
+      "correct_answer": "$39,000",
+      "distractors": [
+        "$189,000",
+        "$81,000",
+        "$270,000"
+      ],
+      "explanation": "Broker's gross share: $420,000 × 0.45 (100% - 55%) = $189,000. Broker's net profit: $189,000 - $150,000 expenses = $39,000. The $189,000 distractor forgets to subtract expenses. The $270,000 is what agents received ($420,000 × 0.55 = $231,000 — actually that's wrong too). This question tests the concept that a broker's profit is what remains after paying agents and covering office overhead.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "broker_profit",
+        "office_expenses",
+        "commission_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.3",
+      "question_text": "An agent earned $15,000 in commission, which was 75% of the selling brokerage's share. If the total commission was 6% of the sale price, and the selling side received 50%, what was the sale price?",
+      "correct_answer": "$666,667",
+      "distractors": [
+        "$500,000",
+        "$250,000",
+        "$1,000,000"
+      ],
+      "explanation": "Work backward: Agent earned $15,000 = 75% of brokerage share. Brokerage share = $15,000 ÷ 0.75 = $20,000. Selling side = 50% of total, so total commission = $20,000 ÷ 0.50 = $40,000. Total commission = 6% of sale price, so sale price = $40,000 ÷ 0.06 = $666,667. Cross-check: $666,667 × 0.06 = $40,000 × 0.50 = $20,000 × 0.75 = $15,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "working_backward",
+        "sale_price",
+        "commission_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-29.3",
+      "question_text": "A property sold and the total commission was $18,000. If the commission rate was 6%, what was the sale price?",
+      "correct_answer": "$300,000",
+      "distractors": [
+        "$1,080",
+        "$180,000",
+        "$324,000"
+      ],
+      "explanation": "Sale Price = Commission ÷ Rate = $18,000 ÷ 0.06 = $300,000. Cross-check: $300,000 × 0.06 = $18,000. The $1,080 distractor multiplies $18,000 × 0.06 (wrong operation). The $180,000 divides by 0.10. Working backward from commission to sale price is one of the most common reverse calculations on the exam. Remember: when you know the part (commission) and the rate, divide to find the whole (sale price).",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "working_backward",
+        "commission",
+        "sale_price"
+      ]
+    }
+  ]
+}

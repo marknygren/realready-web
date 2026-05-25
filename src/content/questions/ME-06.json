@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ME-06",
+  "scope": "state",
+  "state": "ME",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "ME-06.1",
+      "question_text": "Where must a Maine real estate trust account be held?",
+      "correct_answer": "A federally insured Maine institution",
+      "distractors": ["Any bank in any U.S. state", "A Commission-operated holding account", "An out-of-state insured credit union"],
+      "explanation": "Maine requires real estate trust accounts to be held at a federally insured bank or credit union located in Maine. This ensures funds are protected by federal insurance and remain accessible within the state's jurisdiction for oversight purposes.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "federally insured", "Maine bank"]
+    },
+    {
+      "key_topic_ref": "ME-06.1",
+      "question_text": "A broker labels the trust account as 'ABC Realty Operating Fund.' Does this meet Maine requirements?",
+      "correct_answer": "No, it must be named a trust account",
+      "distractors": ["Yes, any account name is acceptable", "Yes, if the broker is the sole signer", "Only if the Commission approves the name"],
+      "explanation": "Maine requires trust accounts to be specifically named as 'real estate trust account.' Labeling an account as an operating fund does not meet this requirement and could lead to commingling of client funds with business operating funds, which is prohibited.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "naming", "compliance"]
+    },
+    {
+      "key_topic_ref": "ME-06.1",
+      "question_text": "The Maine Real Estate Commission requests access to a brokerage's trust account records. When must the broker comply?",
+      "correct_answer": "At any time upon request",
+      "distractors": ["Within 30 business days", "Only during scheduled audits", "After obtaining a court order"],
+      "explanation": "Maine trust accounts must be available to the Commission upon request at any time. There is no waiting period, advance notice requirement, or need for a court order. This unrestricted access allows the Commission to verify proper handling of client funds whenever necessary.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "Commission access", "audit"]
+    },
+    {
+      "key_topic_ref": "ME-06.1",
+      "question_text": "A broker deposits a personal commission check into the trust account to cover a shortfall. Is this permitted?",
+      "correct_answer": "No, commingling is prohibited",
+      "distractors": ["Yes, if removed within 24 hours", "Yes, to protect client funds", "Only with written client consent"],
+      "explanation": "Commingling personal or business funds with client trust funds is prohibited in Maine. Even if the intention is to cover a shortfall, depositing personal funds into the trust account violates the commingling prohibition. The broker must address the shortfall through other lawful means.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "trust account", "prohibition"]
+    },
+    {
+      "key_topic_ref": "ME-06.1",
+      "question_text": "Which type of financial institution may hold a Maine real estate trust account?",
+      "correct_answer": "A bank or credit union in Maine",
+      "distractors": ["Only state-chartered banks", "Any brokerage firm with escrow rights", "A title company trust department"],
+      "explanation": "Maine allows real estate trust accounts to be held at either a bank or credit union, provided the institution is federally insured and located in Maine. The law does not restrict accounts to only banks; credit unions are equally acceptable.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "credit union", "bank"]
+    },
+    {
+      "key_topic_ref": "ME-06.2",
+      "question_text": "A buyer delivers a $5,000 earnest money check on Tuesday. By when must the broker deposit it?",
+      "correct_answer": "Within 5 business days of receipt",
+      "distractors": ["By the next calendar day", "Within 10 business days", "At the time of the accepted offer"],
+      "explanation": "Maine requires earnest money deposits to be placed in the trust account within 5 business days of receipt, unless the purchase agreement specifies a shorter period. For a check received on Tuesday, the broker has until the following Tuesday (assuming no holidays) to make the deposit.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest money", "deposit deadline", "5 business days"]
+    },
+    {
+      "key_topic_ref": "ME-06.2",
+      "question_text": "A purchase agreement states earnest money must be deposited within 2 business days. The standard rule allows 5. Which deadline applies?",
+      "correct_answer": "The 2-day contractual deadline",
+      "distractors": ["The 5-day statutory standard", "Whichever the broker prefers", "The shorter deadline only if buyer agrees"],
+      "explanation": "While Maine's default rule allows 5 business days for deposit, the purchase agreement can specify a shorter timeframe. When the contract requires 2 business days, that contractual deadline takes precedence over the default statutory period.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["earnest money", "contractual deadline", "deposit timing"]
+    },
+    {
+      "key_topic_ref": "ME-06.2",
+      "question_text": "Is there a minimum earnest money deposit amount required by Maine law?",
+      "correct_answer": "No, the amount is negotiable",
+      "distractors": ["Yes, at least 1% of the sale price", "Yes, a minimum of $500", "Yes, at least $1,000 for residential"],
+      "explanation": "Maine does not set a minimum earnest money amount. The deposit is fully negotiable between the buyer and seller. The parties agree on whatever amount they find appropriate as a show of good faith, which is then applied to the purchase price at closing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest money", "negotiable", "no minimum"]
+    },
+    {
+      "key_topic_ref": "ME-06.2",
+      "question_text": "At closing, how is the buyer's earnest money deposit typically handled?",
+      "correct_answer": "Applied as credit toward the purchase price",
+      "distractors": ["Returned in full to the buyer at closing", "Split equally between the buyer and seller", "Paid directly to the listing broker's brokerage firm"],
+      "explanation": "The earnest money deposit is applied to the purchase price at closing, reducing the amount the buyer owes. It serves as a good-faith deposit during the contract period and becomes part of the buyer's payment toward the property at settlement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest money", "closing", "purchase price credit"]
+    },
+    {
+      "key_topic_ref": "ME-06.2",
+      "question_text": "A seller wants the buyer to increase the earnest money to $25,000. Can the seller require this?",
+      "correct_answer": "Only if the buyer agrees to the terms",
+      "distractors": ["Yes, the seller sets the deposit amount", "No, the original amount is binding", "Only with Commission approval"],
+      "explanation": "Since earnest money is negotiable in Maine, a seller can request a higher deposit, but the buyer must agree. Neither party can unilaterally set the amount. If the buyer declines, the parties must negotiate or the deal may not proceed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest money", "negotiation", "seller request"]
+    },
+    {
+      "key_topic_ref": "ME-06.3",
+      "question_text": "Before releasing an undisputed deposit, how much written notice must the broker give both parties?",
+      "correct_answer": "5 business days",
+      "distractors": ["24 hours", "10 business days", "30 calendar days"],
+      "explanation": "Maine requires 5 business days of written notice to both parties before a broker can release an undisputed deposit. This notice period gives both the buyer and seller an opportunity to respond or object before the funds are disbursed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disbursement", "written notice", "5 business days"]
+    },
+    {
+      "key_topic_ref": "ME-06.3",
+      "question_text": "A transaction closes on June 1. By when must the designated broker withdraw earned fees from the trust account?",
+      "correct_answer": "Within 30 days of closing",
+      "distractors": ["Within 5 business days of closing", "Within 60 days of closing", "At the next quarterly accounting"],
+      "explanation": "The designated broker must withdraw earned fees from the trust account within 30 days after consummation or termination of the transaction. Leaving earned fees in the trust account beyond this period creates commingling concerns and violates Maine trust account rules.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fee withdrawal", "30 days", "trust account"]
+    },
+    {
+      "key_topic_ref": "ME-06.3",
+      "question_text": "Which information must appear in a Maine trust account chronological ledger entry?",
+      "correct_answer": "Date received, source, and purpose",
+      "distractors": ["Only the deposit amount", "Just the property address", "The buyer's social security number"],
+      "explanation": "Maine trust account records require a chronological ledger that includes the date received by the agency, the date received by the bank, the purpose of the funds, and their source. These detailed records create an auditable trail for the Commission and protect all parties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record-keeping", "ledger", "required information"]
+    },
+    {
+      "key_topic_ref": "ME-06.3",
+      "question_text": "Where must Maine trust account records be physically maintained?",
+      "correct_answer": "At the registered business address",
+      "distractors": ["At the local county courthouse building", "At the Commission's main office location", "At any branch office of the firm"],
+      "explanation": "Maine requires trust account records to be maintained at the brokerage's registered business address. This ensures the Commission can access and review records at the location where the business is officially registered, supporting efficient oversight and auditing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record-keeping", "business address", "maintenance"]
+    },
+    {
+      "key_topic_ref": "ME-06.3",
+      "question_text": "A deal falls through on April 15. The broker still has not withdrawn earned fees by June 1. Is this a violation?",
+      "correct_answer": "Yes, fees must be withdrawn within 30 days",
+      "distractors": ["No, there is no specific withdrawal deadline", "No, deal termination resets the clock", "Only if the Commission audits the account"],
+      "explanation": "The 30-day fee withdrawal rule applies after both consummation and termination. Since the deal terminated on April 15, the broker had until May 15 to withdraw earned fees. Failing to do so by June 1 is a violation because the broker's personal funds are commingled with client trust funds beyond the allowed period.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fee withdrawal", "termination", "30-day rule"]
+    }
+  ]
+}

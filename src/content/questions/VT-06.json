@@ -1,0 +1,233 @@
+{
+  "standard_ref": "VT-06",
+  "scope": "state",
+  "state": "VT",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "VT-06.1",
+      "question_text": "A buyer submits a $5,000 earnest money check on Friday. By when must the broker deposit it into the trust account?",
+      "correct_answer": "Within 5 banking days of receipt",
+      "distractors": [
+        "Within 3 banking days of receipt",
+        "Within 10 calendar days of receipt",
+        "By the next business day"
+      ],
+      "explanation": "Vermont law requires that earnest money deposits be placed into a trust or escrow account within 5 banking days of receipt. This timeline protects the buyer's funds while giving the broker reasonable time to process the deposit.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest_money", "deposit_timeline", "trust_account"]
+    },
+    {
+      "key_topic_ref": "VT-06.1",
+      "question_text": "Where must Vermont brokers hold earnest money deposits?",
+      "correct_answer": "A trust account at a VT-licensed bank",
+      "distractors": [
+        "The broker's general business account",
+        "Any FDIC-insured bank nationwide",
+        "A personal savings account at any bank"
+      ],
+      "explanation": "Vermont requires that earnest money deposits be held in a trust or escrow account at a Vermont-licensed banking institution. This ensures the funds are accessible for regulatory oversight and separate from the broker's personal or operating funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "VT_licensed_bank", "earnest_money"]
+    },
+    {
+      "key_topic_ref": "VT-06.1",
+      "question_text": "A broker receives earnest money on Wednesday. She plans to deposit it into her office operating account temporarily. Is this permitted?",
+      "correct_answer": "No, it must go into a trust account",
+      "distractors": [
+        "Yes, if deposited within 5 banking days",
+        "Yes, if the buyer consents in writing",
+        "Yes, for up to 72 hours only"
+      ],
+      "explanation": "Earnest money must be deposited into a designated trust or escrow account that is separate from the broker's personal and office operating accounts. Placing client funds into an operating account, even temporarily, violates Vermont trust account requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "earnest_money", "separate_accounts"]
+    },
+    {
+      "key_topic_ref": "VT-06.1",
+      "question_text": "Which of the following accounts may hold client earnest money in Vermont?",
+      "correct_answer": "A designated escrow account at a VT bank",
+      "distractors": [
+        "The broker's personal checking account",
+        "A money market fund at an out-of-state bank",
+        "The listing agent's business account"
+      ],
+      "explanation": "Client earnest money must be held in a trust or escrow account at a Vermont-licensed banking institution. Personal accounts, out-of-state accounts, and business operating accounts are not acceptable for holding client trust funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "trust_account", "VT_licensed_bank"]
+    },
+    {
+      "key_topic_ref": "VT-06.1",
+      "question_text": "A broker deposits earnest money on banking day 7 after receipt. What is the regulatory consequence?",
+      "correct_answer": "The broker has violated the 5-day deposit rule",
+      "distractors": [
+        "No violation if the check clears successfully",
+        "A warning is issued only for first offenses",
+        "The deposit is valid if both parties agree"
+      ],
+      "explanation": "Vermont requires earnest money to be deposited within 5 banking days of receipt. Depositing on day 7 exceeds this deadline and constitutes a violation regardless of whether the check clears or the parties consent to the delay.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest_money", "deposit_timeline", "violation"]
+    },
+    {
+      "key_topic_ref": "VT-06.2",
+      "question_text": "A broker adds $500 of personal funds to her client trust account to cover bank fees. Has she violated Vermont law?",
+      "correct_answer": "Yes, this constitutes commingling",
+      "distractors": [
+        "No, small amounts for fees are allowed",
+        "No, if the amount is under $1,000",
+        "No, if she documents the deposit"
+      ],
+      "explanation": "Commingling occurs when a broker mixes personal or business funds with client trust funds. Even adding a small amount to cover bank fees is prohibited. Trust accounts must contain only client funds to maintain proper fiduciary separation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "trust_account", "personal_funds"]
+    },
+    {
+      "key_topic_ref": "VT-06.2",
+      "question_text": "When may the Vermont Real Estate Commission inspect a broker's trust account records?",
+      "correct_answer": "At any time during business hours",
+      "distractors": [
+        "Only with 30 days advance notice",
+        "Only upon receiving a formal complaint",
+        "Only during annual audits"
+      ],
+      "explanation": "The Vermont Real Estate Commission has the authority to inspect trust account records at any time during regular business hours without prior notice. This ensures ongoing compliance and protects consumer funds from mismanagement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commission_inspection", "trust_account", "business_hours"]
+    },
+    {
+      "key_topic_ref": "VT-06.2",
+      "question_text": "What does commingling mean in Vermont real estate practice?",
+      "correct_answer": "Mixing client trust funds with broker funds",
+      "distractors": [
+        "Sharing a listing with another brokerage",
+        "Combining two buyer deposits in one check",
+        "Using one trust account for multiple clients"
+      ],
+      "explanation": "Commingling is the prohibited practice of mixing client trust funds with a broker's personal or business funds. Vermont law strictly prohibits this to protect client deposits. Using one trust account for multiple clients is acceptable; mixing client and broker funds is not.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "definition", "trust_account"]
+    },
+    {
+      "key_topic_ref": "VT-06.2",
+      "question_text": "A Commission investigator arrives at a brokerage at 10 AM on Tuesday to review trust records. The broker says he needs a week to prepare. What should happen?",
+      "correct_answer": "The broker must allow immediate access",
+      "distractors": [
+        "The investigator must return in one week",
+        "The broker can request a 48-hour delay",
+        "The investigator needs a court order first"
+      ],
+      "explanation": "The Vermont Real Estate Commission can inspect trust account records at any time during business hours. A broker cannot delay or refuse inspection. The records must be maintained in a condition that allows immediate review at all times.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commission_inspection", "trust_account", "compliance"]
+    },
+    {
+      "key_topic_ref": "VT-06.2",
+      "question_text": "A broker pays her office rent directly from the client trust account, intending to replace the funds tomorrow. This practice is:",
+      "correct_answer": "Prohibited commingling and conversion",
+      "distractors": [
+        "Acceptable if funds are replaced promptly",
+        "Permitted for amounts under $2,000",
+        "Allowed with written client approval"
+      ],
+      "explanation": "Using client trust funds for any personal or business expense constitutes both commingling and conversion, regardless of the broker's intent to replace the money. Vermont strictly prohibits any use of trust funds for non-client purposes.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commingling", "conversion", "trust_account"]
+    },
+    {
+      "key_topic_ref": "VT-06.3",
+      "question_text": "A broker opens a new trust account. Within how many days must the Commission be notified?",
+      "correct_answer": "Within 10 days",
+      "distractors": [
+        "Within 5 days",
+        "Within 30 days",
+        "Within 60 days"
+      ],
+      "explanation": "Vermont requires brokers to notify the Real Estate Commission within 10 days of opening a trust account. This notification requirement allows the Commission to maintain accurate records and schedule inspections as needed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "notification", "commission"]
+    },
+    {
+      "key_topic_ref": "VT-06.3",
+      "question_text": "A client asks whether her deposit will earn interest. What must the broker disclose?",
+      "correct_answer": "Whether it earns interest and who gets it",
+      "distractors": [
+        "Only the current interest rate offered",
+        "Only the bank name and account number",
+        "Nothing unless the client asks in writing"
+      ],
+      "explanation": "Vermont requires brokers to disclose whether the trust account is interest-bearing and, if so, who receives the interest. The broker must also inform the depositor whether funds are in an individual or pooled account.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["interest_disclosure", "trust_account", "client_rights"]
+    },
+    {
+      "key_topic_ref": "VT-06.3",
+      "question_text": "What written document must the broker retain regarding trust account interest disclosure?",
+      "correct_answer": "A signed disclosure from the beneficial owner",
+      "distractors": [
+        "A bank-issued certificate of deposit",
+        "A Commission letter approving the account",
+        "A notarized affidavit filed with the court"
+      ],
+      "explanation": "Vermont requires brokers to retain a written statement of disclosure signed by the beneficial owner (the person whose funds are held). This confirms the depositor was informed about interest-bearing status and who receives the interest.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "signed_statement", "beneficial_owner"]
+    },
+    {
+      "key_topic_ref": "VT-06.3",
+      "question_text": "A broker holds deposits from multiple clients in one pooled trust account. What must each depositor be told?",
+      "correct_answer": "That their funds are in a pooled account",
+      "distractors": [
+        "The names of all other depositors",
+        "The total balance of the pooled account",
+        "Nothing, pooled accounts need no disclosure"
+      ],
+      "explanation": "When a broker uses a pooled trust account, each depositor must be informed that their funds are held in a pooled account rather than an individual one. This disclosure is part of Vermont's trust account transparency requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["pooled_account", "disclosure", "trust_account"]
+    },
+    {
+      "key_topic_ref": "VT-06.3",
+      "question_text": "Which of the following is NOT required in Vermont trust account disclosure?",
+      "correct_answer": "The projected interest earnings for the year",
+      "distractors": [
+        "Whether the account is interest-bearing",
+        "Who receives the interest earned",
+        "Whether funds are in an individual or pooled account"
+      ],
+      "explanation": "Vermont requires disclosure of whether the account earns interest, who receives the interest, and whether it is individual or pooled. Projected earnings are not a required disclosure item since interest rates and balances fluctuate.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disclosure_requirements", "trust_account", "interest"]
+    }
+  ]
+}

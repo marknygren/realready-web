@@ -1,0 +1,158 @@
+{
+  "standard_ref": "WY-12",
+  "scope": "state",
+  "state": "WY",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WY-12.1",
+      "question_text": "A Wyoming landlord asks what the maximum security deposit is under state law. The correct answer is:",
+      "correct_answer": "There is no statutory maximum in Wyoming",
+      "distractors": [
+        "One month's rent for unfurnished units",
+        "Two months' rent for all rental units",
+        "Three months' rent for furnished units"
+      ],
+      "explanation": "Wyoming does not impose a statutory cap on security deposit amounts. This is one of several provisions that make Wyoming considered landlord-friendly. The amount is left to negotiation between landlord and tenant.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security_deposit", "maximum", "landlord_friendly"]
+    },
+    {
+      "key_topic_ref": "WY-12.1",
+      "question_text": "A tenant's lease ends March 1 and the tenant provides a forwarding address on March 5. By when must the landlord return the security deposit?",
+      "correct_answer": "March 31, which is 30 days after lease termination",
+      "distractors": [
+        "March 20, which is 15 days after the address",
+        "April 4, which is 30 days after the address",
+        "March 15, which is 14 days after termination"
+      ],
+      "explanation": "The landlord must return the deposit within 30 days after lease termination OR 15 days after receiving the forwarding address, whichever is LATER. Here, 30 days from March 1 (March 31) is later than 15 days from March 5 (March 20), so March 31 applies.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["security_deposit", "return_deadline", "timing"]
+    },
+    {
+      "key_topic_ref": "WY-12.1",
+      "question_text": "A tenant's lease ends June 1 but the tenant does not provide a forwarding address until July 1. When is the deposit due?",
+      "correct_answer": "July 16, which is 15 days after the address",
+      "distractors": [
+        "July 1, which is 30 days after termination",
+        "June 15, which is 14 days after termination",
+        "July 31, which is 30 days after the address"
+      ],
+      "explanation": "The return deadline is 30 days after lease termination OR 15 days after receiving the forwarding address, whichever is LATER. Thirty days from June 1 is July 1, but 15 days from July 1 is July 16. Since July 16 is later, that is the deadline.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["security_deposit", "return_deadline", "forwarding_address"]
+    },
+    {
+      "key_topic_ref": "WY-12.1",
+      "question_text": "A landlord deducts $400 from a $1,200 security deposit for carpet damage. What must the landlord provide to the tenant?",
+      "correct_answer": "An itemized list of the deductions",
+      "distractors": [
+        "Only the remaining $800 with no explanation",
+        "Receipts for the actual repair work completed",
+        "A signed statement from the property manager"
+      ],
+      "explanation": "Wyoming requires landlords to provide an itemized list of any deductions taken from the security deposit. While providing repair receipts may be good practice, the statutory requirement is an itemized statement of deductions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security_deposit", "deductions", "itemized_list"]
+    },
+    {
+      "key_topic_ref": "WY-12.1",
+      "question_text": "A Wyoming tenant asks their landlord what interest rate applies to the security deposit. The landlord should respond:",
+      "correct_answer": "Wyoming does not require interest on deposits",
+      "distractors": [
+        "Interest accrues at the prevailing bank rate",
+        "Two percent per year on the total deposit",
+        "The rate is set annually by WREC"
+      ],
+      "explanation": "Wyoming has no statutory requirement for landlords to pay interest on security deposits. This is another landlord-friendly provision. Some other states do require interest, but Wyoming does not.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security_deposit", "interest", "landlord_friendly"]
+    },
+    {
+      "key_topic_ref": "WY-12.2",
+      "question_text": "A Wyoming tenant is three days behind on rent. The landlord wants to begin eviction. What notice is required?",
+      "correct_answer": "3 days to pay or quit",
+      "distractors": [
+        "5 days to pay or quit",
+        "10 days written notice to vacate",
+        "14 days to cure the default"
+      ],
+      "explanation": "For nonpayment of rent in Wyoming, the landlord must give the tenant a 3-day notice to pay or quit. This is one of the shorter notice periods nationally, reflecting Wyoming's landlord-friendly stance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "nonpayment", "3_day_notice"]
+    },
+    {
+      "key_topic_ref": "WY-12.2",
+      "question_text": "A tenant on a month-to-month lease in Wyoming has not violated any terms. How much notice must the landlord give to terminate?",
+      "correct_answer": "30 days written notice",
+      "distractors": [
+        "60 days written notice",
+        "3 days written notice",
+        "No notice is required for month-to-month"
+      ],
+      "explanation": "For month-to-month tenancies with no cause, Wyoming requires 30 days written notice from either party to terminate. The 3-day notice applies only to nonpayment or lease violations, not no-cause terminations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "month_to_month", "30_day_notice"]
+    },
+    {
+      "key_topic_ref": "WY-12.2",
+      "question_text": "A tenant violates a lease term by keeping an unauthorized pet. What notice period applies in Wyoming?",
+      "correct_answer": "3 days notice for lease violation",
+      "distractors": [
+        "10 days to cure the violation",
+        "30 days written notice to vacate",
+        "7 days to remedy or vacate"
+      ],
+      "explanation": "Wyoming provides only a 3-day notice period for lease violations, the same as for nonpayment of rent. This short cure period is consistent with Wyoming's generally landlord-friendly legal framework.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "lease_violation", "3_day_notice"]
+    },
+    {
+      "key_topic_ref": "WY-12.2",
+      "question_text": "A Casper city council member proposes a rent stabilization ordinance. Under Wyoming law, this ordinance is:",
+      "correct_answer": "Not permitted under Wyoming law",
+      "distractors": [
+        "Allowed if approved by popular vote",
+        "Permitted for cities over 50,000 population",
+        "Valid if limited to five percent annual increases"
+      ],
+      "explanation": "Wyoming does not permit rent control or rent stabilization ordinances at any level. No municipality may enact such measures regardless of local conditions, population size, or voter approval.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rent_control", "prohibited", "municipalities"]
+    },
+    {
+      "key_topic_ref": "WY-12.2",
+      "question_text": "A tenant claims their Wyoming rental has a broken furnace in January and demands immediate repair. Wyoming law provides:",
+      "correct_answer": "Limited implied warranty of habitability",
+      "distractors": [
+        "A strong implied warranty covering all systems",
+        "No warranty of habitability whatsoever",
+        "A statutory 48-hour emergency repair guarantee"
+      ],
+      "explanation": "Wyoming recognizes only a limited implied warranty of habitability. This means tenant protections for repair demands are narrower than in many other states. There is no statutory emergency repair timeline specified.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["habitability", "warranty", "tenant_rights", "limited"]
+    }
+  ]
+}

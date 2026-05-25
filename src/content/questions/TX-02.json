@@ -1,0 +1,158 @@
+{
+  "standard_ref": "TX-02",
+  "scope": "state",
+  "state": "TX",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "TX-02.1",
+      "question_text": "How many total hours of pre-license education does Texas require for a sales agent license?",
+      "correct_answer": "180 hours",
+      "distractors": [
+        "150 hours",
+        "210 hours",
+        "120 hours"
+      ],
+      "explanation": "Texas requires 180 hours of pre-license education, divided into 6 courses of 30 hours each. The courses are Principles of Real Estate I, Principles II, Law of Agency, Law of Contracts, Promulgated Contract Forms, and Real Estate Finance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "education", "180_hours"]
+    },
+    {
+      "key_topic_ref": "TX-02.1",
+      "question_text": "Maria has completed all 180 hours of pre-license education and passed the state exam. She has not yet found a broker. Can she practice real estate?",
+      "correct_answer": "No, she must be sponsored by an active broker",
+      "distractors": [
+        "Yes, she can practice independently for 90 days",
+        "Yes, if she registers as a sole proprietor",
+        "No, she must first complete 270 hours of SAE"
+      ],
+      "explanation": "In Texas, a newly licensed sales agent must be sponsored by an active licensed broker before engaging in any real estate activity. Passing the exam alone does not authorize practice. The sponsorship requirement ensures proper supervision of new agents.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["sponsorship", "broker", "new_licensee", "practice"]
+    },
+    {
+      "key_topic_ref": "TX-02.1",
+      "question_text": "A candidate completes all 180 hours of pre-license education. What additional step must be completed before taking the exam?",
+      "correct_answer": "Pass a background check with fingerprinting",
+      "distractors": [
+        "Obtain a sponsoring broker before testing",
+        "Complete a 30-hour supervised internship",
+        "Submit a practice exam score to TREC"
+      ],
+      "explanation": "Before sitting for the exam, candidates must complete the 180 hours of education AND pass a background check that includes fingerprinting. While a sponsoring broker is required before practicing, it is not required before taking the exam.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exam_eligibility", "background_check", "fingerprinting"]
+    },
+    {
+      "key_topic_ref": "TX-02.1",
+      "question_text": "A 17-year-old completes all 180 hours of pre-license coursework and wants to take the state exam. What happens?",
+      "correct_answer": "The applicant is ineligible until age 18",
+      "distractors": [
+        "The applicant may take the exam with parental consent",
+        "The applicant can sit for the exam immediately",
+        "TREC may grant a hardship waiver"
+      ],
+      "explanation": "Texas requires applicants to be at least 18 years old to obtain a real estate license. Completing coursework early does not waive the age requirement. There is no parental consent exception or hardship waiver for underage applicants.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["age_requirement", "eligibility", "exam"]
+    },
+    {
+      "key_topic_ref": "TX-02.1",
+      "question_text": "Which of the following is one of the six required 30-hour pre-license courses in Texas?",
+      "correct_answer": "Promulgated Contract Forms",
+      "distractors": [
+        "Property Management",
+        "Real Estate Appraisal",
+        "Commercial Brokerage"
+      ],
+      "explanation": "The six required courses are Principles I, Principles II, Law of Agency, Law of Contracts, Promulgated Contract Forms, and Real Estate Finance. Property Management, Appraisal, and Commercial Brokerage are not part of the mandatory pre-license curriculum.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "courses", "promulgated_forms"]
+    },
+    {
+      "key_topic_ref": "TX-02.2",
+      "question_text": "A property owner sells her own home without hiring an agent. Does she need a real estate license?",
+      "correct_answer": "No, owners selling own property are exempt",
+      "distractors": [
+        "Yes, all real estate sales require a license",
+        "Only if the sale price exceeds $100,000",
+        "Only if she advertises the home on the MLS"
+      ],
+      "explanation": "Texas law exempts property owners from the licensing requirement when selling their own property. The license requirement applies to persons who perform real estate activities for others in exchange for compensation. Self-representation in a personal sale is not regulated activity.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "owner_sale", "license_requirement"]
+    },
+    {
+      "key_topic_ref": "TX-02.2",
+      "question_text": "An on-site apartment manager negotiates lease terms for the complex where she works. Does she need a real estate license?",
+      "correct_answer": "No, on-site apartment managers are exempt",
+      "distractors": [
+        "Yes, leasing always requires a license",
+        "Only if she earns commission on each lease",
+        "Only if the complex has more than 50 units"
+      ],
+      "explanation": "Texas provides a specific licensing exemption for on-site apartment managers. Even though leasing is normally a licensable activity, managers who work on-site at the property they manage are not required to hold a real estate license.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "apartment_manager", "leasing"]
+    },
+    {
+      "key_topic_ref": "TX-02.2",
+      "question_text": "A real estate brokerage operates as an LLC. What licensing requirement applies to the entity?",
+      "correct_answer": "The LLC must hold a broker license",
+      "distractors": [
+        "Only the individual agents need licenses",
+        "The LLC files a business exemption with TREC",
+        "The LLC registers with the Secretary of State only"
+      ],
+      "explanation": "In Texas, a business entity that acts as a real estate broker must hold a broker license. The entity must also designate a licensed broker who is personally responsible for the entity's real estate activities. Individual agent licenses alone are not sufficient.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["business_entity", "LLC", "broker_license", "designated_broker"]
+    },
+    {
+      "key_topic_ref": "TX-02.2",
+      "question_text": "An attorney negotiates a real estate purchase on behalf of a client as part of legal representation. Does the attorney need a real estate license?",
+      "correct_answer": "No, attorneys at law are exempt",
+      "distractors": [
+        "Yes, all negotiators must be licensed",
+        "Only if the attorney charges a separate fee",
+        "Only if the property is residential"
+      ],
+      "explanation": "Texas exempts attorneys at law from the real estate licensing requirement when performing real estate activities as part of their legal practice. This exemption recognizes that attorneys are already regulated by the State Bar and courts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "attorney", "legal_practice"]
+    },
+    {
+      "key_topic_ref": "TX-02.2",
+      "question_text": "An unlicensed person receives a referral fee for connecting a buyer with a listing agent. Is this activity lawful?",
+      "correct_answer": "No, receiving compensation requires a license",
+      "distractors": [
+        "Yes, referrals do not require a license",
+        "Yes, if the fee is under $500",
+        "Yes, if the buyer consents in writing"
+      ],
+      "explanation": "Receiving compensation for referring real estate clients constitutes a licensable activity under Texas law. Negotiating, listing, selling, buying, leasing, or auctioning real property for compensation all require a license. An unlicensed person cannot legally accept referral fees.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["scope_of_practice", "referral_fee", "unlicensed_activity"]
+    }
+  ]
+}

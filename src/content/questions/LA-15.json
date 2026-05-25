@@ -1,0 +1,233 @@
+{
+  "standard_ref": "LA-15",
+  "scope": "state",
+  "state": "LA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "LA-15.1",
+      "question_text": "What is the minimum age to have capacity to contract in Louisiana?",
+      "correct_answer": "18 years old",
+      "distractors": [
+        "16 years old",
+        "19 years old",
+        "21 years old"
+      ],
+      "explanation": "Under Louisiana law, the age of majority and thus the capacity to enter into contracts is 18. A contract entered into by a minor (unemancipated) is relatively null and may be rescinded.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "capacity", "age_requirement"]
+    },
+    {
+      "key_topic_ref": "LA-15.1",
+      "question_text": "Which four elements are required to form a valid contract under Louisiana Civil Code?",
+      "correct_answer": "Capacity, consent, cause, and object",
+      "distractors": [
+        "Offer, acceptance, consideration, and legality",
+        "Capacity, writing, delivery, and acceptance",
+        "Consent, witnesses, notarization, and recording"
+      ],
+      "explanation": "Louisiana Civil Code requires four elements for a valid contract: capacity of the parties, consent free of vices, a lawful cause (motive), and a lawful, possible, and determinate object. Louisiana uses 'cause' rather than 'consideration.'",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "formation", "elements"]
+    },
+    {
+      "key_topic_ref": "LA-15.1",
+      "question_text": "A contract where both parties assume equivalent obligations is classified as what type?",
+      "correct_answer": "Bilateral and commutative",
+      "distractors": [
+        "Unilateral and aleatory",
+        "Bilateral and aleatory",
+        "Unilateral and commutative"
+      ],
+      "explanation": "A bilateral contract involves obligations on both parties. A commutative contract is one where the performance of each party is correlative to the other and known at the time of contracting. A sale of an immovable is a typical bilateral commutative contract.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "bilateral", "commutative"]
+    },
+    {
+      "key_topic_ref": "LA-15.1",
+      "question_text": "A seller pressures a buyer into signing a purchase agreement through threats of physical harm. What vice of consent has occurred?",
+      "correct_answer": "Duress",
+      "distractors": [
+        "Error",
+        "Fraud",
+        "Lesion"
+      ],
+      "explanation": "Duress is a vice of consent that occurs when a party's will is overcome by threats of physical harm, violence, or other unjust pressure. A contract obtained through duress is relatively null and may be rescinded by the victim.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contracts", "consent", "duress"]
+    },
+    {
+      "key_topic_ref": "LA-15.1",
+      "question_text": "A contract has a lawful object and valid consent but is motivated by an illegal purpose. Under Louisiana law, what is the effect?",
+      "correct_answer": "The contract is null for unlawful cause",
+      "distractors": [
+        "The contract is enforceable as written",
+        "Only the illegal clause is severed",
+        "The contract is valid but unrecordable"
+      ],
+      "explanation": "Under Louisiana Civil Code, cause is the reason or motive for contracting. If the cause is unlawful (contrary to public policy or law), the contract is null even if the object and consent are otherwise valid. This is a distinctive feature of Louisiana civil law.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["contracts", "cause", "nullity"]
+    },
+    {
+      "key_topic_ref": "LA-15.2",
+      "question_text": "Under Louisiana law, when may an offeror revoke an offer?",
+      "correct_answer": "At any time before acceptance",
+      "distractors": [
+        "Only after a 72-hour waiting period",
+        "Never once communicated to the offeree",
+        "Only with written notice to the offeree"
+      ],
+      "explanation": "In Louisiana, an offer is generally revocable at any time before it is accepted. This differs from common law jurisdictions that may apply a mailbox rule. An offer becomes irrevocable only if supported by consideration or a declaration of irrevocability.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["offers", "revocation", "acceptance"]
+    },
+    {
+      "key_topic_ref": "LA-15.2",
+      "question_text": "What makes an offer irrevocable under Louisiana law?",
+      "correct_answer": "Consideration or a declaration of irrevocability",
+      "distractors": [
+        "Putting the offer in writing and signing it",
+        "Communicating the offer to multiple parties",
+        "Having a licensed notary witness the offer"
+      ],
+      "explanation": "An offer becomes irrevocable when it is supported by consideration from the offeree or when the offeror includes an express declaration of irrevocability for a specified period. A mere written offer without these elements remains revocable.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["offers", "irrevocable", "consideration"]
+    },
+    {
+      "key_topic_ref": "LA-15.2",
+      "question_text": "A buyer makes an offer of $200,000 on an immovable. The seller responds with a price of $210,000. What is the legal effect of the seller's response?",
+      "correct_answer": "It rejects the offer and creates a counteroffer",
+      "distractors": [
+        "It accepts the offer at the higher amount",
+        "It holds the original offer open for 30 days",
+        "It modifies the original offer to $210,000"
+      ],
+      "explanation": "A counteroffer constitutes a rejection of the original offer and creates a new offer. The original $200,000 offer is extinguished, and the buyer is now the offeree who may accept or reject the $210,000 counteroffer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["counteroffer", "rejection", "offers"]
+    },
+    {
+      "key_topic_ref": "LA-15.2",
+      "question_text": "Seller makes an irrevocable offer to sell an immovable, valid for 10 days. On day 3, the seller attempts to revoke. On day 5, the buyer accepts. Is there a contract?",
+      "correct_answer": "Yes, because the offer was irrevocable",
+      "distractors": [
+        "No, because revocation occurred before acceptance",
+        "No, unless the buyer paid a deposit",
+        "Yes, but only if the seller reaffirms"
+      ],
+      "explanation": "An irrevocable offer cannot be revoked during the stated period. The seller's attempted revocation on day 3 was without legal effect. The buyer's acceptance on day 5 (within the 10-day period) formed a binding contract.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["irrevocable_offer", "revocation", "binding_contract"]
+    },
+    {
+      "key_topic_ref": "LA-15.2",
+      "question_text": "An acceptance that changes a material term of the offer creates what under Louisiana law?",
+      "correct_answer": "A counteroffer",
+      "distractors": [
+        "A binding contract on modified terms",
+        "A void agreement",
+        "A conditional acceptance"
+      ],
+      "explanation": "Under Louisiana law, an acceptance must conform to the terms of the offer. An acceptance that modifies the offer in any material respect does not form a contract but constitutes a counteroffer that the original offeror may accept or reject.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["acceptance", "counteroffer", "material_terms"]
+    },
+    {
+      "key_topic_ref": "LA-15.3",
+      "question_text": "What is novation under Louisiana law?",
+      "correct_answer": "A new obligation replacing an existing one",
+      "distractors": [
+        "An amendment adding terms to a contract",
+        "A unilateral cancellation of a contract",
+        "A judicial modification of contract price"
+      ],
+      "explanation": "Novation is the extinguishment of an existing obligation by the substitution of a new obligation. It requires the consent of all parties and the intent to extinguish the old obligation. The prior obligation is no longer enforceable.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["novation", "obligations", "extinguishment"]
+    },
+    {
+      "key_topic_ref": "LA-15.3",
+      "question_text": "A contract with an absolutely null provision violates public policy. Can the parties ratify the contract to make it valid?",
+      "correct_answer": "No, absolute nullity cannot be ratified",
+      "distractors": [
+        "Yes, if both parties agree in writing",
+        "Yes, after the passage of 5 years",
+        "Yes, with court approval"
+      ],
+      "explanation": "Absolute nullity exists to protect the public interest. A contract that is absolutely null cannot be confirmed or ratified by the parties. Only relative nullity (which protects private interests) may be ratified by the protected party.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["absolute_nullity", "ratification", "public_policy"]
+    },
+    {
+      "key_topic_ref": "LA-15.3",
+      "question_text": "A minor enters into a contract to purchase an immovable. What type of nullity applies?",
+      "correct_answer": "Relative nullity",
+      "distractors": [
+        "Absolute nullity",
+        "The contract is fully valid",
+        "The contract is void ab initio"
+      ],
+      "explanation": "A contract entered into by a person lacking capacity (such as a minor) is relatively null. Relative nullity protects a private interest and may only be invoked by the protected party (the minor or his representative). The minor may also choose to ratify the contract upon reaching majority.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["relative_nullity", "capacity", "minor"]
+    },
+    {
+      "key_topic_ref": "LA-15.3",
+      "question_text": "A licensee receives earnest money from a buyer. How must the licensee handle these funds?",
+      "correct_answer": "Deposit them in a trust account promptly",
+      "distractors": [
+        "Hold them in a personal checking account",
+        "Forward them directly to the seller",
+        "Place them in the broker's operating account"
+      ],
+      "explanation": "Earnest money received by a licensee constitutes trust funds that must be deposited promptly into a designated trust or escrow account. Commingling trust funds with personal or operating funds is a violation of Louisiana licensing law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest_money", "trust_funds", "escrow"]
+    },
+    {
+      "key_topic_ref": "LA-15.3",
+      "question_text": "Parties A and B have a contract. They agree with Party C that C will assume B's obligations, and B will be released. What has occurred?",
+      "correct_answer": "Novation by substitution of obligor",
+      "distractors": [
+        "Assignment of contract rights only",
+        "A conditional delegation of duties",
+        "A bilateral modification of terms"
+      ],
+      "explanation": "When a new obligor replaces the original obligor with the consent of all parties and the intent to release the original obligor, it is novation by substitution of the obligor. The original obligation is extinguished and replaced by the new one between A and C.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["novation", "substitution", "obligor"]
+    }
+  ]
+}

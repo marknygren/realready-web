@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AL-14",
+  "scope": "state",
+  "state": "AL",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AL-14.1",
+      "question_text": "Who typically prepares the deed and mortgage documents at an Alabama closing?",
+      "correct_answer": "A licensed Alabama attorney",
+      "distractors": ["The real estate broker", "The title company underwriter", "The buyer's lender"],
+      "explanation": "Alabama is an attorney state for real estate closings. Licensed Alabama attorneys prepare deeds, mortgages, and other legal closing documents. Real estate licensees and title companies cannot prepare these legal instruments, though title companies may handle title searches and insurance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney state", "deed preparation", "closing"]
+    },
+    {
+      "key_topic_ref": "AL-14.1",
+      "question_text": "A buyer asks the listing agent to prepare the warranty deed for closing. Why must the agent decline?",
+      "correct_answer": "Alabama requires attorneys to prepare deeds",
+      "distractors": ["Only the seller's agent may prepare deeds", "Deed preparation requires a notary license", "The lender must approve the deed first"],
+      "explanation": "Alabama is an attorney state, meaning only licensed Alabama attorneys may prepare deeds, mortgages, and other legal documents for real estate closings. A real estate agent preparing a deed would constitute unauthorized practice of law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["attorney state", "unauthorized practice of law", "deed"]
+    },
+    {
+      "key_topic_ref": "AL-14.1",
+      "question_text": "What role do title companies play in Alabama real estate closings?",
+      "correct_answer": "They handle title searches and insurance",
+      "distractors": ["They prepare all closing documents", "They serve as the escrow agent only", "They replace the need for attorneys"],
+      "explanation": "In Alabama, title companies conduct title searches, examine title records, and issue title insurance policies. However, because Alabama is an attorney state, title companies do not prepare deeds or mortgages. Closings typically occur at the attorney's office or title company.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title company", "title search", "title insurance"]
+    },
+    {
+      "key_topic_ref": "AL-14.1",
+      "question_text": "Is title insurance universally required for Alabama residential transactions?",
+      "correct_answer": "No, it is available but not universally required",
+      "distractors": ["Yes, state law mandates it for all sales", "Yes, but only for properties over $100,000", "No, title insurance is not available in Alabama"],
+      "explanation": "Title insurance is available in Alabama but is not universally required by state law. Lenders typically require a lender's title insurance policy, but owner's title insurance is optional. The availability and common use of title insurance protects buyers against title defects.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title insurance", "requirements", "optional"]
+    },
+    {
+      "key_topic_ref": "AL-14.1",
+      "question_text": "An out-of-state attorney offers to prepare closing documents for an Alabama transaction. Is this permitted?",
+      "correct_answer": "No, the attorney must be licensed in Alabama",
+      "distractors": ["Yes, any licensed attorney may prepare them", "Yes, if the buyer consents in writing", "Only if supervised by an Alabama broker"],
+      "explanation": "Alabama requires that attorneys who prepare real estate closing documents be licensed to practice law in Alabama. An out-of-state attorney who is not admitted to the Alabama bar cannot prepare deeds, mortgages, or other closing documents for Alabama transactions.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["attorney state", "licensing", "out-of-state"]
+    },
+    {
+      "key_topic_ref": "AL-14.2",
+      "question_text": "Alabama is classified as what type of state regarding mortgage security instruments?",
+      "correct_answer": "A lien theory state using mortgages",
+      "distractors": ["A title theory state using deeds of trust", "An intermediate theory state", "A trust deed state with power of sale"],
+      "explanation": "Alabama is a lien theory state that uses mortgages rather than deeds of trust. Under lien theory, the borrower retains title to the property while the lender holds a lien as security for the loan. The lender does not hold title during the loan term.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lien theory", "mortgage", "security instrument"]
+    },
+    {
+      "key_topic_ref": "AL-14.2",
+      "question_text": "In Alabama, who holds title to the property during the mortgage term?",
+      "correct_answer": "The borrower retains title",
+      "distractors": ["The lender holds title", "A neutral third-party trustee", "Title is split between borrower and lender"],
+      "explanation": "As a lien theory state, Alabama allows the borrower to retain title to the property throughout the mortgage term. The lender holds only a lien against the property as security for the debt. If the borrower defaults, the lender must foreclose to obtain title.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lien theory", "title", "borrower rights"]
+    },
+    {
+      "key_topic_ref": "AL-14.2",
+      "question_text": "A borrower defaults on an Alabama mortgage containing a power of sale clause. What foreclosure process is most likely used?",
+      "correct_answer": "Non-judicial foreclosure with newspaper notice",
+      "distractors": ["Strict foreclosure with no sale", "Judicial foreclosure requiring a lawsuit", "Tax lien foreclosure through the county"],
+      "explanation": "Non-judicial foreclosure is the most common method in Alabama when the mortgage contains a power of sale clause. The process requires publishing notice in a newspaper for 3 consecutive weeks, followed by a public sale at the courthouse. The entire process typically takes 50-60 days.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["non-judicial foreclosure", "power of sale", "newspaper notice"]
+    },
+    {
+      "key_topic_ref": "AL-14.2",
+      "question_text": "After a foreclosure sale in Alabama, how long does the borrower have to redeem the property?",
+      "correct_answer": "12 months",
+      "distractors": ["6 months", "90 days", "No redemption period exists"],
+      "explanation": "Alabama provides a 12-month statutory redemption period after a foreclosure sale. During this time, the former owner may redeem the property by paying the sale price plus costs and interest. This is one of the longer redemption periods among U.S. states.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statutory redemption", "12 months", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "AL-14.2",
+      "question_text": "A foreclosure sale in Alabama yields $180,000 but the mortgage balance is $220,000. Can the lender pursue the remaining $40,000?",
+      "correct_answer": "Yes, Alabama allows deficiency judgments",
+      "distractors": ["No, Alabama prohibits deficiency judgments", "Only if the loan was a purchase money mortgage", "Only if the property is commercial"],
+      "explanation": "Alabama allows lenders to pursue deficiency judgments against borrowers when the foreclosure sale proceeds are insufficient to cover the mortgage balance. The lender may sue the borrower for the remaining $40,000 difference between the sale price and the debt owed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deficiency judgment", "foreclosure", "lender rights"]
+    },
+    {
+      "key_topic_ref": "AL-14.3",
+      "question_text": "A residential property in Alabama is assessed at what percentage of fair market value?",
+      "correct_answer": "10% under Class III",
+      "distractors": ["20% under Class II", "30% under Class I", "15% under Class IV"],
+      "explanation": "Alabama uses a 4-class property assessment system. Residential and agricultural property falls under Class III and is assessed at 10% of fair market value. Class I (Utility) is 30%, Class II (Commercial/Industrial) is 20%, and Class IV (Vehicles) is 15%.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["assessment", "Class III", "residential"]
+    },
+    {
+      "key_topic_ref": "AL-14.3",
+      "question_text": "A commercial building in Alabama has a fair market value of $500,000. Using Class II assessment and a total millage rate of 50 mills, what is the annual property tax?",
+      "correct_answer": "$5,000",
+      "distractors": ["$2,500", "$10,000", "$25,000"],
+      "explanation": "Commercial property (Class II) is assessed at 20% of fair market value. Assessed value: $500,000 x 0.20 = $100,000. Tax: $100,000 x 50 mills (0.050) = $5,000. The millage rate includes state, county, and local components combined.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property tax", "Class II", "millage calculation"]
+    },
+    {
+      "key_topic_ref": "AL-14.3",
+      "question_text": "What is the Alabama state millage rate for property taxes?",
+      "correct_answer": "6.5 mills",
+      "distractors": ["10 mills", "3.5 mills", "15 mills"],
+      "explanation": "The Alabama state millage rate is 6.5 mills. This is the state portion only; county and municipal millage rates are added to determine the total tax rate. One mill equals $1 of tax per $1,000 of assessed value.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["state millage", "6.5 mills", "property tax"]
+    },
+    {
+      "key_topic_ref": "AL-14.3",
+      "question_text": "A 72-year-old Alabama homeowner earns $10,000 annually. Which homestead exemption applies?",
+      "correct_answer": "H3 exemption from all property taxes",
+      "distractors": ["H1 standard exemption of $4,000 state", "H2 partial state exemption only", "H4 disabled veteran full exemption"],
+      "explanation": "The H3 homestead exemption applies to homeowners age 65 or older with annual income of $12,000 or less, as well as totally disabled homeowners. H3 provides complete exemption from all property taxes. Since this homeowner is over 65 with income under $12,000, H3 applies.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["homestead exemption", "H3", "senior exemption"]
+    },
+    {
+      "key_topic_ref": "AL-14.3",
+      "question_text": "What is the maximum acreage for Alabama homestead exemption eligibility?",
+      "correct_answer": "160 acres",
+      "distractors": ["80 acres", "40 acres", "320 acres"],
+      "explanation": "Alabama homestead exemptions apply to owner-occupied properties of up to 160 acres. The property must be the owner's primary residence to qualify. This acreage limit applies to all homestead exemption categories (H1 through H4).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead exemption", "acreage limit", "eligibility"]
+    }
+  ]
+}

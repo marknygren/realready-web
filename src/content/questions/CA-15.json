@@ -1,0 +1,308 @@
+{
+  "standard_ref": "CA-15",
+  "scope": "state",
+  "state": "CA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CA-15.1",
+      "question_text": "A first-time buyer with moderate income wants help with a down payment. Which California state agency specifically offers subordinate loans for down payment assistance?",
+      "correct_answer": "CalHFA",
+      "distractors": [
+        "CalVet",
+        "DFPI",
+        "Cal-OSBA"
+      ],
+      "explanation": "The California Housing Finance Agency (CalHFA) offers first mortgage programs at below-market rates and subordinate (second) loan programs for down payment and closing cost assistance for first-time and low-to-moderate income buyers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "CalHFA",
+        "down-payment-assistance",
+        "first-time-buyer",
+        "state-programs"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.1",
+      "question_text": "A California veteran wants to buy a home using a CalVet loan. Which statement accurately describes how CalVet financing works?",
+      "correct_answer": "CalVet purchases the property and sells it to the veteran on a land contract",
+      "distractors": [
+        "CalVet guarantees a VA loan made by a private lender",
+        "CalVet provides a grant covering up to 20% of the purchase price",
+        "CalVet co-signs the veteran's conventional mortgage"
+      ],
+      "explanation": "CalVet's unique structure involves the California Department of Veterans Affairs purchasing the property outright and then selling it to the veteran through a land contract (contract of sale). The veteran gains equitable title while CalVet retains legal title until the loan is paid off.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "CalVet",
+        "land-contract",
+        "veterans",
+        "state-programs"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.1",
+      "question_text": "A buyer is comparing CalHFA and CalVet programs. She served in the California National Guard. Which program is she most likely eligible for?",
+      "correct_answer": "CalVet, because it serves California veterans including National Guard members",
+      "distractors": [
+        "Only CalHFA, because CalVet is for active-duty only",
+        "Neither program covers National Guard service",
+        "Both programs require federal VA eligibility as a prerequisite"
+      ],
+      "explanation": "CalVet serves California veterans, which includes members of the National Guard who have met service requirements. CalHFA is available to first-time buyers regardless of veteran status. The two programs serve different target populations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "CalVet",
+        "veterans",
+        "eligibility",
+        "state-programs"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.1",
+      "question_text": "A first-time buyer uses a CalHFA first mortgage combined with a CalHFA subordinate loan for her down payment. Which statement best describes the subordinate loan?",
+      "correct_answer": "It is a second loan subordinate to the first, repaid per its own terms",
+      "distractors": [
+        "It must be repaid within 5 years with no interest",
+        "It is forgiven automatically after 10 years of occupancy",
+        "It reduces the purchase price rather than providing cash"
+      ],
+      "explanation": "CalHFA subordinate programs provide second mortgage financing for down payment and closing costs. The second loan is subordinate to (behind) the first mortgage in lien priority and is repaid according to its own specific program terms.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "CalHFA",
+        "subordinate-loan",
+        "down-payment-assistance",
+        "financing"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.1",
+      "question_text": "A first-time buyer with moderate income is comparing CalHFA to a conventional loan. What is CalHFA's primary advantage?",
+      "correct_answer": "Below-market interest rates and down payment help",
+      "distractors": [
+        "No income limits or credit score requirements",
+        "Zero closing costs on all CalHFA loan products",
+        "Guaranteed approval regardless of debt-to-income ratio"
+      ],
+      "explanation": "CalHFA's key benefit is offering below-market interest rates plus subordinate loans for down payment and closing cost assistance. It targets first-time and low-to-moderate income buyers who might not qualify for conventional financing terms.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "CalHFA",
+        "below-market-rates",
+        "down-payment-assistance",
+        "state-programs"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.2",
+      "question_text": "A private individual in California wants to lend money at 15% interest on a personal note, not arranged through a broker. Is this permitted under California usury law?",
+      "correct_answer": "No, California caps all non-exempt loans at 10% per year",
+      "distractors": [
+        "Yes, private parties can charge any interest rate they agree to",
+        "Yes, but only on loans secured by real property",
+        "No, the maximum is 5% plus the Federal Reserve discount rate"
+      ],
+      "explanation": "California's constitutional usury limit caps non-exempt loans at the greater of 10% per year OR 5% plus the Federal Reserve discount rate. A private individual charging 15% on a non-exempt loan would violate usury law unless the higher formula exceeded 15%.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "usury",
+        "interest-rate",
+        "non-exempt",
+        "California-law"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.2",
+      "question_text": "Which of the following lenders is EXEMPT from California's usury interest rate limits?",
+      "correct_answer": "A licensed California real estate broker arranging a loan",
+      "distractors": [
+        "A private hard money lender operating without a broker license",
+        "A personal finance company making consumer loans",
+        "A seller carrying back a purchase-money note at any rate"
+      ],
+      "explanation": "Licensed real estate brokers are exempt from California usury limits when arranging loans. Banks, savings associations, and credit unions are also exempt. This is why broker-arranged hard money loans can carry higher interest rates without violating usury law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "usury",
+        "exemption",
+        "broker",
+        "interest-rate"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.2",
+      "question_text": "A credit union in California makes a real estate loan at 18% interest. A borrower claims this violates the usury limit. Is the borrower correct?",
+      "correct_answer": "No, credit unions are exempt from California usury restrictions",
+      "distractors": [
+        "Yes, 18% exceeds the 10% constitutional cap for all lenders",
+        "Yes, unless the Federal Reserve rate exceeds 13%",
+        "No, but only if the loan is secured by residential property"
+      ],
+      "explanation": "Credit unions, along with banks, savings associations, and licensed brokers, are specifically exempt from California's constitutional usury interest rate limits. These institutional lenders may charge rates set by market conditions and their regulatory frameworks.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "usury",
+        "credit-union",
+        "exemption",
+        "California-law"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.2",
+      "question_text": "A private individual lends money at 12% interest, not arranged through a broker. The borrower claims usury. Which factor determines whether the rate is legal?",
+      "correct_answer": "Whether the rate exceeds California's constitutional cap",
+      "distractors": [
+        "Whether the borrower signed a usury waiver",
+        "Whether the loan is secured by commercial property",
+        "Whether the loan term exceeds five years"
+      ],
+      "explanation": "California's usury law sets a constitutional interest rate ceiling for non-exempt lenders. Private individuals lending outside the exempt categories (banks, brokers, credit unions) are subject to this cap. The rate, not the loan term or property type, determines legality.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "usury",
+        "constitutional-cap",
+        "non-exempt",
+        "California-law"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.2",
+      "question_text": "A real estate broker arranges a hard money loan for a client at 14% interest. Under California's Real Property Loan Law, what document must the broker provide to the borrower?",
+      "correct_answer": "Mortgage Loan Disclosure Statement (MLDS)",
+      "distractors": [
+        "Good Faith Estimate (GFE)",
+        "HUD-1 Settlement Statement",
+        "Affiliated Business Arrangement Disclosure"
+      ],
+      "explanation": "Under California's Real Property Loan Law (B&PC §10240+), brokers arranging real property loans must provide a Mortgage Loan Disclosure Statement (MLDS), also called the Broker Loan Statement (§10241). This discloses costs, commissions, and loan terms before commitment.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "MLDS",
+        "broker-loan",
+        "Real-Property-Loan-Law",
+        "disclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.3",
+      "question_text": "California's Real Property Loan Law (B&PC §10240+) applies to which type of lending activity?",
+      "correct_answer": "Broker-arranged loans secured by real property",
+      "distractors": [
+        "All loans made by banks and credit unions",
+        "Only purchase-money loans under $250,000",
+        "VA and FHA loans originated by licensed lenders"
+      ],
+      "explanation": "The Real Property Loan Law governs loans arranged by real estate brokers that are secured by real property. It imposes disclosure requirements (MLDS), maximum commission limits based on loan term and amount, and predatory lending protections.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Real-Property-Loan-Law",
+        "broker-loan",
+        "B&PC",
+        "disclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.3",
+      "question_text": "A broker arranges a hard money loan on a small residential property. Which factor determines the maximum commission the broker can charge under the Real Property Loan Law?",
+      "correct_answer": "The loan term and loan amount combined",
+      "distractors": [
+        "The broker's negotiated rate with the borrower",
+        "The lender's stated yield requirement",
+        "Market rates in the county where the property is located"
+      ],
+      "explanation": "Under California's Real Property Loan Law, maximum broker commissions on loans secured by real property are set by statute based on two factors: the loan term (short vs. long) and the loan amount (smaller loans have higher relative caps). Brokers cannot exceed these statutory maximums.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Real-Property-Loan-Law",
+        "broker-commission",
+        "loan-term",
+        "loan-amount"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.3",
+      "question_text": "A California borrower complains that a broker charged fees far exceeding any loan benefit. Which law is most directly designed to address this type of predatory lending concern?",
+      "correct_answer": "Real Property Loan Law (B&PC §10240+)",
+      "distractors": [
+        "California Homeowner Bill of Rights",
+        "California Financial Code §22000",
+        "Holden Act"
+      ],
+      "explanation": "California's Real Property Loan Law specifically includes consumer protections against predatory practices in broker-arranged loans, including caps on costs and commissions. It was designed to protect borrowers from excessive charges in private or hard money lending.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "Real-Property-Loan-Law",
+        "predatory-lending",
+        "consumer-protection",
+        "broker-loan"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.3",
+      "question_text": "A borrower signs an MLDS prepared by a broker before receiving any loan funds. What key information must the MLDS disclose?",
+      "correct_answer": "Broker's costs, estimated loan charges, and loan terms",
+      "distractors": [
+        "The lender's internal credit scoring model",
+        "The property's current market value appraisal",
+        "Borrower's credit score and debt-to-income ratio"
+      ],
+      "explanation": "The Mortgage Loan Disclosure Statement (MLDS) must disclose the broker's compensation, estimated costs, loan terms, and other material information about the loan. It must be delivered before the borrower commits to the loan so they can make an informed decision.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "MLDS",
+        "disclosure",
+        "broker-loan",
+        "consumer-protection"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-15.3",
+      "question_text": "A licensed California real estate broker arranges a loan at 22% for a wealthy investor's commercial project. Another broker argues this violates the usury law. Who is correct?",
+      "correct_answer": "The arranging broker is correct — licensed brokers are exempt from usury limits",
+      "distractors": [
+        "The second broker is correct — 22% exceeds the 10% cap for all loans",
+        "Neither — commercial loans have a separate 15% usury cap",
+        "The second broker is correct unless the borrower waived usury protections in writing"
+      ],
+      "explanation": "Licensed California real estate brokers are exempt from the state's constitutional usury limits. A broker can arrange a real property loan at any rate the market will support. The exemption applies regardless of loan size or property type.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "usury",
+        "broker",
+        "exemption",
+        "interest-rate"
+      ]
+    }
+  ]
+}

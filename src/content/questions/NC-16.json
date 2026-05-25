@@ -1,0 +1,308 @@
+{
+  "standard_ref": "NC-16",
+  "scope": "state",
+  "state": "NC",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NC-16.1",
+      "question_text": "A married couple purchases property in North Carolina without specifying a form of ownership. How is title presumed to be held?",
+      "correct_answer": "Tenancy by the entirety",
+      "distractors": [
+        "Joint tenancy with survivorship",
+        "Tenants in common",
+        "Community property"
+      ],
+      "explanation": "In NC, tenancy by the entirety is the default form of ownership for married couples. It includes automatic survivorship that overrides a will. Both spouses must sign to convey the property. NC is not a community property state.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tenancy_by_entirety", "married_couples", "default_ownership"]
+    },
+    {
+      "key_topic_ref": "NC-16.1",
+      "question_text": "Two business partners want joint tenancy with right of survivorship in NC. What special requirement applies?",
+      "correct_answer": "An attorney must draft exact survivorship wording",
+      "distractors": [
+        "The deed must be notarized by two witnesses",
+        "Both parties must be NC residents",
+        "Equal ownership percentages are required"
+      ],
+      "explanation": "In North Carolina, the right of survivorship is NOT automatic in joint tenancy. An attorney must draft the deed with exact survivorship language. Unlike many other states, NC also permits joint tenants to hold unequal ownership percentages.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["joint_tenancy", "survivorship", "attorney_drafting"]
+    },
+    {
+      "key_topic_ref": "NC-16.1",
+      "question_text": "Under the Connor Act, Buyer A records a deed on Tuesday. Buyer B purchased the same property first but records on Wednesday. Who prevails?",
+      "correct_answer": "Buyer A, because they recorded first",
+      "distractors": [
+        "Buyer B, because they purchased first",
+        "Buyer B, because actual notice applies",
+        "Neither, the court must decide ownership"
+      ],
+      "explanation": "The Connor Act (NCGS 47-18) establishes NC as a pure race recording statute. The first party to record wins regardless of who purchased first or who had notice. This makes prompt recording essential to protect ownership interests.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Connor_Act", "pure_race", "recording"]
+    },
+    {
+      "key_topic_ref": "NC-16.1",
+      "question_text": "A person occupies another's land openly and continuously for 15 years under color of title. Has adverse possession been achieved?",
+      "correct_answer": "Yes, the 7-year color-of-title period is met",
+      "distractors": [
+        "No, the minimum is 20 years in NC",
+        "No, NC does not recognize adverse possession",
+        "Only if the occupant paid property taxes"
+      ],
+      "explanation": "NC recognizes two adverse possession periods: 20 years for regular adverse possession and 7 years under color of title. Since this occupant has a color of title and 15 years of open, continuous possession, the 7-year threshold is well exceeded.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["adverse_possession", "color_of_title", "7_years"]
+    },
+    {
+      "key_topic_ref": "NC-16.1",
+      "question_text": "A wife wants to sell property held as tenancy by the entirety. The husband refuses to sign the deed. What is the result?",
+      "correct_answer": "The property cannot be conveyed",
+      "distractors": [
+        "The wife can sell her half interest",
+        "A court can force the sale if reasonable",
+        "The wife can convey with power of attorney"
+      ],
+      "explanation": "Tenancy by the entirety requires both spouses to sign in order to convey the property. Neither spouse can unilaterally sell, mortgage, or transfer any interest without the other's consent. This provides strong protection against one spouse acting alone.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["tenancy_by_entirety", "both_must_sign", "conveyance"]
+    },
+    {
+      "key_topic_ref": "NC-16.2",
+      "question_text": "When must the Residential Property and Owners' Association Disclosure be provided to the buyer?",
+      "correct_answer": "Before presentation of the first offer",
+      "distractors": [
+        "At the closing meeting",
+        "Within 5 days of contract acceptance",
+        "When the buyer requests an inspection"
+      ],
+      "explanation": "Under NCGS 47E, sellers of 1-4 residential units must provide the RPOADS (Residential Property and Owners' Association Disclosure Statement) before the presentation of the first offer. The Mineral, Oil, and Gas disclosure (MOG) must also be provided at the same time.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RPOADS", "disclosure", "timing"]
+    },
+    {
+      "key_topic_ref": "NC-16.2",
+      "question_text": "A seller marks 'No Representation' on all RPOADS questions. The listing broker knows the basement floods regularly. What must the broker do?",
+      "correct_answer": "Disclose the flooding to prospective buyers",
+      "distractors": [
+        "Accept the seller's responses without comment",
+        "Only disclose if the buyer asks directly",
+        "Report the seller to the Commission"
+      ],
+      "explanation": "Even when a seller marks 'No Representation' on the RPOADS, the broker must disclose known material facts to prospective buyers. The broker's independent duty to disclose is not eliminated by the seller's choice on the disclosure form.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RPOADS", "broker_disclosure", "material_facts"]
+    },
+    {
+      "key_topic_ref": "NC-16.2",
+      "question_text": "On the MOG disclosure form, which response option is NOT available for the mineral rights severance question?",
+      "correct_answer": "No Representation",
+      "distractors": [
+        "Yes",
+        "No",
+        "No knowledge of severance"
+      ],
+      "explanation": "The Mineral, Oil, and Gas Rights Mandatory Disclosure (MOG, form REC 4.25) does not allow 'No Representation' as a response for the question about mineral rights severance. This ensures sellers must take a definitive position on whether mineral rights have been separated from the property.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MOG", "mineral_rights", "disclosure"]
+    },
+    {
+      "key_topic_ref": "NC-16.2",
+      "question_text": "A broker fills out the RPOADS on behalf of a busy seller. Is this permitted?",
+      "correct_answer": "No, the broker must not complete it for the seller",
+      "distractors": [
+        "Yes, if the seller reviews and signs it",
+        "Yes, brokers routinely prepare disclosure forms",
+        "Only with written authorization from the seller"
+      ],
+      "explanation": "NC law requires the seller to complete the RPOADS personally. The broker must not fill it out on the seller's behalf, even if the seller later reviews and signs it. The disclosure reflects the seller's own knowledge and representations about the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RPOADS", "broker_prohibition", "seller_responsibility"]
+    },
+    {
+      "key_topic_ref": "NC-16.2",
+      "question_text": "A verbal agreement to sell a parcel of land is made between neighbors. One party later refuses to perform. Is the agreement enforceable?",
+      "correct_answer": "No, real estate contracts must be in writing",
+      "distractors": [
+        "Yes, verbal agreements are binding between neighbors",
+        "Yes, if a witness heard the agreement",
+        "Only if partial performance has occurred"
+      ],
+      "explanation": "Under the Statute of Frauds, all real estate contracts in NC must be in writing to be enforceable. A verbal agreement to sell land is not enforceable regardless of the relationship between parties. Similarly, leases exceeding 3 years must be in writing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute_of_frauds", "written_contract", "enforceability"]
+    },
+    {
+      "key_topic_ref": "NC-16.3",
+      "question_text": "A buyer purchases a new condominium unit directly from the developer. How many days does the buyer have to cancel?",
+      "correct_answer": "7 days",
+      "distractors": [
+        "3 days",
+        "5 days",
+        "10 days"
+      ],
+      "explanation": "Under the NC Condominium Act of 1986, buyers of new condominium units have a 7-day rescission period. This applies only to new units purchased from the developer, not to resale transactions between individual owners.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "rescission", "7_days"]
+    },
+    {
+      "key_topic_ref": "NC-16.3",
+      "question_text": "A residential construction project costs $45,000. The owner occupies the single-family home. Is a lien agent required?",
+      "correct_answer": "No, owner-occupied single-family homes are exempt",
+      "distractors": [
+        "Yes, all projects over $30,000 need a lien agent",
+        "Yes, unless the owner acts as general contractor",
+        "Only if the project involves structural changes"
+      ],
+      "explanation": "NC requires a lien agent for construction projects of $30,000 or more, but owner-occupied single-family residences are exempt from this requirement. The exemption applies regardless of the project cost.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["mechanics_lien", "lien_agent", "owner-occupied_exempt"]
+    },
+    {
+      "key_topic_ref": "NC-16.3",
+      "question_text": "A timeshare buyer signs a purchase agreement on Monday. By what day must the buyer cancel to exercise the rescission right?",
+      "correct_answer": "By Saturday (5 days after purchase)",
+      "distractors": [
+        "By Wednesday (3 days after purchase)",
+        "By the following Monday (7 days)",
+        "By Tuesday (the next business day)"
+      ],
+      "explanation": "NC timeshare buyers have a 5-day cancellation period from the date of purchase. A Monday purchase means the buyer has until Saturday to cancel. The developer must register with NCREC and provide a public offering statement before the sale.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["timeshare", "5-day_cancellation", "rescission"]
+    },
+    {
+      "key_topic_ref": "NC-16.3",
+      "question_text": "A subdivision developer wants to record the plat before streets meet local standards. Is this allowed?",
+      "correct_answer": "No, streets must meet standards before recording",
+      "distractors": [
+        "Yes, with a performance bond in place",
+        "Yes, if the developer posts a cash escrow",
+        "Only if fewer than five lots are involved"
+      ],
+      "explanation": "NC law requires that subdivision streets meet local standards before the plat can be recorded. This protects future buyers by ensuring infrastructure is complete. Local approval is required for subdivisions of 2 or more lots, and buyers should verify whether streets are public or private.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["subdivision", "street_standards", "plat_recording"]
+    },
+    {
+      "key_topic_ref": "NC-16.3",
+      "question_text": "A property owner advertises a home as having 4 bedrooms, but the septic permit is approved for only 3. What violation exists?",
+      "correct_answer": "Cannot advertise more bedrooms than the permit allows",
+      "distractors": [
+        "No violation if the rooms physically exist",
+        "A violation only if the buyer relies on the ad",
+        "Permissible if a disclaimer is included"
+      ],
+      "explanation": "In NC, a property cannot be advertised with more bedrooms than the septic permit supports. The septic system capacity determines the permitted bedroom count. Advertising a 4-bedroom home with a 3-bedroom septic permit is a violation regardless of disclaimers.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["septic_permit", "bedroom_count", "advertising"]
+    },
+    {
+      "key_topic_ref": "NC-16.4",
+      "question_text": "A manufactured home sits on a permanent foundation with wheels and axle removed. What additional step converts it to real property?",
+      "correct_answer": "Filing an affidavit with the register of deeds",
+      "distractors": [
+        "Obtaining a new certificate of occupancy",
+        "Recording a deed of trust on the land",
+        "Removing the HUD certification label"
+      ],
+      "explanation": "Converting a manufactured home to real property in NC requires three steps: placing it on a permanent foundation, removing the wheels, axle, and hitch, and filing an affidavit. The home is titled by DMV as personal property until all conversion steps are completed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["manufactured_home", "real_property_conversion", "affidavit"]
+    },
+    {
+      "key_topic_ref": "NC-16.4",
+      "question_text": "A business engages in unfair or deceptive trade practices under NCGS 75-1.1. What damages may a court award?",
+      "correct_answer": "Treble damages",
+      "distractors": [
+        "Actual damages only",
+        "Double damages",
+        "Punitive damages"
+      ],
+      "explanation": "The NC Unfair and Deceptive Trade Practices Act (UDTPA, NCGS 75-1.1) allows courts to award treble damages, meaning three times the actual damages suffered. This significant multiplier serves as a strong deterrent against deceptive business practices.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["UDTPA", "treble_damages", "unfair_practices"]
+    },
+    {
+      "key_topic_ref": "NC-16.4",
+      "question_text": "A broker reports a home's square footage as 2,400 based on the tax records. The actual measurement is 2,150. What liability exists?",
+      "correct_answer": "Square footage must be accurate if reported",
+      "distractors": [
+        "No liability since it is not a material fact",
+        "Tax records are an acceptable sole source",
+        "Only appraisers are liable for square footage"
+      ],
+      "explanation": "In NC, square footage is not classified as a material fact, but if reported it must be accurate. Measurements should be taken from the exterior and distinguish above-grade from below-grade space. Relying solely on tax records without verification creates liability.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["square_footage", "accuracy", "broker_liability"]
+    },
+    {
+      "key_topic_ref": "NC-16.4",
+      "question_text": "Under the NC Marketable Title Act, how many years of unbroken chain of title are needed for marketable title?",
+      "correct_answer": "30 years",
+      "distractors": [
+        "20 years",
+        "40 years",
+        "50 years"
+      ],
+      "explanation": "The NC Marketable Title Act provides that title is considered marketable if a 30-year unbroken chain of title exists in the public records. Interests older than 30 years may be extinguished if not re-recorded, with exceptions for government interests, recorded easements, and interests of persons in possession.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Marketable_Title_Act", "30_years", "chain_of_title"]
+    },
+    {
+      "key_topic_ref": "NC-16.4",
+      "question_text": "Townhouse communities in North Carolina are governed by which statute?",
+      "correct_answer": "The Planned Community Act, NCGS 47F",
+      "distractors": [
+        "The NC Condominium Act of 1986",
+        "The Residential Rental Agreements Act",
+        "The NC Homeowners Association Act"
+      ],
+      "explanation": "NC townhouse communities fall under the Planned Community Act (NCGS 47F), which is distinct from the NC Condominium Act that governs condominium developments. The Planned Community Act addresses governance, assessments, and owner rights specific to planned developments.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["townhouse", "Planned_Community_Act", "NCGS_47F"]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NC-11",
+  "scope": "state",
+  "state": "NC",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NC-11.1",
+      "question_text": "A buyer pays a $2,000 due diligence fee at contract execution. Where is this money held?",
+      "correct_answer": "It is paid directly to the seller",
+      "distractors": [
+        "In the listing broker's trust account",
+        "In the buyer's attorney's escrow account",
+        "In a joint account held by both agents"
+      ],
+      "explanation": "The due diligence fee is paid directly to the seller, not held in trust. This is a key distinction from earnest money, which is held by an escrow agent. The DDF compensates the seller for taking the property off the market during the due diligence period.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["due_diligence_fee", "seller", "trust_account", "DDF"]
+    },
+    {
+      "key_topic_ref": "NC-11.1",
+      "question_text": "During the due diligence period, a buyer discovers the home needs a $15,000 roof replacement. The buyer asks the seller to reduce the price. The seller refuses. What are the buyer's options?",
+      "correct_answer": "Proceed or terminate without further penalty",
+      "distractors": [
+        "Force the seller to negotiate repairs",
+        "File a complaint with NCREC for nondisclosure",
+        "Demand return of the due diligence fee"
+      ],
+      "explanation": "The seller is not obligated to negotiate repairs or extend the due diligence period. During the DDP, the buyer may terminate for any reason without penalty beyond losing the due diligence fee already paid to the seller. The buyer can proceed with the purchase as-is or walk away.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["due_diligence_period", "repairs", "seller_obligation", "termination"]
+    },
+    {
+      "key_topic_ref": "NC-11.1",
+      "question_text": "A buyer under contract is concerned about financing. The buyer's agent says there is a separate financing contingency in the NC Offer to Purchase. Is this correct?",
+      "correct_answer": "No, there is no separate financing contingency",
+      "distractors": [
+        "Yes, it is in Paragraph 8 of the OPC",
+        "Yes, but only for FHA and VA loans",
+        "No, but the appraisal contingency covers it"
+      ],
+      "explanation": "The NC Offer to Purchase and Contract does not contain separate financing or appraisal contingencies. All buyer investigations, including financing verification, should occur during the due diligence period. If the buyer cannot secure financing, they must terminate before the DDP expires or risk losing their earnest money.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["financing_contingency", "due_diligence", "OPC", "NC_contracts"]
+    },
+    {
+      "key_topic_ref": "NC-11.1",
+      "question_text": "The seller fails to comply with obligations under Paragraph 8 of the OPC. What remedies are available to the buyer?",
+      "correct_answer": "Terminate and receive refund of both EMD and DDF",
+      "distractors": [
+        "Terminate but forfeit the due diligence fee",
+        "Only receive the earnest money deposit back",
+        "Sue for specific performance only"
+      ],
+      "explanation": "When the seller fails to comply with Paragraph 8 obligations, the buyer may terminate and receive a refund of both the earnest money deposit and the due diligence fee. This is an important exception to the general rule that the DDF is nonrefundable, protecting buyers when sellers breach their contractual duties.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["paragraph_8", "seller_breach", "DDF_refund", "EMD_refund"]
+    },
+    {
+      "key_topic_ref": "NC-11.1",
+      "question_text": "A buyer waits until the last day of the due diligence period to order a home inspection. The results reveal significant issues, but the period expires the next day. What risk has the buyer created?",
+      "correct_answer": "Insufficient time to terminate without penalty",
+      "distractors": [
+        "The inspection results are invalid",
+        "The seller must extend the period automatically",
+        "The buyer can still terminate for 48 hours after"
+      ],
+      "explanation": "Buyers should perform due diligence as soon as possible after contract execution. Waiting until the last day leaves no time to evaluate findings and terminate within the DDP. Once the period expires, the buyer cannot terminate without risking their earnest money deposit.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["due_diligence_period", "timing", "inspection", "risk"]
+    },
+    {
+      "key_topic_ref": "NC-11.2",
+      "question_text": "An escrow agent holds $5,000 in earnest money. Settlement is scheduled for April 15. What is the earliest the agent may disburse the EMD to the settlement agent?",
+      "correct_answer": "April 5, ten days before settlement",
+      "distractors": [
+        "April 1, two weeks before settlement",
+        "April 15, the day of settlement only",
+        "Any time after the due diligence period ends"
+      ],
+      "explanation": "Under NC rules, earnest money may be disbursed to the settlement agent no more than 10 days prior to settlement. For an April 15 settlement, the earliest disbursement date is April 5. This ensures funds remain protected until close to the actual closing date.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["EMD", "disbursement", "10_day_rule", "settlement"]
+    },
+    {
+      "key_topic_ref": "NC-11.2",
+      "question_text": "Form 2-T is the standard NC Offer to Purchase and Contract. For which transaction type is it primarily designed?",
+      "correct_answer": "Existing single-family residences",
+      "distractors": [
+        "New construction properties",
+        "Commercial investment properties",
+        "Lease-purchase agreements"
+      ],
+      "explanation": "Form 2-T is primarily designed for existing single-family residential properties. It should not be used for lease-option, lease-purchase, or installment land contracts. New construction has its own addendum (2A3-T) that supplements the standard form.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Form_2T", "OPC", "single_family", "residential"]
+    },
+    {
+      "key_topic_ref": "NC-11.2",
+      "question_text": "Under Paragraph 10 of the OPC, how are property tax and HOA fee prorations calculated?",
+      "correct_answer": "Based on a 365-day year",
+      "distractors": [
+        "Based on a 360-day banking year",
+        "Based on a 12-month calendar year",
+        "Based on the actual days in the closing month"
+      ],
+      "explanation": "Paragraph 10 of the NC OPC specifies that prorations are calculated based on a 365-day year. This provides a standardized method for dividing expenses between buyer and seller at closing and differs from some states that use a 360-day banking year.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["prorations", "365_day", "paragraph_10", "OPC"]
+    },
+    {
+      "key_topic_ref": "NC-11.2",
+      "question_text": "A broker fills out most of Form 2-T but leaves two blanks empty and both parties sign. One party later disputes the missing terms. What problem exists?",
+      "correct_answer": "All blanks should have been completed",
+      "distractors": [
+        "Empty blanks automatically default to zero",
+        "The contract is automatically void",
+        "Only the buyer can challenge empty blanks"
+      ],
+      "explanation": "NC practice requires that all blanks in Form 2-T be filled in before execution. Leaving blanks empty creates ambiguity and potential disputes. Both parties should initial and date any changes, and the broker has a responsibility to ensure the form is complete before signatures.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Form_2T", "blanks", "complete_forms", "best_practices"]
+    },
+    {
+      "key_topic_ref": "NC-11.2",
+      "question_text": "A broker wants to use Form 2-T for a lease-purchase transaction. Is this appropriate?",
+      "correct_answer": "No, Form 2-T should not be used for this",
+      "distractors": [
+        "Yes, Form 2-T covers all residential deals",
+        "Yes, with the addition of Addendum 2A11-T",
+        "Only if the lease term is under 12 months"
+      ],
+      "explanation": "Form 2-T is designed for the sale of existing single-family residences. It should NOT be used for lease-option, lease-purchase, or installment land contracts. These transaction types require different contract forms suited to their unique legal structures.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Form_2T", "lease_purchase", "prohibited_use"]
+    },
+    {
+      "key_topic_ref": "NC-11.3",
+      "question_text": "A buyer and seller execute the OPC with an addendum that contains a provision conflicting with the main contract. Which document controls?",
+      "correct_answer": "The addendum controls over the main contract",
+      "distractors": [
+        "The main contract always takes priority",
+        "The most recently signed document controls",
+        "Both provisions are void due to the conflict"
+      ],
+      "explanation": "In NC, when an addendum conflicts with the main OPC, the addendum controls. The exceptions are provisions related to property description or party identity, where the main contract prevails. This rule ensures that specific supplemental terms override general boilerplate language.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["addendum", "conflict", "OPC", "controlling_document"]
+    },
+    {
+      "key_topic_ref": "NC-11.3",
+      "question_text": "Which addendum would a broker use when a buyer needs to take possession of a property before the closing date?",
+      "correct_answer": "Addendum 2A7-T",
+      "distractors": [
+        "Addendum 2A8-T",
+        "Addendum 2A11-T",
+        "Addendum 2A1-T"
+      ],
+      "explanation": "Addendum 2A7-T covers buyer possession before closing. Addendum 2A8-T is for seller possession after closing. Addendum 2A11-T is for additional provisions, and 2A1-T is for back-up contracts. Using the correct addendum ensures proper legal protections for early occupancy.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["addendum_2A7T", "buyer_possession", "early_occupancy"]
+    },
+    {
+      "key_topic_ref": "NC-11.3",
+      "question_text": "A listing broker includes a clause in the OPC stating the brokerage commission amount. Is this permissible?",
+      "correct_answer": "No, commission terms are prohibited in the OPC",
+      "distractors": [
+        "Yes, if both parties agree to the amount",
+        "Yes, commission must be stated in all contracts",
+        "No, but only if the amount exceeds 6 percent"
+      ],
+      "explanation": "Brokerage compensation is a prohibited provision in the NC Offer to Purchase and Contract. Commission terms should be addressed in separate listing and buyer agency agreements, not in the purchase contract between buyer and seller.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["prohibited_provisions", "commission", "OPC"]
+    },
+    {
+      "key_topic_ref": "NC-11.3",
+      "question_text": "A property is listed as a short sale. Which standard NC addendum should be attached to the offer?",
+      "correct_answer": "Addendum 2A14-T",
+      "distractors": [
+        "Addendum 2A1-T",
+        "Addendum 2A4-T",
+        "Addendum 2A11-T"
+      ],
+      "explanation": "Addendum 2A14-T is the standard short sale addendum for NC transactions. It addresses the unique requirements of short sales, including lender approval contingencies. Using the correct addendum protects both parties in these transactions where the seller's lender must agree to accept less than the outstanding loan balance.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["addendum_2A14T", "short_sale", "lender_approval"]
+    },
+    {
+      "key_topic_ref": "NC-11.3",
+      "question_text": "An addendum states the property address as 123 Oak Street, but the main OPC identifies it as 125 Oak Street. Which document controls for the property description?",
+      "correct_answer": "The main OPC controls for property identity",
+      "distractors": [
+        "The addendum always controls over the OPC",
+        "The most recent document controls",
+        "Both are void and must be re-executed"
+      ],
+      "explanation": "While addenda generally control over the main OPC in case of conflicts, there are two exceptions: property description and party identity. For these elements, the main contract prevails. This prevents accidental changes to fundamental transaction terms through supplemental documents.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["addendum", "property_description", "exception", "OPC"]
+    }
+  ]
+}

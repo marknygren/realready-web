@@ -1,0 +1,173 @@
+{
+  "standard_ref": "KS-02",
+  "scope": "state",
+  "state": "KS",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "KS-02.1",
+      "question_text": "A property owner sells their own home without using a real estate agent. Does this activity require a Kansas real estate license?",
+      "correct_answer": "No, owners selling their own property are exempt",
+      "distractors": ["Yes, all real estate sales require a license", "Only if the sale price exceeds $100,000", "Only if the property is commercial"],
+      "explanation": "Property owners dealing with their own real estate are exempt from licensing requirements. A license is required when someone lists, sells, buys, or leases real estate for another person for compensation.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "exemptions", "owner"]
+    },
+    {
+      "key_topic_ref": "KS-02.1",
+      "question_text": "An attorney negotiates a real estate transaction as part of their legal representation of a client. Is a real estate license required?",
+      "correct_answer": "No, attorneys in their practice are exempt",
+      "distractors": ["Yes, all negotiations require a license", "Only if they receive a separate commission", "Only if they are representing the buyer"],
+      "explanation": "Attorneys acting within the scope of their law practice are exempt from real estate licensing requirements. This does not extend to acting as a real estate broker outside their legal duties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "exemptions", "attorney"]
+    },
+    {
+      "key_topic_ref": "KS-02.1",
+      "question_text": "Which activity would require a Kansas real estate license?",
+      "correct_answer": "Listing properties for others for a fee",
+      "distractors": ["Selling your own residential property", "Managing your own rental apartments", "Appraising property as a licensed appraiser"],
+      "explanation": "Listing, selling, buying, or leasing real estate for others for compensation requires a Kansas real estate license. Personal property transactions and licensed appraising are exempt.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "activities", "requirements"]
+    },
+    {
+      "key_topic_ref": "KS-02.1",
+      "question_text": "A court appoints a person to manage the sale of a deceased person's property. Does this person need a real estate license?",
+      "correct_answer": "No, court-appointed fiduciaries are exempt",
+      "distractors": ["Yes, all property sales need a licensee", "Only if the estate exceeds $50,000", "Only if they charge a management fee"],
+      "explanation": "Court-appointed fiduciaries (such as executors, administrators, and trustees) acting under court authority are exempt from Kansas real estate licensing requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "exemptions", "fiduciary"]
+    },
+    {
+      "key_topic_ref": "KS-02.1",
+      "question_text": "A friend offers to help find a buyer for a neighbor's home in exchange for a $500 finder's fee. What does Kansas law require?",
+      "correct_answer": "A real estate license is required for this activity",
+      "distractors": ["No license needed for finder's fees under $1,000", "No license needed between acquaintances", "Only a referral certificate is needed"],
+      "explanation": "Any person who helps buy, sell, or lease real estate for another for compensation must hold a Kansas real estate license, regardless of the amount or relationship between parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "compensation", "unlicensed"]
+    },
+    {
+      "key_topic_ref": "KS-02.2",
+      "question_text": "How many total hours of pre-license education must a Kansas salesperson candidate complete?",
+      "correct_answer": "60 hours",
+      "distractors": ["30 hours", "90 hours", "120 hours"],
+      "explanation": "Kansas requires 60 hours of pre-license education: a 30-hour Principles of Real Estate course plus a 30-hour Kansas Practice course. Both must be KREC-approved.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "education", "pre-license"]
+    },
+    {
+      "key_topic_ref": "KS-02.2",
+      "question_text": "A candidate completes the Principles of Real Estate course in January. By when must they take the licensing exam?",
+      "correct_answer": "Within 12 months of completion",
+      "distractors": ["Within 6 months of completion", "Within 24 months of completion", "Within 90 days of completion"],
+      "explanation": "Kansas requires candidates to take the licensing exam within 12 months of completing the Principles of Real Estate course. After that, the course certificate expires.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "exam", "deadline"]
+    },
+    {
+      "key_topic_ref": "KS-02.2",
+      "question_text": "What passing score is required on each section of the Kansas real estate exam?",
+      "correct_answer": "70% on both sections separately",
+      "distractors": ["75% on both sections separately", "60% on state and 70% on national", "80% combined across both sections"],
+      "explanation": "Candidates must score at least 70% on both the national section (56/80) and the state section (21/30). Passing one section does not carry over if the other is failed.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "exam", "passing score"]
+    },
+    {
+      "key_topic_ref": "KS-02.2",
+      "question_text": "Which of the following is required as part of the Kansas salesperson license application?",
+      "correct_answer": "A background check with fingerprinting",
+      "distractors": ["Three letters of recommendation", "A minimum of one year of experience", "Completion of a post-license internship"],
+      "explanation": "Kansas requires all license applicants to undergo a background check including fingerprinting. There is no experience requirement or internship for salesperson candidates.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "background check", "fingerprint"]
+    },
+    {
+      "key_topic_ref": "KS-02.2",
+      "question_text": "The Kansas salesperson pre-license education consists of which two courses?",
+      "correct_answer": "Principles of Real Estate and Kansas Practice",
+      "distractors": ["Real Estate Law and Kansas Practice", "Principles and Real Estate Finance", "Kansas Law and Brokerage Operations"],
+      "explanation": "Kansas requires two 30-hour KREC-approved courses: Principles of Real Estate (30 hours) and Kansas Practice (30 hours), totaling 60 hours of pre-license education.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "education", "courses"]
+    },
+    {
+      "key_topic_ref": "KS-02.3",
+      "question_text": "A salesperson candidate passes the licensing exam but has not yet found a sponsoring broker. Can KREC issue the license?",
+      "correct_answer": "No, a sponsoring broker must be named first",
+      "distractors": ["Yes, the license is issued as inactive", "Yes, with a 90-day grace period to find one", "Yes, as a provisional license for six months"],
+      "explanation": "Kansas does not issue inactive salesperson licenses. A candidate must have a sponsoring broker before KREC will issue the license. This is unique to Kansas compared to some other states.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "broker affiliation", "sponsorship"]
+    },
+    {
+      "key_topic_ref": "KS-02.3",
+      "question_text": "Under Kansas law, a salesperson must perform all licensed activities under whose supervision?",
+      "correct_answer": "Their sponsoring broker",
+      "distractors": ["Any licensed Kansas broker", "The KREC Executive Director", "A designated team leader"],
+      "explanation": "A Kansas salesperson must work under the supervision of their specific sponsoring broker. All licensed activities must be conducted through and under that broker's oversight.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "supervision", "broker"]
+    },
+    {
+      "key_topic_ref": "KS-02.3",
+      "question_text": "A salesperson wants to transfer from Broker A to Broker B. What must happen regarding their license?",
+      "correct_answer": "The transfer must be reported to KREC",
+      "distractors": ["The salesperson must retake the state exam", "KREC must approve the transfer in advance", "The salesperson must complete additional CE"],
+      "explanation": "When a salesperson changes brokers, the change must be reported to KREC. The salesperson does not need to retake the exam or complete additional education for a simple broker transfer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "transfer", "broker change"]
+    },
+    {
+      "key_topic_ref": "KS-02.3",
+      "question_text": "What distinguishes Kansas from many other states regarding salesperson license status?",
+      "correct_answer": "Kansas does not allow inactive salesperson licenses",
+      "distractors": ["Kansas requires two sponsoring brokers", "Kansas issues provisional licenses first", "Kansas requires broker approval for all listings"],
+      "explanation": "Unlike many states that allow salesperson licenses to be placed on inactive status, Kansas requires an active broker affiliation before a salesperson license can be issued.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["licensing", "inactive", "Kansas unique"]
+    },
+    {
+      "key_topic_ref": "KS-02.3",
+      "question_text": "A salesperson's sponsoring broker retires and closes the brokerage. What happens to the salesperson's license?",
+      "correct_answer": "The license is deactivated until a new broker is found",
+      "distractors": ["The license is automatically revoked by KREC", "The license converts to an independent broker license", "The license remains active for a 90-day grace period"],
+      "explanation": "When a salesperson loses their broker affiliation, the license is deactivated. The salesperson must find a new sponsoring broker and notify KREC to reactivate the license.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "deactivation", "broker closure"]
+    }
+  ]
+}

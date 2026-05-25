@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MA-11",
+  "scope": "state",
+  "state": "MA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MA-11.1",
+      "question_text": "Massachusetts uses a unique two-step contract process. The first step is called:",
+      "correct_answer": "The Offer to Purchase",
+      "distractors": ["The Letter of Intent", "The Memorandum of Sale", "The Earnest Money Contract"],
+      "explanation": "Massachusetts uses a two-step process: the Offer to Purchase (or 'binder') is the initial shorter document, followed by the more detailed Purchase and Sale Agreement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "offer-to-purchase", "binder"]
+    },
+    {
+      "key_topic_ref": "MA-11.1",
+      "question_text": "A buyer and seller sign an Offer to Purchase with a $1,000 deposit. Before the P&S is signed, the buyer wants to back out. The Offer to Purchase is typically:",
+      "correct_answer": "Binding on both parties",
+      "distractors": ["Non-binding until the P&S is signed", "Binding only on the seller", "Valid only for 24 hours"],
+      "explanation": "The Offer to Purchase is typically binding and includes a deposit. While less detailed than the P&S, it creates legal obligations for both the buyer and seller.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contracts", "offer-to-purchase", "binding"]
+    },
+    {
+      "key_topic_ref": "MA-11.1",
+      "question_text": "Compared to the Purchase and Sale Agreement, the Offer to Purchase is typically:",
+      "correct_answer": "Shorter and less detailed",
+      "distractors": ["More comprehensive and longer", "Identical in length and content", "Used only for commercial properties"],
+      "explanation": "The Offer to Purchase is a shorter form containing basic terms (price, address, deposit amount, P&S deadline). The P&S that follows is the comprehensive contract with all details.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "offer-to-purchase", "comparison"]
+    },
+    {
+      "key_topic_ref": "MA-11.1",
+      "question_text": "The Offer to Purchase typically includes all of the following EXCEPT:",
+      "correct_answer": "A detailed mortgage contingency",
+      "distractors": ["The purchase price", "The deposit amount", "The deadline for the P&S"],
+      "explanation": "The Offer to Purchase contains basic terms: price, property address, deposit amount, and P&S deadline. Detailed contingencies like mortgage terms are typically addressed in the more comprehensive P&S.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "offer-to-purchase", "contents"]
+    },
+    {
+      "key_topic_ref": "MA-11.1",
+      "question_text": "After signing an Offer to Purchase, the parties typically have how long to execute the Purchase and Sale Agreement?",
+      "correct_answer": "A deadline specified in the Offer to Purchase",
+      "distractors": ["Exactly 7 business days as required by law", "30 calendar days as required by statute", "No specific deadline; the timeframe is open-ended"],
+      "explanation": "The Offer to Purchase specifies a deadline by which the P&S must be executed. This is negotiated by the parties, not set by statute.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "offer-to-purchase", "P&S-deadline"]
+    },
+    {
+      "key_topic_ref": "MA-11.2",
+      "question_text": "In Massachusetts, the Purchase and Sale Agreement is typically prepared by:",
+      "correct_answer": "An attorney",
+      "distractors": ["The listing agent", "The buyer's agent", "A title company"],
+      "explanation": "Massachusetts is an attorney state for closings. The P&S is typically prepared by attorneys, not real estate agents or title companies. This is a key distinction from many other states.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "P&S", "attorney-state"]
+    },
+    {
+      "key_topic_ref": "MA-11.2",
+      "question_text": "A buyer and seller negotiate a Purchase and Sale Agreement entirely by email but never sign a physical document. Under the Statute of Frauds, this agreement is:",
+      "correct_answer": "Potentially enforceable if properly signed electronically",
+      "distractors": ["Always void without original physical signatures", "Valid only for properties valued under $500,000", "Enforceable only for residential lease agreements"],
+      "explanation": "The Statute of Frauds requires real estate contracts to be in writing and signed. Electronic signatures can satisfy this requirement under UETA, but the agreement must still be properly executed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["contracts", "P&S", "statute-of-frauds"]
+    },
+    {
+      "key_topic_ref": "MA-11.2",
+      "question_text": "Which of the following is a common contingency in a Massachusetts Purchase and Sale Agreement?",
+      "correct_answer": "Title 5 septic system inspection",
+      "distractors": ["Roof replacement warranty", "Property tax reduction guarantee", "Seller career relocation"],
+      "explanation": "Title 5 (septic inspection) is a common and important contingency in MA, along with financing, home inspection, and appraisal contingencies. It's unique to states requiring septic compliance at transfer.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "P&S", "contingencies"]
+    },
+    {
+      "key_topic_ref": "MA-11.2",
+      "question_text": "The Purchase and Sale Agreement must comply with the Statute of Frauds, meaning it must be:",
+      "correct_answer": "In writing and signed by the parties",
+      "distractors": ["Notarized and recorded at the registry", "Reviewed and approved by a judge", "Filed with the Board of Registration"],
+      "explanation": "The Statute of Frauds requires that real estate contracts be in writing and signed by the parties to be enforceable. Notarization, recording, and court review are not required for the P&S itself.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "statute-of-frauds", "writing"]
+    },
+    {
+      "key_topic_ref": "MA-11.2",
+      "question_text": "A P&S is signed but the buyer's financing falls through before closing. If the P&S contains a financing contingency, the buyer:",
+      "correct_answer": "May withdraw and recover the deposit",
+      "distractors": ["Must still close without financing", "Forfeits the entire deposit to the seller", "Must find alternative financing within 30 days"],
+      "explanation": "A financing contingency protects the buyer if they cannot obtain a mortgage. If financing falls through through no fault of the buyer, they may typically withdraw and recover their deposit.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contracts", "contingency", "financing"]
+    },
+    {
+      "key_topic_ref": "MA-11.3",
+      "question_text": "A listing agreement in Massachusetts defines all of the following EXCEPT:",
+      "correct_answer": "The buyer's financing terms",
+      "distractors": ["The broker-seller relationship", "The commission rate and terms", "The listing duration"],
+      "explanation": "A listing agreement establishes the broker-seller relationship, commission terms, and duration. The buyer's financing terms are part of the offer and P&S, not the listing agreement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing-agreement", "contents", "broker-seller"]
+    },
+    {
+      "key_topic_ref": "MA-11.3",
+      "question_text": "A buyer agency agreement establishes the relationship between:",
+      "correct_answer": "The broker and the buyer",
+      "distractors": ["The buyer and the seller", "The broker and the seller", "The buyer and the mortgage lender"],
+      "explanation": "A buyer agency agreement establishes the broker-buyer relationship, defining the scope of representation, compensation terms, and duration. It formalizes the buyer's agent role.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer-agency", "agreement", "relationship"]
+    },
+    {
+      "key_topic_ref": "MA-11.3",
+      "question_text": "Why should listing and buyer agency agreements be in writing?",
+      "correct_answer": "To clearly state compensation terms and duties",
+      "distractors": ["Because the Board requires notarization", "Because verbal agreements are never enforceable", "To register the property with the MLS"],
+      "explanation": "Written agreements clearly state compensation terms, duration, and duties, protecting both the licensee and the client. While verbal agreements may be enforceable, written agreements prevent disputes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing-agreement", "written", "best-practice"]
+    },
+    {
+      "key_topic_ref": "MA-11.3",
+      "question_text": "A residential lease in Massachusetts must comply with which body of law?",
+      "correct_answer": "Massachusetts landlord-tenant law (MGL c.186)",
+      "distractors": ["The Condominium Act (MGL c.183A)", "Federal lease standards and guidelines only", "The Uniform Commercial Code provisions"],
+      "explanation": "Residential leases must comply with Massachusetts landlord-tenant law, including MGL Chapter 186. This covers security deposits, habitability standards, tenant protections, and eviction procedures.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lease", "landlord-tenant", "compliance"]
+    },
+    {
+      "key_topic_ref": "MA-11.3",
+      "question_text": "A commercial lease has more flexibility in terms compared to a residential lease because:",
+      "correct_answer": "Residential leases have greater statutory protections",
+      "distractors": ["Commercial tenants have no legal rights", "Commercial properties are unregulated", "The Board does not oversee commercial leases"],
+      "explanation": "Residential leases are subject to extensive statutory protections (security deposit rules, sanitary code, etc.) that limit the parties' freedom to negotiate. Commercial leases have more flexibility in terms.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["lease", "commercial", "residential"]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "standard_ref": "CO-13",
+  "scope": "state",
+  "state": "CO",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CO-13.1",
+      "question_text": "Property taxes in Colorado are paid in:",
+      "correct_answer": "Arrears",
+      "distractors": ["Advance", "Real-time monthly installments", "At the time of purchase only"],
+      "explanation": "Colorado property taxes are paid in arrears — the seller owes taxes for the period they owned the property, and these are prorated at closing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["proration", "taxes", "arrears"]
+    },
+    {
+      "key_topic_ref": "CO-13.1",
+      "question_text": "Which proration method must be specified in a Colorado purchase contract?",
+      "correct_answer": "365-day year or 30-day month",
+      "distractors": ["Only the 365-day year method", "Only the 30-day month method", "The method is always 360 days"],
+      "explanation": "Colorado allows either the 365-day year or 30-day month method. The contract must specify which method will be used for prorating taxes and other charges.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["proration", "method", "contract"]
+    },
+    {
+      "key_topic_ref": "CO-13.1",
+      "question_text": "A closing occurs on July 15. Property taxes are $3,650/year (365-day method). The seller's prorated tax share is approximately:",
+      "correct_answer": "$1,950 (195 days)",
+      "distractors": ["$1,825 (half year)", "$1,216 (4 months)", "2,190 (219 days)"],
+      "explanation": "Jan 1 to July 15 = 195 days. $3,650 / 365 = $10/day. 195 × $10 = $1,950. Since taxes are in arrears, the seller owes for the days they owned the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["proration", "calculation", "taxes"]
+    },
+    {
+      "key_topic_ref": "CO-13.1",
+      "question_text": "At closing, HOA dues are prorated. This means the:",
+      "correct_answer": "Seller and buyer each pay their share",
+      "distractors": ["Buyer pays the full month", "Seller pays the full month", "HOA waives dues for the closing month"],
+      "explanation": "HOA dues, like property taxes, are prorated between buyer and seller based on the closing date. Each pays for their portion of the period.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["proration", "HOA", "dues"]
+    },
+    {
+      "key_topic_ref": "CO-13.1",
+      "question_text": "If the contract does not specify a proration method, the parties should:",
+      "correct_answer": "Agree on a method before closing",
+      "distractors": ["Default to the 365-day method", "Default to the 30-day method", "Skip prorations entirely"],
+      "explanation": "The contract should specify the proration method. If it doesn't, the parties need to agree before closing to avoid disputes about the calculations.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["proration", "method", "agreement"]
+    },
+    {
+      "key_topic_ref": "CO-13.2",
+      "question_text": "Who typically prepares the settlement statement in a Colorado closing?",
+      "correct_answer": "The title company",
+      "distractors": ["The listing broker", "The buyer's attorney", "The county clerk"],
+      "explanation": "In Colorado, the closing entity — typically a title company — prepares the settlement statement. The brokers review it for accuracy.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "settlement-statement", "title-company"]
+    },
+    {
+      "key_topic_ref": "CO-13.2",
+      "question_text": "A broker reviews the settlement statement and notices the commission amount differs from the contract. The broker should:",
+      "correct_answer": "Bring the discrepancy to the title company's attention",
+      "distractors": ["Accept the amount shown on the statement", "Collect the difference directly from the seller", "Report the title company to the Commission"],
+      "explanation": "Brokers have a responsibility to review the settlement statement for accuracy and ensure it matches the contract terms. Discrepancies should be corrected before closing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["closing", "settlement-statement", "accuracy"]
+    },
+    {
+      "key_topic_ref": "CO-13.2",
+      "question_text": "Both the listing and selling brokers should verify that the settlement statement:",
+      "correct_answer": "Correctly reflects the contract terms",
+      "distractors": ["Matches the original MLS listing", "Includes the broker's marketing expenses", "Shows the property's tax assessment"],
+      "explanation": "Both brokers should verify that the settlement statement accurately reflects the contract terms — prorations, commissions, credits, and other agreed items.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "verification", "contract-terms"]
+    },
+    {
+      "key_topic_ref": "CO-13.2",
+      "question_text": "The closing statement shows the buyer paying a charge not in the contract. The buyer's broker should:",
+      "correct_answer": "Question the charge before closing",
+      "distractors": ["Advise the buyer to pay it and dispute later", "Ignore it as the title company's decision", "Pay it from the broker's own funds"],
+      "explanation": "The broker should question any charge not reflected in the contract before closing. Allowing unexplained charges without inquiry fails the broker's review responsibility.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["closing", "unexpected-charge", "review"]
+    },
+    {
+      "key_topic_ref": "CO-13.2",
+      "question_text": "If the settlement statement contains an error discovered after closing, the responsible party is typically the:",
+      "correct_answer": "Title company that prepared it",
+      "distractors": ["Buyer who signed it", "Listing broker who reviewed it", "County recorder's office"],
+      "explanation": "The title company that prepared the settlement statement bears primary responsibility for its accuracy, though brokers also have a duty to review.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["closing", "error", "responsibility"]
+    },
+    {
+      "key_topic_ref": "CO-13.3",
+      "question_text": "At closing, the seller is responsible for:",
+      "correct_answer": "Delivering the deed to the buyer",
+      "distractors": ["Paying the buyer's loan origination fee", "Signing the buyer's mortgage documents", "Arranging the buyer's homeowner insurance"],
+      "explanation": "The seller's key responsibilities include delivering the deed, paying agreed costs, and providing required disclosures.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "seller", "responsibilities"]
+    },
+    {
+      "key_topic_ref": "CO-13.3",
+      "question_text": "The buyer's responsibilities at closing include:",
+      "correct_answer": "Delivering funds and signing loan docs",
+      "distractors": ["Preparing the deed for transfer", "Ordering the title insurance policy", "Scheduling the document recording"],
+      "explanation": "The buyer must deliver the purchase funds and sign loan documents. The deed is prepared by the seller/title company, and recording is handled by the title company.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "buyer", "responsibilities"]
+    },
+    {
+      "key_topic_ref": "CO-13.3",
+      "question_text": "Which party is responsible for recording documents and disbursing funds at closing?",
+      "correct_answer": "The title company",
+      "distractors": ["The listing broker", "The buyer's lender", "The county assessor"],
+      "explanation": "The title company facilitates closing by recording documents with the county and disbursing funds to all parties according to the settlement statement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "title-company", "recording"]
+    },
+    {
+      "key_topic_ref": "CO-13.3",
+      "question_text": "The listing broker's role at closing includes:",
+      "correct_answer": "Verifying accuracy and document execution",
+      "distractors": ["Disbursing all funds to the seller", "Recording the deed with the county", "Approving the buyer's loan application"],
+      "explanation": "Brokers verify accuracy of the settlement statement, ensure proper document execution, and handle commission disbursement. Fund disbursement and recording are the title company's duties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "broker", "role"]
+    },
+    {
+      "key_topic_ref": "CO-13.3",
+      "question_text": "The seller fails to deliver a signed deed at closing. The closing:",
+      "correct_answer": "Cannot be completed without the deed",
+      "distractors": ["Proceeds with a verbal transfer", "Is delayed exactly 30 days by law", "Uses the listing contract as a substitute"],
+      "explanation": "The deed is the instrument that transfers property ownership. Without a properly executed deed from the seller, the closing cannot be completed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["closing", "deed", "failure"]
+    },
+    {
+      "key_topic_ref": "CO-13.4",
+      "question_text": "Which document is the security instrument recorded at closing in a Colorado financed purchase?",
+      "correct_answer": "A deed of trust",
+      "distractors": ["A mortgage", "A promissory note", "A title insurance policy"],
+      "explanation": "Colorado uses deeds of trust, not mortgages, as the security instrument. The deed of trust is recorded to secure the loan, while the promissory note is the evidence of debt.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-documents", "deed-of-trust", "security"]
+    },
+    {
+      "key_topic_ref": "CO-13.4",
+      "question_text": "Personal property included in a Colorado real estate sale is transferred by:",
+      "correct_answer": "A bill of sale",
+      "distractors": ["The warranty deed", "The deed of trust", "The title insurance policy"],
+      "explanation": "Personal property (appliances, furniture, etc.) included in the sale is transferred by a bill of sale, separate from the deed which transfers real property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-documents", "bill-of-sale", "personal-property"]
+    },
+    {
+      "key_topic_ref": "CO-13.4",
+      "question_text": "At closing, the title insurance commitment becomes the:",
+      "correct_answer": "Title insurance policy",
+      "distractors": ["Abstract of title", "Chain of title certificate", "Recorded deed"],
+      "explanation": "The title commitment is a preliminary document reviewed during due diligence. After closing and recording, it becomes the actual title insurance policy.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-documents", "title-insurance", "policy"]
+    },
+    {
+      "key_topic_ref": "CO-13.4",
+      "question_text": "Which closing document evidences the buyer's debt obligation?",
+      "correct_answer": "The promissory note",
+      "distractors": ["The deed of trust", "The warranty deed", "The settlement statement"],
+      "explanation": "The promissory note is the evidence of the debt — the buyer's promise to repay the loan. The deed of trust is the security instrument, not the debt itself.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing-documents", "promissory-note", "debt"]
+    },
+    {
+      "key_topic_ref": "CO-13.4",
+      "question_text": "A complete set of closing documents in a financed Colorado purchase includes all EXCEPT:",
+      "correct_answer": "The listing contract",
+      "distractors": ["The deed", "The settlement statement", "The deed of trust"],
+      "explanation": "Closing documents include the deed, settlement statement, title policy, loan documents, and deed of trust. The listing contract is a pre-closing document not part of the closing package.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["closing-documents", "complete-set", "identification"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OH-13",
+  "scope": "state",
+  "state": "OH",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OH-13.1",
+      "question_text": "Under ORC 5302.30, who must complete the Residential Property Disclosure Form in Ohio?",
+      "correct_answer": "The seller of residential property",
+      "distractors": ["The listing agent on the seller's behalf", "The buyer's home inspector", "The closing attorney"],
+      "explanation": "Ohio law requires the seller to complete the Residential Property Disclosure Form. The agent should not fill it out — the seller provides information about the property's condition in good faith.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-disclosure", "seller", "ORC-5302.30"]
+    },
+    {
+      "key_topic_ref": "OH-13.1",
+      "question_text": "The Ohio Residential Property Disclosure Form applies to the sale of which type of property?",
+      "correct_answer": "Residential property with 1 to 4 units",
+      "distractors": ["All property types including commercial", "Only single-family detached homes", "Properties valued above $100,000 only"],
+      "explanation": "The disclosure form is required for residential properties with 1 to 4 dwelling units. Commercial properties and larger multifamily buildings are not covered by this requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-disclosure", "1-4-units", "residential"]
+    },
+    {
+      "key_topic_ref": "OH-13.1",
+      "question_text": "When must the seller deliver the Residential Property Disclosure Form to the buyer?",
+      "correct_answer": "As soon as practicable before transfer",
+      "distractors": ["Within 10 days of listing the property", "At the time of the closing only", "Within 48 hours of receiving an offer"],
+      "explanation": "Ohio requires the disclosure to be delivered as soon as practicable before transfer of the property. Timely delivery gives the buyer an opportunity to review before closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-disclosure", "timing", "delivery"]
+    },
+    {
+      "key_topic_ref": "OH-13.1",
+      "question_text": "A buyer enters a purchase agreement but never receives the Residential Property Disclosure Form. What right does the buyer have?",
+      "correct_answer": "The buyer may rescind the contract",
+      "distractors": ["The buyer must proceed with the purchase", "The buyer can only request a price reduction", "The sale is automatically void"],
+      "explanation": "If the buyer does not receive the disclosure form, they have the right to rescind the contract. The sale is not automatically void — rescission is the buyer's option.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rescission", "property-disclosure", "buyer-right"]
+    },
+    {
+      "key_topic_ref": "OH-13.1",
+      "question_text": "A seller is unsure about the exact age of their water heater when completing the disclosure form. The seller should:",
+      "correct_answer": "Approximate in good faith and note the uncertainty",
+      "distractors": ["Leave the field blank to avoid liability", "Hire a professional to inspect the water heater", "State the water heater is new to avoid issues"],
+      "explanation": "Ohio law allows sellers to approximate unknown items in good faith when completing the disclosure. Leaving fields blank or providing false information could create liability.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["good-faith", "approximation", "disclosure"]
+    },
+    {
+      "key_topic_ref": "OH-13.2",
+      "question_text": "A bank forecloses on a property and sells it at sheriff's sale. Must the bank complete the Residential Property Disclosure Form?",
+      "correct_answer": "No, court-ordered transfers are exempt",
+      "distractors": ["Yes, all residential sales require disclosure", "Only if the property has known defects", "Only if the bank owned it for more than 6 months"],
+      "explanation": "Court-ordered transfers, including foreclosure sales, are exempt from the disclosure requirement. Other exemptions include family transfers, fiduciary transfers, and new construction.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemption", "foreclosure", "court-ordered"]
+    },
+    {
+      "key_topic_ref": "OH-13.2",
+      "question_text": "A parent transfers their home to their adult child as a gift. Is the Residential Property Disclosure Form required?",
+      "correct_answer": "No, transfers to family members are exempt",
+      "distractors": ["Yes, all residential transfers require disclosure", "Only if the home has structural defects", "Only if consideration exceeds $10,000"],
+      "explanation": "Transfers between spouses or to family members are exempt from Ohio's property disclosure requirement. The exemption recognizes the familial nature of the transfer.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemption", "family-transfer", "disclosure"]
+    },
+    {
+      "key_topic_ref": "OH-13.2",
+      "question_text": "Under ORC 4735.67, an Ohio agent learns the seller may have misrepresented the roof's condition. What is the agent's obligation?",
+      "correct_answer": "Investigate further since accuracy is in question",
+      "distractors": ["Accept the seller's word without verification", "Withdraw from the listing immediately", "Report the seller to the Division"],
+      "explanation": "While agents need not generally verify seller statements, ORC 4735.67 requires further investigation when the agent has reason to question accuracy. Suspicions trigger a duty to inquire.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["ORC-4735.67", "verification", "agent-obligation"]
+    },
+    {
+      "key_topic_ref": "OH-13.2",
+      "question_text": "A builder sells the first unit in a new condominium development. Is a Residential Property Disclosure Form required?",
+      "correct_answer": "No, first sales of condominium units are exempt",
+      "distractors": ["Yes, all residential sales require the form", "Only if the unit price exceeds $200,000", "Yes, but only for the common areas"],
+      "explanation": "First sales of condominium units (new construction by the builder) are exempt from the disclosure requirement. Subsequent resales by individual owners would require the disclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemption", "new-construction", "condominium"]
+    },
+    {
+      "key_topic_ref": "OH-13.2",
+      "question_text": "An Ohio agent notices water stains on a basement ceiling during a showing. What must the agent do?",
+      "correct_answer": "Disclose this known material fact to the buyer",
+      "distractors": ["Ignore it since it may be cosmetic", "Report only to the seller's agent", "Wait for the home inspection to reveal it"],
+      "explanation": "Agents must disclose known material facts about property condition to all parties. Visible water stains are a material condition the agent observed and must disclose to prospective buyers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material-fact", "agent-disclosure", "observation"]
+    },
+    {
+      "key_topic_ref": "OH-13.3",
+      "question_text": "Under federal law, a seller must disclose known lead-based paint hazards when selling a home built before which year?",
+      "correct_answer": "1978",
+      "distractors": ["1960", "1985", "1992"],
+      "explanation": "Federal lead-based paint disclosure requirements apply to all residential properties built before 1978. This applies in Ohio as in all states, regardless of state-specific disclosure rules.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead-paint", "1978", "federal"]
+    },
+    {
+      "key_topic_ref": "OH-13.3",
+      "question_text": "An Ohio homeowner knows their property has a buried underground storage tank from a former heating oil system. They must:",
+      "correct_answer": "Disclose this on the property disclosure form",
+      "distractors": ["Remove the tank before listing the property", "Only disclose if the tank is actively leaking", "Inform the county auditor but not the buyer"],
+      "explanation": "Underground storage tanks are a common Ohio environmental concern that must be disclosed on the Residential Property Disclosure Form. The buyer needs this information to assess risk.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["UST", "environmental", "disclosure"]
+    },
+    {
+      "key_topic_ref": "OH-13.3",
+      "question_text": "Under SB 155 (2025), a real estate wholesaler must provide a seller with a separate disclosure before entering a purchase contract. What must the disclosure state?",
+      "correct_answer": "The wholesaler intends to assign the contract for profit",
+      "distractors": ["The wholesaler is a licensed real estate agent", "The property will be resold within 30 days", "The wholesaler guarantees the minimum price"],
+      "explanation": "SB 155 requires wholesalers to disclose that they intend to assign the contract for profit, the offer may be below market value, and the seller should consult legal counsel.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SB-155", "wholesaling", "disclosure"]
+    },
+    {
+      "key_topic_ref": "OH-13.3",
+      "question_text": "If an Ohio wholesaler fails to provide the required SB 155 disclosure, the homeowner may:",
+      "correct_answer": "Cancel the contract and recover earnest money",
+      "distractors": ["Sue for triple damages in civil court", "Report the wholesaler to the Real Estate Commission", "Renegotiate the contract at a higher price"],
+      "explanation": "Under SB 155, failure to provide the disclosure gives the seller the right to cancel the contract, recover any earnest money paid, and report the violation to the Attorney General.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SB-155", "cancellation", "remedy"]
+    },
+    {
+      "key_topic_ref": "OH-13.3",
+      "question_text": "Under SB 155, a wholesaler's disclosure must inform the seller that the offer may be below what?",
+      "correct_answer": "The property's market value",
+      "distractors": ["The county's assessed tax value", "The listing price set by the seller", "The most recent appraisal amount"],
+      "explanation": "SB 155 requires wholesalers to disclose that the offer may be below market value, that the wholesaler intends to assign for profit, and that the seller should consult legal counsel.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SB-155", "wholesaling", "below-market"]
+    }
+  ]
+}

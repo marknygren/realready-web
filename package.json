@@ -1,0 +1,17 @@
+{
+  "name": "realready-web",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "sync-questions": "node scripts/sync-questions.js"
+  },
+  "dependencies": {
+    "astro": "^6.3.7"
+  }
+}

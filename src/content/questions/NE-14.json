@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NE-14",
+  "scope": "state",
+  "state": "NE",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NE-14.1",
+      "question_text": "Which of the following is a Nebraska-specific protected class not found in federal fair housing law?",
+      "correct_answer": "Marital status",
+      "distractors": [
+        "Race",
+        "Disability",
+        "Familial status"
+      ],
+      "explanation": "Nebraska extends fair housing protections beyond federal law to include marital status, age (40+), and receipt of public assistance. Race, disability, and familial status are all federal protected classes.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair_housing", "protected_classes", "Nebraska_specific"]
+    },
+    {
+      "key_topic_ref": "NE-14.1",
+      "question_text": "A landlord refuses to rent to a 45-year-old tenant solely because of the tenant's age. Under Nebraska law, is this a violation?",
+      "correct_answer": "Yes, age 40 and over is protected",
+      "distractors": [
+        "No, age is not a protected class",
+        "Only if the tenant is over 62",
+        "Only in properties with 4+ units"
+      ],
+      "explanation": "Nebraska protects individuals age 40 and older from housing discrimination. Refusing to rent to a 45-year-old based solely on age violates the Nebraska Fair Housing Act.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["age_discrimination", "protected_class", "NEOC"]
+    },
+    {
+      "key_topic_ref": "NE-14.1",
+      "question_text": "A property manager rejects all applicants receiving Section 8 housing vouchers. Under Nebraska law, is this permissible?",
+      "correct_answer": "No, public assistance is a protected class",
+      "distractors": [
+        "Yes, landlords set their own criteria",
+        "Yes, unless the property is federally funded",
+        "Only if the rejection is in writing"
+      ],
+      "explanation": "Nebraska law protects recipients of public assistance, including Section 8 vouchers, as a protected class. Blanket rejection based on voucher status is illegal discrimination.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["public_assistance", "Section_8", "discrimination"]
+    },
+    {
+      "key_topic_ref": "NE-14.1",
+      "question_text": "Which state agency administers Nebraska's fair housing laws?",
+      "correct_answer": "Nebraska Equal Opportunity Commission",
+      "distractors": [
+        "Nebraska Real Estate Commission",
+        "Nebraska Department of Housing",
+        "Nebraska Attorney General's Office"
+      ],
+      "explanation": "The Nebraska Equal Opportunity Commission (NEOC) is the state agency responsible for administering and enforcing Nebraska's fair housing laws, including investigating complaints and holding hearings.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NEOC", "fair_housing", "enforcement_agency"]
+    },
+    {
+      "key_topic_ref": "NE-14.1",
+      "question_text": "A 38-year-old applicant is denied housing because of age. Does Nebraska fair housing law protect this person?",
+      "correct_answer": "No, age protection starts at 40",
+      "distractors": [
+        "Yes, all ages are protected",
+        "Yes, anyone over 21 is protected",
+        "Only if the landlord receives HUD funds"
+      ],
+      "explanation": "Nebraska's age protection in fair housing applies only to individuals age 40 and older. A 38-year-old would not be covered by the state's age-based protections.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["age_discrimination", "protected_class", "threshold"]
+    },
+    {
+      "key_topic_ref": "NE-14.2",
+      "question_text": "An agent shows minority buyers only properties in certain neighborhoods while showing white buyers properties throughout the city. This practice is called what?",
+      "correct_answer": "Steering",
+      "distractors": [
+        "Blockbusting",
+        "Redlining",
+        "Churning"
+      ],
+      "explanation": "Steering is directing prospective buyers or renters toward or away from certain neighborhoods based on protected class characteristics. It violates both federal and Nebraska fair housing laws.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["steering", "prohibited_acts", "fair_housing"]
+    },
+    {
+      "key_topic_ref": "NE-14.2",
+      "question_text": "A landlord requires a tenant with a mobility disability to use only the back entrance. The tenant requests a front-entrance ramp. What must the landlord do?",
+      "correct_answer": "Grant the reasonable accommodation",
+      "distractors": [
+        "Deny it if the building is older",
+        "Require the tenant to pay all costs",
+        "Offer a different unit instead"
+      ],
+      "explanation": "Under both federal and Nebraska fair housing law, landlords must provide reasonable accommodations for tenants with disabilities. Restricting a disabled tenant to a back entrance is discriminatory.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["reasonable_accommodation", "disability", "landlord_duties"]
+    },
+    {
+      "key_topic_ref": "NE-14.2",
+      "question_text": "An agent tells homeowners that families of a different race are moving into the neighborhood to induce panic selling. What violation has occurred?",
+      "correct_answer": "Blockbusting",
+      "distractors": [
+        "Steering",
+        "Redlining",
+        "Discriminatory advertising"
+      ],
+      "explanation": "Blockbusting is inducing owners to sell by suggesting that persons of a particular protected class are moving into the neighborhood. This practice violates both federal and Nebraska fair housing law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["blockbusting", "prohibited_acts", "fair_housing"]
+    },
+    {
+      "key_topic_ref": "NE-14.2",
+      "question_text": "A landlord advertises a rental unit as 'perfect for young professionals, no children.' Under Nebraska law, what violation does this represent?",
+      "correct_answer": "Discriminatory advertising",
+      "distractors": [
+        "Steering based on income",
+        "Blockbusting by implication",
+        "No violation if stated as a preference"
+      ],
+      "explanation": "Familial status is a protected class under both federal and Nebraska law. Advertising that discourages families with children constitutes discriminatory advertising, a prohibited act.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["discriminatory_advertising", "familial_status", "prohibited_acts"]
+    },
+    {
+      "key_topic_ref": "NE-14.2",
+      "question_text": "A lender consistently offers higher interest rates to borrowers in predominantly Hispanic neighborhoods. This practice violates fair housing law as what?",
+      "correct_answer": "Redlining",
+      "distractors": [
+        "Steering",
+        "Blockbusting",
+        "Predatory lending only"
+      ],
+      "explanation": "Redlining is the illegal practice of denying or limiting financial services to specific neighborhoods based on racial or ethnic composition. It violates both federal and Nebraska fair housing laws.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["redlining", "lending_discrimination", "fair_housing"]
+    },
+    {
+      "key_topic_ref": "NE-14.3",
+      "question_text": "A tenant experiences housing discrimination in Nebraska. What is the deadline to file a complaint with the NEOC?",
+      "correct_answer": "Within 1 year of the act",
+      "distractors": [
+        "Within 180 calendar days",
+        "Within 6 months of the act",
+        "Within 2 years of the act"
+      ],
+      "explanation": "A person who experiences housing discrimination in Nebraska may file a complaint with the NEOC or HUD within 1 year of the discriminatory act.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NEOC", "complaint_deadline", "enforcement"]
+    },
+    {
+      "key_topic_ref": "NE-14.3",
+      "question_text": "After investigating a fair housing complaint, the NEOC finds discrimination occurred. Which remedy can the NEOC order?",
+      "correct_answer": "Cease and desist plus actual damages",
+      "distractors": [
+        "Criminal imprisonment only",
+        "License revocation only",
+        "A written apology with no penalties"
+      ],
+      "explanation": "The NEOC can issue cease and desist orders, award actual damages, and impose civil penalties when it finds housing discrimination occurred. It does not have criminal sentencing authority.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NEOC", "remedies", "enforcement", "civil_penalties"]
+    },
+    {
+      "key_topic_ref": "NE-14.3",
+      "question_text": "A homebuyer believes they were denied a loan based on race. Besides the NEOC, where else may they file a complaint?",
+      "correct_answer": "HUD",
+      "distractors": [
+        "The Nebraska Real Estate Commission",
+        "The county assessor's office",
+        "The state banking department only"
+      ],
+      "explanation": "Nebraska fair housing complaints may be filed with the NEOC or with HUD (the U.S. Department of Housing and Urban Development) within 1 year of the discriminatory act.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HUD", "complaint_filing", "enforcement"]
+    },
+    {
+      "key_topic_ref": "NE-14.3",
+      "question_text": "A landlord is found guilty of discriminatory rental practices by the NEOC. Which of the following is a possible civil penalty?",
+      "correct_answer": "Monetary fines imposed by the NEOC",
+      "distractors": [
+        "Automatic loss of property ownership",
+        "Mandatory community service hours",
+        "Criminal felony charges by the NEOC"
+      ],
+      "explanation": "The NEOC may impose civil penalties including monetary fines, cease and desist orders, and actual damages. The NEOC does not have authority to file criminal charges or seize property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["civil_penalties", "NEOC", "enforcement"]
+    },
+    {
+      "key_topic_ref": "NE-14.3",
+      "question_text": "A discrimination complaint is filed 14 months after the incident. The NEOC will most likely take what action?",
+      "correct_answer": "Dismiss the complaint as untimely",
+      "distractors": [
+        "Investigate if evidence is strong",
+        "Extend the deadline to 2 years",
+        "Forward it to a federal court"
+      ],
+      "explanation": "The filing deadline for a fair housing complaint with the NEOC or HUD is 1 year from the discriminatory act. A complaint filed at 14 months exceeds this deadline and would likely be dismissed.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["NEOC", "complaint_deadline", "timeliness"]
+    }
+  ]
+}

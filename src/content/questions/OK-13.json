@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OK-13",
+  "scope": "state",
+  "state": "OK",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OK-13.1",
+      "question_text": "In Oklahoma, is a real estate license required to manage property for others?",
+      "correct_answer": "Yes, if done for compensation",
+      "distractors": ["No, property management is unregulated", "Only for commercial properties", "Only if managing 10+ units"],
+      "explanation": "Oklahoma requires a real estate license to manage property for others for compensation. Exemptions exist for owners managing their own property and certain on-site managers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "license", "required"]
+    },
+    {
+      "key_topic_ref": "OK-13.1",
+      "question_text": "A property owner hires a full-time on-site manager for their apartment complex. Does the manager need a real estate license?",
+      "correct_answer": "No, certain on-site managers are exempt",
+      "distractors": ["Yes, all property managers need a license", "Only if the complex has 50+ units", "Only if the manager collects rent"],
+      "explanation": "Certain on-site managers are exempt from licensing requirements. The exemption also covers owners managing their own property directly.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "exemption", "on-site"]
+    },
+    {
+      "key_topic_ref": "OK-13.1",
+      "question_text": "An investor asks a friend to manage their rental properties for a monthly fee. Does the friend need a license?",
+      "correct_answer": "Yes, managing for compensation requires a license",
+      "distractors": ["No, friends are exempt from licensing", "Only if managing more than 3 properties", "Not if the fee is under $500 per month"],
+      "explanation": "Managing property for others for compensation requires a real estate license regardless of the relationship between the parties. The friend would need to work under a licensed broker.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "license", "compensation"]
+    },
+    {
+      "key_topic_ref": "OK-13.1",
+      "question_text": "A landlord manages their own 20-unit apartment building. Do they need a real estate license?",
+      "correct_answer": "No, owners managing their own property are exempt",
+      "distractors": ["Yes, buildings over 10 units require a license", "Yes, all rental property managers need a license", "Only if they charge tenants a management fee"],
+      "explanation": "Property owners managing their own property are exempt from real estate licensing requirements, regardless of the number of units they own and manage.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "owner", "exempt"]
+    },
+    {
+      "key_topic_ref": "OK-13.1",
+      "question_text": "Which of the following persons must hold a real estate license in Oklahoma?",
+      "correct_answer": "A company hired to manage rentals for investors",
+      "distractors": ["An owner managing their own rental house", "An on-site apartment manager", "A tenant collecting rent for a co-tenant"],
+      "explanation": "A company managing property for others for compensation needs a real estate license. Owners managing their own property and certain on-site managers are exempt.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["property management", "license", "required"]
+    },
+    {
+      "key_topic_ref": "OK-13.2",
+      "question_text": "An Oklahoma property management agreement must be in what form?",
+      "correct_answer": "Written",
+      "distractors": ["Verbal is acceptable", "Either written or verbal", "Notarized and recorded"],
+      "explanation": "Property management agreements must be in writing. They must specify the services to be provided, compensation, duration, and trust account handling procedures.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PM agreement", "written", "requirement"]
+    },
+    {
+      "key_topic_ref": "OK-13.2",
+      "question_text": "A property management agreement must specify all of the following EXCEPT:",
+      "correct_answer": "The manager's personal commission split",
+      "distractors": ["Services to be provided", "Duration of the agreement", "Trust account handling procedures"],
+      "explanation": "PM agreements must specify services, compensation, duration, and trust account handling. Internal commission splits between the broker and their associates are not required in the PM agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["PM agreement", "contents", "required"]
+    },
+    {
+      "key_topic_ref": "OK-13.2",
+      "question_text": "A property manager collects rent and security deposits. Where must these funds be maintained?",
+      "correct_answer": "In the broker's trust account",
+      "distractors": ["In the property manager's personal account", "In the property owner's bank account", "In any account chosen by the manager"],
+      "explanation": "Rent and security deposits collected by a property manager must be held in the broker's trust account. The broker must maintain separate trust accounts for tenant deposits and rent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PM agreement", "trust account", "funds"]
+    },
+    {
+      "key_topic_ref": "OK-13.2",
+      "question_text": "An owner asks a property manager to start work immediately under a verbal agreement. What should the manager do?",
+      "correct_answer": "Obtain a written agreement before starting",
+      "distractors": ["Begin work and formalize later", "Start work if the owner emails confirmation", "Begin work with a handshake agreement"],
+      "explanation": "Property management agreements must be in writing. The manager should insist on executing a written agreement specifying services, compensation, and trust account procedures before starting work.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PM agreement", "written", "before starting"]
+    },
+    {
+      "key_topic_ref": "OK-13.2",
+      "question_text": "A PM agreement expires but the manager continues collecting rent. What is the risk?",
+      "correct_answer": "Operating without a valid written agreement",
+      "distractors": ["No risk if the owner is satisfied", "The manager becomes the owner's agent", "Only a risk if OREC audits the account"],
+      "explanation": "A PM agreement must be in writing and current. Operating without a valid agreement puts the manager at regulatory risk and may not properly define duties and trust account obligations.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PM agreement", "expired", "risk"]
+    },
+    {
+      "key_topic_ref": "OK-13.3",
+      "question_text": "Does the BRA apply to property management brokerage services?",
+      "correct_answer": "Yes, all BRA duties and disclosures apply",
+      "distractors": ["No, the BRA only covers sales transactions", "Only confidentiality duties apply to PM", "Only if the PM also handles sales"],
+      "explanation": "The BRA applies to all brokerage services, including property management. The same duties to all parties and to the party served apply when managing rental properties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["BRA", "property management", "applies"]
+    },
+    {
+      "key_topic_ref": "OK-13.3",
+      "question_text": "A property manager serves both the landlord and a tenant in a lease transaction. What BRA requirement applies?",
+      "correct_answer": "Written disclosure to both before signing the lease",
+      "distractors": ["No disclosure needed for lease transactions", "Only verbal disclosure to the tenant", "Written disclosure to the landlord only"],
+      "explanation": "The BRA's requirement for written disclosure when serving both parties applies to lease transactions just as it does to sales. Both the landlord and tenant must receive written notice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["BRA", "property management", "both parties"]
+    },
+    {
+      "key_topic_ref": "OK-13.3",
+      "question_text": "Where must tenant security deposits be held when collected by a property manager?",
+      "correct_answer": "In an escrow account at a federally insured institution",
+      "distractors": ["In the property manager's operating account", "In the property owner's personal account", "In any account designated by the tenant"],
+      "explanation": "Tenant security deposits must be held in escrow accounts at federally insured institutions in Oklahoma, in compliance with both the Landlord-Tenant Act and trust account requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "security deposit", "escrow"]
+    },
+    {
+      "key_topic_ref": "OK-13.3",
+      "question_text": "A property manager providing brokerage services to a landlord owes which duties to a prospective tenant?",
+      "correct_answer": "Honesty, skill/care, and confidentiality",
+      "distractors": ["No duties to prospective tenants", "Full fiduciary duties to all parties", "Only a duty not to discriminate"],
+      "explanation": "Under the BRA, mandatory duties to ALL parties include honesty, reasonable skill/care, presenting offers, maintaining confidentiality, and compliance with laws. These apply even to the other party.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["BRA", "property management", "duties"]
+    },
+    {
+      "key_topic_ref": "OK-13.3",
+      "question_text": "A tenant confides their maximum rent budget to the property manager, who is serving the landlord. May the manager share this with the landlord?",
+      "correct_answer": "No, this is confidential information",
+      "distractors": ["Yes, the manager serves the landlord", "Yes, if it helps negotiate the lease", "Only with the tenant's verbal permission"],
+      "explanation": "The BRA duty of confidentiality applies to ALL parties, including tenants. The tenant's financial information shared in confidence cannot be disclosed even to the party being served.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["BRA", "property management", "confidentiality"]
+    }
+  ]
+}

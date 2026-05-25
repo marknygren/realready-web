@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NC-13",
+  "scope": "state",
+  "state": "NC",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NC-13.1",
+      "question_text": "Under the NC Good Funds Act, when may settlement funds be disbursed?",
+      "correct_answer": "After the deed and deed of trust are recorded",
+      "distractors": [
+        "At the settlement meeting itself",
+        "When the buyer signs all documents",
+        "Once the lender wires the loan amount"
+      ],
+      "explanation": "The NC Good Funds Act requires that the deed and deed of trust be recorded before any disbursement of funds. Funds cannot be disbursed at the settlement meeting. This protects parties by ensuring proper recording before money changes hands.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Good_Funds_Act", "disbursement", "recording"]
+    },
+    {
+      "key_topic_ref": "NC-13.1",
+      "question_text": "A nonlawyer assistant conducts a closing meeting while the supervising attorney is at another office. Which action is permitted?",
+      "correct_answer": "Identifying documents and showing where to sign",
+      "distractors": [
+        "Giving legal advice about contract terms",
+        "Negotiating changes to the purchase price",
+        "Interpreting deed restrictions for the buyer"
+      ],
+      "explanation": "In North Carolina, a nonlawyer under attorney supervision may conduct the closing meeting without the attorney physically present. Permitted tasks include identifying documents, showing where to sign, and writing disbursement checks. Giving legal advice or interpreting legal provisions is not permitted.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["nonlawyer", "closing_meeting", "attorney_supervision"]
+    },
+    {
+      "key_topic_ref": "NC-13.1",
+      "question_text": "In most North Carolina residential closings, who selects the settlement agent?",
+      "correct_answer": "The buyer",
+      "distractors": [
+        "The seller",
+        "The listing broker",
+        "The lender"
+      ],
+      "explanation": "In North Carolina, the settlement agent is typically selected by the buyer to represent the buyer and lender. Most NC closings must be conducted or supervised by an attorney, distinguishing the state from many others where title companies handle closings.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["settlement_agent", "buyer", "attorney"]
+    },
+    {
+      "key_topic_ref": "NC-13.1",
+      "question_text": "A seller asks the nonlawyer closing assistant to explain the legal effect of a subordination clause. How should the assistant respond?",
+      "correct_answer": "Refer the seller to the supervising attorney",
+      "distractors": [
+        "Read the clause aloud and offer an opinion",
+        "Explain the clause based on training materials",
+        "Skip the clause and proceed with signing"
+      ],
+      "explanation": "Nonlawyers may identify documents and show where to sign, but interpreting or explaining legal provisions constitutes practicing law. The assistant must refer legal questions to the supervising attorney to avoid unauthorized practice of law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["nonlawyer", "unauthorized_practice", "legal_advice"]
+    },
+    {
+      "key_topic_ref": "NC-13.1",
+      "question_text": "A lender requests that disbursement checks be issued during the closing meeting. Which statement best describes the legal requirement?",
+      "correct_answer": "Disbursement is prohibited until recording occurs",
+      "distractors": [
+        "Disbursement is allowed if the lender approves",
+        "Only the seller's proceeds may be disbursed early",
+        "Checks may be issued but not cashed until recording"
+      ],
+      "explanation": "Under the NC Good Funds Act, no disbursement of settlement funds may occur at the closing meeting. The deed and deed of trust must first be recorded. Even lender approval does not override this statutory requirement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Good_Funds_Act", "disbursement", "recording", "lender"]
+    },
+    {
+      "key_topic_ref": "NC-13.2",
+      "question_text": "A broker reviews the settlement statement and notices the excise tax was calculated incorrectly. What must the broker do?",
+      "correct_answer": "Notify all parties of the error immediately",
+      "distractors": [
+        "Correct it personally without informing others",
+        "Wait until after closing to raise the issue",
+        "Report the error only to the Commission"
+      ],
+      "explanation": "NC brokers must review the settlement statement for accuracy and notify all parties of any errors found. Failing to deliver an accurate statement or ignoring discovered errors subjects the broker to disciplinary action by the NC Real Estate Commission.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker_responsibility", "settlement_statement", "errors"]
+    },
+    {
+      "key_topic_ref": "NC-13.2",
+      "question_text": "Which item must a broker verify is correctly shown on the settlement statement even if it was paid before closing?",
+      "correct_answer": "POC items paid outside closing",
+      "distractors": [
+        "Only credits listed on the buyer side",
+        "Only the loan amount and interest rate",
+        "Items the lender has already approved"
+      ],
+      "explanation": "POC (paid outside closing) items must still be entered on the settlement statement even though they were paid separately. The broker is responsible for verifying all entries including debits, credits, prorations, escrow reserves, interim interest, and excise tax.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["POC", "settlement_statement", "broker_review"]
+    },
+    {
+      "key_topic_ref": "NC-13.2",
+      "question_text": "A broker fails to review the settlement statement and a proration error costs the buyer $1,200. What consequence does the broker face?",
+      "correct_answer": "Disciplinary action by the Commission",
+      "distractors": [
+        "No consequence if the attorney approved it",
+        "Only a written warning for a first offense",
+        "Liability limited to the closing attorney"
+      ],
+      "explanation": "Brokers are subject to disciplinary action for failing to deliver an accurate settlement statement. The broker's duty to review for accuracy exists independently of the closing attorney's role. Proration errors, calculation mistakes, and missing entries all fall within the broker's verification responsibility.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["broker_responsibility", "disciplinary_action", "prorations"]
+    },
+    {
+      "key_topic_ref": "NC-13.2",
+      "question_text": "Which of the following is the broker required to verify on the settlement statement?",
+      "correct_answer": "Escrow reserves and interim interest",
+      "distractors": [
+        "Only the purchase price and loan amount",
+        "Only items the broker personally negotiated",
+        "Only the commission amount owed to the broker"
+      ],
+      "explanation": "NC brokers must verify all aspects of the settlement statement including debits, credits, calculations, prorations, escrow reserves, interim interest, and excise tax. The review obligation extends well beyond just the items the broker personally handled.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker_responsibility", "escrow", "interim_interest"]
+    },
+    {
+      "key_topic_ref": "NC-13.2",
+      "question_text": "A listing broker notices the settlement statement omits the seller's home warranty credit. The closing is tomorrow. What should the broker do?",
+      "correct_answer": "Notify all parties and request correction",
+      "distractors": [
+        "Proceed and resolve the credit after closing",
+        "Only inform the seller privately",
+        "File a complaint with the Commission"
+      ],
+      "explanation": "The broker must notify all parties of errors found during the settlement statement review. Waiting until after closing or informing only one party does not fulfill the broker's obligation. Prompt correction protects all parties and keeps the broker in compliance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker_responsibility", "settlement_statement", "correction"]
+    },
+    {
+      "key_topic_ref": "NC-13.3",
+      "question_text": "Under TRID rules, when must the Closing Disclosure be delivered to the borrower?",
+      "correct_answer": "At least 3 business days before settlement",
+      "distractors": [
+        "At the settlement meeting itself",
+        "At least 7 business days before settlement",
+        "Within 24 hours of the loan commitment"
+      ],
+      "explanation": "TRID requires the Closing Disclosure be provided to the borrower at least 3 business days before the settlement date. This waiting period allows the borrower to review final loan terms and costs. The 7-business-day requirement applies to the Loan Estimate, not the Closing Disclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TRID", "Closing_Disclosure", "timing"]
+    },
+    {
+      "key_topic_ref": "NC-13.3",
+      "question_text": "A buyer asks to bring a personal check for the balance due at closing. What should the settlement agent advise?",
+      "correct_answer": "Personal checks are generally unacceptable",
+      "distractors": [
+        "Personal checks are fine for any amount",
+        "Only amounts under $5,000 may be personal checks",
+        "Personal checks are accepted with two forms of ID"
+      ],
+      "explanation": "In North Carolina closings, cash and personal checks are generally unacceptable. Buyers must bring certified funds such as a cashier's check or arrange a wire transfer. This requirement ensures that funds are immediately available and reduces the risk of returned checks.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["certified_funds", "personal_check", "settlement"]
+    },
+    {
+      "key_topic_ref": "NC-13.3",
+      "question_text": "When must the earnest money deposit be transferred to the settlement agent before closing?",
+      "correct_answer": "No more than 10 days before settlement",
+      "distractors": [
+        "At least 30 days before settlement",
+        "On the day of the settlement meeting",
+        "Within 3 business days of contract acceptance"
+      ],
+      "explanation": "The earnest money deposit must be transferred to the settlement agent no more than 10 days before the settlement date. This ensures the funds are available for closing while not tying them up too far in advance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest_money", "settlement_agent", "timing"]
+    },
+    {
+      "key_topic_ref": "NC-13.3",
+      "question_text": "After a closing in North Carolina, the attorney discovers a previously unrecorded lien. When is the lien cancellation typically resolved?",
+      "correct_answer": "30 to 60 days after closing",
+      "distractors": [
+        "Before the deed is recorded",
+        "At the closing meeting itself",
+        "Within 5 business days of discovery"
+      ],
+      "explanation": "Post-closing procedures include a title search update and addressing any discovered issues. Lien cancellations typically take 30 to 60 days after closing to resolve. Since no disbursement occurs at the meeting itself, post-closing title work is a standard part of the NC closing process.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["post-closing", "lien_cancellation", "title_update"]
+    },
+    {
+      "key_topic_ref": "NC-13.3",
+      "question_text": "A buyer's Closing Disclosure is delivered on Monday. Settlement is scheduled for Wednesday. The buyer wants to proceed without delay. What is the result?",
+      "correct_answer": "Settlement must be postponed to meet the 3-day rule",
+      "distractors": [
+        "The buyer may waive the waiting period",
+        "Settlement can proceed with lender approval",
+        "Only a bona fide emergency allows early closing"
+      ],
+      "explanation": "TRID requires at least 3 business days between Closing Disclosure delivery and settlement. Monday delivery with Wednesday closing provides only 2 business days. The settlement must be postponed. A bona fide financial emergency waiver exists but applies only in very narrow circumstances, not buyer convenience.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["TRID", "Closing_Disclosure", "waiting_period"]
+    }
+  ]
+}

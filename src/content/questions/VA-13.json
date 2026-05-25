@@ -1,0 +1,173 @@
+{
+  "standard_ref": "VA-13",
+  "scope": "state",
+  "state": "VA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "VA-13.1",
+      "question_text": "In Virginia, at what percentage of fair market value are most properties assessed for tax purposes?",
+      "correct_answer": "100% of fair market value",
+      "distractors": ["80% of fair market value", "90% of fair market value", "75% of fair market value"],
+      "explanation": "Most Virginia localities assess property at 100% of fair market value. The tax rate is then applied per $100 of assessed value to determine the annual tax bill.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "assessment", "fair-market-value"]
+    },
+    {
+      "key_topic_ref": "VA-13.1",
+      "question_text": "Virginia is unique nationally because its independent cities are separate from which level of government for tax purposes?",
+      "correct_answer": "Counties",
+      "distractors": ["State government", "Federal tax districts", "Regional planning boards"],
+      "explanation": "Virginia is the only state where independent cities are completely separate from counties. These cities assess and collect their own property taxes independently of any surrounding county.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "independent-cities", "virginia-unique"]
+    },
+    {
+      "key_topic_ref": "VA-13.1",
+      "question_text": "A 68-year-old disabled veteran on a fixed income asks about property tax relief. Which Virginia program may apply?",
+      "correct_answer": "Elderly and disabled tax relief program",
+      "distractors": ["Federal homestead exemption", "State sales tax credit program", "Military housing allowance offset"],
+      "explanation": "Virginia offers property tax relief for residents aged 65+ and the disabled, subject to local income and net worth limits. Disabled veterans may also qualify for separate exemptions from property tax.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-tax", "elderly-relief", "disabled-veteran"]
+    },
+    {
+      "key_topic_ref": "VA-13.1",
+      "question_text": "A Virginia county reassesses property every four years. A homeowner's assessed value doubles. When does the new tax apply?",
+      "correct_answer": "Starting the next tax year after reassessment",
+      "distractors": ["Immediately upon notice of reassessment", "Only when the property is sold", "After a mandatory two-year phase-in"],
+      "explanation": "Virginia reassessment schedules vary by locality, ranging from annually to every 2-4 years. Once reassessment is complete, the new assessed value takes effect for the next tax year.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-tax", "reassessment", "tax-cycle"]
+    },
+    {
+      "key_topic_ref": "VA-13.1",
+      "question_text": "How are Virginia property tax rates typically expressed?",
+      "correct_answer": "Dollars per $100 of assessed value",
+      "distractors": ["Percentage of sale price", "Mills per $1,000 of assessed value", "Flat fee per property parcel"],
+      "explanation": "Virginia property tax rates are stated as a dollar amount per $100 of assessed value. For example, a rate of $1.10 per $100 on a $300,000 property yields $3,300 in annual taxes.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "tax-rate", "calculation"]
+    },
+    {
+      "key_topic_ref": "VA-13.2",
+      "question_text": "A Virginia home sells for $400,000. What is the base grantor's tax?",
+      "correct_answer": "$400",
+      "distractors": ["$200", "$800", "$2,000"],
+      "explanation": "Virginia's grantor's tax is $1.00 per $1,000 of consideration ($0.50 per $500). On a $400,000 sale: $400,000 / $1,000 x $1.00 = $400.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["grantors-tax", "transfer-tax", "calculation"]
+    },
+    {
+      "key_topic_ref": "VA-13.2",
+      "question_text": "Which party is typically responsible for paying Virginia's grantor's tax?",
+      "correct_answer": "The seller or grantor",
+      "distractors": ["The buyer or grantee", "Both parties equally", "The settlement agent"],
+      "explanation": "The grantor's tax is paid by the seller (grantor) at settlement. It is calculated at $0.50 per $500 of consideration, equivalent to $1.00 per $1,000 of the sale price.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["grantors-tax", "seller-responsibility", "closing"]
+    },
+    {
+      "key_topic_ref": "VA-13.2",
+      "question_text": "A property in Northern Virginia sells for $600,000. How much is the regional grantor's tax addition?",
+      "correct_answer": "$600",
+      "distractors": ["$60", "$300", "$6,000"],
+      "explanation": "Northern Virginia adds $0.10 per $100 of consideration to the base grantor's tax. On $600,000: $600,000 / $100 x $0.10 = $600. This is in addition to the base state grantor's tax.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["grantors-tax", "northern-virginia", "regional-addition"]
+    },
+    {
+      "key_topic_ref": "VA-13.2",
+      "question_text": "A husband deeds his home solely to his wife. What grantor's tax applies to this transfer?",
+      "correct_answer": "The transfer is exempt from grantor's tax",
+      "distractors": ["Standard rate of $1.00 per $1,000", "Half the standard rate applies", "Only the regional addition applies"],
+      "explanation": "Transfers between spouses are exempt from Virginia's grantor's tax. Other common exemptions include transfers to government entities and certain trust transfers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["grantors-tax", "exemptions", "spouse-transfer"]
+    },
+    {
+      "key_topic_ref": "VA-13.2",
+      "question_text": "Which Hampton Roads localities impose an additional grantor's tax of $0.06 per $100?",
+      "correct_answer": "Certain cities and counties in Hampton Roads",
+      "distractors": ["All Virginia Beach resort districts", "Only Norfolk and Newport News", "Every locality south of Richmond"],
+      "explanation": "The Hampton Roads region imposes an additional grantor's tax of $0.06 per $100 of consideration. This regional surcharge funds transportation improvements in the Hampton Roads area.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["grantors-tax", "hampton-roads", "regional-tax"]
+    },
+    {
+      "key_topic_ref": "VA-13.3",
+      "question_text": "Virginia's recordation tax on deeds is calculated at what rate?",
+      "correct_answer": "$0.25 per $100 of consideration",
+      "distractors": ["$0.50 per $500 of consideration", "$1.00 per $1,000 of consideration", "$0.10 per $100 of consideration"],
+      "explanation": "Virginia charges a recordation tax of $0.25 per $100 of consideration on deeds. This is separate from the grantor's tax and is typically paid by the buyer at settlement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recordation-tax", "deed-recording", "rate"]
+    },
+    {
+      "key_topic_ref": "VA-13.3",
+      "question_text": "Which party typically pays the recordation tax on a deed in Virginia?",
+      "correct_answer": "The buyer",
+      "distractors": ["The seller", "Both parties equally", "The title company"],
+      "explanation": "In Virginia, the recordation tax on deeds is typically paid by the buyer, while the grantor's tax is paid by the seller. These are two separate transfer-related taxes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recordation-tax", "buyer-responsibility", "closing-costs"]
+    },
+    {
+      "key_topic_ref": "VA-13.3",
+      "question_text": "A buyer purchases a home for $350,000. What is the recordation tax on the deed?",
+      "correct_answer": "$875",
+      "distractors": ["$350", "$700", "$1,750"],
+      "explanation": "The recordation tax on deeds is $0.25 per $100 of consideration. On $350,000: $350,000 / $100 x $0.25 = $875. This is separate from the grantor's tax paid by the seller.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recordation-tax", "calculation", "deed"]
+    },
+    {
+      "key_topic_ref": "VA-13.3",
+      "question_text": "How does Virginia's recordation tax differ from the grantor's tax?",
+      "correct_answer": "Different rates and typically different paying parties",
+      "distractors": ["They are the same tax with two names", "Recordation tax applies only to refinances", "Grantor's tax is a federal requirement"],
+      "explanation": "The recordation tax ($0.25 per $100, typically paid by the buyer) and grantor's tax ($0.50 per $500, paid by the seller) are two separate Virginia transfer taxes with different rates and responsible parties.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recordation-tax", "grantors-tax", "comparison"]
+    },
+    {
+      "key_topic_ref": "VA-13.3",
+      "question_text": "A deed of trust is recorded in Virginia. Which tax applies to this instrument?",
+      "correct_answer": "Recordation tax at the applicable rate",
+      "distractors": ["Grantor's tax only", "No tax on deeds of trust", "Federal mortgage recording fee"],
+      "explanation": "Deeds of trust are subject to Virginia's recordation tax, though the rate may vary from the standard deed rate. The grantor's tax applies to conveyance deeds, not deeds of trust.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recordation-tax", "deed-of-trust", "recording"]
+    }
+  ]
+}

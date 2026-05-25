@@ -1,0 +1,228 @@
+{
+  "standard_ref": "OK-10",
+  "scope": "state",
+  "state": "OK",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "OK-10.1",
+      "question_text": "Under Oklahoma's RPCDA, when is a seller required to provide a property disclosure statement?",
+      "correct_answer": "When the seller has occupied the property",
+      "distractors": ["For all residential property sales", "Only for properties over 10 years old", "Only when requested by the buyer"],
+      "explanation": "Oklahoma's two-track system requires a disclosure statement when the seller has occupied the property. The disclosure covers appliances, systems, structural components, and condition.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "RPCDA", "occupied"]
+    },
+    {
+      "key_topic_ref": "OK-10.1",
+      "question_text": "When must the seller provide the disclosure statement to the buyer?",
+      "correct_answer": "Before the seller signs the contract",
+      "distractors": ["Within 5 days after contract execution", "At the closing of the transaction", "Within 10 days of listing the property"],
+      "explanation": "The disclosure statement must be completed and provided before the seller signs the contract. This ensures buyers have condition information before the seller is bound.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "timing", "contract"]
+    },
+    {
+      "key_topic_ref": "OK-10.1",
+      "question_text": "A seller lived in the home for 5 years and is now selling. What must they provide?",
+      "correct_answer": "A property condition disclosure statement",
+      "distractors": ["A property disclaimer statement", "Either a disclosure or disclaimer at their choice", "No disclosure is required in Oklahoma"],
+      "explanation": "Since the seller occupied the property, they must provide a disclosure statement. The disclaimer option is only available when the seller has NEVER occupied the property.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "occupied", "required"]
+    },
+    {
+      "key_topic_ref": "OK-10.1",
+      "question_text": "The Oklahoma disclosure statement covers which categories of property information?",
+      "correct_answer": "Appliances, systems, and structural components",
+      "distractors": ["Only structural defects and water damage", "Only items visible during a walkthrough", "Only issues discovered in the last 5 years"],
+      "explanation": "The disclosure statement is comprehensive, covering appliances, systems (plumbing, electrical, HVAC), structural components, and the general condition of the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "coverage", "components"]
+    },
+    {
+      "key_topic_ref": "OK-10.1",
+      "question_text": "An investor who lived in the property for 2 months before converting it to a rental is selling. What disclosure is required?",
+      "correct_answer": "A property condition disclosure statement",
+      "distractors": ["A disclaimer statement since it was a rental", "No disclosure since occupation was brief", "Either form at the seller's discretion"],
+      "explanation": "Any period of seller occupation triggers the disclosure statement requirement. The disclaimer option is only for sellers who have NEVER occupied the property.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "occupation", "investor"]
+    },
+    {
+      "key_topic_ref": "OK-10.2",
+      "question_text": "When may an Oklahoma seller use a disclaimer statement instead of a disclosure?",
+      "correct_answer": "Never occupied and no knowledge of defects",
+      "distractors": ["Whenever the seller prefers not to disclose", "For any property sold in as-is condition", "When the property is less than 5 years old"],
+      "explanation": "The disclaimer option is available ONLY when the seller has never occupied the property AND has no actual knowledge of any defect. Both conditions must be met.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclaimer", "requirements", "never occupied"]
+    },
+    {
+      "key_topic_ref": "OK-10.2",
+      "question_text": "A disclaimer statement must be dated within what timeframe of receipt by the buyer?",
+      "correct_answer": "180 days",
+      "distractors": ["90 days", "365 days", "30 days"],
+      "explanation": "The disclaimer statement must be dated within 180 days of receipt by the buyer. If older, a new disclaimer must be prepared.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclaimer", "180 days", "validity"]
+    },
+    {
+      "key_topic_ref": "OK-10.2",
+      "question_text": "An estate executor is selling an inherited property they never lived in. However, the previous owner told them the roof leaks. What form should they use?",
+      "correct_answer": "A disclosure statement due to known defects",
+      "distractors": ["A disclaimer since they never occupied it", "Either form chosen at their discretion", "No disclosure needed for estate sales"],
+      "explanation": "Even though the seller never occupied, they have actual knowledge of a defect (the leaking roof). The disclaimer requires NO knowledge of defects, so a disclosure statement is needed. Note: fiduciary transfers may be exempt, but knowledge of defects generally triggers disclosure.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disclaimer", "knowledge", "defect"]
+    },
+    {
+      "key_topic_ref": "OK-10.2",
+      "question_text": "What does an Oklahoma disclaimer statement represent?",
+      "correct_answer": "The seller makes no representations about condition",
+      "distractors": ["The seller guarantees no major defects exist", "The property has been professionally inspected", "The seller accepts liability for hidden defects"],
+      "explanation": "A disclaimer statement states that the seller makes no representations about the property's condition. It is available only when the seller never occupied and has no knowledge of defects.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclaimer", "no representations", "meaning"]
+    },
+    {
+      "key_topic_ref": "OK-10.2",
+      "question_text": "A bank is selling a foreclosed property it never occupied and has no knowledge of defects. The bank may use:",
+      "correct_answer": "A disclaimer statement",
+      "distractors": ["A full disclosure statement only", "No form is needed for bank sales", "A combined disclosure-disclaimer form"],
+      "explanation": "As a non-occupant seller with no knowledge of defects, the bank qualifies for a disclaimer statement. However, foreclosure sales may also be exempt from the RPCDA entirely.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclaimer", "bank", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "OK-10.3",
+      "question_text": "Under the RPCDA, must an Oklahoma licensee independently inspect a property's condition?",
+      "correct_answer": "No, no independent inspection duty exists",
+      "distractors": ["Yes, a visual inspection is required", "Yes, for properties over 20 years old", "Only if the seller uses a disclaimer"],
+      "explanation": "Oklahoma licensees are NOT required to independently inspect or verify property conditions. However, they must disclose material facts they actually know about.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensee duties", "inspection", "no duty"]
+    },
+    {
+      "key_topic_ref": "OK-10.3",
+      "question_text": "A licensee knows that a home's basement floods during heavy rain. The seller's disclosure does not mention it. What should the licensee do?",
+      "correct_answer": "Disclose the known material fact to the buyer",
+      "distractors": ["Stay silent since the seller omitted it", "Only disclose if the buyer specifically asks", "Report the seller to OREC immediately"],
+      "explanation": "While licensees have no duty to independently inspect, they MUST disclose material facts they actually know. A flooding basement is a material fact that must be disclosed regardless of what the seller reports.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensee duties", "material fact", "disclosure"]
+    },
+    {
+      "key_topic_ref": "OK-10.3",
+      "question_text": "A home was the site of a homicide two years ago. Must the licensee disclose this to buyers?",
+      "correct_answer": "No, no duty to disclose such events",
+      "distractors": ["Yes, all material facts must be disclosed", "Only if the buyer asks about it directly", "Only for events within the past year"],
+      "explanation": "Oklahoma law provides that there is no duty to disclose deaths, suicides, homicides, felonies, or that a prior occupant had HIV/AIDS. Licensees cannot be held liable for not disclosing such facts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["psychologically impacted", "homicide", "no duty"]
+    },
+    {
+      "key_topic_ref": "OK-10.3",
+      "question_text": "A buyer asks if anyone has died in the house. The licensee knows there was a natural death. What should the licensee say?",
+      "correct_answer": "They have no legal duty to disclose the death",
+      "distractors": ["They must disclose since asked directly", "They must confirm and provide details", "They should refer the question to OREC"],
+      "explanation": "Oklahoma's psychologically impacted property provision means licensees have no duty to disclose deaths (including natural, suicide, or homicide) or that a prior occupant had a disease.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["psychologically impacted", "death", "direct question"]
+    },
+    {
+      "key_topic_ref": "OK-10.3",
+      "question_text": "What is the licensee's primary disclosure obligation regarding a seller's property condition?",
+      "correct_answer": "Advise the seller of their disclosure obligation",
+      "distractors": ["Complete the disclosure form for the seller", "Independently verify all seller statements", "Obtain a professional inspection report"],
+      "explanation": "Licensees must advise sellers of their obligation to complete either a disclosure or disclaimer statement. The licensee does not complete the form or verify the seller's answers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensee duties", "advise", "seller"]
+    },
+    {
+      "key_topic_ref": "OK-10.4",
+      "question_text": "Which of the following transfers is exempt from Oklahoma's RPCDA disclosure requirements?",
+      "correct_answer": "A foreclosure sale",
+      "distractors": ["A sale by a longtime owner-occupant", "A sale by a real estate investor", "A sale of a property built in 2020"],
+      "explanation": "Foreclosure sales are exempt from RPCDA. Other exemptions include court-ordered transfers, fiduciary transfers, co-owner transfers, family transfers, government transfers, and new construction.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exemptions", "foreclosure", "RPCDA"]
+    },
+    {
+      "key_topic_ref": "OK-10.4",
+      "question_text": "A buyer discovers undisclosed water damage 18 months after closing. Under the RPCDA, can they take legal action?",
+      "correct_answer": "Yes, the statute of limitations is 2 years",
+      "distractors": ["No, the deadline is 1 year after closing", "Only if they file within 6 months", "Yes, but only through OREC, not court"],
+      "explanation": "Harmed parties have 2 years after closing to bring a lawsuit for RPCDA disclosure violations. At 18 months, this buyer is still within the statute of limitations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute of limitations", "2 years", "lawsuit"]
+    },
+    {
+      "key_topic_ref": "OK-10.4",
+      "question_text": "A divorcing couple's property is transferred by court order. Is a property disclosure required?",
+      "correct_answer": "No, court-ordered transfers are exempt",
+      "distractors": ["Yes, all transfers require disclosure", "Only if children are involved", "Only if the transfer is to a non-spouse"],
+      "explanation": "Court-ordered transfers (including divorce, partition, and eminent domain) are exempt from RPCDA disclosure requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "court-ordered", "divorce"]
+    },
+    {
+      "key_topic_ref": "OK-10.4",
+      "question_text": "A newly constructed home that has never been occupied is being sold. Is a disclosure statement required?",
+      "correct_answer": "No, new unoccupied construction is exempt",
+      "distractors": ["Yes, all residential sales require disclosure", "Only if the builder is the seller", "Only for homes over 2,000 square feet"],
+      "explanation": "Newly constructed, unoccupied dwellings are exempt from RPCDA disclosure requirements. The builder may have separate warranty obligations but not the RPCDA disclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "new construction", "unoccupied"]
+    },
+    {
+      "key_topic_ref": "OK-10.4",
+      "question_text": "A buyer discovers a disclosure violation 3 years after closing. What is the result under the RPCDA?",
+      "correct_answer": "The claim is barred by the 2-year limit",
+      "distractors": ["They may still file within 5 years", "OREC can extend the filing deadline", "They may file if damages exceed $10,000"],
+      "explanation": "The RPCDA's 2-year statute of limitations runs from the closing date. At 3 years, the buyer's claim is time-barred regardless of when they discovered the issue.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute of limitations", "expired", "barred"]
+    }
+  ]
+}

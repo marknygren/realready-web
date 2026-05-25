@@ -1,0 +1,496 @@
+{
+  "standard_ref": "N-03",
+  "scope": "national",
+  "state": null,
+  "category": "real_property",
+  "questions": [
+    {
+      "key_topic_ref": "N-03.1",
+      "question_text": "A property description reads: 'Beginning at the iron pin at the intersection of Oak Street and Elm Avenue, thence North 45° East 200 feet, thence South 90° East 150 feet...' This is an example of which type of legal description?",
+      "correct_answer": "Metes and bounds",
+      "distractors": [
+        "Rectangular (government) survey",
+        "Lot and block",
+        "Informal street address description"
+      ],
+      "explanation": "Metes and bounds is the oldest legal description method. It describes a parcel by tracing its boundaries starting from a point of beginning (POB), then traveling in specific compass directions (bounds) for measured distances (metes), and returning to the starting point. It is commonly used in states that were settled before the rectangular survey system was established (primarily the original 13 colonies and states along the East Coast).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "legal_descriptions",
+        "metes_and_bounds"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.1",
+      "question_text": "A valid metes and bounds description MUST:",
+      "correct_answer": "Return to the point of beginning to form a closed boundary",
+      "distractors": [
+        "Reference a township, range, and section number from the survey grid",
+        "Be accompanied by a recorded subdivision plat map of the parcel",
+        "Include the street address and the county assessor parcel number"
+      ],
+      "explanation": "A metes and bounds description must form a closed figure — it must begin at a clearly identified point of beginning (POB) and return to that same point. If the boundary lines do not close, the description is defective. The POB is typically tied to a permanent monument (iron pin, concrete marker, or natural landmark). Township/range/section references belong to the rectangular survey system; recorded plats belong to lot and block descriptions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "legal_descriptions",
+        "metes_and_bounds",
+        "point_of_beginning"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.2",
+      "question_text": "In the rectangular (government) survey system, what is the size of one section?",
+      "correct_answer": "One square mile (640 acres)",
+      "distractors": [
+        "Six square miles (3,840 acres)",
+        "One-quarter square mile (160 acres)",
+        "One hundred acres"
+      ],
+      "explanation": "The rectangular survey system divides land into townships (6 miles × 6 miles = 36 square miles), which are further divided into 36 sections. Each section is 1 square mile = 640 acres. Sections are numbered 1–36 within a township, with Section 1 in the northeast corner. Common exam fact: a quarter-section is 160 acres; a quarter-quarter section is 40 acres.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "legal_descriptions",
+        "rectangular_survey",
+        "sections",
+        "acreage"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.2",
+      "question_text": "A property is described as 'the NW¼ of the SW¼ of Section 12, Township 3 North, Range 2 East.' How many acres does this parcel contain?",
+      "correct_answer": "40 acres",
+      "distractors": [
+        "160 acres",
+        "80 acres",
+        "10 acres"
+      ],
+      "explanation": "In the rectangular survey system, a section = 640 acres. Each quarter-section = 160 acres (640 ÷ 4). The SW¼ of Section 12 = 160 acres. The NW¼ of that quarter = 40 acres (160 ÷ 4). A useful shortcut: multiply the denominators in the description fractions. Here: ¼ × ¼ = 1/16 of 640 acres = 40 acres.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "legal_descriptions",
+        "rectangular_survey",
+        "acreage_calculation",
+        "math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.2",
+      "question_text": "In the rectangular survey system, township lines run in which direction?",
+      "correct_answer": "East-west, measuring north and south of a baseline",
+      "distractors": [
+        "North-south, measuring east and west of a principal meridian",
+        "Diagonally, following natural geographic features",
+        "East-west and north-south simultaneously, forming a grid"
+      ],
+      "explanation": "The rectangular survey system uses two sets of reference lines. Township lines run east-west and are numbered north or south of a baseline. Range lines run north-south and are numbered east or west of a principal meridian. Together they create a grid: a specific township is identified by its township number (north/south) and range number (east/west), e.g., 'Township 3 North, Range 2 East.'",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "legal_descriptions",
+        "rectangular_survey",
+        "township_range"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.3",
+      "question_text": "A buyer's purchase contract describes the property as 'Lot 14, Block 3, Sunset Hills Subdivision, as recorded in Plat Book 22, Page 18, County Records.' This is an example of which legal description method?",
+      "correct_answer": "Lot and block (recorded plat)",
+      "distractors": [
+        "Metes and bounds",
+        "Rectangular (government) survey",
+        "Informal reference description"
+      ],
+      "explanation": "The lot and block method (also called the recorded plat or subdivision method) is used for subdivided land. A developer records a subdivision plat map with the county, assigning numbers to each lot and block. Properties are then described by lot number, block number, subdivision name, and the plat book and page reference. This is the most common method used in residential subdivisions throughout the United States.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "legal_descriptions",
+        "lot_and_block",
+        "recorded_plat",
+        "subdivision"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.4",
+      "question_text": "A buyer discovers after closing that the neighbor's fence encroaches 18 inches onto the purchased property. This issue would MOST likely have been identified by:",
+      "correct_answer": "A survey",
+      "distractors": [
+        "A title search",
+        "A home inspection",
+        "The appraisal"
+      ],
+      "explanation": "A survey physically measures and maps the property boundaries, locates improvements, and identifies encroachments. It would reveal that the neighbor's fence crosses the boundary line. A title search reviews recorded documents for ownership and lien issues but does not reveal physical boundary encroachments. A home inspection evaluates the condition of the structures, not boundary lines. An appraisal estimates value. Buyers should always obtain a survey to identify potential boundary issues before closing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "surveys",
+        "encroachments",
+        "boundary_issues"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.5",
+      "question_text": "A deed uses the phrase 'the old Johnson farm, bounded by Miller Creek to the north.' Why is this description problematic as the SOLE legal description?",
+      "correct_answer": "It is imprecise and may become ambiguous over time",
+      "distractors": [
+        "Deeds must always use the rectangular survey system to be valid",
+        "Creek boundaries are only valid in metes and bounds states",
+        "Informal property names are prohibited by the Statute of Frauds"
+      ],
+      "explanation": "Informal references (street addresses, nicknames, natural landmarks) are unreliable as sole legal descriptions because they can become ambiguous over time. Creek beds shift, colloquial names change, and street addresses can be renumbered. A valid legal description must be sufficiently precise to locate and identify the parcel with certainty — today and decades from now. Informal references may supplement but should never replace a formal legal description (metes and bounds, rectangular survey, or lot and block).",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "legal_descriptions",
+        "informal_references",
+        "validity"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.4",
+      "question_text": "Which of the following statements about surveys is MOST accurate?",
+      "correct_answer": "It establishes boundaries and may reveal unrecorded issues",
+      "distractors": [
+        "It guarantees the marketability of title to the property",
+        "It is only required when purchasing vacant, unimproved land",
+        "Federal law requires lenders to order a survey before closing"
+      ],
+      "explanation": "A survey is a physical measurement of the land by a licensed surveyor that locates boundary lines, identifies improvements, and may reveal issues (encroachments, easements visible on the ground, lot size discrepancies) that title searches miss because they involve physical reality rather than recorded documents. Surveys do not guarantee title — that is the function of title insurance. Surveys are often required by lenders for improved residential properties. Federal law does not mandate surveys; requirements vary by lender and state.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "surveys",
+        "title",
+        "due_diligence"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.1",
+      "question_text": "In a metes and bounds description, a 'monument' refers to:",
+      "correct_answer": "A fixed reference point like an iron pin or stone marker",
+      "distractors": [
+        "A government-approved survey map filed with the county recorder",
+        "The total distance measured along one boundary line",
+        "A written legal document attached to the deed describing boundaries"
+      ],
+      "explanation": "Monuments are physical objects used as reference points in metes and bounds descriptions — they can be natural (trees, rocks, streams) or artificial (iron pins, concrete markers, stakes). When a conflict arises between the distances stated in a description and the location of monuments, courts generally give priority to the monuments over the stated distances. This is because monuments are physical evidence, while distance measurements may contain errors.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "legal_descriptions",
+        "metes_and_bounds",
+        "monuments"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.1",
+      "question_text": "A metes and bounds description states a boundary runs '200 feet to the old oak tree,' but a survey measures the actual distance as 210 feet. In resolving this conflict, a court will MOST likely:",
+      "correct_answer": "Rely on the monument (oak tree) over the stated distance",
+      "distractors": [
+        "Rely on the stated distance and ignore the monument entirely",
+        "Declare the legal description invalid and void the deed",
+        "Split the difference and place the boundary at 205 feet"
+      ],
+      "explanation": "Courts follow a well-established priority for resolving conflicts in metes and bounds descriptions: (1) natural monuments, (2) artificial monuments, (3) courses (directions), (4) distances, (5) quantity (acreage). Monuments take priority over distances because physical markers are more reliable than measurements, which can contain errors. The description is not invalidated — the court simply applies the priority rules to resolve the ambiguity.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "metes_and_bounds",
+        "monuments",
+        "conflicts",
+        "court_priority"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.1",
+      "question_text": "In a metes and bounds description, the term 'metes' refers to distance measurements, while 'bounds' refers to:",
+      "correct_answer": "The compass directions or boundaries of the parcel",
+      "distractors": [
+        "The total acreage enclosed within the property lines",
+        "The physical markers placed at each corner of the parcel",
+        "The recording reference for the deed in public records"
+      ],
+      "explanation": "In the metes and bounds system, 'metes' are the measured distances (e.g., '200 feet') and 'bounds' are the compass directions or boundary references (e.g., 'North 45° East' or 'along the north bank of Miller Creek'). Together, they trace the perimeter of a parcel from the point of beginning back to the same starting point. Understanding this distinction helps in reading and interpreting older property descriptions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "metes_and_bounds",
+        "definitions",
+        "legal_descriptions"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.2",
+      "question_text": "A township in the rectangular survey system contains how many sections?",
+      "correct_answer": "36 sections",
+      "distractors": [
+        "12 sections",
+        "24 sections",
+        "64 sections"
+      ],
+      "explanation": "A township is a 6-mile by 6-mile square (36 square miles), divided into 36 sections. Each section is 1 square mile (640 acres). Sections are numbered 1 through 36 in a serpentine pattern starting in the northeast corner. Section 16 was historically reserved for school purposes in many states. Knowing this grid system is essential for reading legal descriptions in western and midwestern states.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "rectangular_survey",
+        "townships",
+        "sections"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.2",
+      "question_text": "A farmer wants to sell 'the S½ of the NE¼ of Section 10.' A buyer asks how many acres are included. The correct answer is:",
+      "correct_answer": "80 acres",
+      "distractors": [
+        "40 acres",
+        "160 acres",
+        "320 acres"
+      ],
+      "explanation": "Start with a full section: 640 acres. The NE¼ = 640 ÷ 4 = 160 acres. The S½ of 160 acres = 160 ÷ 2 = 80 acres. Shortcut: multiply the fractions — ½ × ¼ = ⅛ of 640 = 80 acres. This calculation is a very common exam question. Always start from the full section and work inward through each division in the description.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "rectangular_survey",
+        "acreage_calculation",
+        "math",
+        "sections"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.3",
+      "question_text": "Before a developer can use the lot and block method to describe individual parcels in a new subdivision, the developer must first:",
+      "correct_answer": "Record a subdivision plat map assigning lot and block numbers",
+      "distractors": [
+        "Obtain a metes and bounds description for each individual lot",
+        "Register the subdivision with the federal rectangular survey office",
+        "Have an appraiser assign assessed values to each lot"
+      ],
+      "explanation": "The lot and block system depends on a recorded plat map. The developer creates a subdivision plat — a detailed map showing streets, lot dimensions, easements, and block layouts — and records it in the county's official records. Once recorded, each lot can be legally described by referencing its lot number, block number, subdivision name, and the plat book recording information. Without the recorded plat, lot and block descriptions have no legal basis.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "lot_and_block",
+        "subdivision",
+        "plat_map",
+        "recording"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.3",
+      "question_text": "A title company discovers that a subdivision plat map references were misprinted in a deed, listing Plat Book 22 when the correct reference is Plat Book 32. This error affects:",
+      "correct_answer": "Locating the lot on the correct recorded map, potentially clouding title",
+      "distractors": [
+        "The physical boundaries, which must now be entirely re-surveyed",
+        "The ownership, which automatically reverts to the original developer",
+        "The zoning classification, requiring a new variance application"
+      ],
+      "explanation": "Lot and block descriptions derive their validity from the recorded plat map. An incorrect plat book reference makes it difficult to verify which lot is being described, creating a cloud on title. The physical boundaries haven't changed — only the paper reference is wrong. This can typically be corrected through a correction deed or court action (reformation). It does not change ownership or zoning, but it does create a title issue that must be resolved.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "lot_and_block",
+        "title_issues",
+        "plat_reference",
+        "errors"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.3",
+      "question_text": "The lot and block method of legal description is MOST commonly used for:",
+      "correct_answer": "Properties within residential subdivisions",
+      "distractors": [
+        "Large agricultural parcels in rural areas",
+        "Undeveloped government land in western states",
+        "Waterfront properties bounded by rivers or lakes"
+      ],
+      "explanation": "The lot and block method is the standard description method for subdivided land — residential subdivisions, planned communities, and commercial developments where a developer has recorded a plat map. Rural agricultural land is typically described using the rectangular survey or metes and bounds. Government land uses the rectangular survey. Waterfront properties often use metes and bounds with natural boundary references.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "lot_and_block",
+        "subdivision",
+        "residential",
+        "usage"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.3",
+      "question_text": "A recorded subdivision plat typically includes all of the following EXCEPT:",
+      "correct_answer": "The appraised value of each individual lot",
+      "distractors": [
+        "The dimensions and boundaries of each lot",
+        "The location of streets, roads, and easements",
+        "The block and lot numbering for the subdivision"
+      ],
+      "explanation": "A subdivision plat is a map showing physical layout — lot dimensions, block numbers, street locations, utility easements, setback lines, and common areas. It does not include financial information such as appraised values. Lot values fluctuate with market conditions and are determined by appraisals, not platting. The plat's purpose is to establish the legal framework for describing and locating each parcel within the subdivision.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "lot_and_block",
+        "plat_map",
+        "subdivision",
+        "contents"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.4",
+      "question_text": "An encroachment is BEST defined as:",
+      "correct_answer": "An unauthorized physical intrusion onto an adjoining property",
+      "distractors": [
+        "A legal right to use another's land for a limited purpose",
+        "A government restriction on how land may be developed or used",
+        "A financial claim or lien recorded against a property's title"
+      ],
+      "explanation": "An encroachment is the physical intrusion of a building, fence, driveway, or other improvement onto a neighboring property without permission. It differs from an easement (a legal right to use land), a zoning restriction (government land use control), or a lien (financial claim). Encroachments are discovered through surveys and can be resolved through removal, legal action, or negotiated easement agreements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "encroachments",
+        "definitions",
+        "boundary_issues"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.4",
+      "question_text": "A survey reveals that a neighbor's garage extends two feet onto the property being purchased. Which of the following is a potential remedy for this encroachment?",
+      "correct_answer": "Negotiate an easement agreement or require removal before closing",
+      "distractors": [
+        "The encroachment is automatically legalized when the buyer takes title",
+        "The title insurer must pay to have the garage moved",
+        "The buyer must accept the encroachment since it predates the sale"
+      ],
+      "explanation": "Encroachments discovered before closing give the buyer leverage to negotiate. Common remedies include requiring removal, granting a written easement, adjusting the purchase price, or requesting the seller resolve it before closing. Encroachments are not automatically legalized by a sale. Standard title insurance policies often exclude known survey issues. Buyers are not required to accept encroachments — they can make resolution a condition of closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "encroachments",
+        "remedies",
+        "buyer_options",
+        "surveys"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.4",
+      "question_text": "A homeowner builds a shed that unknowingly extends onto the neighboring lot. Over many years, if the neighbor takes no action, the shed owner might eventually gain legal rights to that strip of land through:",
+      "correct_answer": "Adverse possession, if all statutory requirements are met",
+      "distractors": [
+        "Prescriptive zoning, which grants automatic rights after ten years",
+        "Constructive annexation, which converts the shed into a shared fixture",
+        "Equitable conversion, which transfers title based on improvements made"
+      ],
+      "explanation": "If an encroachment continues for the statutory period and meets all requirements of adverse possession (open, continuous, exclusive, adverse/hostile, and notorious — OCEAN), the encroaching party may gain legal title to the encroached land. This is one reason why property owners should monitor their boundaries and address encroachments promptly. Prescriptive zoning and constructive annexation are not real legal concepts. Equitable conversion relates to contract rights, not encroachments.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "encroachments",
+        "adverse_possession",
+        "boundary_disputes"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.5",
+      "question_text": "Which of the following property descriptions would be considered legally INSUFFICIENT for use in a deed?",
+      "correct_answer": "The white house on the corner of Main and First Street",
+      "distractors": [
+        "Lot 7, Block 2, Riverside Addition, Plat Book 14, Page 6",
+        "The NE¼ of Section 8, Township 2 North, Range 4 East",
+        "Beginning at the iron pin, thence South 200 feet to creek"
+      ],
+      "explanation": "A street address or informal description ('the white house on the corner') is legally insufficient for a deed because it lacks the precision needed to uniquely identify the parcel. Houses can be repainted, streets renamed, and corners can have multiple structures. A valid legal description must identify the property with enough certainty that a surveyor could locate it. The other three options use recognized legal description methods.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "legal_descriptions",
+        "informal_references",
+        "validity",
+        "deeds"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.5",
+      "question_text": "A deed contains the description 'all of Seller's property in Washington County.' A court reviewing this deed would MOST likely find the description:",
+      "correct_answer": "Inadequate, because it fails to identify a specific parcel",
+      "distractors": [
+        "Adequate, because it references a specific county for recording",
+        "Adequate, because the seller's identity plus county name suffices",
+        "Invalid, because all deeds must use the rectangular survey system"
+      ],
+      "explanation": "This description is ambiguous — if the seller owns multiple parcels in Washington County, the deed does not identify which parcel(s) are being transferred. A court may attempt to resolve the ambiguity through extrinsic evidence (parol evidence), but the description itself is inadequate. If the seller owns only one parcel in the county, a court might uphold it. The best practice is always to use a precise legal description to avoid disputes and title issues.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "legal_descriptions",
+        "informal_references",
+        "ambiguity",
+        "courts"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.5",
+      "question_text": "A buyer signs a purchase contract that describes the property only by its street address. The buyer later asks for a more precise legal description. The buyer's concern is justified because:",
+      "correct_answer": "Street addresses can change and may not identify precise boundaries",
+      "distractors": [
+        "Street addresses are prohibited in contracts by the Statute of Frauds",
+        "Only licensed surveyors may describe property in purchase contracts",
+        "Lenders refuse to process loans described by street address alone"
+      ],
+      "explanation": "While a street address may be sufficient for a purchase contract in some jurisdictions (courts may allow extrinsic evidence to identify the parcel), it is not ideal for title transfer. Street addresses can be changed by municipalities, may not correspond to legal boundary lines, and could describe multiple parcels. The deed should always contain a formal legal description. Contracts often use a street address plus a legal description. The Statute of Frauds requires a writing but does not specify the description method.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "legal_descriptions",
+        "street_address",
+        "contracts",
+        "title_transfer"
+      ]
+    },
+    {
+      "key_topic_ref": "N-03.5",
+      "question_text": "When a legal description in a deed is found to be ambiguous or defective, the appropriate legal remedy to correct it is typically:",
+      "correct_answer": "Reformation, where a court corrects the deed to match intent",
+      "distractors": [
+        "A quiet title action establishing ownership against all claimants",
+        "A partition action dividing the disputed property between parties",
+        "An escheat proceeding transferring the property to the state"
+      ],
+      "explanation": "Reformation is the equitable remedy used to correct mistakes in legal documents — including deeds with defective legal descriptions — when both parties agree on what was intended. The court reforms (rewrites) the deed to match the original intent. A quiet title action resolves ownership disputes. Partition divides co-owned property. Escheat is the government's reversion right when an owner dies without heirs. Understanding these distinctions is important for the exam.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "legal_descriptions",
+        "reformation",
+        "defective_descriptions",
+        "remedies"
+      ]
+    }
+  ]
+}

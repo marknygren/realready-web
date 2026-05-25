@@ -1,0 +1,593 @@
+{
+  "standard_ref": "N-12",
+  "scope": "national",
+  "state": null,
+  "category": "contracts_agency",
+  "questions": [
+    {
+      "key_topic_ref": "N-12.1",
+      "question_text": "A purchase contract was signed under fraudulent misrepresentation by the seller. This contract is BEST classified as:",
+      "correct_answer": "Voidable",
+      "distractors": [
+        "Void",
+        "Unenforceable",
+        "Valid"
+      ],
+      "explanation": "A voidable contract is one that is valid and enforceable until the injured party elects to cancel it. Fraud, misrepresentation, duress, undue influence, and minority all produce voidable (not void) contracts. The injured party has a choice: rescind (cancel and restore original positions) or affirm (proceed with the transaction, potentially seeking damages). A void contract, by contrast, has no legal effect from the start and cannot be ratified — contracts with illegal subject matter or no consideration are void. The distinction is critical: only the aggrieved party can void a voidable contract.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "void",
+        "voidable",
+        "unenforceable",
+        "fraud",
+        "contract_status"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.1",
+      "question_text": "An oral agreement to purchase a home is:",
+      "correct_answer": "Unenforceable",
+      "distractors": [
+        "Void",
+        "Voidable",
+        "Valid and enforceable if both parties can prove the terms in court"
+      ],
+      "explanation": "An unenforceable contract is one that is otherwise valid but cannot be enforced in court due to a procedural defect — most commonly, failure to satisfy the Statute of Frauds' writing requirement. The agreement itself is not void (it reflects genuine intent) and it is not voidable (no party's personal right to cancel it). The parties simply cannot get a court to enforce it. This means if one party voluntarily performs, the other cannot be forced to reciprocate through the courts. The Statute of Frauds writing requirement applies to real estate sales contracts, leases over one year, and listing agreements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "unenforceable",
+        "statute_of_frauds",
+        "oral_contract",
+        "writing_requirement"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.2",
+      "question_text": "A buyer and seller mutually agree to cancel a signed purchase contract before closing and return the earnest money to the buyer. This is an example of:",
+      "correct_answer": "Mutual rescission",
+      "distractors": [
+        "Novation",
+        "Assignment",
+        "Accord and satisfaction"
+      ],
+      "explanation": "Mutual rescission is a discharge by agreement — both parties agree to cancel the contract and return to their pre-contract positions (the buyer gets their earnest money back, the seller is free to re-list). Because the original contract was bilateral (both parties made promises), it takes mutual agreement to undo it. Unilateral rescission (by one party) requires a legal justification such as fraud, breach, or a contract contingency. Novation substitutes a new party; assignment transfers one party's rights without releasing them from liability; accord and satisfaction resolves an existing dispute with substitute performance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "mutual_rescission",
+        "discharge",
+        "contract_termination"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.3",
+      "question_text": "A seller calls their agent two weeks before closing to say they've changed their mind and won't be selling. This is an example of:",
+      "correct_answer": "Anticipatory breach",
+      "distractors": [
+        "Mutual rescission",
+        "A material breach",
+        "Constructive fraud"
+      ],
+      "explanation": "Anticipatory breach (also called anticipatory repudiation) occurs when one party clearly communicates before the performance date that they will not fulfill their contractual obligations. The non-breaching party does not have to wait until the breach date — they may immediately treat the contract as breached and pursue remedies: sue for damages, seek specific performance, or rescind. An anticipatory breach is not a mutual rescission (which requires both parties' agreement). A material breach is an actual failure to perform when performance was due.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "anticipatory_breach",
+        "breach_of_contract",
+        "repudiation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.4",
+      "question_text": "A buyer breaches a purchase contract. The seller wants to force the buyer to complete the purchase rather than accept monetary damages. The seller would seek:",
+      "correct_answer": "Specific performance",
+      "distractors": [
+        "Compensatory damages",
+        "Liquidated damages",
+        "Rescission"
+      ],
+      "explanation": "Specific performance is an equitable remedy available in real estate because each parcel of land is unique — money damages may not adequately compensate a seller who loses a particular sale. Courts can order the breaching buyer to complete the purchase. In practice, sellers more often pursue liquidated damages (retaining the earnest money as the agreed-upon remedy for buyer default) because it is faster and simpler. Compensatory damages seek to make the non-breaching party financially whole. Rescission unwinds the contract. The right remedy depends on the contract's liquidated damages clause and the seller's practical goals.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "specific_performance",
+        "breach_remedies",
+        "liquidated_damages",
+        "rescission"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.4",
+      "question_text": "A purchase contract states: 'In the event of buyer's default, seller's sole remedy shall be retention of the earnest money as liquidated damages.' The buyer defaults. The seller may:",
+      "correct_answer": "Keep the earnest money only",
+      "distractors": [
+        "Keep the earnest money and sue for additional actual damages",
+        "Keep the earnest money or sue for specific performance instead",
+        "Refuse the liquidated damages clause and elect a different remedy"
+      ],
+      "explanation": "A liquidated damages clause pre-determines the remedy for breach. When the contract specifies that the earnest money is the seller's 'sole remedy' upon buyer default, the seller is limited to that remedy — they cannot additionally sue for actual damages or specific performance. Liquidated damages clauses are enforceable when: (1) actual damages would be difficult to calculate at the time of contracting, and (2) the amount is a reasonable estimate of anticipated damages, not a penalty. Without a 'sole remedy' limitation, the seller might have more options, but this contract explicitly caps the remedy.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "liquidated_damages",
+        "sole_remedy",
+        "breach_remedies",
+        "earnest_money"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.5",
+      "question_text": "A buyer assigns their purchase contract to a friend who will complete the closing. Unless the contract prohibits assignment, the original buyer:",
+      "correct_answer": "Remains liable unless released by novation",
+      "distractors": [
+        "Is fully released from liability once the assignment is executed",
+        "Must obtain the seller's written consent before any assignment",
+        "Becomes a guarantor liable only after the assignee is sued"
+      ],
+      "explanation": "Assignment transfers the assignor's contractual rights to the assignee, but does not automatically release the assignor from liability — the original buyer remains secondarily liable if the friend defaults. This is the key difference between assignment and novation. In a novation, all three parties agree that a new party substitutes for the original, completely releasing the original party. Without a novation, the seller has two parties to pursue if the deal falls apart: the assignee (primarily) and the original buyer (secondarily). Most purchase contracts either prohibit assignment outright or require seller consent.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "assignment",
+        "novation",
+        "contract_assignment",
+        "liability"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.5",
+      "question_text": "Which scenario BEST describes a novation?",
+      "correct_answer": "A buyer is replaced by their partner, with seller consent and full release",
+      "distractors": [
+        "A buyer transfers contract rights to a spouse without notifying the seller",
+        "A seller substitutes a different property due to fire damage before closing",
+        "Two parties modify the closing date and terms by written amendment"
+      ],
+      "explanation": "Novation requires three elements: (1) a valid original contract, (2) agreement by all parties to substitute a new party (or new obligation), and (3) the release of the original party from liability. All three parties must consent — the seller, the original buyer, and the new buyer. Without the seller's consent and the original buyer's express release, it is merely an assignment (not a novation). A contract modification changing the closing date is an amendment, not a novation — the original parties remain.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "novation",
+        "assignment",
+        "contract_substitution"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.6",
+      "question_text": "Under the federal ESIGN Act and state UETA laws, electronic signatures on real estate contracts are generally:",
+      "correct_answer": "Legally valid",
+      "distractors": [
+        "Invalid for real estate contracts",
+        "Valid only for residential real estate contracts valued under $100,000",
+        "Valid only if the parties used a government-approved e-signature platform"
+      ],
+      "explanation": "The federal Electronic Signatures in Global and National Commerce Act (ESIGN, 2000) and the Uniform Electronic Transactions Act (UETA), adopted by most states, establish that electronic signatures are legally equivalent to handwritten signatures for most contracts, including real estate transactions. The Statute of Frauds' writing requirement is satisfied by electronic records and signatures. Limited exceptions exist for wills, certain family law documents, and court orders — but standard real estate purchase contracts, listing agreements, and disclosures may all be signed electronically. Platforms like DocuSign and dotloop rely on these laws.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "electronic_signatures",
+        "ESIGN",
+        "UETA",
+        "digital_contracts"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.1",
+      "question_text": "A contract between two competent adults for the sale of a vacant lot at an agreed price, signed by both parties, is BEST classified as:",
+      "correct_answer": "Valid",
+      "distractors": [
+        "Executory",
+        "Bilateral",
+        "Express"
+      ],
+      "explanation": "While this contract is also executory, bilateral, and express, the question asks for the BEST classification regarding enforceability. A valid contract has all four essential elements: competent parties, mutual assent, consideration, and lawful purpose. It is binding and enforceable. The other classifications describe the contract's characteristics (how formed, performance status, communication method) but do not address its legal standing. Valid, void, voidable, and unenforceable are the four categories of contract enforceability status.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "valid_contract",
+        "contract_status",
+        "enforceability"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.1",
+      "question_text": "A contract for the sale of stolen property is:",
+      "correct_answer": "Void",
+      "distractors": [
+        "Voidable",
+        "Unenforceable",
+        "Valid"
+      ],
+      "explanation": "A contract with an illegal purpose is void from inception — it has no legal effect and cannot be ratified, affirmed, or enforced by any party. Selling stolen property is illegal, so the contract is void regardless of whether the buyer knew the property was stolen. A void contract differs from voidable (where one party can choose to cancel) and unenforceable (where the contract is valid but courts won't enforce it due to a procedural defect like missing writing).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "void_contract",
+        "illegal_purpose",
+        "contract_status"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.1",
+      "question_text": "Which of the following correctly ranks contract status from strongest to weakest enforceability?",
+      "correct_answer": "Valid, unenforceable, voidable, void",
+      "distractors": [
+        "Void, voidable, unenforceable, valid",
+        "Valid, voidable, void, unenforceable",
+        "Unenforceable, valid, void, voidable"
+      ],
+      "explanation": "Valid contracts are fully enforceable. Unenforceable contracts have all elements but a procedural defect prevents court enforcement (though parties can voluntarily perform). Voidable contracts can be canceled by the protected party — they have a potential fatal flaw. Void contracts have no legal effect at all. Understanding this hierarchy helps students distinguish between these commonly tested categories and select the most precise classification on the exam.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "contract_status",
+        "enforceability",
+        "hierarchy"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.2",
+      "question_text": "A seller defaults on a purchase contract by refusing to close. The buyer agrees to accept $20,000 in cash instead of the property. This is an example of:",
+      "correct_answer": "Accord and satisfaction",
+      "distractors": [
+        "Mutual rescission",
+        "Novation",
+        "Liquidated damages"
+      ],
+      "explanation": "Accord and satisfaction involves two steps: the accord (agreement to accept substitute performance) and the satisfaction (actual delivery of the substitute). Here, the buyer agrees to accept $20,000 cash instead of the property (accord), and when the seller pays, the contract is discharged (satisfaction). This differs from mutual rescission (no substitute performance — simply cancel), novation (substitute a new party, not substitute performance), and liquidated damages (pre-agreed in the contract, not negotiated after breach).",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "accord_and_satisfaction",
+        "contract_discharge",
+        "substitute_performance"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.2",
+      "question_text": "A contract may be discharged (terminated) by all of the following EXCEPT:",
+      "correct_answer": "One party's unilateral decision to walk away without legal justification",
+      "distractors": [
+        "Full performance by both parties of all contractual obligations",
+        "Mutual agreement of both parties to rescind the contract",
+        "Impossibility of performance due to destruction of the subject property"
+      ],
+      "explanation": "Contracts can be properly discharged by: full performance, mutual rescission, accord and satisfaction, novation, impossibility, operation of law (bankruptcy, statute of limitations), or breach with remedies. However, one party simply walking away without justification is not a proper discharge — it is a breach that exposes the defaulting party to legal remedies. A unilateral cancellation is only proper when supported by a contingency, fraud, material breach by the other party, or other legal grounds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "contract_discharge",
+        "termination",
+        "breach"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.2",
+      "question_text": "A contract is terminated because a new law makes the subject transaction illegal. This discharge is by:",
+      "correct_answer": "Operation of law",
+      "distractors": [
+        "Mutual rescission",
+        "Impossibility",
+        "Anticipatory breach"
+      ],
+      "explanation": "Discharge by operation of law occurs when external legal events terminate a contract without either party's action — a new law prohibiting the transaction, bankruptcy, expiration of the statute of limitations, or a court judgment. This differs from impossibility (which typically involves destruction of subject matter or death of a party), mutual rescission (which requires both parties' agreement), and anticipatory breach (where one party voluntarily refuses to perform).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "contract_discharge",
+        "operation_of_law",
+        "impossibility"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.2",
+      "question_text": "The subject property is destroyed by a tornado before closing. Neither party is at fault. The contract is most likely discharged by:",
+      "correct_answer": "Impossibility of performance",
+      "distractors": [
+        "Mutual rescission",
+        "Breach by the seller",
+        "Accord and satisfaction"
+      ],
+      "explanation": "When the subject matter of a contract is destroyed through no fault of either party before performance, the contract is discharged by impossibility. The seller cannot deliver what no longer exists. This is automatic — the parties do not need to negotiate a rescission. However, the specific outcome depends on the contract terms and state law regarding risk of loss. Some contracts include provisions specifying which party bears the risk between contract signing and closing (equitable conversion doctrine).",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "impossibility",
+        "contract_discharge",
+        "destruction"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.3",
+      "question_text": "A buyer fails to obtain financing by the deadline in their financing contingency. The buyer notifies the seller and requests their earnest money back. This is:",
+      "correct_answer": "A proper exercise of a contingency",
+      "distractors": [
+        "A material breach",
+        "Anticipatory breach",
+        "A minor breach"
+      ],
+      "explanation": "A contingency is a condition in the contract that must be met for the contract to proceed. If the contingency is not satisfied (here, financing was not obtained by the deadline), the party protected by the contingency can cancel without penalty and receive their earnest money back. This is not a breach — it is the contract working as designed. Common contingencies include financing, inspection, appraisal, and sale of the buyer's current home. The key is that the buyer must act in good faith to satisfy the contingency.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "contingency",
+        "financing",
+        "earnest_money",
+        "contract_termination"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.3",
+      "question_text": "A seller materially breaches a purchase contract by failing to make agreed-upon repairs. The buyer's available remedies include all of the following EXCEPT:",
+      "correct_answer": "Keeping the property and demanding the seller pay the full purchase price as damages",
+      "distractors": [
+        "Suing for specific performance to compel the seller to complete repairs",
+        "Rescinding the contract and recovering the earnest money and expenses",
+        "Suing for compensatory damages equal to the cost of the repairs"
+      ],
+      "explanation": "When a seller breaches, the buyer can: (1) sue for specific performance (force the deal), (2) rescind and recover the deposit, or (3) sue for money damages. The buyer cannot get the property AND demand the full purchase price back as damages — that would be double recovery. The buyer must choose a consistent remedy. Specific performance and rescission are mutually exclusive — you cannot both force the deal and cancel it. Compensatory damages are designed to put the non-breaching party in the position they would have been in had the contract been performed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "breach_remedies",
+        "material_breach",
+        "specific_performance",
+        "rescission"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.3",
+      "question_text": "Time is of the essence in a contract means that:",
+      "correct_answer": "Deadlines are strictly enforced",
+      "distractors": [
+        "The contract must be performed as quickly as possible regardless of dates",
+        "Both parties must close within 30 days or the contract automatically expires",
+        "Late performance is always acceptable as long as the deal eventually closes"
+      ],
+      "explanation": "A 'time is of the essence' clause makes contractual deadlines strict and enforceable. If a party misses a deadline, the other party can treat it as a material breach and cancel the contract. Without this clause, minor delays in performance are typically considered immaterial and do not justify cancellation — the injured party may only seek damages for the delay. Many real estate contracts include this clause to ensure timely closing, contingency satisfaction, and other critical deadline compliance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "time_is_of_the_essence",
+        "deadlines",
+        "material_breach"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.3",
+      "question_text": "A seller delivers a property with minor cosmetic damage not disclosed before closing. This is MOST likely classified as:",
+      "correct_answer": "A minor (immaterial) breach",
+      "distractors": [
+        "A material breach",
+        "No breach at all",
+        "Anticipatory breach"
+      ],
+      "explanation": "Not all breaches are equal. A minor (immaterial) breach does not defeat the purpose of the contract — the buyer still received substantially what they bargained for. The remedy for a minor breach is typically money damages to cover the cost of repair, not rescission. A material breach, by contrast, goes to the heart of the contract and justifies cancellation. Whether a breach is material or minor depends on the severity, the ratio of performance completed to performance remaining, and the ability to compensate with damages.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "minor_breach",
+        "material_breach",
+        "breach_classification"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.4",
+      "question_text": "Specific performance is an especially appropriate remedy in real estate disputes because:",
+      "correct_answer": "Every parcel of land is unique",
+      "distractors": [
+        "Contracts always include a specific performance clause as a standard term",
+        "Courts prefer to avoid calculating monetary damages in real estate",
+        "Specific performance is faster and less expensive than monetary damages"
+      ],
+      "explanation": "The legal justification for specific performance in real estate is the doctrine that every parcel of land is unique. Unlike goods that can be purchased elsewhere, a specific property cannot be replicated — no two parcels share the same location, view, improvements, and characteristics. When a seller breaches, giving the buyer money may not make them whole because they cannot buy an identical property. Courts therefore can order the seller to convey the property as agreed. Specific performance is actually slower than a money judgment — it requires an equitable proceeding.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "specific_performance",
+        "unique_property",
+        "equitable_remedy"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.4",
+      "question_text": "Compensatory damages in a breach of real estate contract are designed to:",
+      "correct_answer": "Make the non-breaching party whole",
+      "distractors": [
+        "Punish the breaching party by requiring double the contract price",
+        "Return both parties to their pre-contract positions",
+        "Cover only the earnest money deposit regardless of actual losses"
+      ],
+      "explanation": "Compensatory damages aim to make the injured party whole — to give them the financial benefit of the bargain they lost. For a buyer, this might include the difference between the contract price and the property's higher market value. For a seller, it might include the difference between the contract price and the lower price the property eventually sold for. Punitive damages (punishment) are rarely available in contract disputes. Restoring pre-contract positions describes rescission. Compensatory damages go beyond just the deposit.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "compensatory_damages",
+        "breach_remedies",
+        "benefit_of_bargain"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.4",
+      "question_text": "A buyer defaults on a $400,000 purchase contract. The seller relists and sells the property for $380,000. The seller's compensatory damages are:",
+      "correct_answer": "$20,000 plus additional costs from the buyer's breach",
+      "distractors": [
+        "$400,000",
+        "$380,000",
+        "$0"
+      ],
+      "explanation": "Compensatory damages give the seller the benefit of the bargain: the difference between the contract price ($400,000) and the resale price ($380,000) = $20,000. Additional recoverable costs might include carrying costs during the relisting period (mortgage payments, taxes, insurance), additional marketing expenses, and legal fees. The seller has a duty to mitigate — they must make reasonable efforts to resell, which they did. Mitigation reduces but does not eliminate the claim for the price differential.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "compensatory_damages",
+        "benefit_of_bargain",
+        "mitigation",
+        "math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.5",
+      "question_text": "The key difference between an assignment and a novation is that in a novation:",
+      "correct_answer": "The original party is completely released from liability with all parties' consent",
+      "distractors": [
+        "Contract terms are modified but both original parties remain bound",
+        "Only rights transfer while obligations remain with the original party",
+        "Court approval is required before the substitution takes legal effect"
+      ],
+      "explanation": "In an assignment, the assignor transfers rights to the assignee but remains secondarily liable if the assignee defaults. In a novation, all three parties agree to substitute a new party, and the original party is completely released from all liability. Novation requires the consent of all parties — the remaining original party must agree to release the departing party and accept the new party. No court approval is needed for either assignment or novation — they are private contractual arrangements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "novation",
+        "assignment",
+        "liability",
+        "release"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.5",
+      "question_text": "A purchase contract states 'this contract may not be assigned without the seller's written consent.' The buyer assigns it to a third party without obtaining consent. The assignment is:",
+      "correct_answer": "A breach of the contract",
+      "distractors": [
+        "Automatically void",
+        "Valid and enforceable",
+        "Valid but the seller may charge a transfer fee to the new buyer"
+      ],
+      "explanation": "When a contract includes an anti-assignment clause, assigning without consent is a breach of that contract provision. In most jurisdictions, the assignment itself may still be effective (the assignee acquires the rights), but the assignor has breached the contract and the non-assigning party can seek remedies. Some jurisdictions treat violations of anti-assignment clauses as making the assignment voidable (not automatically void). The distinction matters on the exam — breach is the most accurate characterization.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "assignment",
+        "anti_assignment_clause",
+        "breach",
+        "consent"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.5",
+      "question_text": "In a novation, which of the following must occur for the original party to be released?",
+      "correct_answer": "All parties",
+      "distractors": [
+        "Only the departing and replacement parties must sign a transfer agreement",
+        "The original party must pay a release fee based on contract value",
+        "A court must approve the substitution before the original party is released"
+      ],
+      "explanation": "Novation requires the agreement of all three parties: the party leaving, the party entering, and the party staying. The remaining party must consent to release the departing party and accept the new party's obligation. Without this three-way consent, the transaction is an assignment (not a novation), and the original party remains secondarily liable. No court approval or transfer fee is required — it is a private agreement among the parties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "novation",
+        "three_party_consent",
+        "release"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.6",
+      "question_text": "Which of the following documents is typically EXEMPT from the ESIGN Act and cannot be signed electronically?",
+      "correct_answer": "A will or testamentary trust document",
+      "distractors": [
+        "A residential purchase contract for a single-family home",
+        "A commercial lease agreement for office space",
+        "A listing agreement between a seller and a real estate broker"
+      ],
+      "explanation": "The ESIGN Act specifically exempts certain documents from electronic signature validity, including wills, codicils, and testamentary trusts. Other exemptions include court orders, notices of utility disconnection, and certain family law documents. Standard real estate transactions — purchase contracts, leases, listing agreements, disclosures, and closing documents — can all be signed electronically. The exemptions were designed to protect situations where the solemnity of a physical signature provides important safeguards.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "ESIGN",
+        "electronic_signatures",
+        "exemptions",
+        "wills"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.6",
+      "question_text": "UETA (Uniform Electronic Transactions Act) has been adopted by most states. Its primary purpose is to:",
+      "correct_answer": "Ensure electronic records and signatures have the same legal effect as paper",
+      "distractors": [
+        "Require all real estate transactions to use electronic signatures",
+        "Create a federal database of all electronically signed contracts",
+        "Mandate that electronic signatures use biometric verification"
+      ],
+      "explanation": "UETA establishes that electronic signatures and records have the same legal validity as their paper counterparts. It does not mandate electronic signatures — parties can still choose traditional paper and ink. UETA is a state law (adopted individually by states), while ESIGN is the federal counterpart. Neither law requires biometric verification or creates any database. The laws are technology-neutral — they do not specify what platform or method must be used for electronic signatures.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "UETA",
+        "electronic_signatures",
+        "state_law"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.6",
+      "question_text": "A buyer claims they did not sign a contract electronically, but the e-signature platform shows their authenticated login, IP address, and timestamp. The platform's records are:",
+      "correct_answer": "Strong evidence of the signature's authenticity",
+      "distractors": [
+        "Inadmissible in court",
+        "Irrelevant",
+        "Conclusive proof"
+      ],
+      "explanation": "E-signature platforms maintain detailed audit trails — who signed, when, from what device and IP address, and what document was signed. These records are strong evidence of authenticity and are admissible in court under ESIGN and UETA. While not absolutely conclusive (a user could claim their account was compromised), courts generally accept well-documented electronic signatures. This is actually more evidence than a traditional ink signature provides, which typically has no timestamp, location, or authentication trail.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "electronic_signatures",
+        "audit_trail",
+        "authentication",
+        "enforceability"
+      ]
+    },
+    {
+      "key_topic_ref": "N-12.6",
+      "question_text": "For an electronic signature to be valid under ESIGN and UETA, the signer must:",
+      "correct_answer": "Consent to use electronic signatures",
+      "distractors": [
+        "Use a government-certified e-signature platform approved by the state",
+        "Have a notary witness the electronic signing via video conference",
+        "Register their electronic signature with the county recorder first"
+      ],
+      "explanation": "Both ESIGN and UETA require that parties consent to transacting electronically. A party cannot be forced to use electronic signatures if they prefer paper. Once consent is given, any electronic mark, sound, or process attached to a record with intent to sign qualifies. No specific platform, notarization, or registration is required. The consent requirement protects parties who may not have reliable internet access or who prefer traditional methods. Consent can be withdrawn, requiring the other party to provide paper documents.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "electronic_signatures",
+        "ESIGN",
+        "UETA",
+        "consent"
+      ]
+    }
+  ]
+}

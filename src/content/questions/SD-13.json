@@ -1,0 +1,118 @@
+{
+  "standard_ref": "SD-13",
+  "scope": "state",
+  "state": "SD",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "SD-13.1",
+      "question_text": "In South Dakota, residential closings are typically handled by:",
+      "correct_answer": "Title companies or attorneys",
+      "distractors": ["The SDREC directly", "The buyer's lending institution only", "County Register of Deeds offices"],
+      "explanation": "South Dakota closings are typically conducted by title companies or attorneys. They can take place at the broker's office, title company, or lending agency, and may be conducted as round-table (all parties present) or by mail/escrow.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "title-company", "attorney"]
+    },
+    {
+      "key_topic_ref": "SD-13.1",
+      "question_text": "A closing where all parties are present at the same location is called a:",
+      "correct_answer": "Round table closing",
+      "distractors": ["Mail-away closing", "Escrow closing", "Virtual closing"],
+      "explanation": "South Dakota allows both round table closings (all parties present) and closings by mail or escrow. Round table closings allow immediate document signing, question answering, and fund transfers in a single meeting.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "round-table", "format"]
+    },
+    {
+      "key_topic_ref": "SD-13.1",
+      "question_text": "In South Dakota, closings may be conducted at which of the following locations?",
+      "correct_answer": "Broker's office, title company, or lender",
+      "distractors": ["Only at the county Register of Deeds", "Only at the buyer's attorney's office", "Only at the SDREC-approved location"],
+      "explanation": "South Dakota closings can take place at the broker's office, the title company, or the lending institution. The state allows flexibility in closing locations, and closings may be conducted in person (round table) or by mail/escrow.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "location", "flexibility"]
+    },
+    {
+      "key_topic_ref": "SD-13.1",
+      "question_text": "South Dakota property taxes are assessed one year and due the next. This system is called:",
+      "correct_answer": "Taxes paid in arrears",
+      "distractors": ["Taxes paid in advance", "Taxes paid at point of sale", "Taxes paid upon assessment"],
+      "explanation": "South Dakota property taxes are paid in arrears — they are assessed in one calendar year and due the following year in two installments (April 30 and October 31). This affects how taxes are prorated between buyer and seller at closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "property-tax", "arrears"]
+    },
+    {
+      "key_topic_ref": "SD-13.1",
+      "question_text": "A title search reveals a mechanic's lien on the property. This would be classified as a:",
+      "correct_answer": "Title defect that must be resolved before closing",
+      "distractors": ["Normal encumbrance that the buyer must accept", "Non-issue since liens expire automatically", "Matter only for the lender to address"],
+      "explanation": "A mechanic's lien is a title defect — an encumbrance that would appear on the title search. Title companies examine recorded documents for liens, encumbrances, and defects to ensure clear title can be conveyed to the buyer at closing.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["title", "lien", "defect"]
+    },
+    {
+      "key_topic_ref": "SD-13.2",
+      "question_text": "What is the South Dakota real estate transfer fee rate?",
+      "correct_answer": "$0.50 per $500 of value",
+      "distractors": ["$1.00 per $1,000 of value", "$2.00 per $500 of value", "$0.25 per $100 of value"],
+      "explanation": "South Dakota charges a transfer fee of $0.50 per $500 of value (or fraction thereof), which works out to approximately 0.1%. The fee is paid by the grantor (seller) and collected by the Register of Deeds at recording.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-fee", "rate", "closing-cost"]
+    },
+    {
+      "key_topic_ref": "SD-13.2",
+      "question_text": "Who is responsible for paying the real estate transfer fee in South Dakota?",
+      "correct_answer": "The grantor (seller)",
+      "distractors": ["The grantee (buyer)", "Both parties equally", "The responsible broker"],
+      "explanation": "The transfer fee is paid by the grantor (seller) and collected by the Register of Deeds at the time of recording. The amount is noted on the face of the deed after recording.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-fee", "grantor", "seller"]
+    },
+    {
+      "key_topic_ref": "SD-13.2",
+      "question_text": "South Dakota property taxes are paid in arrears. When are tax installments due?",
+      "correct_answer": "April 30 and October 31",
+      "distractors": ["January 31 and July 31", "March 1 and September 1", "June 15 and December 15"],
+      "explanation": "SD property taxes are paid in arrears (assessed one year, due the next) with installments due April 30 and October 31. This affects how taxes are prorated at closing — the seller typically owes for the portion of the year they occupied the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "arrears", "due-dates"]
+    },
+    {
+      "key_topic_ref": "SD-13.2",
+      "question_text": "South Dakota follows which type of recording system?",
+      "correct_answer": "Race-notice",
+      "distractors": ["Race only", "Notice only", "Torrens"],
+      "explanation": "South Dakota uses a race-notice recording system. Under this system, a subsequent good-faith purchaser who records first prevails over a prior unrecorded interest. Documents are filed with the county Register of Deeds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "system"]
+    },
+    {
+      "key_topic_ref": "SD-13.2",
+      "question_text": "A government agency transfers property to another government entity. Is the transfer fee required?",
+      "correct_answer": "No, government transfers are exempt from the fee",
+      "distractors": ["Yes, all transfers require the full fee amount", "Yes, but at a reduced rate of 50% of normal", "No, but only federal government agencies qualify"],
+      "explanation": "Transfers by or to government entities are exempt from the SD transfer fee under SDCL 43-4-22. Other exemptions include corporate dissolution transfers, estate distributions, and related entity transfers. Exempt documents must cite the applicable subsection.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-fee", "exemption", "government"]
+    }
+  ]
+}

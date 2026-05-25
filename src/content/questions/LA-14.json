@@ -1,0 +1,233 @@
+{
+  "standard_ref": "LA-14",
+  "scope": "state",
+  "state": "LA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "LA-14.1",
+      "question_text": "What form is required for a donation inter vivos of an immovable in Louisiana?",
+      "correct_answer": "An authentic act",
+      "distractors": [
+        "A private written instrument",
+        "An oral declaration before witnesses",
+        "A court-approved petition"
+      ],
+      "explanation": "Louisiana Civil Code requires that a donation inter vivos of an immovable must be made by authentic act (executed before a notary and two witnesses) to be valid. Private acts are insufficient for immovable donations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["donations", "authentic_act", "immovables"]
+    },
+    {
+      "key_topic_ref": "LA-14.1",
+      "question_text": "A father donates an immovable to his daughter by private act. The daughter records the act and takes possession. What is the status of this donation?",
+      "correct_answer": "The donation is absolutely null",
+      "distractors": [
+        "The donation is valid once recorded",
+        "The donation is voidable by third parties",
+        "The donation becomes valid after 5 years"
+      ],
+      "explanation": "A donation inter vivos of an immovable that is not made by authentic act is absolutely null under Louisiana law. Recording and possession cannot cure this defect because the formal requirement is a matter of public order.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["donations", "absolute_nullity", "formalities"]
+    },
+    {
+      "key_topic_ref": "LA-14.1",
+      "question_text": "Which elements must be present for a valid donation inter vivos?",
+      "correct_answer": "Donor capacity, intent, and donee acceptance",
+      "distractors": [
+        "Donor capacity, consideration, and recordation",
+        "Donee acceptance, appraisal, and court decree",
+        "Intent, fair market value, and notarization"
+      ],
+      "explanation": "A valid donation inter vivos requires that the donor have legal capacity, a genuine intent to donate (animus donandi), and that the donee accept the donation. Unlike a sale, no consideration or price is required.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["donations", "capacity", "acceptance"]
+    },
+    {
+      "key_topic_ref": "LA-14.1",
+      "question_text": "The state of Louisiana expropriates private immovable property for a highway project. What must the state provide the owner?",
+      "correct_answer": "Just compensation for the property",
+      "distractors": [
+        "Replacement property of equal size",
+        "A tax credit equal to assessed value",
+        "Relocation expenses only"
+      ],
+      "explanation": "Expropriation in Louisiana requires that the taking be for a public purpose and that the owner receive just compensation. This mirrors the constitutional requirement and is codified in Louisiana's expropriation statutes.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["expropriation", "just_compensation", "public_purpose"]
+    },
+    {
+      "key_topic_ref": "LA-14.1",
+      "question_text": "A parish government seeks to expropriate an immovable for a public park. The owner claims the property has sentimental value worth $500,000 above market value. How should the court rule on compensation?",
+      "correct_answer": "Compensation is based on fair market value",
+      "distractors": [
+        "Sentimental value must be included",
+        "The owner may reject expropriation entirely",
+        "Compensation is set by the parish assessor"
+      ],
+      "explanation": "Just compensation in expropriation proceedings is determined by fair market value of the property, not sentimental or subjective value to the owner. The court will assess what a willing buyer would pay a willing seller.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["expropriation", "fair_market_value", "compensation"]
+    },
+    {
+      "key_topic_ref": "LA-14.2",
+      "question_text": "Louisiana is the only U.S. state that recognizes which inheritance concept?",
+      "correct_answer": "Forced heirship",
+      "distractors": [
+        "Elective share for surviving spouses",
+        "Community property in successions",
+        "Holographic testaments"
+      ],
+      "explanation": "Louisiana is the only state in the United States that has forced heirship, a concept derived from French and Spanish civil law. Forced heirs are entitled to a portion of the deceased's estate (the legitime) that cannot be disinherited.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["forced_heirship", "successions", "legitime"]
+    },
+    {
+      "key_topic_ref": "LA-14.2",
+      "question_text": "Which children qualify as forced heirs under current Louisiana law?",
+      "correct_answer": "Children under 24 or permanently disabled",
+      "distractors": [
+        "All children regardless of age or status",
+        "Only the eldest surviving child at death",
+        "Children under the age of 18 exclusively"
+      ],
+      "explanation": "Under Louisiana Civil Code Article 1493, forced heirs are children who are 23 years of age or younger at the time of the parent's death, or children of any age who are permanently incapable of caring for themselves due to mental or physical disability.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["forced_heirship", "forced_heirs", "age_requirement"]
+    },
+    {
+      "key_topic_ref": "LA-14.2",
+      "question_text": "A decedent's testament leaves everything to a friend, disinheriting her two children aged 20 and 30. What is the likely outcome?",
+      "correct_answer": "The 20-year-old receives the legitime",
+      "distractors": [
+        "Both children share the entire estate equally",
+        "The testament is valid as written",
+        "The 30-year-old receives the legitime"
+      ],
+      "explanation": "The 20-year-old qualifies as a forced heir (under 24) and is entitled to the legitime. The 30-year-old does not qualify as a forced heir and can be disinherited. The friend receives the disposable portion after the legitime is satisfied.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["forced_heirship", "legitime", "testament"]
+    },
+    {
+      "key_topic_ref": "LA-14.2",
+      "question_text": "What right does a surviving spouse typically receive over the deceased spouse's community property share?",
+      "correct_answer": "A usufruct until death or remarriage",
+      "distractors": [
+        "Full ownership of the entire estate",
+        "A life estate with power of sale",
+        "One-third ownership in full"
+      ],
+      "explanation": "The surviving spouse is generally entitled to a usufruct over the deceased spouse's share of community property. This usufruct terminates upon the surviving spouse's death or remarriage.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["successions", "surviving_spouse", "usufruct"]
+    },
+    {
+      "key_topic_ref": "LA-14.2",
+      "question_text": "A person dies without a testament in Louisiana. This type of succession is called what?",
+      "correct_answer": "Intestate succession",
+      "distractors": [
+        "Testate succession",
+        "Forced succession",
+        "Probate succession"
+      ],
+      "explanation": "When a person dies without a valid testament, the estate passes according to the rules of intestate succession established by the Louisiana Civil Code. If the decedent had a valid testament, it would be a testate succession.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["successions", "intestate", "testate"]
+    },
+    {
+      "key_topic_ref": "LA-14.3",
+      "question_text": "What is the prescriptive period for acquiring ownership of an immovable with good faith and just title?",
+      "correct_answer": "10 years",
+      "distractors": [
+        "5 years",
+        "20 years",
+        "30 years"
+      ],
+      "explanation": "Acquisitive prescription of 10 years applies when the possessor has good faith (believes he is the owner) and just title (a juridical act sufficient to transfer ownership, such as a sale from a non-owner). Possession must be continuous, uninterrupted, peaceable, public, and unequivocal.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["acquisitive_prescription", "good_faith", "just_title"]
+    },
+    {
+      "key_topic_ref": "LA-14.3",
+      "question_text": "A possessor without just title occupies an immovable openly and continuously. After how many years may he claim ownership by prescription?",
+      "correct_answer": "30 years",
+      "distractors": [
+        "10 years",
+        "15 years",
+        "20 years"
+      ],
+      "explanation": "Acquisitive prescription without just title requires 30 years of continuous, uninterrupted, peaceable, public, and unequivocal possession as owner. Good faith is not required for 30-year prescription.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["acquisitive_prescription", "30_year", "without_title"]
+    },
+    {
+      "key_topic_ref": "LA-14.3",
+      "question_text": "Which quality of possession is NOT required for acquisitive prescription in Louisiana?",
+      "correct_answer": "Exclusive use by only one person",
+      "distractors": [
+        "Continuous and uninterrupted possession",
+        "Peaceable and public possession",
+        "Unequivocal possession as owner"
+      ],
+      "explanation": "Possession for acquisitive prescription must be continuous, uninterrupted, peaceable, public, and unequivocal. While possession must be as owner, it need not be exercised exclusively by one individual; co-possessors can prescribe jointly.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["acquisitive_prescription", "possession_qualities", "requirements"]
+    },
+    {
+      "key_topic_ref": "LA-14.3",
+      "question_text": "A buyer purchases an immovable from someone who was not the true owner. The buyer records the deed and occupies the property in good faith. After 10 years, the true owner demands return. What result?",
+      "correct_answer": "The buyer has acquired ownership by prescription",
+      "distractors": [
+        "The true owner recovers the immovable",
+        "The buyer must pay the true owner fair value",
+        "The court splits ownership between them"
+      ],
+      "explanation": "The buyer who purchased from a non-owner has just title (the act of sale) and good faith (belief that the seller was the owner). After 10 years of qualifying possession, the buyer acquires ownership through acquisitive prescription and the true owner's claim is extinguished.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["acquisitive_prescription", "good_faith", "non-owner_sale"]
+    },
+    {
+      "key_topic_ref": "LA-14.3",
+      "question_text": "A neighbor secretly uses a portion of an adjoining immovable for 35 years, hiding the use from the owner. Can the neighbor claim acquisitive prescription?",
+      "correct_answer": "No, because the possession was not public",
+      "distractors": [
+        "Yes, because 35 years exceeds the 30-year period",
+        "Yes, if the neighbor acted in good faith",
+        "No, because adjoining owners cannot prescribe"
+      ],
+      "explanation": "Even though the possession exceeded 30 years, it fails the requirement that possession be public. Secret or hidden possession cannot support acquisitive prescription because the true owner must have the opportunity to discover the adverse use.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["acquisitive_prescription", "public_possession", "requirements"]
+    }
+  ]
+}

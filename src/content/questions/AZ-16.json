@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AZ-16",
+  "scope": "state",
+  "state": "AZ",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AZ-16.1",
+      "question_text": "What is the most common foreclosure method in Arizona?",
+      "correct_answer": "Non-judicial foreclosure (trustee's sale)",
+      "distractors": ["Judicial foreclosure through the courts", "Strict foreclosure without a sale", "Foreclosure by deed in lieu"],
+      "explanation": "Non-judicial foreclosure (trustee's sale) is the most common method in Arizona because deeds of trust include a power of sale clause. It is faster and less expensive than judicial foreclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["non-judicial foreclosure", "trustee's sale", "common method"]
+    },
+    {
+      "key_topic_ref": "AZ-16.1",
+      "question_text": "What is the minimum waiting period between recording the Notice of Trustee's Sale and the actual sale?",
+      "correct_answer": "91 days",
+      "distractors": ["30 days", "60 days", "120 days"],
+      "explanation": "After the trustee records the Notice of Trustee's Sale, there is a minimum 91-day waiting period before the public auction. This gives the borrower time to cure the default or arrange alternatives.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trustee's sale", "91 days", "timeline"]
+    },
+    {
+      "key_topic_ref": "AZ-16.1",
+      "question_text": "After a trustee's sale in Arizona, does the borrower have a right of redemption?",
+      "correct_answer": "No, there is no redemption after a trustee's sale",
+      "distractors": ["Yes, for 6 months after the trustee's sale", "Yes, for 30 days after the trustee's sale", "Only if the property was a primary residence"],
+      "explanation": "Unlike judicial foreclosure, there is NO right of redemption after a non-judicial trustee's sale in Arizona. This makes the sale final and gives the buyer clear title immediately.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trustee's sale", "no redemption", "final sale"]
+    },
+    {
+      "key_topic_ref": "AZ-16.1",
+      "question_text": "At a trustee's sale, the property goes to:",
+      "correct_answer": "The highest bidder at public auction",
+      "distractors": ["The lender automatically", "The court-appointed receiver", "The borrower's designated buyer"],
+      "explanation": "The trustee's sale is a public auction where the property is sold to the highest bidder. The lender may submit a credit bid up to the amount owed, but any third party can outbid them.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trustee's sale", "auction", "highest bidder"]
+    },
+    {
+      "key_topic_ref": "AZ-16.1",
+      "question_text": "A borrower receives a Notice of Trustee's Sale. They want to stop the foreclosure. What is their best option within the 91-day period?",
+      "correct_answer": "Cure the default by paying the arrears",
+      "distractors": ["File a complaint with ADRE", "Contact the county assessor", "Wait for the redemption period"],
+      "explanation": "During the 91-day waiting period, the borrower can cure the default by catching up on missed payments (reinstatement). There is no post-sale redemption right in a trustee's sale, so acting before the sale is critical.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trustee's sale", "cure default", "reinstatement"]
+    },
+    {
+      "key_topic_ref": "AZ-16.2",
+      "question_text": "How long is the right of redemption after a judicial foreclosure sale in Arizona?",
+      "correct_answer": "6 months, or 30 days if the property was abandoned",
+      "distractors": ["12 months for all property types regardless", "90 days for residential property after the sale", "No redemption right exists in any type of foreclosure"],
+      "explanation": "After judicial foreclosure, the borrower has a 6-month right of redemption (or 30 days if the property was abandoned). This contrasts with non-judicial foreclosure, which has no redemption right.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["judicial foreclosure", "redemption", "6 months"]
+    },
+    {
+      "key_topic_ref": "AZ-16.2",
+      "question_text": "Judicial foreclosure in Arizona requires:",
+      "correct_answer": "Court action and a lawsuit",
+      "distractors": ["Only a Notice of Trustee's Sale", "ADRE Commissioner approval", "Agreement from both borrower and lender"],
+      "explanation": "Judicial foreclosure requires the lender to file a lawsuit and obtain a court judgment. This is more time-consuming and expensive than non-judicial foreclosure, which is why it is less commonly used.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["judicial foreclosure", "court action", "lawsuit"]
+    },
+    {
+      "key_topic_ref": "AZ-16.2",
+      "question_text": "A lender wants to pursue a deficiency judgment against a borrower. Which foreclosure method must they use?",
+      "correct_answer": "Judicial foreclosure when anti-deficiency does not apply",
+      "distractors": ["Non-judicial foreclosure through a trustee's sale", "Either method allows pursuit of deficiency judgments", "A separate small claims action against the borrower"],
+      "explanation": "Deficiency judgments are only available through judicial foreclosure, and only if the anti-deficiency statute does not protect the borrower. Non-judicial trustee's sales do not allow deficiency judgments for protected properties.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deficiency judgment", "judicial foreclosure", "anti-deficiency"]
+    },
+    {
+      "key_topic_ref": "AZ-16.2",
+      "question_text": "Why do most Arizona lenders prefer non-judicial foreclosure over judicial foreclosure?",
+      "correct_answer": "It is faster and less expensive",
+      "distractors": ["It allows larger deficiency judgments", "It provides a longer redemption period", "It requires less documentation"],
+      "explanation": "Non-judicial foreclosure is preferred because it avoids court proceedings, making it faster and less costly. The trade-off is that the lender gives up the ability to pursue a deficiency judgment in most cases.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["non-judicial", "speed", "cost", "preference"]
+    },
+    {
+      "key_topic_ref": "AZ-16.2",
+      "question_text": "An abandoned property is sold through judicial foreclosure. The borrower wants to redeem it. How long do they have?",
+      "correct_answer": "30 days after the sale",
+      "distractors": ["6 months after the sale", "90 days after the sale", "No redemption right for abandoned property"],
+      "explanation": "For abandoned properties sold through judicial foreclosure, the redemption period is shortened to 30 days (versus the standard 6 months). The property must be genuinely abandoned for this shorter period to apply.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["judicial foreclosure", "abandoned", "30 days"]
+    },
+    {
+      "key_topic_ref": "AZ-16.3",
+      "question_text": "Arizona's anti-deficiency statute (ARS §33-814(G)) protects borrowers on which type of loans?",
+      "correct_answer": "Purchase-money loans on homes of 2.5 acres or less",
+      "distractors": ["All residential mortgage loans regardless of loan type", "Only loans originated by Arizona-chartered state banks", "Commercial property loans under $500,000 in value"],
+      "explanation": "The anti-deficiency statute specifically protects purchase-money loans (loans used to buy the property) on residential property (one-family or two-family) on 2.5 acres or less. Refinances, HELOCs, and investment properties are NOT protected.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["anti-deficiency", "purchase-money", "2.5 acres"]
+    },
+    {
+      "key_topic_ref": "AZ-16.3",
+      "question_text": "A homeowner refinances their original purchase-money loan on a 1-acre primary residence. After a trustee's sale, can the lender pursue a deficiency?",
+      "correct_answer": "Yes, refinanced loans lose anti-deficiency protection",
+      "distractors": ["No, the anti-deficiency protection still applies", "Only if the deficiency amount exceeds $50,000", "Only if the home is worth less than $250,000"],
+      "explanation": "The anti-deficiency statute only protects original purchase-money loans. Once a loan is refinanced, it loses anti-deficiency protection because the new loan was not used to \"purchase\" the property.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["anti-deficiency", "refinance", "not protected"]
+    },
+    {
+      "key_topic_ref": "AZ-16.3",
+      "question_text": "A borrower purchased a 5-acre residential property with a purchase-money loan. Is the borrower protected by the anti-deficiency statute?",
+      "correct_answer": "No, the property exceeds the 2.5-acre limit",
+      "distractors": ["Yes, all purchase-money loans are protected", "Yes, as long as it is a primary residence", "Only if the loan is under $500,000"],
+      "explanation": "The anti-deficiency statute only applies to residential property of 2.5 acres or less with a one-family or two-family dwelling. At 5 acres, this property exceeds the size limit and is not protected.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["anti-deficiency", "2.5 acres", "acreage limit"]
+    },
+    {
+      "key_topic_ref": "AZ-16.3",
+      "question_text": "In a short sale, the property is sold for:",
+      "correct_answer": "Less than the mortgage balance with lender approval",
+      "distractors": ["More than the current appraised market value", "Exactly the outstanding loan payoff amount", "Whatever the seller independently decides to accept"],
+      "explanation": "A short sale occurs when the property is sold for less than the outstanding mortgage balance, requiring lender approval. The lender agrees to accept the reduced payoff rather than proceeding with foreclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["short sale", "lender approval", "deficiency"]
+    },
+    {
+      "key_topic_ref": "AZ-16.3",
+      "question_text": "A borrower voluntarily transfers title to the lender to avoid foreclosure. This is called:",
+      "correct_answer": "Deed in lieu of foreclosure",
+      "distractors": ["A quitclaim transfer", "A voluntary trustee's sale", "A judicial settlement deed"],
+      "explanation": "A deed in lieu of foreclosure is a voluntary transfer of title from the borrower to the lender. It avoids the time and expense of foreclosure for both parties but may still have tax consequences for forgiven debt.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed in lieu", "voluntary transfer", "foreclosure alternative"]
+    }
+  ]
+}

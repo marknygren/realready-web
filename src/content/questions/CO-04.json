@@ -1,0 +1,173 @@
+{
+  "standard_ref": "CO-04",
+  "scope": "state",
+  "state": "CO",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "CO-04.1",
+      "question_text": "Colorado's state fair housing law is called the:",
+      "correct_answer": "Colorado Anti-Discrimination Act",
+      "distractors": ["Colorado Fair Housing Statute", "Colorado Civil Rights Act", "Colorado Equal Housing Opportunity Act"],
+      "explanation": "The Colorado Anti-Discrimination Act (CADA) is the state's fair housing law. It is enforced by the Colorado Civil Rights Division (CCRD) within DORA.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "CADA", "law"]
+    },
+    {
+      "key_topic_ref": "CO-04.1",
+      "question_text": "Which agency enforces the Colorado Anti-Discrimination Act?",
+      "correct_answer": "Colorado Civil Rights Division",
+      "distractors": ["Real Estate Commission", "Attorney General's Office", "Division of Real Estate"],
+      "explanation": "CADA is enforced by the Colorado Civil Rights Division (CCRD), which operates within DORA. The Real Estate Commission handles licensing discipline, not fair housing enforcement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "CCRD", "enforcement"]
+    },
+    {
+      "key_topic_ref": "CO-04.1",
+      "question_text": "A landlord refuses to rent to a tenant solely because the tenant uses Section 8 housing vouchers. Under Colorado law, this is:",
+      "correct_answer": "Illegal source of income discrimination",
+      "distractors": ["Legal if the landlord prefers cash", "Legal for single-family rentals", "Legal if disclosed before application"],
+      "explanation": "Colorado protects source of income as a protected class under CADA (HB20-1332, effective 2021). Landlords cannot refuse tenants solely because they use housing vouchers or public assistance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "source-of-income", "vouchers"]
+    },
+    {
+      "key_topic_ref": "CO-04.1",
+      "question_text": "Which protected class is recognized by Colorado but was NOT in the original federal Fair Housing Act?",
+      "correct_answer": "Marital status",
+      "distractors": ["Race", "National origin", "Familial status"],
+      "explanation": "Colorado protects marital status under CADA, which is not a federal protected class. Race and national origin were in the original 1968 Act; familial status was added in 1988.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair-housing", "marital-status", "protected-classes"]
+    },
+    {
+      "key_topic_ref": "CO-04.1",
+      "question_text": "Colorado's fair housing law protects all of the following EXCEPT:",
+      "correct_answer": "Political affiliation",
+      "distractors": ["Sexual orientation", "Source of income", "Marital status"],
+      "explanation": "CADA protects sexual orientation, source of income, marital status, and other classes. Political affiliation is not a protected class under Colorado fair housing law.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair-housing", "protected-classes", "CADA"]
+    },
+    {
+      "key_topic_ref": "CO-04.2",
+      "question_text": "Compared to the federal Fair Housing Act, Colorado's 'Mrs. Murphy' exemption is:",
+      "correct_answer": "Narrower than the federal exemption",
+      "distractors": ["Identical to the federal exemption", "Broader than the federal exemption", "Not recognized in Colorado"],
+      "explanation": "Colorado's Mrs. Murphy exemption (owner-occupied small properties) is narrower than the federal version, meaning fewer property owners can claim it.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair-housing", "exemption", "Mrs-Murphy"]
+    },
+    {
+      "key_topic_ref": "CO-04.2",
+      "question_text": "A property owner refuses to rent to an unmarried couple. Under Colorado law, this is:",
+      "correct_answer": "Illegal marital status discrimination",
+      "distractors": ["Legal under state and federal law", "Legal only for owner-occupied property", "Legal if based on religious beliefs"],
+      "explanation": "Colorado protects marital status under CADA. Refusing to rent to someone because they are unmarried is discrimination, even if it is not prohibited by federal law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "marital-status", "discrimination"]
+    },
+    {
+      "key_topic_ref": "CO-04.2",
+      "question_text": "How does Colorado's protection of sexual orientation compare to current federal law?",
+      "correct_answer": "Now aligned after Bostock v. Clayton County",
+      "distractors": ["Colorado is stricter than federal law", "Federal law is stricter than Colorado", "Neither protects sexual orientation"],
+      "explanation": "Colorado has long protected sexual orientation. After the 2020 Bostock v. Clayton County decision, federal law was interpreted to include sexual orientation, bringing them into alignment.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair-housing", "sexual-orientation", "Bostock"]
+    },
+    {
+      "key_topic_ref": "CO-04.2",
+      "question_text": "Which Colorado fair housing protection has no equivalent in the federal Fair Housing Act?",
+      "correct_answer": "Source of income",
+      "distractors": ["Disability", "Familial status", "National origin"],
+      "explanation": "Source of income protection (housing vouchers, public assistance) is a Colorado state protection not found in the federal Fair Housing Act. Disability, familial status, and national origin are all federal classes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "source-of-income", "comparison"]
+    },
+    {
+      "key_topic_ref": "CO-04.2",
+      "question_text": "A tenant using public assistance applies for a rental. The landlord asks about income source. Under CADA, asking is:",
+      "correct_answer": "Permitted, but refusing based on it is not",
+      "distractors": ["Completely prohibited by CADA", "Permitted and refusal is also permitted", "Only permitted for commercial lease applicants"],
+      "explanation": "Landlords can verify income to determine ability to pay rent, but they cannot refuse a tenant solely because their income comes from public assistance or vouchers.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "source-of-income", "landlord"]
+    },
+    {
+      "key_topic_ref": "CO-04.3",
+      "question_text": "A housing discrimination complaint under CADA may be filed with the CCRD within:",
+      "correct_answer": "One year of the alleged violation",
+      "distractors": ["30 days of the alleged violation", "90 days of the alleged violation", "Two years of the alleged violation"],
+      "explanation": "Housing discrimination complaints under CADA must be filed within one year, which aligns with the federal Fair Housing Act deadline for HUD complaints.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "complaint", "deadline"]
+    },
+    {
+      "key_topic_ref": "CO-04.3",
+      "question_text": "A person files a housing discrimination complaint with the CCRD. The CCRD has a work-sharing agreement with:",
+      "correct_answer": "The federal HUD office",
+      "distractors": ["The Real Estate Commission only", "The state Attorney General only", "The local police department only"],
+      "explanation": "The CCRD has a work-sharing agreement with HUD, meaning complaints can be cross-filed. A state complaint may be investigated at the federal level and vice versa.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "CCRD", "HUD"]
+    },
+    {
+      "key_topic_ref": "CO-04.3",
+      "question_text": "Remedies available under CADA for fair housing violations include all EXCEPT:",
+      "correct_answer": "Criminal imprisonment",
+      "distractors": ["Actual damages awards", "Civil penalty assessments", "Attorney fee recovery"],
+      "explanation": "CADA provides civil remedies: actual damages, injunctive relief, civil penalties, and attorney fees. Criminal imprisonment is not a remedy under CADA.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair-housing", "remedies", "penalties"]
+    },
+    {
+      "key_topic_ref": "CO-04.3",
+      "question_text": "After receiving a fair housing complaint, the CCRD's first step is typically to:",
+      "correct_answer": "Investigate and attempt mediation",
+      "distractors": ["Immediately revoke the broker's license", "File a lawsuit in district court", "Refer the case to federal HUD"],
+      "explanation": "The CCRD investigates complaints and attempts mediation. If mediation fails, the case can be referred for a formal hearing. License revocation is handled by the Real Estate Commission, not CCRD.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "CCRD", "process"]
+    },
+    {
+      "key_topic_ref": "CO-04.3",
+      "question_text": "A tenant believes they were discriminated against 14 months ago. Under CADA, their housing complaint is:",
+      "correct_answer": "Time-barred under both state and federal law",
+      "distractors": ["Still timely under state law only", "Still timely under federal law only", "Timely with a good-cause extension"],
+      "explanation": "Both CADA and the federal Fair Housing Act have a one-year filing deadline for housing discrimination complaints. At 14 months, the complaint is time-barred under both.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "deadline", "time-bar"]
+    }
+  ]
+}

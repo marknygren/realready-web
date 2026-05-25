@@ -1,0 +1,283 @@
+{
+  "standard_ref": "VA-09",
+  "scope": "state",
+  "state": "VA",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "VA-09.1",
+      "question_text": "Under Virginia's Residential Property Disclosure Act, a seller may check one of how many disclosure options?",
+      "correct_answer": "Two options",
+      "distractors": ["Three options", "Four options", "One mandatory option"],
+      "explanation": "Virginia uses a disclaimer-based system where the seller checks one of two boxes: (1) making no representations about the property, or (2) making specific representations about known conditions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "RPDA", "disclaimer"]
+    },
+    {
+      "key_topic_ref": "VA-09.1",
+      "question_text": "A Virginia seller selects the 'no representations' option on the disclosure form. The seller knows the basement floods regularly. What is the seller's obligation?",
+      "correct_answer": "Must still disclose known material adverse facts",
+      "distractors": ["No further disclosure is required", "Only disclose if the buyer asks directly", "Disclose only latent structural defects"],
+      "explanation": "Even when a seller opts for the disclaimer (no representations), Virginia law requires disclosure of known material adverse facts. The disclaimer does not eliminate the duty to disclose significant known problems.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "material-adverse-facts", "disclaimer"]
+    },
+    {
+      "key_topic_ref": "VA-09.1",
+      "question_text": "When must the Virginia residential property disclosure statement be delivered to the buyer?",
+      "correct_answer": "Before or at contract ratification",
+      "distractors": ["Within 10 days of listing the property", "At the home inspection appointment", "At the closing table only"],
+      "explanation": "The disclosure statement must be provided to the buyer before or at the time of contract ratification. Late delivery triggers a buyer cancellation right.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "timing", "ratification"]
+    },
+    {
+      "key_topic_ref": "VA-09.1",
+      "question_text": "A buyer receives the Virginia property disclosure statement two days after contract ratification. How many days does the buyer have to void the contract?",
+      "correct_answer": "3 days from delivery",
+      "distractors": ["5 business days from delivery", "7 calendar days from delivery", "No right to void after ratification"],
+      "explanation": "If the disclosure is delivered late (after ratification), the buyer may void the contract within 3 days of receiving the disclosure statement.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "void-right", "late-delivery"]
+    },
+    {
+      "key_topic_ref": "VA-09.1",
+      "question_text": "Which option on the Virginia disclosure form is most commonly selected by sellers?",
+      "correct_answer": "The owner makes no representations or warranties",
+      "distractors": ["The owner provides specific property condition details", "The owner certifies all systems are functional", "The owner warrants the property is defect-free"],
+      "explanation": "Virginia's disclaimer-based system allows sellers to choose between making no representations or providing specific representations. Most sellers select the disclaimer option, though they must still disclose known material adverse facts regardless.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "RPDA", "disclaimer-option"]
+    },
+    {
+      "key_topic_ref": "VA-09.2",
+      "question_text": "The Chesapeake Bay Preservation Act primarily affects properties in which part of Virginia?",
+      "correct_answer": "Eastern Virginia near tidal waters",
+      "distractors": ["Western mountain regions only", "All counties statewide equally", "Properties along the James River only"],
+      "explanation": "The Chesapeake Bay Preservation Act applies to localities in eastern Virginia within the Chesapeake Bay watershed. It establishes Resource Protection Areas (RPAs) and Resource Management Areas (RMAs) to protect water quality.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Chesapeake-Bay", "environmental", "eastern-VA"]
+    },
+    {
+      "key_topic_ref": "VA-09.2",
+      "question_text": "A buyer is interested in a waterfront lot in eastern Virginia. The agent discovers the lot includes a 100-foot Resource Protection Area. What must be disclosed?",
+      "correct_answer": "The property is within an RPA zone",
+      "distractors": ["Nothing if the seller chose no representations", "Only that a survey is recommended", "Only if the buyer plans to build"],
+      "explanation": "Agents must disclose when a property falls within a Resource Protection Area (RPA). RPAs include a 100-foot buffer around tidal and non-tidal wetlands, restricting development to protect the Chesapeake Bay.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Chesapeake-Bay", "RPA", "disclosure"]
+    },
+    {
+      "key_topic_ref": "VA-09.2",
+      "question_text": "A home near Naval Air Station Oceana in Virginia Beach is listed for sale. What special disclosure may be required?",
+      "correct_answer": "Military noise and accident potential zones",
+      "distractors": ["Federal security clearance requirements", "Restricted airspace navigation rules", "Naval housing priority purchase rights"],
+      "explanation": "Properties near military installations such as those in Virginia Beach and Hampton Roads may be subject to noise zones and accident potential zones. These conditions must be disclosed to prospective buyers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["military", "noise-zones", "disclosure"]
+    },
+    {
+      "key_topic_ref": "VA-09.2",
+      "question_text": "What is the width of the vegetated buffer required in a Chesapeake Bay Resource Protection Area?",
+      "correct_answer": "100 feet",
+      "distractors": ["50 feet", "75 feet", "200 feet"],
+      "explanation": "RPAs require a 100-foot vegetated buffer around tidal and non-tidal wetlands. This buffer limits land disturbance and helps filter pollutants before they reach the Chesapeake Bay.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Chesapeake-Bay", "RPA", "buffer"]
+    },
+    {
+      "key_topic_ref": "VA-09.2",
+      "question_text": "A property is located in a Resource Management Area but NOT in a Resource Protection Area. Which statement is correct?",
+      "correct_answer": "Development is allowed with best practices",
+      "distractors": ["No development is permitted at all", "The same rules as RPAs apply", "RMA designation has no effect"],
+      "explanation": "Resource Management Areas (RMAs) allow development but require best management practices to minimize environmental impact. They are less restrictive than RPAs, which impose stricter buffer and development limitations.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Chesapeake-Bay", "RMA", "development"]
+    },
+    {
+      "key_topic_ref": "VA-09.3",
+      "question_text": "A murder occurred in a Virginia home five years ago. Must the listing agent disclose this to prospective buyers?",
+      "correct_answer": "No, stigmatized events are not material defects",
+      "distractors": ["Yes, all deaths must be disclosed", "Only if the buyer asks in writing", "Yes, within the first 10 years"],
+      "explanation": "In Virginia, stigmatized property events such as murder, suicide, felony, or an occupant with HIV/AIDS are not considered material defects. Agents have no duty to disclose these events.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["stigmatized-property", "disclosure", "material-defect"]
+    },
+    {
+      "key_topic_ref": "VA-09.3",
+      "question_text": "A buyer asks a Virginia agent whether any registered sex offenders live near a listed property. What is the agent's obligation?",
+      "correct_answer": "Inform the buyer the registry is public",
+      "distractors": ["Search the registry and provide names", "Disclose all offenders within one mile", "State that no offenders live nearby"],
+      "explanation": "Virginia agents are not required to research or disclose sex offender information. However, they must inform the buyer that the sex offender registry exists and is publicly accessible for the buyer's own research.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["sex-offender-registry", "Megans-Law", "disclosure"]
+    },
+    {
+      "key_topic_ref": "VA-09.3",
+      "question_text": "A property uses a septic system instead of public sewer. What must the seller disclose?",
+      "correct_answer": "The presence of the septic system",
+      "distractors": ["Nothing if the system is functioning", "Only the system's installation date", "Only if the buyer plans to expand"],
+      "explanation": "Virginia requires disclosure of a septic system. The buyer should be informed so they can arrange for a septic inspection and understand ongoing maintenance obligations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["septic", "disclosure", "property-condition"]
+    },
+    {
+      "key_topic_ref": "VA-09.3",
+      "question_text": "Which of the following is considered a stigmatized property condition in Virginia that does NOT require disclosure?",
+      "correct_answer": "A previous occupant had HIV/AIDS",
+      "distractors": ["A failing septic system on the lot", "Known flooding in the basement", "Active termite infestation damage"],
+      "explanation": "Under Virginia law, an occupant's HIV/AIDS status is a stigmatized condition and is not a material defect requiring disclosure. Failing septic systems, flooding, and termite damage are physical defects that must be disclosed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["stigmatized-property", "HIV-AIDS", "disclosure"]
+    },
+    {
+      "key_topic_ref": "VA-09.3",
+      "question_text": "A seller's home was the site of a drug-related felony arrest. Under Virginia law, is this a material defect?",
+      "correct_answer": "No, felonies are stigmatized conditions",
+      "distractors": ["Yes, all criminal activity must be disclosed", "Only if the felony involved violence", "Only within 3 years of the event"],
+      "explanation": "Felonies that occurred on a property are considered stigmatized conditions in Virginia and are not material defects. The agent and seller have no duty to voluntarily disclose this information.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["stigmatized-property", "felony", "disclosure"]
+    },
+    {
+      "key_topic_ref": "VA-09.4",
+      "question_text": "A buyer purchases a condominium in Virginia and receives the resale certificate. How many days does the buyer have to cancel after receipt?",
+      "correct_answer": "3 days",
+      "distractors": ["5 days", "7 days", "10 days"],
+      "explanation": "After receiving the condominium resale certificate or POA disclosure packet, a Virginia buyer has 3 days to review the documents and cancel the contract if desired.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condo", "resale-certificate", "cancellation"]
+    },
+    {
+      "key_topic_ref": "VA-09.4",
+      "question_text": "A buyer requests the POA disclosure packet for a home in a homeowners association. How long does the POA have to provide it?",
+      "correct_answer": "14 days from the request",
+      "distractors": ["7 days from the request", "30 days from the request", "5 business days from the request"],
+      "explanation": "Virginia law gives a Property Owners' Association 14 days from the date of request to deliver the disclosure packet to the buyer. The POA may charge a reasonable fee for preparation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["POA", "disclosure-packet", "timeline"]
+    },
+    {
+      "key_topic_ref": "VA-09.4",
+      "question_text": "Which item would typically be included in a Virginia POA disclosure packet?",
+      "correct_answer": "Current assessments, fees, and reserve funds",
+      "distractors": ["The original developer's profit margins", "Individual owner financial statements", "Adjacent property tax assessments"],
+      "explanation": "POA disclosure packets include assessments, fees, pending litigation, reserve fund balances, and community rules and restrictions. These help buyers understand financial obligations and community governance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["POA", "disclosure-packet", "contents"]
+    },
+    {
+      "key_topic_ref": "VA-09.4",
+      "question_text": "A POA charges $350 to prepare a disclosure packet. Is this permitted under Virginia law?",
+      "correct_answer": "Yes, a reasonable fee is allowed",
+      "distractors": ["No, disclosure packets must be free", "Only if the seller pays the fee", "Only up to $100 maximum"],
+      "explanation": "Virginia law permits the POA to charge a reasonable fee for preparing the disclosure packet. The fee amount is not capped by statute but must be reasonable.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["POA", "disclosure-packet", "fee"]
+    },
+    {
+      "key_topic_ref": "VA-09.4",
+      "question_text": "A condo resale certificate reveals the association is involved in active litigation. How does this affect the buyer?",
+      "correct_answer": "The buyer can cancel within the review period",
+      "distractors": ["The sale is automatically voided", "The buyer must accept the risk", "Litigation voids the resale certificate"],
+      "explanation": "Active litigation disclosed in the resale certificate is important information for the buyer. The buyer may choose to cancel within their 3-day review period if the litigation poses unacceptable risk.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condo", "litigation", "cancellation"]
+    },
+    {
+      "key_topic_ref": "VA-09.5",
+      "question_text": "A Virginia agent cold-calls a prospect who is on the National Do-Not-Call Registry. What has the agent violated?",
+      "correct_answer": "Federal and state Do-Not-Call laws",
+      "distractors": ["Only state telemarketing regulations", "No law if calling about real estate", "Only REALTOR association ethics rules"],
+      "explanation": "Both federal and Virginia state Do-Not-Call laws apply to real estate solicitations. Agents must check the registry before making unsolicited calls and comply with both sets of regulations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Do-Not-Call", "telemarketing", "compliance"]
+    },
+    {
+      "key_topic_ref": "VA-09.5",
+      "question_text": "After a listing presentation, what should a Virginia agent leave with the property owner?",
+      "correct_answer": "Copies of all signed documents",
+      "distractors": ["Only a business card", "Nothing until the property sells", "A verbal summary of the agreement"],
+      "explanation": "Virginia licensees must provide copies of all documents to the parties involved. Leaving copies with clients ensures they have records of agreements, disclosures, and other transaction documents.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["document-handling", "copies", "best-practices"]
+    },
+    {
+      "key_topic_ref": "VA-09.5",
+      "question_text": "A consumer asks a Virginia agent about avoiding telemarketing calls. What should the agent disclose?",
+      "correct_answer": "The Do-Not-Call registry is available",
+      "distractors": ["There is no way to stop solicitations", "Only the state registry exists", "Call blocking is the only option"],
+      "explanation": "Virginia agents should inform consumers about the availability of the National Do-Not-Call Registry. This demonstrates compliance with disclosure requirements and good business practices.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Do-Not-Call", "consumer-information", "disclosure"]
+    },
+    {
+      "key_topic_ref": "VA-09.5",
+      "question_text": "Agent Martinez receives a signed buyer agency agreement. When must a copy be provided to the buyer?",
+      "correct_answer": "At the time of signing",
+      "distractors": ["Within 5 business days", "At closing only", "Only if the buyer requests one"],
+      "explanation": "Proper document handling requires that copies of all signed documents be provided to the parties at the time of signing. Delaying delivery of copies violates good practice standards.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["document-handling", "timing", "copies"]
+    },
+    {
+      "key_topic_ref": "VA-09.5",
+      "question_text": "Which best describes a Virginia licensee's obligation regarding due diligence in a transaction?",
+      "correct_answer": "Exercise reasonable care throughout",
+      "distractors": ["Guarantee a successful closing", "Only verify what the seller discloses", "Perform a full property inspection"],
+      "explanation": "Virginia licensees must exercise reasonable care and due diligence throughout the transaction. This includes proper document delivery, timely disclosures, and ensuring all parties receive appropriate information.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["due-diligence", "reasonable-care", "obligations"]
+    }
+  ]
+}

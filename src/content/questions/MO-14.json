@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MO-14",
+  "scope": "state",
+  "state": "MO",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MO-14.1",
+      "question_text": "Missouri follows which system for dividing property in a divorce?",
+      "correct_answer": "Equitable distribution of marital property",
+      "distractors": ["Community property with equal 50/50 split", "Common-law property based solely on title", "Tenancy by the entirety with automatic division"],
+      "explanation": "Missouri is an equitable distribution state, NOT a community property state. Courts divide marital property in a way that is fair (equitable) but not necessarily equal. Marital property includes assets acquired during marriage regardless of whose name is on the title.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["equitable-distribution", "marital-property", "divorce"]
+    },
+    {
+      "key_topic_ref": "MO-14.1",
+      "question_text": "A Missouri couple divorces. The husband purchased a rental property during the marriage using only his income. The property is titled in his name only. How is it classified?",
+      "correct_answer": "Marital property subject to equitable division",
+      "distractors": ["Separate property belonging solely to the husband", "Community property split equally between spouses", "Joint tenancy property requiring partition"],
+      "explanation": "In Missouri, property acquired during marriage is classified as marital property regardless of whose name appears on the title or whose income was used. It is subject to equitable (fair, not necessarily equal) distribution in divorce.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["marital-property", "title-irrelevant", "equitable-division"]
+    },
+    {
+      "key_topic_ref": "MO-14.1",
+      "question_text": "A Missouri resident inherited a cabin from her grandmother before marriage. After 15 years of marriage, is this cabin marital property?",
+      "correct_answer": "No, inherited property is separate property",
+      "distractors": ["Yes, after 10 years it becomes marital property", "Yes, all real estate becomes marital after marriage", "Only if the spouse contributed to its upkeep"],
+      "explanation": "In Missouri, property acquired before marriage, by gift, or by inheritance is classified as separate (nonmarital) property. However, if the owner commingles it with marital assets (e.g., using marital funds for improvements), it risks partial reclassification.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["separate-property", "inheritance", "commingling-risk"]
+    },
+    {
+      "key_topic_ref": "MO-14.1",
+      "question_text": "Does Missouri recognize common-law marriage?",
+      "correct_answer": "No, but recognizes valid ones from other states",
+      "distractors": ["Yes, after 7 years of cohabitation", "Yes, if the couple files a declaration", "No, and it does not recognize any from other states"],
+      "explanation": "Missouri does NOT recognize common-law marriage created within the state. However, Missouri does recognize valid common-law marriages from other states where such marriages are legally established.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["common-law-marriage", "not-recognized", "other-state-valid"]
+    },
+    {
+      "key_topic_ref": "MO-14.1",
+      "question_text": "In Missouri's equitable distribution system, 'equitable' means property division will be:",
+      "correct_answer": "Fair, but not necessarily a 50/50 split",
+      "distractors": ["An exact 50/50 division in all cases", "Based solely on each spouse's income", "Determined by which spouse holds the title"],
+      "explanation": "Equitable distribution means the court divides marital property fairly based on factors like each spouse's contributions, economic circumstances, and conduct. Fair does not mean equal; a 60/40 or 70/30 split is possible depending on circumstances.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["equitable-distribution", "fair-not-equal", "court-discretion"]
+    },
+    {
+      "key_topic_ref": "MO-14.2",
+      "question_text": "Missouri assesses residential real property at what percentage of market value?",
+      "correct_answer": "19% of market value",
+      "distractors": ["32% of market value", "12% of market value", "33.33% of market value"],
+      "explanation": "Missouri uses a classified assessment system. Residential property is assessed at 19% of market value. Commercial property is assessed at 32%, agricultural at 12%, and personal property at 33.33%.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "residential-assessment", "19-percent"]
+    },
+    {
+      "key_topic_ref": "MO-14.2",
+      "question_text": "A Missouri commercial building has a market value of $500,000. What is its assessed value?",
+      "correct_answer": "$160,000 at the 32% commercial rate",
+      "distractors": ["$95,000 at the 19% residential rate", "$60,000 at the 12% agricultural rate", "$166,650 at the 33.33% personal property rate"],
+      "explanation": "Missouri commercial property is assessed at 32% of market value. $500,000 x 0.32 = $160,000 assessed value. This is significantly higher than the 19% residential rate, reflecting Missouri's classified assessment system.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commercial-assessment", "32-percent", "classified-system"]
+    },
+    {
+      "key_topic_ref": "MO-14.2",
+      "question_text": "Missouri reassesses real property on what schedule?",
+      "correct_answer": "Every 2 years on odd-numbered years",
+      "distractors": ["Annually on January 1 of each year", "Every 4 years during election years", "Every 3 years on a rolling county basis"],
+      "explanation": "Missouri reassesses real property every 2 years on ODD-numbered years (2023, 2025, 2027, etc.). The State Tax Commission requires assessed values to fall within 90% to 110% of market value.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["reassessment-cycle", "odd-years", "biennial"]
+    },
+    {
+      "key_topic_ref": "MO-14.2",
+      "question_text": "A Missouri home's assessed value increased 18% during reassessment. What limitation applies?",
+      "correct_answer": "Over 15% requires a physical interior inspection",
+      "distractors": ["All increases are capped at 10% per reassessment cycle", "No limitation exists on assessment increases in Missouri", "The homeowner must file a formal appeal within 30 days"],
+      "explanation": "In Missouri, assessed value cannot increase more than 15% during a reassessment cycle without a physical interior inspection of the property. This protects homeowners from excessive assessment jumps based solely on market data.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["assessment-cap", "15-percent-limit", "interior-inspection"]
+    },
+    {
+      "key_topic_ref": "MO-14.2",
+      "question_text": "The State Tax Commission requires Missouri assessed values to fall within what range of market value?",
+      "correct_answer": "90% to 110% of market value",
+      "distractors": ["80% to 120% of market value", "95% to 105% of market value", "85% to 115% of market value"],
+      "explanation": "The Missouri State Tax Commission requires that assessed values (after applying the classification percentage) reflect 90% to 110% of actual market value. This ensures uniformity and fairness in property tax assessments across the state.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["assessment-range", "State-Tax-Commission", "90-110-percent"]
+    },
+    {
+      "key_topic_ref": "MO-14.3",
+      "question_text": "The Hancock Amendment to Missouri's constitution primarily limits what?",
+      "correct_answer": "Tax rate increases when property values rise",
+      "distractors": ["The total number of taxing districts per county", "Individual property assessment amounts", "State sales tax on real estate transactions"],
+      "explanation": "The 1980 Hancock Amendment requires that tax RATES be rolled back if property values rise faster than inflation. It limits levy growth to the lesser of actual growth, inflation, or 5%. It does NOT cap individual property assessments.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Hancock-Amendment", "tax-rate-rollback", "1980"]
+    },
+    {
+      "key_topic_ref": "MO-14.3",
+      "question_text": "Property values in a Missouri county rose 8% while inflation was 3%. Under the Hancock Amendment, the tax levy must be:",
+      "correct_answer": "Rolled back so revenue growth matches inflation",
+      "distractors": ["Kept the same with no adjustment needed", "Increased by 8% to match property values", "Reduced by 5% below the current rate"],
+      "explanation": "The Hancock Amendment requires tax rates to be rolled back when values rise faster than inflation. The levy growth is limited to the lesser of actual growth (8%), inflation (3%), or 5%. In this case, the 3% inflation rate controls, so revenue growth is limited to 3%.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Hancock-Amendment", "rate-rollback", "inflation-limit"]
+    },
+    {
+      "key_topic_ref": "MO-14.3",
+      "question_text": "Does Missouri offer a homestead exemption to reduce property taxes for homeowners?",
+      "correct_answer": "No, Missouri has no homestead exemption",
+      "distractors": ["Yes, $25,000 for primary residences", "Yes, but only for veterans and seniors", "Yes, $50,000 for first-time homebuyers"],
+      "explanation": "Missouri does NOT offer a homestead exemption for property taxes. However, the state does offer a Circuit Breaker tax credit program for low-income residents age 65 and older or those who are disabled.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["no-homestead-exemption", "Circuit-Breaker", "property-tax"]
+    },
+    {
+      "key_topic_ref": "MO-14.3",
+      "question_text": "Missouri's Circuit Breaker tax credit program benefits which group of residents?",
+      "correct_answer": "Low-income residents age 65+ or disabled",
+      "distractors": ["All homeowners regardless of age or income", "First-time homebuyers under age 35", "Veterans with service-connected disabilities only"],
+      "explanation": "Missouri's Circuit Breaker credit provides property tax relief to low-income residents who are age 65 and older or disabled. Since Missouri has no homestead exemption, this is the primary property tax relief program for qualifying residents.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Circuit-Breaker", "senior-tax-relief", "disability-credit"]
+    },
+    {
+      "key_topic_ref": "MO-14.3",
+      "question_text": "HB 594, effective August 28, 2025, made Missouri the first state to do what?",
+      "correct_answer": "Eliminate individual capital gains tax entirely",
+      "distractors": ["Eliminate property taxes for seniors over 70", "Remove all transfer taxes on real estate sales", "Cap annual property tax increases at 2%"],
+      "explanation": "HB 594, signed into law and effective August 28, 2025, made Missouri the first income-tax state to completely eliminate individual capital gains tax. The exemption applies retroactively to gains from January 1, 2025. This has significant implications for real estate investors selling properties in Missouri.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HB-594", "capital-gains", "first-state"]
+    }
+  ]
+}

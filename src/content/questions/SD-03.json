@@ -1,0 +1,118 @@
+{
+  "standard_ref": "SD-03",
+  "scope": "state",
+  "state": "SD",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "SD-03.1",
+      "question_text": "Under SDCL 36-21A-33, which action in the year before applying could result in license denial?",
+      "correct_answer": "Writing insufficient funds checks",
+      "distractors": ["Changing jobs more than twice", "Filing a personal bankruptcy", "Receiving a traffic citation"],
+      "explanation": "Writing NSF checks within the calendar year before application is specifically listed as grounds for denial under SDCL 36-21A-33. This reflects concerns about financial responsibility in handling client funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["enforcement", "denial", "NSF-checks"]
+    },
+    {
+      "key_topic_ref": "SD-03.1",
+      "question_text": "A license applicant was previously disciplined by their state's insurance commission. Can the SDREC deny the application?",
+      "correct_answer": "Yes, prior discipline from any regulatory agency counts",
+      "distractors": ["No, only real estate discipline is relevant here", "No, out-of-state actions cannot be considered", "Yes, but only if the discipline was within 5 years"],
+      "explanation": "Prior discipline by ANY regulatory agency — real estate, appraiser, mortgage broker, auctioneer, insurance, securities, or law — is grounds for license denial. The SDREC reviews the applicant's full regulatory history across professions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["enforcement", "denial", "prior-discipline"]
+    },
+    {
+      "key_topic_ref": "SD-03.1",
+      "question_text": "Which of the following is grounds for disciplinary action against an active SD licensee?",
+      "correct_answer": "Failure to maintain trust account records",
+      "distractors": ["Declining to list a property below market value", "Refusing to work on weekends or holidays", "Choosing not to join a local MLS"],
+      "explanation": "Failure to maintain proper trust account records is one of the most common violations in South Dakota. Other common violations include incomplete agency agreements, missing disclosure forms, advertising violations, and failure to supervise licensees.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["enforcement", "discipline", "trust-account"]
+    },
+    {
+      "key_topic_ref": "SD-03.1",
+      "question_text": "A licensee deliberately omits a prior felony conviction on their renewal application. What is this classified as?",
+      "correct_answer": "Misrepresentation on an application",
+      "distractors": ["A minor administrative oversight", "An acceptable omission if not RE-related", "A violation only if the crime is recent"],
+      "explanation": "Deliberate misstatements, omissions, or misrepresentations on a license application are specific grounds for denial or discipline under SDCL 36-21A-33. This applies to both initial applications and renewals.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["enforcement", "misrepresentation", "application"]
+    },
+    {
+      "key_topic_ref": "SD-03.1",
+      "question_text": "A broker consistently fails to ensure their associates complete agency disclosure forms. Which violation does this represent?",
+      "correct_answer": "Failure to supervise licensees",
+      "distractors": ["Advertising without broker identification", "Commingling of trust account funds", "Practicing without a valid license"],
+      "explanation": "Responsible brokers must ensure their licensees comply with all laws and rules, including completing agency agreements and disclosure forms. Failure to supervise is a common violation that falls on the responsible broker, not just the individual associate.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["enforcement", "supervision", "common-violations"]
+    },
+    {
+      "key_topic_ref": "SD-03.2",
+      "question_text": "After receiving a complaint, how many days does a licensee have to file a written affidavit answer?",
+      "correct_answer": "20 days",
+      "distractors": ["10 days", "30 days", "45 days"],
+      "explanation": "South Dakota requires the licensee to file a written affidavit answer within 20 days of receiving the complaint. All complaints to the SDREC must be submitted in writing, and the commission investigates in priority order by date received.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["enforcement", "complaint", "timeline"]
+    },
+    {
+      "key_topic_ref": "SD-03.2",
+      "question_text": "Which sanction can the SDREC impose after finding a licensee guilty of violating license law?",
+      "correct_answer": "Reprimand, fine, suspension, or any combination",
+      "distractors": ["Only license revocation with no alternatives", "A written warning with no further action", "Only monetary fines up to a set maximum"],
+      "explanation": "The SDREC has flexible sanctioning authority. It can impose a letter of reprimand, suspension, revocation, monetary fines, probation with conditions, required additional education, or any combination of these based on the severity of the violation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["enforcement", "sanctions", "discipline"]
+    },
+    {
+      "key_topic_ref": "SD-03.2",
+      "question_text": "How must complaints to the SDREC be submitted?",
+      "correct_answer": "In writing",
+      "distractors": ["By telephone only", "In person at the SDREC office", "Through a licensed attorney"],
+      "explanation": "All complaints to the SDREC must be submitted in writing. The commission staff then investigates, prioritizing cases by date of receipt. After investigation, the commission may dismiss, reprimand, suspend, revoke, or fine the licensee.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["enforcement", "complaint", "process"]
+    },
+    {
+      "key_topic_ref": "SD-03.2",
+      "question_text": "A licensee's hearing results in a finding of ongoing violations. The SDREC places the licensee on probation and requires additional coursework. Is this a valid sanction?",
+      "correct_answer": "Yes, the SDREC can combine multiple sanctions",
+      "distractors": ["No, probation and education cannot be combined", "No, only one sanction may be imposed at a time", "Yes, but only if the licensee agrees to it"],
+      "explanation": "The SDREC can impose any combination of sanctions including probation with conditions and required additional education. The commission has broad discretion to tailor discipline to the nature and severity of the violation.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["enforcement", "sanctions", "combined-penalties"]
+    },
+    {
+      "key_topic_ref": "SD-03.2",
+      "question_text": "A licensee wants to appeal the SDREC's disciplinary decision. What is their recourse?",
+      "correct_answer": "Appeal to circuit court under SDCL Chapter 1-26",
+      "distractors": ["File a new complaint with the Governor's office", "Request a rehearing before the same commission", "Appeal directly to the state Supreme Court"],
+      "explanation": "Licensees can appeal SDREC disciplinary decisions through the state's Administrative Procedures Act (SDCL Chapter 1-26) by filing in circuit court. This provides judicial review of commission decisions as a due process safeguard.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["enforcement", "appeal", "due-process"]
+    }
+  ]
+}

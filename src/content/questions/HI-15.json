@@ -1,0 +1,173 @@
+{
+  "standard_ref": "HI-15",
+  "scope": "state",
+  "state": "HI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "HI-15.1",
+      "question_text": "Hawaii's State Land Use Law (HRS 205) classifies all land into how many districts?",
+      "correct_answer": "Four districts",
+      "distractors": ["Three districts", "Five districts", "Six districts"],
+      "explanation": "Hawaii's Land Use Law, enacted in 1961 as the first comprehensive statewide land use system in the US, classifies ALL land into four districts: Urban, Rural, Agricultural, and Conservation. The Land Use Commission (LUC) oversees this classification.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land-use", "HRS-205", "districts"]
+    },
+    {
+      "key_topic_ref": "HI-15.1",
+      "question_text": "A landowner wants to reclassify 20 acres from Agricultural to Urban district. Who has jurisdiction over this boundary change?",
+      "correct_answer": "The Land Use Commission (LUC)",
+      "distractors": ["The county planning department", "The Board of Land and Natural Resources", "The Department of Agriculture"],
+      "explanation": "For boundary changes involving more than 15 acres, the Land Use Commission (LUC) has jurisdiction and must hold a hearing. For changes of 15 acres or less, counties may reclassify land. The LUC consists of 9 members.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["LUC", "boundary-change", "reclassification"]
+    },
+    {
+      "key_topic_ref": "HI-15.1",
+      "question_text": "Which state land use district is administered by the Board of Land and Natural Resources rather than the LUC?",
+      "correct_answer": "Conservation district",
+      "distractors": ["Agricultural district", "Rural district", "Urban district"],
+      "explanation": "The Conservation district is the only one of the four districts administered by the Board of Land and Natural Resources (BLNR), not the Land Use Commission. The other three districts (Urban, Rural, Agricultural) fall under LUC classification authority.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conservation", "BLNR", "land-use"]
+    },
+    {
+      "key_topic_ref": "HI-15.1",
+      "question_text": "In Hawaii's Rural district, what is the minimum lot size for residential use?",
+      "correct_answer": "One-half acre",
+      "distractors": ["One acre", "One-quarter acre", "Two acres"],
+      "explanation": "The Rural district serves as a buffer between Urban and Agricultural districts. It allows a maximum of one house per half-acre, with a minimum lot size of one-half acre. This limits density while permitting residential development.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rural-district", "lot-size", "land-use"]
+    },
+    {
+      "key_topic_ref": "HI-15.1",
+      "question_text": "A county wants to reclassify 10 acres from Rural to Urban district. Does the county have authority to do this?",
+      "correct_answer": "Yes, counties may reclassify 15 acres or less",
+      "distractors": ["No, only the LUC can reclassify", "Only with BLNR approval", "Only through a statewide ballot measure"],
+      "explanation": "For boundary changes of 15 acres or less, counties have the authority to reclassify land between districts. Since the proposed reclassification involves only 10 acres, the county may proceed without LUC involvement. Changes over 15 acres require a LUC hearing.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["reclassification", "county-authority", "acreage"]
+    },
+    {
+      "key_topic_ref": "HI-15.2",
+      "question_text": "What is the purpose of Hawaii's Special Management Area (SMA) under HRS 205A?",
+      "correct_answer": "To protect coastal areas from harmful development",
+      "distractors": ["To designate military restricted zones", "To create wildlife preserves only", "To limit foreign property ownership"],
+      "explanation": "The Special Management Area (SMA) under HRS 205A establishes a coastal buffer zone set by each county. Any development within the SMA requires an SMA permit before other permits can be issued, ensuring coastal resources are protected.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SMA", "coastal", "HRS-205A"]
+    },
+    {
+      "key_topic_ref": "HI-15.2",
+      "question_text": "A developer plans a $900,000 project on a non-shoreline parcel within the SMA. Which type of SMA permit is likely required?",
+      "correct_answer": "SMA Use Permit from Planning Commission",
+      "distractors": ["SMA Minor Permit from the county", "No SMA permit needed at this cost", "A federal coastal development permit"],
+      "explanation": "For non-shoreline parcels within the SMA, projects exceeding the $750,000 threshold (per Act 125, 2025) or those with substantial impact require an SMA Use Permit, which must be approved by the county Planning Commission. Below the threshold, a Minor Permit may suffice.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SMA", "use-permit", "threshold"]
+    },
+    {
+      "key_topic_ref": "HI-15.2",
+      "question_text": "What is the standard shoreline setback in Hawaii?",
+      "correct_answer": "40 feet from the certified shoreline",
+      "distractors": ["20 feet from the certified shoreline", "60 feet from the certified shoreline", "100 feet from the certified shoreline"],
+      "explanation": "Hawaii's standard shoreline setback is 40 feet from the certified shoreline. Shallow lots (100 feet or less in depth or less than 50% buildable) have a minimum 20-foot setback. Counties may impose greater setback requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["shoreline", "setback", "coastal"]
+    },
+    {
+      "key_topic_ref": "HI-15.2",
+      "question_text": "A beachfront lot is only 90 feet deep. What minimum shoreline setback applies?",
+      "correct_answer": "20 feet",
+      "distractors": ["40 feet", "30 feet", "10 feet"],
+      "explanation": "For shallow lots of 100 feet or less in depth (or less than 50% buildable area), the minimum shoreline setback is reduced to 20 feet from the standard 40 feet. This accommodation prevents shallow lots from becoming entirely unbuildable due to setback requirements.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["shoreline", "setback", "shallow-lot"]
+    },
+    {
+      "key_topic_ref": "HI-15.2",
+      "question_text": "Before obtaining an SMA Use Permit, what must a developer provide for a shoreline project?",
+      "correct_answer": "Environmental assessment and shoreline survey",
+      "distractors": ["Only a building permit application", "Only a title search", "Only a financial feasibility study"],
+      "explanation": "SMA Use Permits for shoreline development require both an environmental assessment and a certified shoreline survey. These ensure the project will not adversely affect coastal resources and that the shoreline boundary is accurately established.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SMA", "environmental-assessment", "shoreline-survey"]
+    },
+    {
+      "key_topic_ref": "HI-15.3",
+      "question_text": "A property on the Big Island is located in USGS Lava Zone 1. What must the seller disclose?",
+      "correct_answer": "The lava zone designation and associated risks",
+      "distractors": ["Nothing unless lava damage has occurred", "Only that the property is on the Big Island", "Only the insurance premium amount"],
+      "explanation": "Sellers must disclose the lava zone designation. The Big Island has 9 USGS lava zones, with Zone 1 being the highest risk. Properties in Zones 1-2 face significant insurance challenges, and this information materially affects a buyer's purchase decision.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lava-zones", "disclosure", "Big-Island"]
+    },
+    {
+      "key_topic_ref": "HI-15.3",
+      "question_text": "Hawaii became the first state to require disclosure of which environmental risk beginning May 2022?",
+      "correct_answer": "Sea level rise exposure",
+      "distractors": ["Volcanic activity zones", "Tsunami inundation zones", "Hurricane wind zones"],
+      "explanation": "Hawaii became the first state to require disclosure of sea level rise exposure, effective May 2022. Properties within the 3.2-foot sea level rise exposure area must be disclosed to buyers, reflecting the state's vulnerability to rising ocean levels.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sea-level-rise", "disclosure", "first-state"]
+    },
+    {
+      "key_topic_ref": "HI-15.3",
+      "question_text": "Under Act 125 of 2017, by what date must all cesspools in Hawaii be converted?",
+      "correct_answer": "January 1, 2050",
+      "distractors": ["January 1, 2030", "January 1, 2035", "January 1, 2040"],
+      "explanation": "Act 125 of 2017 requires all cesspools in Hawaii to be converted to approved sewage systems by January 1, 2050. Hawaii had an estimated 88,000 cesspools, the most of any state, posing significant environmental risks to groundwater and ocean quality.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["cesspool", "conversion", "Act-125"]
+    },
+    {
+      "key_topic_ref": "HI-15.3",
+      "question_text": "Who is eligible for a Hawaiian Home Lands lease administered by DHHL?",
+      "correct_answer": "Persons with at least 50% Hawaiian blood quantum",
+      "distractors": ["Any Hawaii resident for 5+ years", "Persons with any Hawaiian ancestry", "Only Native Hawaiian organizations"],
+      "explanation": "Department of Hawaiian Home Lands (DHHL) leases on approximately 200,000 acres are available only to persons with at least 50% Hawaiian blood quantum. These are 99-year leases at $1/year, extendable to 199 years, and cannot be sold on the open market.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["DHHL", "Hawaiian-Home-Lands", "eligibility"]
+    },
+    {
+      "key_topic_ref": "HI-15.3",
+      "question_text": "A DHHL leaseholder passes away. What blood quantum must their child have to inherit the lease as a successor?",
+      "correct_answer": "25% Hawaiian blood quantum",
+      "distractors": ["50% Hawaiian blood quantum", "Any percentage of Hawaiian blood", "12.5% Hawaiian blood quantum"],
+      "explanation": "Successors who are children, grandchildren, or siblings of the original leaseholder need only 25% Hawaiian blood quantum to inherit a DHHL lease. Parents of the leaseholder, however, must have 50% blood quantum. The lease cannot be sold on the open market.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["DHHL", "succession", "blood-quantum"]
+    }
+  ]
+}

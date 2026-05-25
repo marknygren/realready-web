@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NE-11",
+  "scope": "state",
+  "state": "NE",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NE-11.1",
+      "question_text": "Which of the following is authorized to conduct a real estate closing in Nebraska?",
+      "correct_answer": "A Nebraska-licensed real estate broker",
+      "distractors": ["Only a Nebraska-licensed attorney", "Only a title insurance company", "A licensed appraiser"],
+      "explanation": "Nebraska is not an attorney-only closing state. Authorized closing agents include Nebraska attorneys, real estate brokers, banks, savings and loan associations, credit unions, Nebraska trust companies, and title insurers authorized to do business in Nebraska.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing agents", "broker authority"]
+    },
+    {
+      "key_topic_ref": "NE-11.1",
+      "question_text": "A buyer wants her out-of-state bank to handle the closing on a Nebraska property. Is this permitted?",
+      "correct_answer": "No, the bank must operate in Nebraska",
+      "distractors": ["Yes, any FDIC-insured bank qualifies", "Yes, if the buyer's lender approves", "Only if a Nebraska attorney supervises"],
+      "explanation": "Nebraska limits authorized closing agents to in-state entities. Banks, savings and loan associations, and credit unions must operate in Nebraska to conduct closings. An out-of-state bank without Nebraska operations is not authorized.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["closing agents", "bank closings", "Nebraska institutions"]
+    },
+    {
+      "key_topic_ref": "NE-11.1",
+      "question_text": "A Nebraska trust company offers to handle the closing for a commercial transaction. Is the trust company authorized?",
+      "correct_answer": "Yes, NE trust companies may conduct closings",
+      "distractors": ["No, only attorneys handle commercial closings", "Only if the amount is under $500,000", "Only if both parties consent in writing"],
+      "explanation": "Nebraska trust companies are among the entities authorized to conduct real estate closings. The full list includes NE attorneys, RE brokers, banks, savings and loan associations, credit unions, NE trust companies, and title insurers authorized in NE.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["closing agents", "trust companies"]
+    },
+    {
+      "key_topic_ref": "NE-11.1",
+      "question_text": "A title insurer from another state wants to conduct closings in Nebraska. What must it have?",
+      "correct_answer": "Authorization to do business in Nebraska",
+      "distractors": ["A federal charter only", "Approval from the seller's attorney", "A Nebraska real estate license"],
+      "explanation": "Title insurers must be authorized to do business in Nebraska before they can conduct real estate closings. Out-of-state title companies cannot simply begin closing transactions without meeting Nebraska's authorization requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["closing agents", "title insurers", "authorization"]
+    },
+    {
+      "key_topic_ref": "NE-11.1",
+      "question_text": "A buyer asks whether Nebraska requires an attorney to be present at closing. What is the correct answer?",
+      "correct_answer": "No, Nebraska is not an attorney-only state",
+      "distractors": ["Yes, an attorney must supervise all closings", "Only for transactions over $100,000", "Only for residential closings"],
+      "explanation": "Nebraska does not require attorney presence at closing. Multiple entity types are authorized to conduct closings, including real estate brokers, banks, credit unions, trust companies, and title insurers authorized in the state.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing agents", "attorney requirement"]
+    },
+    {
+      "key_topic_ref": "NE-11.2",
+      "question_text": "A non-lawyer abstractor prepares an abstract of title. Who must render the title opinion based on that abstract?",
+      "correct_answer": "A licensed attorney",
+      "distractors": ["The abstractor who prepared it", "The title insurance company", "The county register of deeds"],
+      "explanation": "In Nebraska, non-lawyer abstractors may prepare abstracts of title, but only licensed attorneys may render title opinions. Interpreting the legal significance of the chain of title constitutes the practice of law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["abstracts", "title opinion", "attorney required"]
+    },
+    {
+      "key_topic_ref": "NE-11.2",
+      "question_text": "A title insurance commitment is issued on March 1. By what date must the transaction close for the commitment to remain valid?",
+      "correct_answer": "August 28, within 180 days",
+      "distractors": ["June 1, within 90 days", "March 31, within 30 days", "March 1 of the following year"],
+      "explanation": "Nebraska title insurance commitments are valid for 180 days from the date of issuance. A commitment issued March 1 would expire around August 28, requiring the closing to occur before that date or a new commitment to be obtained.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["title insurance", "commitment validity", "180 days"]
+    },
+    {
+      "key_topic_ref": "NE-11.2",
+      "question_text": "Historically, which method of title assurance was most commonly used in Nebraska before title insurance became dominant?",
+      "correct_answer": "Abstracts reviewed by attorneys",
+      "distractors": ["Torrens certificate system", "Owner's affidavit of title", "Federal title guarantees"],
+      "explanation": "Nebraska historically relied on abstracts of title reviewed by attorneys to establish title assurance. While title insurance has now become the predominant method, the abstract-and-attorney-opinion approach remains a recognized practice.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["abstracts", "title assurance", "Nebraska history"]
+    },
+    {
+      "key_topic_ref": "NE-11.2",
+      "question_text": "A buyer's lender requires title insurance, but the seller offers only an abstract with attorney opinion. What should the buyer do?",
+      "correct_answer": "Obtain title insurance for the lender",
+      "distractors": ["Accept the existing abstract as sufficient", "Ask the NREC to mediate the dispute", "Cancel the transaction and start over"],
+      "explanation": "While abstracts with attorney opinions are still valid in Nebraska, most modern lenders require title insurance. The buyer must obtain title insurance to meet lender requirements, even though Nebraska recognizes both methods of title assurance.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["title insurance", "abstracts", "lender requirements"]
+    },
+    {
+      "key_topic_ref": "NE-11.2",
+      "question_text": "Who is permitted to prepare an abstract of title in Nebraska?",
+      "correct_answer": "Non-lawyer abstractors and attorneys",
+      "distractors": ["Only licensed attorneys", "Only title insurance companies", "Only the county register of deeds"],
+      "explanation": "Nebraska allows non-lawyer abstractors to prepare abstracts of title. However, only attorneys may render title opinions based on those abstracts. The preparation of an abstract is a factual compilation, not the practice of law.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["abstractors", "title preparation", "non-lawyer"]
+    },
+    {
+      "key_topic_ref": "NE-11.3",
+      "question_text": "A property sells for $250,000 in Nebraska after September 2025. What is the documentary stamp tax owed?",
+      "correct_answer": "$580.00",
+      "distractors": ["$562.50", "$625.00", "$500.00"],
+      "explanation": "Effective September 2025, the Nebraska documentary stamp tax rate is $2.32 per $1,000 of consideration. For a $250,000 sale: 250 x $2.32 = $580.00. The previous rate was $2.25 per $1,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["documentary stamp tax", "calculation", "transfer tax"]
+    },
+    {
+      "key_topic_ref": "NE-11.3",
+      "question_text": "A deed is transferred between spouses as part of a divorce decree. Is documentary stamp tax required?",
+      "correct_answer": "No, divorce transfers are exempt",
+      "distractors": ["Yes, at the standard rate", "Yes, but at half the standard rate", "Only if ordered by the court"],
+      "explanation": "Nebraska exempts certain transfers from the documentary stamp tax, including transfers between spouses pursuant to a divorce decree, government transfers, and certain trust transfers.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["documentary stamp tax", "exemptions", "divorce transfer"]
+    },
+    {
+      "key_topic_ref": "NE-11.3",
+      "question_text": "Buyer A records a deed on Monday. Buyer B purchased the same property and records Tuesday without knowledge of Buyer A. Who prevails?",
+      "correct_answer": "Buyer A, who recorded first",
+      "distractors": ["Buyer B, as a bona fide purchaser", "Neither until a court decides", "Whichever buyer paid more"],
+      "explanation": "Nebraska uses a notice recording system where a subsequent bona fide purchaser without notice prevails. However, since Buyer A already recorded, Buyer B has constructive notice of Buyer A's deed. Buyer A prevails.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["notice recording", "recording system", "constructive notice"]
+    },
+    {
+      "key_topic_ref": "NE-11.3",
+      "question_text": "Nebraska uses which type of recording system for real property conveyances?",
+      "correct_answer": "Notice recording system",
+      "distractors": ["Race recording system", "Race-notice recording system", "Torrens registration system"],
+      "explanation": "Nebraska operates under a notice recording system. Under this system, a subsequent bona fide purchaser who acquires property without notice of a prior unrecorded conveyance prevails over the earlier unrecorded grantee.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["notice recording", "recording system"]
+    },
+    {
+      "key_topic_ref": "NE-11.3",
+      "question_text": "The city of Omaha transfers a park to the county. Is documentary stamp tax owed on this conveyance?",
+      "correct_answer": "No, government transfers are exempt",
+      "distractors": ["Yes, at the standard rate", "Yes, but the county pays it", "Only if the value exceeds $100,000"],
+      "explanation": "Government transfers are exempt from the Nebraska documentary stamp tax. Other exemptions include divorce transfers and certain trust transfers. The exemption applies regardless of the property's value.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["documentary stamp tax", "government exemption", "transfer tax"]
+    }
+  ]
+}

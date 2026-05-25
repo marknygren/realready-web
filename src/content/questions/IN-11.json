@@ -1,0 +1,233 @@
+{
+  "standard_ref": "IN-11",
+  "scope": "state",
+  "state": "IN",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IN-11.1",
+      "question_text": "A listing broker receives an offer on her seller's property at 5:00 PM on a Friday. The seller is traveling. What is the broker's obligation?",
+      "correct_answer": "Present the offer promptly, regardless of timing or inconvenience",
+      "distractors": [
+        "Hold the offer until Monday when the seller returns to the office",
+        "Present only if the offer meets the seller's minimum price",
+        "Wait until a second offer arrives to present both simultaneously"
+      ],
+      "explanation": "Indiana requires all offers to be presented promptly to the seller. A broker cannot delay presentation based on the seller's travel schedule, the offer price, or a hope that a better offer will arrive. Withholding or delaying an offer is a violation of the broker's fiduciary duty.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["offer-presentation", "prompt-presentation", "fiduciary-duty", "IN-11.1"]
+    },
+    {
+      "key_topic_ref": "IN-11.1",
+      "question_text": "A listing broker receives two offers simultaneously. The seller has verbally told the broker she is only interested in offers above $350,000. One offer is for $330,000 and one is for $370,000. What must the broker do?",
+      "correct_answer": "Present both offers to the seller without filtering by price",
+      "distractors": [
+        "Present only the $370,000 offer per the seller's stated preference",
+        "Reject the lower offer and notify only that buyer's broker",
+        "Ask the seller's attorney to review both and advise which to see"
+      ],
+      "explanation": "All offers must be presented to the seller, even when the seller has expressed a price preference. A seller's verbal instruction to filter offers does not authorize the broker to withhold offers. Written seller instructions limiting what is presented may be an exception, but a verbal preference is not.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["offer-presentation", "multiple-offers", "IN-11.1"]
+    },
+    {
+      "key_topic_ref": "IN-11.1",
+      "question_text": "A seller accepts an offer and the listing broker sends a counteroffer to the buyer's broker. Three days pass without any response from the buyer's broker. What is the buyer's broker's obligation?",
+      "correct_answer": "Communicate the counteroffer to the buyer promptly and relay the response",
+      "distractors": [
+        "Wait for the buyer to contact the broker before conveying the counteroffer",
+        "Advise the buyer only if the counteroffer improves on the buyer's original terms",
+        "Decline to act until the counteroffer is formalized in a written addendum"
+      ],
+      "explanation": "The buyer's broker has an obligation to communicate counteroffers promptly to the buyer client and to relay the buyer's response back without delay. Failing to promptly transmit a counteroffer is the same type of violation as withholding an original offer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["counteroffers", "prompt-communication", "IN-11.1"]
+    },
+    {
+      "key_topic_ref": "IN-11.1",
+      "question_text": "A listing broker receives a low offer and, believing it would frustrate the seller, decides not to present it until a better offer comes in. The seller later learns of the withheld offer. What is the most likely consequence for the broker?",
+      "correct_answer": "Disciplinary action by IREC for failing to present all offers promptly",
+      "distractors": [
+        "No consequence because the broker was protecting the seller's interests",
+        "A civil fine paid to the buyer for lost opportunity",
+        "License suspension pending a hearing on the buyer's damages"
+      ],
+      "explanation": "A broker who withholds an offer — even with the intent to protect the seller — violates Indiana's requirement to present all offers promptly. This can result in disciplinary action by the Indiana Real Estate Commission (IREC), including fines, suspension, or revocation. The broker's judgment about offer quality does not authorize withholding.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["offer-presentation", "IREC-discipline", "withheld-offers", "IN-11.1"]
+    },
+    {
+      "key_topic_ref": "IN-11.1",
+      "question_text": "A seller instructs her listing broker in writing to reject all offers under $400,000 without presenting them. An offer for $385,000 arrives. What should the broker do?",
+      "correct_answer": "Follow the written seller instruction and decline the offer without presenting it",
+      "distractors": [
+        "Present the offer despite the seller's instruction to protect the buyer",
+        "Present the offer and note the seller's written instruction alongside it",
+        "Contact IREC before acting on the seller's written instruction"
+      ],
+      "explanation": "When a seller provides written instructions authorizing the broker to decline offers below a certain threshold, the broker may act on those instructions without presenting each offer. A written seller directive differs from a broker's unilateral decision to withhold offers, which is prohibited.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["offer-presentation", "seller-instructions", "written-directive", "IN-11.1"]
+    },
+    {
+      "key_topic_ref": "IN-11.2",
+      "question_text": "A purchase agreement is accepted on Monday. When must the broker deposit the buyer's earnest money check?",
+      "correct_answer": "Within a reasonable time after acceptance of the agreement",
+      "distractors": [
+        "Immediately upon receipt, before the agreement is accepted",
+        "Within exactly 24 hours of acceptance by law",
+        "On the closing date specified in the purchase agreement"
+      ],
+      "explanation": "Indiana requires earnest money to be deposited within a reasonable time after the purchase agreement is accepted. The law does not specify a rigid 24-hour deadline but requires prompt handling. Holding the check until closing would be improper.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest-money", "deposit-timing", "IN-11.2"]
+    },
+    {
+      "key_topic_ref": "IN-11.2",
+      "question_text": "A purchase agreement is silent about who holds the earnest money and under what conditions it is disbursed. A dispute arises after the deal falls through. What is the primary problem?",
+      "correct_answer": "The purchase agreement should have specified the holder and disbursement conditions",
+      "distractors": [
+        "The broker must return the money to the buyer automatically",
+        "The seller is entitled to the earnest money as liquidated damages by default",
+        "IREC will determine disbursement through mandatory arbitration"
+      ],
+      "explanation": "Indiana expects the purchase agreement to specify who holds the earnest money and the conditions under which it will be disbursed. When those terms are absent, a dispute becomes much harder to resolve and may require litigation. The broker should not disburse without clear agreement or court order.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["earnest-money", "purchase-agreement", "disbursement", "IN-11.2"]
+    },
+    {
+      "key_topic_ref": "IN-11.2",
+      "question_text": "The seller and buyer both demand the earnest money after the transaction falls through. The listing broker holds the funds. What is the broker's best course of action?",
+      "correct_answer": "Retain the funds and seek written agreement or court interpleader",
+      "distractors": [
+        "Release funds to the seller as the principal client",
+        "Return funds to the buyer because the transaction did not close",
+        "Transfer funds to IREC pending resolution of the dispute"
+      ],
+      "explanation": "When both parties claim earnest money, the broker must not disburse to either party without mutual written authorization or a court order. Interpleader — depositing the funds with the court — is appropriate when the parties cannot agree. Releasing to either party unilaterally exposes the broker to liability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "disputed-funds", "interpleader", "IN-11.2"]
+    },
+    {
+      "key_topic_ref": "IN-11.2",
+      "question_text": "A buyer's check for earnest money bounces after the purchase agreement is accepted. The broker does not notify the seller. What has the broker done wrong?",
+      "correct_answer": "Failed to promptly disclose a material fact affecting the transaction to the seller",
+      "distractors": [
+        "Committed conversion by depositing a bad check",
+        "Nothing, because the broker is not responsible for the buyer's finances",
+        "Violated commingling rules by mixing the failed check with trust funds"
+      ],
+      "explanation": "A bounced earnest money check is a material fact that the listing broker must disclose to the seller promptly. Failing to do so denies the seller critical information needed to decide whether to continue the transaction. This is a breach of fiduciary duty, not a commingling or conversion issue.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["earnest-money", "disclosure", "material-fact", "IN-11.2"]
+    },
+    {
+      "key_topic_ref": "IN-11.2",
+      "question_text": "A purchase agreement specifies that the earnest money is non-refundable if the buyer defaults. The buyer defaults and demands the money back. What should the broker do?",
+      "correct_answer": "Follow the purchase agreement terms and release to the seller upon confirmation of default",
+      "distractors": [
+        "Return the money to the buyer and let the seller sue for damages",
+        "Hold the money indefinitely until a court issues an order",
+        "Split the money equally between buyer and seller to avoid dispute"
+      ],
+      "explanation": "When the purchase agreement clearly specifies disbursement conditions — including that earnest money is forfeited upon buyer default — the broker may release the funds to the seller once the default is confirmed and both parties acknowledge it. The agreement's terms govern, and the broker should not deviate from them absent a dispute.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "buyer-default", "disbursement", "IN-11.2"]
+    },
+    {
+      "key_topic_ref": "IN-11.3",
+      "question_text": "A broker deposits client earnest money into the firm's operating account because the trust account is temporarily low. What violation has occurred?",
+      "correct_answer": "Commingling — client funds mixed with firm operating funds",
+      "distractors": [
+        "Conversion — client funds used for unauthorized purposes",
+        "No violation if the funds are transferred to trust within 24 hours",
+        "A technical error only; no violation if no client funds were spent"
+      ],
+      "explanation": "Placing client funds in a firm's operating account — even temporarily — constitutes commingling, which is prohibited regardless of intent or duration. Conversion is the more serious act of actually spending or misappropriating client funds. Both are violations, but the described act is commingling.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "commingling", "IN-11.3"]
+    },
+    {
+      "key_topic_ref": "IN-11.3",
+      "question_text": "A managing broker wants to earn interest on the firm's trust account holding buyer earnest money. What does Indiana law require before interest can accrue?",
+      "correct_answer": "Written consent from all parties whose funds are in the account",
+      "distractors": [
+        "Approval from IREC before opening an interest-bearing trust account",
+        "Interest is never permitted on real estate trust accounts in Indiana",
+        "Notification to IREC within 30 days of establishing an interest-bearing account"
+      ],
+      "explanation": "Indiana permits trust accounts to be interest-bearing, but only with written consent from the clients whose funds are being held. Without that written consent, the broker cannot retain interest earned on client funds. IREC approval is not required, but client consent is mandatory.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "interest-bearing", "written-consent", "IN-11.3"]
+    },
+    {
+      "key_topic_ref": "IN-11.3",
+      "question_text": "IREC notifies a managing broker that it will conduct an audit of the firm's trust account records. The managing broker argues the audit is improper because no complaint has been filed. Is the managing broker correct?",
+      "correct_answer": "No, IREC may audit trust accounts at any time without a complaint",
+      "distractors": [
+        "Yes, an audit requires a formal written complaint from a consumer",
+        "Yes, audits are only permitted during license renewal periods",
+        "No, but IREC must give 30 days' written notice before auditing"
+      ],
+      "explanation": "Indiana law grants IREC the authority to audit broker trust accounts at any time, without a complaint having been filed and without advance notice requirements. The managing broker has no right to block or delay a regulatory audit of trust account records.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "IREC-audit", "IN-11.3"]
+    },
+    {
+      "key_topic_ref": "IN-11.3",
+      "question_text": "A trust account audit reveals a $2,000 shortage. The managing broker claims an individual broker in the firm caused the error. Who is held responsible by IREC?",
+      "correct_answer": "The managing broker, who is personally responsible for trust account compliance",
+      "distractors": [
+        "The individual broker who caused the shortage",
+        "Both the managing broker and individual broker equally",
+        "The brokerage entity as a corporate licensee"
+      ],
+      "explanation": "In Indiana, the managing broker bears personal responsibility for the firm's trust accounts regardless of which individual broker caused an error or shortage. The managing broker cannot deflect regulatory accountability to subordinate brokers. A shortage is a serious violation that can lead to suspension or revocation of the managing broker's license.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust-account", "managing-broker", "shortage", "IN-11.3"]
+    },
+    {
+      "key_topic_ref": "IN-11.3",
+      "question_text": "A trust account audit reveals a consistent pattern of shortages over six months. What is the most likely consequence under Indiana law?",
+      "correct_answer": "Suspension or revocation of the managing broker's license",
+      "distractors": [
+        "A written reprimand and required corrective bookkeeping course",
+        "A civil fine equivalent to three times the total shortage amount",
+        "Mandatory transition of all client files to another firm"
+      ],
+      "explanation": "A pattern of trust account shortages is among the most serious violations in Indiana real estate practice. IREC may impose suspension or revocation of the managing broker's license because repeated shortages signal systemic mismanagement or misappropriation of client funds. A reprimand alone would be insufficient for a pattern of violations.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust-account", "shortage", "IREC-discipline", "suspension", "IN-11.3"]
+    }
+  ]
+}

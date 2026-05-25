@@ -1,0 +1,508 @@
+{
+  "standard_ref": "N-26",
+  "scope": "national",
+  "state": null,
+  "category": "financing_settlement",
+  "questions": [
+    {
+      "key_topic_ref": "N-26.1",
+      "question_text": "Which of the following BEST describes the role of a closing agent (settlement agent) in a real estate transaction?",
+      "correct_answer": "A neutral party who coordinates documents, collects and disburses funds",
+      "distractors": [
+        "A buyer's representative who negotiates final contract terms at closing",
+        "The party responsible for verifying the property's physical condition",
+        "The party who sets the interest rate and finalizes loan terms"
+      ],
+      "explanation": "A closing agent (also called a settlement agent, escrow officer, or closing attorney depending on the state) is a neutral third party — typically a title company, escrow company, or attorney — whose role is procedural and administrative. They prepare and coordinate the signing of all closing documents, collect funds from the buyer and lender, verify that all contract conditions have been met, pay off existing liens, disburse proceeds to the seller, and record the deed and mortgage with the county. They do not represent either party or negotiate deal terms. Some states require an attorney to conduct closings; others allow title or escrow companies.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "closing_agent",
+        "settlement_agent",
+        "closing_process",
+        "escrow"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.2",
+      "question_text": "A buyer reviews their Closing Disclosure three days before closing and notices the origination fee is $400 higher than what appeared on the Loan Estimate. This increase:",
+      "correct_answer": "Is not permitted",
+      "distractors": [
+        "Is permitted if total closing costs increase by less than 10%",
+        "Is permitted because the Closing Disclosure supersedes the Loan Estimate",
+        "Requires the buyer's written consent but is otherwise permissible"
+      ],
+      "explanation": "Under TRID, closing costs are divided into three tolerance categories based on how much they can change from the Loan Estimate to the Closing Disclosure. Zero tolerance items cannot increase at all: lender origination charges, transfer taxes, and services where the borrower was required to use a specific provider. Ten percent tolerance items can increase in aggregate by up to 10%: title services chosen from the lender's list, recording fees, and certain other charges. No tolerance items (like prepaid interest and escrow reserves) can change without limit. An unauthorized increase in a zero-tolerance item requires the lender to cure the violation by providing a refund at or before closing.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "TRID",
+        "Closing_Disclosure",
+        "Loan_Estimate",
+        "tolerance_categories",
+        "origination_fees"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.3",
+      "question_text": "A property's annual property taxes are $3,600 and have not yet been paid for the year. Closing occurs on March 1. Using a 360-day year and 30-day months, what is the seller's proration credit to the buyer?",
+      "correct_answer": "$600",
+      "distractors": [
+        "$3,000",
+        "$300",
+        "$3,600"
+      ],
+      "explanation": "Property tax prorations allocate tax liability between seller and buyer based on the closing date. Annual taxes of $3,600 ÷ 12 months = $300/month. From January 1 through February 28 (2 months), the seller has owned the property and owes 2 × $300 = $600. Since the tax bill has not been paid, the buyer will eventually pay the full year's bill. The seller therefore gives the buyer a $600 credit at closing (appears as a debit to the seller, credit to the buyer on the Closing Disclosure). The proration method (360-day/30-day calendar vs. actual days) and whether taxes are paid in arrears or advance affects the calculation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "prorations",
+        "property_taxes",
+        "closing_calculations",
+        "seller_credits"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.3",
+      "question_text": "At closing, prepaid interest on a new mortgage is typically collected to cover:",
+      "correct_answer": "Interest from the closing date through the end of the month",
+      "distractors": [
+        "The first full month's interest payment due the following month",
+        "A three-month interest reserve required by federal regulations",
+        "Interest that accrued during the underwriting period before closing"
+      ],
+      "explanation": "Mortgage interest is paid in arrears — the monthly payment made on the first of each month covers the previous month's interest. If closing occurs on March 15, the first full payment is due May 1 (covering April's interest). But interest accrues from March 15 through March 31, which is not covered by any regular payment. The lender collects 'prepaid interest' (also called per diem interest) at closing to cover this gap — typically calculated as (loan amount × annual interest rate ÷ 365) × remaining days in the closing month. This appears as a prepaid item on the Closing Disclosure and is a buyer cost.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "prepaid_interest",
+        "per_diem_interest",
+        "closing_costs",
+        "prorations"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.4",
+      "question_text": "At closing, which document transfers ownership of the real property from the seller to the buyer?",
+      "correct_answer": "The deed",
+      "distractors": [
+        "The promissory note",
+        "The purchase contract",
+        "The title insurance commitment"
+      ],
+      "explanation": "The deed is the instrument of title transfer — it is signed by the grantor (seller) and delivered to the grantee (buyer) at closing. Common deed types include the general warranty deed (broadest seller warranties), special warranty deed (seller warrants only against their own acts), and quitclaim deed (no warranties). The buyer records the deed with the county recorder or register of deeds to provide constructive notice of ownership and protect against subsequent claims. The promissory note is the borrower's personal promise to repay the loan. The purchase contract governs the transaction but does not itself transfer title.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "deed",
+        "title_transfer",
+        "closing_documents",
+        "recording"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.4",
+      "question_text": "A buyer signs a promissory note and a deed of trust at closing. The promissory note creates:",
+      "correct_answer": "A personal obligation",
+      "distractors": [
+        "A security interest",
+        "An easement",
+        "A fiduciary relationship"
+      ],
+      "explanation": "At closing, a borrower typically signs two key loan documents: (1) the promissory note, which is the borrower's personal, unconditional promise to repay the debt — it creates personal liability and allows the lender to pursue a deficiency judgment if the collateral is insufficient; and (2) the deed of trust or mortgage, which pledges the property as collateral and gives the lender a security interest (lien) against the real estate. The distinction matters: if the borrower defaults, the lender can foreclose on the property (enforcing the security instrument) AND potentially pursue the borrower personally (enforcing the promissory note), subject to state anti-deficiency laws.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "promissory_note",
+        "deed_of_trust",
+        "closing_documents",
+        "personal_liability",
+        "security_interest"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.5",
+      "question_text": "A seller's net proceeds at closing are calculated by:",
+      "correct_answer": "Subtracting closing costs, loan payoff, and prorations from the sales price",
+      "distractors": [
+        "Adding the buyer's earnest money and down payment to the original price",
+        "Subtracting only the real estate commission from the sales price",
+        "Deducting the buyer's loan amount from the appraised value"
+      ],
+      "explanation": "The seller's net proceeds (also called seller's net sheet) is calculated from the sales price minus all seller-side debits: (1) existing mortgage payoff(s) plus accrued interest; (2) real estate commissions (typically 4–6% of sale price); (3) seller-paid closing costs (title insurance, transfer taxes, attorney fees, escrow fees per local custom); (4) prorations owed to the buyer (unpaid property taxes, HOA dues); and (5) any credits agreed to in the contract (repair credits, closing cost assistance). The result is the cash the seller actually receives at closing. Understanding the seller's net sheet is a core agent skill for counseling sellers on pricing and expected proceeds.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "seller_net_proceeds",
+        "closing_costs",
+        "net_sheet",
+        "disbursement"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.1",
+      "question_text": "In states that require attorney closings, the attorney's primary role at the settlement table is to:",
+      "correct_answer": "Prepare and review closing documents and ensure compliance with state law",
+      "distractors": [
+        "Negotiate the final purchase price between buyer and seller at closing",
+        "Conduct the property appraisal and verify market value for the lender",
+        "Approve or deny the buyer's mortgage application based on credit"
+      ],
+      "explanation": "Several states (including New York, Massachusetts, Georgia, and others) require or strongly customarily use attorneys to conduct real estate closings. The attorney's role is to prepare and review legal documents (deed, mortgage, affidavits, title documents), ensure compliance with state and federal law, explain documents to the parties, and oversee the proper execution and recording of instruments. The attorney does not negotiate the deal (that's the agents' role), conduct appraisals (that's a licensed appraiser), or make lending decisions (that's the lender's underwriting). In non-attorney states, title companies or escrow companies typically handle these functions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "attorney_closing",
+        "settlement_agent",
+        "closing_process"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.1",
+      "question_text": "An escrow company serving as the closing agent in a real estate transaction has a fiduciary duty to:",
+      "correct_answer": "Both the buyer and seller",
+      "distractors": [
+        "Only the buyer, since the buyer purchases the title insurance",
+        "Only the seller, since the seller engaged the escrow company",
+        "Only the lender, since the escrow company holds the lender's funds"
+      ],
+      "explanation": "An escrow agent is a neutral third party that holds documents and funds on behalf of all parties to the transaction. The escrow agent has a fiduciary duty to both buyer and seller (and the lender, if applicable) and must follow the written escrow instructions without favoring either side. The escrow agent cannot disburse funds or release documents until all conditions in the escrow instructions have been met. If a dispute arises between the parties, the escrow agent typically must hold the funds until the parties reach agreement or a court orders disbursement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "escrow_agent",
+        "fiduciary_duty",
+        "neutral_party",
+        "closing_process"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.1",
+      "question_text": "Which of the following tasks is typically performed by the closing agent AFTER the settlement meeting?",
+      "correct_answer": "Recording the deed and mortgage with the county recorder's office",
+      "distractors": [
+        "Ordering the property appraisal required by the buyer's mortgage lender",
+        "Scheduling the buyer's final walk-through inspection of the property",
+        "Submitting the buyer's loan application to the lender for underwriting"
+      ],
+      "explanation": "After closing, the settlement agent has several post-closing responsibilities. The most important is recording the deed (transferring title) and the mortgage or deed of trust (securing the lender's lien) with the county recorder or register of deeds. Recording provides constructive notice to the world of the new ownership and lien. Other post-closing tasks include: disbursing funds to all parties (if not done at the table via wire), sending the title policy to the buyer and lender, paying off existing liens, and distributing copies of executed documents. The appraisal, walk-through, and loan application all occur before closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "recording",
+        "post_closing",
+        "deed_recording",
+        "closing_agent"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.1",
+      "question_text": "A title company acting as closing agent discovers a lien against the property on the morning of closing. The title company should:",
+      "correct_answer": "Delay closing until the lien is resolved or arrange payoff from proceeds",
+      "distractors": [
+        "Proceed with closing and allow the buyer to assume the lien",
+        "Cancel the transaction and refund the earnest money to the buyer",
+        "Record the deed without the lien release since recording cures defects"
+      ],
+      "explanation": "When a closing agent discovers an unresolved lien, they cannot simply ignore it or transfer it to the buyer without consent. The proper course of action is to either delay the closing until the lien is satisfied or arrange for the lien to be paid from the seller's proceeds at closing (with appropriate payoff letters and wire instructions). Many liens — such as unpaid taxes, mechanics' liens, or judgment liens — can be cleared at the closing table if there are sufficient seller proceeds. Recording a deed does not eliminate existing liens; the property transfers subject to them unless they are properly released.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "lien_resolution",
+        "closing_delay",
+        "title_defect",
+        "closing_agent"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.2",
+      "question_text": "Under TRID, the borrower must receive the Closing Disclosure at least how many business days before closing?",
+      "correct_answer": "Three business days before the scheduled closing",
+      "distractors": [
+        "Seven business days before closing, matching the Loan Estimate timing",
+        "One business day before closing, allowing overnight review",
+        "Five business days before closing as required by TRID"
+      ],
+      "explanation": "The TRID rule requires lenders to provide the Closing Disclosure to the borrower at least three business days before consummation (closing). This mandatory waiting period gives the borrower time to review the final loan terms and closing costs and compare them to the Loan Estimate. If certain changes occur after delivery (such as a change in APR, loan product, or addition of a prepayment penalty), a new Closing Disclosure must be provided with another three-business-day waiting period. The Loan Estimate has a separate three-business-day requirement — it must be provided within three business days of receiving the loan application.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "TRID",
+        "Closing_Disclosure",
+        "three_day_rule",
+        "waiting_period"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.2",
+      "question_text": "Which change to the Closing Disclosure would trigger a new three-business-day waiting period before closing?",
+      "correct_answer": "An increase in the APR above the tolerance threshold",
+      "distractors": [
+        "A minor correction to the seller's legal name on the statement",
+        "An increase in the homeowner's insurance premium",
+        "A change in the closing location from the title office to the lender's"
+      ],
+      "explanation": "Under TRID, three specific changes to the Closing Disclosure require a new three-business-day review period (called 'redisclosure'): (1) the APR increases beyond the applicable tolerance (1/8% for fixed-rate, 1/4% for adjustable-rate); (2) the loan product changes (e.g., fixed-rate to adjustable-rate); or (3) a prepayment penalty is added. Other changes — such as corrections to names, changes in insurance premiums, or changes to the closing location — can be made without restarting the waiting period. The lender can provide a corrected Closing Disclosure at or before closing for non-triggering changes.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "TRID",
+        "redisclosure",
+        "APR_tolerance",
+        "waiting_period"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.2",
+      "question_text": "A buyer receives their Closing Disclosure and notices the title insurance fee is higher than on the Loan Estimate. The title company was selected from the lender's approved list. This fee falls under:",
+      "correct_answer": "The 10% aggregate tolerance category for lender-list services",
+      "distractors": [
+        "The zero-tolerance category because title insurance is required",
+        "The unlimited tolerance category as a third-party charge",
+        "No tolerance category because title insurance is paid by the seller"
+      ],
+      "explanation": "TRID divides closing costs into three tolerance categories. Services where the borrower selects a provider from the lender's written list of approved providers fall into the 10% aggregate tolerance category — meaning these fees can increase in total (across all items in this category) by up to 10% from the Loan Estimate to the Closing Disclosure. Zero-tolerance items (which cannot increase at all) include lender charges and services where the lender required a specific provider. Unlimited tolerance applies to services the borrower shops for independently (not from the lender's list), as well as prepaid items like insurance and property taxes.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "TRID",
+        "tolerance_categories",
+        "title_insurance",
+        "Closing_Disclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.2",
+      "question_text": "The Closing Disclosure replaced which two documents that were previously used at settlement?",
+      "correct_answer": "The HUD-1 Settlement Statement and the final Truth in Lending disclosure",
+      "distractors": [
+        "The Good Faith Estimate and the initial loan application disclosure form",
+        "The title commitment and the property survey certification report",
+        "The appraisal report and the seller's property condition disclosure form"
+      ],
+      "explanation": "Before TRID took effect on October 3, 2015, two separate closing documents were used: the HUD-1 Settlement Statement (required by RESPA, showing all closing costs for buyer and seller) and the final Truth in Lending (TIL) disclosure (required by TILA, showing APR, finance charge, and payment schedule). TRID combined these into a single five-page Closing Disclosure that includes all settlement charges, loan terms, APR, and projected payments. Similarly, the Loan Estimate replaced the Good Faith Estimate and the initial TIL disclosure provided at application.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "TRID",
+        "HUD-1",
+        "Truth_in_Lending",
+        "Closing_Disclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.3",
+      "question_text": "When property taxes are paid in arrears, a seller closing on September 15 typically owes the buyer a proration credit because:",
+      "correct_answer": "The seller occupied the property during the unpaid tax period the buyer will pay",
+      "distractors": [
+        "The buyer needs funds to prepay the next full year of property taxes",
+        "The lender requires a tax escrow reserve equal to six months of taxes",
+        "The county reassesses the property at a higher value upon transfer"
+      ],
+      "explanation": "When taxes are paid in arrears (meaning the tax bill is paid after the period it covers), the seller has lived in the property from January 1 through September 14 without having paid taxes for that period. The buyer will eventually receive and pay the full year's tax bill. To be fair, the seller credits the buyer at closing for the portion of taxes attributable to the seller's period of ownership (approximately 8.5 months). This credit appears as a debit to the seller and a credit to the buyer on the Closing Disclosure. The exact proration depends on whether a 360-day or 365-day year is used and whether the closing date is counted as a buyer or seller day.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "prorations",
+        "arrears",
+        "property_tax",
+        "seller_credit"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.3",
+      "question_text": "Annual property taxes are $4,320. Using a 360-day year, what is the daily (per diem) proration amount?",
+      "correct_answer": "$12.00 per day",
+      "distractors": [
+        "$11.84 per day",
+        "$14.40 per day",
+        "$360.00 per day"
+      ],
+      "explanation": "Using the 360-day (banker's year) method: $4,320 ÷ 360 = $12.00 per day. The 360-day year assumes 12 months of 30 days each, which simplifies calculations. If the problem used a 365-day year instead, the daily rate would be $4,320 ÷ 365 = $11.84 per day. The per diem rate is then multiplied by the number of days the seller owned the property to determine the seller's share. Exam questions will specify which method to use — always look for '360-day year' or '365-day year' in the problem. The $14.40 distractor incorrectly divides by 300, and $360.00 incorrectly divides by 12 without then dividing by 30.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "prorations",
+        "per_diem",
+        "property_tax",
+        "360_day_year"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.3",
+      "question_text": "At closing, a tenant's security deposit held by the seller is typically handled by:",
+      "correct_answer": "Crediting the full deposit to the buyer, who assumes the landlord obligation",
+      "distractors": [
+        "Returning the deposit to the tenant and having the buyer collect a new one",
+        "Splitting the deposit equally between the buyer and seller at settlement",
+        "Depositing the funds into the closing agent's escrow until the lease expires"
+      ],
+      "explanation": "When a rental property is sold, the existing tenant's security deposit becomes the new owner's responsibility. At closing, the seller credits the full security deposit amount to the buyer on the settlement statement (debit to seller, credit to buyer). This ensures the buyer has the funds to return the deposit to the tenant when the lease ends, as required by landlord-tenant law. The tenant's lease survives the sale, and the new owner steps into the landlord's shoes with all existing obligations, including returning the deposit at lease termination. The deposit is not split, returned early, or held by the closing agent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "prorations",
+        "security_deposit",
+        "rental_property",
+        "closing_credits"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.4",
+      "question_text": "Which closing document pledges the property as collateral for the mortgage loan?",
+      "correct_answer": "The mortgage or deed of trust",
+      "distractors": [
+        "The promissory note signed by the borrower",
+        "The general warranty deed from the seller",
+        "The title insurance policy from the insurer"
+      ],
+      "explanation": "The mortgage (or deed of trust in title-theory states) is the security instrument that pledges the real property as collateral for the loan. It creates a lien on the property in favor of the lender and is recorded in the public records. If the borrower defaults, this document gives the lender the right to foreclose. The promissory note is separate — it creates the personal debt obligation but does not create a lien on property. The deed transfers ownership from seller to buyer. Title insurance protects against title defects but does not create a security interest. At closing, the borrower signs both the note (personal obligation) and the mortgage (property security).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "mortgage",
+        "deed_of_trust",
+        "security_instrument",
+        "closing_documents"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.4",
+      "question_text": "An affidavit of title signed by the seller at closing typically certifies that:",
+      "correct_answer": "No undisclosed liens, judgments, or claims exist against the property",
+      "distractors": [
+        "The property has been appraised at or above the purchase price",
+        "The buyer has been approved for financing and can complete the purchase",
+        "All property taxes have been prepaid through the end of the year"
+      ],
+      "explanation": "A seller's affidavit of title (also called an owner's affidavit) is a sworn statement in which the seller certifies: (1) they are the rightful owner of the property; (2) there are no undisclosed liens, encumbrances, judgments, or pending lawsuits against the property; (3) no work has been done that could result in mechanics' liens; (4) the property is not subject to any undisclosed easements or boundary disputes; and (5) no parties other than those disclosed are in possession of the property. This affidavit protects the buyer and the title insurance company by creating legal liability for the seller if any of these statements prove false.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "affidavit_of_title",
+        "closing_documents",
+        "seller_certification"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.4",
+      "question_text": "A buyer purchasing a home with a mortgage will sign a promissory note at closing. If the buyer later defaults and the foreclosure sale does not cover the full debt, the note allows the lender to:",
+      "correct_answer": "Seek a deficiency judgment against the borrower for the remaining balance",
+      "distractors": [
+        "Automatically transfer the debt to the buyer's next property purchase",
+        "File a lien against the buyer's employer to garnish wages without a court order",
+        "Void the original deed and reclaim full ownership of the property"
+      ],
+      "explanation": "The promissory note creates personal liability — the borrower promises to repay the full loan amount. If the borrower defaults and the property is sold at foreclosure for less than the outstanding debt, the difference is called a deficiency. Because the note creates personal liability, the lender can seek a deficiency judgment in court to collect the remaining balance from the borrower's other assets or income. However, several states (such as California and Arizona for certain purchase-money loans) have anti-deficiency statutes that prohibit or limit deficiency judgments. The mortgage/deed of trust is the security instrument tied to the property; the note is the personal obligation that survives foreclosure.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "promissory_note",
+        "deficiency_judgment",
+        "foreclosure",
+        "personal_liability"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.5",
+      "question_text": "A seller's home sells for $300,000. The seller owes $180,000 on the existing mortgage, pays a 6% commission, and has $4,500 in other closing costs. What are the seller's approximate net proceeds?",
+      "correct_answer": "$97,500",
+      "distractors": [
+        "$115,500",
+        "$120,000",
+        "$82,500"
+      ],
+      "explanation": "Seller net proceeds = Sale price - mortgage payoff - commission - other closing costs. Commission: $300,000 × 6% = $18,000. Net proceeds: $300,000 - $180,000 - $18,000 - $4,500 = $97,500. This is a common exam calculation. The distractors represent common errors: $115,500 omits the commission; $120,000 only subtracts the mortgage; $82,500 incorrectly adds an extra deduction. Agents should be able to prepare a seller's net sheet to help sellers understand their expected proceeds and make informed pricing decisions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "seller_net_proceeds",
+        "closing_math",
+        "commission",
+        "net_sheet"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.5",
+      "question_text": "Which of the following is typically a credit to the buyer on the Closing Disclosure?",
+      "correct_answer": "The earnest money deposit previously paid by the buyer",
+      "distractors": [
+        "The real estate commission paid to the listing brokerage",
+        "The lender's origination fee charged for processing the loan",
+        "The cost of the seller's existing owner's title insurance policy"
+      ],
+      "explanation": "On the Closing Disclosure, the buyer's side shows credits (money coming toward the buyer) and debits (money the buyer owes). Credits to the buyer include: the loan amount (money from the lender), the earnest money deposit (already paid, reduces amount due at closing), seller concessions or credits, and prorations owed by the seller. The earnest money deposit is credited back to the buyer because it was already paid and is applied toward the purchase price. Debits to the buyer include the purchase price, loan fees, prepaid items, and buyer-side closing costs. The commission, origination fee, and seller's title policy are not buyer credits.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "buyer_credits",
+        "earnest_money",
+        "Closing_Disclosure",
+        "settlement"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.5",
+      "question_text": "A seller agrees to pay $5,000 toward the buyer's closing costs. On the Closing Disclosure, this seller concession appears as:",
+      "correct_answer": "A debit to the seller and a credit to the buyer",
+      "distractors": [
+        "A debit to the buyer and a credit to the lender for reduced fees",
+        "A credit to the seller for offering the concession voluntarily",
+        "A separate line item that does not affect either party's total"
+      ],
+      "explanation": "Seller concessions (also called seller contributions or seller credits) are amounts the seller agrees to pay toward the buyer's closing costs. On the Closing Disclosure, this appears as a debit (charge) to the seller — reducing the seller's net proceeds — and a corresponding credit to the buyer — reducing the amount the buyer needs to bring to closing. Seller concessions are subject to lender and loan program limits (e.g., FHA allows up to 6% of the sale price, conventional loans vary from 2-9% depending on down payment and property type). The concession reduces the buyer's cash-to-close but does not reduce the loan amount or purchase price.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "seller_concession",
+        "closing_costs",
+        "debit_credit",
+        "settlement"
+      ]
+    },
+    {
+      "key_topic_ref": "N-26.5",
+      "question_text": "When calculating a seller's net proceeds, which item would INCREASE the amount the seller receives?",
+      "correct_answer": "A prorated tax credit owed by the buyer for the seller's prepaid taxes",
+      "distractors": [
+        "The payoff on the seller's existing mortgage including accrued interest",
+        "The transfer tax charged by the county on the conveyance of property",
+        "The real estate commission owed to the listing and buyer's brokerages"
+      ],
+      "explanation": "If the seller has prepaid property taxes beyond the closing date, the buyer owes the seller a credit for the portion of taxes covering the buyer's ownership period. This prorated credit appears as a credit to the seller on the Closing Disclosure, increasing the seller's net proceeds. For example, if taxes are prepaid through December 31 and closing occurs on October 1, the buyer owes the seller three months of prepaid taxes. All other items listed — mortgage payoff, transfer taxes, and commissions — are debits to the seller that decrease net proceeds.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "seller_net_proceeds",
+        "prorations",
+        "prepaid_taxes",
+        "seller_credits"
+      ]
+    }
+  ]
+}

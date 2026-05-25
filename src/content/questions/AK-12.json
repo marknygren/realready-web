@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AK-12",
+  "scope": "state",
+  "state": "AK",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AK-12.1",
+      "question_text": "Under an exclusive right-to-sell listing in Alaska, when is the broker entitled to a commission?",
+      "correct_answer": "Regardless of who finds the buyer",
+      "distractors": ["Only if the broker personally finds the buyer", "Only if another licensed agent finds the buyer", "Only if the seller does not find the buyer themselves"],
+      "explanation": "An exclusive right-to-sell listing entitles the broker to a commission regardless of who procures the buyer — whether it's the listing broker, another agent, or even the seller themselves. This provides the broadest protection for the listing broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing", "exclusive right-to-sell", "commission"]
+    },
+    {
+      "key_topic_ref": "AK-12.1",
+      "question_text": "A seller has an exclusive agency listing. The seller personally finds a buyer without any agent involvement. Does the listing broker earn a commission?",
+      "correct_answer": "No, the seller is not obligated to pay the broker",
+      "distractors": ["Yes, the broker earns a full commission", "Yes, but only a reduced commission rate", "No, but the seller must reimburse marketing costs"],
+      "explanation": "Under an exclusive agency listing, the broker earns a commission unless the seller personally finds the buyer without any broker assistance. This is the key difference from an exclusive right-to-sell, where the broker is paid regardless.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["listing", "exclusive agency", "commission"]
+    },
+    {
+      "key_topic_ref": "AK-12.1",
+      "question_text": "A property owner gives open listings to three different brokerages. Which broker earns the commission?",
+      "correct_answer": "Only the broker who produces the buyer",
+      "distractors": ["All three brokers split the commission equally", "The first broker to list the property", "The broker with the highest asking price"],
+      "explanation": "With an open listing, only the broker who actually procures the buyer earns the commission. It is non-exclusive, meaning the seller can work with multiple brokers and owes a commission only to the one who brings a successful buyer.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing", "open listing", "commission"]
+    },
+    {
+      "key_topic_ref": "AK-12.1",
+      "question_text": "A seller wants maximum broker effort and marketing but also wants to find their own buyer. Which listing type best fits this scenario?",
+      "correct_answer": "Exclusive agency listing",
+      "distractors": ["Exclusive right-to-sell listing", "Open listing", "Net listing"],
+      "explanation": "An exclusive agency listing provides broker motivation through exclusivity (no competing brokers) while preserving the seller's right to sell independently without paying a commission. It balances broker incentive with seller flexibility.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["listing", "exclusive agency", "seller rights"]
+    },
+    {
+      "key_topic_ref": "AK-12.1",
+      "question_text": "Which listing type gives the broker the greatest assurance of earning a commission in Alaska?",
+      "correct_answer": "Exclusive right-to-sell",
+      "distractors": ["Exclusive agency", "Open listing", "Buyer representation agreement"],
+      "explanation": "The exclusive right-to-sell gives the broker the greatest commission protection because the broker earns a commission regardless of who finds the buyer — even if the seller procures their own buyer. This is why it's the most commonly used listing type.",
+      "difficulty": "easy",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["listing", "exclusive right-to-sell", "protection"]
+    },
+    {
+      "key_topic_ref": "AK-12.2",
+      "question_text": "Which of the following is a required element of a valid Alaska listing agreement?",
+      "correct_answer": "A definite expiration date",
+      "distractors": ["The commission rate set by AREC", "The buyer's pre-approval amount", "The listing agent's license number"],
+      "explanation": "Alaska listing agreements must include a definite expiration date, along with listing price, compensation terms, property description, and the licensee's relationship disclosure. There is no AREC-set commission rate — rates are negotiable.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing", "required elements", "expiration"]
+    },
+    {
+      "key_topic_ref": "AK-12.2",
+      "question_text": "A broker presents a listing agreement to a seller that does not include a property description. Is this agreement valid?",
+      "correct_answer": "No, a property description is a required element",
+      "distractors": ["Yes, the property description can be added later", "Yes, if the MLS listing has the description", "No, but only if the property is vacant land"],
+      "explanation": "A property description is a required element of an Alaska listing agreement. Without it, the agreement does not adequately identify what is being listed for sale. Other required elements include listing price, expiration date, and compensation terms.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["listing", "required elements", "property description"]
+    },
+    {
+      "key_topic_ref": "AK-12.2",
+      "question_text": "An Alaska listing agreement must include disclosure of which of the following?",
+      "correct_answer": "The licensee's relationship with the parties",
+      "distractors": ["The seller's remaining mortgage balance", "The estimated closing costs for the buyer", "The property's assessed tax value"],
+      "explanation": "Alaska listing agreements must contain the licensee's relationship disclosure, informing the seller about the type of representation being provided. This is consistent with Alaska's requirement for written disclosure at the start of specific assistance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing", "required elements", "relationship disclosure"]
+    },
+    {
+      "key_topic_ref": "AK-12.2",
+      "question_text": "Must an Alaska listing agreement be in writing?",
+      "correct_answer": "Yes, listing agreements must be in writing",
+      "distractors": ["No, verbal listings are valid for up to 30 days", "Only for properties valued above $100,000", "Only for exclusive listings, not open listings"],
+      "explanation": "Alaska listing agreements must be in writing to be enforceable. This requirement applies to all types of listing agreements and ensures that the terms — including compensation, duration, and relationship disclosure — are clearly documented.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing", "written", "requirement"]
+    },
+    {
+      "key_topic_ref": "AK-12.3",
+      "question_text": "A listing agreement without an expiration date is presented to a seller. What is the status of this agreement?",
+      "correct_answer": "It is missing a required element",
+      "distractors": ["It is valid but defaults to 6 months", "It is valid and renews automatically", "It is valid until the seller cancels in writing"],
+      "explanation": "A definite expiration date is required in Alaska listing agreements. Without one, the agreement is missing a required element. This protects sellers from being locked into indefinite obligations with a broker.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["listing", "expiration", "required"]
+    },
+    {
+      "key_topic_ref": "AK-12.3",
+      "question_text": "A listing expires on March 15. On March 20, a buyer who first saw the property during the listing period makes an offer. Can the broker claim a commission?",
+      "correct_answer": "Only if the listing contains a broker protection clause",
+      "distractors": ["Yes, the broker always earns a commission for introductions", "No, the listing has expired and no commission is owed", "Yes, but only if the buyer submits a full-price offer"],
+      "explanation": "A broker protection clause (also called an override or safety clause) provides the broker with commission protection for a specified period after the listing expires, for buyers who were introduced during the listing. Without such a clause, the expired listing ends the broker's commission entitlement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["listing", "protection clause", "expiration"]
+    },
+    {
+      "key_topic_ref": "AK-12.3",
+      "question_text": "Which event would typically terminate a listing agreement in Alaska?",
+      "correct_answer": "Mutual agreement between the broker and seller",
+      "distractors": ["The seller receiving any offer on the property", "The broker going on vacation for two weeks", "A competing brokerage listing a similar property"],
+      "explanation": "A listing can be terminated by mutual agreement of the broker and seller, by expiration of the listing term, by completion of the sale, or by other legal grounds (e.g., death of the principal broker). Receiving an offer or competitor activity does not terminate a listing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["listing", "termination", "mutual agreement"]
+    },
+    {
+      "key_topic_ref": "AK-12.3",
+      "question_text": "A seller asks the listing broker to cancel an exclusive right-to-sell listing before the expiration date. What should the broker do?",
+      "correct_answer": "Negotiate a mutual release or termination agreement",
+      "distractors": ["Refuse, as the listing cannot be cancelled early", "Immediately release the listing without conditions", "File a complaint with AREC against the seller"],
+      "explanation": "A listing agreement is a contract, and early termination requires agreement from both parties. The broker should negotiate a mutual release. The seller cannot unilaterally cancel without potential liability, and the broker cannot simply refuse to discuss termination.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["listing", "termination", "early cancellation"]
+    },
+    {
+      "key_topic_ref": "AK-12.2",
+      "question_text": "A listing agreement specifies a listing price of $350,000. The seller later wants to reduce the price to $325,000. How should this change be handled?",
+      "correct_answer": "By executing a written amendment to the listing",
+      "distractors": ["By verbal agreement between the seller and broker", "By filing a price change notice with AREC", "The listing must be cancelled and a new one created"],
+      "explanation": "Changes to the listing price should be documented through a written amendment to the listing agreement. Verbal changes lack the documentation needed for clarity and enforceability. A new listing is not necessary — an amendment suffices.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["listing", "amendment", "price change"]
+    },
+    {
+      "key_topic_ref": "AK-12.3",
+      "question_text": "If the principal broker of a listing brokerage dies, what happens to the brokerage's listings?",
+      "correct_answer": "The listings may terminate depending on the circumstances",
+      "distractors": ["All listings automatically transfer to the associate broker", "All listings remain active for 90 days", "AREC assigns a temporary broker to manage them"],
+      "explanation": "Death of the principal broker can terminate listing agreements, as the broker was a party to the contract. The outcome depends on the specific terms of the listing, whether the brokerage has other principals, and applicable law regarding contract termination upon death.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["listing", "termination", "broker death"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "RI-08",
+  "scope": "state",
+  "state": "RI",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "RI-08.1",
+      "question_text": "A seller verbally agrees to give Broker Adams exclusive rights to sell her home. Is this listing enforceable?",
+      "correct_answer": "No, listings must be in writing",
+      "distractors": ["Yes, verbal agreements are binding", "Yes, if witnessed by a third party", "Only if the commission is under 5%"],
+      "explanation": "Under the Statute of Frauds, listing agreements in Rhode Island must be in writing to be enforceable. A verbal agreement to list property, regardless of the terms, cannot be enforced in court.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["listing agreements", "statute of frauds", "writing requirement"]
+    },
+    {
+      "key_topic_ref": "RI-08.1",
+      "question_text": "Under an exclusive right-to-sell listing, the seller finds a buyer without any agent involvement. Who earns the commission?",
+      "correct_answer": "The listing broker",
+      "distractors": ["No one earns a commission", "The seller keeps the commission", "The buyer's lender pays the fee"],
+      "explanation": "An exclusive right-to-sell listing entitles the listing broker to a commission regardless of who procures the buyer, even if the seller finds the buyer independently. This is the most common and comprehensive listing type.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exclusive right-to-sell", "commission", "listing types"]
+    },
+    {
+      "key_topic_ref": "RI-08.1",
+      "question_text": "A broker proposes a net listing where the seller receives $300,000 and the broker keeps anything above that amount. Why is this arrangement disfavored in Rhode Island?",
+      "correct_answer": "It creates a conflict of interest for the broker",
+      "distractors": ["Net listings are illegal in Rhode Island", "The broker cannot earn over a 6% commission", "Only exclusive listing types are permitted"],
+      "explanation": "Net listings are legal but disfavored in Rhode Island because they create a conflict of interest. The broker is incentivized to sell at the highest possible price for personal gain rather than in the seller's best interest.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["net listing", "conflict of interest", "listing types"]
+    },
+    {
+      "key_topic_ref": "RI-08.1",
+      "question_text": "A listing agent dies during the listing term. What happens to the listing agreement?",
+      "correct_answer": "The listing terminates",
+      "distractors": ["It transfers to another agent automatically", "The seller must honor the full term", "The broker's estate inherits the listing"],
+      "explanation": "Death of either party is one of the recognized methods of terminating a listing agreement in Rhode Island, along with expiration, mutual agreement, destruction of property, and revocation (subject to potential damages).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing termination", "death of party", "listing agreements"]
+    },
+    {
+      "key_topic_ref": "RI-08.1",
+      "question_text": "Seller Martin wants to cancel his exclusive agency listing early without cause. What is the most likely consequence?",
+      "correct_answer": "The seller may be liable for damages",
+      "distractors": ["No consequence if done in writing", "The listing automatically converts to open", "The commission is refunded to the buyer"],
+      "explanation": "A seller may revoke a listing agreement, but revocation without cause before the expiration date may expose the seller to liability for damages. The listing broker could pursue a claim for lost commission or expenses incurred.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["listing termination", "revocation", "damages"]
+    },
+    {
+      "key_topic_ref": "RI-08.2",
+      "question_text": "A purchase and sales agreement is missing the property description. Is this contract enforceable?",
+      "correct_answer": "No, a property description is required",
+      "distractors": ["Yes, if the address is on the MLS", "Yes, if both parties signed it", "Only if the price exceeds $100,000"],
+      "explanation": "A valid purchase and sales agreement must contain essential terms including the parties, property description, price, terms, and signatures. Without an adequate property description, the contract lacks a required element and is not enforceable.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["purchase agreement", "essential terms", "property description"]
+    },
+    {
+      "key_topic_ref": "RI-08.2",
+      "question_text": "A contract includes a 'time is of the essence' clause, and the buyer misses the financing deadline by one day. What is the most likely result?",
+      "correct_answer": "The seller may treat the contract as breached",
+      "distractors": ["An automatic 3-day grace period applies", "The deadline extends to the next business day", "The buyer receives a written warning only"],
+      "explanation": "When a contract contains a 'time is of the essence' clause, all deadlines are strictly enforced. Missing a deadline, even by one day, may constitute a breach allowing the other party to terminate the contract or pursue remedies.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["time is of the essence", "deadlines", "breach"]
+    },
+    {
+      "key_topic_ref": "RI-08.2",
+      "question_text": "Buyer Lopez submits earnest money with her offer. How must this deposit be handled?",
+      "correct_answer": "Per escrow account rules",
+      "distractors": ["Deposited into the seller's account", "Held by the buyer's attorney only", "Placed in the agent's personal account"],
+      "explanation": "Earnest money deposits in Rhode Island must be handled according to escrow account rules. The funds are typically deposited into the broker's escrow account and held until closing, contract termination, or as otherwise directed by the parties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest money", "escrow", "deposit handling"]
+    },
+    {
+      "key_topic_ref": "RI-08.2",
+      "question_text": "Which is a common contingency found in Rhode Island purchase and sales agreements?",
+      "correct_answer": "Home inspection contingency",
+      "distractors": ["Mandatory arbitration clause", "Broker commission guarantee", "Automatic price escalation"],
+      "explanation": "Common contingencies in Rhode Island purchase agreements include financing, home inspection, appraisal, and sale of existing home. These protect the buyer by allowing contract termination if specified conditions are not met.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contingencies", "inspection", "purchase agreement"]
+    },
+    {
+      "key_topic_ref": "RI-08.2",
+      "question_text": "A buyer's offer includes a contingency requiring the sale of the buyer's current home. The seller accepts. If the buyer's home does not sell by the deadline, what happens?",
+      "correct_answer": "The buyer may terminate the contract",
+      "distractors": ["The seller must extend the deadline", "The contract automatically renews", "The buyer forfeits the earnest money"],
+      "explanation": "A sale-of-existing-home contingency protects the buyer. If the buyer's current home does not sell by the agreed deadline, the buyer typically has the right to terminate the contract without penalty and recover the earnest money deposit.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contingencies", "sale of home", "contract termination"]
+    },
+    {
+      "key_topic_ref": "RI-08.3",
+      "question_text": "A buyer asks her agent to draft a purchase addendum addressing a complex title issue. What should the agent do?",
+      "correct_answer": "Advise the buyer to consult an attorney",
+      "distractors": ["Draft the addendum as the buyer requested", "Ask the listing agent to draft it instead", "Use a generic addendum template from MLS"],
+      "explanation": "Drafting legal documents such as custom addenda addressing title issues constitutes the unauthorized practice of law. Rhode Island licensees should advise clients to consult an attorney for legal questions and complex document preparation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unauthorized practice of law", "legal advice", "attorney referral"]
+    },
+    {
+      "key_topic_ref": "RI-08.3",
+      "question_text": "Which activity is permitted for a Rhode Island licensee when handling transaction documents?",
+      "correct_answer": "Filling in blanks on approved standard forms",
+      "distractors": ["Drafting a new purchase contract", "Interpreting legal clauses for clients", "Modifying contract language independently"],
+      "explanation": "Rhode Island licensees may fill in blanks on standard pre-approved forms. They must not draft legal documents, modify contract language, or provide legal interpretations, as these activities constitute the unauthorized practice of law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["standard forms", "permitted activities", "UPL"]
+    },
+    {
+      "key_topic_ref": "RI-08.3",
+      "question_text": "Agent Chen explains to his buyer client what a contract indemnification clause means and how it would protect the buyer in court. Has Agent Chen crossed a legal boundary?",
+      "correct_answer": "Yes, interpreting legal clauses is not permitted",
+      "distractors": ["No, agents may explain any contract term", "No, if the agent has 10+ years of experience", "Only if the agent charges a fee for the advice"],
+      "explanation": "Interpreting legal clauses and advising clients on legal protections constitutes the unauthorized practice of law. Rhode Island licensees should refer clients to an attorney for interpretation of legal provisions in contracts.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["unauthorized practice of law", "legal interpretation", "prohibited acts"]
+    },
+    {
+      "key_topic_ref": "RI-08.3",
+      "question_text": "After a transaction closes, how should the listing broker handle the signed transaction documents?",
+      "correct_answer": "Retain them per record-keeping rules",
+      "distractors": ["Shred them immediately after closing", "Return all originals to the seller", "Forward them to the state commission"],
+      "explanation": "Rhode Island requires proper document handling including execution, delivery, and retention. Brokers must retain copies of all transaction documents for the required period as part of their record-keeping obligations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["document retention", "record keeping", "broker duties"]
+    },
+    {
+      "key_topic_ref": "RI-08.3",
+      "question_text": "A seller asks his agent whether the contract's arbitration clause would hold up in court. What is the agent's best response?",
+      "correct_answer": "Recommend the seller consult an attorney",
+      "distractors": ["Confirm the clause is enforceable", "Explain arbitration law in detail", "Remove the clause from the contract"],
+      "explanation": "Questions about the enforceability of legal provisions require legal expertise beyond the scope of a real estate license. The agent should advise the seller to consult an attorney rather than offering any legal opinion on the clause.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["attorney referral", "legal questions", "UPL"]
+    }
+  ]
+}

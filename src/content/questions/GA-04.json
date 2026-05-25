@@ -1,0 +1,233 @@
+{
+  "standard_ref": "GA-04",
+  "scope": "state",
+  "state": "GA",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "GA-04.1",
+      "question_text": "Before filing a claim with the Georgia Real Estate Recovery Fund, what must the claimant first obtain?",
+      "correct_answer": "A civil court judgment against the licensee",
+      "distractors": [
+        "A GREC disciplinary order",
+        "A police report documenting the loss",
+        "Written approval from the licensee's broker"
+      ],
+      "explanation": "Claimants must first obtain a civil court judgment and demonstrate inability to collect before accessing the Recovery Fund. The Fund is a last resort after normal collection methods have been exhausted.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "court-judgment", "claim-requirements"]
+    },
+    {
+      "key_topic_ref": "GA-04.1",
+      "question_text": "A buyer obtains a judgment against a licensee in June 2025. By when must they file a Recovery Fund claim?",
+      "correct_answer": "Within one year of the final judgment",
+      "distractors": [
+        "Within 90 days of the final judgment",
+        "Within two years of the transaction",
+        "Within 30 days of the GREC hearing"
+      ],
+      "explanation": "Georgia requires Recovery Fund claims to be filed within one year of the final judgment. Missing this deadline bars the claimant from recovery regardless of the merits of their claim.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "filing-deadline", "one-year"]
+    },
+    {
+      "key_topic_ref": "GA-04.1",
+      "question_text": "A consumer suffers financial harm from a licensed agent acting in a personal capacity, not as an agent. Can they claim from the Recovery Fund?",
+      "correct_answer": "No, the licensee must have acted in licensed capacity",
+      "distractors": [
+        "Yes, any financial harm by a licensee qualifies",
+        "Yes, if the total harm exceeds $5,000",
+        "Only if the licensee's sponsoring broker authorizes it"
+      ],
+      "explanation": "The Recovery Fund only covers losses caused by licensees acting in their licensed capacity. Personal business dealings, even if conducted by a licensee, fall outside the Fund's scope of coverage.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery-fund", "licensed-capacity", "eligibility"]
+    },
+    {
+      "key_topic_ref": "GA-04.1",
+      "question_text": "How is the Georgia Real Estate Recovery Fund primarily funded?",
+      "correct_answer": "A portion of license and renewal fees",
+      "distractors": [
+        "Annual state legislative appropriation",
+        "Fines collected from disciplinary actions",
+        "Voluntary contributions from brokerages"
+      ],
+      "explanation": "The Recovery Fund is sustained by a portion of license and renewal fees paid by all Georgia real estate licensees. This self-funding mechanism ensures the Fund remains available without relying on general tax revenue.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "funding-source", "license-fees"]
+    },
+    {
+      "key_topic_ref": "GA-04.1",
+      "question_text": "A claimant with a valid judgment has assets they could seize from the licensee but prefers the Recovery Fund. Will the claim succeed?",
+      "correct_answer": "No, they must demonstrate inability to collect first",
+      "distractors": [
+        "Yes, the Fund pays regardless of other assets",
+        "Yes, if the judgment exceeds $10,000",
+        "Only if the licensee consents in writing"
+      ],
+      "explanation": "Claimants must demonstrate inability to collect the judgment through normal means before the Recovery Fund will pay. The Fund serves as a last resort, not a convenient alternative to standard collection efforts.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery-fund", "inability-to-collect", "claim-requirements"]
+    },
+    {
+      "key_topic_ref": "GA-04.2",
+      "question_text": "What is the maximum Recovery Fund payment per individual claimant in Georgia?",
+      "correct_answer": "$15,000 per claimant",
+      "distractors": [
+        "$25,000 per claimant",
+        "$10,000 per claimant",
+        "$45,000 per claimant"
+      ],
+      "explanation": "Georgia caps Recovery Fund payments at $15,000 per individual claimant. Even if a judgment exceeds this amount, the claimant can only recover up to $15,000 from the Fund.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "per-claimant-limit", "15000"]
+    },
+    {
+      "key_topic_ref": "GA-04.2",
+      "question_text": "Two buyers each file valid Recovery Fund claims from the same fraudulent transaction by one licensee. What is the maximum combined payout?",
+      "correct_answer": "$25,000 for the transaction",
+      "distractors": [
+        "$30,000 combined for both claimants",
+        "$15,000 total shared between them",
+        "$45,000 combined for both claimants"
+      ],
+      "explanation": "The per-transaction cap is $25,000 regardless of how many claimants are involved. While each individual claimant is limited to $15,000, the total for one transaction cannot exceed $25,000.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "per-transaction-limit", "25000"]
+    },
+    {
+      "key_topic_ref": "GA-04.2",
+      "question_text": "A licensee has already caused $40,000 in Recovery Fund payouts over several transactions. A new valid claim for $10,000 is filed. How much can be paid?",
+      "correct_answer": "$5,000, reaching the $45,000 lifetime cap",
+      "distractors": [
+        "$10,000, the full claim amount",
+        "Nothing, the licensee's Fund is exhausted",
+        "$15,000, the per-claimant maximum"
+      ],
+      "explanation": "Georgia imposes a $45,000 aggregate lifetime cap per licensee. With $40,000 already paid, only $5,000 remains available regardless of the individual claim amount or per-claimant limit.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery-fund", "aggregate-cap", "45000"]
+    },
+    {
+      "key_topic_ref": "GA-04.2",
+      "question_text": "What is the aggregate lifetime maximum the Recovery Fund will pay for claims against any single Georgia licensee?",
+      "correct_answer": "$45,000 per licensee lifetime",
+      "distractors": [
+        "$25,000 per licensee lifetime",
+        "$75,000 per licensee lifetime",
+        "$100,000 per licensee lifetime"
+      ],
+      "explanation": "Georgia limits total Recovery Fund exposure to $45,000 per licensee over their entire career. Once this cap is reached, no further Fund payments will be made for claims against that licensee.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "aggregate-cap", "45000"]
+    },
+    {
+      "key_topic_ref": "GA-04.2",
+      "question_text": "A claimant has a $20,000 judgment from a single transaction. What is the maximum they can recover from the Fund?",
+      "correct_answer": "$15,000, the per-claimant maximum",
+      "distractors": [
+        "$20,000, the full judgment amount",
+        "$25,000, the per-transaction limit",
+        "$10,000, half the judgment"
+      ],
+      "explanation": "Even though the judgment is $20,000 and the per-transaction limit is $25,000, the per-claimant cap of $15,000 applies. The claimant would need to pursue the remaining $5,000 through other means.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "per-claimant-limit", "calculation"]
+    },
+    {
+      "key_topic_ref": "GA-04.3",
+      "question_text": "What happens to a licensee's license when the Recovery Fund pays a claim against them?",
+      "correct_answer": "The license is automatically revoked by law",
+      "distractors": [
+        "The license is placed on probation",
+        "The license is suspended for one year",
+        "Nothing, the Fund absorbs the loss"
+      ],
+      "explanation": "When the Recovery Fund pays a claim, the licensee's license is automatically revoked by operation of law. This is mandatory and not subject to GREC discretion, reflecting the seriousness of causing Fund payouts.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "automatic-revocation", "license-consequence"]
+    },
+    {
+      "key_topic_ref": "GA-04.3",
+      "question_text": "A licensee whose license was revoked due to a Recovery Fund payout wants reinstatement. What must they do?",
+      "correct_answer": "Repay the Fund in full plus interest",
+      "distractors": [
+        "Complete 75 hours of additional education",
+        "Wait five years and reapply",
+        "Obtain written consent from the claimant"
+      ],
+      "explanation": "Reinstatement requires full repayment to the Recovery Fund including interest. Until the licensee repays every dollar plus accrued interest, they cannot have their license reinstated under any circumstances.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "reinstatement", "repayment"]
+    },
+    {
+      "key_topic_ref": "GA-04.3",
+      "question_text": "A broker argues that GREC should use discretion to avoid revoking their license after a Fund payout. Will this argument succeed?",
+      "correct_answer": "No, revocation is automatic and not discretionary",
+      "distractors": [
+        "Yes, if the broker shows good faith",
+        "Yes, if the payout was under $5,000",
+        "Only if the broker agrees to probation"
+      ],
+      "explanation": "License revocation upon Recovery Fund payment operates by law, not by GREC discretion. No mitigating factors or arguments can prevent revocation once the Fund pays a valid claim against the licensee.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery-fund", "automatic-revocation", "non-discretionary"]
+    },
+    {
+      "key_topic_ref": "GA-04.3",
+      "question_text": "After repaying the Recovery Fund in full with interest, what additional step must the former licensee take?",
+      "correct_answer": "Apply for reinstatement of their license",
+      "distractors": [
+        "Nothing further; the license is automatically restored",
+        "Pass the state licensing exam again only",
+        "Serve a mandatory two-year waiting period"
+      ],
+      "explanation": "Repayment is necessary but not automatically sufficient. The former licensee must apply for reinstatement after repaying the Fund. Repayment makes reinstatement possible but does not guarantee it.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "reinstatement", "application-process"]
+    },
+    {
+      "key_topic_ref": "GA-04.3",
+      "question_text": "The Recovery Fund pays $15,000 for a claim against Broker Smith. Six months later, Smith repays $10,000 and requests partial reinstatement. What is the result?",
+      "correct_answer": "Denied; full repayment plus interest is required",
+      "distractors": [
+        "Granted with practice restrictions",
+        "Granted on probation until balance is paid",
+        "Granted if Smith's broker vouches for them"
+      ],
+      "explanation": "Georgia requires full repayment of the Fund payout plus interest before reinstatement is possible. Partial payments, regardless of amount, do not qualify for any form of reinstatement or conditional licensing.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "full-repayment", "reinstatement-denied"]
+    }
+  ]
+}

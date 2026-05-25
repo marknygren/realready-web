@@ -1,0 +1,228 @@
+{
+  "standard_ref": "TN-14",
+  "scope": "state",
+  "state": "TN",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "TN-14.1",
+      "question_text": "Is an attorney required to conduct a real estate closing in Tennessee?",
+      "correct_answer": "No, Tennessee is an attorney-optional state",
+      "distractors": ["Yes, an attorney must be present at closing", "Yes, but only for properties over $300,000", "Only for transactions involving a mortgage"],
+      "explanation": "Tennessee is an attorney-optional state. Closings can be conducted by title companies, attorneys, or other closing agents. Attorney involvement is recommended but not mandatory.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "attorney optional", "title company"]
+    },
+    {
+      "key_topic_ref": "TN-14.1",
+      "question_text": "What is the standard practice in Tennessee to verify clear ownership of property before closing?",
+      "correct_answer": "A title search of public records",
+      "distractors": ["A verbal warranty from the seller", "A TREC title verification letter", "A county assessor's ownership letter"],
+      "explanation": "A title search is standard practice to identify liens, encumbrances, and ownership history. It examines public records to verify the seller has clear title to convey.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title search", "closing", "public records"]
+    },
+    {
+      "key_topic_ref": "TN-14.1",
+      "question_text": "A buyer purchases a home in Tennessee. Which types of title insurance are commonly obtained?",
+      "correct_answer": "Both owner's and lender's policies",
+      "distractors": ["Only the lender's policy is needed", "Only the owner's policy is required", "Title insurance is not used in Tennessee"],
+      "explanation": "Both owner's and lender's title insurance policies are commonly used in Tennessee. The lender's policy protects the mortgage lender; the owner's policy protects the buyer's equity.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title insurance", "owners policy", "lenders policy"]
+    },
+    {
+      "key_topic_ref": "TN-14.1",
+      "question_text": "A title search reveals an unresolved mechanic's lien on the property. How does this affect closing?",
+      "correct_answer": "The lien must be resolved before clear title",
+      "distractors": ["The buyer assumes the lien automatically", "Title insurance covers all existing liens", "The lien expires after the closing"],
+      "explanation": "An unresolved mechanic's lien is an encumbrance on the title. It must be satisfied or resolved before the seller can convey clear title to the buyer at closing.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["title search", "lien", "clear title"]
+    },
+    {
+      "key_topic_ref": "TN-14.1",
+      "question_text": "Who typically conducts real estate closings in Tennessee when no attorney is involved?",
+      "correct_answer": "Title companies or closing agents",
+      "distractors": ["The real estate agents for buyer and seller", "TREC-appointed closing officers", "The county Register of Deeds"],
+      "explanation": "When an attorney is not conducting the closing, title companies or other licensed closing agents typically handle the settlement process in Tennessee.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "title company", "closing agent"]
+    },
+    {
+      "key_topic_ref": "TN-14.2",
+      "question_text": "Where are deeds recorded in Tennessee?",
+      "correct_answer": "With the county Register of Deeds",
+      "distractors": ["With the Tennessee Secretary of State", "With TREC's recording division", "With the county assessor's office"],
+      "explanation": "Deeds and other instruments affecting real property are recorded with the Register of Deeds in the county where the property is located.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "Register of Deeds", "county"]
+    },
+    {
+      "key_topic_ref": "TN-14.2",
+      "question_text": "What type of recording statute does Tennessee follow?",
+      "correct_answer": "Race-notice",
+      "distractors": ["Pure race", "Pure notice", "Period of grace"],
+      "explanation": "Tennessee is a race-notice recording state. An unrecorded instrument is void against a subsequent purchaser who records first without notice of the prior conveyance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["race-notice", "recording statute", "priority"]
+    },
+    {
+      "key_topic_ref": "TN-14.2",
+      "question_text": "Buyer A purchases property but does not record the deed. Buyer B later purchases the same property without knowledge of Buyer A's deed and records immediately. Who prevails in Tennessee?",
+      "correct_answer": "Buyer B, who recorded first without notice",
+      "distractors": ["Buyer A, as the first purchaser in time", "Neither, the court must decide", "The seller, since both deeds are void"],
+      "explanation": "Under Tennessee's race-notice statute, Buyer B prevails because they recorded first AND had no notice of Buyer A's prior unrecorded deed. Both conditions must be met.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["race-notice", "recording priority", "subsequent purchaser"]
+    },
+    {
+      "key_topic_ref": "TN-14.2",
+      "question_text": "What does recording a deed provide to the new owner?",
+      "correct_answer": "Constructive notice to the public",
+      "distractors": ["Actual notice to all potential buyers", "Guarantee of a clear title", "Automatic title insurance coverage"],
+      "explanation": "Recording provides constructive notice — the legal presumption that the public has been informed of the ownership transfer. It does not guarantee clear title or provide insurance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "constructive notice", "public"]
+    },
+    {
+      "key_topic_ref": "TN-14.2",
+      "question_text": "In Tennessee's race-notice system, a subsequent buyer who knew about a prior unrecorded deed records first. Who has priority?",
+      "correct_answer": "The first buyer, because the second had notice",
+      "distractors": ["The second buyer, who recorded first", "Neither, the deeds cancel each other", "Whichever buyer paid the higher price"],
+      "explanation": "Under race-notice, the subsequent buyer must both record first AND have no notice of the prior conveyance. If they had notice of the prior deed, they cannot claim priority even by recording first.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["race-notice", "notice", "priority"]
+    },
+    {
+      "key_topic_ref": "TN-14.3",
+      "question_text": "Which type of deed provides the broadest protection to the buyer in Tennessee?",
+      "correct_answer": "Warranty deed",
+      "distractors": ["Quitclaim deed", "Special warranty deed", "Deed of trust"],
+      "explanation": "A warranty deed provides the broadest protection because the grantor warrants title against all defects, past and present. It provides the strongest guarantees of clear title.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["warranty deed", "deed types", "protection"]
+    },
+    {
+      "key_topic_ref": "TN-14.3",
+      "question_text": "A property owner wants to transfer interest to a family member quickly with no warranties. Which deed should be used?",
+      "correct_answer": "Quitclaim deed",
+      "distractors": ["Warranty deed", "Special warranty deed", "Deed of trust"],
+      "explanation": "A quitclaim deed conveys only whatever interest the grantor has with no warranties. It is commonly used for family transfers, divorce settlements, and clearing title defects.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["quitclaim deed", "family transfer", "no warranties"]
+    },
+    {
+      "key_topic_ref": "TN-14.3",
+      "question_text": "A special warranty deed warrants title against defects arising during which time period?",
+      "correct_answer": "Only during the grantor's ownership period",
+      "distractors": ["The entire history of the property", "The last 10 years before the transfer", "Only defects discovered after transfer"],
+      "explanation": "A special warranty deed warrants only against defects that arose during the grantor's period of ownership, not against issues from prior owners.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["special warranty deed", "limited warranty", "grantor period"]
+    },
+    {
+      "key_topic_ref": "TN-14.3",
+      "question_text": "A buyer discovers a title defect from 30 years ago after purchasing with a special warranty deed. Can the buyer sue the grantor for this defect?",
+      "correct_answer": "No, the defect predates the grantor's ownership",
+      "distractors": ["Yes, all title defects are warranted", "Yes, if the defect was in public records", "Only if the purchase price was over $200,000"],
+      "explanation": "A special warranty deed only warrants against defects from the grantor's ownership period. A 30-year-old defect predates the grantor and would not be covered by the warranty.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["special warranty deed", "title defect", "limitation"]
+    },
+    {
+      "key_topic_ref": "TN-14.3",
+      "question_text": "Which deed conveys whatever interest the grantor has without any title promises?",
+      "correct_answer": "Quitclaim deed",
+      "distractors": ["Warranty deed", "Special warranty deed", "Grant deed"],
+      "explanation": "A quitclaim deed conveys only the interest the grantor currently holds, with no warranties or guarantees of any kind about the quality of the title.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["quitclaim deed", "no warranties", "deed types"]
+    },
+    {
+      "key_topic_ref": "TN-14.4",
+      "question_text": "What is the primary security instrument used for real estate loans in Tennessee?",
+      "correct_answer": "Deed of trust",
+      "distractors": ["Mortgage", "Promissory note only", "Land contract"],
+      "explanation": "Tennessee primarily uses deeds of trust rather than mortgages. A deed of trust is a three-party instrument involving the borrower (trustor), lender (beneficiary), and trustee.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "security instrument", "Tennessee"]
+    },
+    {
+      "key_topic_ref": "TN-14.4",
+      "question_text": "In a Tennessee deed of trust, who holds the legal title until the loan is paid?",
+      "correct_answer": "The trustee",
+      "distractors": ["The borrower/trustor", "The lender/beneficiary", "The county Register of Deeds"],
+      "explanation": "In a deed of trust, the trustee holds legal title as security until the loan is paid. Once the loan is satisfied, the trustee reconveys title to the borrower.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "trustee", "legal title"]
+    },
+    {
+      "key_topic_ref": "TN-14.4",
+      "question_text": "What type of foreclosure is typically used in Tennessee?",
+      "correct_answer": "Non-judicial power of sale",
+      "distractors": ["Judicial foreclosure through the courts", "Strict foreclosure by the lender", "Administrative foreclosure by TREC"],
+      "explanation": "Tennessee typically uses non-judicial foreclosure (power of sale) through the trustee. This process is faster than judicial foreclosure because it does not require court involvement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "non-judicial", "power of sale"]
+    },
+    {
+      "key_topic_ref": "TN-14.4",
+      "question_text": "Before a foreclosure sale in Tennessee, notice must be published in a newspaper for how long?",
+      "correct_answer": "3 consecutive weeks",
+      "distractors": ["1 week", "4 consecutive weeks", "6 consecutive weeks"],
+      "explanation": "The notice of sale must be published in a newspaper for 3 consecutive weeks before the trustee's sale. There must be a minimum of 20 days from first publication to the sale date.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "notice", "publication"]
+    },
+    {
+      "key_topic_ref": "TN-14.4",
+      "question_text": "After a foreclosure sale in Tennessee, how long is the statutory right of redemption period?",
+      "correct_answer": "2 years",
+      "distractors": ["6 months", "1 year", "No redemption right exists"],
+      "explanation": "Tennessee's statutory right of redemption is 2 years after foreclosure — unusually long compared to most states. However, this right can be waived in the deed of trust, which is common in modern practice.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "redemption", "2 years"]
+    }
+  ]
+}

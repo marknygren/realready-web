@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AL-05",
+  "scope": "state",
+  "state": "AL",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "AL-05.1",
+      "question_text": "How much does each Alabama license applicant pay into the Recovery Fund?",
+      "correct_answer": "$30",
+      "distractors": ["$20", "$50", "$100"],
+      "explanation": "Each applicant for an original real estate license in Alabama pays a $30 fee into the Recovery Fund. This is a one-time fee at initial licensure. The fund must maintain a minimum balance of $600,000.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "fee", "contribution"]
+    },
+    {
+      "key_topic_ref": "AL-05.1",
+      "question_text": "What is the minimum balance the Alabama Recovery Fund must maintain?",
+      "correct_answer": "$600,000",
+      "distractors": ["$250,000", "$400,000", "$1,000,000"],
+      "explanation": "The Alabama Recovery Fund must maintain a minimum balance of $600,000. The fund is replenished by the $30 fee paid by each original license applicant. If the balance drops below this threshold, additional assessments may be required.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "minimum balance", "funding"]
+    },
+    {
+      "key_topic_ref": "AL-05.1",
+      "question_text": "The Alabama Recovery Fund compensates parties who suffer losses due to the acts of:",
+      "correct_answer": "Licensed brokers or salespersons",
+      "distractors": ["Unlicensed individuals only", "Title companies and lenders", "Any party in a real estate transaction"],
+      "explanation": "The Recovery Fund covers losses caused by licensed brokers or salespersons. Claims cannot be filed against unlicensed or inactive licensees. The fund covers only actual/compensatory damages, not interest or court costs.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "purpose", "eligibility"]
+    },
+    {
+      "key_topic_ref": "AL-05.1",
+      "question_text": "Which type of damages does the Alabama Recovery Fund cover?",
+      "correct_answer": "Actual and compensatory damages only",
+      "distractors": ["Punitive damages and court costs", "All damages including interest", "Attorney fees and court costs"],
+      "explanation": "The Recovery Fund covers only actual/compensatory damages. It does NOT cover interest, court costs, attorney fees, or punitive damages. This limitation keeps the fund focused on making injured parties financially whole.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "damages", "limitations"]
+    },
+    {
+      "key_topic_ref": "AL-05.1",
+      "question_text": "A buyer loses money on a transaction conducted by an unlicensed individual. Can they file a Recovery Fund claim?",
+      "correct_answer": "No, claims require a licensed party",
+      "distractors": ["Yes, the fund covers all transactions", "Yes, if the loss exceeds $1,000", "Yes, but only for actual damages"],
+      "explanation": "Recovery Fund claims can only be filed against licensed brokers or salespersons. If the person who caused the loss was unlicensed or had an inactive license, the claim will be denied. The claimant would need to pursue other legal remedies.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery fund", "unlicensed", "eligibility"]
+    },
+    {
+      "key_topic_ref": "AL-05.2",
+      "question_text": "What is the maximum Recovery Fund payment per transaction in Alabama?",
+      "correct_answer": "$25,000",
+      "distractors": ["$15,000", "$50,000", "$100,000"],
+      "explanation": "The maximum payment from the Alabama Recovery Fund is $25,000 per transaction, regardless of how many claimants are involved. The aggregate limit per licensee is $50,000 for all claims combined.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "limits", "per transaction"]
+    },
+    {
+      "key_topic_ref": "AL-05.2",
+      "question_text": "Three separate buyers each lost money due to the same licensee's misconduct across different transactions. What is the total maximum they can collectively recover from the fund?",
+      "correct_answer": "$50,000",
+      "distractors": ["$25,000", "$75,000", "$150,000"],
+      "explanation": "The aggregate maximum per licensee is $50,000, regardless of the number of transactions or claimants. Each individual transaction is capped at $25,000. So three separate claims totaling more than $50,000 would be limited to the $50,000 aggregate cap.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery fund", "aggregate limit", "per licensee"]
+    },
+    {
+      "key_topic_ref": "AL-05.2",
+      "question_text": "A licensee's spouse files a Recovery Fund claim against the licensee. What is the likely outcome?",
+      "correct_answer": "The claim will be denied",
+      "distractors": ["The claim will be approved if valid", "The claim is limited to $10,000", "The claim requires AREC hearing first"],
+      "explanation": "Claims by a child, spouse, or parent against their own family member are denied under Alabama Recovery Fund rules. This prevents family members from using the fund for intra-family disputes.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery fund", "family exclusion", "restrictions"]
+    },
+    {
+      "key_topic_ref": "AL-05.2",
+      "question_text": "A Florida resident suffers a loss due to an Alabama licensee's actions on a property located in Florida. Can they file a Recovery Fund claim?",
+      "correct_answer": "No, damages must occur within Alabama",
+      "distractors": ["Yes, if the licensee is Alabama-licensed", "Yes, for any transaction involving an AL licensee", "Yes, but limited to $10,000"],
+      "explanation": "The Alabama Recovery Fund only covers damages sustained within Alabama. Even if the licensee holds an Alabama license, the loss must have occurred in connection with Alabama real estate to be eligible for a claim.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery fund", "Alabama damages", "jurisdiction"]
+    },
+    {
+      "key_topic_ref": "AL-05.2",
+      "question_text": "What is the per-transaction limit of the Alabama Recovery Fund regardless of the number of claimants?",
+      "correct_answer": "$25,000 aggregate",
+      "distractors": ["$25,000 per claimant", "$50,000 aggregate", "$50,000 per claimant"],
+      "explanation": "The $25,000 per-transaction limit is an aggregate cap — it applies regardless of how many people file claims related to that single transaction. If five people are harmed in one transaction, they share the $25,000 maximum.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery fund", "transaction limit", "aggregate"]
+    },
+    {
+      "key_topic_ref": "AL-05.3",
+      "question_text": "Within how many months of the incident must a Recovery Fund claim be filed?",
+      "correct_answer": "12 months",
+      "distractors": ["6 months", "24 months", "36 months"],
+      "explanation": "A Recovery Fund claim must be filed within 12 months of the incident that caused the loss. This relatively short deadline means injured parties must act promptly to preserve their right to recover from the fund.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "filing deadline", "timeline"]
+    },
+    {
+      "key_topic_ref": "AL-05.3",
+      "question_text": "Before filing a Recovery Fund claim, the claimant must first:",
+      "correct_answer": "Attempt to collect from the licensee",
+      "distractors": ["File a complaint with AREC", "Obtain a court judgment only", "Complete mediation with the licensee"],
+      "explanation": "The claimant must first attempt to collect directly from the licensee before filing a Recovery Fund claim. The fund is intended as a last resort when the licensee cannot or will not pay. This requirement ensures the fund is not used when the licensee could pay directly.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "claims process", "collection"]
+    },
+    {
+      "key_topic_ref": "AL-05.3",
+      "question_text": "A payment is made from the Recovery Fund due to a licensee's misconduct. What happens to the licensee's license?",
+      "correct_answer": "It is automatically suspended",
+      "distractors": ["It remains active with a reprimand", "It is placed on probation", "Nothing unless a separate hearing occurs"],
+      "explanation": "When the Recovery Fund makes a payment due to a licensee's conduct, the licensee's license is automatically suspended. To get their license reinstated, the licensee must repay the full amount to the fund plus interest.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "suspension", "effect on licensee"]
+    },
+    {
+      "key_topic_ref": "AL-05.3",
+      "question_text": "A licensee whose license was suspended due to a Recovery Fund payment wants to be reinstated. They must:",
+      "correct_answer": "Repay the fund amount plus interest",
+      "distractors": ["Complete 30 hours of additional education", "Wait 2 years and reapply", "Pay only the original fund amount"],
+      "explanation": "The licensee must repay the full amount paid from the Recovery Fund plus interest before their license can be reinstated. Simply repaying the original amount is not sufficient — interest accrues from the date of payment.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery fund", "reinstatement", "repayment"]
+    },
+    {
+      "key_topic_ref": "AL-05.3",
+      "question_text": "A buyer files a Recovery Fund claim 14 months after the incident. What is the result?",
+      "correct_answer": "The claim is denied as untimely",
+      "distractors": ["The claim is accepted with a late fee", "The claim is reviewed at AREC's discretion", "The claim is accepted if damages exceed $10,000"],
+      "explanation": "Recovery Fund claims must be filed within 12 months of the incident. A claim filed at 14 months exceeds this deadline and will be denied regardless of the merits. The claimant would need to pursue other legal remedies.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery fund", "deadline", "denial"]
+    }
+  ]
+}

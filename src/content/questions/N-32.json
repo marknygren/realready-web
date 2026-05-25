@@ -1,0 +1,298 @@
+{
+  "standard_ref": "N-32",
+  "scope": "national",
+  "state": null,
+  "category": "real_estate_math",
+  "questions": [
+    {
+      "key_topic_ref": "N-32.1",
+      "question_text": "An investor purchases a rental property for $320,000 with a 25% down payment. After paying all expenses and mortgage payments, the property generates $8,400 per year in cash flow. What is the cash-on-cash return?",
+      "correct_answer": "10.5%",
+      "distractors": [
+        "2.625%",
+        "8.4%",
+        "42%"
+      ],
+      "explanation": "Cash-on-cash return measures the annual cash flow relative to the cash actually invested (the down payment and closing costs). Cash-on-cash = Annual Cash Flow ÷ Cash Invested. Cash invested (down payment) = $320,000 × 25% = $80,000. Cash-on-cash = $8,400 ÷ $80,000 = 10.5%. Unlike cap rate (which ignores financing), cash-on-cash accounts for the effect of leverage. An investor who borrows more and invests less cash will have a higher cash-on-cash return on the same property if cash flow remains positive — this is the power of leverage.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "cash_on_cash_return",
+        "investment_math",
+        "leverage",
+        "down_payment"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.2",
+      "question_text": "An investor purchased a rental property for $210,000 and sold it five years later for $280,000. What is the total return on investment (ROI) based on the gain in value?",
+      "correct_answer": "33.3%",
+      "distractors": [
+        "25%",
+        "$70,000",
+        "6.67% per year"
+      ],
+      "explanation": "ROI = Gain ÷ Original Investment. Gain = Sale Price − Purchase Price = $280,000 − $210,000 = $70,000. ROI = $70,000 ÷ $210,000 = 0.3333 = 33.3%. The denominator is always the original investment (purchase price), not the sale price. This calculation measures total appreciation only — a comprehensive ROI analysis would also include rental income received and deduct expenses paid over the holding period. Annualized ROI ≈ 33.3% ÷ 5 years = 6.67% per year (simple method, not compounded).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "ROI",
+        "return_on_investment",
+        "appreciation",
+        "investment_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.3",
+      "question_text": "A home purchased for $250,000 appreciates at 4% per year. What is its value after two years?",
+      "correct_answer": "$270,400",
+      "distractors": [
+        "$270,000",
+        "$260,000",
+        "$290,000"
+      ],
+      "explanation": "Compound appreciation means each year's gain is calculated on the new (higher) value. Year 1: $250,000 × 1.04 = $260,000. Year 2: $260,000 × 1.04 = $270,400. The difference from simple interest: simple would be $250,000 × 0.04 × 2 = $20,000 gain, giving $270,000. Compounding adds an extra $400 in Year 2 because Year 2's 4% applies to the already-appreciated $260,000. Over longer periods, compounding creates significantly more value than simple appreciation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "appreciation",
+        "compound_growth",
+        "property_value",
+        "investment_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.2",
+      "question_text": "An investor paid $180,000 for a property, made $20,000 in improvements, and sold it for $240,000. What is the ROI based on total cash invested?",
+      "correct_answer": "20%",
+      "distractors": [
+        "33.3%",
+        "16.7%",
+        "22.2%"
+      ],
+      "explanation": "When improvements are made, total cash invested includes both the purchase price and improvement costs. Total basis = $180,000 + $20,000 = $200,000. Gain = Sale Price − Total Basis = $240,000 − $200,000 = $40,000. ROI = $40,000 ÷ $200,000 = 20%. This is also the concept of 'cost basis' used in tax calculations — a higher cost basis reduces the taxable gain. The investor who ignores improvement costs when calculating ROI will overstate their return.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "ROI",
+        "cost_basis",
+        "improvements",
+        "investment_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.1",
+      "question_text": "An investor buys a property for $200,000 with $50,000 down. Annual cash flow is $6,000. What is the cash-on-cash return?",
+      "correct_answer": "12%",
+      "distractors": [
+        "3%",
+        "8%",
+        "24%"
+      ],
+      "explanation": "Cash-on-cash = Annual cash flow ÷ Cash invested. $6,000 ÷ $50,000 = 0.12 = 12%. The 3% divides by the full purchase price ($6,000 ÷ $200,000). The 24% doubles the correct answer. Cash-on-cash return measures the actual cash yield on the cash you put into the deal, making it the most relevant metric for leveraged investors comparing opportunities.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "cash_on_cash",
+        "investment_math",
+        "leverage"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.1",
+      "question_text": "An investor puts $100,000 cash down on a rental property. After all expenses and mortgage payments, the property loses $2,000 per year. What is the cash-on-cash return?",
+      "correct_answer": "Negative 2%",
+      "distractors": [
+        "Positive 2%",
+        "Zero",
+        "Negative 20%"
+      ],
+      "explanation": "Cash-on-cash = -$2,000 ÷ $100,000 = -0.02 = -2%. A negative cash-on-cash return means the property costs the investor money each year after all expenses and debt service. This is sometimes called 'negative cash flow.' An investor might accept negative cash flow temporarily if they expect property appreciation to provide a positive total return, but it increases risk. The 2% ignores the negative sign.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "cash_on_cash",
+        "negative_cash_flow",
+        "investment_risk"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.1",
+      "question_text": "Two investors buy identical properties for $300,000. Investor A puts 20% down, Investor B puts 50% down. Both receive $9,000 annual cash flow. Which statement is correct?",
+      "correct_answer": "Investor A has a higher cash-on-cash return due to more leverage",
+      "distractors": [
+        "Investor B has a higher return because less debt means less risk",
+        "Both have the same return since property and cash flow are identical",
+        "Cash-on-cash return cannot be compared between leveraged properties"
+      ],
+      "explanation": "Investor A: $9,000 ÷ $60,000 (20% of $300K) = 15%. Investor B: $9,000 ÷ $150,000 (50% of $300K) = 6%. Investor A's greater leverage (less cash down) produces a higher cash-on-cash return. However, more leverage also means higher risk — Investor A has larger mortgage payments and could face negative cash flow if rents drop. This illustrates the leverage effect: amplifying both returns and risk.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "cash_on_cash",
+        "leverage_effect",
+        "investment_comparison"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.1",
+      "question_text": "An investor's cash-on-cash return is 8% and they invested $75,000 in cash. What is their annual cash flow?",
+      "correct_answer": "$6,000",
+      "distractors": [
+        "$600",
+        "$60,000",
+        "$9,375"
+      ],
+      "explanation": "Cash flow = Cash-on-cash return × Cash invested = 0.08 × $75,000 = $6,000. This is the reverse of the standard calculation. The $600 uses 0.008 instead of 0.08. The $9,375 divides $75,000 by 8 instead of multiplying by 0.08. Being able to work backward through the cash-on-cash formula is important for setting investment criteria.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "cash_on_cash",
+        "working_backward",
+        "cash_flow"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.2",
+      "question_text": "A property was bought for $150,000 and sold for $195,000. During ownership, the investor received $30,000 in total net rental income. What is the total ROI?",
+      "correct_answer": "50%",
+      "distractors": [
+        "30%",
+        "23.1%",
+        "75%"
+      ],
+      "explanation": "Total gain = Appreciation ($195,000 - $150,000 = $45,000) + Net rental income ($30,000) = $75,000. ROI = $75,000 ÷ $150,000 = 50%. The 30% only counts appreciation ($45,000 ÷ $150,000). The 23.1% divides by the sale price ($45,000 ÷ $195,000). A comprehensive ROI includes both appreciation and income. The 75% incorrectly uses a different calculation.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "ROI",
+        "total_return",
+        "appreciation_plus_income"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.2",
+      "question_text": "An investor bought a property for $500,000 and sold it three years later for $575,000. What was the average annual ROI?",
+      "correct_answer": "5%",
+      "distractors": [
+        "15%",
+        "3.33%",
+        "7.5%"
+      ],
+      "explanation": "Total gain: $575,000 - $500,000 = $75,000. Total ROI: $75,000 ÷ $500,000 = 15%. Average annual ROI: 15% ÷ 3 years = 5% per year (simple method). The 15% is the total ROI, not annualized. The 3.33% divides $75,000 by $75,000 ÷ ... (incorrect). Annualizing helps compare investments held for different time periods. Note: this is the simple annualization method — compound annual growth rate (CAGR) would give a slightly different result.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "ROI",
+        "annualized_return",
+        "average_annual"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.2",
+      "question_text": "An investor's total return was $25,000 on an original investment of $200,000. What is the ROI?",
+      "correct_answer": "12.5%",
+      "distractors": [
+        "8.0%",
+        "25.0%",
+        "1.25%"
+      ],
+      "explanation": "ROI = Total return ÷ Original investment = $25,000 ÷ $200,000 = 0.125 = 12.5%. The 8% divides $200,000 by $25,000 and takes the inverse. The 25% uses $25,000 ÷ $100,000. The 1.25% moves the decimal incorrectly. ROI is always gain divided by the original investment amount.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "ROI",
+        "basic_calculation",
+        "investment_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.3",
+      "question_text": "A property valued at $300,000 depreciates 2% per year. What is its value after one year?",
+      "correct_answer": "$294,000",
+      "distractors": [
+        "$306,000",
+        "$298,000",
+        "$240,000"
+      ],
+      "explanation": "Depreciation reduces value: $300,000 × (1 - 0.02) = $300,000 × 0.98 = $294,000. The $306,000 adds 2% instead of subtracting (appreciation, not depreciation). The $298,000 subtracts only $2,000 instead of $6,000. The $240,000 subtracts 20% instead of 2%. Depreciation works the same as appreciation but in reverse — multiply by (1 - rate) instead of (1 + rate).",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "depreciation",
+        "property_value",
+        "annual_rate"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.3",
+      "question_text": "A home purchased for $400,000 appreciates at 3% per year for 3 years. What is the approximate value after 3 years?",
+      "correct_answer": "$437,091",
+      "distractors": [
+        "$436,000",
+        "$412,000",
+        "$448,000"
+      ],
+      "explanation": "Compound appreciation: Year 1: $400,000 × 1.03 = $412,000. Year 2: $412,000 × 1.03 = $424,360. Year 3: $424,360 × 1.03 = $437,090.80 ≈ $437,091. Shortcut: $400,000 × (1.03)³ = $400,000 × 1.092727 = $437,091. The $436,000 uses simple interest ($400,000 × 0.03 × 3 = $36,000 → $436,000). Compounding adds an extra $1,091 over three years due to earning 'interest on interest.'",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "appreciation",
+        "compound_growth",
+        "three_year"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.3",
+      "question_text": "A property is currently worth $350,000 and was purchased 5 years ago for $280,000. What is the approximate average annual appreciation rate?",
+      "correct_answer": "5%",
+      "distractors": [
+        "4%",
+        "25%",
+        "20%"
+      ],
+      "explanation": "Total appreciation: $350,000 - $280,000 = $70,000. Total percentage: $70,000 ÷ $280,000 = 25%. Average annual (simple): 25% ÷ 5 = 5% per year. The 25% is the total appreciation, not annual. The 20% divides $70,000 by $350,000 (current value, not original). This simple division method gives an approximation — the true compound annual growth rate (CAGR) would be slightly different but the simple method is what's typically tested on the exam.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "appreciation",
+        "annual_rate",
+        "working_backward"
+      ]
+    },
+    {
+      "key_topic_ref": "N-32.3",
+      "question_text": "An investor buys a property for $225,000. It appreciates 5% the first year and depreciates 3% the second year. What is the value at the end of year 2?",
+      "correct_answer": "$229,163",
+      "distractors": [
+        "$229,500",
+        "$225,000",
+        "$234,000"
+      ],
+      "explanation": "Year 1 (5% appreciation): $225,000 × 1.05 = $236,250. Year 2 (3% depreciation): $236,250 × 0.97 = $229,162.50 ≈ $229,163. The $229,500 uses simple math ($225,000 + 5% - 3% = $225,000 × 1.02 = $229,500). The $225,000 assumes the gains and losses cancel out. Appreciation and depreciation do not simply add and subtract percentages — each must be applied to the current value compounded in sequence.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "appreciation",
+        "depreciation",
+        "compound",
+        "mixed_rates"
+      ]
+    }
+  ]
+}

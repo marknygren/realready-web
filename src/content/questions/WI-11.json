@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WI-11",
+  "scope": "state",
+  "state": "WI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WI-11.1",
+      "question_text": "The WB-11 is Wisconsin's primary form for which type of transaction?",
+      "correct_answer": "Residential Offer to Purchase",
+      "distractors": ["Commercial Offer to Purchase", "Vacant Land Offer to Purchase", "Residential Listing Contract"],
+      "explanation": "The WB-11 is the Residential Offer to Purchase — Wisconsin's primary transaction document for residential real estate. It becomes binding upon acceptance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["WB-11", "offer to purchase", "residential"]
+    },
+    {
+      "key_topic_ref": "WI-11.1",
+      "question_text": "When does a WB-11 offer become a binding contract in Wisconsin?",
+      "correct_answer": "Upon acceptance by the seller",
+      "distractors": ["When the buyer signs the offer", "When earnest money is deposited", "When the inspection period expires"],
+      "explanation": "The WB-11 becomes binding upon acceptance. Once the seller accepts, 'time is of the essence' applies to all deadlines in the contract.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["WB-11", "binding", "acceptance"]
+    },
+    {
+      "key_topic_ref": "WI-11.1",
+      "question_text": "What does 'time is of the essence' mean in a WB-11 contract?",
+      "correct_answer": "All deadlines must be strictly met",
+      "distractors": ["The closing must happen as quickly as possible", "Either party can extend deadlines unilaterally", "Deadlines are guidelines, not strict requirements"],
+      "explanation": "The WB-11 specifies that 'time is of the essence,' meaning all contractual deadlines must be strictly observed. Missing a deadline may allow the other party to terminate the contract.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["WB-11", "time is of the essence", "deadlines"]
+    },
+    {
+      "key_topic_ref": "WI-11.1",
+      "question_text": "A buyer submits a WB-11 with $5,000 earnest money. Where must this information appear?",
+      "correct_answer": "In the earnest money provisions of the WB-11",
+      "distractors": ["Only in the buyer agency agreement", "In a separate earnest money addendum", "Only on the closing statement"],
+      "explanation": "The WB-11 contains specific earnest money provisions that specify the amount, handling, and deposit requirements. All earnest money details must be documented within the offer itself.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["WB-11", "earnest money", "provisions"]
+    },
+    {
+      "key_topic_ref": "WI-11.1",
+      "question_text": "Which Wisconsin offer form would be used for an undeveloped lot purchase?",
+      "correct_answer": "WB-13 Vacant Land Offer to Purchase",
+      "distractors": ["WB-11 Residential Offer to Purchase", "WB-14 Condominium Offer to Purchase", "WB-15 Commercial Offer to Purchase"],
+      "explanation": "WB-13 is specifically designed for vacant land transactions. WB-11 is for residential, WB-14 for condominiums, and WB-15 for commercial properties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["WB-13", "vacant land", "forms"]
+    },
+    {
+      "key_topic_ref": "WI-11.2",
+      "question_text": "A buyer's WB-11 includes a financing contingency. The buyer fails to secure a loan by the deadline. What may the seller do?",
+      "correct_answer": "Terminate the contract",
+      "distractors": ["Automatically extend the deadline 30 days", "Sue the buyer for specific performance", "Nothing until after the closing date passes"],
+      "explanation": "When a buyer fails to satisfy a contingency within the specified deadline, the other party may have the right to terminate the contract. Contingency deadlines are strictly enforced under the 'time is of the essence' provision.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contingency", "financing", "termination"]
+    },
+    {
+      "key_topic_ref": "WI-11.2",
+      "question_text": "Which of the following is a built-in contingency in the WB-11?",
+      "correct_answer": "Inspection contingency",
+      "distractors": ["Home warranty contingency", "Moving date contingency", "Furniture inclusion contingency"],
+      "explanation": "The WB-11 includes built-in contingencies for financing, inspection, and appraisal. These are standard provisions in the form that protect the buyer during the transaction process.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contingency", "inspection", "WB-11"]
+    },
+    {
+      "key_topic_ref": "WI-11.2",
+      "question_text": "A buyer wants to make their offer contingent on selling their current home. Is this possible with the WB-11?",
+      "correct_answer": "Yes, sale of buyer's property is a common contingency",
+      "distractors": ["No, the WB-11 does not allow this contingency", "Only if both properties are in the same county", "Only with a separate addendum drafted by REEB"],
+      "explanation": "Sale of the buyer's property is a common contingency that can be included in a WB-11. Like all contingencies, it has a specific deadline that must be met.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contingency", "sale of property", "buyer"]
+    },
+    {
+      "key_topic_ref": "WI-11.2",
+      "question_text": "An appraisal comes in $20,000 below the offer price. Under the appraisal contingency, the buyer may:",
+      "correct_answer": "Terminate the contract or renegotiate the price",
+      "distractors": ["Only proceed at the original price", "Demand the seller lower the price automatically", "File a complaint with REEB"],
+      "explanation": "The appraisal contingency protects the buyer if the property appraises below the contract price. The buyer can terminate, renegotiate, or choose to proceed at the higher price.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contingency", "appraisal", "below value"]
+    },
+    {
+      "key_topic_ref": "WI-11.2",
+      "question_text": "What happens if a WB-11 contingency deadline passes without action from either party?",
+      "correct_answer": "The party protected by the contingency may lose their rights",
+      "distractors": ["The contingency automatically extends 10 days", "The entire contract becomes void", "The broker must mediate the dispute"],
+      "explanation": "Under 'time is of the essence,' missed contingency deadlines are significant. The party who benefits from the contingency should act before the deadline to preserve their rights.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["contingency", "deadline", "rights"]
+    },
+    {
+      "key_topic_ref": "WI-11.3",
+      "question_text": "Under §452.142, how long after closing must a legal action related to a real estate transaction be brought?",
+      "correct_answer": "Within 2 years",
+      "distractors": ["Within 1 year", "Within 3 years", "Within 6 years"],
+      "explanation": "Wisconsin Statute §452.142 establishes a 2-year statute of limitations from the date of closing for legal actions related to real estate transactions. Claims filed after this period are barred.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute of limitations", "§452.142", "2 years"]
+    },
+    {
+      "key_topic_ref": "WI-11.3",
+      "question_text": "A buyer discovers a hidden defect 18 months after closing. Can they file a legal claim?",
+      "correct_answer": "Yes, they are within the 2-year limitation period",
+      "distractors": ["No, claims must be filed within 1 year", "Only if the defect was on the Condition Report", "Only if they notified the seller within 90 days"],
+      "explanation": "Under §452.142, the buyer has 2 years from closing to bring legal action. At 18 months, they are still within the limitation period and can pursue their claim.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute of limitations", "defect", "claim"]
+    },
+    {
+      "key_topic_ref": "WI-11.3",
+      "question_text": "The 2-year limitation period under §452.142 begins on what date?",
+      "correct_answer": "The date of closing",
+      "distractors": ["The date the offer was accepted", "The date the defect was discovered", "The date the deed was recorded"],
+      "explanation": "The statute of limitations under §452.142 runs from the date of closing, not from the date of discovery or any other event. This gives parties a defined window for legal action.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute of limitations", "closing date", "start"]
+    },
+    {
+      "key_topic_ref": "WI-11.3",
+      "question_text": "A buyer wants to sue their agent for misrepresentation 30 months after closing. What is the likely outcome?",
+      "correct_answer": "The claim is barred by the 2-year statute of limitations",
+      "distractors": ["The claim proceeds normally", "The court may grant a 6-month extension", "The claim is valid if fraud is alleged"],
+      "explanation": "At 30 months (2.5 years), the claim exceeds the 2-year limitation period under §452.142. The statute of limitations provides a firm cutoff for transaction-related legal actions.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute of limitations", "barred", "time limit"]
+    },
+    {
+      "key_topic_ref": "WI-11.3",
+      "question_text": "The statute of limitations notice referencing §452.142 appears in which documents?",
+      "correct_answer": "WB offers to purchase",
+      "distractors": ["Only the buyer agency agreement", "Only the listing contract", "Only the closing statement"],
+      "explanation": "The WB offers to purchase include a notice referencing the §452.142 two-year statute of limitations from closing. This alerts both parties to the time limit for legal actions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute of limitations", "notice", "WB forms"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "CT-12",
+  "scope": "state",
+  "state": "CT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CT-12.1",
+      "question_text": "Under Connecticut law, a seller of residential property must provide the buyer with a:",
+      "correct_answer": "Residential Condition Report",
+      "distractors": ["Property Inspection Certificate", "Structural Safety Disclosure", "Home Warranty Agreement"],
+      "explanation": "Connecticut requires sellers to complete a Residential Condition Report (CGS §20-327b) covering structural, mechanical, plumbing, electrical, and environmental conditions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "condition-report", "seller"]
+    },
+    {
+      "key_topic_ref": "CT-12.1",
+      "question_text": "A seller in Hartford does not want to complete the Residential Condition Report. What alternative does Connecticut law provide?",
+      "correct_answer": "Pay a $500 credit to the buyer instead",
+      "distractors": ["Have the broker complete the report instead", "Obtain a professional home inspection", "Waive the disclosure requirement entirely"],
+      "explanation": "Connecticut allows sellers to pay a $500 credit to the buyer in lieu of completing the disclosure form. However, this does NOT eliminate liability for known defects — the seller remains liable.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "500-credit", "alternative"]
+    },
+    {
+      "key_topic_ref": "CT-12.1",
+      "question_text": "A seller pays the $500 credit instead of completing the Residential Condition Report. The seller later learns of a termite infestation they knew about before the sale. The seller is:",
+      "correct_answer": "Still liable for failing to disclose the known defect",
+      "distractors": ["Protected from all disclosure claims", "Liable only if the buyer discovers it within 1 year", "Protected because the credit replaced the disclosure"],
+      "explanation": "The $500 credit does NOT eliminate liability for known defects. A seller who knowingly conceals defects remains liable regardless of whether they completed the disclosure form or paid the credit.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disclosure", "liability", "known-defects"]
+    },
+    {
+      "key_topic_ref": "CT-12.1",
+      "question_text": "Connecticut's Residential Condition Report uniquely requires disclosure about:",
+      "correct_answer": "Pyrrhotite in concrete foundations",
+      "distractors": ["Radon levels in all rooms", "Earthquake fault proximity", "Hurricane wind resistance rating"],
+      "explanation": "Connecticut specifically requires sellers to disclose knowledge of pyrrhotite in concrete foundations, any testing done, and repairs made. This is unique to CT due to the 'crumbling foundations' crisis affecting homes in northeast Connecticut.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "pyrrhotite", "foundation"]
+    },
+    {
+      "key_topic_ref": "CT-12.1",
+      "question_text": "Under PA 25-33 (effective July 2025), what new section was added to Connecticut's Residential Condition Report?",
+      "correct_answer": "Flood Risk Awareness",
+      "distractors": ["Energy Efficiency Rating", "Structural Engineering Assessment", "Wildfire Risk Evaluation"],
+      "explanation": "PA 25-33 added a new 'Flood Risk Awareness' section to the Residential Condition Report effective July 1, 2025, addressing flood risk disclosure for buyers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disclosure", "flood-risk", "PA-25-33"]
+    },
+    {
+      "key_topic_ref": "CT-12.2",
+      "question_text": "Federal law requires lead-based paint disclosure for residential properties built before:",
+      "correct_answer": "1978",
+      "distractors": ["1960", "1990", "2000"],
+      "explanation": "The federal EPA/HUD rule requires lead-based paint disclosure for all residential properties built before 1978, when lead paint was banned for residential use.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead-paint", "pre-1978", "federal"]
+    },
+    {
+      "key_topic_ref": "CT-12.2",
+      "question_text": "Connecticut's lead paint laws are stricter than federal requirements in that they impose owner liability when:",
+      "correct_answer": "Children under 6 reside in a property with toxic lead levels",
+      "distractors": ["Any property built before 1978 is sold", "A tenant of any age reports peeling paint", "Commercial property has lead paint on exterior"],
+      "explanation": "Connecticut goes beyond federal law by imposing owner liability for properties with defective surfaces containing toxic lead levels where children under age 6 reside. This is a higher standard than federal disclosure alone.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead-paint", "CT-stricter", "children-under-6"]
+    },
+    {
+      "key_topic_ref": "CT-12.2",
+      "question_text": "A child under 6 in a pre-1978 rental has elevated blood lead levels. What happens next?",
+      "correct_answer": "Health department inspects and may order remediation",
+      "distractors": ["The landlord is automatically fined $5,000 per unit", "DCP immediately suspends the landlord's real estate license", "The property is condemned and vacated by the town"],
+      "explanation": "When a child under 6 has elevated blood lead levels, the local health department inspects the property and may order the landlord to remediate the lead hazard. The process starts with inspection, not automatic penalties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lead-paint", "health-department", "remediation"]
+    },
+    {
+      "key_topic_ref": "CT-12.2",
+      "question_text": "Lead abatement work in Connecticut must be performed by:",
+      "correct_answer": "Licensed lead abatement contractors",
+      "distractors": ["Any licensed general contractor", "The property owner with proper training", "Municipal building department inspectors"],
+      "explanation": "Lead abatement must be performed by licensed lead abatement contractors specifically certified for lead removal. General contractors are not automatically qualified for lead work.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead-paint", "abatement", "licensed-contractor"]
+    },
+    {
+      "key_topic_ref": "CT-12.2",
+      "question_text": "A landlord of a pre-1978 rental property with young tenants should proactively:",
+      "correct_answer": "Inspect for lead hazards before renting to families",
+      "distractors": ["Only test if a child shows symptoms", "Wait for the health department to order testing", "Disclose only if they have test results"],
+      "explanation": "Connecticut's stricter lead laws mean landlords of pre-1978 properties should proactively inspect for lead hazards, especially before renting to families with young children, rather than waiting for problems to arise.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lead-paint", "landlord", "proactive"]
+    },
+    {
+      "key_topic_ref": "CT-12.3",
+      "question_text": "Under Connecticut law, a real estate agent is NOT required to disclose that a property was the site of a:",
+      "correct_answer": "Homicide or suicide",
+      "distractors": ["Major structural defect", "Known flooding problem", "Failed septic system"],
+      "explanation": "CGS §20-329cc protects agents from having to disclose that a property was the site of a homicide, suicide, or other felony. Structural defects, flooding, and septic failures are material defects that must be disclosed.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["stigmatized-property", "non-disclosure", "homicide"]
+    },
+    {
+      "key_topic_ref": "CT-12.3",
+      "question_text": "A buyer directly asks whether a registered sex offender lives nearby. The agent should:",
+      "correct_answer": "Not affirmatively misrepresent the situation",
+      "distractors": ["Provide the sex offender registry details", "Refuse to answer and end the conversation", "Confirm or deny based on personal knowledge"],
+      "explanation": "While agents are not required to disclose sex offender proximity, they should not affirmatively misrepresent if directly asked. The best practice is to direct the buyer to public sex offender registry resources.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["stigmatized-property", "sex-offender", "direct-question"]
+    },
+    {
+      "key_topic_ref": "CT-12.3",
+      "question_text": "An agent is aware that a previous occupant of a listing had HIV. Under Connecticut law, the agent:",
+      "correct_answer": "Is not required to disclose this information",
+      "distractors": ["Must disclose to all prospective buyers", "Must disclose only if directly asked", "Must include it in the Residential Condition Report"],
+      "explanation": "CGS §20-329cc specifically provides that agents are not required to disclose that a prior occupant had HIV/AIDS or other disease. This protection exists to prevent discrimination against people with health conditions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["stigmatized-property", "HIV", "non-disclosure"]
+    },
+    {
+      "key_topic_ref": "CT-12.3",
+      "question_text": "Connecticut's stigmatized property law (CGS §20-329cc) protects agents from liability for not disclosing:",
+      "correct_answer": "Homicides, suicides, felonies, or disease at the property",
+      "distractors": ["Environmental contamination discovered on the property", "Significant physical defects in the property structure", "Existing zoning violations that affect property use"],
+      "explanation": "The law protects agents from liability for not disclosing stigmatizing events (homicides, suicides, felonies, diseases). It does not protect against failure to disclose physical defects, contamination, or zoning issues.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["stigmatized-property", "protection", "scope"]
+    },
+    {
+      "key_topic_ref": "CT-12.3",
+      "question_text": "The stigmatized property protection in Connecticut limits agent liability but does NOT permit:",
+      "correct_answer": "Active deception about the property's history",
+      "distractors": ["Declining to answer personal questions", "Referring buyers to public information sources", "Stating that disclosure is not legally required"],
+      "explanation": "While agents are protected from liability for not volunteering stigmatized information, they cannot actively deceive buyers. If asked, they should not lie — the protection limits disclosure obligations, not active misrepresentation.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["stigmatized-property", "deception", "limits"]
+    }
+  ]
+}

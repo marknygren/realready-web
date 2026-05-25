@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AZ-01",
+  "scope": "state",
+  "state": "AZ",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "AZ-01.1",
+      "question_text": "Which official heads the Arizona Department of Real Estate (ADRE)?",
+      "correct_answer": "The Real Estate Commissioner",
+      "distractors": ["The ADRE Board Chairman", "The Governor's Housing Director", "The Attorney General's designee"],
+      "explanation": "ADRE is headed by the Real Estate Commissioner, who is appointed by the Governor and serves at the Governor's pleasure. Unlike many states, Arizona does not use a multi-member commission to oversee the department.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ADRE", "Commissioner", "regulatory"]
+    },
+    {
+      "key_topic_ref": "AZ-01.1",
+      "question_text": "How is the Arizona Real Estate Commissioner selected for the position?",
+      "correct_answer": "Appointed by the Governor",
+      "distractors": ["Elected by licensed brokers", "Confirmed by state legislature", "Chosen by the ADRE advisory board"],
+      "explanation": "The Commissioner is appointed by the Governor and serves at the Governor's pleasure. The position is not elected or chosen by industry members.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Commissioner", "appointment", "Governor"]
+    },
+    {
+      "key_topic_ref": "AZ-01.1",
+      "question_text": "In addition to real estate licensing, which of the following does ADRE also regulate?",
+      "correct_answer": "Subdivisions and timeshares",
+      "distractors": ["Mortgage lending institutions", "Home inspection companies", "General contractor licensing"],
+      "explanation": "ADRE regulates subdivisions, timeshares, cemeteries, and membership campgrounds in addition to real estate licensing. Mortgage lending falls under the Department of Insurance and Financial Institutions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ADRE", "jurisdiction", "subdivisions", "timeshares"]
+    },
+    {
+      "key_topic_ref": "AZ-01.1",
+      "question_text": "A consumer files a complaint alleging a licensee committed fraud. Which entity investigates this complaint?",
+      "correct_answer": "The Arizona Department of Real Estate",
+      "distractors": ["The Arizona Attorney General", "The local county court system", "The Arizona Board of Realtors"],
+      "explanation": "ADRE investigates complaints against licensees, conducts audits, and enforces real estate statutes and Commissioner's rules. The Attorney General handles consumer fraud generally but ADRE has primary jurisdiction over licensee misconduct.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ADRE", "complaints", "enforcement"]
+    },
+    {
+      "key_topic_ref": "AZ-01.1",
+      "question_text": "Under which Arizona statute is ADRE's authority primarily established?",
+      "correct_answer": "ARS Title 32, Chapter 20",
+      "distractors": ["ARS Title 33, Chapter 10", "ARS Title 41, Chapter 12", "ARS Title 28, Chapter 15"],
+      "explanation": "ADRE is established under Arizona Revised Statutes Title 32 (Professions and Occupations), Chapter 20. Title 33 covers property, and Title 41 covers state government operations.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ARS", "Title 32", "statutory authority"]
+    },
+    {
+      "key_topic_ref": "AZ-01.2",
+      "question_text": "The Commissioner adopts administrative rules that have the force of law. Where are these rules published?",
+      "correct_answer": "AAC Title 4, Chapter 28",
+      "distractors": ["Arizona Revised Statutes Title 32", "ADRE Licensee Policy Handbook", "Arizona Real Estate Bulletin"],
+      "explanation": "The Commissioner's rules are codified in the Arizona Administrative Code (AAC) Title 4, Chapter 28. These administrative rules supplement the statutes in ARS Title 32 and carry the force of law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Commissioner", "rules", "AAC", "rulemaking"]
+    },
+    {
+      "key_topic_ref": "AZ-01.2",
+      "question_text": "A designated broker asks whether the Commissioner can issue a cease and desist order. What is the correct answer?",
+      "correct_answer": "Yes, the Commissioner has that authority",
+      "distractors": ["No, only courts can issue such orders", "Only the Attorney General may do so", "Only after a formal hearing is held"],
+      "explanation": "The Commissioner has broad enforcement powers including issuing cease and desist orders, suspending or revoking licenses, and imposing civil penalties. These powers are granted under ARS Title 32, Chapter 20.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Commissioner", "enforcement", "cease and desist"]
+    },
+    {
+      "key_topic_ref": "AZ-01.2",
+      "question_text": "Which of the following is NOT a power of the Arizona Real Estate Commissioner?",
+      "correct_answer": "Setting commission rates for licensees",
+      "distractors": ["Adopting administrative rules", "Suspending a real estate license", "Investigating licensee complaints"],
+      "explanation": "Commission rates are set by the market and negotiated between brokers and clients. The Commissioner has authority over rulemaking, licensing, investigation, and discipline but cannot set compensation rates.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Commissioner", "powers", "commission rates"]
+    },
+    {
+      "key_topic_ref": "AZ-01.2",
+      "question_text": "A licensee violates the Commissioner's rules. What type of legal authority do these rules carry?",
+      "correct_answer": "They have the force of law",
+      "distractors": ["They are advisory guidelines only", "They apply only to brokers", "They require court ratification first"],
+      "explanation": "The Commissioner's administrative rules (AAC Title 4, Chapter 28) have the full force of law. Violating them is treated the same as violating the statutes and can result in disciplinary action.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Commissioner", "rules", "legal authority"]
+    },
+    {
+      "key_topic_ref": "AZ-01.2",
+      "question_text": "The Commissioner discovers a brokerage is not maintaining proper trust account records. What action can the Commissioner take?",
+      "correct_answer": "Audit the accounts and take disciplinary action",
+      "distractors": ["File a civil lawsuit in superior court", "Refer the matter to the county sheriff", "Issue a warning with no further action"],
+      "explanation": "ADRE can audit brokerage trust accounts at any time and take disciplinary action including suspension, revocation, or civil penalties for deficiencies found. The Commissioner does not need to go through the courts for administrative action.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Commissioner", "trust accounts", "audit", "discipline"]
+    },
+    {
+      "key_topic_ref": "AZ-01.3",
+      "question_text": "Article XXVI of the Arizona Constitution provides which important real estate exemption?",
+      "correct_answer": "No license needed to sell one's own property",
+      "distractors": ["Homestead protection from all creditors", "Exemption from property transfer taxes", "Right to practice without a broker"],
+      "explanation": "Article XXVI of the Arizona Constitution establishes that no real estate license is required to sell one's own property. This is a commonly tested constitutional provision unique to Arizona's exam.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Article XXVI", "Constitution", "license exemption"]
+    },
+    {
+      "key_topic_ref": "AZ-01.3",
+      "question_text": "A homeowner plans to sell their own house without hiring a real estate agent. Under Arizona law, this is:",
+      "correct_answer": "Permitted under Article XXVI",
+      "distractors": ["Prohibited without a valid license", "Allowed only for properties under $500,000", "Permitted only after ADRE notification"],
+      "explanation": "Article XXVI of the Arizona Constitution explicitly provides that no real estate license is required to sell one's own property. This applies regardless of property value or type.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Article XXVI", "FSBO", "license exemption"]
+    },
+    {
+      "key_topic_ref": "AZ-01.3",
+      "question_text": "ADRE has jurisdiction over which of the following activities?",
+      "correct_answer": "Selling cemetery plots for compensation",
+      "distractors": ["Appraising residential properties", "Performing home inspections", "Originating residential mortgages"],
+      "explanation": "ADRE regulates not only traditional real estate activities but also cemeteries, subdivisions, timeshares, and membership campgrounds. Appraisals, home inspections, and mortgage origination are regulated by other agencies.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["ADRE", "jurisdiction", "cemeteries"]
+    },
+    {
+      "key_topic_ref": "AZ-01.3",
+      "question_text": "For unsubdivided land sales of 5 or fewer parcels, what does Arizona law require the seller to provide?",
+      "correct_answer": "An Affidavit of Disclosure",
+      "distractors": ["A subdivision public report", "An ADRE inspection certificate", "A title insurance commitment"],
+      "explanation": "The Affidavit of Disclosure is required for unsubdivided land sales (5 or fewer parcels). It requires the seller to disclose property conditions, water adequacy, and other material facts. Subdivisions of 6+ lots require a public report instead.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Affidavit of Disclosure", "unsubdivided land", "disclosure"]
+    },
+    {
+      "key_topic_ref": "AZ-01.3",
+      "question_text": "A developer plans to divide 10 acres into 8 residential lots for sale. What must the developer obtain from ADRE before selling any lots?",
+      "correct_answer": "A public report",
+      "distractors": ["An Affidavit of Disclosure", "A water adequacy certificate", "A Commissioner's special permit"],
+      "explanation": "Any land divided into 6 or more lots for sale constitutes a subdivision requiring an ADRE public report before any lots can be sold. With 8 lots, this development exceeds the 5-lot threshold for unsubdivided land.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["subdivision", "public report", "ADRE", "jurisdiction"]
+    }
+  ]
+}

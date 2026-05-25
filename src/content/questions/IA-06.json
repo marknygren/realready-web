@@ -1,0 +1,233 @@
+{
+  "standard_ref": "IA-06",
+  "scope": "state",
+  "state": "IA",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "IA-06.1",
+      "question_text": "An Iowa broker wants to open a trust account at an online-only bank headquartered in another state. Is this permitted?",
+      "correct_answer": "No, the account must be at an Iowa institution",
+      "distractors": [
+        "Yes, any FDIC-insured bank qualifies",
+        "Yes, if the bank has online Iowa access",
+        "Only if the Commission grants a waiver"
+      ],
+      "explanation": "Iowa trust accounts must be maintained at a federally insured institution located in Iowa. An online-only bank headquartered out of state does not satisfy this requirement, regardless of FDIC insurance or online accessibility.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "iowa_institution", "location_requirement"]
+    },
+    {
+      "key_topic_ref": "IA-06.1",
+      "question_text": "What type of bank account must an Iowa broker use for a trust account?",
+      "correct_answer": "Demand deposit (checking) account",
+      "distractors": [
+        "Certificate of deposit",
+        "Money market savings account",
+        "Interest-bearing time deposit"
+      ],
+      "explanation": "Iowa requires trust accounts to be demand deposit accounts (checking accounts) so that funds are immediately accessible. CDs, money market accounts, and time deposits do not allow immediate withdrawal and therefore do not meet the requirement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "demand_deposit", "account_type"]
+    },
+    {
+      "key_topic_ref": "IA-06.1",
+      "question_text": "A salesperson in an Iowa brokerage wants to deposit earnest money into the trust account. Under Iowa law, who may access the trust account?",
+      "correct_answer": "The broker or authorized designees only",
+      "distractors": [
+        "Any licensed salesperson in the office",
+        "The listing agent handling the transaction",
+        "The office manager regardless of licensure"
+      ],
+      "explanation": "Iowa law restricts trust account access to the broker and specifically authorized designees. A salesperson cannot deposit or withdraw funds unless the broker has formally designated that person as authorized. Simply holding a license or managing a transaction does not grant access.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "access", "authorized_designees"]
+    },
+    {
+      "key_topic_ref": "IA-06.1",
+      "question_text": "An Iowa trust account is labeled 'Operating Account' at the bank. Does this comply with Iowa requirements?",
+      "correct_answer": "No, it must be designated trust or escrow",
+      "distractors": [
+        "Yes, the label does not matter legally",
+        "Yes, if the broker tracks funds separately",
+        "Only if the bank knows its purpose"
+      ],
+      "explanation": "Iowa requires the trust account to be specifically designated as a 'trust' or 'escrow' account at the financial institution. An account labeled 'Operating Account' does not meet this requirement, even if the broker internally tracks the funds separately.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "designation", "escrow_label"]
+    },
+    {
+      "key_topic_ref": "IA-06.1",
+      "question_text": "Which entity must insure the financial institution where an Iowa broker maintains a trust account?",
+      "correct_answer": "A federal deposit insurance agency",
+      "distractors": [
+        "The Iowa Real Estate Commission",
+        "A private surety company",
+        "The Iowa Division of Banking only"
+      ],
+      "explanation": "Iowa requires trust accounts to be held at federally insured financial institutions, meaning the institution must carry FDIC or NCUA insurance. The Real Estate Commission, private sureties, and state banking divisions do not provide the required deposit insurance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "federal_insurance", "FDIC"]
+    },
+    {
+      "key_topic_ref": "IA-06.2",
+      "question_text": "Under Rule 193E-13.1, an Iowa broker receives a fully executed purchase agreement on Monday. By when must earnest money be deposited?",
+      "correct_answer": "Within 5 banking days of last signature",
+      "distractors": [
+        "Within 3 banking days of last signature",
+        "By the next business day",
+        "Within 10 calendar days of acceptance"
+      ],
+      "explanation": "Rule 193E-13.1 requires deposit of earnest money within 5 banking days after the last signature of acceptance, unless the contract specifies a different timeline. The clock starts when the agreement is fully executed with all required signatures.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "deposit_deadline", "5_banking_days", "193E-13.1"]
+    },
+    {
+      "key_topic_ref": "IA-06.2",
+      "question_text": "An Iowa broker deposits $200 of personal funds into the trust account to cover monthly bank service charges. Is this permissible?",
+      "correct_answer": "Yes, nominal personal funds for bank fees are OK",
+      "distractors": [
+        "No, any personal funds constitute commingling",
+        "Only with written Commission approval",
+        "Yes, up to $1,000 is always permitted"
+      ],
+      "explanation": "Iowa trust account rules prohibit commingling but allow a broker to maintain nominal personal funds in the trust account to cover bank service charges. This small amount prevents the account from falling below zero due to fees. There is no specific dollar cap like $1,000.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "commingling", "nominal_funds", "bank_charges"]
+    },
+    {
+      "key_topic_ref": "IA-06.2",
+      "question_text": "Two parties dispute ownership of earnest money held in an Iowa broker's trust account. Neither will consent to release. What is the broker's proper action?",
+      "correct_answer": "File an interpleader action with the court",
+      "distractors": [
+        "Return the funds to the buyer automatically",
+        "Split the funds equally between parties",
+        "Hold indefinitely until parties agree"
+      ],
+      "explanation": "When parties dispute earnest money and will not provide written consent for disbursement, Iowa law provides for interpleader. The broker files an interpleader action, depositing the funds with the court and allowing a judge to determine proper distribution.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "interpleader", "disputed_funds"]
+    },
+    {
+      "key_topic_ref": "IA-06.2",
+      "question_text": "Before closing, an Iowa seller asks the broker to release earnest money to pay for a home inspection. What is required?",
+      "correct_answer": "Informed written consent from all parties",
+      "distractors": [
+        "Verbal approval from the buyer only",
+        "Broker discretion if the amount is small",
+        "Automatic release if inspection is in the contract"
+      ],
+      "explanation": "Iowa trust account rules prohibit disbursement before closing without informed written consent from all parties to the transaction. The broker cannot release funds based solely on verbal approval, their own judgment, or contract provisions without explicit written authorization.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "early_disbursement", "written_consent"]
+    },
+    {
+      "key_topic_ref": "IA-06.2",
+      "question_text": "A purchase agreement states earnest money must be deposited within 3 banking days. The standard Iowa rule allows 5 banking days. Which deadline controls?",
+      "correct_answer": "The 3-day contract deadline controls",
+      "distractors": [
+        "The 5-day statutory default applies",
+        "Whichever is longer benefits the broker",
+        "The Commission must approve shorter timelines"
+      ],
+      "explanation": "Rule 193E-13.1 sets a default of 5 banking days but explicitly allows the contract to specify otherwise. When a purchase agreement sets a shorter deadline of 3 banking days, the contract terms control and the broker must comply with the agreed-upon timeline.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust_account", "deposit_deadline", "contract_override"]
+    },
+    {
+      "key_topic_ref": "IA-06.3",
+      "question_text": "How long must an Iowa broker retain trust account records after a transaction closes?",
+      "correct_answer": "5 years",
+      "distractors": [
+        "3 years",
+        "7 years",
+        "10 years"
+      ],
+      "explanation": "Rule 193E-13.5 requires Iowa brokers to retain trust account records for 5 years after closing. This includes all transaction records, deposit slips, disbursement records, and bank statements associated with the trust account.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "record_retention", "5_years", "193E-13.5"]
+    },
+    {
+      "key_topic_ref": "IA-06.3",
+      "question_text": "The Iowa Real Estate Commission arrives unannounced at a brokerage to review trust account records. Is this permitted?",
+      "correct_answer": "Yes, the Commission may audit at any time",
+      "distractors": [
+        "No, 30 days written notice is required",
+        "Only with a court order",
+        "Only during scheduled annual reviews"
+      ],
+      "explanation": "Iowa law authorizes the Real Estate Commission to audit broker trust accounts at any time without prior notice. Brokers consent to this oversight as a condition of holding a license and accepting client funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "audit", "commission_authority"]
+    },
+    {
+      "key_topic_ref": "IA-06.3",
+      "question_text": "An Iowa broker who accepts earnest money must have which form on file with the Commission?",
+      "correct_answer": "Consent to Examine and Audit Trust Account",
+      "distractors": [
+        "Trust Account Status Affidavit",
+        "Broker Financial Disclosure Statement",
+        "Annual Trust Account Certification"
+      ],
+      "explanation": "Iowa brokers who accept earnest money must file a 'Consent to Examine and Audit Trust Account' form. Brokers who do not accept earnest money file a 'Trust Account Status Affidavit' instead. These are distinct forms with different purposes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "consent_form", "audit_authorization"]
+    },
+    {
+      "key_topic_ref": "IA-06.3",
+      "question_text": "An Iowa broker does not accept earnest money in any transactions. What form must this broker file?",
+      "correct_answer": "Trust Account Status Affidavit",
+      "distractors": [
+        "Consent to Examine and Audit Trust Account",
+        "Earnest Money Exemption Certificate",
+        "No form is required in this situation"
+      ],
+      "explanation": "Iowa brokers who do not accept earnest money must file a 'Trust Account Status Affidavit' confirming they do not hold client funds. This is different from the 'Consent to Examine and Audit' form required of brokers who do accept earnest money.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "status_affidavit", "no_earnest_money"]
+    },
+    {
+      "key_topic_ref": "IA-06.3",
+      "question_text": "During an audit, the Commission finds an Iowa broker destroyed trust account records from a transaction that closed 4 years ago. What is the finding?",
+      "correct_answer": "Violation of the 5-year retention requirement",
+      "distractors": [
+        "No violation since 3 years have passed",
+        "Acceptable if digital copies were backed up",
+        "Minor infraction with no disciplinary action"
+      ],
+      "explanation": "Rule 193E-13.5 requires 5-year retention of trust account records after closing. Destroying records from a transaction that closed only 4 years ago violates this rule and can result in disciplinary action by the Commission.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust_account", "record_retention", "violation", "audit"]
+    }
+  ]
+}

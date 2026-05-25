@@ -1,0 +1,173 @@
+{
+  "standard_ref": "RI-12",
+  "scope": "state",
+  "state": "RI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "RI-12.1",
+      "question_text": "A seller is listing a single-family home in Warwick. When must the seller provide the Real Estate Sales Disclosure Form?",
+      "correct_answer": "Prior to signing the transfer agreement",
+      "distractors": ["Within 10 days after the offer is accepted", "At the closing table", "Only if the buyer requests it in writing"],
+      "explanation": "Under RIGL 5-20.8, the seller must provide the written disclosure form prior to signing the transfer agreement. This ensures buyers have material information before committing to the purchase.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller disclosure", "timing", "RIGL 5-20.8"]
+    },
+    {
+      "key_topic_ref": "RI-12.1",
+      "question_text": "Which types of property require a seller disclosure under Rhode Island law?",
+      "correct_answer": "Vacant land and 1-4 dwelling units",
+      "distractors": ["Only single-family homes", "All residential up to 10 units", "Only properties built before 1978"],
+      "explanation": "Rhode Island's seller disclosure requirement under RIGL 5-20.8 applies to vacant land and properties with 1-4 dwelling units. Larger multi-family properties are not covered by this specific disclosure requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller disclosure", "property types", "1-4 units", "vacant land"]
+    },
+    {
+      "key_topic_ref": "RI-12.1",
+      "question_text": "A seller knows the basement floods during heavy rain but does not disclose this on the form. A buyer discovers the issue after closing. What is the seller's liability?",
+      "correct_answer": "Liable for failing to disclose a known defect",
+      "distractors": ["Not liable since buyer could have inspected", "Liable only if the agent also knew", "Not liable after closing is complete"],
+      "explanation": "The RI disclosure form requires sellers to disclose all deficient conditions known to them, including water intrusion. Knowingly concealing a flooding issue violates the disclosure obligation and exposes the seller to liability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller disclosure", "known defects", "water intrusion", "liability"]
+    },
+    {
+      "key_topic_ref": "RI-12.1",
+      "question_text": "Which of the following is NOT a category covered by the RI Real Estate Sales Disclosure Form?",
+      "correct_answer": "Future property tax projections",
+      "distractors": ["Structural conditions", "Environmental hazards", "Easements and encroachments"],
+      "explanation": "The standardized disclosure form covers structural, roof, plumbing, electrical, HVAC, water, sewage, environmental, lead, easements, and encroachments. Future property tax projections are not part of the required disclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller disclosure", "covered categories", "disclosure form"]
+    },
+    {
+      "key_topic_ref": "RI-12.1",
+      "question_text": "A seller completes the disclosure form but fails to mention a known encroachment from the neighbor's fence. The buyer later discovers the survey discrepancy. What standard applies to the seller's obligation?",
+      "correct_answer": "Disclosure of all deficient conditions known to seller",
+      "distractors": ["Only latent physical defects require disclosure", "Encroachments are excluded from disclosure", "The agent bears sole responsibility for surveys"],
+      "explanation": "The RI disclosure form requires the seller to disclose all deficient conditions known to them, which includes encroachments. A known encroachment is a material condition that affects the property and must be disclosed regardless of whether the buyer obtains a survey.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["seller disclosure", "encroachment", "known conditions"]
+    },
+    {
+      "key_topic_ref": "RI-12.2",
+      "question_text": "A home built in 1965 is being sold. What lead paint disclosure obligation does the seller have?",
+      "correct_answer": "Provide disclosure and any inspection reports",
+      "distractors": ["Lead testing must be completed before listing", "Disclosure is optional for owner-occupied homes", "Only required if the home has children residents"],
+      "explanation": "For residential properties built before 1978, the seller must provide a lead paint disclosure and share any lead inspection reports in their possession. This applies under both federal law and Rhode Island regulation 216-RICR-50-15-3.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lead paint", "pre-1978", "disclosure", "inspection reports"]
+    },
+    {
+      "key_topic_ref": "RI-12.2",
+      "question_text": "Why does Rhode Island require a 3-hour lead paint course as part of pre-licensing education?",
+      "correct_answer": "RI has significant older housing with lead risk",
+      "distractors": ["Federal law mandates it for all fifty states", "Only states bordering the ocean require it", "It replaces the federal lead disclosure requirement"],
+      "explanation": "Rhode Island requires a 3-hour Lead Paint and Lead Hazard Mitigation course for pre-licensing because the state has a significant stock of older housing built before 1978, which creates elevated lead paint risks for residents.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead paint", "pre-licensing", "older housing", "education"]
+    },
+    {
+      "key_topic_ref": "RI-12.2",
+      "question_text": "A seller of a home built in 1980 asks their agent whether lead paint disclosure is required. What is the correct answer?",
+      "correct_answer": "No, the home was built after 1978",
+      "distractors": ["Yes, all residential sales require it", "Only if the buyer has minor children", "Yes, if the home has been repainted since construction"],
+      "explanation": "Lead paint disclosure is required only for residential properties built before 1978. A home built in 1980 falls outside the disclosure requirement since lead-based paint was banned for residential use in 1978.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lead paint", "1978 cutoff", "disclosure exemption"]
+    },
+    {
+      "key_topic_ref": "RI-12.2",
+      "question_text": "A seller has a 2019 lead inspection report showing lead in window frames but does not share it with the buyer. What violation has occurred?",
+      "correct_answer": "Failure to provide lead reports in possession",
+      "distractors": ["No violation exists if lead was not remediated", "A violation only if the buyer specifically asked", "No violation since the inspection report is outdated"],
+      "explanation": "Sellers must provide any lead inspection reports in their possession to the buyer. Withholding a known lead inspection report, regardless of its age, violates both the federal lead disclosure requirements and Rhode Island's lead paint regulations.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["lead paint", "inspection reports", "seller obligation", "violation"]
+    },
+    {
+      "key_topic_ref": "RI-12.2",
+      "question_text": "Under Rhode Island regulation 216-RICR-50-15-3, which properties trigger the lead paint disclosure requirement?",
+      "correct_answer": "All residential properties built before 1978",
+      "distractors": ["Only multi-family properties built before 1978", "Properties with confirmed lead test results", "Only properties within designated lead zones"],
+      "explanation": "The lead paint disclosure requirement under 216-RICR-50-15-3 applies to all residential properties built before 1978, regardless of the number of units, location, or whether prior testing has been conducted.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead paint", "216-RICR-50-15-3", "pre-1978", "residential"]
+    },
+    {
+      "key_topic_ref": "RI-12.3",
+      "question_text": "A buyer is purchasing a rural Rhode Island property. The contract includes a 10-day inspection period for sewage systems. What is the primary purpose of this period?",
+      "correct_answer": "To check for a cesspool subject to phase-out",
+      "distractors": ["To test the existing public sewer connection capacity", "To install a new septic system before the closing date", "To apply for a DEM environmental variance permit"],
+      "explanation": "Many Rhode Island properties use cesspools, which are substandard sewage systems being phased out. The 10-day inspection period allows the buyer to determine if a cesspool exists and whether it is subject to mandatory replacement under the Cesspool Act.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["cesspool", "OWTS", "inspection period", "sewage"]
+    },
+    {
+      "key_topic_ref": "RI-12.3",
+      "question_text": "A property inspection reveals an existing cesspool. What options does the buyer face if the cesspool must be phased out?",
+      "correct_answer": "Replace with OWTS or connect to public sewer",
+      "distractors": ["Only connection to public sewer is accepted", "The cesspool can remain if properly maintained", "A holding tank is the only permitted replacement"],
+      "explanation": "When a cesspool is subject to phase-out, the property owner must either replace it with an onsite wastewater treatment system (OWTS) or connect to the public sewer system. Simply maintaining the cesspool is not an option under RI's phase-out requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["cesspool", "OWTS", "public sewer", "replacement options"]
+    },
+    {
+      "key_topic_ref": "RI-12.3",
+      "question_text": "A seller tells her agent the property has a septic system. The agent later learns it actually has a cesspool. Why does this distinction matter for the transaction?",
+      "correct_answer": "Cesspools must be replaced upon sale",
+      "distractors": ["Septic systems require more frequent pumping", "Only cesspools qualify for state subsidies", "There is no practical difference for sellers"],
+      "explanation": "The distinction between a septic system and a cesspool is critical in Rhode Island transactions because cesspools are being phased out under the Cesspool Act. When a property with a cesspool is sold, the new owner must replace it within 12 months, which can cost tens of thousands of dollars.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["cesspool", "septic system", "disclosure", "replacement"]
+    },
+    {
+      "key_topic_ref": "RI-12.3",
+      "question_text": "A buyer's agent neglects to inform a client about the cesspool inspection period, and the buyer closes without an inspection. The buyer later discovers a failing cesspool requiring $25,000 to replace. Who bears the most likely liability?",
+      "correct_answer": "The buyer's agent for failing to advise",
+      "distractors": ["The seller exclusively", "The title company for missing the defect", "No one, since the buyer waived the inspection"],
+      "explanation": "The buyer's agent has a duty to inform the client about the 10-day cesspool inspection period and the risks of waiving it. Failing to advise the buyer about this important RI-specific inspection right could expose the agent to liability for the resulting damages.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["cesspool", "agent liability", "inspection period", "buyer representation"]
+    },
+    {
+      "key_topic_ref": "RI-12.3",
+      "question_text": "Why are cesspool disclosures particularly important in Rhode Island real estate transactions?",
+      "correct_answer": "Many RI properties still use cesspools",
+      "distractors": ["Cesspools are banned nationwide", "Rhode Island has no public sewer systems", "Only coastal properties have cesspool issues"],
+      "explanation": "Cesspool disclosures are especially important in Rhode Island because many properties throughout the state still rely on cesspools as their sewage system. These substandard systems are being phased out, making disclosure critical for buyers to understand potential replacement costs.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["cesspool", "disclosure", "RI property", "sewage systems"]
+    }
+  ]
+}

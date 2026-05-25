@@ -1,0 +1,388 @@
+{
+  "standard_ref": "OR-16",
+  "scope": "state",
+  "state": "OR",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OR-16.1",
+      "question_text": "A developer plans to divide a 20-acre parcel into six lots. Under ORS 92, what does this constitute?",
+      "correct_answer": "A subdivision",
+      "distractors": [
+        "A partition",
+        "A lot line adjustment",
+        "A planned unit development"
+      ],
+      "explanation": "Under ORS 92.010-92.990, a subdivision is a division of land into four or more lots. Dividing into six lots meets this threshold. A partition applies only when dividing into two or three parcels.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "subdivision",
+        "ORS 92",
+        "lot division"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.1",
+      "question_text": "An owner wants to split a parcel into two lots for family members. What process applies in Oregon?",
+      "correct_answer": "Partition",
+      "distractors": [
+        "Subdivision",
+        "Variance application",
+        "Annexation"
+      ],
+      "explanation": "A partition is the division of land into two or three parcels. Since the owner is creating only two lots, the partition process applies rather than a full subdivision.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "partition",
+        "land division",
+        "ORS 92"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.1",
+      "question_text": "A subdivision application is submitted to the county. Which requirement must the proposed plat satisfy?",
+      "correct_answer": "Compliance with zoning and the comprehensive plan",
+      "distractors": [
+        "State highway department standards only",
+        "Federal EPA environmental approval",
+        "Written approval from adjacent owners"
+      ],
+      "explanation": "Both subdivisions and partitions require local government approval and must comply with zoning, the comprehensive plan, and infrastructure requirements such as roads and utilities.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "subdivision",
+        "zoning",
+        "comprehensive plan"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.1",
+      "question_text": "What distinguishes a partition from a subdivision in Oregon?",
+      "correct_answer": "The number of parcels created",
+      "distractors": [
+        "The size of the original parcel",
+        "Whether the land is urban or rural",
+        "The type of intended use"
+      ],
+      "explanation": "The sole distinction is the number of resulting parcels. A partition creates two or three parcels, while a subdivision creates four or more lots. Both require local government approval.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "partition",
+        "subdivision",
+        "distinction"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.1",
+      "question_text": "A city denies a partition application because the proposed lots lack sewer access. Is this a valid basis for denial?",
+      "correct_answer": "Yes, infrastructure requirements must be met",
+      "distractors": [
+        "No, only zoning violations justify denial",
+        "No, the state overrides local sewer rules",
+        "Yes, but only for subdivisions"
+      ],
+      "explanation": "Both partitions and subdivisions must comply with local infrastructure requirements including roads, water, and sewer. Lack of sewer access is a valid basis for denying the application.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "partition",
+        "infrastructure",
+        "denial"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.2",
+      "question_text": "A buyer receives a condominium public offering statement on Monday. By what day must the buyer cancel to exercise the statutory right?",
+      "correct_answer": "By Saturday, the fifth day",
+      "distractors": [
+        "By Wednesday, the third day",
+        "By the following Monday",
+        "By Friday, the fourth day"
+      ],
+      "explanation": "Under ORS 100, buyers have a 5-day right to cancel after receiving the public offering statement. Counting from Monday, the fifth day is Saturday.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "condominium",
+        "cancellation",
+        "ORS 100"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.2",
+      "question_text": "Which Oregon statute primarily governs condominium creation and sales?",
+      "correct_answer": "ORS 100",
+      "distractors": [
+        "ORS 92",
+        "ORS 696",
+        "ORS 94"
+      ],
+      "explanation": "ORS 100 is the Oregon Condominium Act, governing the creation, sale, and management of condominiums. ORS 92 covers land divisions, ORS 696 covers licensing, and ORS 94 covers timeshares.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "condominium",
+        "ORS 100",
+        "statute"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.2",
+      "question_text": "A condo developer begins selling units without providing a public offering statement. What is the consequence?",
+      "correct_answer": "Buyers may cancel and recover damages",
+      "distractors": [
+        "The sales are fully enforceable",
+        "Only a fine is imposed on the developer",
+        "The HOA must issue the statement instead"
+      ],
+      "explanation": "Under ORS 100, a developer must provide the public offering statement before sale. Failure to do so gives buyers the right to cancel the purchase and potentially recover damages.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "condominium",
+        "public offering statement",
+        "developer"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.2",
+      "question_text": "Which statute governs timeshare sales in Oregon?",
+      "correct_answer": "ORS 94.803-94.945",
+      "distractors": [
+        "ORS 100 condominium statute",
+        "ORS 92 subdivision statute",
+        "ORS 696 license law statute"
+      ],
+      "explanation": "Oregon timeshare regulation falls under ORS 94.803-94.945. Beginning in 2026, HB 2373 requires a separate timeshare sales agent license for new timeshare sales.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "timeshare",
+        "ORS 94",
+        "regulation"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.2",
+      "question_text": "A condo owner is selling their unit. What must the HOA provide for the resale?",
+      "correct_answer": "An HOA disclosure to the buyer",
+      "distractors": [
+        "A new public offering statement",
+        "A developer warranty",
+        "A certificate of occupancy"
+      ],
+      "explanation": "For resales, Oregon requires the HOA to provide a resale disclosure covering assessments, reserves, rules, and the association's financial condition. The public offering statement applies only to initial developer sales.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "condominium",
+        "resale",
+        "HOA disclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.3",
+      "question_text": "A married couple in Oregon holds title as tenants by the entirety. A creditor sues one spouse. Can the creditor force a sale of the property?",
+      "correct_answer": "No, tenancy by the entirety protects against this",
+      "distractors": [
+        "Yes, any judgment creditor can force a sale",
+        "Yes, but only after divorce",
+        "No, because Oregon bans creditor lawsuits"
+      ],
+      "explanation": "Tenancy by the entirety, available to married couples in Oregon, protects the property from individual creditors of only one spouse. Both spouses must be liable for the creditor to reach the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "tenancy by entirety",
+        "creditor protection",
+        "married couples"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.3",
+      "question_text": "Is Oregon a community property state?",
+      "correct_answer": "No, Oregon is a separate property state",
+      "distractors": [
+        "Yes, for all marital property",
+        "Yes, but only for real estate",
+        "Only if the couple elects it"
+      ],
+      "explanation": "Oregon is NOT a community property state. Property ownership is determined by how title is held. Oregon recognizes sole ownership, tenancy in common, joint tenancy, and tenancy by the entirety.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "community property",
+        "Oregon",
+        "separate property"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.3",
+      "question_text": "Three investors purchase an Oregon property. No ownership form is specified in the deed. How is title held?",
+      "correct_answer": "As tenants in common",
+      "distractors": [
+        "As joint tenants",
+        "As tenants by the entirety",
+        "Ownership is void without specification"
+      ],
+      "explanation": "When no form of ownership is specified in the deed, Oregon law defaults to tenancy in common. Joint tenancy and tenancy by the entirety require express language in the conveyance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "tenancy in common",
+        "default",
+        "co-ownership"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.3",
+      "question_text": "Which form of co-ownership includes the right of survivorship and is available only to married couples in Oregon?",
+      "correct_answer": "Tenancy by the entirety",
+      "distractors": [
+        "Joint tenancy",
+        "Tenancy in common",
+        "Community property with survivorship"
+      ],
+      "explanation": "Tenancy by the entirety is exclusive to married couples and includes the right of survivorship plus protection from individual creditors. Joint tenancy also has survivorship but is not limited to married couples.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "tenancy by entirety",
+        "survivorship",
+        "married couples"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.3",
+      "question_text": "An unmarried couple wants to hold title with right of survivorship in Oregon. Which ownership form should they use?",
+      "correct_answer": "Joint tenancy",
+      "distractors": [
+        "Tenancy by the entirety",
+        "Community property",
+        "Tenancy in common"
+      ],
+      "explanation": "Tenancy by the entirety is available only to married couples. An unmarried couple seeking survivorship rights should use joint tenancy, which requires express language in the deed creating the four unities.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "joint tenancy",
+        "survivorship",
+        "unmarried"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.4",
+      "question_text": "Oregon's rectangular survey system uses which principal meridian and baseline?",
+      "correct_answer": "Willamette Meridian and Willamette Baseline",
+      "distractors": [
+        "Boise Meridian and Boise Baseline",
+        "Cascade Meridian and Portland Baseline",
+        "Columbia Meridian and Salem Baseline"
+      ],
+      "explanation": "Oregon's rectangular (government) survey system is based on the Willamette Meridian running north-south and the Willamette Baseline running east-west. These reference lines originate near Portland.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "rectangular survey",
+        "Willamette Meridian",
+        "Willamette Baseline"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.4",
+      "question_text": "A buyer asks about radon in a property located in central Oregon. What should the agent disclose?",
+      "correct_answer": "Many Oregon areas have elevated radon levels",
+      "distractors": [
+        "Oregon has no radon risk",
+        "Radon testing is prohibited by the state",
+        "Only coastal properties have radon issues"
+      ],
+      "explanation": "Elevated radon levels are found in many areas across Oregon. Agents should inform buyers that radon testing is advisable, as radon is a naturally occurring radioactive gas that can accumulate in buildings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "radon",
+        "environmental",
+        "disclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.4",
+      "question_text": "A manufactured home sits on land the owner purchased. What must occur for it to be classified as real property in Oregon?",
+      "correct_answer": "The vehicle title must be eliminated",
+      "distractors": [
+        "It automatically becomes real property",
+        "A county assessor must inspect it",
+        "The home must be at least 10 years old"
+      ],
+      "explanation": "In Oregon, a manufactured home on owned land can become real property through the elimination of title process. Without completing this process, the home remains personal property even if affixed to owned land.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "manufactured home",
+        "real property",
+        "title elimination"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.4",
+      "question_text": "Which Oregon agency maintains the underground storage tank registry and oversees cleanup?",
+      "correct_answer": "The Department of Environmental Quality (DEQ)",
+      "distractors": [
+        "The Oregon Real Estate Agency",
+        "The Department of Agriculture",
+        "The State Building Codes Division"
+      ],
+      "explanation": "DEQ regulates environmental concerns including the underground storage tank registry and cleanup of contaminated sites. This is relevant in real estate transactions involving commercial or industrial properties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "DEQ",
+        "underground storage tanks",
+        "environmental"
+      ]
+    },
+    {
+      "key_topic_ref": "OR-16.4",
+      "question_text": "A listing involves a home built in 1965. Which federal disclosure requirement applies?",
+      "correct_answer": "Lead-based paint disclosure is required",
+      "distractors": [
+        "Asbestos removal is mandatory before sale",
+        "No federal disclosures apply",
+        "Mold testing must be completed first"
+      ],
+      "explanation": "Federal law requires lead-based paint disclosure for all residential properties built before 1978. A home built in 1965 falls within this requirement, and the seller must provide the EPA pamphlet and disclose known lead paint hazards.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "lead paint",
+        "pre-1978",
+        "federal disclosure"
+      ]
+    }
+  ]
+}

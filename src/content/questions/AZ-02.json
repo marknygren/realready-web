@@ -1,0 +1,228 @@
+{
+  "standard_ref": "AZ-02",
+  "scope": "state",
+  "state": "AZ",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "AZ-02.1",
+      "question_text": "How many hours of pre-licensing education must an Arizona salesperson candidate complete?",
+      "correct_answer": "90 hours plus a 6-hour contract writing course",
+      "distractors": ["90 hours with no additional courses required", "120 hours plus a separate 6-hour ethics course", "60 hours plus a 12-hour contract writing course"],
+      "explanation": "Arizona requires 90 hours of salesperson pre-licensing education from an ADRE-approved school PLUS a separate 6-hour Contract Writing Course, totaling 96 hours before license application.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "education", "contract writing"]
+    },
+    {
+      "key_topic_ref": "AZ-02.1",
+      "question_text": "A salesperson candidate has completed the 90-hour pre-licensing course. What additional course must they finish before applying for a license?",
+      "correct_answer": "A 6-hour Contract Writing Course",
+      "distractors": ["A 3-hour fair housing seminar", "A 6-hour broker supervision course", "A 12-hour real estate math course"],
+      "explanation": "Arizona requires completion of both the 90-hour pre-licensing course AND a 6-hour Contract Writing Course before a candidate can submit their license application to ADRE.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contract writing", "pre-license", "education"]
+    },
+    {
+      "key_topic_ref": "AZ-02.1",
+      "question_text": "An aspiring broker already holds an Arizona salesperson license. How many additional education hours are required for a broker license?",
+      "correct_answer": "90 additional hours",
+      "distractors": ["45 additional hours", "120 additional hours", "60 additional hours"],
+      "explanation": "Arizona broker candidates need 90 additional hours beyond their salesperson education (180 total), plus 3 years of active salesperson experience within the previous 5 years.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "education", "requirements"]
+    },
+    {
+      "key_topic_ref": "AZ-02.1",
+      "question_text": "Where must Arizona pre-licensing courses be taken to qualify for the exam?",
+      "correct_answer": "An ADRE-approved school",
+      "distractors": ["Any accredited university", "A Pearson VUE testing center", "An Arizona community college only"],
+      "explanation": "Pre-licensing education must be completed through an ADRE-approved education provider. Not all universities or community colleges are automatically approved — the school must have specific ADRE approval.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["education", "ADRE-approved", "school"]
+    },
+    {
+      "key_topic_ref": "AZ-02.1",
+      "question_text": "A broker candidate has been licensed as a salesperson for 2 years. Can they apply for a broker license?",
+      "correct_answer": "No, 3 years of active experience is required",
+      "distractors": ["Yes, if they complete 90 additional hours", "Yes, 2 years is the minimum requirement", "No, 5 years of experience is required"],
+      "explanation": "Arizona requires 3 years of active salesperson experience within the previous 5 years for broker licensure. Two years is insufficient regardless of additional education.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker", "experience", "requirements"]
+    },
+    {
+      "key_topic_ref": "AZ-02.2",
+      "question_text": "What is the minimum age to obtain an Arizona real estate salesperson license?",
+      "correct_answer": "18 years old",
+      "distractors": ["21 years old", "16 years old", "19 years old"],
+      "explanation": "Arizona requires salesperson candidates to be at least 18 years of age. This is the standard minimum age in most states for real estate licensure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["age", "eligibility", "requirements"]
+    },
+    {
+      "key_topic_ref": "AZ-02.2",
+      "question_text": "What type of background check does Arizona require for license applicants?",
+      "correct_answer": "Fingerprint clearance card through DPS",
+      "distractors": ["FBI criminal history report only", "County-level background check only", "Self-disclosure on the application"],
+      "explanation": "Arizona requires applicants to obtain a fingerprint clearance card through the Department of Public Safety (DPS). This is more rigorous than a simple self-disclosure or county check.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["background check", "fingerprint", "DPS"]
+    },
+    {
+      "key_topic_ref": "AZ-02.2",
+      "question_text": "A license applicant has a prior felony conviction. How does ADRE handle the application?",
+      "correct_answer": "ADRE may deny the application based on the record",
+      "distractors": ["All felons are permanently barred from licensure", "Felonies are only relevant if within 5 years", "ADRE cannot consider criminal history at all"],
+      "explanation": "ADRE can deny license applications based on criminal history, particularly felonies involving moral turpitude. However, a felony does not result in an automatic permanent bar — each case is reviewed individually.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eligibility", "criminal history", "application denial"]
+    },
+    {
+      "key_topic_ref": "AZ-02.2",
+      "question_text": "An applicant who is not a U.S. citizen wants to obtain an Arizona real estate license. Is this possible?",
+      "correct_answer": "Yes, if they have legal presence in the U.S.",
+      "distractors": ["No, only U.S. citizens may apply for licensure", "Only with a special waiver granted by ADRE", "Yes, but only as a temporary provisional license"],
+      "explanation": "Arizona does not require U.S. citizenship for licensure. Applicants must be legal residents of the United States or have legal presence, which includes permanent residents and certain visa holders.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eligibility", "citizenship", "legal presence"]
+    },
+    {
+      "key_topic_ref": "AZ-02.2",
+      "question_text": "An applicant passes the national portion of the exam but fails the state portion. What is the result?",
+      "correct_answer": "They must retake only the failed state portion",
+      "distractors": ["They must retake both portions from scratch", "They receive a provisional license for 6 months", "The national score is averaged with the state"],
+      "explanation": "Arizona's split exam scores each section independently. If a candidate passes one section but fails the other, they only need to retake the failed section, not both.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exam", "retake", "eligibility"]
+    },
+    {
+      "key_topic_ref": "AZ-02.3",
+      "question_text": "Every real estate brokerage firm in Arizona must have which type of licensee?",
+      "correct_answer": "A designated broker",
+      "distractors": ["A managing salesperson", "An associate broker", "A licensed office manager"],
+      "explanation": "Arizona law requires every brokerage firm to have a designated broker who is responsible for all real estate activities conducted by the firm and its licensees.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["designated broker", "brokerage", "license types"]
+    },
+    {
+      "key_topic_ref": "AZ-02.3",
+      "question_text": "An LLC wants to operate a real estate brokerage in Arizona. What license must the LLC obtain?",
+      "correct_answer": "An entity license with a designated broker",
+      "distractors": ["A corporate broker license without a designee", "Individual licenses for all LLC members", "A special ADRE business operations permit"],
+      "explanation": "Corporations, LLCs, and partnerships must hold an entity license and designate a licensed broker as their designated broker. The entity itself must be licensed in addition to the individual broker.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["entity license", "LLC", "designated broker"]
+    },
+    {
+      "key_topic_ref": "AZ-02.3",
+      "question_text": "A newly licensed salesperson wants to work independently without a broker. Is this permitted in Arizona?",
+      "correct_answer": "No, a salesperson must work under a designated broker",
+      "distractors": ["Yes, after completing 6 months of practice", "Yes, with an independent contractor agreement", "No, unless they obtain a provisional broker license"],
+      "explanation": "Arizona salespersons must be employed by a designated broker at all times. They cannot operate independently. Only licensed brokers may work without supervision from another broker.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["salesperson", "designated broker", "supervision"]
+    },
+    {
+      "key_topic_ref": "AZ-02.3",
+      "question_text": "What distinguishes a broker license from a salesperson license in Arizona?",
+      "correct_answer": "A broker can operate independently or employ others",
+      "distractors": ["A broker handles only commercial real estate sales", "A broker is exempt from continuing education rules", "A broker does not need any oversight from ADRE"],
+      "explanation": "The key distinction is that brokers can operate independently and employ or supervise salespersons. Salespersons must always work under a designated broker. Both license types require CE and are subject to ADRE oversight.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["broker", "salesperson", "license types"]
+    },
+    {
+      "key_topic_ref": "AZ-02.3",
+      "question_text": "A designated broker retires. What must the brokerage firm do?",
+      "correct_answer": "Appoint a new designated broker promptly",
+      "distractors": ["Continue operations for up to 90 days", "Convert all salespersons to brokers", "Notify clients but no other action"],
+      "explanation": "Every firm must have a designated broker at all times. If the designated broker leaves, the firm must promptly appoint a qualified replacement. Operating without a designated broker violates Arizona law.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["designated broker", "brokerage", "compliance"]
+    },
+    {
+      "key_topic_ref": "AZ-02.4",
+      "question_text": "How often must Arizona real estate licensees renew their licenses?",
+      "correct_answer": "Every 2 years",
+      "distractors": ["Every year", "Every 3 years", "Every 4 years"],
+      "explanation": "Arizona real estate licenses must be renewed every 2 years (biennially) from the date of original issuance. Salespersons need 24 hours CE; designated brokers need 30 hours.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["renewal", "biennial", "license"]
+    },
+    {
+      "key_topic_ref": "AZ-02.4",
+      "question_text": "How many CE hours must an Arizona salesperson complete per renewal period?",
+      "correct_answer": "24 hours every 2 years",
+      "distractors": ["30 hours every 2 years", "12 hours every year", "48 hours every 4 years"],
+      "explanation": "Arizona salespersons and associate brokers must complete 24 hours of CE per 2-year renewal period. Designated brokers require 30 hours. As of 2025, mandatory topics include Firewise, Deed Fraud, and Arizona Water.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing education", "CE", "renewal"]
+    },
+    {
+      "key_topic_ref": "AZ-02.4",
+      "question_text": "A licensee's license expired 14 months ago. What must they do to reactivate?",
+      "correct_answer": "Retake the licensing exam",
+      "distractors": ["Pay a late fee and complete CE", "Submit a reinstatement application only", "Complete 24 additional CE hours only"],
+      "explanation": "If a license has been expired for more than 1 year, the licensee must retake and pass the licensing exam. Late renewal with a penalty is only available during the first year after expiration.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["expiration", "renewal", "reexamination"]
+    },
+    {
+      "key_topic_ref": "AZ-02.4",
+      "question_text": "Which special course must designated brokers complete as part of their continuing education?",
+      "correct_answer": "The Broker Management Clinic",
+      "distractors": ["The Advanced Contract Writing Course", "The ADRE Compliance Seminar", "The Real Estate Ethics Workshop"],
+      "explanation": "Designated brokers have a specific CE requirement to complete the Broker Management Clinic, which covers supervision responsibilities, trust account management, and compliance obligations unique to the designated broker role.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["designated broker", "CE", "Broker Management Clinic"]
+    },
+    {
+      "key_topic_ref": "AZ-02.4",
+      "question_text": "A salesperson's license expired 6 months ago. They want to reactivate. What is required?",
+      "correct_answer": "Late renewal with a penalty fee and CE",
+      "distractors": ["Retaking the licensing exam", "Completing 90 new pre-license hours", "Filing a new original application"],
+      "explanation": "Within the first year of expiration, licensees can renew late by paying a penalty fee and completing any outstanding continuing education. After 1 year of expiration, the exam must be retaken.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["late renewal", "penalty", "expiration"]
+    }
+  ]
+}

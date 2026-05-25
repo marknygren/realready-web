@@ -1,0 +1,400 @@
+{
+  "standard_ref": "N-07",
+  "scope": "national",
+  "state": null,
+  "category": "valuation_appraisal",
+  "questions": [
+    {
+      "key_topic_ref": "N-07.1",
+      "question_text": "A home sells for $425,000 in an arm's-length transaction. An appraiser estimates its market value at $410,000. Which statement BEST describes this situation?",
+      "correct_answer": "Market price and market value can differ",
+      "distractors": [
+        "The appraiser's estimate must be wrong",
+        "The sale is legally invalid because the price exceeds appraised value",
+        "Market price and market value are the same thing"
+      ],
+      "explanation": "Market value is the appraiser's estimate of the most probable price a property would bring in a competitive, open market — it is an opinion. Market price is what was actually paid in a specific transaction. The two can differ because buyers and sellers sometimes act emotionally, have incomplete information, or face time pressures. A buyer may genuinely love a home and pay more than its appraised value. Neither party is wrong — the distinction simply reflects the difference between a theoretical estimate and a real transaction.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "market_value",
+        "market_price",
+        "appraisal",
+        "definitions"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.1",
+      "question_text": "How does 'cost' differ from 'market value' in real estate?",
+      "correct_answer": "Cost measures expenditure to build or acquire; market value measures probable sale price",
+      "distractors": [
+        "Cost and market value are always equal for newly constructed properties",
+        "Cost is always higher because construction expenses exceed resale price",
+        "Market value and cost must be within 10% of each other for loan approval"
+      ],
+      "explanation": "Cost, market value, and market price are three distinct concepts. Cost is what was (or would be) spent to construct or acquire the property. Market value is the estimated price in a competitive market. They frequently diverge: a custom-built home may cost $600,000 to build but only have a market value of $500,000 if the neighborhood doesn't support that price point (functional or economic obsolescence). Conversely, land value can exceed replacement cost in highly desirable areas. The cost approach in appraisal bridges these concepts by adding land value to depreciated improvement cost.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "cost",
+        "market_value",
+        "appraisal_concepts"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.2",
+      "question_text": "The four essential elements of value are remembered by which mnemonic?",
+      "correct_answer": "DUST",
+      "distractors": [
+        "PETE",
+        "MARIA",
+        "PITI"
+      ],
+      "explanation": "DUST identifies the four conditions that must all be present for a property to have value: Demand (desire and purchasing power to acquire it), Utility (the ability to satisfy needs or desires), Scarcity (limited supply relative to demand), and Transferability (the ability to transfer ownership). If any element is missing, value is diminished or absent. For example, a landlocked parcel with no access has poor utility and transferability even if demand and scarcity exist.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "DUST",
+        "elements_of_value",
+        "appraisal_principles"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.2",
+      "question_text": "A large industrial site is contaminated and cannot legally be sold or developed. Which element of value is MOST directly affected?",
+      "correct_answer": "Transferability",
+      "distractors": [
+        "Demand",
+        "Utility",
+        "Scarcity"
+      ],
+      "explanation": "Transferability is the ability to freely convey ownership. A property that cannot be legally sold (due to environmental liens, title clouds, or regulatory holds) lacks transferability. While demand and utility are also affected, transferability is the most directly impaired element because the legal mechanism to transfer ownership is broken. This is why environmental liens and government holds on contaminated sites can render a property nearly worthless — even willing buyers and sellers cannot complete a clean transfer.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "DUST",
+        "transferability",
+        "environmental",
+        "value_elements"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.3",
+      "question_text": "The principle of substitution states that:",
+      "correct_answer": "A buyer won't pay more than the cost of an equally desirable substitute",
+      "distractors": [
+        "Value is based on the future benefits the owner expects to receive",
+        "A component's value is measured by what it adds to total property value",
+        "Properties in the same area tend to converge toward a uniform value"
+      ],
+      "explanation": "The principle of substitution is the foundation of all three appraisal approaches. It holds that a rational buyer won't pay more for a property than the cost of obtaining an equally desirable substitute. In the sales comparison approach, substitution means the subject's value is limited by similar sold properties. In the cost approach, it means value can't exceed what it would cost to build an equivalent replacement. In the income approach, it means investors compare yields to alternative investments. The other options describe: anticipation (future benefits), contribution (component value), and conformity/progression (area uniformity).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "principle_of_substitution",
+        "appraisal_principles",
+        "value"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.3",
+      "question_text": "A homeowner spends $80,000 adding a fourth bedroom to a three-bedroom home in a neighborhood where all comparable homes have three bedrooms. The addition is likely to increase the home's value by:",
+      "correct_answer": "Less than $80,000",
+      "distractors": [
+        "Exactly $80,000",
+        "More than $80,000",
+        "Nothing"
+      ],
+      "explanation": "The principle of contribution states that the value of a component is measured by its contribution to the total property value, not by its cost. If comparable three-bedroom homes sell for $350,000 and comparable four-bedroom homes sell for $380,000, the fourth bedroom contributes only $30,000 to value — far less than the $80,000 it cost to build. This is also related to the principle of conformity: a property that over-improves for its neighborhood suffers from functional obsolescence (over-improvement). The extra bedroom adds more utility than value in this market.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "principle_of_contribution",
+        "over_improvement",
+        "appraisal_principles"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.3",
+      "question_text": "A modest starter home is surrounded by large, recently renovated homes in an improving neighborhood. The principle that BEST explains why the starter home's value is likely higher than it would be in a neighborhood of similar modest homes is:",
+      "correct_answer": "Progression",
+      "distractors": [
+        "Regression",
+        "Conformity",
+        "Competition"
+      ],
+      "explanation": "The principle of progression holds that a lower-value property benefits from being surrounded by higher-value properties. The modest starter home 'borrows' prestige and demand from the renovated homes around it. The inverse is regression: a high-value home surrounded by lower-value properties will be pulled down in value. Together, progression and regression explain why location within a neighborhood (not just the city or zip code) significantly affects individual property values. Conformity — that maximum value is achieved when properties are similar — is the underlying principle, with progression and regression describing the directional effects of non-conformity.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "progression",
+        "regression",
+        "conformity",
+        "appraisal_principles"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.3",
+      "question_text": "The principle of highest and best use holds that a property should be analyzed based on the use that:",
+      "correct_answer": "Is legally permissible, physically possible, financially feasible, and maximally productive",
+      "distractors": [
+        "Produces the highest gross income regardless of expenses or legal constraints",
+        "The current owner intends, as long as that use is legal",
+        "Was established when the property was originally developed"
+      ],
+      "explanation": "Highest and best use (HBU) is the foundational concept underlying property value. An appraiser must analyze land as if vacant and improved property as it currently exists. The four tests must all be satisfied in order: (1) Legally permissible — allowed by zoning and deed restrictions; (2) Physically possible — the site can support the use; (3) Financially feasible — the use generates enough return to justify the cost; (4) Maximally productive — of all feasible uses, this one produces the highest value. HBU is not what the owner wants or what historically existed — it is what the market supports.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "highest_and_best_use",
+        "HBU",
+        "appraisal_principles"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.4",
+      "question_text": "A city announces plans to build a new light rail line through a previously car-dependent neighborhood. Which category of value-influencing factors BEST describes this change?",
+      "correct_answer": "Governmental factors",
+      "distractors": [
+        "Physical factors",
+        "Social factors",
+        "Economic factors"
+      ],
+      "explanation": "The four categories of forces that affect real property value are Physical (location, size, topography, condition), Economic (employment, income, interest rates, credit availability), Governmental (zoning, taxes, building codes, public services and infrastructure), and Social (population trends, demographics, lifestyle preferences). A government-built transit line is a governmental factor — it reflects a public policy decision that directly affects land use patterns and property values. While it has secondary economic and social effects, the primary classification is governmental.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "value_factors",
+        "governmental_factors",
+        "PEGS",
+        "infrastructure"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.1",
+      "question_text": "For a transaction to establish 'market value,' it must occur under which conditions?",
+      "correct_answer": "Arm's-length transaction with willing buyer and seller and reasonable exposure time",
+      "distractors": [
+        "A court-ordered foreclosure sale where the lender sets the minimum bid",
+        "A private transaction between family members with no market participation",
+        "A distressed sale where the seller must close within 48 hours"
+      ],
+      "explanation": "Market value assumes an arm's-length transaction: both parties are willing (not under duress), knowledgeable, acting in self-interest, and the property has been exposed to the market for a reasonable time. Foreclosure sales, family transfers, and distressed sales do not meet these conditions and are therefore not reliable indicators of market value. Appraisers exclude non-arm's-length sales when selecting comparable properties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "market_value",
+        "arms_length",
+        "willing_buyer_seller"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.1",
+      "question_text": "A property is listed at $350,000 for only three days before selling for $380,000 to an eager buyer in a bidding war. This sale BEST illustrates the difference between:",
+      "correct_answer": "Market value and market price",
+      "distractors": [
+        "Assessed value and insured value",
+        "Replacement cost and book value",
+        "Liquidation value and investment value"
+      ],
+      "explanation": "The $380,000 paid is the market price — the actual transaction amount. Market value, which assumes reasonable exposure time and no undue pressure, may be different (likely closer to the $350,000 list price or whatever an appraiser would estimate). In a bidding war, emotional competition can push the price above market value. This is a common real-world scenario where price exceeds value, and it explains why lenders require appraisals rather than relying on sale prices alone.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "market_value",
+        "market_price",
+        "bidding_war",
+        "exposure_time"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.1",
+      "question_text": "Market value is BEST defined as:",
+      "correct_answer": "The most probable price in a competitive, open market",
+      "distractors": [
+        "The assessed value established by the county tax assessor",
+        "The actual price paid in the most recent transaction",
+        "The replacement cost of improvements minus depreciation"
+      ],
+      "explanation": "Market value is an opinion of the most probable price a property would bring under normal conditions: willing buyer, willing seller, both with reasonable knowledge, adequate exposure time, and no undue pressure. It is not the tax assessment (which may use a different standard), not the actual sale price (which may reflect unusual circumstances), and not the replacement cost (which is one appraisal approach but not the definition of value itself).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "market_value",
+        "definition",
+        "appraisal"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.2",
+      "question_text": "A vacant lot in a desirable area has high demand, is scarce, and can be easily transferred. However, it sits in a flood zone with severe building restrictions that prevent any practical development. Which element of value is MOST impaired?",
+      "correct_answer": "Utility",
+      "distractors": [
+        "Demand",
+        "Scarcity",
+        "Transferability"
+      ],
+      "explanation": "Utility means the property's ability to satisfy a need or desire. A lot that cannot be developed due to severe building restrictions has extremely limited utility. Demand may exist for the location, scarcity exists (limited lots in the area), and transferability exists (it can be sold and deeded). But without the ability to use the property productively, its value is severely diminished. All four DUST elements must be present for maximum value.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "DUST",
+        "utility",
+        "flood_zone",
+        "value_elements"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.2",
+      "question_text": "In areas with many available homes and few buyers, property values tend to decrease. This illustrates a deficiency in which element of value?",
+      "correct_answer": "Demand",
+      "distractors": [
+        "Scarcity",
+        "Utility",
+        "Transferability"
+      ],
+      "explanation": "Demand in the DUST framework includes both the desire to own and the purchasing power to acquire. When there are more homes than buyers, demand is weak relative to supply, pushing prices down. While scarcity is also affected (the opposite of scarce), the primary issue is demand. Utility remains — the homes are still usable and livable. Transferability remains — properties can still be legally sold. Low demand in the face of ample supply is the classic buyer's market dynamic.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "DUST",
+        "demand",
+        "supply",
+        "buyers_market"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.2",
+      "question_text": "Which of the four elements of value (DUST) is BEST described as the ability to transfer ownership from one party to another?",
+      "correct_answer": "Transferability",
+      "distractors": [
+        "Demand",
+        "Utility",
+        "Scarcity"
+      ],
+      "explanation": "Transferability is the ability to legally and practically convey ownership of a property from one party to another. Properties with clear title, no legal restrictions on sale, and standard ownership structures have high transferability. Properties with clouded titles, government holds, or complex ownership arrangements have impaired transferability. All four DUST elements — Demand, Utility, Scarcity, and Transferability — must be present for a property to have market value.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "DUST",
+        "transferability",
+        "definitions",
+        "value_elements"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.3",
+      "question_text": "The principle of anticipation states that value is created by the expectation of:",
+      "correct_answer": "Future benefits such as income, appreciation, or enjoyment",
+      "distractors": [
+        "Past performance based on historical sales and rental income",
+        "Current condition reflecting the property's present physical state",
+        "Construction costs determining how much was invested to date"
+      ],
+      "explanation": "The principle of anticipation holds that value is based on expectations of future benefits — not past performance or historical costs. A buyer pays for what they expect to receive going forward: rental income, personal enjoyment, appreciation, tax benefits. This is why a property in a rapidly improving neighborhood may command a premium over comparable properties in stable areas, and why anticipated zoning changes or development can affect current values.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "anticipation",
+        "future_benefits",
+        "appraisal_principles"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.4",
+      "question_text": "Rising interest rates, increasing unemployment, and tightening credit standards are examples of which type of factor affecting property value?",
+      "correct_answer": "Economic factors",
+      "distractors": [
+        "Governmental factors",
+        "Physical factors",
+        "Social factors"
+      ],
+      "explanation": "The PEGS framework categorizes value-influencing forces as Physical, Economic, Governmental, and Social. Interest rates, unemployment, and credit availability are economic factors because they directly affect buyers' purchasing power and the cost of financing. These factors influence how much buyers can afford to pay, which directly impacts market values. Governmental factors include zoning and taxation. Physical factors include location and topography. Social factors include population and demographics.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "value_factors",
+        "economic_factors",
+        "PEGS",
+        "interest_rates"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.4",
+      "question_text": "A rapidly growing city is experiencing population increases, new school construction, and rising household incomes. An appraiser evaluating properties in this market should recognize these as primarily:",
+      "correct_answer": "A combination of social and economic factors supporting increasing values",
+      "distractors": [
+        "Physical factors that will eventually wear out and require maintenance",
+        "Governmental factors from increased regulation and zoning changes",
+        "Temporary market fluctuations that do not affect long-term values"
+      ],
+      "explanation": "Population growth and household income are key social and economic factors. Social factors include population trends, demographics, and lifestyle preferences. Economic factors include income levels and employment growth. Together, they create demand that supports property values. An appraiser must consider all PEGS factors when forming an opinion of value. Growing cities typically see sustained value increases driven by these forces, though governmental factors (zoning, infrastructure) also play a role.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "value_factors",
+        "PEGS",
+        "social_factors",
+        "economic_factors"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.4",
+      "question_text": "The physical characteristics of a property — such as its lot size, topography, soil conditions, and climate — represent which category of forces affecting value?",
+      "correct_answer": "Physical factors",
+      "distractors": [
+        "Economic factors",
+        "Governmental factors",
+        "Social factors"
+      ],
+      "explanation": "Physical factors are the tangible, natural characteristics of the property and its environment: location, size, shape, topography, soil, climate, views, and proximity to hazards. These are the most inherent and permanent factors affecting value — unlike economic conditions or government policies, physical characteristics are largely fixed. An oceanfront lot, a steep hillside, or a flood-prone area all have physical attributes that permanently influence value. Remember PEGS: Physical, Economic, Governmental, Social.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "value_factors",
+        "physical_factors",
+        "PEGS",
+        "definitions"
+      ]
+    },
+    {
+      "key_topic_ref": "N-07.4",
+      "question_text": "A neighborhood experiences an influx of young families, leading to increased demand for homes with good school districts. This demographic shift is classified as which type of value factor?",
+      "correct_answer": "A social factor",
+      "distractors": [
+        "An economic factor",
+        "A physical factor",
+        "A governmental factor"
+      ],
+      "explanation": "Demographic shifts — changes in the age, composition, and size of a population — are social factors under the PEGS framework. While the influx may have economic effects (more spending) and involve governmental elements (school funding), the core force is social: a change in who lives in the area and what they value. Social factors also include lifestyle preferences, family size trends, and attitudes toward homeownership.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "value_factors",
+        "social_factors",
+        "PEGS",
+        "demographics"
+      ]
+    }
+  ]
+}

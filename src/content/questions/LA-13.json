@@ -1,0 +1,233 @@
+{
+  "standard_ref": "LA-13",
+  "scope": "state",
+  "state": "LA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "LA-13.1",
+      "question_text": "What right does every co-owner of an immovable have under Louisiana law?",
+      "correct_answer": "Demand partition at any time",
+      "distractors": [
+        "Veto any sale of the property",
+        "Claim exclusive possession of a portion",
+        "Receive rent from other co-owners"
+      ],
+      "explanation": "Under Louisiana Civil Code, any co-owner may demand partition of co-owned property at any time. Co-ownership is considered a temporary arrangement, and no co-owner can be forced to remain in co-ownership against his will.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["co-ownership", "partition", "immovables"]
+    },
+    {
+      "key_topic_ref": "LA-13.1",
+      "question_text": "Co-owner A sells her undivided interest in an immovable to a third party without notifying Co-owner B. What is the legal effect?",
+      "correct_answer": "The sale is valid",
+      "distractors": [
+        "The sale is absolutely null",
+        "Co-owner B can rescind the sale",
+        "The sale requires judicial approval"
+      ],
+      "explanation": "Each co-owner has the right to freely alienate, encumber, or lease his undivided interest without the consent of other co-owners. The transfer is valid, and the third party becomes a new co-owner with the same rights.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["co-ownership", "alienation", "undivided_interest"]
+    },
+    {
+      "key_topic_ref": "LA-13.1",
+      "question_text": "Three siblings inherit an immovable in ordinary co-ownership. One sibling dies. Who receives the deceased sibling's share?",
+      "correct_answer": "The deceased sibling's heirs",
+      "distractors": [
+        "The two surviving siblings equally",
+        "The surviving sibling who lives on site",
+        "The state through escheat"
+      ],
+      "explanation": "Ordinary co-ownership in Louisiana does not include a right of survivorship. When a co-owner dies, his undivided interest passes to his heirs through succession, not to the other co-owners.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["co-ownership", "survivorship", "successions"]
+    },
+    {
+      "key_topic_ref": "LA-13.1",
+      "question_text": "Who may make decisions regarding the use and management of co-owned property?",
+      "correct_answer": "All co-owners by majority interest",
+      "distractors": [
+        "Only the co-owner with the largest share",
+        "Any single co-owner acting alone",
+        "A court-appointed administrator only"
+      ],
+      "explanation": "Management decisions regarding co-owned property require the consent of co-owners holding a majority of ownership interests. Major alterations or improvements generally require unanimous consent of all co-owners.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["co-ownership", "management", "decisions"]
+    },
+    {
+      "key_topic_ref": "LA-13.1",
+      "question_text": "Four co-owners each hold 25% of an immovable. Two want to lease it; two oppose. A court must determine whether the lease proceeds. Which factor is decisive?",
+      "correct_answer": "Neither side holds a majority interest",
+      "distractors": [
+        "The two opposing owners have priority",
+        "The lease automatically proceeds after 30 days",
+        "The longest-tenured co-owner decides"
+      ],
+      "explanation": "A lease of the entire co-owned property requires consent of co-owners holding a majority of ownership interests. With a 50/50 split, neither side has a majority, so the matter may require judicial resolution or partition.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["co-ownership", "lease", "majority_interest"]
+    },
+    {
+      "key_topic_ref": "LA-13.2",
+      "question_text": "Under Louisiana law, which asset is classified as community property?",
+      "correct_answer": "Salary earned during the marriage",
+      "distractors": [
+        "An immovable inherited by one spouse",
+        "A gift donated to one spouse alone",
+        "Property owned before the marriage"
+      ],
+      "explanation": "Property acquired during the marriage through the effort, skill, or industry of either spouse is community property. Inheritances, donations to one spouse, and property owned before marriage are separate property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["community_property", "separate_property", "marriage"]
+    },
+    {
+      "key_topic_ref": "LA-13.2",
+      "question_text": "A husband wants to sell a community immovable. His wife refuses to consent. What is the result?",
+      "correct_answer": "The husband cannot complete the sale",
+      "distractors": [
+        "The sale proceeds with husband's signature only",
+        "The wife's consent is presumed after 10 days",
+        "A notary can override the wife's refusal"
+      ],
+      "explanation": "Louisiana law requires the consent of both spouses to alienate, encumber, or lease community immovables. Neither spouse acting alone can sell a community immovable without the other's concurrence.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["community_property", "spousal_consent", "immovables"]
+    },
+    {
+      "key_topic_ref": "LA-13.2",
+      "question_text": "How is community property divided upon divorce in Louisiana?",
+      "correct_answer": "Equally between the spouses",
+      "distractors": [
+        "Based on each spouse's income contribution",
+        "At the court's discretion per equitable factors",
+        "Two-thirds to the primary earner"
+      ],
+      "explanation": "Louisiana is a community property state. Upon dissolution of the marriage, community property is divided equally (50/50) between the spouses, regardless of the relative income contributions of each.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["community_property", "divorce", "equal_division"]
+    },
+    {
+      "key_topic_ref": "LA-13.2",
+      "question_text": "During marriage, a wife receives an immovable as a donation from her parents. Her husband claims it is community property. Who is correct?",
+      "correct_answer": "The wife, because donations are separate",
+      "distractors": [
+        "The husband, because it was received during marriage",
+        "Both, because it becomes community after one year",
+        "Neither, until a court classifies the property"
+      ],
+      "explanation": "Property acquired by a spouse through donation during the marriage remains that spouse's separate property under Louisiana law, even though it was acquired during the community regime.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["separate_property", "donations", "classification"]
+    },
+    {
+      "key_topic_ref": "LA-13.2",
+      "question_text": "A married couple jointly purchased an immovable using separate funds belonging entirely to the wife. Without a declaration in the act of sale, how is the property classified?",
+      "correct_answer": "Community property",
+      "distractors": [
+        "Separate property of the wife",
+        "Separate property of both spouses",
+        "Half community, half separate"
+      ],
+      "explanation": "Property acquired during marriage is presumed to be community property. To rebut this presumption and keep it separate, the acquiring spouse must make a declaration in the act of acquisition that it is purchased with separate funds. Without that declaration, it is community.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["community_property", "separate_funds", "presumption"]
+    },
+    {
+      "key_topic_ref": "LA-13.3",
+      "question_text": "What form is required for a valid matrimonial agreement in Louisiana?",
+      "correct_answer": "A notarized act",
+      "distractors": [
+        "A private written agreement signed by both",
+        "An oral agreement before two witnesses",
+        "A court-approved judicial order"
+      ],
+      "explanation": "Louisiana requires that matrimonial agreements be made by act passed before a notary. This ensures formality and authenticity for agreements that modify the legal regime of community property between spouses.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["matrimonial_agreement", "notarized", "formalities"]
+    },
+    {
+      "key_topic_ref": "LA-13.3",
+      "question_text": "A matrimonial agreement executed during marriage changes the couple's regime from community to separate property. When does this modification take effect toward third parties?",
+      "correct_answer": "When filed in the parish records",
+      "distractors": [
+        "Immediately upon notarization",
+        "Retroactively to the date of marriage",
+        "After 90 days from execution"
+      ],
+      "explanation": "A matrimonial agreement executed during marriage is effective between the spouses from execution, but it is effective toward third parties only when filed for registry in the parish where the spouses are domiciled and where any affected immovables are located.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["matrimonial_agreement", "third_parties", "recordation"]
+    },
+    {
+      "key_topic_ref": "LA-13.3",
+      "question_text": "Which entity may legally own immovable property in Louisiana?",
+      "correct_answer": "A limited liability company",
+      "distractors": [
+        "Only natural persons may own immovables",
+        "Only trusts established by testament",
+        "Only Louisiana-domiciled corporations"
+      ],
+      "explanation": "LLCs, partnerships, and corporations (whether domestic or qualified foreign entities) may own immovable property in Louisiana. Ownership is not restricted to natural persons.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["entity_ownership", "LLC", "immovables"]
+    },
+    {
+      "key_topic_ref": "LA-13.3",
+      "question_text": "In a Louisiana condominium, a unit owner holds title to which interests?",
+      "correct_answer": "The unit plus undivided common elements",
+      "distractors": [
+        "The individual unit exclusively",
+        "A leasehold interest on the unit and land",
+        "An undivided share of the entire building"
+      ],
+      "explanation": "Louisiana condominium law provides that each unit owner holds exclusive ownership of the individual unit together with an undivided interest in the common elements of the condominium property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "common_elements", "ownership"]
+    },
+    {
+      "key_topic_ref": "LA-13.3",
+      "question_text": "An LLC operating agreement allows one member to sell the LLC's immovable. Louisiana law requires what additional step?",
+      "correct_answer": "Authority must appear in a recorded act",
+      "distractors": [
+        "All members must sign the deed personally",
+        "A parish court must approve the transfer",
+        "The LLC must be converted to a corporation"
+      ],
+      "explanation": "When an LLC sells immovable property, the person signing must have proper authority. Louisiana practice requires that the authority of the signing member or manager be evidenced in a recorded document so third parties can verify the chain of title.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["entity_ownership", "LLC", "authority", "recordation"]
+    }
+  ]
+}

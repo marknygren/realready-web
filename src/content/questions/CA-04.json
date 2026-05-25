@@ -1,0 +1,198 @@
+{
+  "standard_ref": "CA-04",
+  "scope": "state",
+  "state": "CA",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "CA-04.1",
+      "question_text": "What is the primary purpose of California's Real Estate Recovery Fund?",
+      "correct_answer": "Compensate victims harmed by licensee fraud when the licensee cannot pay",
+      "distractors": [
+        "Reimburse the DRE for investigation and prosecution costs",
+        "Fund continuing education grants for low-income licensees",
+        "Pay disciplinary fines imposed on suspended brokers"
+      ],
+      "explanation": "The Recovery Fund compensates consumers who are victims of a licensee's fraud, misrepresentation, or deceit when the licensee is unable to satisfy a civil judgment.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Recovery-Fund",
+        "purpose",
+        "consumer-protection"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-04.1",
+      "question_text": "How is California's Real Estate Recovery Fund primarily funded?",
+      "correct_answer": "A portion of license fees paid by all licensees",
+      "distractors": [
+        "Appropriations from the state general fund",
+        "Fines collected from disciplinary proceedings",
+        "Mandatory contributions from real estate trade associations"
+      ],
+      "explanation": "The Recovery Fund is funded through a portion of the license fees paid by real estate licensees. This ensures the industry collectively supports a consumer protection backstop.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Recovery-Fund",
+        "funding",
+        "license-fees"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-04.1",
+      "question_text": "A buyer sues a broker for fraud and wins a $60,000 judgment. The broker has no assets. What must the buyer do before claiming from the Recovery Fund?",
+      "correct_answer": "Get a civil judgment, attempt collection, and then file within one year of discovery",
+      "distractors": [
+        "File a DRE complaint and wait for the disciplinary outcome",
+        "Notify the Real Estate Advisory Commission and request mediation",
+        "Submit proof of loss directly to the DRE without a court judgment"
+      ],
+      "explanation": "To claim from the Recovery Fund, a victim must first obtain a civil court judgment against the licensee, make a good-faith effort to collect, fail to collect, and then file a claim within one year of discovering the loss (with a three-year outer limit).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Recovery-Fund",
+        "claim-requirements",
+        "civil-judgment"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-04.1",
+      "question_text": "A buyer discovers on March 1, 2025, that a broker defrauded her in a 2022 transaction. By when must she file a Recovery Fund claim?",
+      "correct_answer": "March 1, 2026 (one year after discovery)",
+      "distractors": [
+        "March 1, 2028 (three years after discovery)",
+        "December 31, 2025 (end of discovery year)",
+        "March 1, 2025 (date of discovery)"
+      ],
+      "explanation": "A Recovery Fund claim must be filed within one year of discovering the fraud. Since discovery was March 1, 2025, the claim deadline is March 1, 2026. The three-year limit runs from the acts themselves, not discovery.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Recovery-Fund",
+        "claim-deadline",
+        "statute-of-limitations"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-04.1",
+      "question_text": "A buyer claims the Recovery Fund should cover her loss because a broker who was acting as her friend — not in any professional capacity — defrauded her during a loan. Is this claim valid?",
+      "correct_answer": "No, the Recovery Fund only covers acts performed in a licensed capacity",
+      "distractors": [
+        "Yes, any fraud by a licensee qualifies regardless of capacity",
+        "Yes, as long as the perpetrator held an active license at the time",
+        "No, only sellers can claim from the Recovery Fund"
+      ],
+      "explanation": "The Recovery Fund covers only losses caused by a licensee acting in their licensed real estate capacity. Personal or non-licensed conduct, even by a licensee, is not covered.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "Recovery-Fund",
+        "licensed-capacity",
+        "eligibility"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-04.2",
+      "question_text": "What is the maximum Recovery Fund payout per single transaction in California?",
+      "correct_answer": "$50,000",
+      "distractors": [
+        "$25,000",
+        "$100,000",
+        "$250,000"
+      ],
+      "explanation": "California limits Recovery Fund payments to $50,000 per transaction, regardless of the actual judgment amount. Multiple victims in the same transaction share this cap.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Recovery-Fund",
+        "transaction-limit",
+        "50000"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-04.2",
+      "question_text": "A broker defrauds clients across five separate transactions over three years. What is the maximum total Recovery Fund liability for this broker?",
+      "correct_answer": "$250,000 per licensee lifetime",
+      "distractors": [
+        "$50,000 total regardless of number of transactions",
+        "$500,000 if more than four transactions are involved",
+        "Unlimited — each victim is entitled to the full $50,000"
+      ],
+      "explanation": "The Recovery Fund caps total payouts at $250,000 per licensee over their lifetime, regardless of how many transactions or victims are involved. Per-transaction the limit is $50,000.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Recovery-Fund",
+        "lifetime-limit",
+        "250000"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-04.2",
+      "question_text": "After the Recovery Fund pays a claim on behalf of a broker, what happens to the broker's license?",
+      "correct_answer": "The license is automatically suspended until the Fund is repaid with interest",
+      "distractors": [
+        "The license is restricted to buyer representation only",
+        "The license is permanently revoked with no right of appeal",
+        "The broker receives a formal reprimand but retains the license"
+      ],
+      "explanation": "When the Recovery Fund pays out on a licensee's behalf, that licensee's license is automatically suspended. The license cannot be reinstated until the full amount — plus interest — is repaid to the Fund.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Recovery-Fund",
+        "license-suspension",
+        "repayment"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-04.2",
+      "question_text": "A broker's license is suspended after the Recovery Fund pays $40,000 to a defrauded buyer. The broker repays $20,000 and asks the DRE to reinstate her license. What happens?",
+      "correct_answer": "The license remains suspended until the full $40,000 plus interest is repaid",
+      "distractors": [
+        "The license is reinstated since more than half was repaid",
+        "Reinstatement requires only repayment; interest is waived for prompt payment",
+        "The DRE may grant a restricted license after 50% repayment"
+      ],
+      "explanation": "California law requires full repayment of the Recovery Fund payout plus interest before the suspended license can be reinstated. Partial repayment does not entitle the broker to reinstatement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "Recovery-Fund",
+        "repayment",
+        "license-reinstatement"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-04.2",
+      "question_text": "Three buyers are defrauded by the same broker in one transaction and jointly suffer a $150,000 loss. How much can they collectively recover from the Fund?",
+      "correct_answer": "$50,000 total for the transaction, shared among the claimants",
+      "distractors": [
+        "$150,000 — the full amount of their verified loss",
+        "$50,000 each, up to a total of $150,000",
+        "$25,000 each, regardless of individual loss"
+      ],
+      "explanation": "The $50,000 cap applies per transaction, not per victim. All claimants arising from the same transaction share the $50,000 maximum, so these three buyers would divide $50,000 among themselves.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "Recovery-Fund",
+        "per-transaction-cap",
+        "multiple-claimants"
+      ]
+    }
+  ]
+}

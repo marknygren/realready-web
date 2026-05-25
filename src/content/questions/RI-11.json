@@ -1,0 +1,118 @@
+{
+  "standard_ref": "RI-11",
+  "scope": "state",
+  "state": "RI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "RI-11.1",
+      "question_text": "A tenant rents an unfurnished apartment in Providence for $1,500 per month. What is the maximum security deposit the landlord may collect?",
+      "correct_answer": "$1,500",
+      "distractors": ["$3,000", "$2,250", "$750"],
+      "explanation": "Rhode Island limits security deposits to one month's rent for unfurnished units. Since the monthly rent is $1,500, the maximum deposit is $1,500.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "unfurnished", "maximum amount"]
+    },
+    {
+      "key_topic_ref": "RI-11.1",
+      "question_text": "A furnished apartment contains $7,000 worth of landlord-owned furniture. In addition to the standard security deposit, what extra deposit may the landlord collect?",
+      "correct_answer": "One additional month's rent for furniture",
+      "distractors": ["$7,000 to cover full furniture replacement cost", "Two additional months' rent for furniture", "No additional deposit is permitted for furniture"],
+      "explanation": "When a unit is furnished with furniture valued over $5,000, the landlord may collect an additional deposit equal to one month's rent specifically for the furniture. This is on top of the standard one-month security deposit.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "furnished unit", "furniture deposit"]
+    },
+    {
+      "key_topic_ref": "RI-11.1",
+      "question_text": "A tenant moves out on March 1 and provides a forwarding address on March 10. By what date must the landlord return the security deposit?",
+      "correct_answer": "March 30",
+      "distractors": ["March 21", "March 15", "April 1"],
+      "explanation": "The landlord must return the security deposit within 20 days of the later of: termination of tenancy, delivery of possession, or receipt of the forwarding address. Since the forwarding address (March 10) was provided after the move-out (March 1), the 20-day clock starts March 10, making the deadline March 30.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "return deadline", "forwarding address"]
+    },
+    {
+      "key_topic_ref": "RI-11.1",
+      "question_text": "A landlord deducts $200 from a security deposit for normal carpet wear after three years of tenancy. Is this deduction lawful?",
+      "correct_answer": "No, ordinary wear and tear is not deductible",
+      "distractors": ["Yes, carpet cleaning is always deductible", "Yes, if the landlord provides receipts", "Only if stated in the lease agreement"],
+      "explanation": "Rhode Island allows deductions for unpaid rent, reasonable cleaning/trash removal, and physical damages beyond ordinary wear and tear. Normal carpet wear from three years of use constitutes ordinary wear and is not a permitted deduction.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["security deposit", "deductions", "ordinary wear"]
+    },
+    {
+      "key_topic_ref": "RI-11.1",
+      "question_text": "A landlord charges tenants a $15 convenience fee for online rent payments and offers no alternative payment method. Under the 2025 law, is this permitted?",
+      "correct_answer": "No, a fee-free alternative must exist",
+      "distractors": ["Yes, convenience fees are always permitted by law", "Only if the convenience fee is under $20", "Yes, if the fee is disclosed in the lease terms"],
+      "explanation": "Effective January 2025, Rhode Island prohibits landlords from charging convenience fees for rent payments unless a fee-free alternative payment method is also available. Offering only an online payment option with a fee violates this law.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["convenience fee", "rent payment", "2025 law", "landlord obligations"]
+    },
+    {
+      "key_topic_ref": "RI-11.2",
+      "question_text": "A tenant is 15 days behind on rent. What is the landlord's first required step toward eviction?",
+      "correct_answer": "Serve a 5-day notice to pay or quit",
+      "distractors": ["File immediately in court for eviction", "Serve a 20-day notice to cure", "Change the locks after written warning"],
+      "explanation": "When rent is 15 days overdue, the landlord must serve a 5-day notice to pay or quit before proceeding with eviction. The tenant has 5 days to pay the full amount or vacate. Court proceedings are required if the tenant does neither.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "nonpayment", "5-day notice", "pay or quit"]
+    },
+    {
+      "key_topic_ref": "RI-11.2",
+      "question_text": "A tenant is operating a drug distribution operation from a rental unit. What notice period must the landlord provide before terminating the lease?",
+      "correct_answer": "No notice required",
+      "distractors": ["5-day notice to quit", "20-day notice to cure or quit", "30-day notice with court approval"],
+      "explanation": "Rhode Island allows immediate termination with no notice period when a tenant engages in illegal activity such as drug distribution or violence. The landlord must still go through court proceedings but does not need to provide an advance notice period.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "illegal activity", "immediate termination"]
+    },
+    {
+      "key_topic_ref": "RI-11.2",
+      "question_text": "A tenant violates a lease clause that creates a health hazard. How many days must the landlord's notice to cure provide?",
+      "correct_answer": "20 days",
+      "distractors": ["5 days", "10 days", "30 days"],
+      "explanation": "For lease violations involving health or safety concerns, the landlord must provide a 20-day notice to cure or quit. This gives the tenant time to correct the violation before eviction proceedings can begin in court.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "lease violation", "health safety", "20-day notice"]
+    },
+    {
+      "key_topic_ref": "RI-11.2",
+      "question_text": "A frustrated landlord changes the locks and removes a tenant's belongings while the tenant is at work. What legal principle does this violate?",
+      "correct_answer": "The prohibition on self-help evictions",
+      "distractors": ["The 5-day notice requirement only", "The security deposit return rules", "The implied warranty of habitability"],
+      "explanation": "Rhode Island strictly prohibits self-help evictions. Landlords cannot change locks, remove belongings, or shut off utilities to force a tenant out. All evictions must go through court proceedings regardless of the circumstances.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["self-help eviction", "prohibited actions", "court proceedings"]
+    },
+    {
+      "key_topic_ref": "RI-11.2",
+      "question_text": "A rental unit has no hot water and the heating system is broken in January. The tenant demands repairs. Which landlord obligation applies?",
+      "correct_answer": "Must provide running water and adequate heat",
+      "distractors": ["No obligation if tenant signed an as-is clause", "Only required if the building has 5+ units", "Obligation is limited to common areas only"],
+      "explanation": "Rhode Island landlords must maintain habitable premises, comply with building and housing codes, and provide running water, reasonable heat, and hot water. These obligations cannot be waived by lease terms and apply regardless of the building size.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["habitability", "landlord obligations", "heat", "hot water"]
+    }
+  ]
+}

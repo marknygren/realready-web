@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NE-06",
+  "scope": "state",
+  "state": "NE",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "NE-06.1",
+      "question_text": "What type of bank account must every active Nebraska broker maintain for client funds?",
+      "correct_answer": "A separate insured checking account",
+      "distractors": ["A savings account at any bank", "The broker's operating account", "A money market fund"],
+      "explanation": "Nebraska requires every active broker to maintain a separate, insured checking account designated as a trust account. Client funds must never be commingled with the broker's personal or business operating funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "checking account", "NREC"]
+    },
+    {
+      "key_topic_ref": "NE-06.1",
+      "question_text": "A broker deposits a personal check into the trust account to cover a shortfall. What violation has occurred?",
+      "correct_answer": "Commingling of funds",
+      "distractors": ["Conversion of funds", "Failure to reconcile", "Exceeding deposit limits"],
+      "explanation": "Mixing personal funds with client trust funds is commingling, which is strictly prohibited in Nebraska. The trust account must contain only client funds held in connection with real estate transactions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "trust account", "prohibited acts"]
+    },
+    {
+      "key_topic_ref": "NE-06.1",
+      "question_text": "A buyer and seller dispute who should receive the earnest money after a failed transaction. The broker holds the funds. When may the broker release them?",
+      "correct_answer": "When all parties agree in writing",
+      "distractors": ["After 30 days automatically", "When the listing agent requests", "When the broker decides fault"],
+      "explanation": "In Nebraska, trust account funds must remain in the account until closing or termination of the transaction, unless all parties agree in writing to their disbursement. The broker cannot unilaterally decide.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "earnest money", "disbursement"]
+    },
+    {
+      "key_topic_ref": "NE-06.1",
+      "question_text": "NREC auditors arrive at a brokerage requesting trust account records. Must the broker comply?",
+      "correct_answer": "Yes, trust records must be available",
+      "distractors": ["Only when ordered by a state court", "Only during scheduled annual audits", "No, broker records are confidential"],
+      "explanation": "Nebraska trust accounts must be available for NREC inspection at any time. Brokers are required to maintain complete and accurate records and produce them when requested by the Commission.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["NREC inspection", "trust account", "compliance"]
+    },
+    {
+      "key_topic_ref": "NE-06.1",
+      "question_text": "A broker uses trust funds to pay her office rent during a cash flow crisis, intending to replace them the next day. What is this called?",
+      "correct_answer": "Conversion of trust funds",
+      "distractors": ["Temporary borrowing", "Authorized commingling", "A permissible advance"],
+      "explanation": "Using client trust funds for personal or business expenses constitutes conversion, regardless of intent to repay. This is a serious violation that can result in license revocation in Nebraska.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["conversion", "trust account", "violations"]
+    },
+    {
+      "key_topic_ref": "NE-06.2",
+      "question_text": "A salesperson receives an earnest money check on Monday at 2 PM in a transaction where her broker holds both the listing and the sale. By when must the check be deposited?",
+      "correct_answer": "Thursday at 2 PM",
+      "distractors": ["Tuesday at 2 PM", "The next business day", "Within 5 business days"],
+      "explanation": "When the same broker handles both listing and selling, the earnest money deposit must be made within 72 hours after written acceptance. The 72-hour clock starts at the time of acceptance, not receipt of the check.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["72-hour rule", "earnest money", "deposit deadline"]
+    },
+    {
+      "key_topic_ref": "NE-06.2",
+      "question_text": "In a cooperative transaction, the selling broker deposits earnest money within 72 hours. What must happen next?",
+      "correct_answer": "Funds transfer to the listing broker",
+      "distractors": ["Funds stay with selling broker", "Funds go directly to the seller", "Funds are split between brokers"],
+      "explanation": "In cooperative transactions, the selling broker deposits within 72 hours and then transfers the funds to the listing broker's trust account. The listing broker maintains custody until closing or termination.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["cooperative transaction", "72-hour rule", "trust account"]
+    },
+    {
+      "key_topic_ref": "NE-06.2",
+      "question_text": "A buyer faxes an accepted offer to the selling broker's office on Wednesday morning. When does the 72-hour deposit period begin?",
+      "correct_answer": "When the fax is received",
+      "distractors": ["When the original is mailed", "When the broker reads the fax", "The next business day"],
+      "explanation": "For facsimile or telegram communications, the 72-hour deposit period starts when the document is received at the broker's office, not when it is sent or when someone reads it.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["72-hour rule", "facsimile", "deposit timing"]
+    },
+    {
+      "key_topic_ref": "NE-06.2",
+      "question_text": "What is the deposit deadline for earnest money when the same broker represents both buyer and seller?",
+      "correct_answer": "72 hours after written acceptance",
+      "distractors": ["24 hours after receipt", "End of next business day", "5 business days after acceptance"],
+      "explanation": "When the same broker handles both sides (listing and selling), the earnest money must be deposited within 72 hours after written acceptance of the offer. This applies regardless of the day of the week.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["72-hour rule", "earnest money", "same broker"]
+    },
+    {
+      "key_topic_ref": "NE-06.2",
+      "question_text": "A selling broker in a cooperative deal deposits earnest money on time but forgets to forward it. What rule has been violated?",
+      "correct_answer": "Not transferring to listing broker",
+      "distractors": ["Violating the 72-hour deposit rule", "Commingling broker and trust funds", "No violation occurred in this case"],
+      "explanation": "In cooperative transactions, the selling broker must deposit within 72 hours AND then transfer the funds to the listing broker's trust account. Retaining the funds after deposit violates the transfer requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["cooperative transaction", "trust account", "transfer"]
+    },
+    {
+      "key_topic_ref": "NE-06.3",
+      "question_text": "How long must a Nebraska broker retain transaction records?",
+      "correct_answer": "5 years",
+      "distractors": ["3 years", "7 years", "10 years"],
+      "explanation": "Nebraska law requires brokers to retain all transaction records for a minimum of 5 years. This includes contracts, closing statements, correspondence, and trust account documentation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record keeping", "retention period", "NREC"]
+    },
+    {
+      "key_topic_ref": "NE-06.3",
+      "question_text": "A property manager collects first month's rent, a security deposit, and a pet fee from a new tenant. Where must these funds be held?",
+      "correct_answer": "A separate property management trust account",
+      "distractors": ["The broker's general trust account", "The property owner's personal account", "Any account the manager chooses"],
+      "explanation": "Nebraska requires a separate property management trust account for security deposits, rents, and owner funds. This account must be maintained separately from the broker's general real estate transaction trust account.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "trust account", "security deposits"]
+    },
+    {
+      "key_topic_ref": "NE-06.3",
+      "question_text": "During an NREC audit, which trust account documents must a broker produce?",
+      "correct_answer": "Receipts, disbursements, and reconciliations",
+      "distractors": ["Only annual tax returns", "Only bank statements", "Only canceled checks"],
+      "explanation": "Trust account records must include receipts, disbursements, statements, and reconciliations. Brokers must maintain complete documentation and make it available for NREC inspection at any time.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record keeping", "NREC audit", "trust account"]
+    },
+    {
+      "key_topic_ref": "NE-06.3",
+      "question_text": "A broker manages 40 rental units and also handles residential sales. How many trust accounts does she need at minimum?",
+      "correct_answer": "Two separate trust accounts",
+      "distractors": ["One combined account is fine", "Three accounts minimum", "One per rental property"],
+      "explanation": "Nebraska requires at least two trust accounts: one for general real estate transaction funds (earnest money from sales) and a separate property management trust account for security deposits, rents, and owner funds.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["property management", "trust account", "record keeping"]
+    },
+    {
+      "key_topic_ref": "NE-06.3",
+      "question_text": "A broker closed a transaction in 2021 and wants to shred the file in 2025. Is this permitted under Nebraska law?",
+      "correct_answer": "No, records must be kept until 2026",
+      "distractors": ["Yes, three years have passed", "Yes, after closing is sufficient", "Only if NREC grants approval"],
+      "explanation": "Nebraska requires transaction records to be retained for 5 years. A 2021 transaction file must be kept until at least 2026. Destroying records before the retention period expires violates NREC rules.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["record keeping", "retention period", "compliance"]
+    }
+  ]
+}

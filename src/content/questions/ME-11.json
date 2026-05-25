@@ -1,0 +1,233 @@
+{
+  "standard_ref": "ME-11",
+  "scope": "state",
+  "state": "ME",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "ME-11.1",
+      "question_text": "In Maine, who is required to supervise a residential real estate closing?",
+      "correct_answer": "A licensed attorney",
+      "distractors": [
+        "A title insurance company",
+        "The buyer's real estate agent",
+        "A licensed escrow officer"
+      ],
+      "explanation": "Maine is an attorney state for real estate closings. A licensed attorney must examine title, prepare closing documents, and supervise the transaction. Unlike many states that allow title companies or escrow agents to handle closings, Maine requires attorney involvement by law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney_closing", "closing_supervision", "maine_requirement"]
+    },
+    {
+      "key_topic_ref": "ME-11.1",
+      "question_text": "A buyer relocating from Nevada asks her agent why she needs to hire an attorney for her Maine closing. What is the most accurate explanation?",
+      "correct_answer": "Maine law requires attorney supervision",
+      "distractors": [
+        "Attorneys are optional but recommended",
+        "Only commercial closings need attorneys",
+        "Title companies can substitute for attorneys"
+      ],
+      "explanation": "Maine mandates attorney involvement in real estate closings. The attorney examines title, prepares documents, and supervises the closing. This differs from states like Nevada where title companies or escrow agents routinely handle closings without attorney involvement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["attorney_closing", "out_of_state_buyer", "legal_requirement"]
+    },
+    {
+      "key_topic_ref": "ME-11.1",
+      "question_text": "Which task does the closing attorney typically perform in a Maine transaction?",
+      "correct_answer": "Examining the title chain for defects",
+      "distractors": [
+        "Negotiating the purchase price",
+        "Showing the property to the buyer",
+        "Marketing the property for the seller"
+      ],
+      "explanation": "The closing attorney in Maine examines the title to identify any defects, liens, or encumbrances. The attorney also prepares the deed and other closing documents and supervises the settlement. Real estate agents handle marketing, showings, and negotiations, not the attorney.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title_examination", "closing_attorney", "attorney_duties"]
+    },
+    {
+      "key_topic_ref": "ME-11.1",
+      "question_text": "A title company from another state offers to handle a Maine closing without an attorney to save the buyer money. Should the buyer accept?",
+      "correct_answer": "No, an attorney is legally required",
+      "distractors": [
+        "Yes, if both parties agree in writing",
+        "Yes, for transactions under $200,000",
+        "Only if the title company is insured"
+      ],
+      "explanation": "Maine law requires attorney supervision at closing regardless of the transaction amount or party preferences. A title company from another state cannot substitute for a Maine attorney. Accepting this arrangement would not comply with Maine's closing requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["attorney_closing", "title_company", "compliance"]
+    },
+    {
+      "key_topic_ref": "ME-11.1",
+      "question_text": "A buyer's agent in Maine tells a first-time buyer that the closing attorney 'works for the bank.' What is the most accurate description of the attorney's role?",
+      "correct_answer": "The attorney supervises for all parties",
+      "distractors": [
+        "The attorney represents only the lender",
+        "The attorney represents only the buyer",
+        "The attorney represents only the seller"
+      ],
+      "explanation": "While the lender may select and pay the closing attorney, the attorney's role is to supervise the entire closing process, examine title, and ensure proper document execution. The closing attorney has duties to ensure the transaction is handled properly for all parties involved.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["closing_attorney", "attorney_role", "first_time_buyer"]
+    },
+    {
+      "key_topic_ref": "ME-11.2",
+      "question_text": "What is the base real estate transfer tax rate in Maine?",
+      "correct_answer": "$2.20 per $500 of sale price",
+      "distractors": [
+        "$4.40 per $500 of sale price",
+        "$1.10 per $500 of sale price",
+        "$5.50 per $1,000 of sale price"
+      ],
+      "explanation": "Maine's base transfer tax rate is $2.20 per $500 of the sale price, which equals $4.40 per $1,000. This base rate is typically split equally between buyer and seller, though the split is negotiable between the parties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer_tax", "base_rate", "tax_calculation"]
+    },
+    {
+      "key_topic_ref": "ME-11.2",
+      "question_text": "A home sells for $400,000 in Maine. How much total transfer tax is due, and how is it typically split?",
+      "correct_answer": "$1,760 total, split equally by default",
+      "distractors": [
+        "$880 total, paid entirely by seller",
+        "$3,520 total, split equally by default",
+        "$1,760 total, paid entirely by buyer"
+      ],
+      "explanation": "At the base rate of $2.20 per $500: $400,000 / $500 = 800 units x $2.20 = $1,760 total. By default, this is split equally ($880 each) between buyer and seller, though the parties may negotiate a different allocation in their purchase agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer_tax", "calculation", "buyer_seller_split"]
+    },
+    {
+      "key_topic_ref": "ME-11.2",
+      "question_text": "Under LD 210 (effective November 2025), what happens to Maine transfer tax for sales over $1 million?",
+      "correct_answer": "A surcharge applies to the portion over $1M",
+      "distractors": [
+        "The entire sale is taxed at a higher rate",
+        "Sales over $1 million are fully exempt",
+        "The base rate is doubled on the full price"
+      ],
+      "explanation": "LD 210 added a surcharge of $3.80 per $500 on the portion of consideration exceeding $1 million, bringing the total rate on that portion to $6.00 per $500. The first $1 million is still taxed at the base rate of $2.20 per $500. Revenue from the surcharge funds affordable housing initiatives.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer_tax", "LD_210", "surcharge", "calculation"]
+    },
+    {
+      "key_topic_ref": "ME-11.2",
+      "question_text": "Which transfer is typically exempt from Maine's real estate transfer tax?",
+      "correct_answer": "A deed between parent and child",
+      "distractors": [
+        "A standard arm's-length home sale",
+        "A sale between unrelated investors",
+        "A commercial property flip"
+      ],
+      "explanation": "Maine exempts certain interfamily transfers from the real estate transfer tax, including conveyances between parents and children. Standard sales between unrelated parties, investor transactions, and commercial sales are all subject to the transfer tax at applicable rates.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer_tax", "exemption", "interfamily"]
+    },
+    {
+      "key_topic_ref": "ME-11.2",
+      "question_text": "A first-time homebuyer purchases a $1.3 million home through MaineHousing. Under LD 210, which portion of the transfer tax may be exempt?",
+      "correct_answer": "The surcharge on amounts over $1M",
+      "distractors": [
+        "The entire transfer tax is fully exempt",
+        "Only the base rate portion is exempt",
+        "No exemption applies at this sale price"
+      ],
+      "explanation": "Under LD 210, first-time homebuyers purchasing through MaineHousing may be exempt from the additional surcharge portion that applies to amounts over $1 million. The base transfer tax rate of $2.20 per $500 still applies to the full purchase price. This exemption helps maintain affordability for qualifying buyers.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["transfer_tax", "MaineHousing", "first_time_buyer", "surcharge_exemption"]
+    },
+    {
+      "key_topic_ref": "ME-11.3",
+      "question_text": "When a nonresident sells Maine property for $100,000 or more, what must the buyer withhold?",
+      "correct_answer": "2.5% of the sale price",
+      "distractors": [
+        "5% of the sale price",
+        "1% of the sale price",
+        "10% of the net proceeds"
+      ],
+      "explanation": "Maine requires the buyer to withhold 2.5% of the sale price when purchasing from a nonresident seller if the sale price is $100,000 or more. This withholding is an estimated tax payment remitted to Maine Revenue Services to ensure the state collects income tax on the gain.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["nonresident_withholding", "2.5_percent", "tax"]
+    },
+    {
+      "key_topic_ref": "ME-11.3",
+      "question_text": "A nonresident sells a Maine vacation home for $350,000. How much must the buyer withhold for Maine tax purposes?",
+      "correct_answer": "$8,750",
+      "distractors": [
+        "$17,500",
+        "$3,500",
+        "$7,700"
+      ],
+      "explanation": "The buyer must withhold 2.5% of the $350,000 sale price: $350,000 x 0.025 = $8,750. This applies because the sale exceeds the $100,000 threshold. The withholding is remitted to Maine Revenue Services as an estimated tax payment on the nonresident seller's behalf.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["nonresident_withholding", "calculation", "vacation_home"]
+    },
+    {
+      "key_topic_ref": "ME-11.3",
+      "question_text": "After closing on a nonresident seller's property, within how many days must Form REW-1 be filed with Maine Revenue Services?",
+      "correct_answer": "30 days",
+      "distractors": [
+        "10 days",
+        "60 days",
+        "90 days"
+      ],
+      "explanation": "Form REW-1 must be filed within 30 days of the closing date. This form reports the withholding amount and remits the 2.5% estimated tax payment to Maine Revenue Services. Failure to file timely can result in penalties for the buyer who was responsible for the withholding.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["REW-1", "filing_deadline", "nonresident_withholding"]
+    },
+    {
+      "key_topic_ref": "ME-11.3",
+      "question_text": "A nonresident seller believes the 2.5% withholding exceeds her actual tax liability and wants a reduced withholding. What must she file, and when?",
+      "correct_answer": "Form REW-5, five business days before closing",
+      "distractors": [
+        "Form REW-1, filed within 30 days of closing",
+        "Form REW-5, filed within 10 days after closing",
+        "A standard income tax return before the listing"
+      ],
+      "explanation": "A nonresident seller seeking a reduced withholding must file Form REW-5 with Maine Revenue Services at least 5 business days before closing. This form requests an exemption or reduction based on the seller's estimated actual tax liability. It must be filed in advance to allow processing time.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["REW-5", "withholding_reduction", "nonresident"]
+    },
+    {
+      "key_topic_ref": "ME-11.3",
+      "question_text": "A nonresident sells a Maine property for $85,000. The buyer asks the closing attorney whether withholding applies. What is the correct answer?",
+      "correct_answer": "No withholding is required at this price",
+      "distractors": [
+        "Withhold 2.5% of the full price",
+        "Withhold 1% as a reduced rate applies",
+        "Withhold 2.5% of the amount over $50,000"
+      ],
+      "explanation": "Maine's nonresident withholding requirement applies only to sales of $100,000 or more. Since the 2021 threshold increase from $50,000, sales below $100,000 are exempt from the 2.5% withholding requirement. At $85,000, no withholding is due.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["nonresident_withholding", "threshold", "exemption"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "PA-14",
+  "scope": "state",
+  "state": "PA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "PA-14.1",
+      "question_text": "The most widely used residential purchase contract in Pennsylvania is published by:",
+      "correct_answer": "PA Association of Realtors (PAR)",
+      "distractors": ["PA Real Estate Commission (PREC)", "PA Bar Association (PBA)", "Pearson VUE testing company"],
+      "explanation": "The PAR Standard Agreement of Sale (Form ASR) is the most commonly used residential purchase contract for 1-4 unit properties in Pennsylvania. It is published by the Pennsylvania Association of Realtors.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "PAR", "Agreement of Sale"]
+    },
+    {
+      "key_topic_ref": "PA-14.1",
+      "question_text": "Under Pennsylvania law, all agreements of sale must be:",
+      "correct_answer": "In writing",
+      "distractors": ["Notarized by both parties", "Approved by PREC", "Filed with the county recorder"],
+      "explanation": "All agreements of sale must be in writing under the Statute of Frauds. While notarization is needed for deeds, the purchase agreement itself only needs to be in writing and signed by the parties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "written", "Statute of Frauds"]
+    },
+    {
+      "key_topic_ref": "PA-14.1",
+      "question_text": "After an agreement of sale is signed, the broker must:",
+      "correct_answer": "Give copies to all parties at signing",
+      "distractors": ["File the original with PREC", "Mail copies within 5 business days", "Keep copies for 10 years minimum"],
+      "explanation": "The broker must provide copies of the agreement to all parties at the time of signing. This ensures each party has immediate access to the executed contract terms.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "copies", "signing"]
+    },
+    {
+      "key_topic_ref": "PA-14.1",
+      "question_text": "A PA agreement of sale must include all of the following EXCEPT:",
+      "correct_answer": "The buyer's credit score",
+      "distractors": ["Legal names of the parties", "Legal description of the property", "Purchase price and deposit amount"],
+      "explanation": "Required elements include legal names, legal description, price, deposit, financing terms, settlement date, and title condition. A buyer's credit score is private financial information, not a required contract term.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "required elements", "Agreement of Sale"]
+    },
+    {
+      "key_topic_ref": "PA-14.1",
+      "question_text": "The PAR Standard Agreement of Sale (Form ASR) is designed for which type of property?",
+      "correct_answer": "Residential properties with 1-4 units",
+      "distractors": ["All residential and commercial property", "Only single-family detached homes", "Commercial properties exclusively"],
+      "explanation": "Form ASR is designed for residential properties with 1-4 units. PAR has separate forms for new construction, commercial properties, and vacant land transactions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "Form ASR", "residential"]
+    },
+    {
+      "key_topic_ref": "PA-14.2",
+      "question_text": "Does Pennsylvania provide a statutory attorney review period for purchase contracts?",
+      "correct_answer": "No, PA has no statutory attorney review",
+      "distractors": ["Yes, a 3-day review period", "Yes, a 5-business-day review period", "Yes, but only for first-time buyers"],
+      "explanation": "Unlike New Jersey, Pennsylvania does NOT have a statutory attorney review period. There is no automatic right to void a signed contract for attorney review. However, parties may include an attorney review contingency.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney review", "no statutory right", "New Jersey comparison"]
+    },
+    {
+      "key_topic_ref": "PA-14.2",
+      "question_text": "The Installment Land Contract Law in PA applies specifically in which counties?",
+      "correct_answer": "Philadelphia and Allegheny County",
+      "distractors": ["All 67 Pennsylvania counties", "Only Philadelphia County", "Only counties with populations over 500,000"],
+      "explanation": "The Installment Land Contract Law (68 P.S. § 902 et seq.) applies in counties of the first class (Philadelphia) and second class (Allegheny). Other counties are not governed by this specific statute.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["installment contract", "Philadelphia", "Allegheny"]
+    },
+    {
+      "key_topic_ref": "PA-14.2",
+      "question_text": "Under a PA installment land contract, the buyer receives:",
+      "correct_answer": "Equitable title until final payment",
+      "distractors": ["Legal title immediately at signing", "No title interest until final payment", "Both legal and equitable title"],
+      "explanation": "In an installment land contract, the buyer receives equitable title while the seller retains legal title until the final payment is made. The buyer has possession and use but cannot convey legal title.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["installment contract", "equitable title", "legal title"]
+    },
+    {
+      "key_topic_ref": "PA-14.2",
+      "question_text": "In Philadelphia County, an installment land contract must be recorded within how many days of execution?",
+      "correct_answer": "10 days",
+      "distractors": ["5 days", "30 days", "60 days"],
+      "explanation": "In applicable counties (Philadelphia and Allegheny), the seller must record the installment land contract within 10 days of execution. This recording requirement protects the buyer's equitable interest.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["installment contract", "recording", "10 days"]
+    },
+    {
+      "key_topic_ref": "PA-14.2",
+      "question_text": "Are attorneys required to be present at real estate closings in Pennsylvania?",
+      "correct_answer": "No, but they are commonly used in some counties",
+      "distractors": ["Yes, by state law in all transactions", "Yes, for transactions over $250,000", "No, and they are rarely involved"],
+      "explanation": "Pennsylvania does not require an attorney at closing. Title companies conduct most closings. However, attorneys are commonly involved in some counties, and buyers or sellers may choose to retain counsel.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "attorney", "not required"]
+    },
+    {
+      "key_topic_ref": "PA-14.3",
+      "question_text": "Pennsylvania follows which type of recording statute?",
+      "correct_answer": "Race-notice",
+      "distractors": ["Pure race", "Pure notice", "Race only"],
+      "explanation": "Pennsylvania is a race-notice state: a subsequent purchaser who records first AND had no notice of a prior unrecorded conveyance takes priority. Both recording speed and lack of notice matter.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "priority"]
+    },
+    {
+      "key_topic_ref": "PA-14.3",
+      "question_text": "Buyer A purchases property but does not record. Later, Buyer B purchases the same property with no knowledge of Buyer A's deed and records immediately. Under PA law:",
+      "correct_answer": "Buyer B has priority",
+      "distractors": ["Buyer A has priority as first buyer", "Neither buyer has priority", "The seller decides who keeps the property"],
+      "explanation": "Under PA's race-notice statute, Buyer B wins because they recorded first AND had no notice of Buyer A's prior purchase. If Buyer B had known about Buyer A's deed, Buyer A would prevail.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "priority"]
+    },
+    {
+      "key_topic_ref": "PA-14.3",
+      "question_text": "Before a deed can be recorded in Pennsylvania, the grantor must pay:",
+      "correct_answer": "The realty transfer tax",
+      "distractors": ["A recording fee only", "An attorney certification fee", "A title insurance premium"],
+      "explanation": "Pennsylvania requires the realty transfer tax to be paid before the deed can be recorded with the County Recorder of Deeds. This ensures tax collection at the time of property transfer.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "transfer tax", "deed"]
+    },
+    {
+      "key_topic_ref": "PA-14.3",
+      "question_text": "Deeds in Pennsylvania are recorded with the:",
+      "correct_answer": "County Recorder of Deeds",
+      "distractors": ["PA Department of State", "County Clerk of Courts", "PREC registry office"],
+      "explanation": "Pennsylvania deeds are recorded at the County Recorder of Deeds office in the county where the property is located. Each of PA's 67 counties has its own recorder.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "County Recorder", "deeds"]
+    },
+    {
+      "key_topic_ref": "PA-14.3",
+      "question_text": "At a PA settlement, the deed must be:",
+      "correct_answer": "Signed by the seller and notarized",
+      "distractors": ["Signed by both buyer and seller", "Notarized but not signed", "Signed by the broker only"],
+      "explanation": "The deed must be signed by the grantor (seller) and notarized, then delivered to the buyer at settlement. The buyer does not sign the deed — they sign the mortgage document if financing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["settlement", "deed", "notarized"]
+    }
+  ]
+}

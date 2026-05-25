@@ -1,0 +1,173 @@
+{
+  "standard_ref": "TN-12",
+  "scope": "state",
+  "state": "TN",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "TN-12.1",
+      "question_text": "What is Tennessee's position on net listings?",
+      "correct_answer": "Discouraged due to conflicts of interest",
+      "distractors": ["Encouraged as a standard practice", "Required for commercial properties", "Prohibited by state statute"],
+      "explanation": "Net listings are discouraged in Tennessee because they create a conflict of interest — the broker is incentivized to get the lowest possible price for the seller to maximize their own profit.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["net listings", "discouraged", "conflicts"]
+    },
+    {
+      "key_topic_ref": "TN-12.1",
+      "question_text": "What must every Tennessee listing agreement include regarding duration?",
+      "correct_answer": "A definite termination date",
+      "distractors": ["An automatic renewal clause", "A minimum 6-month duration", "A TREC approval stamp"],
+      "explanation": "Listing agreements must have a definite termination date. Open-ended listings are not permitted because they could trap sellers in indefinite arrangements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing agreements", "termination date", "requirement"]
+    },
+    {
+      "key_topic_ref": "TN-12.1",
+      "question_text": "A broker creates a listing agreement that does not specify the compensation arrangement. What is the issue?",
+      "correct_answer": "Compensation terms must be clearly stated",
+      "distractors": ["No issue if the standard rate applies", "Only an issue for exclusive listings", "The MLS will set the compensation"],
+      "explanation": "Listing agreements must clearly state compensation terms. Vague or missing compensation arrangements can lead to disputes and constitute improper listing practices.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["listing agreements", "compensation", "clear terms"]
+    },
+    {
+      "key_topic_ref": "TN-12.1",
+      "question_text": "A listing has no expiration date and the seller wants to cancel after 6 months. What protection should the listing have included?",
+      "correct_answer": "A definite termination date as required by law",
+      "distractors": ["An automatic 90-day renewal clause", "A TREC arbitration provision", "A fixed commission rate guarantee"],
+      "explanation": "Tennessee requires a definite termination date in listing agreements. Without one, the listing is improper and may be unenforceable. This protects sellers from being locked into indefinite agreements.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["listing agreements", "termination date", "protection"]
+    },
+    {
+      "key_topic_ref": "TN-12.1",
+      "question_text": "In a net listing, a broker lists a home for $250,000 net to the seller. The home sells for $310,000. Why is this arrangement problematic?",
+      "correct_answer": "The seller misses out on the $60,000 difference",
+      "distractors": ["The commission exceeds state-mandated limits", "The buyer always pays more than market value", "TREC must pre-approve all net listing amounts"],
+      "explanation": "In a net listing, the seller receives only the agreed net amount ($250,000) while the broker keeps the entire difference ($60,000). The seller may not realize the property's true market value, and the broker has no incentive to share the upside.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["net listings", "conflict of interest", "compensation"]
+    },
+    {
+      "key_topic_ref": "TN-12.2",
+      "question_text": "Which state agency administers Tennessee's fair housing laws?",
+      "correct_answer": "Tennessee Human Rights Commission (THRC)",
+      "distractors": ["Tennessee Real Estate Commission (TREC)", "Tennessee Department of Revenue", "Tennessee Attorney General's office"],
+      "explanation": "The Tennessee Human Rights Commission (THRC) administers the Tennessee Human Rights Act, which provides state fair housing protections. TREC handles licensing, not fair housing enforcement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "THRC", "administration"]
+    },
+    {
+      "key_topic_ref": "TN-12.2",
+      "question_text": "Beyond the seven federal protected classes, Tennessee's Human Rights Act also protects which additional class?",
+      "correct_answer": "Creed",
+      "distractors": ["Sexual orientation", "Marital status", "Source of income"],
+      "explanation": "Tennessee's Human Rights Act adds 'creed' as a protected class beyond the seven federal categories (race, color, religion, national origin, sex, disability, familial status).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "creed", "protected classes"]
+    },
+    {
+      "key_topic_ref": "TN-12.2",
+      "question_text": "An agent steers minority buyers away from certain neighborhoods. Where can a complaint be filed?",
+      "correct_answer": "With THRC or HUD",
+      "distractors": ["Only with the local police department", "Only with TREC", "Only in civil court"],
+      "explanation": "Fair housing complaints can be filed with the Tennessee Human Rights Commission (THRC) or with HUD at the federal level. Additionally, TREC can take disciplinary action against the licensee.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "complaints", "steering"]
+    },
+    {
+      "key_topic_ref": "TN-12.2",
+      "question_text": "A licensee violates the Tennessee Human Rights Act. What can TREC do in addition to any THRC action?",
+      "correct_answer": "Impose disciplinary action including revocation",
+      "distractors": ["Nothing, fair housing is outside TREC authority", "Only issue a written warning letter", "Only require additional CE hours"],
+      "explanation": "Violation of fair housing laws is grounds for TREC disciplinary action, including license revocation. This is in addition to any enforcement by THRC or HUD.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "TREC discipline", "revocation"]
+    },
+    {
+      "key_topic_ref": "TN-12.2",
+      "question_text": "Which discriminatory practice involves telling homeowners that minority families are moving in to induce panic selling?",
+      "correct_answer": "Blockbusting",
+      "distractors": ["Steering", "Redlining", "Predatory lending"],
+      "explanation": "Blockbusting is the illegal practice of inducing panic selling by suggesting that protected class members are moving into an area, leading to declining property values.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["blockbusting", "fair housing", "discrimination"]
+    },
+    {
+      "key_topic_ref": "TN-12.3",
+      "question_text": "Under Tennessee's SB 909 (2025), what must a real estate wholesaler disclose to the seller?",
+      "correct_answer": "Their intent to market or assign the contract",
+      "distractors": ["The identity of the end buyer only", "Their real estate license number", "The expected profit from the assignment"],
+      "explanation": "SB 909 requires wholesalers to disclose to the seller, before signing, their intent to market or assign their interest in the contract. This must be in writing in bold/large print.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wholesaling", "SB 909", "disclosure"]
+    },
+    {
+      "key_topic_ref": "TN-12.3",
+      "question_text": "A wholesaler assigns a purchase contract to an end buyer. How much advance notice must the wholesaler give the seller?",
+      "correct_answer": "At least 3 business days before the assignment",
+      "distractors": ["At least 10 business days before closing", "No advance notice is required", "At least 24 hours before the assignment"],
+      "explanation": "Under SB 909, if a wholesaler assigns the contract, they must notify the seller of the effective date of the assignment at least 3 business days in advance.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["wholesaling", "SB 909", "assignment notice"]
+    },
+    {
+      "key_topic_ref": "TN-12.3",
+      "question_text": "How must wholesaling disclosures be presented under Tennessee's SB 909?",
+      "correct_answer": "In writing, bold/large print, in the contract",
+      "distractors": ["Verbally at the time of contract signing", "In a separate email after the contract", "In any format the wholesaler chooses"],
+      "explanation": "SB 909 requires all disclosures to be in writing, in bold/large-font print, and included in the purchase contract or an addendum. Verbal disclosure does not satisfy the requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wholesaling", "SB 909", "written disclosure"]
+    },
+    {
+      "key_topic_ref": "TN-12.3",
+      "question_text": "What is the statute of limitations for claims under Tennessee's wholesaling disclosure law?",
+      "correct_answer": "Two years from the purchase contract date",
+      "distractors": ["One year from the closing date", "Three years from the assignment date", "Five years from the date of discovery"],
+      "explanation": "SB 909 sets a two-year statute of limitations for claims, measured from the date of the original purchase contract.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wholesaling", "SB 909", "statute of limitations"]
+    },
+    {
+      "key_topic_ref": "TN-12.3",
+      "question_text": "Which of the following is considered prohibited misconduct for Tennessee licensees?",
+      "correct_answer": "Inducing a party to breach an existing contract",
+      "distractors": ["Declining to take an overpriced listing", "Recommending a home inspector to a buyer", "Suggesting the seller get a second opinion"],
+      "explanation": "Inducing breach of contract is specifically prohibited. Licensees must not encourage parties to break existing contractual obligations in order to create a new transaction.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["misconduct", "breach of contract", "prohibited"]
+    }
+  ]
+}

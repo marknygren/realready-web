@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MS-04",
+  "scope": "state",
+  "state": "MS",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "MS-04.1",
+      "question_text": "How many hours of pre-license education does a broker applicant need?",
+      "correct_answer": "120 hours",
+      "distractors": ["60 hours", "90 hours", "150 hours"],
+      "explanation": "A Mississippi broker applicant must complete 120 hours of approved pre-license education. Additionally, the applicant must have at least 12 months of active experience as a licensed salesperson.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "pre-license education", "120 hours"]
+    },
+    {
+      "key_topic_ref": "MS-04.1",
+      "question_text": "A salesperson wants to upgrade to a broker license. How much active salesperson experience is required?",
+      "correct_answer": "12 months",
+      "distractors": ["6 months", "24 months", "36 months"],
+      "explanation": "Mississippi requires a broker applicant to have at least 12 months of active experience as a licensed salesperson before applying for a broker license, in addition to completing 120 hours of pre-license education.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "experience requirement", "salesperson"]
+    },
+    {
+      "key_topic_ref": "MS-04.1",
+      "question_text": "A new licensee completes 20 hours of post-license education in her first year. What happens to her license?",
+      "correct_answer": "Suspended for incomplete hours",
+      "distractors": ["Remains active with a warning", "Revoked permanently", "Extended grace period of 6 months"],
+      "explanation": "New licensees must complete 30 hours of post-license education (24 core + 6 elective) within the first 12 months. Completing only 20 hours means the requirement is unmet, resulting in license suspension.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["post-license", "suspension", "education hours"]
+    },
+    {
+      "key_topic_ref": "MS-04.1",
+      "question_text": "How are the 30 required post-license hours divided?",
+      "correct_answer": "24 core hours and 6 elective hours",
+      "distractors": ["15 core hours and 15 elective hours", "20 core hours and 10 elective hours", "30 hours of elective courses only"],
+      "explanation": "Mississippi requires 30 hours of post-license education within the first 12 months: 24 hours of core curriculum and 6 hours of elective courses. Failure to complete these hours results in license suspension.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["post-license", "core hours", "elective hours"]
+    },
+    {
+      "key_topic_ref": "MS-04.1",
+      "question_text": "A new salesperson obtained her license in January. By when must she finish post-license education?",
+      "correct_answer": "Within 12 months of licensure",
+      "distractors": ["Within 6 months of licensure", "By December 31 of that year", "Within 24 months of licensure"],
+      "explanation": "Post-license education must be completed within the first 12 months of obtaining a license. For a January licensee, this means by the following January. Failure results in suspension.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["post-license", "deadline", "12 months"]
+    },
+    {
+      "key_topic_ref": "MS-04.2",
+      "question_text": "How many total hours of continuing education must a licensee complete each biennium?",
+      "correct_answer": "16 hours",
+      "distractors": ["12 hours", "20 hours", "24 hours"],
+      "explanation": "Mississippi requires 16 hours of continuing education per biennium: 4 hours agency law, 2 hours contract law, 2 hours license law, and 8 hours of electives.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing education", "16 hours", "biennial"]
+    },
+    {
+      "key_topic_ref": "MS-04.2",
+      "question_text": "Of the 16 biennial CE hours, how many must cover agency law?",
+      "correct_answer": "4 hours",
+      "distractors": ["2 hours", "6 hours", "8 hours"],
+      "explanation": "The 16-hour biennial CE requirement includes 4 hours of agency law, 2 hours of contract law, 2 hours of license law, and 8 hours of elective courses.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing education", "agency law", "required hours"]
+    },
+    {
+      "key_topic_ref": "MS-04.2",
+      "question_text": "A 67-year-old broker has held a Mississippi license for 30 years. Is she exempt from continuing education?",
+      "correct_answer": "Yes, she qualifies for exemption",
+      "distractors": ["No, all licensees must complete CE", "Only if she is inactive status", "Only if MREC approves a waiver"],
+      "explanation": "Mississippi provides a senior CE exemption for licensees who are age 65 or older AND have been licensed for 25 or more years. At 67 with 30 years licensed, she meets both criteria.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["CE exemption", "senior", "25 years"]
+    },
+    {
+      "key_topic_ref": "MS-04.2",
+      "question_text": "A 66-year-old licensee has been licensed for 20 years. Does she qualify for the senior CE exemption?",
+      "correct_answer": "No, she needs 25 years licensed",
+      "distractors": ["Yes, age 65 is sufficient", "Yes, 20 years meets the requirement", "No, the minimum age is 70"],
+      "explanation": "The senior CE exemption requires BOTH age 65+ AND 25+ years of licensure. While she meets the age requirement at 66, she has only 20 years of licensure, falling short of the 25-year requirement.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["CE exemption", "senior", "requirements"]
+    },
+    {
+      "key_topic_ref": "MS-04.2",
+      "question_text": "What minimum score must a licensee achieve on CE course exams?",
+      "correct_answer": "70%",
+      "distractors": ["60%", "75%", "80%"],
+      "explanation": "Mississippi requires licensees to score at least 70% on continuing education course exams to receive credit. This ensures licensees actually learn the required material rather than just attending courses.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing education", "passing score", "exam"]
+    },
+    {
+      "key_topic_ref": "MS-04.3",
+      "question_text": "A licensee places her license on inactive status. Can she continue to practice real estate?",
+      "correct_answer": "No, inactive licensees cannot practice",
+      "distractors": ["Yes, with active broker supervision", "Yes, but for existing clients only", "Yes, for 90 days after inactivation"],
+      "explanation": "A licensee with an inactive license cannot engage in any real estate activities that require a license. The license must be reactivated before the licensee can resume practicing.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inactive license", "practice prohibition", "status"]
+    },
+    {
+      "key_topic_ref": "MS-04.3",
+      "question_text": "Under SB 2086, when do updated license fee changes take effect?",
+      "correct_answer": "July 2025",
+      "distractors": ["January 2025", "October 2025", "January 2026"],
+      "explanation": "SB 2086 (2025) updated the fee structure for Mississippi real estate licenses, with the changes becoming effective July 2025. This legislation also addressed exam retake fees and other licensing provisions.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SB 2086", "fees", "effective date"]
+    },
+    {
+      "key_topic_ref": "MS-04.3",
+      "question_text": "Under 2025 rules, how much notice must MREC give before suspending a license?",
+      "correct_answer": "5 business days by email",
+      "distractors": ["10 calendar days by mail", "3 business days by phone", "30 calendar days by mail"],
+      "explanation": "As of 2025, MREC must provide at least 5 business days of email notice before making changes to a licensee's status, including suspension, revocation, or non-renewal.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["2025 rules", "notice", "suspension"]
+    },
+    {
+      "key_topic_ref": "MS-04.3",
+      "question_text": "A licensee's renewal deadline passes without renewal. What is the license status?",
+      "correct_answer": "Inactive or lapsed",
+      "distractors": ["Automatically renewed", "Suspended with a fine", "Revoked permanently"],
+      "explanation": "Failure to renew a license by the deadline results in the license becoming inactive or lapsed. The licensee cannot practice until the license is properly renewed or reactivated through MREC's procedures.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["renewal", "lapsed license", "inactive"]
+    },
+    {
+      "key_topic_ref": "MS-04.3",
+      "question_text": "MREC plans to revoke a licensee's license. Under 2025 rules, what must MREC do first?",
+      "correct_answer": "Send 5-day email notice",
+      "distractors": ["Hold a public hearing first", "Get court approval first", "Notify the licensee's broker only"],
+      "explanation": "Under 2025 rules, MREC must provide at least 5 business days of email notice before making any license status change, including revocation. This requirement applies to suspension, revocation, and non-renewal actions.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["2025 rules", "revocation", "notice"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MI-10",
+  "scope": "state",
+  "state": "MI",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "MI-10.1",
+      "question_text": "A Michigan agent receives an offer on a listed property but believes it is too low. The seller has not given written instructions to reject low offers. What must the agent do?",
+      "correct_answer": "Present the offer to the seller",
+      "distractors": ["Reject the offer on the seller's behalf", "Wait for a better offer before presenting", "Counter the offer without consulting seller"],
+      "explanation": "Michigan law requires agents to present all offers to the seller unless the seller has given written instructions otherwise. The agent cannot screen or reject offers based on personal judgment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["offer-presentation", "seller-obligations"]
+    },
+    {
+      "key_topic_ref": "MI-10.1",
+      "question_text": "A seller tells her agent verbally to stop presenting offers under $300,000. Is this instruction sufficient?",
+      "correct_answer": "No, the instruction must be in writing",
+      "distractors": ["Yes, verbal instructions are acceptable", "Yes, if witnessed by another agent", "Only if confirmed by email within 24 hours"],
+      "explanation": "In Michigan, a seller's instruction to reject certain offers must be given in writing. Without written instructions, the agent must present all offers received.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["offer-presentation", "written-instructions"]
+    },
+    {
+      "key_topic_ref": "MI-10.1",
+      "question_text": "After a purchase agreement is signed in Michigan, when must copies be provided to all parties?",
+      "correct_answer": "Promptly after execution",
+      "distractors": ["Within 30 business days", "At the closing only", "Within 10 calendar days"],
+      "explanation": "Michigan law requires that copies of all executed agreements be provided to all parties promptly. Delaying distribution of signed documents is a violation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contract-copies", "prompt-delivery"]
+    },
+    {
+      "key_topic_ref": "MI-10.1",
+      "question_text": "A Michigan agent changes a term in a signed purchase agreement without the consent of all parties. What is the legal consequence?",
+      "correct_answer": "This is an unauthorized alteration violation",
+      "distractors": ["It is valid if the agent has power of attorney", "It is acceptable for minor corrections", "It only matters if the change is material"],
+      "explanation": "Michigan prohibits unauthorized alterations to signed agreements. Any changes to contract terms require the knowledge and consent of all parties involved.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contract-alteration", "unauthorized-changes"]
+    },
+    {
+      "key_topic_ref": "MI-10.1",
+      "question_text": "Which statement about real estate agreements in Michigan is correct?",
+      "correct_answer": "All agreements must be in writing",
+      "distractors": ["Oral agreements under $25,000 are valid", "Only listing agreements require writing", "Purchase agreements can be oral if witnessed"],
+      "explanation": "Michigan requires all real estate agreements to be in writing to be enforceable, consistent with the statute of frauds. This includes listing agreements, purchase agreements, and buyer broker agreements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["written-agreements", "statute-of-frauds"]
+    },
+    {
+      "key_topic_ref": "MI-10.2",
+      "question_text": "A Michigan closing agent discovers the settlement statement lists an incorrect property tax proration. What is the agent's obligation?",
+      "correct_answer": "Correct it before closing proceeds",
+      "distractors": ["Proceed and adjust after closing", "Note it but close as scheduled", "Refer the issue to the title company only"],
+      "explanation": "Closing agents must ensure settlement statement accuracy. Errors in prorations, credits, or charges must be corrected before the closing proceeds to protect all parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["closing", "settlement-statement", "accuracy"]
+    },
+    {
+      "key_topic_ref": "MI-10.2",
+      "question_text": "At a Michigan closing, the combined county and state transfer tax on a $250,000 sale would total what amount?",
+      "correct_answer": "$2,150",
+      "distractors": ["$1,875", "$2,500", "$1,650"],
+      "explanation": "Michigan transfer tax is $8.60 per $1,000 of value ($1.10 county + $7.50 state). On a $250,000 sale: 250 x $8.60 = $2,150. Agents must verify transfer tax calculations at closing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "closing", "calculation"]
+    },
+    {
+      "key_topic_ref": "MI-10.2",
+      "question_text": "At a Michigan residential closing, the buyer's agent notices the transfer tax was calculated incorrectly on the settlement statement. What should happen?",
+      "correct_answer": "The error must be corrected before closing",
+      "distractors": ["The buyer pays the difference after closing", "Transfer tax is the title company's issue", "It can be adjusted on a future tax return"],
+      "explanation": "Accurate documentation at closing is required, including correct calculation of transfer taxes. Errors must be identified and corrected before the transaction closes.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "closing", "settlement-accuracy"]
+    },
+    {
+      "key_topic_ref": "MI-10.2",
+      "question_text": "Who is responsible for ensuring the deed is properly recorded after a Michigan real estate closing?",
+      "correct_answer": "The closing agent or designated party",
+      "distractors": ["The buyer is exclusively responsible", "The seller's attorney handles recording", "The county assessor records all deeds"],
+      "explanation": "Recording the deed is a closing responsibility typically handled by the closing agent or the party designated in the closing instructions. Proper recording protects the buyer's ownership interest.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "deed", "closing-responsibilities"]
+    },
+    {
+      "key_topic_ref": "MI-10.2",
+      "question_text": "A Michigan listing agent attends closing and notices the settlement statement credits the seller for prepaid property taxes the seller has not yet paid. What should the agent do?",
+      "correct_answer": "Flag the error for correction before closing",
+      "distractors": ["Ignore it since taxes are the buyer's issue", "Wait and report it after the closing date", "Only mention it if the buyer's agent notices"],
+      "explanation": "Michigan licensees have a duty to ensure closing documents are accurate. If a proration error is discovered, it must be corrected before the transaction closes to protect all parties.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["closing", "proration", "settlement-accuracy"]
+    },
+    {
+      "key_topic_ref": "MI-10.3",
+      "question_text": "A buyer asks a Michigan agent whether anyone died in the home they are considering. A suicide occurred there two years ago. What must the agent disclose?",
+      "correct_answer": "Nothing; no disclosure duty for suicide",
+      "distractors": ["The suicide must be disclosed in writing", "Only if the buyer asks directly", "The agent must disclose all deaths"],
+      "explanation": "Michigan law provides statutory protection for agents regarding stigmatized property. There is no duty to disclose that a suicide, homicide, or other felony occurred on the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["stigmatized-property", "suicide", "disclosure"]
+    },
+    {
+      "key_topic_ref": "MI-10.3",
+      "question_text": "A Michigan agent knows the previous owner of a listed property had HIV/AIDS. Must the agent disclose this to prospective buyers?",
+      "correct_answer": "No, HIV/AIDS status is not disclosable",
+      "distractors": ["Yes, it is a material health fact", "Only if the buyer has a medical condition", "Only if asked directly by the buyer"],
+      "explanation": "Michigan law explicitly protects agents from liability for not disclosing that a previous occupant had HIV/AIDS. This falls under the stigmatized property protections.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["stigmatized-property", "HIV-AIDS", "disclosure"]
+    },
+    {
+      "key_topic_ref": "MI-10.3",
+      "question_text": "A buyer sues a Michigan agent for failing to disclose a homicide that occurred in the home. What is the likely outcome?",
+      "correct_answer": "The agent has statutory protection from liability",
+      "distractors": ["The agent will be found liable for damages", "The agent must pay the buyer actual damages", "The broker loses their real estate license"],
+      "explanation": "Michigan provides statutory protection for agents who do not disclose stigmatizing events such as homicide, suicide, other felonies, or HIV/AIDS. The agent cannot be held liable for non-disclosure of these events.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["stigmatized-property", "homicide", "liability-protection"]
+    },
+    {
+      "key_topic_ref": "MI-10.3",
+      "question_text": "Which of the following events is a Michigan agent required to disclose about a listed property?",
+      "correct_answer": "A known foundation defect",
+      "distractors": ["A prior occupant's felony conviction", "A suicide in the home", "A previous owner with HIV"],
+      "explanation": "Physical defects like foundation problems are material facts that must be disclosed. Stigmatized events such as felonies, suicides, homicides, and HIV/AIDS are protected from mandatory disclosure under Michigan law.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["stigmatized-property", "material-facts", "disclosure"]
+    },
+    {
+      "key_topic_ref": "MI-10.3",
+      "question_text": "Michigan's stigmatized property protections cover which of the following categories?",
+      "correct_answer": "Homicide, suicide, felony, and HIV/AIDS",
+      "distractors": ["Only homicide and suicide", "Only HIV/AIDS and violent crimes", "All prior criminal activity on the property"],
+      "explanation": "Michigan's stigmatized property law provides protection from disclosure for homicide, suicide, other felonies, and HIV/AIDS status of previous occupants. Agents cannot be held liable for not disclosing these facts.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["stigmatized-property", "protected-categories"]
+    }
+  ]
+}

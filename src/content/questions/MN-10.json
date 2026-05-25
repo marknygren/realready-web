@@ -1,0 +1,233 @@
+{
+  "standard_ref": "MN-10",
+  "scope": "state",
+  "state": "MN",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "MN-10.1",
+      "question_text": "Which protected class is covered under the Minnesota Human Rights Act but NOT under federal fair housing law?",
+      "correct_answer": "Sexual orientation and gender identity",
+      "distractors": [
+        "Race, color, and national origin",
+        "Religion, creed, and religious denomination",
+        "Physical disability and familial status"
+      ],
+      "explanation": "The Minnesota Human Rights Act extends beyond federal protections to include sexual orientation (including gender identity), marital status, and status with regard to public assistance. Race, national origin, religion, color, disability, and familial status are covered under both federal and state law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MHRA", "protected_classes", "fair_housing"]
+    },
+    {
+      "key_topic_ref": "MN-10.1",
+      "question_text": "A landlord refuses to rent to a tenant because the tenant receives Section 8 housing vouchers. Under Minnesota law, this refusal is:",
+      "correct_answer": "Illegal discrimination based on public assistance",
+      "distractors": [
+        "Legal because vouchers are not guaranteed income",
+        "Permitted if the landlord has fewer than 4 units",
+        "Allowed with 30 days written notice to tenant"
+      ],
+      "explanation": "Minnesota protects status with regard to public assistance as a class under the Human Rights Act. Refusing to rent to Section 8 voucher holders constitutes source-of-income discrimination, which is prohibited in many Minnesota jurisdictions regardless of property size.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MHRA", "public_assistance", "Section_8", "discrimination"]
+    },
+    {
+      "key_topic_ref": "MN-10.1",
+      "question_text": "A property manager asks applicants about their marital status to determine lease eligibility. Under Minnesota law, this practice is:",
+      "correct_answer": "Prohibited as marital status discrimination",
+      "distractors": [
+        "Required for accurate lease documentation",
+        "Permitted if applied to all applicants equally",
+        "Legal for properties with shared common areas"
+      ],
+      "explanation": "Marital status is a protected class under the Minnesota Human Rights Act. Using marital status as a factor in rental decisions is illegal discrimination, even if the question is asked of all applicants uniformly.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MHRA", "marital_status", "discrimination", "rental"]
+    },
+    {
+      "key_topic_ref": "MN-10.1",
+      "question_text": "Minnesota's fair housing protections differ from federal law in that Minnesota covers:",
+      "correct_answer": "Status regarding public assistance",
+      "distractors": [
+        "National origin and ancestry",
+        "Physical and mental disability",
+        "Families with children under 18"
+      ],
+      "explanation": "Status with regard to public assistance (source of income) is a uniquely Minnesota-protected class not found in federal fair housing law. National origin, disability, and familial status are all protected under both federal and Minnesota law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MHRA", "public_assistance", "protected_classes"]
+    },
+    {
+      "key_topic_ref": "MN-10.1",
+      "question_text": "A landlord refuses to rent to a prospective tenant who previously filed a fair housing complaint against a different landlord. Under Minnesota law, this refusal is:",
+      "correct_answer": "Illegal retaliation under the Human Rights Act",
+      "distractors": [
+        "Legal because the complaint involved someone else",
+        "Permitted if the landlord has a legitimate concern",
+        "Allowed if the tenant's complaint was dismissed"
+      ],
+      "explanation": "The Minnesota Human Rights Act prohibits retaliation against anyone who has filed a complaint, testified, or participated in proceedings under the act. Refusing to rent because a person previously filed a fair housing complaint constitutes illegal reprisal, regardless of the outcome of that complaint.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["MHRA", "retaliation", "reprisal", "fair_housing"]
+    },
+    {
+      "key_topic_ref": "MN-10.2",
+      "question_text": "An owner-occupied duplex owner in Minnesota refuses to rent the other unit to a person of a different race. Under Minnesota law, this refusal is:",
+      "correct_answer": "Illegal because no exemption exists for race",
+      "distractors": [
+        "Legal under the Mrs. Murphy exemption",
+        "Permitted for owner-occupied properties under 4 units",
+        "Allowed if no real estate agent is involved"
+      ],
+      "explanation": "Minnesota does not provide a Mrs. Murphy exemption for discrimination based on race, color, or national origin. Even in owner-occupied properties, refusing to rent based on these protected classes violates the Minnesota Human Rights Act.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MHRA", "Mrs_Murphy", "race", "owner_occupied"]
+    },
+    {
+      "key_topic_ref": "MN-10.2",
+      "question_text": "The Minnesota Human Rights Act covers discrimination in which activities?",
+      "correct_answer": "Sale, rental, financing, and advertising",
+      "distractors": [
+        "Only residential sales and rentals",
+        "Commercial property sales exclusively",
+        "Rental transactions over 12 months only"
+      ],
+      "explanation": "The MHRA broadly covers discrimination in the sale, rental, financing, and advertising of housing. It is not limited to residential-only transactions or to leases of specific durations. The coverage extends across all housing-related activities.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MHRA", "coverage", "housing_activities"]
+    },
+    {
+      "key_topic_ref": "MN-10.2",
+      "question_text": "A landlord with an owner-occupied fourplex refuses to rent to a family with children, citing noise concerns. In Minnesota, this action is:",
+      "correct_answer": "Illegal familial status discrimination",
+      "distractors": [
+        "Legal for owner-occupied properties of any size",
+        "Permitted if the landlord provides written notice",
+        "Allowed when other units have child tenants"
+      ],
+      "explanation": "Minnesota provides broader familial status protections than federal law. Refusing to rent based on the presence of children constitutes illegal discrimination under the MHRA, even in owner-occupied properties. Noise concerns do not justify familial status discrimination.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MHRA", "familial_status", "owner_occupied", "discrimination"]
+    },
+    {
+      "key_topic_ref": "MN-10.2",
+      "question_text": "An advertisement for a rental unit states 'No government housing programs accepted.' Under Minnesota law, this ad is most likely:",
+      "correct_answer": "Discriminatory based on source of income",
+      "distractors": [
+        "Acceptable as a legitimate business preference",
+        "Legal if the property is owner-occupied",
+        "Permitted for units renting above market rate"
+      ],
+      "explanation": "Advertising that excludes tenants using government housing assistance programs violates Minnesota's protection against discrimination based on status with regard to public assistance. This applies regardless of whether the property is owner-occupied or priced above market rate.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["MHRA", "advertising", "public_assistance", "source_of_income"]
+    },
+    {
+      "key_topic_ref": "MN-10.2",
+      "question_text": "How does Minnesota's treatment of owner-occupied housing discrimination differ from the federal Mrs. Murphy exemption?",
+      "correct_answer": "No exemption applies for race, color, or origin",
+      "distractors": [
+        "Minnesota eliminates all housing exemptions entirely",
+        "Federal law provides broader owner protections",
+        "Both laws treat owner-occupied units identically"
+      ],
+      "explanation": "While the federal Mrs. Murphy exemption allows some owner-occupied housing discrimination, Minnesota removes that exemption for race, color, and national origin. The state does not eliminate all exemptions, but it significantly narrows them for these specific classes.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["MHRA", "Mrs_Murphy", "federal_comparison", "exemptions"]
+    },
+    {
+      "key_topic_ref": "MN-10.3",
+      "question_text": "A person believes they experienced housing discrimination in Minnesota. They must file a complaint with the Department of Human Rights within:",
+      "correct_answer": "One year of the alleged violation",
+      "distractors": [
+        "180 days of the alleged violation",
+        "Two years of the alleged violation",
+        "30 days of the alleged violation"
+      ],
+      "explanation": "Complaints of housing discrimination must be filed with the Minnesota Department of Human Rights within one year of the alleged discriminatory act. The 180-day deadline applies to federal complaints filed with HUD, not Minnesota state complaints.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MHRA", "complaint", "deadline", "enforcement"]
+    },
+    {
+      "key_topic_ref": "MN-10.3",
+      "question_text": "After a housing discrimination complaint is filed in Minnesota, the Department of Human Rights investigates and may refer the case to:",
+      "correct_answer": "An administrative law judge for hearing",
+      "distractors": [
+        "The state supreme court directly",
+        "A local real estate arbitration board",
+        "The Governor's housing advisory panel"
+      ],
+      "explanation": "The Minnesota Department of Human Rights investigates complaints and, if probable cause is found, refers cases to an administrative law judge (ALJ) for hearing. Cases do not go directly to the supreme court, arbitration boards, or advisory panels.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MHRA", "enforcement", "ALJ", "hearing"]
+    },
+    {
+      "key_topic_ref": "MN-10.3",
+      "question_text": "A tenant wins a housing discrimination case before an ALJ in Minnesota. Which remedy is available?",
+      "correct_answer": "Actual damages plus attorney fees",
+      "distractors": [
+        "Criminal imprisonment of the landlord",
+        "Automatic ownership transfer of the property",
+        "Treble damages without proof of harm"
+      ],
+      "explanation": "Remedies in Minnesota housing discrimination cases include actual damages, injunctive relief, civil penalties, and attorney fees. Criminal imprisonment, property transfer, and automatic treble damages are not available remedies under the MHRA.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MHRA", "remedies", "damages", "attorney_fees"]
+    },
+    {
+      "key_topic_ref": "MN-10.3",
+      "question_text": "Instead of filing with the Department of Human Rights, a discrimination victim in Minnesota may alternatively pursue:",
+      "correct_answer": "A private lawsuit in district court",
+      "distractors": [
+        "Binding arbitration through the MLS",
+        "A complaint with the county sheriff's office",
+        "Federal tax court proceedings only"
+      ],
+      "explanation": "Minnesota allows victims of housing discrimination to file a private lawsuit in district court as an alternative to the administrative process through the Department of Human Rights. MLS arbitration, sheriff complaints, and tax court are not appropriate forums for discrimination claims.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MHRA", "private_lawsuit", "district_court", "enforcement"]
+    },
+    {
+      "key_topic_ref": "MN-10.3",
+      "question_text": "A landlord found liable for housing discrimination in Minnesota may face injunctive relief. This means a court can:",
+      "correct_answer": "Order specific actions or prohibit future conduct",
+      "distractors": [
+        "Only impose monetary fines up to $500",
+        "Require the landlord to sell the property",
+        "Suspend the landlord's driver's license"
+      ],
+      "explanation": "Injunctive relief allows a court to order a landlord to take specific actions (such as renting to the complainant) or prohibit future discriminatory conduct. It goes beyond monetary penalties and addresses behavior directly, though it does not typically require property sale or affect unrelated licenses.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["MHRA", "injunctive_relief", "remedies", "enforcement"]
+    }
+  ]
+}

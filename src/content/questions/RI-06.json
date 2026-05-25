@@ -1,0 +1,118 @@
+{
+  "standard_ref": "RI-06",
+  "scope": "state",
+  "state": "RI",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "RI-06.1",
+      "question_text": "Where must a Rhode Island brokerage maintain its escrow account?",
+      "correct_answer": "A federally insured bank in Rhode Island",
+      "distractors": ["Any bank located in the United States", "The Rhode Island state treasurer's office", "A nationally chartered bank in any state"],
+      "explanation": "Rhode Island requires each firm to maintain a separate escrow account at a federally insured institution located within Rhode Island. Out-of-state banks are not permitted for escrow accounts.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow-account", "bank-requirements", "RI-specific"]
+    },
+    {
+      "key_topic_ref": "RI-06.1",
+      "question_text": "How must a Rhode Island brokerage's escrow account be identified on bank records?",
+      "correct_answer": "Labeled Trust Account or Escrow Account",
+      "distractors": ["Listed under the broker's full personal name only", "Marked as an operating account for the full firm", "Identified only by the assigned bank account number"],
+      "explanation": "Rhode Island requires the escrow account to be designated as 'Trust Account' or 'Escrow Account' on bank records, deposit tickets, checks, and statements. This ensures clear identification of client funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow-account", "designation", "bank-records"]
+    },
+    {
+      "key_topic_ref": "RI-06.1",
+      "question_text": "A buyer and seller execute a purchase and sales agreement that includes a $10,000 earnest money deposit. When must the broker deposit these funds?",
+      "correct_answer": "Promptly after agreement execution",
+      "distractors": ["Within 30 business days of the signing", "Only after the inspection period ends", "At the time of closing or settlement"],
+      "explanation": "Rhode Island requires funds to be deposited promptly after execution of the purchase and sales agreement. Holding deposits for extended periods violates escrow requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["escrow-deposit", "timing", "prompt-deposit"]
+    },
+    {
+      "key_topic_ref": "RI-06.1",
+      "question_text": "A broker opens a second office location. What escrow arrangement is required?",
+      "correct_answer": "Each firm must have a separate escrow account",
+      "distractors": ["The main office account covers all branches", "Branch offices do not handle funds", "A new broker license replaces the need"],
+      "explanation": "Rhode Island requires each firm to maintain a separate escrow account at a federally insured institution in Rhode Island. The account must be properly designated and maintained with records kept for at least 3 years.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["escrow-account", "branch-office", "separate-account"]
+    },
+    {
+      "key_topic_ref": "RI-06.1",
+      "question_text": "An auditor reviews a Rhode Island brokerage's escrow account and finds that deposit tickets do not identify the account as a trust or escrow account. What violation exists?",
+      "correct_answer": "Improper escrow account designation",
+      "distractors": ["No violation if the bank knows internally", "Only statements need the designation", "This is a bank error, not a broker violation"],
+      "explanation": "Rhode Island requires the Trust Account or Escrow Account designation to appear on bank records, deposit tickets, checks, and statements. Missing the designation on any of these items is a violation by the broker.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["escrow-account", "designation", "audit-violation"]
+    },
+    {
+      "key_topic_ref": "RI-06.2",
+      "question_text": "What does commingling mean in Rhode Island real estate practice?",
+      "correct_answer": "Mixing client funds with broker's own money",
+      "distractors": ["Depositing funds from two different clients together", "Using multiple escrow accounts for one brokerage", "Holding client funds in a savings account type"],
+      "explanation": "Commingling is the prohibited practice of mixing client funds with the broker's personal or operating funds. Client escrow funds must remain separate from the broker's own money at all times.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "prohibited", "client-funds"]
+    },
+    {
+      "key_topic_ref": "RI-06.2",
+      "question_text": "A Rhode Island broker keeps $50 of personal funds in the escrow account to cover monthly bank service charges. Is this permitted?",
+      "correct_answer": "Yes, nominal amounts for bank charges are fine",
+      "distractors": ["No, any personal funds are strictly prohibited", "Only if the amount kept exceeds $100 per month", "Yes, up to $500 of personal funds is permitted"],
+      "explanation": "Rhode Island allows a broker to maintain nominal amounts of their own funds in the escrow account for account continuity or to cover bank service charges. This is the limited exception to the commingling prohibition.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "exception", "bank-charges"]
+    },
+    {
+      "key_topic_ref": "RI-06.2",
+      "question_text": "A transaction falls through and both the buyer and seller claim the $15,000 earnest money deposit. By when must the principal broker deposit the disputed funds with the General Treasurer?",
+      "correct_answer": "No later than 180 days from original deposit",
+      "distractors": ["Within 30 days of the dispute being filed", "Within 90 days of the dispute being raised", "No later than 365 days from the original deposit"],
+      "explanation": "When an earnest money deposit is disputed, the Rhode Island principal broker must deposit the funds with the General Treasurer no later than 180 days from the original deposit date. This prevents indefinite holding of disputed funds.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disputed-deposit", "general-treasurer", "180-days"]
+    },
+    {
+      "key_topic_ref": "RI-06.2",
+      "question_text": "A broker intentionally takes $5,000 from a client's escrow funds for personal use. What is this classified as under Rhode Island law?",
+      "correct_answer": "Unlawful appropriation",
+      "distractors": ["A minor bookkeeping error", "Commingling only", "A civil matter between broker and client"],
+      "explanation": "Intentional appropriation of client escrow funds is classified as unlawful appropriation in Rhode Island. This is a serious offense that goes beyond commingling and carries severe penalties including potential criminal charges.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["unlawful-appropriation", "escrow-theft", "serious-offense"]
+    },
+    {
+      "key_topic_ref": "RI-06.2",
+      "question_text": "A broker deposits a $2,000 commission check into the escrow account instead of the operating account. What violation has occurred?",
+      "correct_answer": "Commingling broker funds with client funds",
+      "distractors": ["No violation if corrected within 24 hours", "Only a violation if the amount exceeds $5,000", "An accounting error with no regulatory consequence"],
+      "explanation": "Depositing the broker's commission into the escrow account mixes the broker's personal funds with client funds, which constitutes commingling. Only nominal amounts for bank charges or account continuity are permitted.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commingling", "commission", "escrow-violation"]
+    }
+  ]
+}

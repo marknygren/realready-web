@@ -1,0 +1,306 @@
+{
+  "standard_ref": "CA-12",
+  "scope": "state",
+  "state": "CA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CA-12.1",
+      "question_text": "A California buyer and seller negotiate a contract on a non-CAR form drafted by the buyer's attorney. Is this contract enforceable?",
+      "correct_answer": "Yes, CAR forms are the industry standard but not legally mandated",
+      "distractors": [
+        "No, only CAR forms are legally valid in California residential sales",
+        "No, DRE regulations require use of approved forms for all transactions",
+        "Yes, but only if both parties are represented by attorneys"
+      ],
+      "explanation": "Unlike Texas (where TREC forms are mandatory), California does not legally require use of CAR forms. The CAR Residential Purchase Agreement is the industry standard, but parties may use other written contracts that satisfy the Statute of Frauds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "CAR-forms",
+        "RPA",
+        "Statute-of-Frauds",
+        "contract-validity"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.1",
+      "question_text": "A buyer and seller reach a verbal agreement on price, closing date, and terms. The seller later backs out. Can the buyer enforce the agreement?",
+      "correct_answer": "No, real estate contracts must be in writing under the Statute of Frauds",
+      "distractors": [
+        "Yes, verbal agreements are binding if witnessed by the agents",
+        "Yes, if the buyer can prove the agreement with text messages",
+        "No, but only if the purchase price exceeds $500"
+      ],
+      "explanation": "The California Statute of Frauds requires real estate contracts to be in writing to be enforceable. A verbal agreement, regardless of witnesses or subsequent communications, cannot typically be enforced to convey real property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Statute-of-Frauds",
+        "written-contract",
+        "contract-enforceability"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.1",
+      "question_text": "A buyer and seller execute the CAR RPA electronically using DocuSign. Are the electronic signatures valid in California?",
+      "correct_answer": "Yes, California UETA allows electronic signatures on real estate contracts",
+      "distractors": [
+        "No, real estate contracts require original wet signatures",
+        "Yes, but only if both parties use the same electronic signature platform",
+        "No, unless the contract is also notarized electronically"
+      ],
+      "explanation": "California adopted the Uniform Electronic Transactions Act (UETA), which makes electronic signatures legally valid and equivalent to handwritten signatures on real estate contracts.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "electronic-signatures",
+        "UETA",
+        "CAR-forms",
+        "contract-validity"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.1",
+      "question_text": "A CAR RPA contains a 'time is of the essence' provision. The seller misses the agreed move-out date by 2 days. What is the likely consequence?",
+      "correct_answer": "The seller may be in breach because all deadlines are strictly enforced",
+      "distractors": [
+        "No consequence; minor delays are not material breaches",
+        "The buyer must give a 10-day cure period before claiming breach",
+        "The provision only applies to the buyer's loan and inspection deadlines"
+      ],
+      "explanation": "A 'time is of the essence' clause makes all stated deadlines material terms. Missing a deadline by even a short time can constitute a breach of contract, though the non-breaching party still has remedies choices to make.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "time-is-of-the-essence",
+        "RPA",
+        "contract-breach",
+        "deadlines"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.1",
+      "question_text": "A buyer deposits 2.5% of the purchase price as earnest money. Both parties initial the liquidated damages clause in the CAR RPA. If the buyer defaults, the seller's remedy is:",
+      "correct_answer": "The deposited funds as liquidated damages, which is the seller's exclusive remedy",
+      "distractors": [
+        "The full deposit plus any additional proven damages",
+        "Only 1% of the purchase price regardless of the deposit amount",
+        "The deposit plus carrying costs until a new buyer is found"
+      ],
+      "explanation": "When both parties separately initial the liquidated damages clause and the deposit is 3% or less of the purchase price, the deposit becomes the seller's sole remedy for buyer default. The seller cannot sue for additional damages.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "liquidated-damages",
+        "earnest-money",
+        "buyer-default",
+        "RPA"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.2",
+      "question_text": "A buyer's earnest money deposit is 4% of the purchase price and the liquidated damages clause is initialed by both parties. If the buyer defaults, the seller may:",
+      "correct_answer": "Keep only up to 3% as liquidated damages; the excess may be challenged",
+      "distractors": [
+        "Keep the entire 4% deposit as liquidated damages",
+        "Sue for specific performance but not keep the deposit",
+        "Keep only the actual proven damages, not the full deposit"
+      ],
+      "explanation": "California law provides a safe harbor for liquidated damages clauses when the deposit is 3% or less of the purchase price. Deposits above 3%, even if initialed, are not automatically enforceable as liquidated damages and may be subject to a reasonableness challenge.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "liquidated-damages",
+        "3-percent-threshold",
+        "buyer-default",
+        "RPA"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.2",
+      "question_text": "A buyer has a loan contingency with a 21-day removal deadline. The buyer has not removed contingencies and the seller issues a Notice to Buyer to Perform. The buyer has how long to respond?",
+      "correct_answer": "2 days",
+      "distractors": [
+        "24 hours",
+        "5 days",
+        "The same number of days as the original contingency period"
+      ],
+      "explanation": "Under the CAR RPA, when the seller issues a Notice to Buyer to Perform (NBP), the buyer has 2 days to remove the relevant contingency or perform the required action. Failure to respond allows the seller to cancel.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "contingencies",
+        "Notice-to-Perform",
+        "loan-contingency",
+        "RPA"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.2",
+      "question_text": "Under the CAR RPA, can a contingency be removed by the buyer simply letting the deadline pass?",
+      "correct_answer": "No, active removal by the buyer is required",
+      "distractors": [
+        "Yes, expired contingencies are automatically removed",
+        "Yes, if the seller has not objected in writing",
+        "No, only the court can remove contingencies after deadlines pass"
+      ],
+      "explanation": "The CAR RPA requires active contingency removal. A buyer must affirmatively sign and deliver a contingency removal form. Contingencies do not automatically disappear when deadlines pass — that is why sellers use the Notice to Buyer to Perform.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "contingencies",
+        "active-removal",
+        "RPA",
+        "contract-process"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.2",
+      "question_text": "A buyer wants to include a contingency for the sale of their current home. After 21 days, the home has not sold. The seller issues a Notice to Buyer to Perform. The buyer removes the sale contingency. What risk does the buyer now face?",
+      "correct_answer": "The buyer may lose the deposit if the purchase falls through without the sale contingency",
+      "distractors": [
+        "None; removing the contingency has no financial consequence",
+        "The buyer must immediately list their home or face breach",
+        "The seller may demand the buyer sell within 30 additional days"
+      ],
+      "explanation": "By removing the sale contingency, the buyer is agreeing to proceed regardless of whether their home sells. If the buyer cannot close due to the failure to sell their existing home, they may forfeit the deposit as a buyer default.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "contingencies",
+        "sale-contingency",
+        "buyer-risk",
+        "earnest-money"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.2",
+      "question_text": "A California listing agreement does not include an expiration date. What is the consequence for the listing broker?",
+      "correct_answer": "The broker may face DRE discipline under Business and Professions Code §10176",
+      "distractors": [
+        "The listing is valid indefinitely until either party terminates",
+        "The listing is voidable by the seller at any time",
+        "The listing automatically expires after 90 days by operation of law"
+      ],
+      "explanation": "California law requires all listing agreements to have a definite termination date. A listing without an expiration date violates Business and Professions Code §10176 and can subject the broker to DRE disciplinary action.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "listing-agreement",
+        "termination-date",
+        "DRE",
+        "Section-10176"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.3",
+      "question_text": "A seller signs an exclusive agency listing. The seller later finds a buyer on their own without agent involvement. Is the broker owed a commission?",
+      "correct_answer": "No, under exclusive agency the seller retains the right to sell without paying commission",
+      "distractors": [
+        "Yes, exclusive right to sell means the broker earns commission on all sales",
+        "Yes, but only if the broker introduced the buyer at any prior point",
+        "No, unless the broker has already spent marketing expenses"
+      ],
+      "explanation": "Under an exclusive agency listing, the broker earns commission only if the broker or another agent procures the buyer. The seller retains the right to sell the property themselves without owing a commission.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "listing-agreement",
+        "exclusive-agency",
+        "commission",
+        "seller-rights"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.3",
+      "question_text": "A California broker accepts a net listing where the broker keeps everything above $750,000. The home sells for $900,000. The net listing is:",
+      "correct_answer": "Legal but discouraged; the broker must disclose the arrangement",
+      "distractors": [
+        "Illegal under California law",
+        "Illegal unless approved in advance by the DRE",
+        "Legal only if both seller and broker initial a conflict-of-interest waiver"
+      ],
+      "explanation": "Net listings are legal in California but strongly discouraged. The broker must disclose the arrangement fully, including the final sales price and their profit, because of the inherent conflict of interest between the broker's and seller's financial interests.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "listing-agreement",
+        "net-listing",
+        "conflict-of-interest",
+        "broker-duties"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.3",
+      "question_text": "A buyer's agent works under a buyer broker agreement. During the transaction, the listing agent offers a co-op commission higher than what the buyer's agent agreed to accept. What should the buyer's agent do with the excess?",
+      "correct_answer": "Credit the excess to the buyer or disclose and address it per the agreement",
+      "distractors": [
+        "Keep the excess as a bonus for superior service",
+        "Split the excess equally with the listing broker",
+        "Donate the excess to an escrow reserve fund"
+      ],
+      "explanation": "A buyer broker agreement establishes the agreed compensation. Receiving more than the agreed-upon amount creates a conflict of interest. The agent must disclose the overage and typically must credit it to the buyer or handle it as the agreement specifies.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "buyer-broker-agreement",
+        "commission",
+        "disclosure",
+        "conflict-of-interest"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.3",
+      "question_text": "Which type of listing gives the broker the most protection, ensuring commission is earned if the property sells to anyone during the listing period?",
+      "correct_answer": "Exclusive right to sell listing",
+      "distractors": [
+        "Open listing",
+        "Exclusive agency listing",
+        "Net listing"
+      ],
+      "explanation": "An exclusive right to sell listing gives the broker the right to a commission regardless of who sells the property — the broker, another agent, or even the seller personally — during the listing period. It is the strongest form of listing protection for the broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "listing-agreement",
+        "exclusive-right-to-sell",
+        "commission"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-12.3",
+      "question_text": "Three buyers each submit offers on a property at the same time, and the seller accepts all three verbally before signing any contract. What is the legal effect?",
+      "correct_answer": "No enforceable contract exists because none is in writing",
+      "distractors": [
+        "All three buyers have valid enforceable contracts",
+        "The first verbal offer accepted becomes the binding contract",
+        "The highest offer becomes the binding contract by operation of law"
+      ],
+      "explanation": "Under the Statute of Frauds, real estate contracts must be in writing to be enforceable. Verbal acceptances of multiple offers create no binding obligation. Until a written contract is signed, no enforceable agreement exists.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Statute-of-Frauds",
+        "written-contract",
+        "multiple-offers",
+        "contract-formation"
+      ]
+    }
+  ]
+}

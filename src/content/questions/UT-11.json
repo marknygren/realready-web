@@ -1,0 +1,173 @@
+{
+  "standard_ref": "UT-11",
+  "scope": "state",
+  "state": "UT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "UT-11.1",
+      "question_text": "Who is responsible for the safekeeping of earnest money in a Utah transaction?",
+      "correct_answer": "The principal broker",
+      "distractors": ["The sales agent who collected it", "The title company at all times", "The buyer until closing"],
+      "explanation": "The principal broker is responsible for the safekeeping of earnest money. It must be deposited per contract terms or Division rules into the broker's trust account.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest-money", "principal-broker", "safekeeping"]
+    },
+    {
+      "key_topic_ref": "UT-11.1",
+      "question_text": "A transaction falls through and both the buyer and seller claim the earnest money. The broker should:",
+      "correct_answer": "Hold the funds until written agreement or court order",
+      "distractors": ["Split the funds equally between parties", "Return the funds to the buyer automatically", "Release the funds to whoever asks first"],
+      "explanation": "When a dispute arises over earnest money, the broker must not release funds until receiving written agreement from all parties or a court order. Interpleading with the court is an option if parties cannot agree.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "disputed-funds", "procedures"]
+    },
+    {
+      "key_topic_ref": "UT-11.1",
+      "question_text": "Both parties in a failed transaction refuse to agree on earnest money distribution. The broker may:",
+      "correct_answer": "Interplead the funds with the court",
+      "distractors": ["Keep the funds as a brokerage fee", "Release them to the seller by default", "Donate them to the Recovery Fund"],
+      "explanation": "Interpleading funds with the court is an option when the parties cannot agree on distribution. The court then determines the proper disposition of the disputed earnest money.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "interpleader", "court"]
+    },
+    {
+      "key_topic_ref": "UT-11.1",
+      "question_text": "The terms for earnest money deposit timing in a Utah transaction are determined by:",
+      "correct_answer": "The REPC contract terms or Division rules",
+      "distractors": ["The title company's internal policy", "A standard 48-hour state deadline", "The buyer's lender requirements"],
+      "explanation": "Earnest money must be deposited according to the terms of the REPC contract or within the time specified by Division rules. There is no universal fixed deadline; it depends on the contract.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest-money", "deposit-timing", "repc"]
+    },
+    {
+      "key_topic_ref": "UT-11.1",
+      "question_text": "A sales agent holds an earnest money check in their desk for a week before giving it to the principal broker. This is:",
+      "correct_answer": "A violation of prompt deposit requirements",
+      "distractors": ["Acceptable if the amount is under $5,000", "Standard practice for new agents", "Permitted until the inspection period ends"],
+      "explanation": "Trust funds must be deposited promptly into the principal broker's trust account. Holding checks instead of delivering them to the PB promptly violates trust fund handling requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "prompt-deposit", "violations"]
+    },
+    {
+      "key_topic_ref": "UT-11.2",
+      "question_text": "Commission rates in Utah are:",
+      "correct_answer": "Negotiable between the parties",
+      "distractors": ["Set by the Division of Real Estate", "Fixed at 6% for residential properties", "Determined by the Real Estate Commission"],
+      "explanation": "Commission rates are negotiable in Utah. There is no standard or fixed rate. The Division does not set commission schedules, and any agreement on rates must be between the parties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commissions", "negotiable", "rates"]
+    },
+    {
+      "key_topic_ref": "UT-11.2",
+      "question_text": "A sales agent closes a deal and expects to receive their commission. Who pays the agent?",
+      "correct_answer": "The principal broker",
+      "distractors": ["The seller directly at closing", "The buyer through the title company", "The Division from the Recovery Fund"],
+      "explanation": "Only the principal broker can receive compensation for a real estate transaction. Sales agents and associate brokers receive their share through the PB, never directly from clients or other parties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commissions", "payment", "principal-broker"]
+    },
+    {
+      "key_topic_ref": "UT-11.2",
+      "question_text": "A principal broker fails to pay a cooperating broker the agreed commission. Who has standing to sue?",
+      "correct_answer": "Only the cooperating principal broker",
+      "distractors": ["The cooperating sales agent directly", "The buyer who paid the commission", "The Division on behalf of the broker"],
+      "explanation": "Only a licensed principal broker can bring a lawsuit to collect a commission. Individual sales agents or associate brokers cannot sue for commission; their recourse is through their own PB.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commissions", "lawsuit", "standing"]
+    },
+    {
+      "key_topic_ref": "UT-11.2",
+      "question_text": "A seller agrees to pay a 5% commission but later claims the standard rate should be 6%. The broker's commission is:",
+      "correct_answer": "5% as agreed in the listing agreement",
+      "distractors": ["6% as the standard rate", "Whatever the Real Estate Commission sets", "Subject to Division arbitration"],
+      "explanation": "Commission rates are negotiable and governed by the listing agreement. Since 5% was agreed upon, that is the enforceable rate. There is no 'standard rate' in Utah.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commissions", "negotiable", "listing-agreement"]
+    },
+    {
+      "key_topic_ref": "UT-11.2",
+      "question_text": "An associate broker working under a principal broker wants to receive commission directly from the seller at closing. This is:",
+      "correct_answer": "Prohibited; commission goes through the PB",
+      "distractors": ["Allowed with seller's written consent", "Permitted for associate brokers only", "Standard for experienced licensees"],
+      "explanation": "Sales agents and associate brokers receive their compensation through the principal broker, never directly from clients. Only the PB can receive transaction compensation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commissions", "associate-broker", "payment-rules"]
+    },
+    {
+      "key_topic_ref": "UT-11.3",
+      "question_text": "A licensee pays a $500 referral fee to an unlicensed friend who sent them a client. This is:",
+      "correct_answer": "Prohibited under Utah licensing law",
+      "distractors": ["Acceptable for amounts under $1,000", "Legal if documented as a gift only", "Permitted as a marketing expense"],
+      "explanation": "Referral fees may only be paid to licensed persons in Utah. Paying referral fees to unlicensed individuals is prohibited regardless of the amount or how it is characterized.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["referral-fees", "unlicensed", "prohibited"]
+    },
+    {
+      "key_topic_ref": "UT-11.3",
+      "question_text": "A buyer's agent also receives a referral fee from the seller's agent for bringing a buyer. What must occur?",
+      "correct_answer": "Both parties must be informed of the dual compensation",
+      "distractors": ["Nothing; referral fees are private matters", "The Division must approve the payment", "The fee must be deposited in the trust account"],
+      "explanation": "If an agent receives compensation from more than one party, this must be disclosed to all parties in the transaction. Transparency about compensation is required.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["compensation-disclosure", "referral-fees", "transparency"]
+    },
+    {
+      "key_topic_ref": "UT-11.3",
+      "question_text": "An agent who owns rental property wants to list their own property for sale. They must disclose:",
+      "correct_answer": "Their personal interest in the transaction",
+      "distractors": ["Only the fact that they hold a license", "Nothing beyond what sellers normally disclose", "The property's rental income history only"],
+      "explanation": "Licensees must disclose any personal interest in a transaction. Acting as both the seller and the listing agent requires full disclosure to potential buyers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["compensation-disclosure", "personal-interest", "self-dealing"]
+    },
+    {
+      "key_topic_ref": "UT-11.3",
+      "question_text": "A sales agent refers a client to another brokerage in a different city and receives a referral fee. This is:",
+      "correct_answer": "Permitted since both parties are licensed",
+      "distractors": ["Prohibited for out-of-state referrals", "Only allowed with Division approval", "Illegal if the fee exceeds $1,000"],
+      "explanation": "Referral fees between licensed persons are permitted. The key requirement is that the recipient holds a valid real estate license. The fee goes through the principal brokers, not directly between agents.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["referral-fees", "licensed-persons", "permitted"]
+    },
+    {
+      "key_topic_ref": "UT-11.3",
+      "question_text": "Which statement about Utah compensation disclosure is correct?",
+      "correct_answer": "All sources of compensation must be disclosed",
+      "distractors": ["Only buyer compensation must be disclosed", "Disclosure is optional for co-op commissions", "Compensation details are confidential"],
+      "explanation": "If an agent receives compensation from more than one party, this must be disclosed to all parties. Transparency about all compensation sources is a fundamental obligation in Utah real estate practice.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["compensation-disclosure", "transparency", "requirements"]
+    }
+  ]
+}

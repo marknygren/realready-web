@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WA-15",
+  "scope": "state",
+  "state": "WA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WA-15.1",
+      "question_text": "In a Washington deed of trust, who is the trustee?",
+      "correct_answer": "A neutral third party",
+      "distractors": ["The borrower", "The lender", "The escrow agent"],
+      "explanation": "A deed of trust involves three parties: the trustor (borrower), the beneficiary (lender), and the trustee (neutral third party). The trustee holds legal title as security and has authority to conduct a foreclosure sale if the borrower defaults.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "trustee", "three-parties"]
+    },
+    {
+      "key_topic_ref": "WA-15.1",
+      "question_text": "What is the primary security instrument used for real estate loans in Washington?",
+      "correct_answer": "Deed of trust",
+      "distractors": ["Mortgage", "Promissory note", "Land contract"],
+      "explanation": "Washington primarily uses the deed of trust as its security instrument for real estate loans, governed by RCW 61.24. While mortgages exist, the deed of trust is the standard instrument because it allows non-judicial foreclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "security-instrument", "RCW-61.24"]
+    },
+    {
+      "key_topic_ref": "WA-15.1",
+      "question_text": "In a Washington deed of trust, which party is the beneficiary?",
+      "correct_answer": "The lender",
+      "distractors": ["The borrower", "The trustee", "The title company"],
+      "explanation": "The beneficiary in a deed of trust is the lender who benefits from the security interest. The borrower is the trustor, and the trustee is the neutral third party who holds title as security.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "beneficiary", "lender"]
+    },
+    {
+      "key_topic_ref": "WA-15.1",
+      "question_text": "A borrower signs a deed of trust in Washington. What role does the borrower hold?",
+      "correct_answer": "Trustor",
+      "distractors": ["Trustee", "Beneficiary", "Grantor of title"],
+      "explanation": "In a deed of trust, the borrower is called the trustor because they entrust legal title to the trustee as security for the loan. The trustee holds this title until the loan is paid in full.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed-of-trust", "trustor", "borrower"]
+    },
+    {
+      "key_topic_ref": "WA-15.1",
+      "question_text": "Why does Washington prefer the deed of trust over a traditional mortgage?",
+      "correct_answer": "It allows non-judicial foreclosure",
+      "distractors": ["It eliminates closing costs", "It guarantees lower interest rates", "It removes the need for title insurance"],
+      "explanation": "The deed of trust is preferred in Washington because the trustee structure enables non-judicial foreclosure, which is faster and less expensive than the court-supervised process required with traditional mortgages.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deed-of-trust", "non-judicial", "advantage"]
+    },
+    {
+      "key_topic_ref": "WA-15.2",
+      "question_text": "How long must a Washington lender wait after default before issuing a Notice of Default?",
+      "correct_answer": "30 days",
+      "distractors": ["10 days", "60 days", "90 days"],
+      "explanation": "Under Washington's non-judicial foreclosure process, the lender must wait at least 30 days after default before recording a Notice of Default. This provides the borrower an initial opportunity to cure the default.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "notice-of-default", "waiting-period"]
+    },
+    {
+      "key_topic_ref": "WA-15.2",
+      "question_text": "A Washington borrower defaults on January 1. What is the earliest the trustee's sale can occur?",
+      "correct_answer": "Approximately 190 days later",
+      "distractors": ["60 days later", "90 days later", "365 days later"],
+      "explanation": "Washington's non-judicial foreclosure timeline is approximately 190 days minimum: 30 days before Notice of Default, 90+ days before Notice of Trustee's Sale, and 120+ days before the actual sale. This provides significant time for the borrower to respond.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["foreclosure", "timeline", "minimum-days"]
+    },
+    {
+      "key_topic_ref": "WA-15.2",
+      "question_text": "By when must a Washington borrower request foreclosure mediation before a scheduled trustee's sale?",
+      "correct_answer": "No later than 90 days before sale",
+      "distractors": ["No later than 30 days before sale", "No later than 120 days before sale", "At any time before the sale"],
+      "explanation": "Washington borrowers may request mediation during the non-judicial foreclosure process, but the request must be made no later than 90 days before the scheduled trustee's sale date to allow adequate time for the mediation process.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "mediation", "borrower-rights"]
+    },
+    {
+      "key_topic_ref": "WA-15.2",
+      "question_text": "How many days before the trustee's sale must the Notice of Trustee's Sale be recorded in Washington?",
+      "correct_answer": "At least 120 days",
+      "distractors": ["At least 30 days", "At least 60 days", "At least 90 days"],
+      "explanation": "The Notice of Trustee's Sale must be recorded at least 120 days before the actual sale date. This notice must also be published and provides the borrower with significant advance warning of the pending foreclosure sale.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "notice-of-sale", "recording"]
+    },
+    {
+      "key_topic_ref": "WA-15.2",
+      "question_text": "Which foreclosure method is most commonly used in Washington?",
+      "correct_answer": "Non-judicial foreclosure",
+      "distractors": ["Judicial foreclosure", "Strict foreclosure", "Deed in lieu of foreclosure"],
+      "explanation": "Non-judicial foreclosure through the deed of trust is the most common method in Washington. It is conducted by the trustee without court involvement, making it faster and less costly than judicial foreclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "non-judicial", "common-method"]
+    },
+    {
+      "key_topic_ref": "WA-15.3",
+      "question_text": "A Washington home is sold through non-judicial foreclosure. Does the borrower have a right of redemption?",
+      "correct_answer": "No redemption right exists",
+      "distractors": ["Yes, for 6 months after sale", "Yes, for 12 months after sale", "Yes, for 8 months after sale"],
+      "explanation": "Washington law provides no right of redemption after a non-judicial trustee's sale. Once the sale is completed, the borrower's rights to the property are extinguished. This is a key difference from judicial foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["redemption", "non-judicial", "no-right"]
+    },
+    {
+      "key_topic_ref": "WA-15.3",
+      "question_text": "After a non-judicial foreclosure sale in Washington, can the lender sue the borrower for a deficiency balance?",
+      "correct_answer": "Generally no, deficiency is barred",
+      "distractors": ["Yes, within 1 year of sale", "Yes, for any remaining balance", "Yes, with court approval only"],
+      "explanation": "Washington's anti-deficiency rules generally prohibit lenders from pursuing a deficiency judgment after a non-judicial trustee's sale. This protects borrowers from owing additional money if the sale price does not cover the loan balance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["anti-deficiency", "non-judicial", "borrower-protection"]
+    },
+    {
+      "key_topic_ref": "WA-15.3",
+      "question_text": "A Washington lender chooses judicial foreclosure and waives the right to a deficiency judgment. What redemption period applies?",
+      "correct_answer": "8 months",
+      "distractors": ["3 months", "6 months", "12 months"],
+      "explanation": "Under RCW 6.23.020, when a creditor waives deficiency rights in a judicial foreclosure, the redemption period is 8 months. If the creditor does NOT waive deficiency rights, the redemption period extends to 1 year.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["judicial-foreclosure", "redemption", "homestead"]
+    },
+    {
+      "key_topic_ref": "WA-15.3",
+      "question_text": "A borrower facing non-judicial foreclosure in Washington asks about mediation. What should the broker explain?",
+      "correct_answer": "Request must be made 90+ days before sale",
+      "distractors": ["Mediation is not available in WA", "It automatically halts the sale", "Only attorneys can request mediation"],
+      "explanation": "Washington borrowers may request mediation during non-judicial foreclosure, but the request must be made no later than 90 days before the scheduled trustee's sale. The broker should advise the borrower to act quickly and consult legal counsel.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["mediation", "foreclosure", "borrower-advice"]
+    },
+    {
+      "key_topic_ref": "WA-15.3",
+      "question_text": "Why might a Washington lender choose judicial foreclosure over non-judicial foreclosure?",
+      "correct_answer": "To pursue a deficiency judgment",
+      "distractors": ["To avoid recording requirements", "To speed up the process", "To eliminate redemption rights"],
+      "explanation": "A lender might choose judicial foreclosure to preserve the ability to pursue a deficiency judgment against the borrower, since anti-deficiency rules bar this after a non-judicial sale. However, judicial foreclosure also grants the borrower an 8-month redemption period.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["judicial-foreclosure", "deficiency", "lender-strategy"]
+    }
+  ]
+}

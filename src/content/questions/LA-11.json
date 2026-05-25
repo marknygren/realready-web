@@ -1,0 +1,233 @@
+{
+  "standard_ref": "LA-11",
+  "scope": "state",
+  "state": "LA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "LA-11.1",
+      "question_text": "Under Louisiana civil law, land and buildings are classified as what?",
+      "correct_answer": "Immovables by nature",
+      "distractors": [
+        "Corporeal movables",
+        "Immovables by declaration",
+        "Incorporeal immovables"
+      ],
+      "explanation": "Louisiana civil law classifies land, buildings, standing timber, and unharvested crops as immovables by nature. This is distinct from the common-law term 'real property' used in most other states.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["immovables", "immovables_by_nature", "classification"]
+    },
+    {
+      "key_topic_ref": "LA-11.1",
+      "question_text": "Standing timber on a Louisiana tract is classified as which type of property?",
+      "correct_answer": "An immovable by nature",
+      "distractors": [
+        "A corporeal movable",
+        "An incorporeal movable",
+        "An immovable by declaration"
+      ],
+      "explanation": "Under Louisiana civil law, standing timber is classified as an immovable by nature along with land, buildings, and unharvested crops. Once the timber is cut, it becomes a corporeal movable.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["immovables", "standing_timber", "classification"]
+    },
+    {
+      "key_topic_ref": "LA-11.1",
+      "question_text": "An owner declares certain equipment as part of the immovable for mortgage purposes. What classification does this equipment receive?",
+      "correct_answer": "Immovable by declaration",
+      "distractors": [
+        "Immovable by nature",
+        "Corporeal movable with a lien",
+        "Component part of the building"
+      ],
+      "explanation": "Louisiana law allows owners to declare certain items as immovables by declaration for mortgage purposes. This classification allows movable items to be included in the mortgage on the immovable property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["immovables_by_declaration", "mortgage", "classification"]
+    },
+    {
+      "key_topic_ref": "LA-11.1",
+      "question_text": "A farmer sells a tract with a mature sugarcane crop still in the field. Under Louisiana law, who owns the unharvested crop?",
+      "correct_answer": "The buyer, as it is an immovable by nature",
+      "distractors": [
+        "The seller, who planted the crop",
+        "Ownership depends on the harvest date",
+        "The parish agricultural board decides"
+      ],
+      "explanation": "Unharvested crops are immovables by nature under Louisiana law. When the tract is sold, the unharvested crop transfers with the land to the buyer unless the parties agree otherwise in the act of sale.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["immovables", "unharvested_crops", "transfer"]
+    },
+    {
+      "key_topic_ref": "LA-11.1",
+      "question_text": "A seller mortgages a property and separately declares portable generators as immovables by declaration. The buyer later claims the generators are movables not covered by the mortgage. Who prevails?",
+      "correct_answer": "The lender, because the declaration controls",
+      "distractors": [
+        "The buyer, because generators are movable",
+        "The seller, who retains ownership of movables",
+        "The parish recorder based on filing date"
+      ],
+      "explanation": "When an owner formally declares items as immovables by declaration for mortgage purposes, that classification controls. The declaration makes the generators part of the immovable for purposes of the mortgage, protecting the lender's security interest.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["immovables_by_declaration", "mortgage", "lender_rights"]
+    },
+    {
+      "key_topic_ref": "LA-11.2",
+      "question_text": "Under Louisiana law, tangible personal property is classified as what?",
+      "correct_answer": "Corporeal movables",
+      "distractors": [
+        "Immovables by nature",
+        "Incorporeal movables",
+        "Component parts"
+      ],
+      "explanation": "Louisiana civil law classifies tangible personal property as corporeal movables. This includes items that can be seen, touched, and physically moved, such as furniture, vehicles, and equipment.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["movables", "corporeal", "classification"]
+    },
+    {
+      "key_topic_ref": "LA-11.2",
+      "question_text": "A homeowner bolts a custom bookcase into the wall studs. What does this item become under Louisiana law?",
+      "correct_answer": "A component part of the immovable",
+      "distractors": [
+        "A corporeal movable with conditions",
+        "An immovable by declaration only",
+        "A fixture under UCC rules"
+      ],
+      "explanation": "Under Louisiana law, items permanently attached to a building become component parts of the immovable. A bookcase bolted into wall studs is permanently attached and cannot be removed without damage, making it a component part.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["component_parts", "permanent_attachment", "immovable"]
+    },
+    {
+      "key_topic_ref": "LA-11.2",
+      "question_text": "What test does Louisiana law use to determine if an item is a component part of an immovable?",
+      "correct_answer": "Owner intent and whether removal causes damage",
+      "distractors": [
+        "The item's original purchase price at acquisition",
+        "Whether the item is listed in the MLS records",
+        "The overall weight and physical size of the item"
+      ],
+      "explanation": "Louisiana law considers the owner's intent regarding permanent attachment and whether removing the item would cause substantial damage to itself or the immovable. Both factors help determine if an item has become a component part.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["component_parts", "damage_test", "owner_intent"]
+    },
+    {
+      "key_topic_ref": "LA-11.2",
+      "question_text": "A stock certificate and a promissory note are examples of what type of Louisiana property classification?",
+      "correct_answer": "Incorporeal movables",
+      "distractors": [
+        "Corporeal movables",
+        "Immovables by declaration",
+        "Component parts of an estate"
+      ],
+      "explanation": "Incorporeal movables are intangible rights that have no physical form. Stock certificates and promissory notes represent intangible rights and are classified as incorporeal movables under Louisiana civil law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["movables", "incorporeal", "classification"]
+    },
+    {
+      "key_topic_ref": "LA-11.2",
+      "question_text": "A seller installs a built-in dishwasher before listing. At closing the seller removes it, claiming it was a movable. The buyer objects. Under Louisiana law, who is correct?",
+      "correct_answer": "The buyer, because the dishwasher is a component part",
+      "distractors": [
+        "The seller, who purchased the dishwasher",
+        "Neither, a judge must decide each case",
+        "The seller, because appliances are movables"
+      ],
+      "explanation": "A built-in dishwasher is permanently installed and its removal would cause damage. Under the component-part test, it became part of the immovable. The seller cannot remove it without the buyer's consent, as it transfers with the property.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["component_parts", "damage_test", "buyer_rights"]
+    },
+    {
+      "key_topic_ref": "LA-11.3",
+      "question_text": "In Louisiana, the basic administrative division equivalent to a county is called what?",
+      "correct_answer": "A parish",
+      "distractors": [
+        "A municipality",
+        "A district",
+        "A borough"
+      ],
+      "explanation": "Louisiana is the only state that uses the term 'parish' instead of 'county' as its primary administrative division. This reflects Louisiana's unique legal and cultural heritage rooted in French and Spanish traditions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["parish", "administrative_division", "louisiana_terminology"]
+    },
+    {
+      "key_topic_ref": "LA-11.3",
+      "question_text": "Which legal description method uses compass bearings and distances from a point of beginning?",
+      "correct_answer": "Metes and bounds",
+      "distractors": [
+        "Lot and block",
+        "Government survey system",
+        "Parish plat reference"
+      ],
+      "explanation": "Metes and bounds descriptions use compass bearings and measured distances starting from an identified point of beginning and returning to that point. This method is commonly used in Louisiana for irregular parcels.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["legal_descriptions", "metes_and_bounds", "survey"]
+    },
+    {
+      "key_topic_ref": "LA-11.3",
+      "question_text": "A subdivision developer records a plat map with the parish clerk. Lots in the subdivision are described using which method?",
+      "correct_answer": "Lot and block",
+      "distractors": [
+        "Metes and bounds only",
+        "Government survey system only",
+        "GPS coordinates from the parish"
+      ],
+      "explanation": "When a subdivision plat is recorded, individual lots are identified by their lot number, block number, and subdivision name as shown on the recorded plat. This lot-and-block method simplifies descriptions within platted developments.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["legal_descriptions", "lot_and_block", "subdivision"]
+    },
+    {
+      "key_topic_ref": "LA-11.3",
+      "question_text": "The government survey system is used in which parts of Louisiana?",
+      "correct_answer": "Parts of the state, mainly northern areas",
+      "distractors": [
+        "All 64 parishes use it uniformly",
+        "Only the city of New Orleans uses it",
+        "It is not used anywhere in Louisiana"
+      ],
+      "explanation": "The government (rectangular) survey system is used in parts of Louisiana, primarily in the northern regions. Southern Louisiana, including New Orleans, relies more heavily on metes and bounds and the French arpent system.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["legal_descriptions", "government_survey", "louisiana_geography"]
+    },
+    {
+      "key_topic_ref": "LA-11.3",
+      "question_text": "A deed describes property as 'Lot 5, Block B, Magnolia Estates, as recorded in the records of Caddo Parish.' An error in the plat shows the lot 10 feet narrower than surveyed. Which document controls the lot boundaries?",
+      "correct_answer": "The actual survey on the ground",
+      "distractors": [
+        "The recorded plat map always controls",
+        "The parish tax assessment records",
+        "The MLS listing measurements"
+      ],
+      "explanation": "When a conflict exists between a recorded plat and an actual ground survey, the physical survey measurements generally control. The actual boundaries as surveyed on the ground take precedence over an erroneous plat map.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["legal_descriptions", "survey_conflict", "lot_and_block"]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "standard_ref": "TX-10",
+  "scope": "state",
+  "state": "TX",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "TX-10.1",
+      "question_text": "A broker receives earnest money on Monday. By when must the broker deposit it into a trust account?",
+      "correct_answer": "Close of business on Wednesday",
+      "distractors": [
+        "Close of business on Monday",
+        "Close of business on Tuesday",
+        "Close of business on Friday"
+      ],
+      "explanation": "Texas requires earnest money to be deposited by close of business on the second working day after receipt, unless otherwise agreed. If received Monday, the second working day is Wednesday. This timeline protects both buyer and seller interests.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust_account", "earnest_money", "deposit_deadline", "two_days"]
+    },
+    {
+      "key_topic_ref": "TX-10.1",
+      "question_text": "When is a Texas broker required to maintain a trust account?",
+      "correct_answer": "Only when the broker holds client funds",
+      "distractors": [
+        "At all times once licensed as a broker",
+        "Whenever a listing agreement is signed",
+        "Within 30 days of activating a license"
+      ],
+      "explanation": "A trust account is required only when a broker actually receives or holds client funds. If earnest money goes directly to a title company, the broker has no trust account obligation. There is no blanket requirement to maintain one at all times.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "requirements", "client_funds"]
+    },
+    {
+      "key_topic_ref": "TX-10.1",
+      "question_text": "A residential buyer writes an earnest money check. In most Texas transactions, who typically holds these funds?",
+      "correct_answer": "The title company named as escrow agent",
+      "distractors": [
+        "The listing broker's trust account",
+        "The buyer's agent personal account",
+        "The county clerk's office"
+      ],
+      "explanation": "In typical Texas residential transactions, earnest money goes to the title company named as escrow agent in the contract. This is why many Texas brokers do not need to maintain trust accounts. The county clerk does not hold earnest money deposits.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest_money", "title_company", "escrow", "residential"]
+    },
+    {
+      "key_topic_ref": "TX-10.1",
+      "question_text": "A broker's trust account must be held at which type of institution?",
+      "correct_answer": "An FDIC-insured bank or credit union in Texas",
+      "distractors": [
+        "Any national bank regardless of location",
+        "A state-chartered bank in any US state",
+        "An investment firm with SIPC coverage"
+      ],
+      "explanation": "Texas requires trust accounts to be held at FDIC-insured banks or credit unions located in Texas. Out-of-state banks and investment firms do not meet this requirement. FDIC insurance protects the deposited client funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "FDIC", "Texas_bank", "requirements"]
+    },
+    {
+      "key_topic_ref": "TX-10.1",
+      "question_text": "How long must a Texas broker retain trust account records?",
+      "correct_answer": "4 years",
+      "distractors": [
+        "2 years",
+        "3 years",
+        "7 years"
+      ],
+      "explanation": "Texas requires brokers to retain trust account records for 4 years. This allows sufficient time for audits, investigations, or disputes to be resolved. The requirement applies to all records related to the receipt and disbursement of client funds.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust_account", "record_retention", "4_years"]
+    },
+    {
+      "key_topic_ref": "TX-10.2",
+      "question_text": "A broker deposits a client's earnest money into the brokerage operating account to cover a temporary cash shortfall. This is:",
+      "correct_answer": "Conversion of client funds",
+      "distractors": [
+        "Commingling of funds",
+        "Proper cash management",
+        "An acceptable temporary measure"
+      ],
+      "explanation": "Using client funds for business purposes constitutes conversion, which is more serious than commingling. Conversion involves the actual use of client funds for personal or business purposes. Commingling is merely mixing funds in the same account without using them.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["conversion", "trust_account", "client_funds", "discipline"]
+    },
+    {
+      "key_topic_ref": "TX-10.2",
+      "question_text": "A broker places a client's security deposit into the same account used for brokerage expenses. This practice is called:",
+      "correct_answer": "Commingling",
+      "distractors": [
+        "Conversion",
+        "Proper fund management",
+        "Fiduciary pooling"
+      ],
+      "explanation": "Mixing client funds with personal or business funds in the same account is commingling, which is prohibited and grounds for discipline. Conversion would require actually using the client's money. Client funds must be kept in a separate trust account.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "trust_account", "client_funds", "prohibited"]
+    },
+    {
+      "key_topic_ref": "TX-10.2",
+      "question_text": "A transaction falls through and both buyer and seller claim the $5,000 earnest money. The broker should:",
+      "correct_answer": "Hold funds until both parties agree or court orders",
+      "distractors": [
+        "Split the funds equally between the parties",
+        "Return the funds to the buyer immediately",
+        "Release the funds to the seller as damages"
+      ],
+      "explanation": "When earnest money is disputed, the broker must hold the funds until both parties reach a written agreement on disbursement or a court orders how the funds should be distributed. The broker cannot unilaterally decide who receives disputed funds.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disputed_funds", "earnest_money", "trust_account", "disbursement"]
+    },
+    {
+      "key_topic_ref": "TX-10.2",
+      "question_text": "Which violation is considered more serious under Texas real estate law?",
+      "correct_answer": "Conversion of client funds",
+      "distractors": [
+        "Commingling of client funds",
+        "Late deposit of earnest money",
+        "Failure to maintain trust account records"
+      ],
+      "explanation": "Conversion is more serious than commingling because it involves the actual use of client funds for personal or business purposes. Commingling is the improper mixing of funds. Both are violations, but conversion demonstrates a greater degree of wrongful conduct.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["conversion", "commingling", "severity", "discipline"]
+    },
+    {
+      "key_topic_ref": "TX-10.2",
+      "question_text": "A broker holding disputed earnest money receives a letter from the buyer's attorney demanding release. The broker should:",
+      "correct_answer": "Continue holding until both parties agree in writing",
+      "distractors": [
+        "Release funds to the buyer per attorney demand",
+        "Release funds to the seller for safekeeping",
+        "Deposit funds into the broker's operating account"
+      ],
+      "explanation": "A demand letter from one party's attorney does not authorize disbursement. The broker must continue holding disputed funds until both parties provide written agreement or a court issues an order. Releasing to either party or moving to an operating account would be improper.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disputed_funds", "earnest_money", "attorney_demand", "holding"]
+    }
+  ]
+}

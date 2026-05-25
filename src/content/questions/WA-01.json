@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WA-01",
+  "scope": "state",
+  "state": "WA",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "WA-01.1",
+      "question_text": "Which agency serves as Washington's regulatory authority for real estate licensing?",
+      "correct_answer": "Department of Licensing",
+      "distractors": ["Real Estate Commission", "Department of Commerce", "Division of Real Estate"],
+      "explanation": "In Washington, the Department of Licensing (DOL) is the regulatory authority for real estate. Unlike many states, Washington does not have a separate real estate commission that serves as the primary regulator. The DOL issues, suspends, and revokes licenses under RCW 18.85.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["DOL", "regulatory-authority", "RCW-18.85"]
+    },
+    {
+      "key_topic_ref": "WA-01.1",
+      "question_text": "A consumer files a complaint against a broker for misrepresentation. Which entity investigates and takes disciplinary action?",
+      "correct_answer": "Department of Licensing",
+      "distractors": ["Real Estate Commission", "Attorney General's Office", "Local Board of Realtors"],
+      "explanation": "The DOL investigates complaints against licensees and takes disciplinary action, including suspension or revocation of licenses. The Real Estate Commission serves in an advisory capacity but does not directly investigate or discipline licensees.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["DOL", "complaints", "disciplinary-action"]
+    },
+    {
+      "key_topic_ref": "WA-01.1",
+      "question_text": "Washington's real estate license law is codified under which statute?",
+      "correct_answer": "RCW 18.85",
+      "distractors": ["RCW 64.06", "RCW 19.86", "RCW 49.60"],
+      "explanation": "The Revised Code of Washington (RCW) Chapter 18.85 governs real estate brokerage in Washington. It establishes licensing requirements, standards of practice, and the DOL's authority over licensees.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RCW-18.85", "license-law", "statute"]
+    },
+    {
+      "key_topic_ref": "WA-01.1",
+      "question_text": "A managing broker learns that the DOL has opened an investigation into one of her brokers. Which power does the DOL have in this situation?",
+      "correct_answer": "Suspend or revoke the license",
+      "distractors": ["Issue criminal charges only", "Impose jail time directly", "Refer exclusively to civil court"],
+      "explanation": "The DOL has authority to suspend, revoke, or deny licenses as part of its disciplinary powers. It can also impose fines and reprimands. Criminal charges would be handled by the appropriate prosecutor, not the DOL.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["DOL", "disciplinary-action", "license-suspension"]
+    },
+    {
+      "key_topic_ref": "WA-01.1",
+      "question_text": "Which statement best distinguishes Washington's regulatory structure from states with an independent real estate commission?",
+      "correct_answer": "The DOL directly regulates licensees",
+      "distractors": ["Licensees are self-regulating", "Counties regulate local brokers", "The governor approves each license"],
+      "explanation": "Washington's DOL directly regulates real estate licensees rather than delegating that authority to an independent commission. While a Real Estate Commission exists, it serves in an advisory role within the DOL rather than as the primary regulatory body.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["DOL", "regulatory-structure", "commission"]
+    },
+    {
+      "key_topic_ref": "WA-01.2",
+      "question_text": "A proposed rule change would affect all Washington real estate licensees. Which body advises the DOL on this matter?",
+      "correct_answer": "The Real Estate Commission",
+      "distractors": ["The state legislature directly", "The local Board of Realtors", "The Attorney General's Office"],
+      "explanation": "Washington's Real Estate Commission operates within the DOL as an advisory body. It develops recommendations and provides oversight on real estate laws and regulations, but the DOL retains final regulatory authority.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commission", "advisory-role", "rulemaking"]
+    },
+    {
+      "key_topic_ref": "WA-01.2",
+      "question_text": "A managing broker attends a public meeting where real estate regulations are being discussed. Which body holds these meetings to advise the DOL?",
+      "correct_answer": "The Real Estate Commission",
+      "distractors": ["The county court system", "The local Board of Realtors", "The state legislature only"],
+      "explanation": "The Real Estate Commission holds public meetings where it discusses and develops recommendations on real estate laws and regulations. While the DOL retains rulemaking authority, the Commission serves as the advisory body on regulatory matters.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commission", "advisory-role", "public-meetings"]
+    },
+    {
+      "key_topic_ref": "WA-01.2",
+      "question_text": "The Real Estate Commission recommends new continuing education requirements. Can the Commission implement these changes on its own?",
+      "correct_answer": "No, the DOL must adopt the changes",
+      "distractors": ["Yes, the Commission has full authority", "Yes, with a majority vote", "Only with Governor approval"],
+      "explanation": "The Real Estate Commission serves in an advisory and oversight capacity. It can recommend changes, but the DOL retains the actual regulatory authority to adopt, implement, and enforce rules governing licensees.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commission", "advisory-role", "DOL-authority"]
+    },
+    {
+      "key_topic_ref": "WA-01.2",
+      "question_text": "A newly formed real estate task force wants to change Washington licensing requirements. Which role does the Real Estate Commission play?",
+      "correct_answer": "Advisory and oversight",
+      "distractors": ["Direct enforcement authority", "Legislative voting power", "Independent rulemaking"],
+      "explanation": "The Real Estate Commission operates in an advisory and oversight capacity within the DOL. It develops recommendations and oversees licensing laws and regulations, but the DOL retains direct regulatory and enforcement authority.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commission", "advisory-role", "oversight"]
+    },
+    {
+      "key_topic_ref": "WA-01.2",
+      "question_text": "Why does Washington's Real Estate Commission include members from both Eastern and Western Washington?",
+      "correct_answer": "To ensure geographic representation",
+      "distractors": ["To divide enforcement duties", "To separate urban and rural laws", "To maintain partisan balance"],
+      "explanation": "The commission requires 2 members from Eastern Washington and 2 from Western Washington to ensure geographic diversity. This structure ensures that the varied real estate markets across the state are represented in advisory decisions.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commission", "geographic-representation", "composition"]
+    },
+    {
+      "key_topic_ref": "WA-01.3",
+      "question_text": "A broker omits a material defect she knows about when showing a property. Which standard of practice has she violated?",
+      "correct_answer": "Honest dealing and good faith",
+      "distractors": ["Timely license renewal", "Continuing education compliance", "Firm affiliation requirements"],
+      "explanation": "Washington licensees must practice honest dealing and good faith with all parties. Knowingly omitting material defects violates this core ethical standard and can result in disciplinary action by the DOL.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ethics", "honest-dealing", "disclosure"]
+    },
+    {
+      "key_topic_ref": "WA-01.3",
+      "question_text": "Washington licensees must exercise what level of skill in representing clients?",
+      "correct_answer": "Reasonable skill and care",
+      "distractors": ["Absolute perfection", "Minimum effort required", "Expert-level specialization"],
+      "explanation": "Washington law requires licensees to exercise reasonable skill and care when representing clients. This does not require perfection but does require the competence expected of a trained professional.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ethics", "skill-and-care", "competency"]
+    },
+    {
+      "key_topic_ref": "WA-01.3",
+      "question_text": "How do Washington licensees maintain the competency required by ethical practice standards?",
+      "correct_answer": "Through continuing education",
+      "distractors": ["By retaking the licensing exam", "By earning a college degree", "By joining a trade association"],
+      "explanation": "Washington requires licensees to complete continuing education to maintain competency. This ensures licensees stay current on laws, regulations, and best practices throughout their careers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ethics", "continuing-education", "competency"]
+    },
+    {
+      "key_topic_ref": "WA-01.3",
+      "question_text": "A broker advises a client to sign a contract that violates federal fair housing law. Which ethical obligation has the broker breached?",
+      "correct_answer": "Compliance with state and federal law",
+      "distractors": ["Firm affiliation requirements only", "Advertising disclosure rules only", "License renewal deadline compliance"],
+      "explanation": "Washington licensees must comply with both state and federal laws. Advising a client to enter a contract that violates federal fair housing law breaches this fundamental obligation and exposes the licensee to disciplinary action and legal liability.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ethics", "legal-compliance", "fair-housing"]
+    },
+    {
+      "key_topic_ref": "WA-01.3",
+      "question_text": "A broker consistently fails to research comparable sales before advising clients on listing prices. Which practice standard is most directly at risk?",
+      "correct_answer": "Reasonable skill and care",
+      "distractors": ["License transfer procedures", "Commission split agreements", "Advertising font size rules"],
+      "explanation": "Failing to research comparable sales before advising on price demonstrates a lack of reasonable skill and care. Washington licensees owe clients competent service, which includes performing adequate market analysis before making pricing recommendations.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["ethics", "skill-and-care", "market-analysis"]
+    }
+  ]
+}

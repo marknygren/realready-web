@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MI-16",
+  "scope": "state",
+  "state": "MI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MI-16.1",
+      "question_text": "A Michigan landowner wants to split a 40-acre parcel without recording a plat. What is the maximum number of divisions allowed in a 10-year period?",
+      "correct_answer": "4 divisions",
+      "distractors": ["2 divisions", "6 divisions", "10 divisions"],
+      "explanation": "The Michigan Land Division Act allows a maximum of 4 divisions from a parent parcel within any 10-year period without the requirement to plat the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land-division", "4-parts", "10-year"]
+    },
+    {
+      "key_topic_ref": "MI-16.1",
+      "question_text": "A Michigan property owner plans to divide land into parcels that will be accessed by a private road. What must be disclosed?",
+      "correct_answer": "The private road must be disclosed to buyers",
+      "distractors": ["Private roads are prohibited for divisions", "Only public road access is needed", "No disclosure is required for roads"],
+      "explanation": "The Michigan Land Division Act requires disclosure of private road access. Buyers must be informed that the road is privately maintained and not a public road.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["land-division", "private-road", "disclosure"]
+    },
+    {
+      "key_topic_ref": "MI-16.1",
+      "question_text": "A Michigan landowner divided property into 3 parcels in 2020. In 2025, she wants to create 2 more parcels from the remaining land without platting. Can she do this?",
+      "correct_answer": "No, only 1 division remains until 2030",
+      "distractors": ["Yes, a new 10-year period started in January 2025", "Yes, there is no time-based limit on land divisions", "No, the land can never be lawfully divided again"],
+      "explanation": "The Michigan Land Division Act limits divisions to 4 within a 10-year period. Having used 3 divisions in 2020, only 1 remains until the 10-year period expires in 2030.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["land-division", "10-year-limit", "calculation"]
+    },
+    {
+      "key_topic_ref": "MI-16.1",
+      "question_text": "A Michigan land division must comply with which local requirements?",
+      "correct_answer": "Zoning and minimum parcel size standards",
+      "distractors": ["Only federal environmental regulations apply", "Only state building codes are required", "No local requirements apply to divisions"],
+      "explanation": "Michigan land divisions must comply with local zoning ordinances and minimum parcel size requirements in addition to the state Land Division Act restrictions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land-division", "zoning", "minimum-size"]
+    },
+    {
+      "key_topic_ref": "MI-16.1",
+      "question_text": "A developer wants to create 8 residential lots from a single Michigan parcel in one year. What is required?",
+      "correct_answer": "The developer must record a subdivision plat",
+      "distractors": ["File two separate division applications", "Obtain a variance from the 4-lot limit", "Wait until the second 10-year period"],
+      "explanation": "Since the Land Division Act limits unplatted divisions to 4 in a 10-year period, creating 8 lots requires the developer to go through the formal platting process and record a subdivision plat.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["land-division", "platting", "subdivision"]
+    },
+    {
+      "key_topic_ref": "MI-16.2",
+      "question_text": "A Michigan homeowner near a farm complains about manure odors. The farm follows GAAMPs. What protection does the farmer have?",
+      "correct_answer": "The farm is presumed not to be a nuisance",
+      "distractors": ["The farmer must cease all regular farm operations immediately", "The farmer must pay actual damages to all affected neighbors", "The homeowner can get a court injunction against the farm"],
+      "explanation": "Under Michigan's Right to Farm Act, farms that conform to Generally Accepted Agricultural Management Practices (GAAMPs) are presumed not to be a nuisance, protecting them from neighbor complaints.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["right-to-farm", "GAAMPs", "nuisance"]
+    },
+    {
+      "key_topic_ref": "MI-16.2",
+      "question_text": "A buyer is purchasing a home near farmland in Michigan. What must the seller disclose about the neighboring farm?",
+      "correct_answer": "Proximity to farming operations",
+      "distractors": ["The farm's annual revenue", "Names of all farm employees", "The farm's pesticide inventory"],
+      "explanation": "Michigan's seller disclosure requirements include mentioning proximity to farming operations. Buyers should understand that nearby farms are protected from nuisance claims under the Right to Farm Act.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["right-to-farm", "seller-disclosure", "proximity"]
+    },
+    {
+      "key_topic_ref": "MI-16.2",
+      "question_text": "What does GAAMPs stand for in the context of Michigan's Right to Farm Act?",
+      "correct_answer": "Generally Accepted Agricultural Management Practices",
+      "distractors": ["Government Approved Agriculture Methods Program", "General Assessment of Agricultural Manure Policy", "Graded Agricultural Acreage Measurement Plans"],
+      "explanation": "GAAMPs stands for Generally Accepted Agricultural Management Practices. Farms that conform to GAAMPs receive nuisance protection under Michigan's Right to Farm Act.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["right-to-farm", "GAAMPs", "definition"]
+    },
+    {
+      "key_topic_ref": "MI-16.2",
+      "question_text": "A Michigan farm does NOT follow GAAMPs and generates excessive noise. Can neighbors bring a nuisance claim?",
+      "correct_answer": "Yes, the nuisance presumption does not apply",
+      "distractors": ["No, all farms are fully protected by law", "Only if the farm is under 10 total acres", "Only after 5 years of recorded complaints"],
+      "explanation": "The Right to Farm Act's nuisance protection applies only to farms conforming to GAAMPs. A farm not following these practices loses the presumption and can face nuisance claims.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["right-to-farm", "non-compliant", "nuisance"]
+    },
+    {
+      "key_topic_ref": "MI-16.2",
+      "question_text": "A buyer asks an agent why the seller disclosure mentions nearby farming. What is the best explanation?",
+      "correct_answer": "Farms have legal protection from nuisance suits",
+      "distractors": ["Farm zoning increases property taxes", "The seller must provide crop reports", "Farms are required to share water rights"],
+      "explanation": "Michigan requires disclosure of farming proximity because the Right to Farm Act protects conforming farms from nuisance claims. Buyers need to understand they may not be able to stop normal farming activities.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["right-to-farm", "disclosure", "buyer-awareness"]
+    },
+    {
+      "key_topic_ref": "MI-16.3",
+      "question_text": "MSHDA's MI Home Loan program primarily assists buyers by providing:",
+      "correct_answer": "Below-market-rate mortgage financing",
+      "distractors": ["Free home inspections", "Property tax exemptions for 5 years", "Government-owned housing at no cost"],
+      "explanation": "MSHDA (Michigan State Housing Development Authority) offers the MI Home Loan program, which provides below-market interest rate mortgages to eligible homebuyers, along with down payment assistance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MSHDA", "MI-Home-Loan", "below-market"]
+    },
+    {
+      "key_topic_ref": "MI-16.3",
+      "question_text": "Several Michigan brokers agree to charge the same commission rate in their market area. Under the Antitrust Reform Act, this is:",
+      "correct_answer": "Illegal price fixing",
+      "distractors": ["Acceptable standard practice", "Legal if disclosed to clients", "Permitted for brokers in the same firm"],
+      "explanation": "Commission rates must be freely negotiable. Agreements among competing brokers to fix commission rates violate Michigan's Antitrust Reform Act and federal antitrust law, and can result in treble damages.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["antitrust", "price-fixing", "commissions"]
+    },
+    {
+      "key_topic_ref": "MI-16.3",
+      "question_text": "In a Michigan land contract, who holds legal title to the property during the contract period?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "The title company", "The county register of deeds"],
+      "explanation": "In a Michigan land contract, the seller retains legal title while the buyer receives equitable title. Legal title transfers to the buyer only when the contract is fully paid.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land-contract", "legal-title", "seller"]
+    },
+    {
+      "key_topic_ref": "MI-16.3",
+      "question_text": "A Michigan land contract buyer defaults on payments. What must the seller do before taking back the property?",
+      "correct_answer": "Provide notice and opportunity to cure",
+      "distractors": ["Immediately file a quiet title action", "Change the locks and reclaim the property", "Record a new deed in the seller's name"],
+      "explanation": "Michigan law requires specific forfeiture procedures for land contracts, including providing the buyer with notice of default and an opportunity to cure before the seller can reclaim the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["land-contract", "forfeiture", "notice-to-cure"]
+    },
+    {
+      "key_topic_ref": "MI-16.3",
+      "question_text": "A buyer on a Michigan land contract has equitable title. What does this mean regarding property rights?",
+      "correct_answer": "The buyer has an ownership interest but not deed",
+      "distractors": ["The buyer can sell without the seller's consent", "The buyer holds the recorded deed to property", "The buyer has no insurable interest at all"],
+      "explanation": "Equitable title gives the land contract buyer an ownership interest and the right to possess and use the property, but the actual deed (legal title) remains with the seller until the contract is fully paid.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["land-contract", "equitable-title", "ownership"]
+    }
+  ]
+}

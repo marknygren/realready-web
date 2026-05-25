@@ -1,0 +1,173 @@
+{
+  "standard_ref": "CT-11",
+  "scope": "state",
+  "state": "CT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CT-11.1",
+      "question_text": "What is the state conveyance tax rate on the first $800,000 of a residential sale in Connecticut?",
+      "correct_answer": "0.75%",
+      "distractors": ["0.50%", "1.25%", "2.25%"],
+      "explanation": "Connecticut uses a three-tier conveyance tax: 0.75% on the first $800,000, 1.25% on $800,001-$2,500,000, and 2.25% above $2,500,000 (the 'mansion tax').",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-tax", "rates", "residential"]
+    },
+    {
+      "key_topic_ref": "CT-11.1",
+      "question_text": "A home sells for $1,200,000. What is the total state conveyance tax?",
+      "correct_answer": "$11,000",
+      "distractors": ["$9,000", "$15,000", "$6,000"],
+      "explanation": "The tax is calculated in tiers: $800,000 × 0.75% = $6,000, plus $400,000 × 1.25% = $5,000, for a total of $11,000. The 2.25% rate only applies to amounts above $2,500,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conveyance-tax", "calculation", "tiered"]
+    },
+    {
+      "key_topic_ref": "CT-11.1",
+      "question_text": "The highest tier of Connecticut's state conveyance tax (2.25%) applies to sale prices above:",
+      "correct_answer": "$2,500,000",
+      "distractors": ["$800,000", "$1,000,000", "$5,000,000"],
+      "explanation": "The 2.25% 'mansion tax' rate applies to the portion of the sales price exceeding $2,500,000. This was established as part of the three-tier system effective July 1, 2020.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-tax", "mansion-tax", "2.25%"]
+    },
+    {
+      "key_topic_ref": "CT-11.1",
+      "question_text": "When an LLC purchases residential property in Connecticut, the conveyance tax rate on the first $800,000 is:",
+      "correct_answer": "1.75%",
+      "distractors": ["0.75%", "1.25%", "2.25%"],
+      "explanation": "When the buyer is not an individual (LLC, corporation, etc.), a higher surcharge rate applies: 1.75% on the first $800,000 and 2.25% above $800,000. This non-individual purchaser surcharge discourages entity-based purchases.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-tax", "LLC", "non-individual"]
+    },
+    {
+      "key_topic_ref": "CT-11.1",
+      "question_text": "Who is typically responsible for paying the state conveyance tax in Connecticut?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "Split equally between buyer and seller", "The party with higher net proceeds"],
+      "explanation": "The seller pays the state conveyance tax in Connecticut. The municipal tax is typically split or negotiable between the parties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-tax", "seller-pays", "responsibility"]
+    },
+    {
+      "key_topic_ref": "CT-11.2",
+      "question_text": "The standard municipal conveyance tax rate in most Connecticut towns is:",
+      "correct_answer": "0.25%",
+      "distractors": ["0.50%", "0.75%", "1.00%"],
+      "explanation": "Most Connecticut municipalities charge a 0.25% municipal conveyance tax. Targeted investment communities (like Stamford, Norwalk, Bridgeport) may charge up to 0.50%.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["municipal-tax", "0.25%", "conveyance"]
+    },
+    {
+      "key_topic_ref": "CT-11.2",
+      "question_text": "A property in Stamford (a targeted investment community) sells for $500,000. The municipal conveyance tax could be as high as:",
+      "correct_answer": "$2,500",
+      "distractors": ["$1,250", "$3,750", "$5,000"],
+      "explanation": "Targeted investment communities may charge up to 0.50% municipal conveyance tax. $500,000 × 0.50% = $2,500. Standard municipalities would charge $1,250 at the 0.25% rate.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["municipal-tax", "targeted-investment", "calculation"]
+    },
+    {
+      "key_topic_ref": "CT-11.2",
+      "question_text": "Which of the following transactions is typically exempt from Connecticut's conveyance tax?",
+      "correct_answer": "Transfer between spouses",
+      "distractors": ["Sale of a second home", "Transfer from an individual to their LLC", "Sale of commercial property"],
+      "explanation": "Transfers between spouses are exempt from Connecticut's conveyance tax. Other common exemptions include foreclosure sales and government transfers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-tax", "exemptions", "spouse-transfer"]
+    },
+    {
+      "key_topic_ref": "CT-11.2",
+      "question_text": "The municipal conveyance tax payment responsibility is typically:",
+      "correct_answer": "Split or negotiable between the parties",
+      "distractors": ["Always paid by the seller alone", "Always paid by the buyer alone", "Paid by the municipality from property taxes"],
+      "explanation": "While the state conveyance tax is paid by the seller, the municipal conveyance tax is typically split between the parties or negotiated as part of the transaction terms.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["municipal-tax", "split", "negotiable"]
+    },
+    {
+      "key_topic_ref": "CT-11.2",
+      "question_text": "A home sells for $600,000 in a standard Connecticut town. What is the combined state and municipal conveyance tax paid by the seller?",
+      "correct_answer": "$4,500 state plus $1,500 municipal",
+      "distractors": ["$6,000 state plus $1,500 municipal", "$4,500 state plus $3,000 municipal", "$7,500 state plus $1,500 municipal"],
+      "explanation": "State tax: $600,000 × 0.75% = $4,500 (all within the first $800K tier). Municipal tax: $600,000 × 0.25% = $1,500. Total would be $6,000 if the seller pays both, though the municipal tax may be split.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conveyance-tax", "municipal-tax", "calculation"]
+    },
+    {
+      "key_topic_ref": "CT-11.3",
+      "question_text": "Property in Connecticut is assessed for tax purposes at what percentage of fair market value?",
+      "correct_answer": "70%",
+      "distractors": ["100%", "50%", "80%"],
+      "explanation": "Connecticut assesses property at 70% of fair market value. This assessment ratio is consistent statewide, though mill rates vary by municipality.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "assessment-ratio", "70%"]
+    },
+    {
+      "key_topic_ref": "CT-11.3",
+      "question_text": "A Connecticut home has a fair market value of $400,000. What is its assessed value for property tax purposes?",
+      "correct_answer": "$280,000",
+      "distractors": ["$400,000", "$320,000", "$200,000"],
+      "explanation": "Connecticut assesses at 70% of fair market value: $400,000 × 0.70 = $280,000. The mill rate is then applied to this assessed value to calculate the actual tax.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-tax", "assessment", "calculation"]
+    },
+    {
+      "key_topic_ref": "CT-11.3",
+      "question_text": "Under PA 24-132, Connecticut municipalities must revalue property at least every:",
+      "correct_answer": "5 years",
+      "distractors": ["3 years", "4 years", "10 years"],
+      "explanation": "PA 24-132 extended the revaluation cycle from 4 years to 5 years. Revaluation results can be phased in over the cycle to smooth the impact on property owners.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "revaluation", "5-years"]
+    },
+    {
+      "key_topic_ref": "CT-11.3",
+      "question_text": "In Connecticut property tax, 1 mill equals:",
+      "correct_answer": "$1 per $1,000 of assessed value",
+      "distractors": ["$1 per $100 of assessed value", "$10 per $1,000 of assessed value", "$1 per $1,000 of market value"],
+      "explanation": "One mill equals $1 of tax for every $1,000 of assessed (not market) value. Mill rates vary significantly by municipality in Connecticut.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "mill-rate", "definition"]
+    },
+    {
+      "key_topic_ref": "CT-11.3",
+      "question_text": "A property with an assessed value of $280,000 is in a town with a mill rate of 30. The annual property tax is:",
+      "correct_answer": "$8,400",
+      "distractors": ["$8,000", "$9,100", "$12,000"],
+      "explanation": "Property tax = assessed value × mill rate / 1,000. So $280,000 × 30 / 1,000 = $8,400. The mill rate varies by municipality based on the town's budget and grand list.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-tax", "mill-rate", "calculation"]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "standard_ref": "WY-02",
+  "scope": "state",
+  "state": "WY",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "WY-02.1",
+      "question_text": "How many total hours of pre-license education must a Wyoming salesperson candidate complete?",
+      "correct_answer": "54 hours",
+      "distractors": [
+        "60 hours",
+        "40 hours",
+        "90 hours"
+      ],
+      "explanation": "Wyoming requires salesperson candidates to complete 54 total hours of pre-license education, divided between Salesperson I (approximately 30 hours) and Salesperson II (approximately 24 hours). Both courses must be completed before sitting for the licensing exam.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license", "education", "salesperson", "hours"]
+    },
+    {
+      "key_topic_ref": "WY-02.1",
+      "question_text": "A candidate scores 68% on the state portion of the Wyoming licensing exam. What is the result?",
+      "correct_answer": "Fails; must retake the state portion",
+      "distractors": [
+        "Passes with the minimum allowed score",
+        "May appeal to WREC for a score waiver",
+        "Must retake the entire licensing exam"
+      ],
+      "explanation": "Wyoming requires a minimum score of 70% on each portion of the split licensing exam. Scoring 68% on the state portion means the candidate has failed that section and must retake it. The national portion result, if passing, is typically retained.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exam", "passing_score", "Pearson_VUE", "state_portion"]
+    },
+    {
+      "key_topic_ref": "WY-02.1",
+      "question_text": "Which testing vendor administers the Wyoming real estate licensing examination?",
+      "correct_answer": "Pearson VUE",
+      "distractors": [
+        "PSI Services",
+        "Prometric",
+        "WREC directly"
+      ],
+      "explanation": "Wyoming contracts with Pearson VUE to administer its real estate licensing examinations. Candidates schedule and take the split exam (national and state portions) at Pearson VUE testing centers. Each portion requires a minimum score of 70% to pass.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "Pearson_VUE", "testing_vendor"]
+    },
+    {
+      "key_topic_ref": "WY-02.1",
+      "question_text": "A salesperson candidate completed Salesperson I but not Salesperson II. Can the candidate sit for the licensing exam?",
+      "correct_answer": "No, both courses must be completed first",
+      "distractors": [
+        "Yes, Salesperson I alone is sufficient",
+        "Yes, if the candidate has broker sponsorship",
+        "Yes, but only the national portion"
+      ],
+      "explanation": "Wyoming requires completion of both Salesperson I (approximately 30 hours) and Salesperson II (approximately 24 hours) before a candidate is eligible to sit for the licensing exam. Completing only one course does not satisfy the 54-hour pre-license education requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["pre-license", "education", "salesperson_I", "salesperson_II"]
+    },
+    {
+      "key_topic_ref": "WY-02.1",
+      "question_text": "The Wyoming licensing exam is structured as which type of examination?",
+      "correct_answer": "A split exam with national and state portions",
+      "distractors": [
+        "A single combined exam with one score",
+        "An oral examination before WREC",
+        "Three separate exams taken over 3 days"
+      ],
+      "explanation": "Wyoming uses a split examination format with separate national and state portions, each requiring a minimum passing score of 70%. This format allows the exam to test both general real estate knowledge and Wyoming-specific laws and practices.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "split_exam", "format", "national_state"]
+    },
+    {
+      "key_topic_ref": "WY-02.2",
+      "question_text": "Which license type allows a person to operate independently without a supervising broker in Wyoming?",
+      "correct_answer": "Broker license",
+      "distractors": [
+        "Salesperson license",
+        "Associate license",
+        "Apprentice license"
+      ],
+      "explanation": "In Wyoming, a broker license permits independent practice without supervision. A salesperson must work under a responsible broker at all times. The responsible broker is the designated broker for a company who oversees all licensee activities within that firm.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["license_types", "broker", "independent_practice"]
+    },
+    {
+      "key_topic_ref": "WY-02.2",
+      "question_text": "A property owner pays a friend $500 to find a tenant for a rental property. The friend is unlicensed. Is this legal in Wyoming?",
+      "correct_answer": "No, leasing for compensation requires licensure",
+      "distractors": [
+        "Yes, friends are exempt from license laws",
+        "Yes, payments under $1,000 are exempt",
+        "Yes, residential rentals are always exempt"
+      ],
+      "explanation": "Wyoming law requires a real estate license for anyone who engages in listing, selling, buying, exchanging, leasing, or property management for compensation. Receiving $500 to find a tenant is leasing for compensation and requires licensure, regardless of the personal relationship.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["license_required", "leasing", "compensation", "unlicensed"]
+    },
+    {
+      "key_topic_ref": "WY-02.2",
+      "question_text": "What is the role of a responsible broker in Wyoming?",
+      "correct_answer": "The designated broker overseeing a company",
+      "distractors": [
+        "Any broker who holds an active license",
+        "A salesperson with 10+ years experience",
+        "A WREC-appointed compliance officer"
+      ],
+      "explanation": "In Wyoming, a responsible broker is the designated broker for a real estate company who supervises all licensed activities within the firm. This person bears ultimate responsibility for ensuring that all affiliated salespersons and brokers comply with Wyoming real estate laws and WREC rules.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["responsible_broker", "designated_broker", "supervision"]
+    },
+    {
+      "key_topic_ref": "WY-02.2",
+      "question_text": "A salesperson negotiates a property exchange without broker knowledge or oversight. Which statement is accurate?",
+      "correct_answer": "This violates the supervision requirement",
+      "distractors": [
+        "Exchanges do not require any licensure",
+        "Salespersons may act independently here",
+        "Only the buyer's agent needs oversight"
+      ],
+      "explanation": "Wyoming salespersons must conduct all licensed activities under the supervision of their responsible broker. Exchanging property is a licensed activity, and conducting it without broker knowledge or oversight violates the supervisory requirement of Wyoming's licensing law.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["salesperson", "supervision", "exchange", "responsible_broker"]
+    },
+    {
+      "key_topic_ref": "WY-02.2",
+      "question_text": "Which of the following activities requires a Wyoming real estate license?",
+      "correct_answer": "Managing rental properties for a fee",
+      "distractors": [
+        "Selling your own personal residence",
+        "Giving free advice to a neighbor",
+        "Appraising property as a licensed appraiser"
+      ],
+      "explanation": "Property management for compensation is a licensed activity in Wyoming. Selling your own property, providing free advice, and performing appraisals under a separate appraiser license do not require a real estate license. The key trigger is performing listed activities for compensation on behalf of others.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["license_required", "property_management", "activities"]
+    },
+    {
+      "key_topic_ref": "WY-02.3",
+      "question_text": "What is the minimum age to obtain a real estate license in Wyoming?",
+      "correct_answer": "18 years old",
+      "distractors": [
+        "21 years old",
+        "16 years old",
+        "19 years old"
+      ],
+      "explanation": "Wyoming requires license applicants to be at least 18 years of age. This minimum age requirement ensures that licensees have reached the age of majority and can legally enter into contracts, which is essential for practicing real estate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["age_requirement", "application", "minimum_age"]
+    },
+    {
+      "key_topic_ref": "WY-02.3",
+      "question_text": "A license applicant refuses to submit fingerprints as part of the background check. What happens to the application?",
+      "correct_answer": "The application cannot proceed",
+      "distractors": [
+        "WREC waives the requirement for first-time applicants",
+        "The applicant can substitute a character reference",
+        "The applicant receives a provisional license instead"
+      ],
+      "explanation": "Wyoming requires all license applicants to undergo a background check with fingerprinting. Refusing to submit fingerprints means the applicant cannot complete the mandatory background check, and therefore the application cannot be processed or approved.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["background_check", "fingerprinting", "application"]
+    },
+    {
+      "key_topic_ref": "WY-02.3",
+      "question_text": "Which component is required as part of the Wyoming real estate license application process?",
+      "correct_answer": "Background check with fingerprinting",
+      "distractors": [
+        "Two years of college education",
+        "A letter of recommendation from a broker",
+        "Completion of an apprenticeship program"
+      ],
+      "explanation": "Wyoming requires all license applicants to undergo a criminal background check that includes fingerprinting. This requirement helps protect the public by screening applicants for criminal history that might affect their fitness to hold a real estate license.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["application", "background_check", "fingerprinting", "requirements"]
+    },
+    {
+      "key_topic_ref": "WY-02.3",
+      "question_text": "A 17-year-old completes all 54 hours of pre-license education and passes the exam. Can WREC issue a license?",
+      "correct_answer": "No, the applicant must be at least 18",
+      "distractors": [
+        "Yes, passing the exam is the only requirement",
+        "Yes, if a parent co-signs the application",
+        "Yes, with a provisional license until age 18"
+      ],
+      "explanation": "Even though the applicant has completed all education requirements and passed the exam, Wyoming law requires applicants to be at least 18 years old. WREC cannot issue a license to a minor, regardless of other qualifications. The applicant must wait until turning 18 to apply.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["age_requirement", "application", "minor", "eligibility"]
+    },
+    {
+      "key_topic_ref": "WY-02.3",
+      "question_text": "An applicant has a felony conviction from 8 years ago. How does this affect the Wyoming license application?",
+      "correct_answer": "WREC reviews the background check individually",
+      "distractors": [
+        "The applicant is permanently barred",
+        "Felonies older than 5 years are ignored",
+        "The applicant only needs a judge's letter"
+      ],
+      "explanation": "A felony conviction does not automatically disqualify an applicant in Wyoming. WREC reviews each background check on a case-by-case basis, considering factors such as the nature of the offense, time elapsed, and evidence of rehabilitation. However, a felony conviction is grounds for potential denial.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["background_check", "felony", "application", "WREC_review"]
+    }
+  ]
+}

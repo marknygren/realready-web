@@ -1,0 +1,118 @@
+{
+  "standard_ref": "MA-01",
+  "scope": "state",
+  "state": "MA",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "MA-01.1",
+      "question_text": "The Massachusetts Board of Registration of Real Estate Brokers and Salespersons operates under which state division?",
+      "correct_answer": "Division of Occupational Licensure",
+      "distractors": ["Division of Professional Regulation", "Department of Consumer Affairs", "Division of Real Estate Standards"],
+      "explanation": "The Board operates under the Massachusetts Division of Occupational Licensure. It is not a commission but a Board model, which distinguishes it from many other states.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["board", "licensing", "structure"]
+    },
+    {
+      "key_topic_ref": "MA-01.1",
+      "question_text": "A broker suspects a competing firm is commingling client funds. Who has the authority to examine that firm's financial records?",
+      "correct_answer": "The Board of Registration",
+      "distractors": ["The local district attorney", "The Massachusetts Bar Association", "The competing broker directly"],
+      "explanation": "The Board of Registration has the authority to examine records of brokers and salespersons at any time. This power is fundamental to the Board's regulatory oversight.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["board", "enforcement", "records"]
+    },
+    {
+      "key_topic_ref": "MA-01.1",
+      "question_text": "Which entity contracts with PSI to administer the Massachusetts real estate licensing examination?",
+      "correct_answer": "The Board of Registration",
+      "distractors": ["The Division of Banks", "The Secretary of State", "The Attorney General's Office"],
+      "explanation": "The Board of Registration approves examination applications and contracts with PSI to administer the licensing exams for both salespersons and brokers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["board", "examination", "PSI"]
+    },
+    {
+      "key_topic_ref": "MA-01.1",
+      "question_text": "An applicant for a Massachusetts real estate license is currently on probation for a misdemeanor. What action will the Board MOST likely take?",
+      "correct_answer": "Deny the application",
+      "distractors": ["Issue a provisional license", "Require additional education hours", "Grant the license with conditions"],
+      "explanation": "The Board does not license applicants currently on probation or parole. This is part of the Board's 'Good Moral Character' standards for initial licensure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["board", "good-moral-character", "licensing"]
+    },
+    {
+      "key_topic_ref": "MA-01.1",
+      "question_text": "The Board establishes standards for initial licensure based on which policy requirement?",
+      "correct_answer": "Good Moral Character",
+      "distractors": ["Financial Responsibility", "Professional Competency", "Continuing Education Compliance"],
+      "explanation": "The Board establishes 'Good Moral Character' standards as a requirement for initial licensure. This includes background checks and evaluation of the applicant's fitness to practice.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["board", "good-moral-character", "licensing"]
+    },
+    {
+      "key_topic_ref": "MA-01.2",
+      "question_text": "A Massachusetts licensee is found to have commingled client funds. Which Board sanction is the MOST severe option available?",
+      "correct_answer": "License revocation",
+      "distractors": ["Written warning", "Mandatory additional education", "License suspension"],
+      "explanation": "Revocation is the most severe sanction the Board can impose, removing the license entirely. Suspension is less severe as it is for a specified period, and fines are the least severe.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sanctions", "discipline", "revocation"]
+    },
+    {
+      "key_topic_ref": "MA-01.2",
+      "question_text": "A salesperson knowingly misrepresents a property's square footage to a buyer. Which sanctions can the Board impose?",
+      "correct_answer": "Fines, suspension, or revocation",
+      "distractors": ["Only a written reprimand", "Fines only, up to $1,000", "Suspension only, for 30 days"],
+      "explanation": "The Board can impose fines, license suspension, or license revocation for violations of licensing law. Misrepresentation is a serious violation that can warrant any level of sanction.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["sanctions", "misrepresentation", "discipline"]
+    },
+    {
+      "key_topic_ref": "MA-01.2",
+      "question_text": "A licensee fails to deposit a buyer's earnest money into a trust account and instead uses it for personal expenses. The Board may impose:",
+      "correct_answer": "Revocation for conversion of funds",
+      "distractors": ["Only a written warning letter", "A mandatory continuing education course", "No penalty if the funds are later returned"],
+      "explanation": "Using client funds for personal expenses is conversion — one of the most serious violations. The Board can revoke the license regardless of whether the funds are eventually returned.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["sanctions", "conversion", "trust-account"]
+    },
+    {
+      "key_topic_ref": "MA-01.2",
+      "question_text": "A broker engages in housing discrimination against a protected class. In addition to MCAD action, the Board may independently impose which consequence?",
+      "correct_answer": "License suspension or revocation",
+      "distractors": ["Only a mandatory fair housing course", "A civil fine payable to the victim", "No action until MCAD completes its case"],
+      "explanation": "Discrimination is grounds for Board discipline independent of any MCAD action. The Board can suspend or revoke a license for violations including discrimination, without waiting for MCAD proceedings.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["sanctions", "discrimination", "discipline"]
+    },
+    {
+      "key_topic_ref": "MA-01.2",
+      "question_text": "Which of the following is a common ground for Board disciplinary action against a licensee?",
+      "correct_answer": "Engaging in unlicensed activity",
+      "distractors": ["Charging below-market commissions", "Declining a listing opportunity", "Referring a client to an attorney"],
+      "explanation": "Engaging in unlicensed activity, commingling funds, misrepresentation, and discrimination are common grounds for Board discipline. Commission rates, declining listings, and attorney referrals are not violations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sanctions", "discipline", "violations"]
+    }
+  ]
+}

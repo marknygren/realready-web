@@ -1,0 +1,173 @@
+{
+  "standard_ref": "TN-11",
+  "scope": "state",
+  "state": "TN",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "TN-11.1",
+      "question_text": "Where must a Tennessee principal broker maintain the firm's trust account?",
+      "correct_answer": "A federally insured institution in Tennessee",
+      "distractors": ["Any bank located in the United States", "A TREC-operated state escrow account", "The principal broker's personal bank account"],
+      "explanation": "Trust accounts must be in a federally insured financial institution located in Tennessee and properly designated as a 'trust' or 'escrow' account.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "bank requirement", "federally insured"]
+    },
+    {
+      "key_topic_ref": "TN-11.1",
+      "question_text": "How must a Tennessee trust account be designated at the bank?",
+      "correct_answer": "As a trust or escrow account",
+      "distractors": ["As a business checking account", "As the broker's personal savings", "As a TREC-regulated account"],
+      "explanation": "The trust account must be properly designated as a 'trust' or 'escrow' account at the financial institution. This distinguishes it from the broker's personal or business operating funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "designation", "escrow"]
+    },
+    {
+      "key_topic_ref": "TN-11.1",
+      "question_text": "Who is responsible for managing the trust account in a Tennessee brokerage?",
+      "correct_answer": "The principal broker",
+      "distractors": ["Each affiliate broker individually", "The firm's accountant or CPA", "TREC's financial oversight division"],
+      "explanation": "The principal broker is responsible for managing the trust/escrow account. This includes ensuring proper deposits, maintaining records, and preventing commingling.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "principal broker", "management"]
+    },
+    {
+      "key_topic_ref": "TN-11.1",
+      "question_text": "An affiliate broker receives a $5,000 earnest money check. Where must it be deposited?",
+      "correct_answer": "The principal broker's trust/escrow account",
+      "distractors": ["The affiliate broker's personal account", "The listing agent's business account", "A separate account for each transaction"],
+      "explanation": "All earnest money and trust funds must be deposited in the trust/escrow account maintained by the principal broker. Affiliate brokers do not maintain their own trust accounts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest money", "trust account", "deposit"]
+    },
+    {
+      "key_topic_ref": "TN-11.1",
+      "question_text": "A principal broker opens a trust account at an out-of-state online bank. Is this compliant with Tennessee law?",
+      "correct_answer": "No, the institution must be in Tennessee",
+      "distractors": ["Yes, if it is FDIC insured", "Yes, if TREC approves the bank", "Yes, for online-only transactions"],
+      "explanation": "Tennessee requires trust accounts to be in a federally insured financial institution in Tennessee. An out-of-state bank, even if FDIC insured, does not meet this requirement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust account", "Tennessee institution", "compliance"]
+    },
+    {
+      "key_topic_ref": "TN-11.2",
+      "question_text": "When must trust funds generally be deposited if the contract does not specify a timeframe?",
+      "correct_answer": "Promptly upon acceptance of the offer",
+      "distractors": ["Within 10 business days of the receipt", "At the time of closing and not before it", "Only after TREC approves the transaction"],
+      "explanation": "TREC rules require trust funds to be deposited promptly upon acceptance unless the contract specifies a different timeline. 'Promptly' means without unreasonable delay.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deposit timeline", "promptly", "3 business days"]
+    },
+    {
+      "key_topic_ref": "TN-11.2",
+      "question_text": "A principal broker deposits $200 of personal funds in the trust account to cover bank fees. Is this commingling?",
+      "correct_answer": "No, small amounts to keep the account open are permitted",
+      "distractors": ["Yes, any personal funds constitute commingling", "Only if the total personal amount exceeds $100", "Only with prior written TREC approval on file"],
+      "explanation": "A broker may maintain a small amount of personal funds in the trust account to keep it open, which is standard practice. This is not considered commingling.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "exception", "bank fees"]
+    },
+    {
+      "key_topic_ref": "TN-11.2",
+      "question_text": "A broker uses earnest money from a pending transaction to pay the firm's utility bill. What violation occurred?",
+      "correct_answer": "Commingling and improper use of trust funds",
+      "distractors": ["No violation if the money is replaced before closing", "Acceptable if the principal broker approves", "Only a violation if the deal falls through"],
+      "explanation": "Using trust funds for business expenses is commingling and improper use — a serious violation that is grounds for license revocation. Trust funds belong to the parties, not the broker.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commingling", "improper use", "trust funds"]
+    },
+    {
+      "key_topic_ref": "TN-11.2",
+      "question_text": "What is the potential penalty for improper use of trust/escrow funds in Tennessee?",
+      "correct_answer": "License revocation",
+      "distractors": ["A written warning for first offense", "A $500 administrative fine only", "Mandatory retraining course only"],
+      "explanation": "Improper use of trust/escrow funds is one of the most serious violations and is grounds for license revocation. It demonstrates untrustworthiness with client funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust funds", "revocation", "penalty"]
+    },
+    {
+      "key_topic_ref": "TN-11.2",
+      "question_text": "Mixing client trust funds with the broker's personal or business funds is known as:",
+      "correct_answer": "Commingling",
+      "distractors": ["Conversion", "Interpleading", "Escheatment"],
+      "explanation": "Commingling is the prohibited practice of mixing trust funds with personal or business funds. Conversion is the unauthorized use of those funds. Both are serious violations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "definition", "trust funds"]
+    },
+    {
+      "key_topic_ref": "TN-11.3",
+      "question_text": "When may trust funds be disbursed from the escrow account?",
+      "correct_answer": "According to the terms of the contract",
+      "distractors": ["At the broker's discretion at any time", "Only after TREC issues a release order", "Only at the closing table"],
+      "explanation": "Trust funds may only be disbursed according to the terms of the contract or agreement between the parties. The broker cannot unilaterally decide when to release funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disbursement", "contract terms", "trust funds"]
+    },
+    {
+      "key_topic_ref": "TN-11.3",
+      "question_text": "A buyer and seller dispute who should receive the earnest money after a failed transaction. What can the broker do?",
+      "correct_answer": "Interplead the funds with the court",
+      "distractors": ["Split the funds equally between parties", "Return the funds to the buyer automatically", "Keep the funds until the dispute resolves itself"],
+      "explanation": "When there is a dispute, the broker may interplead the funds — deposit them with the court and let the court decide. The broker should not unilaterally decide who gets the money.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["interpleader", "dispute", "earnest money"]
+    },
+    {
+      "key_topic_ref": "TN-11.3",
+      "question_text": "A buyer offers a promissory note as earnest money instead of cash. Is this acceptable in Tennessee?",
+      "correct_answer": "Yes, if accepted by the seller and disclosed",
+      "distractors": ["No, only cash or checks are acceptable", "Only for transactions under $100,000", "Only with TREC written approval"],
+      "explanation": "Non-liquid valuables such as promissory notes can serve as earnest money in Tennessee if accepted by the parties and properly disclosed. The key is transparency.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest money", "promissory note", "non-liquid"]
+    },
+    {
+      "key_topic_ref": "TN-11.3",
+      "question_text": "Interest earned on funds in a Tennessee trust account belongs to whom?",
+      "correct_answer": "Handled as agreed by the parties",
+      "distractors": ["Automatically to the principal broker", "Always to the buyer who deposited it", "To the TREC operating fund"],
+      "explanation": "Any interest earned on trust account funds must be handled as agreed by the parties. The broker cannot claim the interest for themselves without agreement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["interest", "trust account", "party agreement"]
+    },
+    {
+      "key_topic_ref": "TN-11.3",
+      "question_text": "A broker interpleads disputed earnest money. What happens to the broker's involvement in the dispute?",
+      "correct_answer": "The court decides the outcome of the dispute",
+      "distractors": ["The broker must continue mediating", "TREC takes over the dispute resolution", "The funds are returned to the buyer by default"],
+      "explanation": "When a broker interpleads funds, they deposit the money with the court and step aside. The court then determines who is entitled to the funds based on the contract terms and circumstances.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["interpleader", "court", "dispute resolution"]
+    }
+  ]
+}

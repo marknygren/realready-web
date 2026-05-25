@@ -1,0 +1,173 @@
+{
+  "standard_ref": "DC-06",
+  "scope": "state",
+  "state": "DC",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "DC-06.1",
+      "question_text": "Where must a DC broker maintain trust account funds?",
+      "correct_answer": "A federally insured institution in the District",
+      "distractors": ["Any bank in the Washington metro area", "A personal savings account with proper records", "A financial institution in any US state"],
+      "explanation": "DC requires trust funds to be held in a separate trust or escrow account at a federally insured financial institution located in the District of Columbia.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "location", "requirements"]
+    },
+    {
+      "key_topic_ref": "DC-06.1",
+      "question_text": "A buyer submits a $10,000 earnest money deposit. The contract does not specify a deposit deadline. When must the broker deposit it?",
+      "correct_answer": "Within a reasonable time",
+      "distractors": ["Within 24 hours of receipt", "Within 3 business days of receipt", "By the next business day"],
+      "explanation": "DC requires trust funds to be deposited within the time specified in the contract. If no time is specified, the funds must be deposited within a reasonable time.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest money", "deposit", "timing"]
+    },
+    {
+      "key_topic_ref": "DC-06.1",
+      "question_text": "Can a DC broker keep any personal funds in the trust account?",
+      "correct_answer": "Yes, a small amount to cover bank fees",
+      "distractors": ["No, absolutely no personal funds allowed", "Yes, up to $500 for operating expenses", "Yes, up to 10% of the account balance"],
+      "explanation": "Brokers may maintain a small amount of personal funds in the trust account solely to cover bank service charges. This prevents the account from being closed due to fees depleting client funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "personal funds", "bank fees"]
+    },
+    {
+      "key_topic_ref": "DC-06.1",
+      "question_text": "Under what circumstances may a DC broker disburse trust account funds?",
+      "correct_answer": "Only as authorized by the parties or by law",
+      "distractors": ["At the broker's discretion at any time", "Only after the transaction has fully closed", "Only with written approval from DLCP"],
+      "explanation": "Trust funds may only be disbursed as authorized by the parties to the transaction or as required by contract or law. Unauthorized disbursement is a serious violation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "disbursement", "authorization"]
+    },
+    {
+      "key_topic_ref": "DC-06.1",
+      "question_text": "A purchase contract specifies that the earnest money deposit must be made within 5 business days. The broker deposits it on day 7. What violation has occurred?",
+      "correct_answer": "Late deposit beyond contract deadline",
+      "distractors": ["Commingling of client funds", "Conversion of trust funds", "No violation since it was deposited"],
+      "explanation": "When the contract specifies a deposit timeline, the broker must comply. Late deposit violates the contract terms and DC trust account rules, though it is not commingling or conversion.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust account", "deposit", "violation"]
+    },
+    {
+      "key_topic_ref": "DC-06.2",
+      "question_text": "What is commingling in the context of DC real estate trust accounts?",
+      "correct_answer": "Mixing client funds with personal or business funds",
+      "distractors": ["Holding funds from multiple clients together", "Depositing funds in a non-DC bank", "Earning interest on client trust funds"],
+      "explanation": "Commingling occurs when a broker mixes client trust funds with their own personal or business operating funds. Holding multiple clients' funds together in one trust account is standard practice, not commingling.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "trust account", "definition"]
+    },
+    {
+      "key_topic_ref": "DC-06.2",
+      "question_text": "A DC broker uses a client's earnest money deposit to pay the office rent. This is an example of:",
+      "correct_answer": "Conversion",
+      "distractors": ["Commingling", "Negligent accounting", "An escrow shortage"],
+      "explanation": "Conversion is the unauthorized use of client funds for personal or business purposes. It is more serious than commingling because the funds are actually spent rather than just improperly mixed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conversion", "trust funds", "violation"]
+    },
+    {
+      "key_topic_ref": "DC-06.2",
+      "question_text": "What is the potential consequence for a DC licensee found guilty of converting trust funds?",
+      "correct_answer": "License revocation",
+      "distractors": ["A written warning for the first offense", "A mandatory 30-day suspension only", "A fine of up to $500"],
+      "explanation": "Conversion of trust funds is one of the most serious violations in real estate. It can result in license revocation, criminal prosecution, and civil liability. It demonstrates a fundamental breach of fiduciary duty.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conversion", "revocation", "discipline"]
+    },
+    {
+      "key_topic_ref": "DC-06.2",
+      "question_text": "A broker deposits a client's earnest money into the firm's general operating account instead of the trust account. Even if the funds are not spent, this violates which rule?",
+      "correct_answer": "The prohibition against commingling",
+      "distractors": ["The conversion prohibition only", "Record retention requirements", "The advertising rules"],
+      "explanation": "Depositing client funds into any account other than the designated trust account constitutes commingling, even if the funds are never used for personal purposes. The violation is in the mixing, not the spending.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commingling", "trust account", "operating account"]
+    },
+    {
+      "key_topic_ref": "DC-06.2",
+      "question_text": "Which statement about DC trust account rules is correct?",
+      "correct_answer": "Brokers cannot mix client funds with business funds",
+      "distractors": ["Salespersons may hold their own trust accounts", "Trust accounts can be at any US bank", "Interest on trust accounts goes to the broker"],
+      "explanation": "Commingling is strictly prohibited in DC. Only brokers (not salespersons) can hold trust accounts, and they must be at federally insured institutions in DC.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "trust account", "rules"]
+    },
+    {
+      "key_topic_ref": "DC-06.3",
+      "question_text": "Who bears ultimate responsibility for trust account activity in a DC brokerage?",
+      "correct_answer": "The broker",
+      "distractors": ["The salesperson who received the deposit", "The office manager", "DLCP"],
+      "explanation": "The broker is responsible for all trust account activity, even if day-to-day management is delegated to an employee. The broker cannot shift liability by delegating the task.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker responsibility", "trust account", "liability"]
+    },
+    {
+      "key_topic_ref": "DC-06.3",
+      "question_text": "A broker delegates trust account management to an office administrator. If the administrator makes an error, who is responsible?",
+      "correct_answer": "The broker remains fully responsible",
+      "distractors": ["The administrator is solely responsible", "Responsibility is shared equally", "DLCP assumes responsibility for errors"],
+      "explanation": "Even when trust account duties are delegated, the broker remains fully responsible for all trust account activity. Delegation does not transfer legal liability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker responsibility", "delegation", "liability"]
+    },
+    {
+      "key_topic_ref": "DC-06.3",
+      "question_text": "DLCP has the authority to do what regarding a broker's trust account?",
+      "correct_answer": "Audit the account records",
+      "distractors": ["Freeze the account without notice", "Transfer funds to the Guaranty Fund", "Close the account and redistribute funds"],
+      "explanation": "DLCP has the authority to audit trust account records to ensure compliance. Trust account records must be maintained and available for inspection. Freezing or closing accounts would require a court order.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["DLCP", "audit", "trust account"]
+    },
+    {
+      "key_topic_ref": "DC-06.3",
+      "question_text": "How long must a DC broker maintain trust account records?",
+      "correct_answer": "3 years from closing or listing termination",
+      "distractors": ["1 year from the date of deposit", "5 years from the transaction date", "7 years as required by the IRS"],
+      "explanation": "DC requires brokers to maintain all transaction records, including trust account records, for 3 years from the date of closing or termination of the listing agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record retention", "trust account", "3 years"]
+    },
+    {
+      "key_topic_ref": "DC-06.3",
+      "question_text": "A broker's trust account is found to have a shortage during a DLCP audit. What is the broker's immediate obligation?",
+      "correct_answer": "Restore the account to the correct balance",
+      "distractors": ["File a report with the DC Council", "Close the account and open a new one", "Notify all clients of the shortage"],
+      "explanation": "The broker must immediately restore the trust account to its correct balance. The shortage itself may trigger further investigation and potential disciplinary action by the Commission.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "shortage", "audit"]
+    }
+  ]
+}

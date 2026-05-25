@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WA-14",
+  "scope": "state",
+  "state": "WA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WA-14.1",
+      "question_text": "A married couple in Washington purchases a home during their marriage using joint earnings. How is title classified?",
+      "correct_answer": "Community property",
+      "distractors": ["Joint tenancy", "Tenancy in common", "Separate property"],
+      "explanation": "Washington is one of 9 community property states. All property acquired during marriage using marital funds is community property, owned 50/50 by both spouses regardless of whose name is on the title.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["community-property", "marital-property", "title"]
+    },
+    {
+      "key_topic_ref": "WA-14.1",
+      "question_text": "A Washington spouse inherits a rental property during marriage. The rental income is classified as what?",
+      "correct_answer": "Separate property of that spouse",
+      "distractors": ["Community property", "Quasi-community property", "Joint tenancy property"],
+      "explanation": "In Washington, property received by gift or inheritance during marriage is separate property. Unlike Texas, income generated from separate property also remains separate property in Washington under RCW 26.16.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["separate-property", "inheritance", "rental-income"]
+    },
+    {
+      "key_topic_ref": "WA-14.1",
+      "question_text": "Which is considered separate property in Washington?",
+      "correct_answer": "Property owned before marriage",
+      "distractors": ["Wages earned during marriage", "A home bought during marriage", "Retirement benefits from employment"],
+      "explanation": "Under RCW 26.16, separate property includes property owned before marriage and property received as a gift or inheritance during marriage. Wages and property acquired during marriage from marital earnings are community property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["separate-property", "pre-marital", "classification"]
+    },
+    {
+      "key_topic_ref": "WA-14.1",
+      "question_text": "How does Washington differ from Texas regarding income from separate property?",
+      "correct_answer": "WA treats it as separate property",
+      "distractors": ["WA treats it as community property", "Both states treat it identically", "WA has no community property rules"],
+      "explanation": "In Washington, income from separate property remains separate property. This differs from Texas, where income from separate property is classified as community property. This distinction is important for property division.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["separate-property-income", "WA-vs-TX", "community-property"]
+    },
+    {
+      "key_topic_ref": "WA-14.1",
+      "question_text": "Washington is one of how many community property states?",
+      "correct_answer": "9 states",
+      "distractors": ["5 states", "12 states", "15 states"],
+      "explanation": "Washington is one of 9 community property states in the U.S. In these states, property acquired during marriage is presumed to be owned equally by both spouses.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["community-property", "state-count", "marital-law"]
+    },
+    {
+      "key_topic_ref": "WA-14.2",
+      "question_text": "A husband signs a deed selling community real property without his wife's signature. What is the status of this conveyance?",
+      "correct_answer": "Voidable by the wife",
+      "distractors": ["Void and unenforceable", "Valid if recorded properly", "Valid with broker attestation"],
+      "explanation": "In Washington, both spouses must sign any deed conveying community real property. A unilateral conveyance by one spouse without the other's consent is voidable — the non-signing spouse can challenge it, but it is not automatically void.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["spousal-consent", "voidable-deed", "community-property"]
+    },
+    {
+      "key_topic_ref": "WA-14.2",
+      "question_text": "What is required for a valid deed conveying community real property in Washington?",
+      "correct_answer": "Both spouses must sign the deed",
+      "distractors": ["Only the spouse on title signs", "A court order is required", "Either spouse may sign alone"],
+      "explanation": "Washington law requires both spouses (or domestic partners) to sign any deed that conveys, encumbers, or sells community real property. This protects each spouse's 50% ownership interest.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["spousal-consent", "deed-requirements", "conveyance"]
+    },
+    {
+      "key_topic_ref": "WA-14.2",
+      "question_text": "A Washington couple wants to convert community property to one spouse's separate property. How can they accomplish this?",
+      "correct_answer": "Execute a written agreement",
+      "distractors": ["File a court petition", "Record a quitclaim deed only", "Obtain broker certification"],
+      "explanation": "Washington spouses may convert community property to separate property (or vice versa) by written agreement. This transmutation must be documented in writing to be enforceable.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transmutation", "written-agreement", "property-conversion"]
+    },
+    {
+      "key_topic_ref": "WA-14.2",
+      "question_text": "In a Washington divorce, how is community property divided?",
+      "correct_answer": "By equitable distribution",
+      "distractors": ["Automatically split 50/50", "Awarded to the higher earner", "Based on title holder only"],
+      "explanation": "Washington follows equitable distribution in divorce, meaning the court divides community property fairly but not necessarily equally. The court considers factors like each spouse's financial situation and contributions to the marriage.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["divorce", "equitable-distribution", "property-division"]
+    },
+    {
+      "key_topic_ref": "WA-14.2",
+      "question_text": "A Washington spouse dies without a will. What happens to their half of the community property?",
+      "correct_answer": "Passes according to intestacy laws",
+      "distractors": ["Automatically goes to the children", "Reverts to the state", "Becomes the broker's liability"],
+      "explanation": "A deceased spouse can will their half of community property. If there is no will, that half passes according to Washington's intestacy laws. The surviving spouse retains their own half of community property automatically.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["death", "community-property", "intestacy"]
+    },
+    {
+      "key_topic_ref": "WA-14.3",
+      "question_text": "What is Washington's minimum homestead exemption amount?",
+      "correct_answer": "$125,000",
+      "distractors": ["$50,000", "$75,000", "$250,000"],
+      "explanation": "Washington's homestead exemption is the greater of $125,000 or the county median single-family home sale price from the preceding year. This means the actual exemption varies significantly by county under RCW 6.13.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead", "exemption-amount", "RCW-6.13"]
+    },
+    {
+      "key_topic_ref": "WA-14.3",
+      "question_text": "Must a Washington homeowner file a declaration to claim the homestead exemption?",
+      "correct_answer": "No, it applies automatically",
+      "distractors": ["Yes, with the county auditor", "Yes, with the court clerk", "Yes, during property tax filing"],
+      "explanation": "Washington's homestead exemption applies automatically to a homeowner's primary residence. Unlike some states, no filing or declaration is required to claim the protection under RCW 6.13.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead", "automatic-protection", "no-filing"]
+    },
+    {
+      "key_topic_ref": "WA-14.3",
+      "question_text": "A creditor with an unsecured judgment tries to force the sale of a Washington homeowner's residence. The equity is below the homestead exemption. What is the result?",
+      "correct_answer": "The home is protected from forced sale",
+      "distractors": ["The creditor can force the sale", "The court splits equity equally", "The homeowner must pay half"],
+      "explanation": "Washington's homestead exemption protects the home from unsecured creditors up to the exemption amount. If the homeowner's equity is at or below the exemption, the property cannot be forced into sale by unsecured creditors.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homestead", "creditor-protection", "forced-sale"]
+    },
+    {
+      "key_topic_ref": "WA-14.3",
+      "question_text": "Which lien can override Washington's homestead exemption?",
+      "correct_answer": "A mortgage lien on the property",
+      "distractors": ["An unsecured credit card judgment", "A personal loan default", "A medical debt collection"],
+      "explanation": "Washington's homestead exemption does not protect against mortgages, mechanic's liens, or property tax liens. These secured claims take priority over the homestead exemption regardless of the exemption amount.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["homestead", "exceptions", "mortgage-lien"]
+    },
+    {
+      "key_topic_ref": "WA-14.3",
+      "question_text": "In King County, the homestead exemption is approximately $986,000. Why does it differ from the statutory $125,000 minimum?",
+      "correct_answer": "It equals the county median home price",
+      "distractors": ["King County passed a local override", "The state legislature set a higher cap", "Inflation adjustments raised it"],
+      "explanation": "Washington's homestead exemption is the greater of $125,000 or the county's median single-family home sale price from the preceding year. King County's high median home prices result in a much larger exemption than the statutory minimum.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["homestead", "King-County", "county-median"]
+    }
+  ]
+}

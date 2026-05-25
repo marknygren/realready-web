@@ -1,0 +1,233 @@
+{
+  "standard_ref": "WY-14",
+  "scope": "state",
+  "state": "WY",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WY-14.1",
+      "question_text": "What is the primary method of land description used in Wyoming?",
+      "correct_answer": "Rectangular (government) survey system",
+      "distractors": [
+        "Metes and bounds descriptions",
+        "Lot and block from recorded plats",
+        "GPS coordinate-based descriptions"
+      ],
+      "explanation": "Due to Wyoming's vast open geography and western settlement patterns, the rectangular (government) survey system using townships and ranges is the primary method of land description. Metes and bounds is used in some areas but is not the dominant method.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land_description", "rectangular_survey", "primary_method"]
+    },
+    {
+      "key_topic_ref": "WY-14.1",
+      "question_text": "An agent describes a Wyoming parcel as 'the NW 1/4 of Section 12, T3N, R65W.' This description uses which system?",
+      "correct_answer": "Rectangular survey (township and range)",
+      "distractors": [
+        "Metes and bounds description system",
+        "Lot and block from a recorded plat",
+        "Reference to a recorded deed number"
+      ],
+      "explanation": "References to sections, townships (T3N), and ranges (R65W) are hallmarks of the rectangular (government) survey system. This is the township and range system that divides land into a grid of 6-mile-square townships containing 36 sections.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["land_description", "rectangular_survey", "township_range"]
+    },
+    {
+      "key_topic_ref": "WY-14.1",
+      "question_text": "A Cheyenne subdivision uses 'Lot 5, Block 3, Sunrise Estates' as its property description. This method is known as:",
+      "correct_answer": "Lot and block from a recorded plat",
+      "distractors": [
+        "Rectangular government survey system",
+        "Metes and bounds legal description",
+        "Informal reference description only"
+      ],
+      "explanation": "Subdivisions in Wyoming use plat maps that divide the land into numbered lots and blocks with a subdivision name. This lot-and-block system is standard for developed residential areas, while the rectangular survey is used for larger rural parcels.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["land_description", "plat_map", "lot_and_block", "subdivision"]
+    },
+    {
+      "key_topic_ref": "WY-14.1",
+      "question_text": "A rural Wyoming property description reads 'beginning at an iron pin on the south bank of Clear Creek, thence south 200 feet...' This uses:",
+      "correct_answer": "Metes and bounds description",
+      "distractors": [
+        "Rectangular survey system",
+        "Lot and block plat reference",
+        "An informal street address"
+      ],
+      "explanation": "Descriptions using a point of beginning, directions, distances, and natural landmarks (like Clear Creek) are metes and bounds descriptions. While not the primary method in Wyoming, metes and bounds is used for some parcels, particularly irregularly shaped ones.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["land_description", "metes_and_bounds", "rural"]
+    },
+    {
+      "key_topic_ref": "WY-14.1",
+      "question_text": "Why is the rectangular survey system especially suited to Wyoming real estate?",
+      "correct_answer": "The state's open geography fits a grid system",
+      "distractors": [
+        "Wyoming law requires it for all transactions",
+        "It was mandated by the original state constitution",
+        "Mountain terrain makes other methods impossible"
+      ],
+      "explanation": "Wyoming's vast open plains and regular geography make the rectangular survey system practical and efficient. The system is not legally mandated for all transactions, and other methods like metes and bounds and plat maps are also used where appropriate.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["land_description", "rectangular_survey", "geography"]
+    },
+    {
+      "key_topic_ref": "WY-14.2",
+      "question_text": "Under Wyoming's Statute of Frauds, a contract for the sale of real estate must be:",
+      "correct_answer": "In writing to be enforceable",
+      "distractors": [
+        "Notarized and recorded with the county",
+        "Approved by both parties' attorneys",
+        "Filed with WREC within 10 days"
+      ],
+      "explanation": "Wyoming's Statute of Frauds requires that contracts for the sale of real estate be in writing to be enforceable. While notarization and recording are common practices, the core statutory requirement is a written agreement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute_of_frauds", "written_contract", "enforceability"]
+    },
+    {
+      "key_topic_ref": "WY-14.2",
+      "question_text": "A buyer and seller shake hands on a deal for a Laramie home at $350,000 but put nothing in writing. The buyer later tries to enforce the agreement. The contract is:",
+      "correct_answer": "Unenforceable under the Statute of Frauds",
+      "distractors": [
+        "Valid because both parties agreed verbally",
+        "Enforceable if witnesses were present",
+        "Binding once earnest money is deposited"
+      ],
+      "explanation": "Under Wyoming's Statute of Frauds, real estate contracts must be in writing to be enforceable. An oral agreement for real property, even if made in good faith with witnesses, cannot be enforced in court.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute_of_frauds", "oral_agreement", "unenforceable"]
+    },
+    {
+      "key_topic_ref": "WY-14.2",
+      "question_text": "Which element is NOT required in a valid Wyoming real estate purchase contract?",
+      "correct_answer": "Approval by a licensed attorney",
+      "distractors": [
+        "Identification of the parties involved",
+        "A legal description of the property",
+        "Signatures of the contracting parties"
+      ],
+      "explanation": "Wyoming does not require attorney approval for a valid real estate contract. The essential elements include party identification, legal description, consideration, signatures, and material terms. Attorney review is advisable but not a legal requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contract_elements", "essential_terms", "attorney"]
+    },
+    {
+      "key_topic_ref": "WY-14.2",
+      "question_text": "A Wyoming purchase contract includes financing, inspection, and appraisal contingencies. If the appraisal comes in below the purchase price, the buyer may:",
+      "correct_answer": "Exercise the appraisal contingency to withdraw",
+      "distractors": [
+        "Demand the seller reduce the price automatically",
+        "Force the lender to approve the full amount",
+        "File a complaint with WREC for price fraud"
+      ],
+      "explanation": "Contingencies protect the buyer's right to withdraw without penalty if specified conditions are not met. A low appraisal triggers the appraisal contingency, allowing the buyer to renegotiate or withdraw. It does not automatically reduce the price or compel the lender.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contingencies", "appraisal", "buyer_protection"]
+    },
+    {
+      "key_topic_ref": "WY-14.2",
+      "question_text": "A real estate contract in Wyoming is signed by a 16-year-old buyer. This contract is most likely:",
+      "correct_answer": "Voidable because the buyer is a minor",
+      "distractors": [
+        "Valid if the seller is a competent adult",
+        "Void and unenforceable from the start",
+        "Enforceable once a parent co-signs later"
+      ],
+      "explanation": "Competent parties are an essential element of a valid contract. A minor generally lacks legal capacity, making the contract voidable at the minor's option. It is not automatically void, but the minor can choose to disaffirm it.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["contract_elements", "competent_parties", "minor", "voidable"]
+    },
+    {
+      "key_topic_ref": "WY-14.3",
+      "question_text": "In Wyoming, who is authorized to prepare a broker's price opinion?",
+      "correct_answer": "Only licensed brokers",
+      "distractors": [
+        "Any licensed salesperson or broker",
+        "Only certified appraisers",
+        "Any WREC licensee including associates"
+      ],
+      "explanation": "Wyoming restricts the preparation of broker's price opinions to licensed brokers. Salespersons and associate brokers are not authorized to prepare BPOs. This is a distinction from appraisals, which require a separate appraiser license.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["BPO", "broker_only", "salesperson_excluded"]
+    },
+    {
+      "key_topic_ref": "WY-14.3",
+      "question_text": "A lender requests a BPO for a Wyoming property refinance. The broker should understand that a BPO:",
+      "correct_answer": "Is not an appraisal and cannot replace one",
+      "distractors": [
+        "Can substitute for an appraisal in any situation",
+        "Has the same legal weight as a full appraisal",
+        "Must follow USPAP standards for appraisals"
+      ],
+      "explanation": "A broker's price opinion is not an appraisal and cannot be substituted where an appraisal is required by law, such as in federally related transactions above certain thresholds. BPOs must comply with WREC regulations but are a separate service.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["BPO", "not_appraisal", "limitations"]
+    },
+    {
+      "key_topic_ref": "WY-14.3",
+      "question_text": "Salesperson Davis prepares a BPO for a client and charges a fee. This action is:",
+      "correct_answer": "A violation because only brokers may prepare BPOs",
+      "distractors": [
+        "Permitted if the supervising broker approves",
+        "Allowed for any active Wyoming licensee",
+        "Acceptable if no fee is charged"
+      ],
+      "explanation": "In Wyoming, only licensed brokers may prepare broker's price opinions. A salesperson cannot prepare a BPO even with broker supervision or approval. This restriction applies regardless of whether a fee is charged.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["BPO", "salesperson_violation", "broker_only"]
+    },
+    {
+      "key_topic_ref": "WY-14.3",
+      "question_text": "A Wyoming broker preparing a BPO must comply with regulations issued by:",
+      "correct_answer": "The Wyoming Real Estate Commission",
+      "distractors": [
+        "The Appraisal Foundation only",
+        "The Wyoming Association of Realtors",
+        "The local MLS governing board"
+      ],
+      "explanation": "BPOs in Wyoming must comply with regulations established by WREC, the state licensing authority. While appraisals fall under USPAP and the Appraisal Foundation, BPOs are regulated separately through the real estate commission.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["BPO", "WREC", "regulations", "compliance"]
+    },
+    {
+      "key_topic_ref": "WY-14.3",
+      "question_text": "A bank needs a property valuation for a federally related transaction. Can the bank use a BPO instead of an appraisal?",
+      "correct_answer": "No, a BPO cannot replace a required appraisal",
+      "distractors": [
+        "Yes, if the property value is under $250,000",
+        "Yes, if a licensed broker prepares it",
+        "Yes, for residential properties only"
+      ],
+      "explanation": "Where federal law or regulation requires a formal appraisal, a BPO cannot be substituted regardless of property value or who prepares it. BPOs serve a different purpose and lack the rigor and standards of a full appraisal.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["BPO", "appraisal_required", "federal_transactions"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "IA-01",
+  "scope": "state",
+  "state": "IA",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "IA-01.1",
+      "question_text": "How many members serve on the Iowa Real Estate Commission?",
+      "correct_answer": "7 members",
+      "distractors": ["5 members", "9 members", "11 members"],
+      "explanation": "IREC consists of 7 members appointed by the Governor: 5 licensed real estate professionals and 2 public members. All appointments must be confirmed by a two-thirds vote of the Iowa Senate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["IREC", "commission", "membership"]
+    },
+    {
+      "key_topic_ref": "IA-01.1",
+      "question_text": "How are IREC members confirmed after the Governor nominates them?",
+      "correct_answer": "Two-thirds vote of the Iowa Senate",
+      "distractors": ["Simple majority of the Iowa House", "Approval by the Attorney General", "No confirmation process is required"],
+      "explanation": "All IREC members are appointed by the Governor and must be confirmed by a two-thirds vote of the Iowa Senate. This confirmation process provides a check on the appointment power.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["IREC", "commission", "confirmation"]
+    },
+    {
+      "key_topic_ref": "IA-01.1",
+      "question_text": "A broker has served two full terms on IREC and is nominated for a third. Can she accept the appointment?",
+      "correct_answer": "Yes, 3 full terms is the maximum",
+      "distractors": ["No, 2 terms is the maximum", "Only with Senate supermajority", "Only if she changes counties"],
+      "explanation": "IREC members may serve a maximum of 3 full terms, totaling 9 years (3-year terms). Since the broker has served only 2 full terms, she is eligible for one more appointment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["IREC", "terms", "term limits"]
+    },
+    {
+      "key_topic_ref": "IA-01.1",
+      "question_text": "IREC includes both licensed professionals and public members. How many of the 7 seats are reserved for public members?",
+      "correct_answer": "2 public member seats",
+      "distractors": ["1 public member seat", "3 public member seats", "4 public member seats"],
+      "explanation": "Of IREC's 7 members, 5 must be licensed real estate professionals and 2 are public members. At least one of the licensed members must be a salesperson. This mix ensures both industry expertise and consumer perspective.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["IREC", "composition", "public members"]
+    },
+    {
+      "key_topic_ref": "IA-01.1",
+      "question_text": "IREC's authority to regulate real estate licensing derives from which Iowa statute?",
+      "correct_answer": "Chapter 543B",
+      "distractors": ["Chapter 558A", "Chapter 499B", "Chapter 524"],
+      "explanation": "Iowa Code Chapter 543B authorizes the Iowa Real Estate Commission and governs real estate licensing. Administrative rules are found under 193E. Chapter 558A covers seller disclosures, not licensing.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["IREC", "statute", "Chapter 543B"]
+    },
+    {
+      "key_topic_ref": "IA-01.2",
+      "question_text": "What is the minimum age to obtain an Iowa real estate salesperson license?",
+      "correct_answer": "18 years old",
+      "distractors": ["21 years old", "19 years old", "16 years old"],
+      "explanation": "Iowa requires salesperson applicants to be at least 18 years of age. This is consistent with the legal age to enter into contracts in Iowa.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["salesperson", "age requirement", "licensing"]
+    },
+    {
+      "key_topic_ref": "IA-01.2",
+      "question_text": "A candidate completes Iowa's pre-license course and passes the PSI exam. Within what timeframe must she apply for her license?",
+      "correct_answer": "6 months after passing the exam",
+      "distractors": ["12 months after passing the exam", "30 days after passing the exam", "3 months after passing the exam"],
+      "explanation": "Iowa applicants must submit their license application within 6 months of passing the PSI exam. After 6 months, the exam results expire and the candidate must retake the examination.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["salesperson", "application deadline", "PSI exam"]
+    },
+    {
+      "key_topic_ref": "IA-01.2",
+      "question_text": "A salesperson applicant asks if she can apply for an inactive license without a sponsoring broker. What is the correct answer?",
+      "correct_answer": "No, a sponsoring broker is required",
+      "distractors": ["Yes, inactive status needs no broker", "Only with Commission approval", "Yes, for the first 6 months only"],
+      "explanation": "Iowa does not allow salesperson applicants to apply for an inactive license. A sponsoring broker must be identified on the application. The applicant cannot practice or hold a license without broker sponsorship.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["salesperson", "sponsoring broker", "inactive"]
+    },
+    {
+      "key_topic_ref": "IA-01.2",
+      "question_text": "Which costs must an Iowa salesperson applicant pay at the time of application?",
+      "correct_answer": "$125 license plus $51 background",
+      "distractors": ["$200 combined application fee", "$125 with no background check", "$170 license plus $51 background"],
+      "explanation": "Iowa salesperson applicants pay a $125 license application fee plus $51 for fingerprinting and background check. Both are required at the time of application. The $170 fee applies to broker applications.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["salesperson", "fees", "application"]
+    },
+    {
+      "key_topic_ref": "IA-01.2",
+      "question_text": "An applicant had her license revoked in Nebraska 18 months ago. Can she apply for an Iowa salesperson license?",
+      "correct_answer": "No, revocation bars her for 2 years",
+      "distractors": ["Yes, other states don't affect Iowa", "Yes, if she retakes pre-license education", "No, revocation is a permanent bar"],
+      "explanation": "Iowa denies applications from anyone whose license was revoked in any state within the preceding 2 years. Since this applicant's revocation was only 18 months ago, she must wait an additional 6 months before applying.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["salesperson", "revocation", "eligibility"]
+    },
+    {
+      "key_topic_ref": "IA-01.3",
+      "question_text": "How many months of active salesperson experience does Iowa require before applying for a broker license?",
+      "correct_answer": "24 months",
+      "distractors": ["12 months", "36 months", "48 months"],
+      "explanation": "Iowa requires at least 24 months of active salesperson experience before a licensee may apply for a broker license. This experience must be as an active, practicing salesperson under a sponsoring broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "experience", "licensing"]
+    },
+    {
+      "key_topic_ref": "IA-01.3",
+      "question_text": "A salesperson wants to upgrade to a broker license. How many additional education hours must she complete beyond salesperson pre-license?",
+      "correct_answer": "60 hours of broker education",
+      "distractors": ["30 hours of broker education", "90 hours of broker education", "45 hours of broker education"],
+      "explanation": "Iowa requires 60 additional hours of broker-specific education completed within 24 months of taking the broker exam. This is in addition to the 60-hour salesperson pre-license course.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "education", "requirements"]
+    },
+    {
+      "key_topic_ref": "IA-01.3",
+      "question_text": "A broker candidate passes the national portion of the exam but fails the state portion. What happens?",
+      "correct_answer": "She retakes only the state portion",
+      "distractors": ["She must retake the entire exam", "She receives a provisional license", "The national score is also invalidated"],
+      "explanation": "Iowa's broker exam has separate passing requirements for the national and state portions. If a candidate passes one portion but fails the other, she only needs to retake the failed portion within the allowed timeframe.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker", "exam", "retake"]
+    },
+    {
+      "key_topic_ref": "IA-01.3",
+      "question_text": "A licensed agent from Illinois wants an Iowa license. Under Section 543B.15, what must she provide?",
+      "correct_answer": "Certification from her home state",
+      "distractors": ["Proof of Iowa residency status", "Two years of Iowa experience", "Written approval from IREC chair"],
+      "explanation": "Under §543B.15, nonresident applicants must provide a certification of licensure from their home state. Iowa may waive the exam requirement for nonresidents from states with reciprocity agreements. They must also sign the Nonresident Consent section.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["nonresident", "reciprocity", "543B.15"]
+    },
+    {
+      "key_topic_ref": "IA-01.3",
+      "question_text": "What is the application fee for an Iowa broker license?",
+      "correct_answer": "$170",
+      "distractors": ["$125", "$200", "$150"],
+      "explanation": "The Iowa broker license application fee is $170, which is $45 more than the $125 salesperson application fee. This is separate from the $51 fingerprint/background check fee also required.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "fees", "application"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MD-15",
+  "scope": "state",
+  "state": "MD",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MD-15.1",
+      "question_text": "What is ground rent in Baltimore's historical real estate practice?",
+      "correct_answer": "A lease of the land beneath improvements",
+      "distractors": ["A tax on vacant lots", "A fee for street maintenance", "A surcharge on rental properties"],
+      "explanation": "Ground rent is a historical Baltimore practice where the property owner owns the improvements but leases the land from a ground rent holder. Typical annual amounts range from $50 to $150.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ground rent", "Baltimore", "land lease"]
+    },
+    {
+      "key_topic_ref": "MD-15.1",
+      "question_text": "A Baltimore homeowner pays $100 per year in ground rent and wants to purchase the ground rent outright. Is this permitted under Maryland law?",
+      "correct_answer": "Yes, owners have a right to redeem",
+      "distractors": ["No, ground rents are perpetual", "Only if the ground rent holder agrees", "Only for commercial properties"],
+      "explanation": "Maryland law provides property owners with the right to redeem (purchase) the ground rent. This allows homeowners to convert from a ground rent arrangement to full fee simple ownership of the land.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ground rent", "redemption", "fee simple"]
+    },
+    {
+      "key_topic_ref": "MD-15.1",
+      "question_text": "Since 2007, what is the status of new residential ground rent leases in Maryland?",
+      "correct_answer": "Largely prohibited by law",
+      "distractors": ["Allowed with county approval", "Required for new construction", "Permitted but taxed at a higher rate"],
+      "explanation": "Since 2007, Maryland has largely prohibited the creation of new residential ground rent leases. However, existing unredeemed ground rents remain enforceable, though their enforcement is restricted by law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ground rent", "2007 prohibition", "new leases"]
+    },
+    {
+      "key_topic_ref": "MD-15.1",
+      "question_text": "A buyer is considering a Baltimore rowhouse subject to an unredeemed ground rent of $120 per year. The buyer's agent should advise the buyer that:",
+      "correct_answer": "The ground rent is enforceable but redeemable",
+      "distractors": ["Ground rents were eliminated statewide", "The seller must redeem it before closing", "It cannot exceed $50 per year by law"],
+      "explanation": "Existing unredeemed ground rents in Baltimore remain enforceable, even though new ones are largely prohibited since 2007. The buyer should be informed of the annual cost and their right to redeem the ground rent.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["ground rent", "buyer advisory", "unredeemed"]
+    },
+    {
+      "key_topic_ref": "MD-15.1",
+      "question_text": "Under a ground rent arrangement, the property owner holds:",
+      "correct_answer": "A leasehold interest in the land",
+      "distractors": ["Fee simple absolute", "A life estate", "An easement appurtenant"],
+      "explanation": "In a ground rent arrangement, the property owner holds a leasehold interest in the land while owning the improvements. The ground rent holder retains the reversionary interest in the land itself.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ground rent", "leasehold interest", "property rights"]
+    },
+    {
+      "key_topic_ref": "MD-15.2",
+      "question_text": "Maryland's Critical Area Act restricts development within what distance of the Chesapeake Bay and its tributaries?",
+      "correct_answer": "1,000 feet",
+      "distractors": ["500 feet", "2,500 feet", "One mile"],
+      "explanation": "The Critical Area Act applies to properties within 1,000 feet of the Chesapeake Bay and its tidal tributaries. Development in this zone is subject to restrictions designed to protect water quality and habitat.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Critical Area Act", "Chesapeake Bay", "1000 feet"]
+    },
+    {
+      "key_topic_ref": "MD-15.2",
+      "question_text": "A developer wants to build a subdivision on waterfront property 800 feet from a Chesapeake Bay tributary. What should the developer expect?",
+      "correct_answer": "Development restrictions under the Critical Area Act",
+      "distractors": ["No restrictions for residential construction", "An automatic building permit", "Federal approval only is needed"],
+      "explanation": "At 800 feet from a tributary, the property falls within the 1,000-foot Critical Area zone. The developer must comply with the Critical Area Act's development restrictions, which may limit density, require buffers, and protect habitat.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Critical Area Act", "development restrictions", "waterfront"]
+    },
+    {
+      "key_topic_ref": "MD-15.2",
+      "question_text": "A Maryland seller knows their home has elevated radon levels. What is their disclosure obligation?",
+      "correct_answer": "Disclose if known",
+      "distractors": ["No disclosure required under any law", "Mandatory professional testing first", "Radon must be remediated before sale"],
+      "explanation": "Maryland does not require mandatory radon testing, but sellers must disclose known radon issues. The same disclose-if-known standard applies to mold. Lead paint disclosure is mandatory for pre-1978 properties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["radon disclosure", "seller obligations", "known conditions"]
+    },
+    {
+      "key_topic_ref": "MD-15.2",
+      "question_text": "A property contains wetlands that span both state and federal jurisdictions. Which statement is accurate regarding development restrictions?",
+      "correct_answer": "Both federal and state protections apply",
+      "distractors": ["Only federal law governs wetlands", "State law preempts federal regulation", "Wetlands can be filled with a county permit"],
+      "explanation": "Wetlands in Maryland are protected by both federal regulations (such as the Clean Water Act) and state protections. Developers must comply with both layers of regulation, which may significantly restrict or prohibit development.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["wetlands", "federal and state protection", "development"]
+    },
+    {
+      "key_topic_ref": "MD-15.2",
+      "question_text": "For pre-1978 rental properties in Maryland, lead paint disclosure is:",
+      "correct_answer": "Mandatory",
+      "distractors": ["Voluntary", "Required only upon request", "Not applicable in Maryland"],
+      "explanation": "Maryland requires mandatory lead paint disclosure and compliance for all pre-1978 rental properties. This is part of the Reduction of Lead Risk in Housing Act, which also requires MDE registration and lead-safe certification.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead paint", "mandatory disclosure", "pre-1978"]
+    },
+    {
+      "key_topic_ref": "MD-15.3",
+      "question_text": "Maryland designates Priority Funding Areas (PFAs) primarily to:",
+      "correct_answer": "Direct state growth funding to manage sprawl",
+      "distractors": ["Restrict all new construction statewide", "Eliminate local zoning authority", "Provide federal tax credits to developers"],
+      "explanation": "Priority Funding Areas are designated zones where state growth-related funding is directed. This smart growth strategy manages sprawl by incentivizing development in areas with existing infrastructure rather than undeveloped rural land.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Priority Funding Areas", "smart growth", "sprawl management"]
+    },
+    {
+      "key_topic_ref": "MD-15.3",
+      "question_text": "What does the Maryland Agricultural Land Preservation Foundation (MALPF) do to protect farmland?",
+      "correct_answer": "Purchases development rights from farms",
+      "distractors": ["Buys farms and converts them to parks", "Provides crop subsidies to farmers", "Zones all farmland as residential"],
+      "explanation": "MALPF purchases agricultural easements (development rights) from willing landowners, keeping the land in agricultural use while compensating the owner. The landowner retains ownership but cannot develop the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MALPF", "farmland preservation", "development rights"]
+    },
+    {
+      "key_topic_ref": "MD-15.3",
+      "question_text": "Under the ADU Act of 2025, which Maryland jurisdictions must authorize accessory dwelling units on single-family lots?",
+      "correct_answer": "Charter counties and Baltimore City",
+      "distractors": ["All 23 counties statewide", "Only Montgomery and Prince George's counties", "Only municipalities with over 50,000 residents"],
+      "explanation": "The ADU Act of 2025 requires charter counties and Baltimore City to authorize accessory dwelling units on single-family residential lots. This is designed to increase housing supply and affordability.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ADU Act 2025", "accessory dwelling units", "charter counties"]
+    },
+    {
+      "key_topic_ref": "MD-15.3",
+      "question_text": "A developer proposes a large retail project in Annapolis's historic district. What additional regulatory review should the developer anticipate?",
+      "correct_answer": "Historic preservation review requirements",
+      "distractors": ["No additional review beyond zoning", "Only federal EPA approval", "Automatic approval if zoned commercial"],
+      "explanation": "Annapolis, along with Baltimore and Frederick, has historic districts with additional regulatory oversight. Development proposals within these districts must comply with historic preservation requirements that may restrict design, materials, and scale.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["historic districts", "Annapolis", "preservation review"]
+    },
+    {
+      "key_topic_ref": "MD-15.3",
+      "question_text": "In Maryland, zoning and land use decisions are primarily controlled at which level of government?",
+      "correct_answer": "County and municipal level",
+      "distractors": ["State level exclusively", "Federal level", "Regional planning commissions"],
+      "explanation": "Zoning and land use control in Maryland is primarily exercised at the county and municipal level. While the state establishes frameworks like PFAs and the Critical Area Act, local governments make day-to-day zoning decisions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["zoning", "local control", "land use"]
+    }
+  ]
+}

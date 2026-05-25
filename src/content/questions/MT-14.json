@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MT-14",
+  "scope": "state",
+  "state": "MT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MT-14.1",
+      "question_text": "Montana's Residential Landlord and Tenant Act applies to which type of properties?",
+      "correct_answer": "Most residential rental properties",
+      "distractors": ["Only commercial lease properties", "Only properties with 5+ units", "Only month-to-month tenancies"],
+      "explanation": "Montana's Residential Landlord and Tenant Act governs most residential tenancies in the state, with limited exceptions such as owner-occupied duplexes. It establishes rights and duties for both landlords and tenants.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "RLTA", "residential rentals"]
+    },
+    {
+      "key_topic_ref": "MT-14.1",
+      "question_text": "A landlord fails to repair a broken furnace in January. Which duty is violated?",
+      "correct_answer": "Maintaining heat and habitability",
+      "distractors": ["Providing cable television service", "Paying all tenant utility bills", "Furnishing the entire rental unit"],
+      "explanation": "Under MCA 70-24, Montana landlords must maintain the property in habitable condition, including providing heat and hot water. Failing to repair a furnace in winter is a clear violation of this duty.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["landlord duties", "habitability", "heat requirement"]
+    },
+    {
+      "key_topic_ref": "MT-14.1",
+      "question_text": "Which is NOT a tenant obligation under Montana's RLTA?",
+      "correct_answer": "Making structural repairs",
+      "distractors": ["Paying rent on time", "Keeping the unit clean", "Complying with lease terms"],
+      "explanation": "Montana tenants must pay rent, keep the unit clean, comply with the lease, and not damage property. Structural repairs are the landlord's responsibility under the habitability requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tenant duties", "obligations", "structural repairs"]
+    },
+    {
+      "key_topic_ref": "MT-14.1",
+      "question_text": "A tenant in Great Falls wants to end a month-to-month rental. How much notice is required?",
+      "correct_answer": "30 days written notice",
+      "distractors": ["14 days written notice", "60 days written notice", "No notice is required"],
+      "explanation": "Montana requires 30 days' written notice to terminate a month-to-month tenancy. This applies to both landlords and tenants. The notice period begins on the next rent due date after delivery.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["notice requirements", "month-to-month", "termination"]
+    },
+    {
+      "key_topic_ref": "MT-14.1",
+      "question_text": "A landlord must provide which essential services to residential tenants?",
+      "correct_answer": "Water, heat, and hot water",
+      "distractors": ["Internet and cable TV", "Furniture and appliances", "Landscaping and snow removal"],
+      "explanation": "Under the Montana RLTA, landlords must provide essential services including water, heat, and hot water. They must also comply with building and housing codes and maintain all systems in working order.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord duties", "essential services", "habitability"]
+    },
+    {
+      "key_topic_ref": "MT-14.2",
+      "question_text": "What is the maximum security deposit a Montana landlord can charge?",
+      "correct_answer": "No statutory maximum exists",
+      "distractors": ["One month of rent at most", "Two months of rent at most", "Three months of rent at most"],
+      "explanation": "Montana does not impose a statutory maximum on security deposits. Landlords can charge any amount, though market conditions typically keep deposits reasonable. MCA Chapter 70-25 governs deposit handling.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "no maximum", "MCA 70-25"]
+    },
+    {
+      "key_topic_ref": "MT-14.2",
+      "question_text": "A tenant vacates and gives a forwarding address on March 1. By what date must the deposit be returned if deductions are made?",
+      "correct_answer": "March 31",
+      "distractors": ["March 15", "April 30", "March 11"],
+      "explanation": "Montana landlords must return the security deposit within 30 days after the tenant vacates and provides a forwarding address when deductions apply. If no deductions are made, the deadline is shortened to 10 days.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "return deadline", "30 days"]
+    },
+    {
+      "key_topic_ref": "MT-14.2",
+      "question_text": "A landlord deducts $500 for carpet wear from normal use over 5 years. Is this proper?",
+      "correct_answer": "No, normal wear is not deductible",
+      "distractors": ["Yes, any carpet damage counts", "Yes, if documented with photos", "Yes, if the lease allows it"],
+      "explanation": "Montana law allows deductions only for damage beyond normal wear and tear. Carpet wear from normal foot traffic over 5 years constitutes normal wear and tear and cannot be deducted from the security deposit.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["security deposit", "normal wear and tear", "deductions"]
+    },
+    {
+      "key_topic_ref": "MT-14.2",
+      "question_text": "A landlord makes deductions from a deposit. What must accompany the remaining balance?",
+      "correct_answer": "An itemized deduction statement",
+      "distractors": ["A verbal explanation only", "Photographs of the property", "A court order for deductions"],
+      "explanation": "When a Montana landlord makes deductions from a security deposit, they must provide an itemized statement listing each deduction and its amount. This statement must accompany the return of any remaining balance within 30 days.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "itemized statement", "deductions"]
+    },
+    {
+      "key_topic_ref": "MT-14.2",
+      "question_text": "A landlord returns the full deposit with no deductions. What is the return deadline?",
+      "correct_answer": "10 days after vacating",
+      "distractors": ["30 days after vacating", "14 days after vacating", "5 business days"],
+      "explanation": "When a Montana landlord makes no deductions from the security deposit, the full amount must be returned within 10 days after the tenant vacates and provides a forwarding address. The 30-day deadline applies when deductions are made.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "10-day return", "no deductions"]
+    },
+    {
+      "key_topic_ref": "MT-14.3",
+      "question_text": "A tenant fails to pay rent. How many days' notice must the landlord give before filing for eviction?",
+      "correct_answer": "3 days",
+      "distractors": ["5 days", "14 days", "30 days"],
+      "explanation": "For non-payment of rent in Montana, the landlord must give a 3-day notice to pay or vacate before filing an unlawful detainer action. If the tenant pays within the 3-day period, the tenancy continues.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "non-payment", "3-day notice"]
+    },
+    {
+      "key_topic_ref": "MT-14.3",
+      "question_text": "A tenant violates the lease by keeping an unauthorized pet. What notice must the landlord provide?",
+      "correct_answer": "14 days with chance to cure",
+      "distractors": ["3 days to vacate", "30 days without cure option", "Immediate eviction, no notice"],
+      "explanation": "For lease violations other than non-payment, Montana requires 14 days' notice. The tenant must be given the opportunity to cure the violation within that period. If cured, the tenancy continues.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "lease violation", "14-day notice", "cure"]
+    },
+    {
+      "key_topic_ref": "MT-14.3",
+      "question_text": "A landlord changes the locks to force a tenant out after a dispute. Is this lawful?",
+      "correct_answer": "No, self-help eviction is banned",
+      "distractors": ["Yes, if the tenant owes rent", "Yes, with 24 hours' notice", "Yes, if the lease allows it"],
+      "explanation": "Montana strictly prohibits self-help evictions. Landlords cannot change locks, remove doors, shut off utilities, or take any action to force a tenant out without going through the court-supervised unlawful detainer process.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["self-help eviction", "prohibited", "unlawful detainer"]
+    },
+    {
+      "key_topic_ref": "MT-14.3",
+      "question_text": "A tenant reports a code violation. The landlord serves an eviction notice the next week. What defense applies?",
+      "correct_answer": "Retaliation ban for 6 months",
+      "distractors": ["None, landlord can evict freely", "Only if the complaint was valid", "Only with a written lease"],
+      "explanation": "Montana prohibits retaliatory evictions within 6 months of a tenant filing a complaint with a government agency. The landlord cannot evict, raise rent, or decrease services in retaliation for the tenant exercising legal rights.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["retaliatory eviction", "tenant protection", "6-month ban"]
+    },
+    {
+      "key_topic_ref": "MT-14.3",
+      "question_text": "A Montana tenant receives a 30-day notice to vacate but the notice was delivered orally. Is the notice valid?",
+      "correct_answer": "No, the notice must be in writing",
+      "distractors": ["Yes, oral notice is sufficient", "Yes, if a witness was present", "Yes, if the tenant acknowledges it"],
+      "explanation": "Montana requires that notices to terminate a month-to-month tenancy be in writing. An oral notice, even if the correct 30-day period is given, does not satisfy the statutory requirement and is not legally effective.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "written notice", "month-to-month"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "UT-03",
+  "scope": "state",
+  "state": "UT",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "UT-03.1",
+      "question_text": "What is RELMS in Utah real estate?",
+      "correct_answer": "The online license management system",
+      "distractors": ["A standardized listing contract form", "The real estate recovery fund database", "An MLS alternative for rural areas"],
+      "explanation": "RELMS (Real Estate License Management System) is Utah's online system for managing license-related activities including renewals, transfers, terminations, activation/inactivation, and continuing education tracking.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["relms", "license-management", "online-system"]
+    },
+    {
+      "key_topic_ref": "UT-03.1",
+      "question_text": "A sales agent is transferring to a new brokerage. Which system would they use to process this change?",
+      "correct_answer": "RELMS",
+      "distractors": ["The MLS transfer portal", "The county recorder's office", "The Association of REALTORS portal"],
+      "explanation": "RELMS handles all license management activities including transfers between brokerages. Licensees use this online system for renewals, transfers, terminations, and CE tracking.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["relms", "transfers", "brokerage"]
+    },
+    {
+      "key_topic_ref": "UT-03.1",
+      "question_text": "Which of the following can be completed through RELMS?",
+      "correct_answer": "License renewal and CE tracking",
+      "distractors": ["Filing consumer complaints", "Scheduling the licensing exam", "Purchasing E&O insurance"],
+      "explanation": "RELMS handles renewals, transfers, terminations, activation/inactivation, and continuing education tracking. Consumer complaints are filed with the Division, and exams are scheduled through Pearson VUE.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["relms", "renewal", "continuing-education"]
+    },
+    {
+      "key_topic_ref": "UT-03.1",
+      "question_text": "A licensee wants to change their status from inactive to active. What must happen first?",
+      "correct_answer": "They must affiliate with a principal broker",
+      "distractors": ["They must retake the licensing exam", "They must complete 120 hours of education", "They must wait 12 months after inactivation"],
+      "explanation": "To move from inactive to active status, a sales agent or associate broker must affiliate with a principal broker. Active status means the licensee is affiliated with a PB and authorized to practice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["relms", "activation", "principal-broker"]
+    },
+    {
+      "key_topic_ref": "UT-03.1",
+      "question_text": "A sales agent wants to temporarily stop practicing but keep their license. They should:",
+      "correct_answer": "Place their license on inactive status",
+      "distractors": ["Surrender their license to the Division", "Transfer their license to another agent", "Request a license suspension"],
+      "explanation": "An inactive license means the licensee is not affiliated with a broker and cannot practice, but the license is maintained. They can reactivate later by affiliating with a principal broker and meeting any CE requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["relms", "inactive", "license-status"]
+    },
+    {
+      "key_topic_ref": "UT-03.2",
+      "question_text": "How many hours of continuing education must a Utah licensee complete per renewal cycle?",
+      "correct_answer": "18 hours",
+      "distractors": ["12 hours", "15 hours", "24 hours"],
+      "explanation": "Utah requires 18 hours of certified continuing education per renewal cycle. Of these, at least 9 hours must be core topic courses, and 3 of those core hours must be a Division-approved mandatory course.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing-education", "18-hours", "renewal"]
+    },
+    {
+      "key_topic_ref": "UT-03.2",
+      "question_text": "Of the 18 hours of CE required per cycle, how many must be core topic courses?",
+      "correct_answer": "At least 9 hours",
+      "distractors": ["At least 6 hours", "At least 12 hours", "All 18 hours"],
+      "explanation": "At least 9 of the 18 CE hours must be core topic courses. Of those 9 core hours, 3 must be a Division-approved mandatory course. The remaining hours may be core or elective courses.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing-education", "core-topics", "requirements"]
+    },
+    {
+      "key_topic_ref": "UT-03.2",
+      "question_text": "A newly licensed sales agent is renewing for the first time. What special CE requirement applies?",
+      "correct_answer": "A 12-hour New Agent Course is required",
+      "distractors": ["Only 9 hours of CE are needed", "No CE is required for the first renewal", "A 24-hour advanced course is required"],
+      "explanation": "First-time renewals require the 12-hour New Agent Course plus a 3-hour Division-approved mandatory course. The remaining 3 hours may be core or elective courses, for 18 hours total.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["new-agent-course", "first-renewal", "continuing-education"]
+    },
+    {
+      "key_topic_ref": "UT-03.2",
+      "question_text": "By what deadline must CE be completed for an on-time license renewal in Utah?",
+      "correct_answer": "The 15th of the renewal month",
+      "distractors": ["The last day of the renewal month", "30 days before the renewal date", "The first day of the renewal month"],
+      "explanation": "All CE must be completed by the 15th of the renewal month to ensure an on-time renewal. Late completion may result in lapsed or late renewal status.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing-education", "deadline", "renewal"]
+    },
+    {
+      "key_topic_ref": "UT-03.2",
+      "question_text": "A licensee has completed 12 hours of elective CE and 3 hours of Division-approved mandatory courses. How many more core hours are needed?",
+      "correct_answer": "6 more core topic hours",
+      "distractors": ["3 more core topic hours", "No additional hours needed", "9 more core topic hours"],
+      "explanation": "The licensee needs 18 total hours with at least 9 core hours. They have 3 core (mandatory) + 12 elective = 15 hours. They need 3 more hours total, but also need 6 more core hours to reach the 9-hour core minimum. So they need 6 core hours.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["continuing-education", "core-topics", "calculation"]
+    },
+    {
+      "key_topic_ref": "UT-03.3",
+      "question_text": "A licensee is convicted of a misdemeanor for fraud. What must they do under Utah reporting requirements?",
+      "correct_answer": "Report the conviction to the Division",
+      "distractors": ["Notify their clients immediately", "File a police report with local authorities", "Submit a letter to the Real Estate Commission"],
+      "explanation": "Utah licensees must report criminal convictions to the Division of Real Estate as part of event occurrence reporting. This is a mandatory reporting requirement along with contact info changes and disciplinary actions in other states.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["reporting", "criminal-conviction", "compliance"]
+    },
+    {
+      "key_topic_ref": "UT-03.3",
+      "question_text": "Which event must a Utah licensee report to the Division?",
+      "correct_answer": "A disciplinary action in another state",
+      "distractors": ["A change in personal email address only", "Joining the Association of REALTORS", "Completing an elective CE course"],
+      "explanation": "Event occurrence reporting includes criminal convictions, contact information changes, disciplinary actions in other states, and civil judgments related to real estate. Joining a professional association is not a reportable event.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["reporting", "event-occurrence", "discipline"]
+    },
+    {
+      "key_topic_ref": "UT-03.3",
+      "question_text": "A sales agent leaves their brokerage but does not affiliate with a new one. Their license becomes:",
+      "correct_answer": "Inactive",
+      "distractors": ["Revoked", "Suspended", "Expired"],
+      "explanation": "A sales agent or associate broker who is not affiliated with a principal broker has an inactive license. They cannot practice real estate but maintain their license and can reactivate by affiliating with a PB.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["license-status", "inactive", "affiliation"]
+    },
+    {
+      "key_topic_ref": "UT-03.3",
+      "question_text": "An associate broker with an inactive license receives a call from a friend asking for help selling their home for a fee. The associate broker should:",
+      "correct_answer": "Decline until they affiliate with a PB",
+      "distractors": ["Proceed since they hold a broker license", "Help for free to avoid licensing issues", "Request a temporary activation online"],
+      "explanation": "An inactive licensee cannot practice real estate regardless of their license level. They must first affiliate with a principal broker to activate their license before providing any compensated real estate services.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inactive", "license-status", "practice"]
+    },
+    {
+      "key_topic_ref": "UT-03.3",
+      "question_text": "A licensee receives a civil judgment related to a real estate transaction in another state. Is this reportable in Utah?",
+      "correct_answer": "Yes, it must be reported to the Division",
+      "distractors": ["No, only Utah judgments are reportable", "Only if the judgment exceeds $50,000", "Only if it results in license revocation"],
+      "explanation": "Utah licensees must report civil judgments related to real estate and disciplinary actions in other states to the Division of Real Estate. This applies regardless of the jurisdiction where the judgment was issued.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["reporting", "civil-judgment", "other-states"]
+    }
+  ]
+}

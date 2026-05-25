@@ -1,0 +1,173 @@
+{
+  "standard_ref": "DC-13",
+  "scope": "state",
+  "state": "DC",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "DC-13.1",
+      "question_text": "DC's rent stabilization program under the Rental Housing Act of 1985 primarily applies to buildings built before which date?",
+      "correct_answer": "December 31, 1975",
+      "distractors": ["January 1, 1985", "December 31, 1990", "January 1, 1970"],
+      "explanation": "DC's rent control primarily covers apartment buildings built before December 31, 1975. Buildings constructed after this date are generally exempt from rent stabilization.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rent control", "1975", "coverage"]
+    },
+    {
+      "key_topic_ref": "DC-13.1",
+      "question_text": "A building was constructed in 1980 in DC. Is it subject to rent control?",
+      "correct_answer": "No, buildings built after 1975 are generally exempt",
+      "distractors": ["Yes, all rental buildings in DC are covered", "Yes, if it has more than 4 units", "Only if the owner elects to register"],
+      "explanation": "Buildings constructed after December 31, 1975, are generally exempt from DC's rent stabilization program. The law targets older housing stock where tenant protections are most needed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rent control", "exemption", "construction date"]
+    },
+    {
+      "key_topic_ref": "DC-13.1",
+      "question_text": "Which of the following is exempt from DC rent control?",
+      "correct_answer": "Single-family homes and condominiums",
+      "distractors": ["Pre-1976 apartment buildings", "Units occupied by elderly tenants", "Buildings registered with RAD"],
+      "explanation": "Exemptions from DC rent control include single-family homes, condominiums, government-subsidized housing, certain small landlords (4 or fewer units), and buildings built after December 31, 1975.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rent control", "exemptions", "single-family"]
+    },
+    {
+      "key_topic_ref": "DC-13.1",
+      "question_text": "All rental units in DC must be registered with which division?",
+      "correct_answer": "The Rental Accommodations Division (RAD)",
+      "distractors": ["The Department of Licensing and Consumer Protection", "The Office of the Tenant Advocate (OTA)", "The DC Housing Authority (DCHA)"],
+      "explanation": "All rental units in DC, whether or not they are subject to rent control, must be registered with the Rental Accommodations Division (RAD) of the Department of Housing and Community Development.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RAD", "registration", "rental units"]
+    },
+    {
+      "key_topic_ref": "DC-13.1",
+      "question_text": "A DC landlord owns a building with 3 rental units built in 1960. Can they claim the small landlord exemption from rent control?",
+      "correct_answer": "Possibly, if they meet the 4-or-fewer-units conditions",
+      "distractors": ["No, all pre-1976 buildings are subject to rent control", "Yes, any building under 10 units is exempt", "Only if none of the tenants are elderly"],
+      "explanation": "DC provides a potential exemption for small landlords with 4 or fewer rental units, subject to certain conditions. The landlord would need to meet all requirements to qualify for this exemption.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["rent control", "small landlord", "exemption"]
+    },
+    {
+      "key_topic_ref": "DC-13.2",
+      "question_text": "What formula determines the maximum annual rent increase for most DC rent-controlled units?",
+      "correct_answer": "CPI-W plus 2%, or 10%, whichever is less",
+      "distractors": ["A flat 5% per year", "CPI-W only, with no additional percentage", "10% per year with no cap"],
+      "explanation": "For standard (non-elderly/disabled) tenants, DC allows annual rent increases of the CPI-W plus 2%, capped at a maximum of 10%. This formula balances landlord costs with tenant affordability.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rent increase", "CPI", "formula"]
+    },
+    {
+      "key_topic_ref": "DC-13.2",
+      "question_text": "How does the rent increase cap differ for elderly or disabled tenants in DC?",
+      "correct_answer": "They receive a lower cap based on CPI-W only",
+      "distractors": ["They have the same cap as all other tenants", "They receive a complete freeze on rent increases", "They can only have increases every 3 years"],
+      "explanation": "Elderly and disabled tenants receive a lower maximum increase based on CPI-W alone (without the additional 2%). For 2026, this means a 2.1% cap versus 4.1% for other tenants.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["elderly", "disabled", "rent cap"]
+    },
+    {
+      "key_topic_ref": "DC-13.2",
+      "question_text": "When a rent-controlled unit becomes vacant in DC, how is the allowable rent increase determined?",
+      "correct_answer": "10% if tenant was there 10 years or less; 20% if longer",
+      "distractors": ["A flat 20% increase regardless of prior tenancy", "No increase is permitted on vacancy in DC", "Unlimited increase to current market rent level"],
+      "explanation": "DC's vacancy increase depends on the prior tenant's length of occupancy: 10% if they lived there 10 years or less, 20% if more than 10 years. Banked annual increases may also apply.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["vacancy increase", "20%", "rent control"]
+    },
+    {
+      "key_topic_ref": "DC-13.2",
+      "question_text": "A DC landlord wants a rent increase larger than the CPI formula allows. What can they do?",
+      "correct_answer": "File a hardship petition with RAD",
+      "distractors": ["Simply raise the rent and notify the tenant", "Get a court order from DC Superior Court", "Apply to DLCP for a special exemption"],
+      "explanation": "Landlords can file hardship petitions with RAD to request larger increases if operating costs require it. They can also pursue voluntary agreements with 70%+ of tenants for above-standard increases.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["hardship petition", "RAD", "rent increase"]
+    },
+    {
+      "key_topic_ref": "DC-13.2",
+      "question_text": "A landlord and 75% of tenants in a DC building agree to a rent increase above the standard cap. Under DC law, this is called a:",
+      "correct_answer": "Voluntary agreement",
+      "distractors": ["Hardship exception", "Rent stabilization waiver", "Market adjustment agreement"],
+      "explanation": "A voluntary agreement allows a landlord and 70%+ of tenants to agree to increases beyond the standard CPI-based cap. This requires the consent of a supermajority of tenants in the building.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["voluntary agreement", "70%", "rent increase"]
+    },
+    {
+      "key_topic_ref": "DC-13.3",
+      "question_text": "What is the maximum security deposit a DC landlord can charge?",
+      "correct_answer": "1 month's rent",
+      "distractors": ["2 months' rent", "First and last month's rent", "No statutory limit in DC"],
+      "explanation": "DC limits security deposits to 1 month's rent. The deposit must be held in an interest-bearing account at a DC financial institution, and the landlord must provide a written receipt.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "1 month", "maximum"]
+    },
+    {
+      "key_topic_ref": "DC-13.3",
+      "question_text": "How must a DC landlord hold a tenant's security deposit?",
+      "correct_answer": "In an interest-bearing escrow account in DC",
+      "distractors": ["In any personal bank account", "In a non-interest bearing trust account", "In a separate account only if over $1,000"],
+      "explanation": "DC requires security deposits to be held in an interest-bearing escrow account at a DC financial institution. The landlord must provide the tenant with the name and address of the depository.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "interest-bearing", "escrow"]
+    },
+    {
+      "key_topic_ref": "DC-13.3",
+      "question_text": "A DC tenant moves out. Within how many days must the landlord return the security deposit or provide an itemized deduction statement?",
+      "correct_answer": "45 days",
+      "distractors": ["30 days", "60 days", "21 days"],
+      "explanation": "DC landlords have 45 days after move-out to either return the security deposit plus interest or notify the tenant of intent to withhold with an itemized statement of deductions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "45 days", "return"]
+    },
+    {
+      "key_topic_ref": "DC-13.3",
+      "question_text": "A DC landlord fails to return a security deposit in bad faith. What penalty can the court impose?",
+      "correct_answer": "Treble (triple) damages",
+      "distractors": ["Double damages", "A $500 fine", "Loss of the rental license"],
+      "explanation": "If a DC landlord fails to return a security deposit in bad faith, they can be liable for treble (triple) the amount owed. This penalty incentivizes landlords to comply with the return requirements.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "treble damages", "bad faith"]
+    },
+    {
+      "key_topic_ref": "DC-13.3",
+      "question_text": "Under DC law, can a landlord change the locks to evict a tenant who has not paid rent?",
+      "correct_answer": "No, self-help evictions are prohibited",
+      "distractors": ["Yes, after giving 5 days' written notice", "Yes, if the tenant is more than 30 days late", "Only if the landlord also files a court notice"],
+      "explanation": "DC strictly prohibits self-help evictions. Landlords cannot change locks, remove belongings, or cut utilities to force a tenant out. All evictions must go through DC Superior Court, Landlord-Tenant Branch.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "self-help", "prohibition"]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "standard_ref": "DE-13",
+  "scope": "state",
+  "state": "DE",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "DE-13.1",
+      "question_text": "A Delaware landlord collects a security deposit on a two-year lease. What is the maximum amount the landlord may require?",
+      "correct_answer": "One month's rent",
+      "distractors": ["Two months' rent", "One and a half months' rent", "Three months' rent"],
+      "explanation": "For leases of one year or longer in Delaware, the maximum security deposit a landlord may collect is one month's rent. This cap protects tenants from excessive upfront costs while still giving landlords reasonable security against damages.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "deposit limit", "landlord-tenant"]
+    },
+    {
+      "key_topic_ref": "DE-13.1",
+      "question_text": "A tenant moves out of a Delaware rental on March 1. By what date must the landlord return the security deposit with an itemized statement?",
+      "correct_answer": "March 21",
+      "distractors": ["March 15", "March 31", "April 1"],
+      "explanation": "Delaware law requires landlords to return the security deposit within 20 days of lease termination. The return must include an itemized list of any deductions. Failure to meet this deadline may result in the landlord forfeiting the right to withhold any portion.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "return deadline", "itemized deductions"]
+    },
+    {
+      "key_topic_ref": "DE-13.1",
+      "question_text": "A Delaware landlord wants to keep security deposits in a personal safe at home. Is this permissible?",
+      "correct_answer": "No, deposits must be in a federally insured institution",
+      "distractors": ["Yes, any secure location is acceptable", "Yes, if the tenant agrees in writing", "No, deposits must be held in escrow by an attorney"],
+      "explanation": "Delaware requires security deposits to be held in a federally insured financial institution. Keeping deposits in a home safe, personal account, or any non-insured location violates the Landlord-Tenant Code and exposes the landlord to penalties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "federally insured", "deposit holding"]
+    },
+    {
+      "key_topic_ref": "DE-13.1",
+      "question_text": "A Delaware tenant with a pet asks if the landlord can charge a pet deposit in addition to the standard security deposit. Which statement is correct?",
+      "correct_answer": "Pet deposits are allowed separately",
+      "distractors": ["Pet deposits are prohibited by state law", "Pet fees must come from the security deposit", "Only service animal deposits are permitted"],
+      "explanation": "Delaware law permits landlords to collect a separate pet deposit in addition to the standard security deposit. The one-month security deposit cap applies to the general deposit, and pet deposits are treated as a distinct charge under the Landlord-Tenant Code.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pet deposit", "security deposit", "landlord-tenant"]
+    },
+    {
+      "key_topic_ref": "DE-13.1",
+      "question_text": "A month-to-month tenant in Delaware wants to end her tenancy. How much notice must she provide to the landlord?",
+      "correct_answer": "60 days",
+      "distractors": ["30 days", "90 days", "45 days"],
+      "explanation": "Delaware requires either party to a month-to-month tenancy to give 60 days' written notice before termination. This is longer than the 30-day notice common in many other states, so licensees should ensure clients are aware of this requirement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["month-to-month", "notice period", "lease termination"]
+    },
+    {
+      "key_topic_ref": "DE-13.2",
+      "question_text": "A Delaware tenant reports that the heating system has been broken for two weeks and the landlord refuses to repair it. Which remedy is available to the tenant?",
+      "correct_answer": "Repair and deduct the cost from rent",
+      "distractors": ["Immediately stop paying all rent", "Change the locks and exclude the landlord", "File a claim in Superior Court only"],
+      "explanation": "Delaware tenants may use the repair-and-deduct remedy when landlords fail to maintain habitable conditions such as heating, plumbing, or electrical systems. The tenant arranges the repair and deducts reasonable costs from rent. Withholding rent entirely requires placing funds in escrow through proper legal channels.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["habitability", "repair and deduct", "tenant remedies"]
+    },
+    {
+      "key_topic_ref": "DE-13.2",
+      "question_text": "Which of the following is a landlord obligation under Delaware's habitability standards?",
+      "correct_answer": "Maintain working plumbing and electrical systems",
+      "distractors": ["Provide furnished living spaces for tenants", "Pay the tenant's utility bills monthly", "Install a security alarm system"],
+      "explanation": "Delaware's implied warranty of habitability requires landlords to maintain plumbing, heating, electrical, structural integrity, and pest control. Furnishing, utility payments, and security systems are not part of the statutory habitability requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["habitability", "landlord obligations", "maintenance"]
+    },
+    {
+      "key_topic_ref": "DE-13.2",
+      "question_text": "A Delaware landlord serves a tenant with a notice for non-payment of rent. How many days does the tenant have before eviction proceedings may begin?",
+      "correct_answer": "5 days",
+      "distractors": ["3 days", "10 days", "14 days"],
+      "explanation": "In Delaware, a landlord must give 5 days' written notice for non-payment of rent before filing for summary possession. This gives the tenant a brief opportunity to pay the overdue amount. The eviction is then heard in Justice of the Peace Court.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "non-payment", "notice period"]
+    },
+    {
+      "key_topic_ref": "DE-13.2",
+      "question_text": "A Delaware landlord discovers a lease violation other than non-payment. She wants to begin the eviction process. What notice period must she provide?",
+      "correct_answer": "7 days to cure the violation",
+      "distractors": ["5 days to cure the violation", "30 days to cure the violation", "14 days to cure the violation"],
+      "explanation": "For lease violations other than non-payment, Delaware law requires a 7-day notice to cure. If the tenant fails to remedy the violation within that period, the landlord may then file for summary possession in Justice of the Peace Court.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "notice to cure", "lease violation"]
+    },
+    {
+      "key_topic_ref": "DE-13.2",
+      "question_text": "A frustrated Delaware landlord changes the locks on a tenant's unit while the tenant is at work, hoping to force the tenant out. What is the legal consequence?",
+      "correct_answer": "The lockout is illegal self-help eviction",
+      "distractors": ["The lockout is valid with 24-hour notice", "The lockout is legal if rent is overdue", "The lockout is permitted after a written warning"],
+      "explanation": "Self-help evictions, including changing locks or removing a tenant's belongings, are illegal in Delaware regardless of the circumstances. Landlords must use the formal summary possession process through Justice of the Peace Court. Tenants subjected to self-help evictions can seek damages.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["self-help eviction", "illegal eviction", "tenant rights"]
+    }
+  ]
+}

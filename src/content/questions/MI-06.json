@@ -1,0 +1,118 @@
+{
+  "standard_ref": "MI-06",
+  "scope": "state",
+  "state": "MI",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "MI-06.1",
+      "question_text": "A seller asks if the local Board of Realtors sets minimum commission rates in Michigan. What is the correct answer?",
+      "correct_answer": "Commissions are freely negotiable by the parties",
+      "distractors": ["The state sets a standard 6% rate", "Local boards establish minimum rates", "LARA publishes recommended fee schedules"],
+      "explanation": "In Michigan, real estate commissions are freely negotiable between the parties. No law, board, or association sets or controls commission rates. Any price-fixing agreement would violate antitrust laws.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commissions", "negotiable", "antitrust"]
+    },
+    {
+      "key_topic_ref": "MI-06.1",
+      "question_text": "Salesperson Martinez closes a sale and asks the seller to pay her commission directly at closing. Is this permitted in Michigan?",
+      "correct_answer": "No, she must be paid through her employing broker",
+      "distractors": ["Yes, if the seller agrees in writing", "Yes, for transactions under $100,000", "No, but only if she is a new licensee"],
+      "explanation": "Michigan law requires that salespersons receive compensation only through their employing broker. Direct payment from clients or other parties to a salesperson is prohibited.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commissions", "salesperson-payment", "employing-broker"]
+    },
+    {
+      "key_topic_ref": "MI-06.1",
+      "question_text": "Broker Wilson wants to pay a referral fee to an out-of-state agent who referred a buyer. What condition must be met?",
+      "correct_answer": "The out-of-state agent must hold a valid license",
+      "distractors": ["The agent must also be licensed in Michigan", "Referral fees are prohibited across state lines", "The fee cannot exceed $500"],
+      "explanation": "Referral fees may only be paid to licensed individuals. The out-of-state agent needs a valid license in their own state but does not need a Michigan license to receive a referral fee.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["referral-fees", "licensed-only", "out-of-state"]
+    },
+    {
+      "key_topic_ref": "MI-06.1",
+      "question_text": "During a transaction, the buyer's and seller's brokers dispute the commission split. Can this dispute delay the closing?",
+      "correct_answer": "No, commission disputes cannot prevent closing",
+      "distractors": ["Yes, closing must wait until resolved", "Yes, but only if the dispute exceeds $5,000", "Only if the buyer requests the delay"],
+      "explanation": "In Michigan, commission disputes between brokers cannot be used to prevent or delay a closing. The transaction must proceed, and the commission dispute is resolved separately.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commissions", "disputes", "closing"]
+    },
+    {
+      "key_topic_ref": "MI-06.1",
+      "question_text": "A Michigan brokerage advertises: 'Standard 6% commission on all listings per local board policy.' What legal issue does this create?",
+      "correct_answer": "It falsely implies rates are set by a board",
+      "distractors": ["It is accurate if the board approved it", "It only violates rules if the rate exceeds 6%", "No issue as long as sellers agree in writing"],
+      "explanation": "Commissions are freely negotiable and never set by boards or associations. Advertising that implies otherwise is misleading and could constitute an antitrust violation.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["commissions", "advertising", "antitrust"]
+    },
+    {
+      "key_topic_ref": "MI-06.2",
+      "question_text": "Broker Thompson offers a $500 gift card to an unlicensed neighbor for every buyer the neighbor refers. Is this permitted?",
+      "correct_answer": "No, paying unlicensed persons for referrals is prohibited",
+      "distractors": ["Yes, if the neighbor signs a written referral agreement", "Yes, gift cards are not considered to be compensation", "No, but only if the total amount exceeds $1,000"],
+      "explanation": "Michigan prohibits offering anything of value to unlicensed persons as inducement for referrals. A $500 gift card clearly exceeds any nominal value exception.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inducements", "unlicensed-referrals", "prohibited"]
+    },
+    {
+      "key_topic_ref": "MI-06.2",
+      "question_text": "A broker gives a past client a $10 coffee gift card as a thank-you after closing. Does this violate Michigan inducement rules?",
+      "correct_answer": "No, nominal value items are generally permitted",
+      "distractors": ["Yes, any gift to a client is prohibited", "Yes, only cash gifts under $10 are allowed", "No, but only during the first year after closing"],
+      "explanation": "Michigan allows nominal value gifts that are not tied to generating future referrals. A $10 coffee card as a post-closing thank-you falls within the nominal value exception.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inducements", "nominal-value", "exception"]
+    },
+    {
+      "key_topic_ref": "MI-06.2",
+      "question_text": "Agent Parker receives a referral fee from a mortgage lender for recommending borrowers. Which federal law is most directly implicated?",
+      "correct_answer": "RESPA prohibits kickbacks for settlement referrals",
+      "distractors": ["The Fair Housing Act prohibits all steering", "TILA requires detailed fee disclosure only", "The Sherman Act addresses price fixing only"],
+      "explanation": "RESPA (Real Estate Settlement Procedures Act) prohibits kickbacks and referral fees for settlement services. A real estate agent receiving fees from a lender for borrower referrals violates RESPA Section 8.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["RESPA", "kickbacks", "referral-fees"]
+    },
+    {
+      "key_topic_ref": "MI-06.2",
+      "question_text": "A Michigan broker owns a title company and refers clients there. What must the broker do?",
+      "correct_answer": "Disclose the ownership interest to clients",
+      "distractors": ["Nothing, as long as pricing is competitive", "Obtain LARA approval for each referral", "Charge a reduced commission on the sale"],
+      "explanation": "When a broker has an ownership interest in a related service provider, Michigan law and RESPA require disclosure of that conflict of interest to all clients being referred.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conflicts-of-interest", "disclosure", "affiliated-business"]
+    },
+    {
+      "key_topic_ref": "MI-06.2",
+      "question_text": "Which scenario best illustrates a conflict of interest requiring disclosure under Michigan law?",
+      "correct_answer": "An agent recommending their spouse's inspection firm",
+      "distractors": ["An agent showing homes in a neighboring county", "A broker hiring a new salesperson", "An agent attending continuing education classes"],
+      "explanation": "Recommending a service provider in which the agent has a personal or financial interest creates a conflict that must be disclosed. The familial relationship to the inspector requires transparency.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conflicts-of-interest", "disclosure", "related-parties"]
+    }
+  ]
+}

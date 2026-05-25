@@ -1,0 +1,118 @@
+{
+  "standard_ref": "AK-06",
+  "scope": "state",
+  "state": "AK",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "AK-06.1",
+      "question_text": "Under Alaska law, are real estate commission rates set by law or by the Commission?",
+      "correct_answer": "No, commission rates are fully negotiable",
+      "distractors": ["Yes, AREC sets a standard rate of 6%", "Yes, state law caps commissions at 7%", "No, but the local MLS sets minimum rates"],
+      "explanation": "Commission rates in Alaska are fully negotiable between the parties. Neither AREC nor state law sets or caps commission rates. Any suggestion of a 'standard' rate could violate antitrust laws.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["compensation", "commission", "negotiable"]
+    },
+    {
+      "key_topic_ref": "AK-06.1",
+      "question_text": "A buyer offers to pay a salesperson directly for helping find a home, bypassing the broker. May the salesperson accept?",
+      "correct_answer": "No, compensation must come through the employing broker",
+      "distractors": ["Yes, if the buyer provides written authorization", "Yes, as long as the amount is disclosed to all parties", "No, only if the amount exceeds $1,000"],
+      "explanation": "In Alaska, a salesperson may only receive compensation from their employing broker. Direct payment from a client to a salesperson is prohibited unless specifically authorized. All compensation flows through the broker.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["compensation", "broker", "salesperson"]
+    },
+    {
+      "key_topic_ref": "AK-06.1",
+      "question_text": "A licensee wants to receive compensation from both the buyer and seller in the same transaction. What is required?",
+      "correct_answer": "Full written disclosure and consent from both parties",
+      "distractors": ["Written approval from AREC only", "Verbal agreement from both parties is sufficient", "This is prohibited under all circumstances"],
+      "explanation": "A licensee may receive compensation from more than one party in a transaction, but only with full written disclosure and consent from all parties involved. Without proper disclosure and consent, receiving compensation from multiple parties is a violation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["compensation", "multi-party", "disclosure"]
+    },
+    {
+      "key_topic_ref": "AK-06.1",
+      "question_text": "A listing agent tells prospective sellers that all agents charge a 6% commission. Is this statement accurate?",
+      "correct_answer": "No, it falsely implies rates are standard or fixed",
+      "distractors": ["Yes, 6% is the standard Alaska commission rate", "Yes, if the agent quotes their brokerage's actual rate", "No, the standard rate in Alaska is 5%"],
+      "explanation": "Commission rates are negotiable in Alaska, and stating that 'all agents charge 6%' falsely implies a fixed or standard rate. This could be considered price-fixing, which violates antitrust law. Each transaction's commission is individually negotiated.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["compensation", "antitrust", "negotiable"]
+    },
+    {
+      "key_topic_ref": "AK-06.1",
+      "question_text": "A salesperson receives a referral fee from a mortgage lender for recommending a client. What must the salesperson do?",
+      "correct_answer": "Disclose the referral fee to all parties",
+      "distractors": ["Decline the fee under all circumstances", "Accept the fee and report it at tax time only", "Deposit the fee in the brokerage trust account"],
+      "explanation": "Referral fees and third-party compensation must be disclosed. Alaska law requires licensees to disclose any compensation received from third parties. The compensation must also flow through the employing broker, not directly to the salesperson.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["compensation", "referral fees", "disclosure"]
+    },
+    {
+      "key_topic_ref": "AK-06.2",
+      "question_text": "A licensee is interested in purchasing a property they currently have listed. What must the licensee disclose?",
+      "correct_answer": "Their personal interest in the transaction",
+      "distractors": ["Only the listing price to the seller", "Nothing if they pay full listing price", "Their interest only to AREC, not the seller"],
+      "explanation": "A licensee must disclose any personal interest in a transaction to all parties. This includes when the licensee or their family members have a financial interest in the property being bought or sold. Full transparency is required regardless of the purchase price.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conflict of interest", "personal interest", "disclosure"]
+    },
+    {
+      "key_topic_ref": "AK-06.2",
+      "question_text": "A licensee's spouse owns a title company that will handle a transaction's closing. What disclosure obligation exists?",
+      "correct_answer": "The licensee must disclose the family financial interest",
+      "distractors": ["No disclosure is needed for a spouse's business", "Disclosure is needed only if the commission exceeds $5,000", "The licensee must decline to participate in the closing"],
+      "explanation": "When a licensee or a family member has a financial interest in any aspect of a transaction, the licensee must disclose it. A spouse owning the title company creates a conflict of interest that must be disclosed so parties can make informed decisions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conflict of interest", "family", "disclosure"]
+    },
+    {
+      "key_topic_ref": "AK-06.2",
+      "question_text": "A buyer's agent receives a moving company gift card for referring clients. Under Alaska law, this is an example of what?",
+      "correct_answer": "Third-party compensation requiring disclosure",
+      "distractors": ["A normal business expense with no obligation", "A prohibited kickback under all circumstances", "A gift exempt from disclosure if under $100"],
+      "explanation": "Any compensation from third parties, including gift cards for referrals, must be disclosed. This is third-party compensation that creates a potential conflict of interest. Alaska law does not set a dollar threshold below which disclosure is waived.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["conflict of interest", "third-party", "compensation"]
+    },
+    {
+      "key_topic_ref": "AK-06.2",
+      "question_text": "A licensee recommends a home inspector to a buyer client. The inspector pays the licensee a referral fee for each recommendation. What is the licensee's obligation?",
+      "correct_answer": "Disclose the referral fee arrangement to the buyer",
+      "distractors": ["No obligation if the inspector is qualified", "Report the arrangement to AREC only", "Refuse the fee or terminate the client relationship"],
+      "explanation": "The licensee must disclose any referral fees or other compensation received from third parties to the client. The buyer needs to know about the financial relationship to evaluate whether the recommendation is unbiased.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conflict of interest", "referral fees", "inspector"]
+    },
+    {
+      "key_topic_ref": "AK-06.2",
+      "question_text": "Which of the following situations does NOT create a conflict of interest requiring disclosure by an Alaska licensee?",
+      "correct_answer": "The licensee previously sold a home in the same subdivision",
+      "distractors": ["The licensee's sibling owns the property being sold", "The licensee holds a financial interest in the property", "The licensee receives referral fees from the lender"],
+      "explanation": "Having previously sold a home in the same subdivision does not create a conflict of interest. However, family ownership, personal financial interest, and third-party referral fees all create conflicts that must be disclosed to all parties in the transaction.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["conflict of interest", "disclosure", "exemptions"]
+    }
+  ]
+}

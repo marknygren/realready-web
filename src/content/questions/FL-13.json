@@ -1,0 +1,173 @@
+{
+  "standard_ref": "FL-13",
+  "scope": "state",
+  "state": "FL",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "FL-13.1",
+      "question_text": "Under Florida's Statute of Frauds, real estate contracts must be in what form to be enforceable?",
+      "correct_answer": "In writing",
+      "distractors": ["Verbal with two witnesses", "Notarized and recorded", "Approved by FREC"],
+      "explanation": "The Statute of Frauds requires real estate contracts to be in writing to be enforceable. Oral real estate agreements are not enforceable in court, regardless of the parties' intent.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute-of-frauds", "writing", "contracts"]
+    },
+    {
+      "key_topic_ref": "FL-13.1",
+      "question_text": "In Florida, the statute of limitations for a written real estate contract is how many years?",
+      "correct_answer": "5 years",
+      "distractors": ["4 years", "3 years", "7 years"],
+      "explanation": "The statute of limitations is 5 years for written contracts and 4 years for oral contracts in Florida. After this period, a party cannot bring a legal action to enforce the contract.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute-of-limitations", "5-years", "written"]
+    },
+    {
+      "key_topic_ref": "FL-13.1",
+      "question_text": "A Florida buyer verbally agrees to purchase a home for $300,000. The seller later refuses to sell. Can the buyer enforce this agreement?",
+      "correct_answer": "No, the Statute of Frauds requires writing",
+      "distractors": ["Yes, if witnesses confirm the agreement", "Yes, if earnest money was already paid", "Yes, for any purchase amount over $50,000"],
+      "explanation": "Under the Statute of Frauds, real estate contracts must be in writing to be enforceable. A verbal agreement to purchase real estate cannot be enforced in court regardless of witnesses or earnest money.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute-of-frauds", "verbal-agreement", "unenforceable"]
+    },
+    {
+      "key_topic_ref": "FL-13.1",
+      "question_text": "The statute of limitations for an oral contract in Florida expires after how many years?",
+      "correct_answer": "4 years",
+      "distractors": ["5 years", "2 years", "6 years"],
+      "explanation": "Oral contracts have a 4-year statute of limitations in Florida, compared to 5 years for written contracts. Note that while oral real estate contracts are unenforceable under the Statute of Frauds, the limitations period applies to other oral agreements.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute-of-limitations", "4-years", "oral"]
+    },
+    {
+      "key_topic_ref": "FL-13.1",
+      "question_text": "Which element is NOT required for a valid real estate contract in Florida?",
+      "correct_answer": "Recording with the Clerk of Court",
+      "distractors": ["Competent parties to the agreement", "A lawful purpose for the contract", "A valid offer and acceptance exchange"],
+      "explanation": "Valid contracts require competent parties, offer and acceptance, consideration, lawful purpose, and (under Statute of Frauds) written form. Recording is needed for deeds but not for the contract itself to be valid.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["contract-essentials", "recording", "validity"]
+    },
+    {
+      "key_topic_ref": "FL-13.2",
+      "question_text": "Under an exclusive right-of-sale listing, the broker earns a commission when:",
+      "correct_answer": "The property sells, regardless of who finds the buyer",
+      "distractors": ["Only if the broker personally finds the buyer", "Only if the buyer uses the same brokerage", "The property is listed on the MLS"],
+      "explanation": "An exclusive right-of-sale listing gives the broker a commission if the property sells during the listing period, even if the seller finds the buyer independently. This provides the most protection for the broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing", "exclusive-right-of-sale", "commission"]
+    },
+    {
+      "key_topic_ref": "FL-13.2",
+      "question_text": "A listing agreement in Florida is best described as a contract between which parties?",
+      "correct_answer": "The broker and the seller",
+      "distractors": ["The sales associate and the seller", "The broker and the buyer", "The sales associate and the buyer"],
+      "explanation": "The listing agreement is a contract between the broker and the seller. Even though a sales associate typically works with the seller, the agreement is between the brokerage (broker) and the property owner.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing", "broker-seller", "contract"]
+    },
+    {
+      "key_topic_ref": "FL-13.2",
+      "question_text": "Under an exclusive agency listing, the seller retains the right to do what without owing a commission?",
+      "correct_answer": "Sell the property themselves to a buyer they find",
+      "distractors": ["List with a second brokerage simultaneously", "Terminate the listing at any time", "Reject all offers without penalty"],
+      "explanation": "An exclusive agency listing gives only the broker the right to represent the seller, but the seller retains the right to find a buyer independently without owing a commission. This differs from exclusive right-of-sale.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["listing", "exclusive-agency", "seller-rights"]
+    },
+    {
+      "key_topic_ref": "FL-13.2",
+      "question_text": "A buyer signs a buyer-broker agreement with a Florida brokerage. This creates what type of relationship?",
+      "correct_answer": "An agency relationship for buyer representation",
+      "distractors": ["A transaction broker relationship with limits", "A no brokerage relationship arrangement", "A dual agency arrangement with both parties"],
+      "explanation": "A buyer-broker agreement establishes an agency relationship where the broker represents the buyer's interests. The specific type of relationship (single agent or transaction broker) depends on the agreement terms.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer-broker", "agreement", "representation"]
+    },
+    {
+      "key_topic_ref": "FL-13.2",
+      "question_text": "Under a Florida listing agreement, the broker earns a commission when they produce what type of buyer?",
+      "correct_answer": "A ready, willing, and able buyer",
+      "distractors": ["Any buyer who submits an offer", "A buyer approved for financing", "A buyer who completes the closing"],
+      "explanation": "Under Florida listing law, the broker earns a commission when they produce a buyer who is ready, willing, and able to purchase on the seller's terms. The sale does not necessarily have to close for the commission to be earned.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing", "commission", "ready-willing-able"]
+    },
+    {
+      "key_topic_ref": "FL-13.3",
+      "question_text": "An 'as-is' contract in Florida means the buyer waives the right to request which of the following?",
+      "correct_answer": "Repairs from the seller",
+      "distractors": ["A home inspection", "Disclosure of known defects", "A title search"],
+      "explanation": "An as-is contract means the buyer accepts the property in its current condition and waives the right to request repairs. However, the seller must still disclose known material defects even in an as-is sale.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["as-is", "repairs", "buyer-waiver"]
+    },
+    {
+      "key_topic_ref": "FL-13.3",
+      "question_text": "In a Florida as-is sale, does the seller still need to disclose known material defects?",
+      "correct_answer": "Yes, disclosure of known defects is still required",
+      "distractors": ["No, as-is means no disclosures are needed", "Only if the defects affect safety", "Only if the buyer asks in writing"],
+      "explanation": "Even in an as-is sale, the seller must disclose known material defects that affect property value. As-is only waives the buyer's right to demand repairs — it does not eliminate the duty to disclose.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["as-is", "disclosure", "material-defects"]
+    },
+    {
+      "key_topic_ref": "FL-13.3",
+      "question_text": "An option contract in Florida must have what distinguishing characteristic beyond a standard sales contract?",
+      "correct_answer": "Separate consideration for the option itself",
+      "distractors": ["FREC approval before execution", "A maximum duration of 90 days", "Recording with the county clerk"],
+      "explanation": "An option contract requires separate consideration paid by the potential buyer for the right to purchase within a specified timeframe. The option consideration is separate from and in addition to the purchase price.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["option-contract", "consideration", "requirements"]
+    },
+    {
+      "key_topic_ref": "FL-13.3",
+      "question_text": "A buyer and seller mutually agree to cancel their Florida purchase contract and return the deposit. This termination method is called:",
+      "correct_answer": "Rescission by mutual agreement",
+      "distractors": ["Unilateral cancellation by the buyer", "Breach of contract requiring mediation", "Automatic voiding under FREC rules"],
+      "explanation": "When both parties voluntarily agree to cancel a contract and return to their original positions, it is rescission by mutual agreement. This differs from a breach (one party violates terms) or unilateral cancellation (one party exercises a contractual right).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contract-termination", "rescission", "mutual-agreement"]
+    },
+    {
+      "key_topic_ref": "FL-13.3",
+      "question_text": "A buyer wants to exit a Florida purchase contract after the inspection reveals major issues. If the contract allows cancellation based on inspection results, this is an example of:",
+      "correct_answer": "A contract contingency",
+      "distractors": ["Breach of contract by the buyer", "An automatic voiding of the contract", "A rescission under FREC rules"],
+      "explanation": "Inspection contingencies allow the buyer to cancel the contract if the inspection reveals unacceptable conditions. This is a contractual right, not a breach. The buyer typically receives the deposit back when properly exercising a contingency.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contingency", "inspection", "cancellation"]
+    }
+  ]
+}

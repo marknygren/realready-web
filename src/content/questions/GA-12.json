@@ -1,0 +1,233 @@
+{
+  "standard_ref": "GA-12",
+  "scope": "state",
+  "state": "GA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "GA-12.1",
+      "question_text": "Who supervises the closing of a real estate transaction in Georgia?",
+      "correct_answer": "An attorney",
+      "distractors": [
+        "A licensed title company",
+        "The listing broker",
+        "A licensed escrow officer"
+      ],
+      "explanation": "Georgia is an attorney-closing state. An attorney must supervise the closing process, including examining title, preparing closing documents, conducting the closing meeting, and disbursing funds. Unlike states such as California, escrow companies do not handle closings in Georgia.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney-closing", "closing-process", "Georgia-requirement"]
+    },
+    {
+      "key_topic_ref": "GA-12.1",
+      "question_text": "A California agent relocating to Georgia expects to use an escrow company for closings. What should the agent know?",
+      "correct_answer": "Georgia requires attorney supervision of closings",
+      "distractors": [
+        "Escrow companies must register with GREC first",
+        "Only brokers with five years experience can close",
+        "Title companies handle all Georgia closings"
+      ],
+      "explanation": "Georgia is an attorney-closing state, which differs significantly from California's escrow-company model. The attorney examines title, prepares documents, conducts the closing meeting, records instruments, and disburses funds. Agents relocating must understand this distinction.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["attorney-closing", "state-comparison", "escrow"]
+    },
+    {
+      "key_topic_ref": "GA-12.1",
+      "question_text": "Which task does the closing attorney perform in a Georgia transaction?",
+      "correct_answer": "Record the deed and security deed after closing",
+      "distractors": [
+        "Negotiate the purchase price for the buyer",
+        "Market the property on the MLS system",
+        "Conduct the home inspection for the lender"
+      ],
+      "explanation": "The closing attorney records the deed and security deed with the Clerk of Superior Court, which provides constructive notice of the transfer. The attorney also examines title, prepares documents, conducts the meeting, and disburses funds. Marketing and inspections are not attorney functions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney-duties", "recording", "deed"]
+    },
+    {
+      "key_topic_ref": "GA-12.1",
+      "question_text": "A Georgia closing attorney provides a title opinion to the buyer. What does this document represent?",
+      "correct_answer": "The attorney's legal assessment of title status",
+      "distractors": [
+        "A guarantee that the title is free of all defects",
+        "An insurance policy covering future title claims",
+        "A GREC certification of property ownership"
+      ],
+      "explanation": "A title opinion is the attorney's professional legal assessment of the title based on their examination of public records. It is not insurance or a guarantee. Title insurance provides additional protection and is commonly required by lenders, but the title opinion is the attorney's own analysis.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["title-opinion", "attorney-role", "title-examination"]
+    },
+    {
+      "key_topic_ref": "GA-12.1",
+      "question_text": "In a Georgia closing, who is responsible for disbursing the sale proceeds to the seller?",
+      "correct_answer": "The closing attorney",
+      "distractors": [
+        "The buyer's lender directly",
+        "The listing broker from trust funds",
+        "The county Clerk of Superior Court"
+      ],
+      "explanation": "The closing attorney disburses all funds after closing, including proceeds to the seller, payoff of existing liens, commissions to brokers, and recording fees. This centralized disbursement through the attorney is a hallmark of Georgia's attorney-closing system.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fund-disbursement", "attorney-closing", "settlement"]
+    },
+    {
+      "key_topic_ref": "GA-12.2",
+      "question_text": "A Georgia property sells for $350,000. What is the state real estate transfer tax?",
+      "correct_answer": "$350",
+      "distractors": [
+        "$3,500",
+        "$700",
+        "$175"
+      ],
+      "explanation": "Georgia's real estate transfer tax is $1.00 per $1,000 of the sale price. For a $350,000 sale: $350,000 / $1,000 = $350. This tax is typically paid by the seller, though the responsibility is negotiable between the parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "calculation", "state-tax"]
+    },
+    {
+      "key_topic_ref": "GA-12.2",
+      "question_text": "Who typically pays the real estate transfer tax in a Georgia transaction?",
+      "correct_answer": "The seller, though it is negotiable",
+      "distractors": [
+        "Always the buyer by state law",
+        "Split equally between buyer and seller",
+        "The closing attorney from escrow funds"
+      ],
+      "explanation": "By custom in Georgia, the seller typically pays the real estate transfer tax. However, this is negotiable between the parties and can be allocated differently in the purchase contract. There is no law mandating which party must pay.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-tax", "seller-responsibility", "negotiable"]
+    },
+    {
+      "key_topic_ref": "GA-12.2",
+      "question_text": "A father gifts his Georgia home to his daughter with no money exchanged. What transfer tax applies?",
+      "correct_answer": "No transfer tax is due on gifts",
+      "distractors": [
+        "$1.00 per $1,000 of appraised value",
+        "A flat $500 gift transfer fee",
+        "$1.00 per $1,000 of tax-assessed value"
+      ],
+      "explanation": "Georgia exempts gifts from the real estate transfer tax. Other exemptions include transfers between spouses and transfers to government entities. The tax is based on actual sale price, and since a gift has no sale price, no tax is due.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "gift-exemption", "family-transfer"]
+    },
+    {
+      "key_topic_ref": "GA-12.2",
+      "question_text": "Which transaction is exempt from Georgia's real estate transfer tax?",
+      "correct_answer": "A transfer between spouses during divorce",
+      "distractors": [
+        "A sale to a first-time homebuyer",
+        "A foreclosure sale by the lender",
+        "A sale of property valued under $100,000"
+      ],
+      "explanation": "Transfers between spouses are exempt from Georgia's transfer tax, including those occurring during divorce proceedings. There is no exemption for first-time buyers, foreclosure sales, or properties under a certain value threshold.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-tax", "exemptions", "spousal-transfer"]
+    },
+    {
+      "key_topic_ref": "GA-12.2",
+      "question_text": "A property sells for $525,000 in Georgia. The buyer agrees to pay the transfer tax. How much does the buyer owe?",
+      "correct_answer": "$525",
+      "distractors": [
+        "$5,250",
+        "$1,050",
+        "$262.50"
+      ],
+      "explanation": "The transfer tax is $1.00 per $1,000 of sale price: $525,000 / $1,000 = $525. Although the seller typically pays this tax, the parties agreed that the buyer would pay. The tax amount is the same regardless of which party pays it.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "calculation", "buyer-pays"]
+    },
+    {
+      "key_topic_ref": "GA-12.3",
+      "question_text": "Where are deeds and security deeds recorded in Georgia?",
+      "correct_answer": "Clerk of Superior Court in the property's county",
+      "distractors": [
+        "Georgia Secretary of State's office",
+        "County tax commissioner's office",
+        "Georgia Real Estate Commission"
+      ],
+      "explanation": "In Georgia, deeds and security deeds are recorded with the Clerk of Superior Court in the county where the property is located. Recording provides constructive notice to the public of the ownership interest or lien.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "Clerk-Superior-Court", "county"]
+    },
+    {
+      "key_topic_ref": "GA-12.3",
+      "question_text": "Georgia follows which type of recording statute?",
+      "correct_answer": "Race-notice statute",
+      "distractors": [
+        "Pure race statute",
+        "Pure notice statute",
+        "Torrens registration system"
+      ],
+      "explanation": "Georgia is a race-notice recording state. To prevail in a priority dispute, a claimant must both record first and have no notice of prior unrecorded claims. This protects bona fide purchasers who record promptly without knowledge of competing interests.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["race-notice", "recording-statute", "priority"]
+    },
+    {
+      "key_topic_ref": "GA-12.3",
+      "question_text": "Buyer A purchases property but does not record the deed. Buyer B later purchases the same property without knowledge of Buyer A's claim and records immediately. Who prevails under Georgia law?",
+      "correct_answer": "Buyer B, who recorded first without notice",
+      "distractors": [
+        "Buyer A, because their purchase came first",
+        "Neither buyer until a court resolves the dispute",
+        "The original seller retains ownership"
+      ],
+      "explanation": "Under Georgia's race-notice statute, Buyer B prevails because they recorded first and had no notice of Buyer A's prior unrecorded claim. This outcome incentivizes prompt recording and protects innocent purchasers who conduct proper due diligence.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["race-notice", "recording-priority", "bona-fide-purchaser"]
+    },
+    {
+      "key_topic_ref": "GA-12.3",
+      "question_text": "A lender requires title insurance for a Georgia mortgage. What is the relationship between title insurance and an attorney's title opinion?",
+      "correct_answer": "Both are used; title insurance adds protection beyond the opinion",
+      "distractors": [
+        "Title insurance replaces the need for an attorney",
+        "An attorney's opinion is never used in Georgia",
+        "Lenders accept only the attorney's title opinion"
+      ],
+      "explanation": "In Georgia, both tools are used. The closing attorney provides a title opinion based on their examination of records, and title insurance adds a layer of financial protection against undiscovered defects. Lenders commonly require title insurance in addition to the opinion.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["title-insurance", "title-opinion", "lender-requirements"]
+    },
+    {
+      "key_topic_ref": "GA-12.3",
+      "question_text": "What is the primary purpose of recording a deed in Georgia?",
+      "correct_answer": "To provide constructive notice of ownership",
+      "distractors": [
+        "To make the deed legally valid between parties",
+        "To transfer title from seller to buyer",
+        "To satisfy the statute of frauds requirement"
+      ],
+      "explanation": "Recording provides constructive notice to the public that the ownership transfer has occurred. The deed is valid between the parties upon delivery and acceptance, even without recording. However, recording protects against subsequent claims from third parties under the race-notice statute.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "constructive-notice", "deed-purpose"]
+    }
+  ]
+}

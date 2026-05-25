@@ -1,0 +1,63 @@
+{
+  "standard_ref": "SD-05",
+  "scope": "state",
+  "state": "SD",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "SD-05.1",
+      "question_text": "When must a South Dakota broker associate obtain Errors and Omissions insurance?",
+      "correct_answer": "Before receiving the license",
+      "distractors": ["Within 30 days after licensure", "Within the first renewal period", "Only after closing their first transaction"],
+      "explanation": "E&O insurance is a prerequisite for licensure in South Dakota under SDCL 36-21A-119. The policy must be in place BEFORE the license is issued, not after. This protects consumers from the very first transaction.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O", "insurance", "pre-licensure"]
+    },
+    {
+      "key_topic_ref": "SD-05.1",
+      "question_text": "What are the current E&O insurance coverage limits in South Dakota?",
+      "correct_answer": "$100,000 per claim / $500,000 aggregate",
+      "distractors": ["$50,000 per claim / $250,000 aggregate", "$250,000 per claim / $1,000,000 aggregate", "$500,000 per claim / $2,000,000 aggregate"],
+      "explanation": "South Dakota requires $100,000 per claim and $500,000 aggregate coverage for 2025. The deductible is $1,000 for damages and $500 for expenses. The SDREC offers a group policy program to help licensees obtain affordable coverage.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O", "coverage-limits", "insurance"]
+    },
+    {
+      "key_topic_ref": "SD-05.1",
+      "question_text": "A broker associate allows their E&O policy to lapse without obtaining new coverage. What is the consequence?",
+      "correct_answer": "Grounds for disciplinary action by the SDREC",
+      "distractors": ["A $50 late fee until coverage is restored", "No consequence if they are not actively selling", "An automatic 90-day grace period applies"],
+      "explanation": "Failure to maintain E&O coverage is grounds for disciplinary action. E&O insurance is mandatory for ALL active brokers, broker associates, property managers, auctioneers, and residential rental agents in South Dakota.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O", "discipline", "lapse"]
+    },
+    {
+      "key_topic_ref": "SD-05.1",
+      "question_text": "Which type of SD licensee is NOT required to carry E&O insurance?",
+      "correct_answer": "All active licensees must carry E&O insurance",
+      "distractors": ["Residential rental agents are exempt", "Property managers with fewer than 10 units", "Broker associates in their first year"],
+      "explanation": "South Dakota requires E&O insurance for ALL active licensees without exception — brokers, broker associates, property managers, auctioneers, and residential rental agents. The SDREC group policy program makes coverage accessible to all license types.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["E&O", "requirement", "all-licensees"]
+    },
+    {
+      "key_topic_ref": "SD-05.1",
+      "question_text": "The SDREC helps licensees obtain E&O coverage through what mechanism?",
+      "correct_answer": "A group policy program",
+      "distractors": ["A state-funded insurance pool", "Direct reimbursement of premium costs", "Mandatory coverage through the Recovery Fund"],
+      "explanation": "The SDREC offers a group policy program that allows licensees to obtain E&O coverage at competitive rates. This is a practical benefit — licensees can purchase through the group plan or obtain their own individual policy meeting the minimum requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O", "group-policy", "SDREC"]
+    }
+  ]
+}

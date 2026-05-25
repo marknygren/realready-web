@@ -1,0 +1,173 @@
+{
+  "standard_ref": "IA-12",
+  "scope": "state",
+  "state": "IA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IA-12.1",
+      "question_text": "When is a seller disclosure statement required in Iowa?",
+      "correct_answer": "For residential property transfers",
+      "distractors": ["Only for commercial properties", "Only for new construction", "Only when the buyer requests one"],
+      "explanation": "Iowa law requires sellers to provide a disclosure statement for residential property transfers. The statement covers known defects related to structural, mechanical, water/sewer, environmental, and other conditions of the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller disclosure", "residential", "requirement"]
+    },
+    {
+      "key_topic_ref": "IA-12.1",
+      "question_text": "A seller knows the basement leaks during heavy rain but marks 'no defects' on the disclosure form. What liability does the seller face?",
+      "correct_answer": "Liability for misrepresenting known defects",
+      "distractors": ["No liability if buyer had a home inspection", "Liability only if the listing agent also knew", "No liability once the closing has occurred"],
+      "explanation": "Iowa's seller disclosure is based on the seller's actual knowledge. Intentionally concealing known defects like basement water intrusion constitutes misrepresentation, which can result in legal liability for damages even after closing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["misrepresentation", "known defects", "liability"]
+    },
+    {
+      "key_topic_ref": "IA-12.1",
+      "question_text": "Iowa's seller disclosure statement is based on which standard of knowledge?",
+      "correct_answer": "The seller's actual knowledge of defects",
+      "distractors": ["A professional home inspection report", "What a reasonable person should know", "The listing agent's observations"],
+      "explanation": "Iowa's disclosure requirement is based on the seller's actual knowledge. Sellers are not required to hire inspectors or investigate potential problems, but they must honestly disclose defects they are aware of.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["actual knowledge", "disclosure standard", "seller obligation"]
+    },
+    {
+      "key_topic_ref": "IA-12.1",
+      "question_text": "Which category of defects is NOT typically covered on Iowa's seller disclosure statement?",
+      "correct_answer": "Neighborhood noise complaints",
+      "distractors": ["Known structural defects in the home", "Water and sewer system issues", "Known environmental hazards on site"],
+      "explanation": "Iowa's seller disclosure covers structural, mechanical, water/sewer, environmental, and other physical defects of the property. Neighborhood conditions such as noise complaints are generally not part of the standardized disclosure categories.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disclosure categories", "scope", "property defects"]
+    },
+    {
+      "key_topic_ref": "IA-12.1",
+      "question_text": "A seller inherits a property and has never lived there. How should they complete Iowa's seller disclosure?",
+      "correct_answer": "Disclose only what they actually know",
+      "distractors": ["They are exempt from all disclosure", "They must hire an inspector first", "They must disclose all possible defects"],
+      "explanation": "Since Iowa's disclosure is based on actual knowledge, a seller who inherited a property and never lived there would disclose what they know and indicate unknown status for conditions they have no knowledge of. They are not required to investigate.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inherited property", "actual knowledge", "disclosure"]
+    },
+    {
+      "key_topic_ref": "IA-12.2",
+      "question_text": "What is the groundwater hazard statement in Iowa?",
+      "correct_answer": "An Iowa-specific disclosure for most transfers",
+      "distractors": ["A federal EPA requirement for all 50 states", "An optional form only for rural properties", "A report prepared by certified well inspectors"],
+      "explanation": "The groundwater hazard statement is unique to Iowa and required for most real estate transfers. It discloses the presence of private wells, underground storage tanks, private burial sites, solid waste disposal sites, and hazardous waste on or near the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["groundwater hazard statement", "Iowa-specific", "disclosure"]
+    },
+    {
+      "key_topic_ref": "IA-12.2",
+      "question_text": "A seller is completing the groundwater hazard statement. Which item must be disclosed?",
+      "correct_answer": "A private burial site on the property",
+      "distractors": ["The property's assigned school district", "Recent increases in property tax rates", "The seller's personal reason for selling"],
+      "explanation": "Iowa's groundwater hazard statement requires disclosure of private burial sites, along with private wells, underground storage tanks, solid waste disposal sites, and hazardous waste. This is unique to Iowa and protects buyers from hidden environmental risks.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["burial sites", "groundwater hazard", "required disclosures"]
+    },
+    {
+      "key_topic_ref": "IA-12.2",
+      "question_text": "Where must Iowa's groundwater hazard statement be filed?",
+      "correct_answer": "With the county recorder",
+      "distractors": ["With the Iowa DNR", "With the EPA regional office", "With the real estate commission"],
+      "explanation": "The completed groundwater hazard statement must be filed with the county recorder as part of the property transfer. This creates a public record of the environmental disclosures associated with the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["county recorder", "filing", "groundwater hazard"]
+    },
+    {
+      "key_topic_ref": "IA-12.2",
+      "question_text": "A buyer discovers an abandoned underground storage tank after closing that was not disclosed on the groundwater hazard statement. What is the buyer's recourse?",
+      "correct_answer": "Legal action against seller for nondisclosure",
+      "distractors": ["No recourse once the closing is complete", "File an environmental claim with the EPA only", "Request that the county issue a new statement"],
+      "explanation": "Underground storage tanks are a required disclosure item on Iowa's groundwater hazard statement. If the seller knew about the UST and failed to disclose it, the buyer may pursue legal action for nondisclosure and seek damages for remediation costs.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["UST", "nondisclosure", "legal recourse"]
+    },
+    {
+      "key_topic_ref": "IA-12.2",
+      "question_text": "Which of the following is disclosed on Iowa's groundwater hazard statement but NOT on the standard seller disclosure?",
+      "correct_answer": "Solid waste disposal sites",
+      "distractors": ["Roof condition and its current age", "HVAC system mechanical defects", "Foundation structural crack issues"],
+      "explanation": "The groundwater hazard statement specifically covers environmental items like solid waste disposal sites, private wells, USTs, burial sites, and hazardous waste. Physical property conditions like roof, HVAC, and foundation are covered on the standard seller disclosure statement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["groundwater hazard", "seller disclosure", "comparison"]
+    },
+    {
+      "key_topic_ref": "IA-12.3",
+      "question_text": "Iowa is classified in which EPA radon zone?",
+      "correct_answer": "Zone 1, highest risk",
+      "distractors": ["Zone 2, moderate risk", "Zone 3, lowest risk", "Not classified in any zone"],
+      "explanation": "The EPA classifies Iowa as Zone 1, which represents the highest radon risk in the nation. This means Iowa homes have a predicted average indoor radon screening level greater than 4 pCi/L, making radon testing particularly important for buyers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["radon", "Zone 1", "EPA", "environmental"]
+    },
+    {
+      "key_topic_ref": "IA-12.3",
+      "question_text": "A buyer is purchasing a home near the Mississippi River in Iowa. Which additional disclosure concern is most relevant?",
+      "correct_answer": "Flood plain designation",
+      "distractors": ["Earthquake fault zone location", "Hurricane wind zone rating", "Wildfire risk assessment"],
+      "explanation": "Properties near Iowa's Mississippi and Missouri River corridors have significant flood risk. Flood plain disclosure is required, and buyers should verify whether the property is in a FEMA-designated flood zone, which affects insurance requirements and property value.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["flood plain", "Mississippi River", "disclosure"]
+    },
+    {
+      "key_topic_ref": "IA-12.3",
+      "question_text": "Which Iowa state agency regulates underground storage tanks?",
+      "correct_answer": "Iowa Department of Natural Resources",
+      "distractors": ["Iowa Real Estate Commission directly", "Iowa Department of Commerce division", "Iowa Attorney General's environmental office"],
+      "explanation": "The Iowa Department of Natural Resources (DNR) regulates underground storage tanks, including registration, leak prevention, and cleanup requirements. USTs must also be disclosed on the groundwater hazard statement during property transfers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["UST", "Iowa DNR", "regulation"]
+    },
+    {
+      "key_topic_ref": "IA-12.3",
+      "question_text": "A seller is listing a home built in 1965. Which federal environmental disclosure is required?",
+      "correct_answer": "Lead-based paint disclosure",
+      "distractors": ["Asbestos abatement certificate", "Carbon monoxide testing results", "Mold inspection report"],
+      "explanation": "Federal law requires lead-based paint disclosure for all residential properties built before 1978. Since this home was built in 1965, the seller must provide the EPA lead-based paint pamphlet, disclose known lead paint, and allow a 10-day testing period.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lead-based paint", "pre-1978", "federal requirement"]
+    },
+    {
+      "key_topic_ref": "IA-12.3",
+      "question_text": "Given Iowa's Zone 1 radon classification, what should a buyer's agent recommend regarding a home purchase?",
+      "correct_answer": "Radon testing before closing",
+      "distractors": ["Radon testing is unnecessary in Iowa", "Only test if the home has a basement", "Wait until after closing to test"],
+      "explanation": "Because Iowa is in EPA Zone 1 with the highest radon risk nationally, buyer's agents should strongly recommend radon testing during the inspection period before closing. Elevated radon levels can be mitigated, but buyers should know the results before committing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["radon testing", "Zone 1", "buyer recommendation"]
+    }
+  ]
+}

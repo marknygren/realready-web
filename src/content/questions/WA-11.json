@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WA-11",
+  "scope": "state",
+  "state": "WA",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "WA-11.1",
+      "question_text": "A landlord refuses to rent to a tenant based on their immigration status. Under Washington law, is this lawful?",
+      "correct_answer": "No, immigration status is a protected class",
+      "distractors": ["Yes, immigration status is not protected", "Only in commercial lease transactions", "Only if the tenant lacks a valid visa"],
+      "explanation": "Washington's Law Against Discrimination (WLAD) added citizenship or immigration status as a protected class in 2020. Refusing to rent based on immigration status violates state fair housing law, even though it is not a federal protected class.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["WLAD", "immigration-status", "protected-classes"]
+    },
+    {
+      "key_topic_ref": "WA-11.1",
+      "question_text": "Which of the following is a Washington-specific protected class NOT found in federal fair housing law?",
+      "correct_answer": "Sexual orientation",
+      "distractors": ["Race", "Religion", "National origin"],
+      "explanation": "Sexual orientation, which includes gender identity and expression, is a protected class under Washington's WLAD but is not explicitly listed in the federal Fair Housing Act. Other WA-specific classes include marital status, citizenship/immigration status, age, and veteran/military status.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["WLAD", "sexual-orientation", "protected-classes"]
+    },
+    {
+      "key_topic_ref": "WA-11.1",
+      "question_text": "A property manager tells a 25-year-old applicant they prefer older tenants. Under WLAD, what protected class is implicated?",
+      "correct_answer": "Age",
+      "distractors": ["Familial status", "Marital status", "Disability"],
+      "explanation": "Age is a protected class under WLAD in housing. Unlike federal law, which only protects familial status (families with children), Washington explicitly prohibits age-based discrimination in housing decisions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["WLAD", "age", "protected-classes"]
+    },
+    {
+      "key_topic_ref": "WA-11.1",
+      "question_text": "A seller instructs their broker to reject offers from military veterans. What Washington law does this violate?",
+      "correct_answer": "WLAD veteran/military status protection",
+      "distractors": ["Federal Fair Housing Act provisions only", "The Servicemembers Civil Relief Act only", "No Washington law prohibits this action"],
+      "explanation": "Honorably discharged veteran or military status is a protected class under WLAD. A broker must refuse to follow discriminatory instructions and cannot reject offers based on a buyer's military or veteran status.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["WLAD", "veteran-status", "protected-classes"]
+    },
+    {
+      "key_topic_ref": "WA-11.1",
+      "question_text": "A landlord rejects an applicant because they are unmarried. Under Washington law, is this lawful?",
+      "correct_answer": "No, marital status is a protected class",
+      "distractors": ["Yes, landlords can set relationship rules", "Only in single-family home rentals", "Only if the lease specifies married tenants"],
+      "explanation": "Marital status is a protected class under WLAD but not under federal fair housing law. A landlord who discriminates based on whether an applicant is single, married, or divorced violates Washington state fair housing law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["WLAD", "marital-status", "protected-classes"]
+    },
+    {
+      "key_topic_ref": "WA-11.2",
+      "question_text": "A tenant believes they were denied housing due to their gender identity. Where should they file a complaint?",
+      "correct_answer": "Washington State Human Rights Commission",
+      "distractors": ["The local police department directly", "The Department of Licensing office", "The county assessor or auditor office"],
+      "explanation": "The Washington State Human Rights Commission (WSHRC) investigates housing discrimination complaints. Gender identity is protected under WLAD's sexual orientation class, giving the WSHRC jurisdiction over the complaint.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["WSHRC", "complaint-process", "gender-identity"]
+    },
+    {
+      "key_topic_ref": "WA-11.2",
+      "question_text": "A renter experiences housing discrimination on March 1, 2026. What is the deadline to file a complaint with the WSHRC?",
+      "correct_answer": "March 1, 2027",
+      "distractors": ["September 1, 2026", "March 1, 2028", "June 1, 2026"],
+      "explanation": "Housing discrimination complaints must be filed with the WSHRC within one year of the alleged violation. A violation occurring on March 1, 2026, must be filed by March 1, 2027.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["WSHRC", "filing-deadline", "one-year"]
+    },
+    {
+      "key_topic_ref": "WA-11.2",
+      "question_text": "After a housing discrimination complaint is filed with the WSHRC, what happens next?",
+      "correct_answer": "Investigation and resolution process",
+      "distractors": ["Automatic criminal prosecution", "Immediate license revocation", "Mandatory binding arbitration"],
+      "explanation": "Once a complaint is filed, the WSHRC conducts an investigation and works toward resolution. This may involve mediation, conciliation, or a formal determination of whether discrimination occurred.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["WSHRC", "investigation", "resolution"]
+    },
+    {
+      "key_topic_ref": "WA-11.2",
+      "question_text": "A buyer files a discrimination complaint 14 months after being denied a home purchase. Is the complaint timely?",
+      "correct_answer": "No, it exceeds the one-year deadline",
+      "distractors": ["Yes, the deadline is two years", "Yes, there is no time limit", "Yes, the deadline is 18 months"],
+      "explanation": "Washington requires housing discrimination complaints to be filed within one year of the violation. At 14 months, the complaint exceeds the filing deadline and may be dismissed as untimely by the WSHRC.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["WSHRC", "filing-deadline", "timeliness"]
+    },
+    {
+      "key_topic_ref": "WA-11.2",
+      "question_text": "Which Washington agency has primary authority to investigate housing discrimination complaints?",
+      "correct_answer": "The WSHRC",
+      "distractors": ["The Department of Licensing", "The Attorney General's Office", "The Real Estate Commission"],
+      "explanation": "The Washington State Human Rights Commission (WSHRC) has primary authority to investigate housing discrimination complaints under WLAD. While other agencies may be involved, the WSHRC is the designated enforcement body.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["WSHRC", "enforcement", "authority"]
+    },
+    {
+      "key_topic_ref": "WA-11.3",
+      "question_text": "A court finds that a landlord discriminated against a tenant. Which remedy is available under Washington law?",
+      "correct_answer": "Injunction, damages, and attorney fees",
+      "distractors": ["Criminal imprisonment and jail time", "Mandatory sale of the rental property", "License suspension without monetary relief"],
+      "explanation": "Washington discrimination remedies include injunctions, compensatory damages, attorney fees, and civil penalties. These remedies are available through either the WSHRC administrative process or civil court proceedings.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["discrimination-remedies", "damages", "injunction"]
+    },
+    {
+      "key_topic_ref": "WA-11.3",
+      "question_text": "A discrimination victim wants to pursue remedies outside the WSHRC process. What alternative is available?",
+      "correct_answer": "Filing a lawsuit in civil court",
+      "distractors": ["Appealing to the DOL", "Filing a criminal complaint", "Requesting a recovery fund claim"],
+      "explanation": "Discrimination victims in Washington can pursue remedies through the WSHRC or through civil court. Filing a civil lawsuit allows the victim to seek injunctions, damages, attorney fees, and civil penalties directly from a judge or jury.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["discrimination-remedies", "civil-court", "alternatives"]
+    },
+    {
+      "key_topic_ref": "WA-11.3",
+      "question_text": "A broker is found liable for housing discrimination. Can the court award the victim's attorney fees?",
+      "correct_answer": "Yes, attorney fees are available",
+      "distractors": ["No, each party pays their own fees", "Only if damages exceed $10,000", "Only in federal court proceedings"],
+      "explanation": "Attorney fees are specifically listed as an available remedy in Washington housing discrimination cases. This provision helps ensure victims can afford legal representation when pursuing discrimination claims.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["discrimination-remedies", "attorney-fees", "court-awards"]
+    },
+    {
+      "key_topic_ref": "WA-11.3",
+      "question_text": "A property manager repeatedly discriminates against applicants based on marital status. What type of penalty may apply beyond compensatory damages?",
+      "correct_answer": "Civil penalties",
+      "distractors": ["Tax penalties only", "Property liens only", "Criminal fines only"],
+      "explanation": "Civil penalties are available in Washington housing discrimination cases in addition to compensatory damages, injunctions, and attorney fees. Civil penalties serve as a deterrent against future discriminatory conduct.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["discrimination-remedies", "civil-penalties", "marital-status"]
+    },
+    {
+      "key_topic_ref": "WA-11.3",
+      "question_text": "A tenant wins a discrimination case and the court orders the landlord to stop the discriminatory practice. What type of remedy is this order?",
+      "correct_answer": "An injunction",
+      "distractors": ["A civil penalty", "Compensatory damages", "Punitive damages"],
+      "explanation": "An injunction is a court order requiring a party to stop a specific action. In housing discrimination cases, injunctions prevent the respondent from continuing the discriminatory practice and are one of several remedies available under WLAD.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["discrimination-remedies", "injunction", "court-order"]
+    }
+  ]
+}

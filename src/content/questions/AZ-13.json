@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AZ-13",
+  "scope": "state",
+  "state": "AZ",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AZ-13.1",
+      "question_text": "In Arizona, escrow companies must be licensed by which agency?",
+      "correct_answer": "Department of Insurance and Financial Institutions",
+      "distractors": ["Arizona Department of Real Estate (ADRE)", "Arizona Corporation Commission (ACC)", "Arizona Secretary of State's Office"],
+      "explanation": "Escrow companies and departments are licensed by the Arizona Department of Insurance and Financial Institutions, not ADRE. ADRE regulates real estate licensees, not escrow companies.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "licensing", "DIFI"]
+    },
+    {
+      "key_topic_ref": "AZ-13.1",
+      "question_text": "The escrow agent in an Arizona transaction serves as:",
+      "correct_answer": "A neutral third party",
+      "distractors": ["The buyer's advocate", "The seller's representative", "The lender's agent"],
+      "explanation": "The escrow agent is a neutral third party who holds funds and documents, disbursing them only when all conditions of the escrow instructions are met. They do not advocate for either party.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow agent", "neutral", "third party"]
+    },
+    {
+      "key_topic_ref": "AZ-13.1",
+      "question_text": "Escrow instructions in an Arizona transaction are considered:",
+      "correct_answer": "Binding and governing the closing process",
+      "distractors": ["Advisory guidelines that can be modified freely", "Valid only with court approval", "Secondary to verbal agreements between parties"],
+      "explanation": "Escrow instructions are legally binding and govern the closing process. The escrow agent must follow them precisely, disbursing funds and documents only when all specified conditions are satisfied.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow instructions", "binding", "closing"]
+    },
+    {
+      "key_topic_ref": "AZ-13.1",
+      "question_text": "A buyer deposits the purchase funds with the escrow company but the title search reveals an unresolved lien. What should the escrow agent do?",
+      "correct_answer": "Hold the funds until the condition is resolved",
+      "distractors": ["Release funds to the seller immediately", "Return all funds to the buyer automatically", "Transfer funds to the title company"],
+      "explanation": "The escrow agent holds funds and documents until ALL conditions are met. An unresolved lien must be cleared before the escrow agent can disburse funds. This protects both parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["escrow", "conditions", "hold funds"]
+    },
+    {
+      "key_topic_ref": "AZ-13.1",
+      "question_text": "Which party typically selects the escrow company in an Arizona residential transaction?",
+      "correct_answer": "The parties agree by negotiation or local custom",
+      "distractors": ["The buyer always selects the escrow company", "The seller's agent chooses the escrow company", "ADRE assigns an escrow company to the deal"],
+      "explanation": "The selection of the escrow company is typically negotiated between the parties and may follow local customs. Neither state law nor ADRE mandates which party gets to choose.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "selection", "negotiation"]
+    },
+    {
+      "key_topic_ref": "AZ-13.2",
+      "question_text": "What is the primary difference between standard and extended (ALTA) title insurance coverage?",
+      "correct_answer": "ALTA adds protection for unrecorded claims and surveys",
+      "distractors": ["ALTA covers a higher dollar amount of loss", "Standard coverage protects both buyer and lender", "ALTA is available only for commercial properties"],
+      "explanation": "Standard coverage protects against recorded defects, liens, and encumbrances. Extended ALTA coverage adds protection against unrecorded claims, survey disputes, rights of parties in possession, and other off-record risks.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["title insurance", "standard", "ALTA", "coverage"]
+    },
+    {
+      "key_topic_ref": "AZ-13.2",
+      "question_text": "A lender requires which type of title insurance policy in Arizona?",
+      "correct_answer": "An ALTA (extended coverage) policy",
+      "distractors": ["A standard owner's policy", "A preliminary title report only", "No title insurance is required by lenders"],
+      "explanation": "Lenders typically require an ALTA (extended coverage) policy to protect their security interest against both recorded and unrecorded claims. Buyers usually get a separate standard owner's policy.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ALTA", "lender policy", "requirement"]
+    },
+    {
+      "key_topic_ref": "AZ-13.2",
+      "question_text": "A title search examines which records to determine ownership history?",
+      "correct_answer": "Public records at the county recorder's office",
+      "distractors": ["ADRE license database records only", "The MLS listing history for the area", "Federal land survey records exclusively"],
+      "explanation": "A title search examines public records including deeds, mortgages, liens, judgments, and encumbrances recorded with the county recorder to establish the chain of title and identify any defects.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title search", "public records", "county recorder"]
+    },
+    {
+      "key_topic_ref": "AZ-13.2",
+      "question_text": "After closing, a previously unknown heir claims ownership of the property. Which type of title insurance would protect the buyer?",
+      "correct_answer": "An owner's title insurance policy",
+      "distractors": ["The lender's ALTA policy only", "The seller's warranty in the deed", "The escrow company's liability bond"],
+      "explanation": "An owner's title insurance policy protects the buyer against claims arising from title defects, including unknown heirs. The lender's policy only protects the lender's interest, not the buyer's equity.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["owner's policy", "unknown heir", "title claim"]
+    },
+    {
+      "key_topic_ref": "AZ-13.2",
+      "question_text": "Standard title insurance coverage would NOT protect against which of the following?",
+      "correct_answer": "An unrecorded easement claimed by a neighbor",
+      "distractors": ["A prior mortgage that was never released", "A judgment lien recorded against the seller", "A forged deed in the chain of title"],
+      "explanation": "Standard coverage protects against recorded defects but NOT unrecorded claims. An unrecorded easement would only be covered by extended (ALTA) coverage, which adds protection for off-record risks.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["standard coverage", "unrecorded", "limitation"]
+    },
+    {
+      "key_topic_ref": "AZ-13.3",
+      "question_text": "Arizona primarily uses which security instrument for real estate loans?",
+      "correct_answer": "Deed of trust",
+      "distractors": ["Mortgage", "Land contract", "Promissory note only"],
+      "explanation": "Arizona is a deed of trust state. Deeds of trust involve three parties: trustor (borrower), beneficiary (lender), and trustee (holds legal title). The promissory note is the debt instrument; the deed of trust is the security.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "security instrument", "lending"]
+    },
+    {
+      "key_topic_ref": "AZ-13.3",
+      "question_text": "In an Arizona deed of trust, which party holds legal title to the property?",
+      "correct_answer": "The trustee",
+      "distractors": ["The beneficiary (lender)", "The trustor (borrower)", "The escrow company"],
+      "explanation": "In a deed of trust, the trustee holds legal title as security for the loan. The trustor (borrower) has equitable title and possession. The beneficiary (lender) holds the promissory note.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "trustee", "legal title"]
+    },
+    {
+      "key_topic_ref": "AZ-13.3",
+      "question_text": "The power of sale clause in an Arizona deed of trust enables which type of foreclosure?",
+      "correct_answer": "Non-judicial foreclosure (trustee's sale)",
+      "distractors": ["Judicial foreclosure only", "Strict foreclosure without sale", "Foreclosure by agreement only"],
+      "explanation": "The power of sale clause in the deed of trust allows the trustee to sell the property at public auction without court involvement. This is non-judicial foreclosure, which is the most common method in Arizona.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["power of sale", "non-judicial", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "AZ-13.3",
+      "question_text": "Are both judicial and non-judicial foreclosure available in Arizona?",
+      "correct_answer": "Yes, both methods are available",
+      "distractors": ["No, only non-judicial is allowed", "No, only judicial foreclosure is used", "Only non-judicial for residential properties"],
+      "explanation": "Arizona allows both judicial and non-judicial foreclosure. Non-judicial (trustee's sale) is more common because it is faster and less expensive. Judicial foreclosure is available but used less frequently.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "judicial", "non-judicial"]
+    },
+    {
+      "key_topic_ref": "AZ-13.3",
+      "question_text": "In a deed of trust, the borrower is known as the:",
+      "correct_answer": "Trustor",
+      "distractors": ["Beneficiary", "Trustee", "Mortgagor"],
+      "explanation": "In deed of trust terminology, the borrower is the trustor, the lender is the beneficiary, and the trustee holds legal title. The term \"mortgagor\" applies in states that use mortgages rather than deeds of trust.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trustor", "borrower", "deed of trust"]
+    }
+  ]
+}

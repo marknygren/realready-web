@@ -1,0 +1,228 @@
+{
+  "standard_ref": "AZ-12",
+  "scope": "state",
+  "state": "AZ",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AZ-12.1",
+      "question_text": "A listing agreement in Arizona is a contract between which parties?",
+      "correct_answer": "The seller and the broker",
+      "distractors": ["The seller and the salesperson", "The seller and the buyer's agent", "The seller and the MLS"],
+      "explanation": "Listing agreements are contracts between the property seller and the broker (not the individual salesperson). The salesperson works under the broker's authority to market the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing agreement", "broker", "seller"]
+    },
+    {
+      "key_topic_ref": "AZ-12.1",
+      "question_text": "Under Arizona's statute of frauds, a listing agreement must include all of the following EXCEPT:",
+      "correct_answer": "The minimum acceptable offer price",
+      "distractors": ["Compensation terms for the broker", "The duration of the agreement", "The duties of each party"],
+      "explanation": "Listing agreements must be in writing and include compensation terms, duration, and duties. The minimum acceptable offer price is a private negotiation detail, not a required contract element.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["listing agreement", "statute of frauds", "requirements"]
+    },
+    {
+      "key_topic_ref": "AZ-12.1",
+      "question_text": "A buyer wants formal representation and signs a buyer-broker agreement. This agreement must be:",
+      "correct_answer": "In writing to be enforceable for compensation",
+      "distractors": ["Filed with ADRE within 10 days", "Approved by the seller's broker first", "Notarized before it becomes effective"],
+      "explanation": "Like listing agreements, buyer-broker agreements must be in writing under the statute of frauds to enforce compensation claims. They do not need to be filed with ADRE, approved by others, or notarized.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["buyer-broker agreement", "written", "statute of frauds"]
+    },
+    {
+      "key_topic_ref": "AZ-12.1",
+      "question_text": "What must both listing and buyer-broker agreements specify regarding payment?",
+      "correct_answer": "The compensation terms",
+      "distractors": ["The exact commission percentage only", "That payment comes from the seller only", "The escrow company that will disburse"],
+      "explanation": "Employment agreements must specify compensation terms. This can be a percentage, flat fee, or other arrangement — not necessarily a specific percentage. How compensation is paid can vary by agreement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["compensation", "employment agreements", "terms"]
+    },
+    {
+      "key_topic_ref": "AZ-12.1",
+      "question_text": "A salesperson negotiates a listing agreement with a seller. The agreement is technically between:",
+      "correct_answer": "The seller and the brokerage firm",
+      "distractors": ["The seller and the individual salesperson", "The seller and the MLS organization", "The seller and ADRE"],
+      "explanation": "Employment agreements are between the principal (seller/buyer) and the brokerage, not the individual salesperson. The salesperson acts on behalf of the brokerage under the designated broker's authority.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["listing agreement", "brokerage", "parties"]
+    },
+    {
+      "key_topic_ref": "AZ-12.2",
+      "question_text": "Arizona uses which industry-standard purchase contract form for residential resales?",
+      "correct_answer": "The AAR Residential Resale Purchase Contract",
+      "distractors": ["The ADRE-mandated purchase contract", "The Pearson VUE standard form", "The TREC promulgated contract"],
+      "explanation": "Arizona uses the AAR (Arizona Association of Realtors) Residential Resale Real Estate Purchase Contract as the industry standard. Unlike Texas (TREC forms), Arizona does NOT have state-mandated purchase contracts.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["AAR", "purchase contract", "form"]
+    },
+    {
+      "key_topic_ref": "AZ-12.2",
+      "question_text": "A valid Arizona purchase contract must include all of the following EXCEPT:",
+      "correct_answer": "The buyer's pre-approval letter",
+      "distractors": ["Identification of the parties", "The purchase price and terms", "A legal description of the property"],
+      "explanation": "Valid contracts require parties, property description, purchase price, and terms. A pre-approval letter may be requested by the seller but is not a legal requirement for a valid contract.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["contract requirements", "valid contract", "elements"]
+    },
+    {
+      "key_topic_ref": "AZ-12.2",
+      "question_text": "Are Arizona's residential purchase contract forms mandated by the state?",
+      "correct_answer": "No, AAR forms are industry standard but not mandated",
+      "distractors": ["Yes, ADRE mandates specific forms", "Yes, the Commissioner approves all forms", "Only for transactions over $500,000"],
+      "explanation": "Unlike Texas, where TREC promulgates mandatory contract forms, Arizona does not mandate specific purchase contract forms. The AAR forms are widely used as industry standard but their use is voluntary.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["AAR", "mandatory forms", "state mandated"]
+    },
+    {
+      "key_topic_ref": "AZ-12.2",
+      "question_text": "Which element distinguishes a binding contract from a mere offer in Arizona?",
+      "correct_answer": "Acceptance communicated to the offeror",
+      "distractors": ["The signature of a notary public", "Filing with the county recorder's office", "Payment of the full earnest money deposit"],
+      "explanation": "A contract is formed when acceptance is communicated to the offeror. Notarization, recording, and earnest money are not required for a binding contract, though earnest money shows good faith consideration.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contract formation", "acceptance", "binding"]
+    },
+    {
+      "key_topic_ref": "AZ-12.2",
+      "question_text": "The purchase contract specifies that the buyer will take possession on the closing date. The seller requests to stay 3 additional days. This requires:",
+      "correct_answer": "A written agreement modifying the possession terms",
+      "distractors": ["No action, sellers always get 3 grace days", "Only verbal agreement between the parties", "Approval from the escrow company"],
+      "explanation": "Any change to the contract terms, including possession date, requires a written agreement (addendum or amendment). Post-closing occupancy by the seller creates liability and should be formally documented.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["possession", "contract modification", "written agreement"]
+    },
+    {
+      "key_topic_ref": "AZ-12.3",
+      "question_text": "Earnest money in an Arizona transaction is typically deposited with which party?",
+      "correct_answer": "An escrow company",
+      "distractors": ["The seller's real estate broker", "The buyer's personal attorney", "The Arizona Department of Real Estate"],
+      "explanation": "In Arizona, earnest money is typically deposited with the escrow company handling the closing. Arizona is an escrow state, so escrow companies serve as neutral third parties holding funds and documents.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest money", "escrow", "deposit"]
+    },
+    {
+      "key_topic_ref": "AZ-12.3",
+      "question_text": "A buyer's offer is accepted on Monday with a 3-business-day earnest money deposit deadline. By when must the deposit be made?",
+      "correct_answer": "By Thursday",
+      "distractors": ["By Wednesday", "By Friday", "Within 24 hours"],
+      "explanation": "With a 3-business-day deadline from Monday's acceptance, the earnest money must be deposited by Thursday (Tuesday = day 1, Wednesday = day 2, Thursday = day 3).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest money", "deadline", "business days"]
+    },
+    {
+      "key_topic_ref": "AZ-12.3",
+      "question_text": "Which of the following is a common contingency in an Arizona purchase contract?",
+      "correct_answer": "Home inspection contingency",
+      "distractors": ["Attorney review contingency", "Zoning change contingency", "Seller's purchase of a new home"],
+      "explanation": "Common contingencies in Arizona include inspection, appraisal, loan, title, and HOA document review. Attorney review contingencies are more common in states like Illinois and New Jersey than in Arizona.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contingencies", "inspection", "purchase contract"]
+    },
+    {
+      "key_topic_ref": "AZ-12.3",
+      "question_text": "The appraisal comes in $20,000 below the purchase price. The contract has an appraisal contingency. What are the buyer's options?",
+      "correct_answer": "Negotiate a lower price, pay the gap, or cancel",
+      "distractors": ["The buyer must complete the purchase as agreed", "The seller must automatically reduce the price", "The lender will fund the original amount anyway"],
+      "explanation": "With an appraisal contingency, the buyer can negotiate a lower price with the seller, make up the difference in cash, or cancel the contract. The contingency protects the buyer from overpaying based on the lender's valuation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["appraisal contingency", "low appraisal", "options"]
+    },
+    {
+      "key_topic_ref": "AZ-12.3",
+      "question_text": "The HOA document review contingency allows the buyer to cancel if they object to:",
+      "correct_answer": "The HOA's governing documents or financial condition",
+      "distractors": ["The neighborhood's architectural style only", "The property's physical condition only", "The seller's reason for moving"],
+      "explanation": "The HOA document contingency gives buyers time to review CC&Rs, bylaws, financial statements, pending litigation, and reserve funds. Buyers can cancel if they find objectionable terms or financial concerns.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HOA contingency", "governing documents", "review"]
+    },
+    {
+      "key_topic_ref": "AZ-12.4",
+      "question_text": "Arizona closings are typically handled by which type of entity?",
+      "correct_answer": "Escrow and title companies",
+      "distractors": ["Real estate attorneys only", "The county recorder's office", "The buyer's lending institution"],
+      "explanation": "Arizona is an escrow state — closings are handled by escrow/title companies, not attorneys. The escrow agent serves as a neutral third party managing funds, documents, and the closing process.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "escrow state", "title company"]
+    },
+    {
+      "key_topic_ref": "AZ-12.4",
+      "question_text": "What document is required to be filed with the county recorder for all Arizona property transfers?",
+      "correct_answer": "An Affidavit of Value",
+      "distractors": ["A certificate of occupancy", "A transfer tax receipt", "An ADRE transaction report"],
+      "explanation": "Arizona requires an Affidavit of Value for all property transfers, filed with the county recorder. It includes the sale price and becomes a public record. Notably, Arizona has no state transfer tax.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Affidavit of Value", "recording", "county recorder"]
+    },
+    {
+      "key_topic_ref": "AZ-12.4",
+      "question_text": "Does Arizona charge a state transfer tax on real estate sales?",
+      "correct_answer": "No, Arizona has no state transfer tax",
+      "distractors": ["Yes, 0.5% of the sale price", "Yes, a flat $500 per transaction", "Only on sales above $1 million"],
+      "explanation": "Arizona is one of several states that does not charge a state transfer tax on real estate transactions. Closing costs primarily consist of recording fees, escrow fees, and title insurance premiums.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "no tax", "closing costs"]
+    },
+    {
+      "key_topic_ref": "AZ-12.4",
+      "question_text": "Closing costs in Arizona are typically determined by:",
+      "correct_answer": "Negotiation between the parties, guided by local custom",
+      "distractors": ["State law mandating equal splits", "ADRE rules assigning all costs to the buyer", "The escrow company's standard allocation"],
+      "explanation": "Closing costs are negotiable between parties, though local customs exist (e.g., in some counties the seller customarily pays for the title insurance policy). No law mandates how costs are split.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing costs", "negotiation", "local custom"]
+    },
+    {
+      "key_topic_ref": "AZ-12.4",
+      "question_text": "The Affidavit of Value filed at closing includes the sale price. This information becomes:",
+      "correct_answer": "A public record",
+      "distractors": ["Confidential for 5 years", "Available only to tax authorities", "Sealed unless ordered by a court"],
+      "explanation": "The Affidavit of Value, including the sale price, becomes a public record when filed with the county recorder. This is how comparable sales data becomes available for appraisals and market analysis.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Affidavit of Value", "public record", "sale price"]
+    }
+  ]
+}

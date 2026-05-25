@@ -1,0 +1,118 @@
+{
+  "standard_ref": "HI-09",
+  "scope": "state",
+  "state": "HI",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "HI-09.1",
+      "question_text": "Hawaii's fair housing law is found in which chapter of the Hawaii Revised Statutes?",
+      "correct_answer": "HRS Chapter 515",
+      "distractors": ["HRS Chapter 508D", "HRS Chapter 467", "HRS Chapter 521"],
+      "explanation": "HRS Chapter 515 is Hawaii's fair housing law, which prohibits discrimination in real property transactions. It covers all federal protected classes plus additional state-level protections.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HRS-515", "fair-housing", "statute"]
+    },
+    {
+      "key_topic_ref": "HI-09.1",
+      "question_text": "Which of the following is a protected class under Hawaii state law but NOT under federal fair housing law?",
+      "correct_answer": "Sexual orientation",
+      "distractors": ["Race", "Disability", "Familial status"],
+      "explanation": "Hawaii adds several protected classes beyond federal law, including sexual orientation, gender identity/expression, ancestry, marital status, age, and HIV infection. Race, disability, and familial status are federal classes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["protected-class", "sexual-orientation", "state-vs-federal"]
+    },
+    {
+      "key_topic_ref": "HI-09.1",
+      "question_text": "A landlord refuses to rent to a couple because they are not married. Under HRS 515, this refusal most likely violates protections based on:",
+      "correct_answer": "Marital status",
+      "distractors": ["Familial status", "Age", "Religion"],
+      "explanation": "Hawaii protects marital status as a class under HRS 515-3. Refusing to rent to unmarried couples constitutes discrimination based on marital status, which is a state-level protection not found in federal law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["marital-status", "discrimination", "rental"]
+    },
+    {
+      "key_topic_ref": "HI-09.1",
+      "question_text": "Under HRS 515-3, how many total protected classes does Hawaii recognize in real property transactions?",
+      "correct_answer": "11 classes",
+      "distractors": ["7 classes", "9 classes", "14 classes"],
+      "explanation": "HRS 515-3 lists 11 protected classes: race, sex (including gender identity/expression), sexual orientation, color, religion, marital status, familial status, ancestry, disability, age, and HIV infection.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["protected-classes", "HRS-515-3", "count"]
+    },
+    {
+      "key_topic_ref": "HI-09.1",
+      "question_text": "A property manager declines a rental application solely because the applicant is HIV-positive. Under Hawaii law, this action is:",
+      "correct_answer": "Illegal under HRS Chapter 515",
+      "distractors": ["Legal if disclosed in the listing", "Legal if a health risk exists", "Permitted for units under 4 bedrooms"],
+      "explanation": "HIV infection is a specifically protected class under HRS 515-3. Refusing to rent based on a person's HIV status is illegal discrimination under Hawaii fair housing law, regardless of circumstances.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HIV", "discrimination", "rental"]
+    },
+    {
+      "key_topic_ref": "HI-09.2",
+      "question_text": "A tenant believes a landlord discriminated based on ancestry. Where should the tenant file a fair housing complaint?",
+      "correct_answer": "Hawaii Civil Rights Commission",
+      "distractors": ["HIREC Real Estate Branch", "County housing authority", "Department of Health"],
+      "explanation": "Fair housing complaints under HRS 515 are filed with the HCRC, which investigates, conciliates, and adjudicates discrimination claims. The HCRC can also commence civil action in circuit court or issue right-to-sue letters.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HCRC", "complaint", "ancestry"]
+    },
+    {
+      "key_topic_ref": "HI-09.2",
+      "question_text": "Which state agency enforces Hawaii's fair housing laws?",
+      "correct_answer": "Hawaii Civil Rights Commission",
+      "distractors": ["HIREC", "Department of Commerce", "Office of the Attorney General"],
+      "explanation": "The Hawaii Civil Rights Commission (HCRC), established in 1990, enforces HRS Chapter 515. The HCRC receives, investigates, conciliates, and adjudicates fair housing complaints.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HCRC", "enforcement", "fair-housing"]
+    },
+    {
+      "key_topic_ref": "HI-09.2",
+      "question_text": "After filing a fair housing complaint with the HCRC, a complainant is unsatisfied with progress. What document can the HCRC issue to allow a private lawsuit?",
+      "correct_answer": "A right-to-sue letter",
+      "distractors": ["A cease-and-desist order", "A probable cause finding", "A mediation referral"],
+      "explanation": "The HCRC can issue a 'right to sue' letter, which allows the complainant to pursue a private civil action in circuit court. This provides an alternative path when administrative proceedings are insufficient.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["right-to-sue", "HCRC", "civil-action"]
+    },
+    {
+      "key_topic_ref": "HI-09.2",
+      "question_text": "The HCRC determines that a landlord violated HRS 515. Which types of relief can the HCRC order?",
+      "correct_answer": "Legal and equitable relief",
+      "distractors": ["Monetary damages only", "Criminal penalties only", "License revocation only"],
+      "explanation": "The HCRC has broad remedial authority and can order legal relief (damages), equitable relief (injunctions), and affirmative action measures to correct discriminatory practices.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HCRC", "remedies", "relief"]
+    },
+    {
+      "key_topic_ref": "HI-09.2",
+      "question_text": "In addition to administrative proceedings, the HCRC may pursue fair housing violations through which legal avenue?",
+      "correct_answer": "Civil action in circuit court",
+      "distractors": ["Criminal prosecution in district court", "Federal court only", "Arbitration proceedings"],
+      "explanation": "The HCRC can commence civil action in circuit court to enforce fair housing laws. This is in addition to its administrative authority to investigate, conciliate, and adjudicate complaints internally.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HCRC", "circuit-court", "enforcement"]
+    }
+  ]
+}

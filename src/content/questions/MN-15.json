@@ -1,0 +1,295 @@
+{
+  "standard_ref": "MN-15",
+  "scope": "state",
+  "state": "MN",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MN-15.1",
+      "question_text": "When are Minnesota property taxes due each year?",
+      "correct_answer": "May 15 and October 15",
+      "distractors": [
+        "January 1 and July 1",
+        "March 1 and September 1",
+        "April 15 and November 15"
+      ],
+      "explanation": "Minnesota property taxes are due in two installments: May 15 and October 15. These dates apply statewide regardless of county.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "property-tax",
+        "due-dates",
+        "payment-schedule"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.1",
+      "question_text": "A homeowner files for homestead classification on their primary residence. What is the main tax benefit?",
+      "correct_answer": "A lower effective property tax rate",
+      "distractors": [
+        "Complete exemption from property taxes",
+        "Deferral of taxes until the home is sold",
+        "A fixed tax amount regardless of value increases"
+      ],
+      "explanation": "Homestead classification provides a lower effective property tax rate compared to non-homestead property. It does not exempt the owner from taxes entirely or freeze the tax amount.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "homestead",
+        "property-tax",
+        "classification"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.1",
+      "question_text": "A homeowner's primary residence has a market value of $300,000. Under the Homestead Market Value Exclusion, approximately how much value is excluded?",
+      "correct_answer": "About $22,000 after phase-out",
+      "distractors": [
+        "$38,000 maximum exclusion amount",
+        "$95,000 at the full 40% rate",
+        "$0 because it exceeds the threshold"
+      ],
+      "explanation": "The exclusion is 40% of the first $95,000 ($38,000 max), then phases out between $95,000 and $517,200. At $300,000, the exclusion is partially phased out, resulting in approximately $22,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "homestead",
+        "market-value-exclusion",
+        "calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.1",
+      "question_text": "A person owns two homes in Minnesota and wants to claim homestead on both. Is this permitted?",
+      "correct_answer": "No, only one homestead per person is allowed",
+      "distractors": [
+        "Yes, if both are in the same county",
+        "Yes, if one is valued under $200,000",
+        "Only if they alternate primary residences seasonally"
+      ],
+      "explanation": "Minnesota limits homestead classification to one property per person. The owner must choose which property serves as their primary residence and file for homestead on that property only.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "homestead",
+        "classification",
+        "limitation"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.1",
+      "question_text": "Which entities set property tax rates in Minnesota?",
+      "correct_answer": "Local authorities such as counties, cities, and schools",
+      "distractors": [
+        "The Minnesota Department of Revenue exclusively",
+        "The state legislature sets a uniform statewide rate",
+        "The county assessor determines rates and values"
+      ],
+      "explanation": "Property tax rates in Minnesota are set by multiple local taxing authorities including counties, cities, school districts, and special taxing districts. The county assessor determines property values, not tax rates.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "property-tax",
+        "tax-rates",
+        "local-authority"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.2",
+      "question_text": "A homeowner has not paid property taxes for 3 years on their primary residence. What happens next under Minnesota law?",
+      "correct_answer": "The property forfeits to the state",
+      "distractors": [
+        "The county places a lien but takes no further action",
+        "The owner has 5 more years before any consequence",
+        "The mortgage lender automatically pays the taxes"
+      ],
+      "explanation": "After 3 years of delinquent property taxes on homestead property, the property forfeits to the state. For vacant or abandoned property, the forfeiture period is only 1 year.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "tax-forfeiture",
+        "delinquent-taxes",
+        "homestead"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.2",
+      "question_text": "How does the forfeiture timeline for vacant land differ from homestead property in Minnesota?",
+      "correct_answer": "Vacant land forfeits after 1 year of delinquency",
+      "distractors": [
+        "Vacant land follows the same 3-year timeline",
+        "Vacant land is exempt from tax forfeiture",
+        "Vacant land forfeits after 5 years of delinquency"
+      ],
+      "explanation": "Vacant or abandoned property forfeits after only 1 year of delinquent taxes, compared to 3 years for homestead property. This shorter timeline reflects the reduced hardship of forfeiting unoccupied land.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "tax-forfeiture",
+        "vacant-land",
+        "timeline"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.2",
+      "question_text": "A property owner receives a forfeiture notice after 2.5 years of unpaid taxes on their home. Can they save the property?",
+      "correct_answer": "Yes, by exercising the right of redemption before forfeiture",
+      "distractors": [
+        "No, the forfeiture is final once notice is issued",
+        "Only if they pay taxes plus a 25% penalty surcharge",
+        "Only if the county agrees to a payment plan"
+      ],
+      "explanation": "The owner has a right of redemption before forfeiture occurs. By paying all delinquent taxes, penalties, and interest before the forfeiture date, the owner can retain the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "redemption",
+        "tax-forfeiture",
+        "homeowner-rights"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.2",
+      "question_text": "After a property forfeits for unpaid taxes in Minnesota, who manages and sells the property?",
+      "correct_answer": "The county",
+      "distractors": [
+        "The Minnesota Department of Revenue",
+        "The state court system through a sheriff sale",
+        "The original property owner's mortgage lender"
+      ],
+      "explanation": "After forfeiture to the state, the county manages and sells tax-forfeited properties. The county board determines how these properties are marketed and sold.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "tax-forfeiture",
+        "county-management",
+        "property-sale"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.2",
+      "question_text": "A vacant commercial lot has been tax-delinquent for 14 months. The owner claims they still have time to redeem. Is the owner correct?",
+      "correct_answer": "No, vacant property forfeits after just 1 year",
+      "distractors": [
+        "Yes, all properties get 3 years before forfeiture",
+        "Yes, commercial property gets 5 years",
+        "No, but the owner can appeal to district court"
+      ],
+      "explanation": "Vacant or abandoned property has only a 1-year delinquency period before forfeiture. At 14 months, the property has likely already forfeited and the redemption period has passed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "tax-forfeiture",
+        "vacant-land",
+        "redemption",
+        "timeline"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.3",
+      "question_text": "A city installs new sewer lines on a residential street and charges affected homeowners. What type of charge is this?",
+      "correct_answer": "Special assessment",
+      "distractors": [
+        "Property tax increase",
+        "Impact fee",
+        "Utility connection surcharge"
+      ],
+      "explanation": "Special assessments are charges levied against specific properties that benefit from public improvements such as streets, sidewalks, and sewers. They differ from general property taxes, which fund broad services.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "special-assessment",
+        "public-improvements",
+        "sewer"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.3",
+      "question_text": "A homeowner objects to a proposed special assessment for street improvements. What rights does the homeowner have?",
+      "correct_answer": "Notice and hearing rights before the assessment",
+      "distractors": [
+        "Automatic veto power over the project",
+        "Right to demand a citywide referendum",
+        "No rights once the city council approves funding"
+      ],
+      "explanation": "Property owners have notice and hearing rights before special assessments are finalized. They may attend hearings and object, though the municipality ultimately decides whether to proceed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "special-assessment",
+        "hearing-rights",
+        "due-process"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.3",
+      "question_text": "How does a special assessment attach to a property in Minnesota?",
+      "correct_answer": "As a lien against the property",
+      "distractors": [
+        "As a personal debt of the current owner only",
+        "As a deduction from the homestead exclusion",
+        "As an escrow charge added to the mortgage"
+      ],
+      "explanation": "Special assessments are liens against the property in Minnesota. They attach to the property itself, not just the owner, meaning they transfer with the property if it is sold.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "special-assessment",
+        "lien",
+        "property-transfer"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.3",
+      "question_text": "A low-income renter in Minnesota pays rent that includes property taxes passed through by the landlord. What tax benefit may the renter claim?",
+      "correct_answer": "Property tax refund based on income relative to taxes",
+      "distractors": [
+        "Full exemption from property tax pass-through",
+        "A state income tax credit equal to total rent paid",
+        "No benefit because renters do not pay property tax"
+      ],
+      "explanation": "Minnesota provides a property tax refund program for both homeowners and renters. Renters qualify based on their income relative to the property taxes assumed to be included in their rent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property-tax-refund",
+        "renter-benefit",
+        "income-based"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-15.3",
+      "question_text": "A buyer discovers that the property they are purchasing has an unpaid special assessment of $8,000 for street paving. Who is responsible for this debt after closing?",
+      "correct_answer": "The buyer, unless the contract assigns it to the seller",
+      "distractors": [
+        "The seller, because they owned the property when assessed",
+        "The city, because the improvement is public infrastructure",
+        "No one, assessments are forgiven at property transfer"
+      ],
+      "explanation": "Special assessments are liens on the property and transfer with it. Unless the purchase agreement specifically assigns responsibility to the seller, the buyer inherits any unpaid assessment balances.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "special-assessment",
+        "lien",
+        "buyer-responsibility",
+        "closing"
+      ]
+    }
+  ]
+}

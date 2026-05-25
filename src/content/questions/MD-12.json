@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MD-12",
+  "scope": "state",
+  "state": "MD",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MD-12.1",
+      "question_text": "Which Maryland agency is responsible for assessing property values for tax purposes?",
+      "correct_answer": "SDAT",
+      "distractors": ["Maryland Real Estate Commission", "Department of Housing", "County Tax Collector"],
+      "explanation": "The State Department of Assessments and Taxation (SDAT) is responsible for assessing property values in Maryland. Each of the 23 counties and Baltimore City then applies their own tax rate to the assessed value.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SDAT", "property assessment", "property tax"]
+    },
+    {
+      "key_topic_ref": "MD-12.1",
+      "question_text": "A Maryland homeowner's property assessment increases by 15% in one year. The homeowner lives in the property as their principal residence. How does the Homestead Tax Credit apply?",
+      "correct_answer": "Assessment increase is capped at 10%",
+      "distractors": ["The full 15% increase is taxed", "The homeowner pays no taxes that year", "The increase is spread over five years"],
+      "explanation": "Maryland's Homestead Tax Credit limits annual assessment increases to 10% for owner-occupied principal residences. The 15% increase would be capped at 10% for tax purposes. Some counties set even lower caps.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Homestead Tax Credit", "assessment cap", "owner-occupied"]
+    },
+    {
+      "key_topic_ref": "MD-12.1",
+      "question_text": "How often does Maryland reassess property values under its rolling cycle?",
+      "correct_answer": "Every three years",
+      "distractors": ["Annually", "Every five years", "Every ten years"],
+      "explanation": "Maryland uses a 3-year rolling reassessment cycle administered by SDAT. Properties are divided into groups, with one-third reassessed each year, so every property is reassessed once every three years.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["reassessment cycle", "SDAT", "3-year cycle"]
+    },
+    {
+      "key_topic_ref": "MD-12.1",
+      "question_text": "A Maryland homeowner with limited income struggles to pay property taxes on their owner-occupied home. Which program provides income-based property tax relief?",
+      "correct_answer": "Homeowner's Tax Credit",
+      "distractors": ["Homestead Tax Credit", "First-Time Buyer Exemption", "Maryland Mortgage Program"],
+      "explanation": "The Homeowner's Tax Credit provides income-based property tax relief for qualifying Maryland homeowners. This is distinct from the Homestead Tax Credit, which caps assessment increases regardless of income.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Homeowner's Tax Credit", "income-based relief", "property tax"]
+    },
+    {
+      "key_topic_ref": "MD-12.1",
+      "question_text": "An investor owns rental property in two different Maryland counties. Which statement about their property tax rates is correct?",
+      "correct_answer": "Each county applies its own tax rate",
+      "distractors": ["Both properties use the state rate", "Rental properties pay a uniform surcharge", "SDAT sets one rate for all counties"],
+      "explanation": "Each of Maryland's 23 counties and Baltimore City sets its own property tax rate. An investor with properties in different counties will pay different tax rates even if the assessed values are similar.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["county tax rates", "property tax", "rental property"]
+    },
+    {
+      "key_topic_ref": "MD-12.2",
+      "question_text": "What is Maryland's state transfer tax rate on a residential property sale?",
+      "correct_answer": "0.5% of the purchase price",
+      "distractors": ["1.0% of the purchase price", "0.25% of the purchase price", "$7.00 per $1,000"],
+      "explanation": "Maryland's state transfer tax is 0.5% of the purchase price. The 0.25% rate applies only to first-time Maryland homebuyers. The $7.00 per $1,000 figure is the state recordation tax rate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "state tax rate", "0.5%"]
+    },
+    {
+      "key_topic_ref": "MD-12.2",
+      "question_text": "A home sells for $400,000 in Maryland. What is the state recordation tax on the deed?",
+      "correct_answer": "$2,800",
+      "distractors": ["$2,000", "$4,000", "$700"],
+      "explanation": "Maryland's state recordation tax is $7.00 per $1,000 of consideration. For a $400,000 sale: $400,000 / $1,000 = 400 units x $7.00 = $2,800. County recordation taxes would be additional.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recordation tax", "tax calculation", "$7 per $1000"]
+    },
+    {
+      "key_topic_ref": "MD-12.2",
+      "question_text": "Maryland's state recordation tax applies to which documents?",
+      "correct_answer": "Deeds and deeds of trust",
+      "distractors": ["Deeds only", "Mortgages only", "Listing agreements and leases"],
+      "explanation": "Maryland's state recordation tax of $7.00 per $1,000 of consideration applies to both deeds and deeds of trust (the financing instrument). This means recordation taxes are assessed on both the sale and the loan.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recordation tax", "deeds", "deeds of trust"]
+    },
+    {
+      "key_topic_ref": "MD-12.2",
+      "question_text": "A property sells for $500,000 in a Maryland county with a 1.0% county transfer tax. What is the total county transfer tax?",
+      "correct_answer": "$5,000",
+      "distractors": ["$2,500", "$3,500", "$7,500"],
+      "explanation": "County transfer tax rates in Maryland vary from 0.5% to 1.5%. At a 1.0% rate on a $500,000 sale: $500,000 x 0.01 = $5,000. This is separate from the state transfer tax of 0.5%.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["county transfer tax", "tax calculation", "settlement costs"]
+    },
+    {
+      "key_topic_ref": "MD-12.2",
+      "question_text": "A buyer purchases a $350,000 home and finances $280,000 with a deed of trust. The state recordation tax applies to which amount(s)?",
+      "correct_answer": "Both the $350,000 deed and $280,000 DOT",
+      "distractors": ["Only the $350,000 purchase price", "Only the $280,000 loan amount", "The difference of $70,000"],
+      "explanation": "Maryland's state recordation tax of $7.00 per $1,000 applies separately to both the deed (based on purchase price) and the deed of trust (based on loan amount). This results in recordation tax on a combined $630,000.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recordation tax", "deed of trust", "tax calculation"]
+    },
+    {
+      "key_topic_ref": "MD-12.3",
+      "question_text": "A buyer has never owned a home in Maryland but previously owned property in Virginia. Do they qualify for the reduced first-time buyer transfer tax rate?",
+      "correct_answer": "Yes, they qualify as a first-time MD buyer",
+      "distractors": ["No, prior ownership anywhere disqualifies", "Only if they sold the Virginia property", "Only if they moved from Virginia to MD"],
+      "explanation": "Maryland defines a first-time homebuyer as someone who has never owned a principal residence in Maryland. Owning property in another state does not disqualify the buyer from the reduced 0.25% state transfer tax rate.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["first-time buyer", "transfer tax reduction", "0.25%"]
+    },
+    {
+      "key_topic_ref": "MD-12.3",
+      "question_text": "What is the reduced state transfer tax rate for first-time Maryland homebuyers?",
+      "correct_answer": "0.25%",
+      "distractors": ["0.5%", "0.1%", "0%"],
+      "explanation": "First-time Maryland homebuyers pay a reduced state transfer tax rate of 0.25%, compared to the standard 0.5% rate. The seller pays this reduced rate on behalf of the qualifying buyer.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["first-time buyer", "transfer tax", "0.25%"]
+    },
+    {
+      "key_topic_ref": "MD-12.3",
+      "question_text": "A first-time Maryland homebuyer needs down payment assistance. Which state program offers below-market rate loans and assistance?",
+      "correct_answer": "Maryland Mortgage Program",
+      "distractors": ["Homestead Tax Credit", "SDAT Assessment Relief", "Homeowner's Tax Credit"],
+      "explanation": "The Maryland Mortgage Program (MMP), administered by the Maryland Department of Housing, provides below-market interest rate loans and down payment assistance to qualifying first-time and repeat homebuyers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Maryland Mortgage Program", "down payment assistance", "first-time buyer"]
+    },
+    {
+      "key_topic_ref": "MD-12.3",
+      "question_text": "In a first-time buyer transaction in Maryland, who pays the reduced state transfer tax?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "Split equally between parties", "The lender"],
+      "explanation": "For qualifying first-time Maryland homebuyers, the reduced state transfer tax rate of 0.25% (instead of 0.5%) is paid by the seller. This benefit helps reduce overall transaction costs for new homeowners.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["first-time buyer", "transfer tax", "seller responsibility"]
+    },
+    {
+      "key_topic_ref": "MD-12.3",
+      "question_text": "A first-time Maryland homebuyer purchases a $300,000 home. How much state transfer tax savings does the reduced rate provide compared to the standard rate?",
+      "correct_answer": "$750",
+      "distractors": ["$1,500", "$500", "$300"],
+      "explanation": "The standard state transfer tax is 0.5% ($300,000 x 0.005 = $1,500). The first-time buyer rate is 0.25% ($300,000 x 0.0025 = $750). The savings is $1,500 - $750 = $750.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["first-time buyer", "transfer tax savings", "tax calculation"]
+    }
+  ]
+}

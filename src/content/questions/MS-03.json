@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MS-03",
+  "scope": "state",
+  "state": "MS",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "MS-03.1",
+      "question_text": "What is the minimum age to obtain a Mississippi real estate license?",
+      "correct_answer": "18 years old",
+      "distractors": ["21 years old", "16 years old", "19 years old"],
+      "explanation": "Mississippi requires applicants for a real estate salesperson license to be at least 18 years of age. Applicants must also be Mississippi residents and complete 60 hours of pre-license education.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "age requirement", "salesperson"]
+    },
+    {
+      "key_topic_ref": "MS-03.1",
+      "question_text": "How many hours of pre-license education must a salesperson applicant complete?",
+      "correct_answer": "60 hours",
+      "distractors": ["30 hours", "90 hours", "120 hours"],
+      "explanation": "Mississippi requires 60 hours of approved pre-license education for salesperson applicants. This education must be completed before taking the PSI licensing exam.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license education", "60 hours", "salesperson"]
+    },
+    {
+      "key_topic_ref": "MS-03.1",
+      "question_text": "Who administers the Mississippi real estate licensing exam?",
+      "correct_answer": "PSI Services",
+      "distractors": ["MREC directly", "The Mississippi Department of Education", "Each individual real estate school"],
+      "explanation": "Mississippi's real estate licensing exam is administered by PSI Services. The exam has two portions: 80 national questions (70% to pass) and 40 state-specific questions (75% to pass).",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SB 2086", "exam retake", "fees"]
+    },
+    {
+      "key_topic_ref": "MS-03.1",
+      "question_text": "The Mississippi state exam portion contains 40 questions. What passing score is required?",
+      "correct_answer": "75%",
+      "distractors": ["70%", "80%", "65%"],
+      "explanation": "The Mississippi licensing exam has two portions: 80 national questions requiring 70% to pass, and 40 state-specific questions requiring 75% to pass. Both portions must be passed to obtain a license.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "passing score", "state portion"]
+    },
+    {
+      "key_topic_ref": "MS-03.1",
+      "question_text": "A candidate passes the national portion at 70% but scores 72% on the state portion. What is the result?",
+      "correct_answer": "She failed the state portion",
+      "distractors": ["She passed both portions", "She must retake both portions", "Her scores are averaged together"],
+      "explanation": "The state portion requires 75% to pass, so 72% is a failing score. The national portion requires 70%, which she met. She would need to retake only the state portion, scoring at least 75%.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exam", "passing score", "state portion"]
+    },
+    {
+      "key_topic_ref": "MS-03.2",
+      "question_text": "Which type of criminal conviction can disqualify a license applicant?",
+      "correct_answer": "Felony conviction",
+      "distractors": ["Only violent felony convictions", "Only real estate fraud crimes", "Any misdemeanor offense at all"],
+      "explanation": "Under §73-35-10(2)(b), any felony conviction within 5 years bars licensure. Felonies involving fraud, dishonesty, breach of trust, or money laundering are a permanent bar regardless of when they occurred.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["criminal history", "felony", "moral turpitude"]
+    },
+    {
+      "key_topic_ref": "MS-03.2",
+      "question_text": "An applicant has a non-fraud felony conviction from 7 years ago. How does MREC handle this?",
+      "correct_answer": "MREC has discretion to approve",
+      "distractors": ["Automatic permanent bar applies", "Automatic approval is granted", "Must wait 10 years total"],
+      "explanation": "Under §73-35-10(2)(b), felonies within 5 years are an automatic bar. Felonies beyond 5 years that did not involve fraud, dishonesty, breach of trust, or money laundering are no longer an absolute bar — MREC has discretion to evaluate the applicant.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HB 986", "moral turpitude", "discretion"]
+    },
+    {
+      "key_topic_ref": "MS-03.2",
+      "question_text": "A felony involving fraud or dishonesty occurred 10 years ago. What is the licensing consequence?",
+      "correct_answer": "Permanent bar from licensure",
+      "distractors": ["Discretionary review by MREC", "No bar after 5 years", "Required additional education only"],
+      "explanation": "Under §73-35-10(2)(b), felonies involving fraud, dishonesty, breach of trust, or money laundering are a permanent bar regardless of when they occurred. The 5-year discretion only applies to non-fraud felonies.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HB 986", "moral turpitude", "automatic bar"]
+    },
+    {
+      "key_topic_ref": "MS-03.2",
+      "question_text": "An applicant has a felony conviction from 3 years ago for a non-fraud offense. What is the licensing result?",
+      "correct_answer": "Automatic bar from licensure",
+      "distractors": ["MREC must approve the license", "Applicant gets a probationary license", "MREC has discretion to approve"],
+      "explanation": "Any felony within the past 5 years is an automatic bar to licensure under §73-35-10(2)(b). MREC discretion applies only to non-fraud felonies that occurred more than 5 years ago.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HB 986", "moral turpitude", "3-year conviction"]
+    },
+    {
+      "key_topic_ref": "MS-03.2",
+      "question_text": "A felony conviction for embezzlement disqualifies a license applicant. For how long?",
+      "correct_answer": "Permanently, as a fraud-related felony",
+      "distractors": ["Only for 5 years after conviction", "Only for 3 years after conviction", "Until MREC grants discretionary review"],
+      "explanation": "Embezzlement involves dishonesty and breach of trust. Under §73-35-10(2)(b), felonies involving fraud, dishonesty, or breach of trust are a permanent bar — they never become eligible for MREC discretionary review.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["felony", "moral turpitude", "embezzlement"]
+    },
+    {
+      "key_topic_ref": "MS-03.3",
+      "question_text": "A homeowner sells her own house without using an agent. Does she need a real estate license?",
+      "correct_answer": "No, owners are exempt",
+      "distractors": ["Yes, for all property sales", "Only if over $100,000", "Only if a commercial property"],
+      "explanation": "Mississippi law exempts property owners from licensing requirements when selling their own property. A license is required only when performing real estate activities for others for compensation.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "owner sale", "licensing"]
+    },
+    {
+      "key_topic_ref": "MS-03.3",
+      "question_text": "An attorney helps a client negotiate a purchase contract as part of legal representation. Does the attorney need a license?",
+      "correct_answer": "No, attorneys in scope are exempt",
+      "distractors": ["Yes, all negotiators need one", "Only if the attorney earns a fee", "Only if the property exceeds $50,000"],
+      "explanation": "Attorneys acting within the scope of their legal practice are exempt from Mississippi real estate licensing requirements. This exemption applies when the real estate activity is incidental to the attorney-client relationship.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "attorneys", "licensing"]
+    },
+    {
+      "key_topic_ref": "MS-03.3",
+      "question_text": "Which activity requires a Mississippi real estate license?",
+      "correct_answer": "Managing property for others",
+      "distractors": ["Selling your own home", "Appraising property values", "Inspecting homes for buyers"],
+      "explanation": "Property management performed for others for compensation is an activity that requires a Mississippi real estate license. Other licensed activities include selling, buying, exchanging, leasing for others, auctions, and timeshare sales.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensed activities", "property management", "compensation"]
+    },
+    {
+      "key_topic_ref": "MS-03.3",
+      "question_text": "A court appoints a receiver to manage and sell a foreclosed property. Does the receiver need a license?",
+      "correct_answer": "No, court-appointed are exempt",
+      "distractors": ["Yes, for all property sales", "Only if property exceeds $200,000", "Only with MREC approval first"],
+      "explanation": "Court-appointed individuals such as receivers, trustees, and executors are exempt from Mississippi real estate licensing requirements when performing duties ordered by the court.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "court-appointed", "receiver"]
+    },
+    {
+      "key_topic_ref": "MS-03.3",
+      "question_text": "A state employee lists government surplus property for sale as part of her job. Does she need a license?",
+      "correct_answer": "No, government employees are exempt",
+      "distractors": ["Yes, for all sales over $10,000", "Only with broker supervision", "Yes, unless the property is vacant"],
+      "explanation": "Government employees acting in their official capacity are exempt from Mississippi real estate licensing requirements. This exemption covers state, county, and municipal employees performing real estate functions as part of their government duties.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "government employees", "official capacity"]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "standard_ref": "DE-03",
+  "scope": "state",
+  "state": "DE",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "DE-03.1",
+      "question_text": "What is the primary purpose of the Delaware Real Estate Guaranty Fund?",
+      "correct_answer": "Protect the public from licensee misconduct",
+      "distractors": ["Insure licensees against client lawsuits", "Fund Commission operations and staff", "Cover property damage during transactions"],
+      "explanation": "The Guaranty Fund exists to compensate members of the public who suffer financial loss due to the misconduct of a licensed real estate professional. It does not insure licensees, fund operations, or cover property damage.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["guaranty-fund", "purpose", "public-protection"]
+    },
+    {
+      "key_topic_ref": "DE-03.1",
+      "question_text": "A buyer loses $40,000 due to a licensee's fraud. What is the maximum she can recover from the Guaranty Fund?",
+      "correct_answer": "$25,000",
+      "distractors": ["$40,000", "$50,000", "$75,000"],
+      "explanation": "The Guaranty Fund caps recovery at $25,000 per transaction or claim regardless of the number of persons aggrieved. Even though the buyer lost $40,000, the fund will pay no more than $25,000. She must pursue other legal remedies for the remaining $15,000.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["guaranty-fund", "claim-limits", "recovery"]
+    },
+    {
+      "key_topic_ref": "DE-03.1",
+      "question_text": "Before filing a Guaranty Fund claim, what must a claimant first obtain?",
+      "correct_answer": "A final court judgment against the licensee",
+      "distractors": ["A Commission ruling against the licensee", "A demand letter from the licensee's broker", "A police report documenting the fraud"],
+      "explanation": "Delaware requires claimants to first obtain a final court judgment and then demonstrate they cannot collect from the licensee before the Guaranty Fund will pay. This ensures the fund is a last resort after all other collection methods are exhausted.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["guaranty-fund", "claims-process", "court-judgment"]
+    },
+    {
+      "key_topic_ref": "DE-03.1",
+      "question_text": "The Guaranty Fund balance drops to $200,000. What action will the Commission take?",
+      "correct_answer": "Assess licensees on a pro rata basis",
+      "distractors": ["Suspend all fund claims until recovery", "Request a state general fund allocation", "Increase renewal fees for the next cycle"],
+      "explanation": "The fund must maintain a minimum balance of $250,000. When it falls below this threshold, the Commission assesses active licensees on a pro rata basis at the next renewal to replenish it. This ensures the fund stays available for future claimants.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["guaranty-fund", "minimum-balance", "assessment"]
+    },
+    {
+      "key_topic_ref": "DE-03.1",
+      "question_text": "A broker suffers a loss from another licensee's fraud in a co-brokered deal. Can she claim from the Guaranty Fund?",
+      "correct_answer": "No, licensees cannot make claims",
+      "distractors": ["Yes, if the loss exceeds $25,000", "Yes, if she files within 60 days", "Only if she holds a broker license"],
+      "explanation": "The Guaranty Fund is designed solely to protect members of the public. Licensed real estate professionals are excluded from making claims, even when they suffer losses from another licensee's misconduct in the same transaction.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["guaranty-fund", "eligibility", "licensee-exclusion"]
+    },
+    {
+      "key_topic_ref": "DE-03.2",
+      "question_text": "The Guaranty Fund pays $25,000 on a claim against a salesperson. What happens to her license?",
+      "correct_answer": "It is automatically suspended",
+      "distractors": ["It remains active but on probation", "She receives a formal reprimand only", "Nothing until a hearing is held"],
+      "explanation": "When the Guaranty Fund pays a claim, the responsible licensee's license is automatically suspended without a hearing. The licensee must repay the full amount before she can apply for reinstatement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["guaranty-fund", "automatic-suspension", "consequences"]
+    },
+    {
+      "key_topic_ref": "DE-03.2",
+      "question_text": "A licensee suspended due to a Guaranty Fund payout wants reinstatement. What must she do?",
+      "correct_answer": "Repay the full amount to the fund",
+      "distractors": ["Complete 21 hours of continuing education", "Wait two years and reapply for license", "Pass both portions of the licensing exam"],
+      "explanation": "Reinstatement after a Guaranty Fund payout requires full repayment to the fund. This obligation is absolute and must be satisfied before the licensee can begin the reinstatement process.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["guaranty-fund", "reinstatement", "repayment"]
+    },
+    {
+      "key_topic_ref": "DE-03.2",
+      "question_text": "Which types of misconduct does the Guaranty Fund cover?",
+      "correct_answer": "Theft, forgery, fraud, and misrepresentation",
+      "distractors": ["Any violation of Commission regulations", "Only criminal acts resulting in conviction", "Negligence and breach of fiduciary duty"],
+      "explanation": "The fund specifically covers theft, forgery, fraud, misrepresentation, and deceit by a licensee or the licensee's unlicensed employee. General negligence or minor rule violations are not covered — the misconduct must involve intentional wrongdoing or deception.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["guaranty-fund", "covered-misconduct", "fraud"]
+    },
+    {
+      "key_topic_ref": "DE-03.2",
+      "question_text": "A licensee defrauds a client while acting in a personal capacity, not as an agent. Is the loss covered by the Guaranty Fund?",
+      "correct_answer": "No, acts must be in a licensed capacity",
+      "distractors": ["Yes, any licensee misconduct qualifies", "Yes, if the loss exceeds $5,000", "Only if Commission finds the licensee guilty"],
+      "explanation": "The Guaranty Fund only covers losses from acts performed in a licensee's professional capacity. Personal transactions or activities unrelated to real estate practice are not covered, even if the wrongdoer holds an active license.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["guaranty-fund", "licensed-capacity", "coverage"]
+    },
+    {
+      "key_topic_ref": "DE-03.2",
+      "question_text": "A licensee's unlicensed assistant embezzles a client's earnest money deposit. Is this covered by the Guaranty Fund?",
+      "correct_answer": "Yes, unlicensed employee acts are covered",
+      "distractors": ["No, only licensed agents are covered", "No, the client must sue the assistant", "Only if the broker was aware of the theft"],
+      "explanation": "The Guaranty Fund covers misconduct by licensees and their unlicensed employees acting within the scope of the real estate business. The client can pursue a Guaranty Fund claim even though the person who committed the theft was not personally licensed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["guaranty-fund", "unlicensed-employee", "coverage"]
+    }
+  ]
+}

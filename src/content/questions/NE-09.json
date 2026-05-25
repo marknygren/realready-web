@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NE-09",
+  "scope": "state",
+  "state": "NE",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "NE-09.1",
+      "question_text": "Nebraska's Seller Property Condition Disclosure applies to which type of property?",
+      "correct_answer": "Residential properties of 1 to 4 units",
+      "distractors": [
+        "All residential and commercial properties",
+        "Single-family homes only",
+        "Properties valued above $100,000"
+      ],
+      "explanation": "The Nebraska Seller Property Condition Disclosure (SPCD) is required for residential properties containing 1 to 4 dwelling units. Commercial properties and larger multi-family buildings are not subject to this requirement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SPCD", "residential_property", "disclosure_scope"]
+    },
+    {
+      "key_topic_ref": "NE-09.1",
+      "question_text": "A Nebraska seller provides the SPCD after the buyer has already signed the purchase contract. What problem does this create?",
+      "correct_answer": "The SPCD must be provided before a binding contract",
+      "distractors": [
+        "No problem if delivered within 10 days",
+        "The buyer automatically gets a 3-day rescission",
+        "The contract is void and must be re-executed"
+      ],
+      "explanation": "Nebraska law requires the SPCD to be provided before the buyer enters a binding contract. Late delivery violates the statute's purpose of ensuring buyers have material property information before committing to purchase.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SPCD", "timing", "binding_contract"]
+    },
+    {
+      "key_topic_ref": "NE-09.1",
+      "question_text": "A buyer discovers undisclosed water damage 8 months after taking possession. Under Nebraska law, what is the deadline to sue for actual damages?",
+      "correct_answer": "Within 1 year of possession or closing",
+      "distractors": [
+        "Within 6 months of discovering the defect",
+        "Within 2 years of the recorded closing",
+        "Within 3 years of the original listing"
+      ],
+      "explanation": "Nebraska allows buyers to sue sellers for actual damages resulting from SPCD omissions within 1 year of possession or conveyance, whichever occurs first. Since the buyer discovered the damage at 8 months, they still have time to file a claim.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SPCD", "actual_damages", "statute_of_limitations"]
+    },
+    {
+      "key_topic_ref": "NE-09.1",
+      "question_text": "A Nebraska seller discloses a cracked foundation on the SPCD. After closing, the crack worsens. Can the buyer hold the seller liable under the SPCD?",
+      "correct_answer": "No, the SPCD is not a warranty of condition",
+      "distractors": [
+        "Yes, the seller guaranteed the foundation",
+        "Yes, if repairs exceed $5,000",
+        "Only if the seller knew it would worsen"
+      ],
+      "explanation": "The Nebraska SPCD is a disclosure of conditions as known by the seller at the time, not a warranty or guarantee. Since the seller disclosed the crack, they fulfilled their obligation. Post-closing deterioration does not create SPCD liability.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["SPCD", "not_a_warranty", "seller_liability"]
+    },
+    {
+      "key_topic_ref": "NE-09.1",
+      "question_text": "Which of the following must be addressed on the Nebraska SPCD?",
+      "correct_answer": "CO detectors and structural defects",
+      "distractors": [
+        "Neighborhood crime statistics",
+        "School district performance ratings",
+        "Estimated annual utility costs"
+      ],
+      "explanation": "The Nebraska SPCD covers physical property conditions including carbon monoxide detectors, structural defects, appliances, hazards, title conditions, and utilities. Neighborhood data like crime rates and school ratings are not required SPCD disclosures.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SPCD", "CO_detectors", "structural_defects", "contents"]
+    },
+    {
+      "key_topic_ref": "NE-09.2",
+      "question_text": "A Nebraska home is sold through foreclosure proceedings. Is the SPCD required?",
+      "correct_answer": "No, court-ordered transfers are exempt",
+      "distractors": [
+        "Yes, all residential sales require SPCD",
+        "Only if the lender has owned it over 90 days",
+        "Yes, but the lender completes a limited form"
+      ],
+      "explanation": "Court-ordered transfers including foreclosures, probate sales, and divorce settlements are exempt from the Nebraska SPCD requirement. The rationale is that the transferring party may not have personal knowledge of the property's condition.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SPCD_exemptions", "foreclosure", "court_ordered"]
+    },
+    {
+      "key_topic_ref": "NE-09.2",
+      "question_text": "A Nebraska builder sells a newly constructed home for the first time. Is the SPCD required?",
+      "correct_answer": "No, first sale by a builder is exempt",
+      "distractors": [
+        "Yes, all residential sales require SPCD",
+        "Only if the home lacks a building permit",
+        "Yes, but with a shortened disclosure form"
+      ],
+      "explanation": "New construction sold for the first time by the builder is exempt from the Nebraska SPCD. The builder typically provides construction warranties and building code compliance documentation instead of a seller's disclosure of pre-existing conditions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SPCD_exemptions", "new_construction", "builder"]
+    },
+    {
+      "key_topic_ref": "NE-09.2",
+      "question_text": "An estate executor sells a deceased person's Nebraska home. Must the executor provide the SPCD?",
+      "correct_answer": "No, fiduciary estate transfers are exempt",
+      "distractors": [
+        "Yes, executors must complete the full SPCD",
+        "Only if the executor lived in the property",
+        "Yes, but the executor may disclaim knowledge"
+      ],
+      "explanation": "A fiduciary acting in the administration of an estate is exempt from the SPCD requirement. The executor may lack personal knowledge of the property's condition, which is the basis for this exemption.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SPCD_exemptions", "estate", "fiduciary"]
+    },
+    {
+      "key_topic_ref": "NE-09.2",
+      "question_text": "Which item is specifically included in the Nebraska SPCD contents?",
+      "correct_answer": "Private transfer fee obligations",
+      "distractors": [
+        "Projected property tax increases",
+        "Homeowner association meeting minutes",
+        "Neighbor complaint history"
+      ],
+      "explanation": "The Nebraska SPCD specifically requires disclosure of private transfer fee obligations, along with legal description, property condition, hazardous conditions, easements, and encroachments. Tax projections and HOA records are not SPCD requirements.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SPCD_contents", "private_transfer_fee", "disclosure"]
+    },
+    {
+      "key_topic_ref": "NE-09.2",
+      "question_text": "A parent transfers their Nebraska home to their adult child. Is the SPCD required?",
+      "correct_answer": "No, family transfers are exempt",
+      "distractors": [
+        "Yes, all sales of residential property require SPCD",
+        "Only if the transfer is below market value",
+        "Yes, unless both parties sign a waiver"
+      ],
+      "explanation": "Transfers between spouses or family members are exempt from the SPCD requirement in Nebraska. This exemption recognizes that family transfers often involve parties with existing knowledge of the property's condition.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["SPCD_exemptions", "family_transfer"]
+    },
+    {
+      "key_topic_ref": "NE-09.3",
+      "question_text": "A Nebraska licensee pays her unlicensed neighbor $200 for referring a buyer who purchases a home. What violation has occurred?",
+      "correct_answer": "Paying an unlicensed person for referrals",
+      "distractors": [
+        "No violation if the amount is small",
+        "A violation only if the buyer complains",
+        "An advertising rule violation only"
+      ],
+      "explanation": "Paying compensation to an unlicensed person for performing activities that require a license, including soliciting buyers or sellers, is a specific ground for NREC disciplinary action regardless of the amount paid.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed_compensation", "referral_fees", "prohibited_conduct"]
+    },
+    {
+      "key_topic_ref": "NE-09.3",
+      "question_text": "A buyer asks their Nebraska agent to explain which contract clause governs inspection timelines. What should the agent do?",
+      "correct_answer": "Recommend the buyer consult an attorney",
+      "distractors": [
+        "Interpret the clause for the buyer",
+        "Rewrite the clause in simpler language",
+        "Provide a legal opinion on enforcement"
+      ],
+      "explanation": "Nebraska licensees cannot give legal advice, render legal opinions, or interpret contract provisions. When a buyer needs clarification on contract language, the agent must recommend consulting an attorney to avoid unauthorized practice of law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unauthorized_practice", "legal_advice", "attorney_referral"]
+    },
+    {
+      "key_topic_ref": "NE-09.3",
+      "question_text": "Which activity is permitted for a Nebraska real estate licensee when preparing contracts?",
+      "correct_answer": "Filling in blanks on approved standard forms",
+      "distractors": [
+        "Drafting custom contract provisions",
+        "Modifying standard form legal language",
+        "Writing addenda with new legal terms"
+      ],
+      "explanation": "Nebraska licensees may only fill in blanks on approved standard forms. Drafting custom provisions, modifying legal language, or creating addenda with new legal terms constitutes unauthorized practice of law and is prohibited.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["standard_forms", "authorized_activities", "contract_preparation"]
+    },
+    {
+      "key_topic_ref": "NE-09.3",
+      "question_text": "A Nebraska agent collects earnest money but deposits it into their personal checking account. Which violation has occurred?",
+      "correct_answer": "Failure to account for client funds",
+      "distractors": [
+        "An unauthorized practice of law issue",
+        "An unlawful inducement to the seller",
+        "A violation of Nebraska fair housing law"
+      ],
+      "explanation": "Depositing client funds into a personal account is a failure to properly account for funds, also known as commingling. Nebraska law requires trust funds to be deposited in a designated trust account, and mishandling funds is grounds for disciplinary action.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust_funds", "commingling", "accounting", "discipline"]
+    },
+    {
+      "key_topic_ref": "NE-09.3",
+      "question_text": "A Nebraska licensee knowingly misrepresents a property's square footage to a buyer, who later discovers the actual size. Which grounds for discipline apply?",
+      "correct_answer": "Misrepresentation and fraud",
+      "distractors": [
+        "Failure to cooperate with other brokers",
+        "Violation of advertising regulations only",
+        "Exceeding the scope of the listing agreement"
+      ],
+      "explanation": "Knowingly providing false information about a property's square footage constitutes misrepresentation and fraud, both of which are grounds for disciplinary action under Nebraska law. This applies regardless of whether the buyer suffered financial loss.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["misrepresentation", "fraud", "discipline", "square_footage"]
+    }
+  ]
+}

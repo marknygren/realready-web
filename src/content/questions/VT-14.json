@@ -1,0 +1,173 @@
+{
+  "standard_ref": "VT-14",
+  "scope": "state",
+  "state": "VT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "VT-14.1",
+      "question_text": "A Vermont tenant signs a 10-month lease at $1,200 per month. What is the maximum security deposit the landlord may collect?",
+      "correct_answer": "$1,200 (one month's rent)",
+      "distractors": ["$2,400 (two months' rent)", "$1,800 (1.5 months' rent)", "$600 (half month's rent)"],
+      "explanation": "For leases of one year or less, Vermont limits the security deposit to one month's rent. For leases longer than one year, the limit increases to two months' rent.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "maximum", "lease-term"]
+    },
+    {
+      "key_topic_ref": "VT-14.1",
+      "question_text": "A Vermont tenant with an 18-month lease at $900 per month is asked for a $2,000 security deposit. Is this lawful?",
+      "correct_answer": "No, the maximum is $1,800",
+      "distractors": ["Yes, it is within the limit", "No, the maximum is $900", "Yes, if agreed in writing"],
+      "explanation": "For leases longer than one year, Vermont allows a maximum security deposit of two months' rent. Two months at $900 equals $1,800, so $2,000 exceeds the legal limit.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "calculation", "long-lease"]
+    },
+    {
+      "key_topic_ref": "VT-14.1",
+      "question_text": "Within how many days must a Vermont landlord return a security deposit after the tenant vacates?",
+      "correct_answer": "14 days",
+      "distractors": ["21 days", "30 days", "60 days"],
+      "explanation": "Vermont landlords must return the security deposit with an itemized statement of any deductions within 14 days. Failure to do so means the landlord forfeits the right to withhold any portion.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "return-deadline", "14-days"]
+    },
+    {
+      "key_topic_ref": "VT-14.1",
+      "question_text": "A Vermont landlord willfully fails to return a tenant's $1,000 security deposit within the required timeframe. What penalty may the court impose?",
+      "correct_answer": "Double the amount plus attorney fees",
+      "distractors": ["Return of only the deposit amount", "Triple damages plus all court costs", "A $500 civil fine per day of delay"],
+      "explanation": "Willful failure to return a security deposit within 14 days in Vermont can result in the landlord paying double the deposit amount plus the tenant's attorney fees.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "penalty", "willful-failure"]
+    },
+    {
+      "key_topic_ref": "VT-14.1",
+      "question_text": "A Vermont landlord deducts $300 from a security deposit for normal carpet wear after 3 years of tenancy. Is this deduction lawful?",
+      "correct_answer": "No, normal wear and tear cannot be deducted",
+      "distractors": ["Yes, carpet costs are always deductible", "Yes, if properly documented with photographs", "Yes, for any tenancy exceeding 2 years"],
+      "explanation": "Vermont landlords may only retain security deposit funds for damage beyond normal wear and tear, unpaid utilities, or abandoned property removal. Ordinary carpet wear after 3 years is normal wear and tear.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["security-deposit", "deductions", "wear-and-tear"]
+    },
+    {
+      "key_topic_ref": "VT-14.2",
+      "question_text": "A Vermont tenant fails to pay rent. How many days does the landlord's pay-or-quit notice give the tenant?",
+      "correct_answer": "14 days",
+      "distractors": ["3 days", "7 days", "30 days"],
+      "explanation": "For nonpayment of rent in Vermont, the landlord must provide a 14-day notice to pay or quit. This gives the tenant two weeks to either pay the overdue rent or vacate the premises.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "nonpayment", "notice-period"]
+    },
+    {
+      "key_topic_ref": "VT-14.2",
+      "question_text": "A Vermont tenant violates a lease provision by keeping an unauthorized pet. What notice period must the landlord provide?",
+      "correct_answer": "30 days to cure or quit",
+      "distractors": ["14 days to cure or quit", "7 days to vacate", "60 days to cure or quit"],
+      "explanation": "For lease violations other than nonpayment, Vermont requires a 30-day notice to cure or quit. The tenant has 30 days to correct the violation or vacate the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "lease-violation", "cure-period"]
+    },
+    {
+      "key_topic_ref": "VT-14.2",
+      "question_text": "A Vermont month-to-month tenant has lived in the unit for 3 years. How much notice must the landlord give to terminate the tenancy without cause?",
+      "correct_answer": "60 days",
+      "distractors": ["30 days", "90 days", "14 days"],
+      "explanation": "Vermont requires 60 days' notice to terminate a month-to-month tenancy when the tenant has resided there for 2 or more years. Tenancies under 2 years require only 30 days' notice.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "month-to-month", "long-term-tenant"]
+    },
+    {
+      "key_topic_ref": "VT-14.2",
+      "question_text": "A Vermont tenant engages in serious criminal activity on the premises. What is the minimum notice period for eviction?",
+      "correct_answer": "14 days to vacate",
+      "distractors": ["3 days to vacate", "30 days to vacate", "Immediate removal, no notice"],
+      "explanation": "For criminal or serious violations in Vermont, the landlord must provide a 14-day notice to vacate. Unlike some states, Vermont does not allow shorter notice periods even for criminal activity.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "criminal-activity", "notice-period"]
+    },
+    {
+      "key_topic_ref": "VT-14.2",
+      "question_text": "A Vermont month-to-month tenant has rented for 18 months. The landlord wants to end the tenancy without cause. What notice is required?",
+      "correct_answer": "30 days",
+      "distractors": ["14 days", "60 days", "90 days"],
+      "explanation": "For month-to-month tenancies of less than 2 years, Vermont requires 30 days' notice to terminate. The longer 60-day notice only applies when the tenant has resided for 2 or more years.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "month-to-month", "short-term"]
+    },
+    {
+      "key_topic_ref": "VT-14.3",
+      "question_text": "A Vermont apartment has a broken furnace in January. The landlord ignores repair requests for two weeks. What remedy may the tenant pursue?",
+      "correct_answer": "Repair and deduct from rent",
+      "distractors": ["Withhold all rent indefinitely", "Terminate the lease immediately", "File a criminal complaint"],
+      "explanation": "Vermont tenants may use the repair-and-deduct remedy when landlords fail to maintain habitable conditions. Rent withholding is also an option. Both remedies address the landlord's duty to maintain habitability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["habitability", "repair-and-deduct", "tenant-remedies"]
+    },
+    {
+      "key_topic_ref": "VT-14.3",
+      "question_text": "A Vermont tenant reports a building code violation to the health department. The landlord then serves a termination notice. What legal protection applies?",
+      "correct_answer": "Retaliatory eviction is prohibited",
+      "distractors": ["The landlord may proceed if cause exists", "The tenant must prove malice in court", "No protection exists for this scenario"],
+      "explanation": "Vermont prohibits retaliatory eviction. A landlord cannot terminate a tenancy in retaliation for a tenant exercising legal rights such as reporting code violations or requesting repairs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["retaliatory-eviction", "tenant-rights", "code-violations"]
+    },
+    {
+      "key_topic_ref": "VT-14.3",
+      "question_text": "For what minimum tenancy duration does Vermont require a written lease agreement?",
+      "correct_answer": "Tenancies of 1 year or longer",
+      "distractors": ["All tenancies regardless of length", "Tenancies of 6 months or longer", "Tenancies of 2 years or longer"],
+      "explanation": "Vermont requires written leases for tenancies of one year or longer. Shorter tenancies may be oral, though written agreements are always recommended for clarity.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lease-requirements", "written-lease", "duration"]
+    },
+    {
+      "key_topic_ref": "VT-14.3",
+      "question_text": "Which of the following must be included in a Vermont written lease agreement?",
+      "correct_answer": "Names, address, rent, and due date",
+      "distractors": ["Only the monthly rent amount and term", "Only the property address and unit number", "Only the lease start and end dates"],
+      "explanation": "Vermont written leases must include the names of parties, property address, rent amount, rent due date, and statutory disclosures. These requirements ensure both parties understand the basic terms.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lease-requirements", "contents", "statutory"]
+    },
+    {
+      "key_topic_ref": "VT-14.3",
+      "question_text": "A Vermont landlord's rental unit has persistent mold from a leaking roof. The tenant withholds rent until repairs are made. Is this lawful?",
+      "correct_answer": "Yes, rent withholding is a valid remedy",
+      "distractors": ["No, tenants must always pay rent", "No, only repair-and-deduct is allowed", "Yes, but only after 90 days' notice"],
+      "explanation": "Vermont tenants may withhold rent when the landlord fails to maintain habitable conditions. Persistent mold from a structural defect violates the implied warranty of habitability.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["habitability", "rent-withholding", "mold"]
+    }
+  ]
+}

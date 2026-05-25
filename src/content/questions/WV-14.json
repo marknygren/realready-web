@@ -1,0 +1,118 @@
+{
+  "standard_ref": "WV-14",
+  "scope": "state",
+  "state": "WV",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WV-14.1",
+      "question_text": "Under WV's Fair Housing Act, the Mrs. Murphy exemption applies to owner-occupied buildings with how many or fewer units?",
+      "correct_answer": "Four units",
+      "distractors": ["Two units", "Three units", "Six units"],
+      "explanation": "The Mrs. Murphy exemption in WV applies to owner-occupied buildings with no more than four units, similar to the federal exemption. The owner must live in one of the units.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "exemption", "Mrs-Murphy"]
+    },
+    {
+      "key_topic_ref": "WV-14.1",
+      "question_text": "A church owns a small apartment building used exclusively to house members. Is this exempt from the WV Fair Housing Act?",
+      "correct_answer": "Yes, religious organizations housing members are exempt",
+      "distractors": ["No, all housing must comply with fair housing", "Only if the building has fewer than 4 units", "Only if the church receives no government funding"],
+      "explanation": "Religious organizations may restrict housing to their own members for non-commercial purposes. This exemption allows faith-based housing without violating the Fair Housing Act.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "exemption", "religious-organization"]
+    },
+    {
+      "key_topic_ref": "WV-14.1",
+      "question_text": "A private country club restricts cabin rentals to members only. Does this violate WV's Fair Housing Act?",
+      "correct_answer": "No, private clubs may restrict to members only",
+      "distractors": ["Yes, all rental housing must comply", "Only if the club receives tax exemptions", "Only if the restriction is based on a protected class"],
+      "explanation": "Private clubs may restrict housing to members only as an exemption from the WV Fair Housing Act, provided the restriction is based on membership, not on a protected characteristic.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair-housing", "exemption", "private-club"]
+    },
+    {
+      "key_topic_ref": "WV-14.1",
+      "question_text": "An owner lives in one unit of a four-unit building and wants to discriminate based on race when renting the other units. Does the Mrs. Murphy exemption protect them?",
+      "correct_answer": "Exemption may apply, but race claims remain risky",
+      "distractors": ["Yes, the exemption fully protects the owner", "No, the exemption never covers race at all", "Only if the owner avoids using a real estate agent"],
+      "explanation": "While the Mrs. Murphy exemption may technically apply to owner-occupied buildings with 4 or fewer units, using discriminatory advertising or a real estate agent eliminates the exemption. Race discrimination may also violate the Civil Rights Act of 1866.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair-housing", "exemption", "limitations"]
+    },
+    {
+      "key_topic_ref": "WV-14.1",
+      "question_text": "Which of the following entities is NOT exempt from WV's Fair Housing Act?",
+      "correct_answer": "A licensed real estate brokerage",
+      "distractors": ["An owner-occupied duplex", "A religious organization's non-commercial housing", "A private club limiting to members"],
+      "explanation": "Licensed real estate professionals and brokerages are never exempt from fair housing laws. Even if their clients qualify for an exemption, the licensee must comply with fair housing requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair-housing", "exemption", "brokerages"]
+    },
+    {
+      "key_topic_ref": "WV-14.2",
+      "question_text": "A person believes they experienced housing discrimination in WV. With which agencies can they file a complaint?",
+      "correct_answer": "WV Human Rights Commission, HUD, or state court",
+      "distractors": ["Only the WV Human Rights Commission directly", "Only HUD at the federal government level", "Only the WVREC and the state circuit court"],
+      "explanation": "Complainants have three options for filing: the WV Human Rights Commission (state enforcement), HUD (federal enforcement), or state court. Multiple avenues ensure access to justice.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "complaints", "filing-options"]
+    },
+    {
+      "key_topic_ref": "WV-14.2",
+      "question_text": "After a fair housing complaint is filed with the WV Human Rights Commission, what happens next?",
+      "correct_answer": "The commission investigates the complaint",
+      "distractors": ["The complainant must file a lawsuit first", "The respondent is immediately fined", "The property is placed under a stop-sale order"],
+      "explanation": "After a complaint is filed, the WV Human Rights Commission investigates the allegations. If the investigation finds probable cause, the commission may hold hearings and order remedies.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "investigation", "process"]
+    },
+    {
+      "key_topic_ref": "WV-14.2",
+      "question_text": "What types of remedies can the WV Human Rights Commission order in a fair housing case?",
+      "correct_answer": "Remedies including cease and desist orders",
+      "distractors": ["Only monetary fines paid to the state", "Only referral to criminal court for prosecution", "Only mediation between the involved parties"],
+      "explanation": "The WV Human Rights Commission can investigate complaints, hold hearings, and order remedies. Remedies may include cease and desist orders, compensatory damages, and other relief.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "remedies", "enforcement"]
+    },
+    {
+      "key_topic_ref": "WV-14.2",
+      "question_text": "Can a person who files a fair housing complaint with the WV Human Rights Commission also pursue the matter in state court?",
+      "correct_answer": "Yes, state court is an alternative filing option",
+      "distractors": ["No, they must choose one venue only", "Only after the commission dismisses the case", "Only with the commission's written permission"],
+      "explanation": "Complainants may file with the WV Human Rights Commission, HUD, or state court. These are alternative avenues, and in some cases, a complainant may pursue multiple remedies.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair-housing", "state-court", "options"]
+    },
+    {
+      "key_topic_ref": "WV-14.2",
+      "question_text": "A WV real estate licensee discriminates against a buyer based on familial status. Which entities could potentially take action against the licensee?",
+      "correct_answer": "WV Human Rights Commission and the WVREC",
+      "distractors": ["Only the WVREC for license discipline", "Only the WV Human Rights Commission", "Only HUD at the federal level"],
+      "explanation": "The licensee could face both fair housing enforcement by the WV Human Rights Commission and professional discipline by the WVREC. Fair housing violations are also grounds for license action.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair-housing", "enforcement", "dual-action"]
+    }
+  ]
+}

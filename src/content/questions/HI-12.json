@@ -1,0 +1,173 @@
+{
+  "standard_ref": "HI-12",
+  "scope": "state",
+  "state": "HI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "HI-12.1",
+      "question_text": "Under HRS 514B, what must a developer obtain from HIREC before selling condominium units?",
+      "correct_answer": "An approved Developer's Public Report",
+      "distractors": ["A county building permit only", "A certificate of occupancy", "A managing agent license"],
+      "explanation": "Under HRS 514B, which governs condominiums created on or after July 1, 2006, developers must register with the Hawaii Real Estate Commission (HIREC) and obtain an approved Developer's Public Report before offering units for sale.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominiums", "HRS-514B", "developer-report"]
+    },
+    {
+      "key_topic_ref": "HI-12.1",
+      "question_text": "A developer makes material changes to a condominium project after buyers have signed contracts. What right do existing buyers have?",
+      "correct_answer": "30-day right to rescind their contracts",
+      "distractors": ["7-day right to rescind only", "No rescission rights after signing", "60-day right to renegotiate terms"],
+      "explanation": "Under HRS 514B, when a developer makes material changes to a condo project, existing buyers receive a 30-day right to rescind their binding sales contracts. The Developer's Public Report must also be updated to reflect the material changes.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condominiums", "rescission", "material-changes"]
+    },
+    {
+      "key_topic_ref": "HI-12.1",
+      "question_text": "An owner is selling a resale condo in Waikiki. Which documents must the seller provide to the buyer?",
+      "correct_answer": "Declaration, bylaws, financials, and reserve study",
+      "distractors": ["Only the original purchase contract", "Only the most recent tax bill", "Only the association's contact information"],
+      "explanation": "For resale condominiums, the seller must provide association documents including the declaration, bylaws, house rules, financial statements, reserve study, and information about pending litigation. These help the buyer evaluate the association's health.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condominiums", "resale", "association-documents"]
+    },
+    {
+      "key_topic_ref": "HI-12.1",
+      "question_text": "A person manages a Hawaii condominium association but does not hold a real estate broker's license. What license is required?",
+      "correct_answer": "A condominium managing agent license",
+      "distractors": ["No license is required for managers", "A property management certificate", "A general contractor license"],
+      "explanation": "In Hawaii, condominium managing agents must hold either a broker's license or a condominium managing agent license. This requirement ensures professional management of association affairs and owner funds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominiums", "managing-agent", "licensing"]
+    },
+    {
+      "key_topic_ref": "HI-12.1",
+      "question_text": "With which state agency must Hawaii condominium associations register?",
+      "correct_answer": "DCCA Real Estate Commission",
+      "distractors": ["Department of Land and Natural Resources", "County planning department", "Hawaii Housing Authority"],
+      "explanation": "All condominium associations in Hawaii must register with the Department of Commerce and Consumer Affairs (DCCA) Real Estate Commission. This registration helps ensure accountability and allows the state to monitor association governance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominiums", "registration", "DCCA"]
+    },
+    {
+      "key_topic_ref": "HI-12.2",
+      "question_text": "A buyer signs a timeshare purchase contract in Maui. Under HRS 514E, how many days does the buyer have to cancel?",
+      "correct_answer": "7 days",
+      "distractors": ["3 days", "14 days", "30 days"],
+      "explanation": "Under HRS 514E, timeshare buyers have a 7-day cancellation right. The period begins after the later of signing the contract or receiving the required disclosure documents. The seller must refund all purchase money within 15 days of cancellation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["timeshares", "cancellation", "HRS-514E"]
+    },
+    {
+      "key_topic_ref": "HI-12.2",
+      "question_text": "A timeshare buyer cancels within the statutory period. How quickly must the seller return the buyer's money?",
+      "correct_answer": "Within 15 days of cancellation",
+      "distractors": ["Within 7 days of cancellation", "Within 30 days of cancellation", "Within 45 days of cancellation"],
+      "explanation": "Under HRS 514E, when a timeshare buyer exercises the 7-day cancellation right, the seller must refund all purchase money within 15 days of the cancellation. All purchase money must be held in escrow during this period.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["timeshares", "refund", "cancellation"]
+    },
+    {
+      "key_topic_ref": "HI-12.2",
+      "question_text": "An unlicensed salesperson completes a timeshare sale at a resort presentation. Is this permitted under Hawaii law?",
+      "correct_answer": "No, licensed brokers must complete sales",
+      "distractors": ["Yes, if supervised by a resort manager", "Yes, for timeshare sales under $50,000", "Yes, if the buyer initiates the contact"],
+      "explanation": "Under HRS 514E, only licensed real estate brokers may complete timeshare sales in Hawaii. While acquisition agents may assist with marketing and initial contacts, the actual completion of the sale requires broker licensure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["timeshares", "licensing", "broker"]
+    },
+    {
+      "key_topic_ref": "HI-12.2",
+      "question_text": "A timeshare developer begins operations in Hawaii. Which entities must register with DCCA under HRS 514E?",
+      "correct_answer": "Developer, acquisition agents, and plan managers",
+      "distractors": ["Only the developer", "Only the developer and sales agents", "Only the plan manager"],
+      "explanation": "Hawaii's timeshare law (HRS 514E) requires registration with DCCA for three types of entities: the developer, acquisition agents (who market and solicit buyers), and plan managers (who manage the timeshare plan). This ensures oversight of all parties involved.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["timeshares", "registration", "DCCA"]
+    },
+    {
+      "key_topic_ref": "HI-12.2",
+      "question_text": "A timeshare buyer receives the purchase contract on Monday but does not receive the required disclosures until Thursday. When does the 7-day cancellation period begin?",
+      "correct_answer": "Thursday, when disclosures were received",
+      "distractors": ["Monday, when the contract was signed", "The following Monday after both events", "Friday, one day after disclosures"],
+      "explanation": "The 7-day cancellation period begins after the later of two events: signing the purchase contract or receiving the required disclosure documents. Since disclosures were received on Thursday (later than Monday's signing), the cancellation period starts Thursday.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["timeshares", "cancellation-period", "disclosure"]
+    },
+    {
+      "key_topic_ref": "HI-12.3",
+      "question_text": "How does a cooperative differ from a condominium in terms of ownership structure?",
+      "correct_answer": "Cooperative owners hold shares in a corporation",
+      "distractors": ["Cooperative owners hold deeds to units", "Cooperative owners share land equally", "There is no structural difference"],
+      "explanation": "In a cooperative, residents own shares in a corporation that owns the entire building. This differs from condominiums, where owners hold individual deeds to their specific units. Cooperatives are less common in Hawaii than condominiums.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["cooperatives", "ownership-structure", "comparison"]
+    },
+    {
+      "key_topic_ref": "HI-12.3",
+      "question_text": "A buyer is considering a home in a planned unit development (PUD). What governs shared common areas in a PUD?",
+      "correct_answer": "CC&Rs (covenants, conditions, and restrictions)",
+      "distractors": ["County zoning ordinances exclusively", "Individual owner agreements", "The state condominium statute"],
+      "explanation": "PUDs feature individual lot ownership with shared common areas. The common areas and community standards are governed by CC&Rs (covenants, conditions, and restrictions), which are recorded against the property and bind all owners.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PUD", "CCRs", "common-areas"]
+    },
+    {
+      "key_topic_ref": "HI-12.3",
+      "question_text": "A potential buyer wants to finance a cooperative unit in Honolulu. How does financing a co-op typically differ from financing a condo?",
+      "correct_answer": "Co-op loans are share loans, not mortgages",
+      "distractors": ["Co-ops require no down payment", "Co-ops cannot be financed at all", "Co-op interest rates are state regulated"],
+      "explanation": "Since cooperative owners hold shares in a corporation rather than real property deeds, financing involves share loans rather than traditional mortgages. This can make financing more complex and limit lender options compared to condominiums.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["cooperatives", "financing", "share-loans"]
+    },
+    {
+      "key_topic_ref": "HI-12.3",
+      "question_text": "A homeowner in a Hawaii PUD wants to add a large storage shed. What document should the homeowner review first?",
+      "correct_answer": "The CC&Rs for the development",
+      "distractors": ["Only the county building code", "The state land use classification", "The HOA president's approval letter"],
+      "explanation": "PUD homeowners must comply with the CC&Rs, which typically restrict modifications, structures, and uses within the development. While county building permits may also be required, the CC&Rs often impose stricter limitations that should be reviewed first.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PUD", "CCRs", "modifications"]
+    },
+    {
+      "key_topic_ref": "HI-12.3",
+      "question_text": "Which type of common interest ownership is least prevalent in Hawaii's real estate market?",
+      "correct_answer": "Cooperatives",
+      "distractors": ["Condominiums", "Planned unit developments", "Timeshares"],
+      "explanation": "Cooperatives are the least common form of common interest ownership in Hawaii. Condominiums dominate the market, particularly in urban areas like Honolulu, while PUDs and timeshares are also widely found throughout the islands.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["cooperatives", "market-prevalence", "common-interest"]
+    }
+  ]
+}

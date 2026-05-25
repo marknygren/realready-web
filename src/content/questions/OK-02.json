@@ -1,0 +1,228 @@
+{
+  "standard_ref": "OK-02",
+  "scope": "state",
+  "state": "OK",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "OK-02.1",
+      "question_text": "How many hours of pre-licensing education must a provisional sales associate complete in Oklahoma?",
+      "correct_answer": "90 hours",
+      "distractors": ["60 hours", "75 hours", "120 hours"],
+      "explanation": "Oklahoma requires 90 hours of pre-licensing education from an OREC-approved provider. The education is valid for 3 years after completion.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "pre-license", "education"]
+    },
+    {
+      "key_topic_ref": "OK-02.1",
+      "question_text": "A candidate completed their 90-hour pre-license course 4 years ago but never took the exam. What must they do?",
+      "correct_answer": "Retake the pre-license course",
+      "distractors": ["Take 21 hours of continuing education", "Request a one-year extension from OREC", "Submit a waiver application to OREC"],
+      "explanation": "Pre-licensing education expires 3 years after completion. Since 4 years have passed, the candidate must retake the entire 90-hour course before applying for the exam.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "education", "expiration"]
+    },
+    {
+      "key_topic_ref": "OK-02.1",
+      "question_text": "What minimum score must a candidate achieve on the pre-license course final exam to receive a completion certificate?",
+      "correct_answer": "80%",
+      "distractors": ["70%", "75%", "85%"],
+      "explanation": "Oklahoma requires a minimum score of 80% on the pre-licensing course final exam to receive a completion certificate. This certificate is needed to apply for the state licensing exam.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "exam", "course"]
+    },
+    {
+      "key_topic_ref": "OK-02.1",
+      "question_text": "Which of the following is NOT required to obtain a provisional sales associate license in Oklahoma?",
+      "correct_answer": "Two years of real estate experience",
+      "distractors": ["Background check via fingerprinting", "Completion of 90 hours of education", "Be at least 18 years old"],
+      "explanation": "A provisional sales associate needs 90 hours of education, must be 18+, and must pass a background check. Two years of experience is a broker license requirement, not a sales associate requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["licensing", "requirements", "salesperson"]
+    },
+    {
+      "key_topic_ref": "OK-02.1",
+      "question_text": "A 20-year-old permanent resident completes 90 hours of pre-license education and passes the background check. Can they apply for an Oklahoma license?",
+      "correct_answer": "Yes, they meet all basic requirements",
+      "distractors": ["No, they must be a U.S. citizen", "No, they must be at least 21 years old", "No, permanent residents need a waiver"],
+      "explanation": "Oklahoma requires applicants to be at least 18 and either a U.S. citizen or lawful permanent resident. This applicant at 20 years old with permanent residency meets both requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["licensing", "eligibility", "citizenship"]
+    },
+    {
+      "key_topic_ref": "OK-02.2",
+      "question_text": "How many hours of post-licensing education must a new Oklahoma licensee complete?",
+      "correct_answer": "45 hours",
+      "distractors": ["30 hours", "60 hours", "21 hours"],
+      "explanation": "New licensees must complete 45 hours of post-licensing education within the first year of licensure. This is separate from and in addition to regular continuing education requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["post-license", "education", "hours"]
+    },
+    {
+      "key_topic_ref": "OK-02.2",
+      "question_text": "A provisional sales associate fails to complete post-licensing education within the required timeframe. What happens to their license?",
+      "correct_answer": "The license becomes void",
+      "distractors": ["The license is placed on probation", "They receive a 90-day extension", "They pay a late completion penalty"],
+      "explanation": "If post-licensing education is not completed within the first year, the license becomes void. The individual must start over as a new applicant, including retaking the pre-license course and exam.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["post-license", "void", "consequences"]
+    },
+    {
+      "key_topic_ref": "OK-02.2",
+      "question_text": "Within what timeframe must post-licensing education be completed in Oklahoma?",
+      "correct_answer": "Within the first year of licensure",
+      "distractors": ["Within 6 months of licensure", "Within the first renewal cycle", "Before the first transaction"],
+      "explanation": "Oklahoma requires 45 hours of post-licensing education within the first year of licensure. Failure to complete it results in the license becoming void.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["post-license", "timeline", "deadline"]
+    },
+    {
+      "key_topic_ref": "OK-02.2",
+      "question_text": "After completing post-licensing education, how does a licensee's status change?",
+      "correct_answer": "Transitions from provisional to sales associate",
+      "distractors": ["Automatically becomes a broker associate", "Receives a permanent license number", "Gains authority to open a brokerage"],
+      "explanation": "Upon successful completion of post-licensing education, a provisional sales associate transitions to a full sales associate. Becoming a broker requires additional education, experience, and examination.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["post-license", "status", "transition"]
+    },
+    {
+      "key_topic_ref": "OK-02.2",
+      "question_text": "A licensee completed 30 of their required 45 post-license hours before the deadline. What is the result?",
+      "correct_answer": "The license becomes void",
+      "distractors": ["They may complete the remaining hours late", "OREC grants an automatic extension", "The license is placed on inactive status"],
+      "explanation": "All 45 hours must be completed within the first year. Partial completion does not satisfy the requirement. The license becomes void and the individual must restart the entire licensing process.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["post-license", "incomplete", "void"]
+    },
+    {
+      "key_topic_ref": "OK-02.3",
+      "question_text": "How many years of active sales associate experience are required for an Oklahoma broker license?",
+      "correct_answer": "2 years within the previous 5 years",
+      "distractors": ["3 years within the previous 7 years", "1 year within the previous 3 years", "5 years of total experience"],
+      "explanation": "Oklahoma requires 2 years of active licensure as a sales associate within the previous 5 years to qualify for a broker license, along with 90 hours of broker pre-licensing education.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "experience", "requirements"]
+    },
+    {
+      "key_topic_ref": "OK-02.3",
+      "question_text": "How many hours of pre-licensing education are required for an Oklahoma broker license?",
+      "correct_answer": "90 hours",
+      "distractors": ["45 hours", "120 hours", "150 hours"],
+      "explanation": "Oklahoma requires 90 hours of broker pre-licensing education, the same number as sales associate pre-licensing. The content, however, covers broker-level topics including management and supervision.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "education", "pre-license"]
+    },
+    {
+      "key_topic_ref": "OK-02.3",
+      "question_text": "A new broker wants to manage a brokerage office. What additional course must they complete?",
+      "correct_answer": "15-hour Broker-in-Charge course",
+      "distractors": ["30-hour management course", "6-hour supervision course", "45-hour post-license course"],
+      "explanation": "Brokers who want to serve as Broker-in-Charge must complete an additional 15-hour Broker-in-Charge course. This is beyond the 90 hours of broker pre-licensing education.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "BIC", "management"]
+    },
+    {
+      "key_topic_ref": "OK-02.3",
+      "question_text": "A sales associate was licensed 3 years ago but inactive for 2 of those years. Can they apply for a broker license?",
+      "correct_answer": "No, they need 2 years of active licensure",
+      "distractors": ["Yes, total time licensed counts", "Yes, if they complete extra CE hours", "No, but inactive time extends the window"],
+      "explanation": "Oklahoma requires 2 years of ACTIVE licensure within the previous 5 years. Inactive time does not count toward the experience requirement, so this applicant has only 1 year of active service.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["broker", "experience", "active"]
+    },
+    {
+      "key_topic_ref": "OK-02.3",
+      "question_text": "What passing score is required on the Oklahoma broker state exam?",
+      "correct_answer": "75%",
+      "distractors": ["70%", "80%", "65%"],
+      "explanation": "The broker exam requires a 75% passing score on each portion, which is higher than the 70% required for the salesperson exam. The broker state portion has 50 scored items.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "exam", "passing score"]
+    },
+    {
+      "key_topic_ref": "OK-02.4",
+      "question_text": "How many scored items are on the Oklahoma salesperson state exam?",
+      "correct_answer": "40 items",
+      "distractors": ["30 items", "50 items", "80 items"],
+      "explanation": "The salesperson state exam has 40 scored items plus 10 pretest items that do not affect the score. The time limit is 90 minutes. 80 items is the count for the national portion.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "structure", "items"]
+    },
+    {
+      "key_topic_ref": "OK-02.4",
+      "question_text": "A candidate's exam authorization is about to expire. How long is the authorization period?",
+      "correct_answer": "1 year",
+      "distractors": ["6 months", "2 years", "90 days"],
+      "explanation": "Exam authorization is valid for 1 year from issuance, during which candidates may take unlimited attempts at test centers (and up to 3 OnVUE remote attempts per portion).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "authorization", "timeline"]
+    },
+    {
+      "key_topic_ref": "OK-02.4",
+      "question_text": "What is the fee for each portion of the Oklahoma salesperson licensing exam?",
+      "correct_answer": "$75 per portion",
+      "distractors": ["$50 per portion", "$90 per portion", "$100 per portion"],
+      "explanation": "The salesperson exam costs $75 per portion (national and state). Candidates may take each portion separately or consecutively. $90 is the broker exam fee per portion.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "fees", "cost"]
+    },
+    {
+      "key_topic_ref": "OK-02.4",
+      "question_text": "A candidate passes the national portion but fails the state portion. What must they do?",
+      "correct_answer": "Retake only the failed state portion",
+      "distractors": ["Retake both national and state portions", "Wait 6 months before retesting any portion", "Complete additional education before retaking"],
+      "explanation": "Each exam portion is scored independently. A candidate who passes one portion only needs to retake the failed portion. They may retake within their 1-year authorization period.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exam", "retake", "portions"]
+    },
+    {
+      "key_topic_ref": "OK-02.4",
+      "question_text": "What minimum passing score is required on the Oklahoma salesperson state exam?",
+      "correct_answer": "70%",
+      "distractors": ["65%", "75%", "80%"],
+      "explanation": "The salesperson exam requires 70% on each portion (national and state). The broker exam has a higher threshold of 75%. Each portion is scored independently.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exam", "passing", "score"]
+    }
+  ]
+}

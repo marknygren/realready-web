@@ -1,0 +1,233 @@
+{
+  "standard_ref": "ME-12",
+  "scope": "state",
+  "state": "ME",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "ME-12.1",
+      "question_text": "What is the maximum security deposit a landlord may collect for an unfurnished rental unit in Maine?",
+      "correct_answer": "Two months' rent",
+      "distractors": [
+        "One month's rent",
+        "Three months' rent",
+        "No statutory limit exists"
+      ],
+      "explanation": "Maine limits the security deposit to two months' rent for all residential rental units under Title 14 §6032. This cap protects tenants from excessive upfront costs while allowing landlords reasonable security against damage or unpaid rent.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security_deposit", "unfurnished", "deposit_limit"]
+    },
+    {
+      "key_topic_ref": "ME-12.1",
+      "question_text": "A tenant rents a Maine apartment for $1,500 per month. What is the maximum security deposit the landlord may require?",
+      "correct_answer": "$3,000",
+      "distractors": [
+        "$1,500",
+        "$4,500",
+        "$6,000"
+      ],
+      "explanation": "Maine limits security deposits to two months' rent for all residential units under Title 14 §6032. At $1,500 per month, the maximum deposit is $3,000 ($1,500 x 2). This applies whether the unit is furnished or unfurnished.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security_deposit", "furnished", "calculation"]
+    },
+    {
+      "key_topic_ref": "ME-12.1",
+      "question_text": "A tenancy-at-will tenant vacates a Maine rental. Within how many days must the landlord return the security deposit?",
+      "correct_answer": "21 days",
+      "distractors": [
+        "14 days",
+        "30 days",
+        "45 days"
+      ],
+      "explanation": "For tenancy-at-will arrangements in Maine, the landlord must return the security deposit within 21 days after the tenant vacates. For written leases, the return deadline follows the lease terms but cannot exceed 30 days. If the landlord retains any portion, an itemized statement of deductions is required.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security_deposit", "return_deadline", "tenancy_at_will"]
+    },
+    {
+      "key_topic_ref": "ME-12.1",
+      "question_text": "A landlord fails to return a tenant's deposit or provide an itemized statement within the required timeframe. What penalty does the landlord face?",
+      "correct_answer": "Forfeits the right to withhold any amount",
+      "distractors": [
+        "A $500 statutory fine per day of delay",
+        "Automatic doubling of the full deposit owed",
+        "Criminal misdemeanor charges filed by state"
+      ],
+      "explanation": "When a Maine landlord fails to return the deposit or provide an itemized statement within the required timeframe, the landlord forfeits the right to withhold any portion of the deposit. Even if there was legitimate damage, the landlord loses the ability to make deductions by missing the deadline.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security_deposit", "forfeiture", "landlord_penalty"]
+    },
+    {
+      "key_topic_ref": "ME-12.1",
+      "question_text": "Under the January 2025 Maine rule, which charges may a landlord collect at the time of lease signing?",
+      "correct_answer": "First month, deposit, and disclosed fees",
+      "distractors": [
+        "First and last month plus the full deposit",
+        "Any amount the landlord deems appropriate",
+        "First month and a nonrefundable cleaning fee"
+      ],
+      "explanation": "Effective January 2025, Maine limits what landlords may collect at signing to the first month's rent, the security deposit, and any fees that were disclosed in advance. This change prevents landlords from requiring excessive upfront payments such as last month's rent or undisclosed fees at signing.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security_deposit", "2025_rule", "move_in_costs"]
+    },
+    {
+      "key_topic_ref": "ME-12.2",
+      "question_text": "A Maine tenant is two weeks behind on rent. What notice must the landlord provide before filing for eviction?",
+      "correct_answer": "7-day notice to pay or quit",
+      "distractors": [
+        "30-day notice to pay or quit",
+        "14-day notice to cure or vacate",
+        "No notice is required for non-payment"
+      ],
+      "explanation": "Maine requires a 7-day notice to pay or quit for non-payment of rent. The tenant has 7 days to pay the overdue rent or vacate. If the tenant does neither, the landlord may then file a Forcible Entry and Detainer action in court to proceed with eviction.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "non_payment", "7_day_notice"]
+    },
+    {
+      "key_topic_ref": "ME-12.2",
+      "question_text": "A tenant intentionally punches holes in walls and breaks windows throughout a Maine rental unit. What notice period applies?",
+      "correct_answer": "7-day notice to quit",
+      "distractors": [
+        "30-day notice to cure or quit",
+        "14-day notice with right to repair",
+        "Immediate eviction with no notice"
+      ],
+      "explanation": "For substantial damage to the property, Maine requires a 7-day notice to quit. Unlike the non-payment notice, this is a notice to vacate only, with no option to cure. The tenant must leave within 7 days. If the tenant remains, the landlord must file a Forcible Entry and Detainer action.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "substantial_damage", "notice_to_quit"]
+    },
+    {
+      "key_topic_ref": "ME-12.2",
+      "question_text": "A holdover tenant refuses to leave after a Maine lease expires. What notice must the landlord give before filing for eviction?",
+      "correct_answer": "30-day notice",
+      "distractors": [
+        "7-day notice",
+        "14-day notice",
+        "No notice for holdover tenants"
+      ],
+      "explanation": "Maine requires a 30-day notice for holdover tenants who remain after their lease expires. This longer notice period reflects that the tenant has not committed a lease violation but simply remained beyond the agreed term. After the 30 days, the landlord may file a Forcible Entry and Detainer action.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "holdover_tenant", "30_day_notice"]
+    },
+    {
+      "key_topic_ref": "ME-12.2",
+      "question_text": "A Maine landlord serves a 7-day notice on a non-paying tenant. The tenant does not pay or vacate. What legal action must the landlord take next?",
+      "correct_answer": "File a Forcible Entry and Detainer action",
+      "distractors": [
+        "Change the locks and remove tenant belongings",
+        "Shut off utilities to force the tenant out",
+        "File a complaint in small claims court instead"
+      ],
+      "explanation": "After a notice period expires without compliance, the landlord must file a Forcible Entry and Detainer (FED) action in court. Self-help evictions such as changing locks or shutting off utilities are illegal in Maine. Only a court order can authorize the physical removal of a tenant.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["forcible_entry_detainer", "eviction_process", "self_help"]
+    },
+    {
+      "key_topic_ref": "ME-12.2",
+      "question_text": "A landlord is frustrated with a slow eviction and shuts off heat to a Maine apartment in January to force the tenant out. What legal consequence is most likely?",
+      "correct_answer": "Liability for illegal self-help eviction",
+      "distractors": [
+        "No consequence when the rent is overdue",
+        "A small fine issued after a written warning",
+        "Acceleration of the court eviction timeline"
+      ],
+      "explanation": "Shutting off utilities to force a tenant out is an illegal self-help eviction in Maine. Regardless of whether the tenant owes rent, the landlord must follow the formal FED court process. Self-help actions expose the landlord to liability for damages, penalties, and potentially the tenant's attorney fees.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["self_help_eviction", "illegal", "utility_shutoff"]
+    },
+    {
+      "key_topic_ref": "ME-12.3",
+      "question_text": "Which of the following is a Maine landlord required to maintain under the implied warranty of habitability?",
+      "correct_answer": "Hot water and a working heating system",
+      "distractors": [
+        "Air conditioning in all bedrooms of the unit",
+        "Landscaping and exterior snow removal services",
+        "Dedicated off-street parking for each tenant"
+      ],
+      "explanation": "Maine's implied warranty of habitability requires landlords to maintain essential services including structural soundness, hot water, heating, electricity, and working appliances provided with the unit. Air conditioning, landscaping, and parking are not required under habitability standards.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["habitability", "landlord_obligations", "essential_services"]
+    },
+    {
+      "key_topic_ref": "ME-12.3",
+      "question_text": "A tenant sends written notice that the furnace has failed in her Maine apartment. What is the landlord's obligation?",
+      "correct_answer": "Repair within a reasonable time",
+      "distractors": [
+        "Replace the entire HVAC system immediately",
+        "Reduce rent by 50% until spring",
+        "Offer to relocate the tenant permanently"
+      ],
+      "explanation": "After receiving written notice of a habitability issue, the Maine landlord must make repairs within a reasonable time. Heating is an essential service under the warranty of habitability. The landlord is not automatically required to replace the entire system, but must restore functioning heat promptly.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["habitability", "repair_obligation", "written_notice"]
+    },
+    {
+      "key_topic_ref": "ME-12.3",
+      "question_text": "Does Maine impose statewide rent control?",
+      "correct_answer": "No, Maine has no statewide rent control",
+      "distractors": [
+        "Yes, rent cannot increase more than 5%",
+        "Yes, but only for buildings over 10 units",
+        "Yes, increases are tied to inflation"
+      ],
+      "explanation": "Maine does not have statewide rent control. Landlords may raise rent by any amount. However, specific notice periods are required: 45 days for standard increases, and 75 days when the increase exceeds 10% within a 12-month period.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rent_control", "no_cap", "rent_increase"]
+    },
+    {
+      "key_topic_ref": "ME-12.3",
+      "question_text": "A Maine landlord wants to raise rent by 15% after 8 months. How much notice must the landlord provide?",
+      "correct_answer": "75 days",
+      "distractors": [
+        "30 days",
+        "45 days",
+        "90 days"
+      ],
+      "explanation": "When a rent increase exceeds 10% within a 12-month period, Maine requires 75 days' notice instead of the standard 45 days. A 15% increase within 8 months exceeds the 10% threshold, triggering the longer notice period. There is no cap on the increase amount itself.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rent_increase", "75_day_notice", "10_percent_threshold"]
+    },
+    {
+      "key_topic_ref": "ME-12.3",
+      "question_text": "A tenant notifies her Maine landlord in writing that the stove and refrigerator are broken. The landlord ignores the request for three months. A court finds the landlord violated the warranty of habitability. What drove the finding?",
+      "correct_answer": "Failure to repair appliances in time",
+      "distractors": [
+        "Failure to provide air conditioning units",
+        "Failure to upgrade to newer appliance models",
+        "Charging rent above the current market rate"
+      ],
+      "explanation": "Maine's warranty of habitability requires landlords to maintain working appliances provided with the unit. After written notice, the landlord must make repairs within a reasonable time. Three months of inaction on essential kitchen appliances violates this duty. The warranty does not require upgrades or cover amenities like air conditioning.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["habitability", "appliance_repair", "reasonable_time"]
+    }
+  ]
+}

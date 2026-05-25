@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MA-14",
+  "scope": "state",
+  "state": "MA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MA-14.1",
+      "question_text": "A married couple in Massachusetts takes title without specifying a form of ownership. The default form will be:",
+      "correct_answer": "Tenancy by the entirety",
+      "distractors": ["Tenancy in common", "Joint tenancy", "Community property"],
+      "explanation": "In Massachusetts, when a married couple takes title without specifying the form, the default is tenancy by the entirety. This provides survivorship rights and creditor protection.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ownership", "tenancy-entirety", "married"]
+    },
+    {
+      "key_topic_ref": "MA-14.1",
+      "question_text": "Tenancy by the entirety in Massachusetts provides protection from:",
+      "correct_answer": "Individual creditors of one spouse",
+      "distractors": ["Joint debts owed by both spouses", "Local property tax lien claims", "Federal income tax lien claims"],
+      "explanation": "Tenancy by the entirety protects the property from individual creditors of one spouse. Neither spouse can convey their interest without the other's consent, and individual creditors cannot attach the property.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ownership", "tenancy-entirety", "creditor-protection"]
+    },
+    {
+      "key_topic_ref": "MA-14.1",
+      "question_text": "A nominee trust (realty trust) is commonly used in Massachusetts for which purpose?",
+      "correct_answer": "Privacy and convenience in holding title",
+      "distractors": ["Avoiding property taxes entirely", "Eliminating the need for probate only", "Qualifying for homestead exemption"],
+      "explanation": "Nominee trusts (realty trusts) are widely used in Massachusetts to hold title for privacy (the trust name appears on records, not the individual) and convenience in managing property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ownership", "nominee-trust", "privacy"]
+    },
+    {
+      "key_topic_ref": "MA-14.1",
+      "question_text": "In a tenancy by the entirety, one spouse wants to sell their interest without the other's consent. This is:",
+      "correct_answer": "Not permitted under Massachusetts law",
+      "distractors": ["Allowed with court approval", "Permitted if they own more than 50%", "Legal after providing 30 days' notice"],
+      "explanation": "In a tenancy by the entirety, neither spouse can convey their interest without the other's consent. This is a key distinction from joint tenancy and provides additional protection for married couples.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["ownership", "tenancy-entirety", "conveyance"]
+    },
+    {
+      "key_topic_ref": "MA-14.1",
+      "question_text": "A life estate holder in Massachusetts can do all of the following EXCEPT:",
+      "correct_answer": "Sell the property in fee simple",
+      "distractors": ["Occupy the property during their lifetime", "Rent the property to tenants", "Make reasonable improvements to the property"],
+      "explanation": "A life estate grants lifetime use but not full ownership. The holder can occupy, rent, and improve the property, but cannot convey fee simple title because the remainder interest belongs to another party.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["ownership", "life-estate", "limitations"]
+    },
+    {
+      "key_topic_ref": "MA-14.2",
+      "question_text": "Under the Massachusetts Condominium Act (Chapter 183A), a condominium is created by recording:",
+      "correct_answer": "A Master Deed and Declaration of Trust",
+      "distractors": ["A Certificate of Title only", "A cooperative charter and bylaws", "A subdivision plat and covenants"],
+      "explanation": "Condominiums are created by recording a Master Deed (describes units and common areas) and Declaration of Trust (establishes governance). These founding documents are filed at the Registry of Deeds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "master-deed", "creation"]
+    },
+    {
+      "key_topic_ref": "MA-14.2",
+      "question_text": "A buyer is purchasing a condominium unit. What document must the seller provide that describes fees, budget, and insurance?",
+      "correct_answer": "A resale certificate",
+      "distractors": ["A Certificate of Title", "A 6(d) certificate", "A Title 5 inspection report"],
+      "explanation": "Resale certificates contain unit-specific information including fees, budget, insurance details, and other pertinent data. The 6(d) certificate is different — it certifies fees are current at closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "resale-certificate", "buyer"]
+    },
+    {
+      "key_topic_ref": "MA-14.2",
+      "question_text": "In a cooperative, residents own shares in a corporation and receive:",
+      "correct_answer": "A proprietary lease for their unit",
+      "distractors": ["Fee simple title to their unit", "A Certificate of Title from Land Court", "A condominium unit deed"],
+      "explanation": "Cooperative residents own shares in a corporation that owns the building and receive a proprietary lease granting them the right to occupy their specific unit.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["cooperative", "proprietary-lease", "shares"]
+    },
+    {
+      "key_topic_ref": "MA-14.2",
+      "question_text": "The Organization of Unit Owners in a Massachusetts condominium is responsible for:",
+      "correct_answer": "Managing common areas",
+      "distractors": ["Approving all unit sales", "Setting individual unit tax assessments", "Issuing building permits for renovations"],
+      "explanation": "The Organization of Unit Owners (similar to an HOA) manages common areas, collects assessments, maintains insurance, and enforces rules. It does not approve sales, set taxes, or issue permits.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "organization-unit-owners", "management"]
+    },
+    {
+      "key_topic_ref": "MA-14.2",
+      "question_text": "A co-op board denies a prospective buyer based solely on their race. This action is:",
+      "correct_answer": "A violation of fair housing laws",
+      "distractors": ["Within the board's discretion", "Permitted for co-ops but not condos", "Legal if the bylaws allow it"],
+      "explanation": "While co-op boards can approve or deny purchasers, they must comply with fair housing laws. Denying a buyer based on race (or any other protected class) is illegal discrimination.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["cooperative", "fair-housing", "board-approval"]
+    },
+    {
+      "key_topic_ref": "MA-14.3",
+      "question_text": "Massachusetts's Torrens system for registered land is administered by:",
+      "correct_answer": "The Land Court",
+      "distractors": ["The Registry of Deeds", "The Board of Registration", "The Secretary of State"],
+      "explanation": "The Torrens system in Massachusetts is administered by the Land Court. Property registered with the Land Court has a Certificate of Title that serves as conclusive evidence of ownership.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["registered-land", "torrens", "land-court"]
+    },
+    {
+      "key_topic_ref": "MA-14.3",
+      "question_text": "Registered land in Massachusetts provides what level of title protection compared to the traditional recording system?",
+      "correct_answer": "Stronger protection",
+      "distractors": ["The same level of protection", "Weaker protection", "Protection only for commercial property"],
+      "explanation": "Registration provides stronger title protection than traditional recording. The Certificate of Title is conclusive evidence of ownership, whereas recorded deeds can still have title defects.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["registered-land", "protection", "comparison"]
+    },
+    {
+      "key_topic_ref": "MA-14.3",
+      "question_text": "Most land in Massachusetts uses which title system?",
+      "correct_answer": "The traditional recording system",
+      "distractors": ["The Torrens (registered land) system", "Both systems equally", "A title insurance-based system"],
+      "explanation": "While Massachusetts has a Torrens system, most land uses the traditional recording system through the county Registry of Deeds. Registered land is the exception, not the norm.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["registered-land", "recording-system", "traditional"]
+    },
+    {
+      "key_topic_ref": "MA-14.3",
+      "question_text": "A buyer purchases registered land. Transfers of this property must be recorded with:",
+      "correct_answer": "The Land Court registry",
+      "distractors": ["The county Registry of Deeds", "The Board of Registration", "The local tax assessor"],
+      "explanation": "Transfers of registered land must be recorded with the Land Court registry, not the traditional county Registry of Deeds. The Land Court maintains the Certificate of Title system.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["registered-land", "transfer", "land-court"]
+    },
+    {
+      "key_topic_ref": "MA-14.3",
+      "question_text": "A Certificate of Title issued by the Land Court serves as:",
+      "correct_answer": "Conclusive evidence of ownership",
+      "distractors": ["Preliminary evidence of ownership", "A recommendation of ownership", "Evidence of ownership subject to challenge"],
+      "explanation": "The Certificate of Title is conclusive evidence of ownership — it provides the highest level of certainty about who owns the property. This is the key advantage of the Torrens system.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["registered-land", "certificate-of-title", "conclusive"]
+    }
+  ]
+}

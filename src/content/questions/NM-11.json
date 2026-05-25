@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NM-11",
+  "scope": "state",
+  "state": "NM",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NM-11.1",
+      "question_text": "In New Mexico, residential property is assessed for tax purposes at what fraction of market value?",
+      "correct_answer": "One-third of market value",
+      "distractors": ["Full market value", "Two-thirds of market value", "One-quarter of market value"],
+      "explanation": "NM assesses both residential and non-residential property at one-third (33.33%) of market value. The county assessor determines market value, then calculates the assessed value.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "assessment", "one-third"]
+    },
+    {
+      "key_topic_ref": "NM-11.1",
+      "question_text": "A NM home has a market value of $300,000. What is the assessed value for tax purposes?",
+      "correct_answer": "$100,000",
+      "distractors": ["$300,000", "$200,000", "$150,000"],
+      "explanation": "NM assesses property at 1/3 of market value. $300,000 × 1/3 = $100,000 assessed value. Tax rates are then applied to the assessed value, not the full market value.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property tax", "calculation", "assessed value"]
+    },
+    {
+      "key_topic_ref": "NM-11.1",
+      "question_text": "Which official determines the market value of property for NM tax purposes?",
+      "correct_answer": "The county assessor",
+      "distractors": ["The county treasurer", "The state tax commissioner", "The NMREC appraiser"],
+      "explanation": "The county assessor determines property values for tax purposes. The county treasurer collects the taxes. These are separate roles in NM's property tax system.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "county assessor", "valuation"]
+    },
+    {
+      "key_topic_ref": "NM-11.1",
+      "question_text": "In NM, property tax liens generally take priority over:",
+      "correct_answer": "Most other liens on the property",
+      "distractors": ["No other liens on the property", "Only mechanic's liens specifically", "Only voluntary mortgage liens"],
+      "explanation": "Property tax liens take priority over most other liens, including mortgages and mechanic's liens. Only certain federal liens may take precedence over property tax liens.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "lien priority", "tax lien"]
+    },
+    {
+      "key_topic_ref": "NM-11.1",
+      "question_text": "Who is responsible for collecting property taxes in NM?",
+      "correct_answer": "The county treasurer",
+      "distractors": ["The county assessor", "The state revenue department", "The local school district"],
+      "explanation": "The county treasurer collects property taxes in NM. The county assessor values the property — these are two distinct functions in the property tax system.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "county treasurer", "collection"]
+    },
+    {
+      "key_topic_ref": "NM-11.2",
+      "question_text": "The NM head of family property tax exemption reduces the assessed value by:",
+      "correct_answer": "$2,000",
+      "distractors": ["$5,000", "$10,000", "$4,000"],
+      "explanation": "The head of family exemption reduces the assessed value (not market value) by $2,000 for qualifying heads of household in New Mexico.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "head of family", "exemption"]
+    },
+    {
+      "key_topic_ref": "NM-11.2",
+      "question_text": "A disabled veteran in NM qualifies for a property tax exemption of:",
+      "correct_answer": "$4,000 reduction in assessed value",
+      "distractors": ["$2,000 reduction in assessed value", "$10,000 reduction in market value", "Complete exemption from property taxes"],
+      "explanation": "Disabled veterans in NM receive a $4,000 reduction in assessed value. This is in addition to any other applicable exemptions like the head of family exemption.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "veterans", "disabled"]
+    },
+    {
+      "key_topic_ref": "NM-11.2",
+      "question_text": "Property taxes in NM become delinquent, and the owner does not pay for several years. A tax sale of the property can occur after:",
+      "correct_answer": "3 years of delinquency",
+      "distractors": ["1 year of delinquency", "5 years of delinquency", "2 years of delinquency"],
+      "explanation": "Delinquent property taxes in NM can result in a tax sale after 3 years of non-payment. This gives owners a reasonable period to cure the delinquency before losing the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tax sale", "delinquency", "3 years"]
+    },
+    {
+      "key_topic_ref": "NM-11.2",
+      "question_text": "NM property taxes are due in how many installments per year?",
+      "correct_answer": "Two installments",
+      "distractors": ["One annual payment", "Four quarterly payments", "Twelve monthly payments"],
+      "explanation": "NM property taxes are due in two installments: the first half by November 10 and the second half by April 10 of the following year.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "installments", "due dates"]
+    },
+    {
+      "key_topic_ref": "NM-11.2",
+      "question_text": "The first installment of NM property taxes is due by:",
+      "correct_answer": "November 10",
+      "distractors": ["January 15", "April 10", "July 1"],
+      "explanation": "The first half of NM property taxes is due by November 10. The second half is due by April 10. The tax year runs from January 1 to December 31.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "due date", "November"]
+    },
+    {
+      "key_topic_ref": "NM-11.3",
+      "question_text": "A general contractor who is not paid for work on a NM property must file a mechanic's lien within:",
+      "correct_answer": "120 days after completing the work",
+      "distractors": ["30 days after completing the work", "60 days after completing the work", "180 days after completing the work"],
+      "explanation": "In NM, an original (general) contractor must file a mechanic's lien within 120 days of project completion. Subcontractors and suppliers have a shorter 90-day deadline.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mechanic's lien", "120 days", "filing deadline"]
+    },
+    {
+      "key_topic_ref": "NM-11.3",
+      "question_text": "A subcontractor wants to preserve their lien rights on a NM project. They must first serve:",
+      "correct_answer": "A preliminary notice to the owner",
+      "distractors": ["A court order for payment", "A cease and desist to the general contractor", "A complaint with the state licensing board"],
+      "explanation": "Subcontractors and material suppliers must serve a preliminary notice on the property owner to preserve their mechanic's lien rights in New Mexico.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mechanic's lien", "preliminary notice", "subcontractor"]
+    },
+    {
+      "key_topic_ref": "NM-11.3",
+      "question_text": "A mechanic's lien in NM relates back to which date?",
+      "correct_answer": "The date work commenced on the project",
+      "distractors": ["The date the lien was filed", "The date the contract was signed", "The date payment was first due"],
+      "explanation": "NM mechanic's liens relate back to the date work commenced on the project. This means the lien's priority is determined by when work began, not when the lien was filed.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mechanic's lien", "relation back", "priority"]
+    },
+    {
+      "key_topic_ref": "NM-11.3",
+      "question_text": "A property owner pays a contractor in full and wants proof that no lien will be filed. The owner can require the contractor to provide:",
+      "correct_answer": "A lien waiver",
+      "distractors": ["A performance bond", "A certificate of occupancy", "A title insurance policy"],
+      "explanation": "Property owners can require a lien waiver from contractors upon payment. This document releases the contractor's right to file a mechanic's lien for the work covered by the payment.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lien waiver", "contractor", "payment"]
+    },
+    {
+      "key_topic_ref": "NM-11.3",
+      "question_text": "A mechanic's lien attaches to which type of property in NM?",
+      "correct_answer": "The real property and improvements",
+      "distractors": ["Only the improvements, not the land", "Only the contractor's personal property", "The owner's other real estate holdings"],
+      "explanation": "Mechanic's liens attach to both the real property (land) and the improvements. The lien encumbers the property where the work was performed.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mechanic's lien", "attachment", "property"]
+    }
+  ]
+}

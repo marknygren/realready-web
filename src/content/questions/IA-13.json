@@ -1,0 +1,173 @@
+{
+  "standard_ref": "IA-13",
+  "scope": "state",
+  "state": "IA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IA-13.1",
+      "question_text": "In Iowa, is a real estate license required to manage property for compensation?",
+      "correct_answer": "Yes, a license is required",
+      "distractors": ["No, anyone can manage property", "Only for commercial properties", "Only if managing 10 or more units"],
+      "explanation": "Iowa requires a real estate license to manage property for compensation. Property managers must operate under a licensed broker and maintain written property management agreements specifying scope, compensation, duration, and responsibilities.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "licensing", "requirement"]
+    },
+    {
+      "key_topic_ref": "IA-13.1",
+      "question_text": "Under HF 2326 (effective April 2024), which activity can an unlicensed broker employee perform for residential rentals?",
+      "correct_answer": "Showing properties and collecting rent",
+      "distractors": ["Negotiating lease terms and pricing", "Signing leases on behalf of the broker", "Appraising rental property values"],
+      "explanation": "HF 2326 (April 2024) allows unlicensed employees working under a broker to perform certain residential rental activities including advertising, showing properties, collecting rent, and completing forms. They cannot negotiate terms or make independent decisions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HF 2326", "unlicensed employees", "residential rentals"]
+    },
+    {
+      "key_topic_ref": "IA-13.1",
+      "question_text": "A property manager collects rent and security deposits from tenants. Where must these funds be held?",
+      "correct_answer": "In a trust account",
+      "distractors": ["In the manager's personal account", "In the property owner's personal account", "In a certificate of deposit"],
+      "explanation": "Iowa requires property managers to maintain trust accounts for owner and tenant funds, including rent payments and security deposits. Commingling these funds with personal or business operating accounts is a violation of Iowa real estate law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "rent", "security deposits"]
+    },
+    {
+      "key_topic_ref": "IA-13.1",
+      "question_text": "Which element is required in an Iowa property management agreement?",
+      "correct_answer": "Scope, compensation, and duration",
+      "distractors": ["Only the monthly management fee amount", "Only the property street address listed", "Only the property owner's legal signature"],
+      "explanation": "Iowa requires written property management agreements that include the scope of services, compensation structure, duration of the agreement, and responsibilities of both parties. This protects both the property owner and the manager.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PM agreement", "required elements", "written agreement"]
+    },
+    {
+      "key_topic_ref": "IA-13.1",
+      "question_text": "A newly hired unlicensed office assistant at a brokerage wants to negotiate lease renewal terms with tenants. Under HF 2326, is this permitted?",
+      "correct_answer": "No, negotiation requires a license",
+      "distractors": ["Yes, for residential rentals only", "Yes, if the broker approves in writing", "Yes, for month-to-month leases only"],
+      "explanation": "HF 2326 allows unlicensed broker employees to handle advertising, showings, rent collection, and form completion for residential rentals. However, negotiating lease terms remains a licensed activity that requires a real estate license.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HF 2326", "negotiation", "licensed activity"]
+    },
+    {
+      "key_topic_ref": "IA-13.2",
+      "question_text": "What is the maximum security deposit a landlord can collect in Iowa?",
+      "correct_answer": "Two months' rent",
+      "distractors": ["One month's rent", "Three months' rent", "No statutory limit exists"],
+      "explanation": "Iowa law limits security deposits to a maximum of two months' rent. This applies to all residential rental properties. The deposit must be held and returned according to the requirements of Iowa Code Chapter 562A (URLTA).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "maximum", "two months"]
+    },
+    {
+      "key_topic_ref": "IA-13.2",
+      "question_text": "A tenant moves out of an Iowa rental on March 1. By what date must the landlord return the security deposit?",
+      "correct_answer": "March 31",
+      "distractors": ["March 15", "April 15", "May 1"],
+      "explanation": "Iowa requires landlords to return the security deposit within 30 days of the tenant vacating the premises, along with an itemized statement of any deductions. For a March 1 move-out, the deadline is March 31.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "return deadline", "30 days"]
+    },
+    {
+      "key_topic_ref": "IA-13.2",
+      "question_text": "A tenant fails to pay rent on the due date. What is the minimum notice period for an Iowa eviction based on nonpayment?",
+      "correct_answer": "3 days",
+      "distractors": ["5 days", "7 days", "14 days"],
+      "explanation": "Iowa requires a 3-day notice for eviction based on nonpayment of rent. Other notice periods include 7 days for lease violations and 30 days for termination of a month-to-month tenancy. The tenant may cure by paying within the notice period.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "nonpayment", "3-day notice"]
+    },
+    {
+      "key_topic_ref": "IA-13.2",
+      "question_text": "A tenant reports a code violation to the health department. Two weeks later, the landlord serves a 30-day termination notice. What defense does the tenant have?",
+      "correct_answer": "Retaliatory eviction is barred for one year",
+      "distractors": ["No defense if the notice is properly served", "The tenant must prove the landlord's malice", "Retaliation claims expire after only 30 days"],
+      "explanation": "Iowa prohibits retaliatory eviction within one year of a tenant exercising legal rights such as reporting code violations. If the landlord's termination notice is motivated by retaliation, the tenant can raise this as a defense in court.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["retaliatory eviction", "one year", "tenant rights"]
+    },
+    {
+      "key_topic_ref": "IA-13.2",
+      "question_text": "An Iowa landlord deducts carpet cleaning from the security deposit but provides no documentation. What is the consequence?",
+      "correct_answer": "Landlord must provide an itemized statement",
+      "distractors": ["The deduction is automatically deemed valid", "The tenant forfeits the full security deposit", "The landlord may keep the entire deposit amount"],
+      "explanation": "Iowa law requires landlords to provide an itemized statement of deductions when returning a security deposit. Failure to provide this statement within 30 days may result in the landlord forfeiting the right to claim deductions and owing the full deposit.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security deposit", "itemized statement", "deductions"]
+    },
+    {
+      "key_topic_ref": "IA-13.3",
+      "question_text": "Which uniform act governs landlord-tenant relations in Iowa?",
+      "correct_answer": "URLTA under Chapter 562A",
+      "distractors": ["UETA under Chapter 554D", "UFTA under Chapter 684", "URESA under Chapter 252A"],
+      "explanation": "Iowa adopted the Uniform Residential Landlord and Tenant Act (URLTA), codified as Chapter 562A. This act establishes the rights and obligations of landlords and tenants in residential rental agreements throughout the state.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["URLTA", "Chapter 562A", "landlord-tenant"]
+    },
+    {
+      "key_topic_ref": "IA-13.3",
+      "question_text": "Under Iowa's URLTA, what obligation does a landlord have regarding the condition of rental property?",
+      "correct_answer": "Maintain the property in habitable condition",
+      "distractors": ["Only repair what the lease specifies", "No obligation beyond initial condition", "Repair only if tenant pays for materials"],
+      "explanation": "Iowa's URLTA imposes a habitability obligation on landlords, requiring them to maintain rental properties in a condition fit for human habitation. This includes maintaining structural elements, plumbing, heating, and electrical systems.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["habitability", "landlord obligation", "URLTA"]
+    },
+    {
+      "key_topic_ref": "IA-13.3",
+      "question_text": "A city council proposes an ordinance capping monthly rent increases at 3%. Is this enforceable in Iowa?",
+      "correct_answer": "No, Iowa does not allow rent control",
+      "distractors": ["Yes, cities may set local rent limits", "Yes, if approved by the state legislature", "Only for properties over 20 units"],
+      "explanation": "Iowa does not permit rent control at any level of government. Local municipalities cannot enact ordinances that cap or limit rent increases. Landlords may set and adjust rents according to market conditions and lease terms.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rent control", "prohibited", "local ordinance"]
+    },
+    {
+      "key_topic_ref": "IA-13.3",
+      "question_text": "When does Iowa law require a written lease for a residential tenancy?",
+      "correct_answer": "When the lease term is one year or more",
+      "distractors": ["For all residential tenancies regardless of term", "Only for fully furnished apartment rentals", "Only when the security deposit exceeds $500"],
+      "explanation": "Under Iowa law and the Statute of Frauds, a written lease is required when the tenancy term is one year or longer. Month-to-month and shorter-term tenancies may be oral, though written leases are recommended for clarity.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["written lease", "one year", "statute of frauds"]
+    },
+    {
+      "key_topic_ref": "IA-13.3",
+      "question_text": "Under URLTA, what information must a landlord provide to the tenant at the start of a tenancy?",
+      "correct_answer": "Name and address of landlord or PM",
+      "distractors": ["The property's current assessed tax value", "The landlord's outstanding mortgage balance", "The names and contact info of all neighbors"],
+      "explanation": "Iowa's URLTA requires landlords to notify tenants of the name and address of the landlord or property manager responsible for the premises. This ensures tenants know who to contact for maintenance requests, notices, and other communications.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord disclosure", "tenant notification", "URLTA"]
+    }
+  ]
+}

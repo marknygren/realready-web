@@ -1,0 +1,118 @@
+{
+  "standard_ref": "MS-01",
+  "scope": "state",
+  "state": "MS",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "MS-01.1",
+      "question_text": "How many commissioners serve on the Mississippi Real Estate Commission?",
+      "correct_answer": "5 commissioners",
+      "distractors": ["7 commissioners", "9 commissioners", "3 commissioners"],
+      "explanation": "MREC consists of 5 commissioners appointed by the Governor with the advice and consent of the Mississippi Senate. Each serves a 4-year term and must represent a specific congressional district, with one at-large member.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "commission structure", "membership"]
+    },
+    {
+      "key_topic_ref": "MS-01.1",
+      "question_text": "A broker wants to apply for appointment to MREC. How many years of Mississippi residency are required?",
+      "correct_answer": "At least 6 years",
+      "distractors": ["At least 3 years", "At least 5 years", "At least 10 years"],
+      "explanation": "To serve on MREC, a person must have been a Mississippi resident for at least 6 years and must have been a licensed broker for at least 5 years. Appointments are made by the Governor with Senate consent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MREC", "qualifications", "residency"]
+    },
+    {
+      "key_topic_ref": "MS-01.1",
+      "question_text": "What minimum broker experience must a prospective MREC commissioner have?",
+      "correct_answer": "5 years as a licensed broker",
+      "distractors": ["3 years as a licensed broker", "7 years as a licensed broker", "10 years as a licensed broker"],
+      "explanation": "A prospective MREC commissioner must have held a Mississippi broker license for at least 5 years. Additionally, the commissioner must have been a Mississippi resident for at least 6 years.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "qualifications", "broker experience"]
+    },
+    {
+      "key_topic_ref": "MS-01.1",
+      "question_text": "A commissioner completes her term on MREC. How long was her appointment?",
+      "correct_answer": "4 years",
+      "distractors": ["2 years", "3 years", "6 years"],
+      "explanation": "MREC commissioners serve 4-year terms. They are appointed by the Governor with the advice and consent of the Mississippi Senate. Four commissioners represent congressional districts and one serves at-large.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "term length", "appointment"]
+    },
+    {
+      "key_topic_ref": "MS-01.1",
+      "question_text": "Four MREC commissioners each represent a congressional district. How is the fifth commissioner selected?",
+      "correct_answer": "Appointed as an at-large member",
+      "distractors": ["Elected by licensed brokers", "Chosen by the other four members", "Selected by the state legislature"],
+      "explanation": "Four MREC commissioners represent Mississippi's congressional districts, while the fifth serves as an at-large member. All five are appointed by the Governor with Senate consent and must meet the same residency and licensure qualifications.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "at-large", "congressional districts"]
+    },
+    {
+      "key_topic_ref": "MS-01.2",
+      "question_text": "Which activity is MREC authorized to perform?",
+      "correct_answer": "Inspect broker trust accounts",
+      "distractors": ["Set commission rates for agents", "Approve mortgage loan terms", "Regulate title insurance premiums"],
+      "explanation": "MREC has the power to inspect broker trust accounts to ensure proper handling of client funds. MREC does NOT have authority to set commission rates, which are determined by the market and negotiated between parties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "powers", "trust accounts"]
+    },
+    {
+      "key_topic_ref": "MS-01.2",
+      "question_text": "A broker claims MREC dictates the commission rates agents must charge. Is this correct?",
+      "correct_answer": "No, MREC does not set rates",
+      "distractors": ["Yes, MREC sets minimum rates", "Yes, MREC approves all rates", "Yes, rates are in MREC rules"],
+      "explanation": "MREC does NOT set, approve, or regulate commission rates. Commission rates are negotiable between the broker and client. Any claim that MREC dictates rates is incorrect and could itself be a violation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MREC", "commission rates", "powers"]
+    },
+    {
+      "key_topic_ref": "MS-01.2",
+      "question_text": "The License Fund under Section 73-35-19 finances which purpose?",
+      "correct_answer": "MREC operational costs only",
+      "distractors": ["Consumer recovery claims", "Agent continuing education", "Broker bond requirements"],
+      "explanation": "The License Fund (§73-35-19) is used solely to finance MREC operations such as licensing, enforcement, and administration. Mississippi does NOT have a recovery fund to compensate consumers harmed by licensees.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["License Fund", "MREC operations", "recovery fund"]
+    },
+    {
+      "key_topic_ref": "MS-01.2",
+      "question_text": "Under 2025 rules, how much advance notice must MREC give before changing a license status?",
+      "correct_answer": "5 business days by email",
+      "distractors": ["10 business days by mail", "3 business days by phone", "30 calendar days by mail"],
+      "explanation": "As of 2025, MREC must provide at least 5 business days of email notice before making changes to a licensee's status, such as suspension, revocation, or non-renewal. This ensures licensees have adequate warning.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["2025 rules", "license changes", "notice requirements"]
+    },
+    {
+      "key_topic_ref": "MS-01.2",
+      "question_text": "Under 2025 rules, MREC must complete an investigation within what timeframe?",
+      "correct_answer": "120 days from notice",
+      "distractors": ["60 days from notice", "90 days from complaint", "180 days from complaint"],
+      "explanation": "Under 2025 rules, MREC investigations must be completed within 120 days of the Notice of Investigation. If the investigation is not completed within this timeframe, the case must be dismissed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["2025 rules", "investigation", "deadline"]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "standard_ref": "MO-06",
+  "scope": "state",
+  "state": "MO",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "MO-06.1",
+      "question_text": "Under RSMo 339.750, dual agency in Missouri is permitted only when which condition is met?",
+      "correct_answer": "All parties give written consent",
+      "distractors": [
+        "The broker notifies MREC in advance",
+        "The transaction is under $500,000",
+        "Both parties share the same attorney"
+      ],
+      "explanation": "RSMo 339.750 requires written consent from ALL parties before a broker may act as a dual agent. Verbal consent or implied consent is insufficient. Without written authorization from every party, dual agency is prohibited.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["dual_agency", "written_consent", "RSMo_339.750"]
+    },
+    {
+      "key_topic_ref": "MO-06.1",
+      "question_text": "Broker Martinez has written dual agency consent from both buyer and seller. She learns the buyer will accept a higher price. May she share this with the seller?",
+      "correct_answer": "No, unless the buyer consents to disclosure",
+      "distractors": [
+        "Yes, because dual agents serve both parties",
+        "Yes, but only if the seller asks directly",
+        "No, dual agents cannot communicate at all"
+      ],
+      "explanation": "Even with dual agency consent, a limited agent may disclose material information but must NOT reveal confidential information without the client's consent. A buyer's willingness to pay more is confidential. Martinez needs specific authorization from the buyer before sharing this.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["dual_agency", "confidentiality", "limited_agent", "disclosure"]
+    },
+    {
+      "key_topic_ref": "MO-06.1",
+      "question_text": "What is the legal designation of a dual agent under Missouri statute?",
+      "correct_answer": "Limited agent",
+      "distractors": [
+        "General agent",
+        "Transaction broker",
+        "Fiduciary agent"
+      ],
+      "explanation": "Missouri law designates a dual agent as a 'limited agent,' reflecting the fact that fiduciary duties are reduced when representing both sides. The broker cannot fully advocate for either party, hence the 'limited' designation distinguishes this role from single-party representation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["dual_agency", "limited_agent", "legal_designation"]
+    },
+    {
+      "key_topic_ref": "MO-06.1",
+      "question_text": "A seller verbally agrees to dual agency but refuses to sign the written consent form. The broker proceeds with dual representation. What is the result?",
+      "correct_answer": "The broker has violated Missouri law",
+      "distractors": [
+        "Verbal consent satisfies the requirement",
+        "The broker can proceed if witnessed",
+        "The violation is cured at closing"
+      ],
+      "explanation": "Missouri requires WRITTEN consent from all parties for dual agency. Verbal agreement is legally insufficient under RSMo 339.750. By proceeding without written consent, the broker has violated Missouri's agency statutes and faces potential disciplinary action.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["dual_agency", "written_consent", "violation"]
+    },
+    {
+      "key_topic_ref": "MO-06.1",
+      "question_text": "A dual agent discovers a significant foundation defect during a showing. Both buyer and seller are the agent's clients. How should the agent handle this information?",
+      "correct_answer": "Disclose to both parties as a material fact",
+      "distractors": [
+        "Disclose only to the buyer",
+        "Keep it confidential from both parties",
+        "Withdraw from the transaction silently"
+      ],
+      "explanation": "Adverse material facts must be disclosed to all parties regardless of agency type. A foundation defect is a material fact, not confidential client information. As a limited agent representing both sides, the broker is obligated to ensure both buyer and seller are informed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["dual_agency", "material_facts", "disclosure_obligation"]
+    },
+    {
+      "key_topic_ref": "MO-06.2",
+      "question_text": "In designated agency, what triggers a shift to dual agency when two agents from the same brokerage represent different parties?",
+      "correct_answer": "The same agent listed and represents the buyer",
+      "distractors": [
+        "Both agents attend the same closing",
+        "The broker collects commission from both sides",
+        "The property is a new construction home"
+      ],
+      "explanation": "Designated agency becomes dual agency under two exceptions. The first is when the same individual agent both listed the property and represents the buyer. In this case, there are no separate designated agents, so dual agency rules and consent requirements apply.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["designated_agency", "dual_agency_exception", "same_agent"]
+    },
+    {
+      "key_topic_ref": "MO-06.2",
+      "question_text": "Agent Lee is the designated buyer's agent and Agent Park is the designated seller's agent at the same firm. Their supervising broker begins negotiating on Agent Park's behalf. What agency issue arises?",
+      "correct_answer": "The transaction becomes a dual agency",
+      "distractors": [
+        "No issue if the broker is licensed",
+        "The broker acts as a transaction broker",
+        "Only Agent Park's designation changes"
+      ],
+      "explanation": "When the supervising broker becomes directly involved in negotiating for one side of a designated agency transaction, the second exception is triggered and the arrangement converts to dual agency. Written consent from all parties is then required.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["designated_agency", "supervising_broker", "dual_agency_exception"]
+    },
+    {
+      "key_topic_ref": "MO-06.2",
+      "question_text": "What is the primary advantage of designated agency over dual agency for consumers?",
+      "correct_answer": "Each client has an agent with full fiduciary duty",
+      "distractors": [
+        "It eliminates the need for written consent",
+        "Commission costs are automatically reduced",
+        "The broker assumes all legal liability"
+      ],
+      "explanation": "Designated agency allows each party to have their own agent who owes them full fiduciary duties, including undivided loyalty and advocacy. In dual agency, the broker becomes a limited agent with reduced duties to both sides. Written consent is still required for designated agency.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["designated_agency", "fiduciary_duty", "consumer_benefit"]
+    },
+    {
+      "key_topic_ref": "MO-06.2",
+      "question_text": "How many exceptions can convert a designated agency arrangement into a dual agency situation in Missouri?",
+      "correct_answer": "Two exceptions",
+      "distractors": [
+        "One exception",
+        "Three exceptions",
+        "Four exceptions"
+      ],
+      "explanation": "Missouri recognizes two specific exceptions that convert designated agency to dual agency: (1) when the same agent both listed the property and represents the buyer, and (2) when the supervising broker becomes personally involved in the transaction for one side.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["designated_agency", "exceptions", "dual_agency_conversion"]
+    },
+    {
+      "key_topic_ref": "MO-06.2",
+      "question_text": "Broker Davis designates Agent A for the seller and Agent B for the buyer. Neither exception applies. What fiduciary duties does Agent B owe the buyer?",
+      "correct_answer": "Full fiduciary duties to the buyer",
+      "distractors": [
+        "Limited duties as a dual agent",
+        "Only disclosure of material facts",
+        "No fiduciary duties in designated agency"
+      ],
+      "explanation": "In a properly structured designated agency where neither exception applies, each designated agent owes full fiduciary duties to their assigned client. Agent B owes the buyer complete loyalty, confidentiality, disclosure, obedience, and accounting.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["designated_agency", "fiduciary_duty", "buyers_agent"]
+    },
+    {
+      "key_topic_ref": "MO-06.3",
+      "question_text": "Which of the following is considered confidential information under Missouri agency law?",
+      "correct_answer": "A buyer's willingness to pay above asking",
+      "distractors": [
+        "A known roof leak in the property",
+        "The property's listing price history",
+        "Recent comparable sales in the area"
+      ],
+      "explanation": "Under Missouri law, confidential information includes a party's willingness to pay more or accept less than stated, along with motivating factors for buying, selling, or leasing. Property defects, listing histories, and comparable sales are not confidential client information.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["confidentiality", "willingness_to_pay", "client_information"]
+    },
+    {
+      "key_topic_ref": "MO-06.3",
+      "question_text": "A seller tells her agent she is motivated to sell quickly due to a job relocation. A buyer's agent asks the listing agent why the seller is selling. What should the listing agent say?",
+      "correct_answer": "Decline to share the seller's motivation",
+      "distractors": [
+        "Disclose the relocation as a material fact",
+        "Share the information to facilitate the deal",
+        "Reveal it only if the buyer makes an offer"
+      ],
+      "explanation": "Motivating factors for selling are explicitly classified as confidential information under Missouri law. The listing agent must not reveal the seller's urgency due to relocation, as this could weaken the seller's negotiating position. Disclosure requires the seller's consent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["confidentiality", "motivating_factors", "seller_information"]
+    },
+    {
+      "key_topic_ref": "MO-06.3",
+      "question_text": "Missouri's confidentiality obligations for client information apply to which agency relationships?",
+      "correct_answer": "All agency types",
+      "distractors": [
+        "Only dual agency",
+        "Only seller's and buyer's agency",
+        "Only designated agency"
+      ],
+      "explanation": "Confidentiality obligations regarding client information—including willingness to pay more or accept less and motivating factors—apply across all agency types in Missouri: seller's agent, buyer's agent, dual agent, designated agent, and transaction broker.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["confidentiality", "all_agency_types", "universal_obligation"]
+    },
+    {
+      "key_topic_ref": "MO-06.3",
+      "question_text": "Agent Patel's buyer client says she will pay up to $400,000 but wants to start at $350,000. The seller's agent asks Patel about the buyer's maximum budget. What must Patel do?",
+      "correct_answer": "Refuse to disclose the buyer's maximum",
+      "distractors": [
+        "Disclose if it will help close the deal",
+        "Share the $400,000 figure confidentially",
+        "Reveal it only after an accepted offer"
+      ],
+      "explanation": "A buyer's willingness to pay more than the offered amount is expressly confidential under Missouri law. Agent Patel must refuse to share the $400,000 maximum regardless of pressure from the other side. Only the buyer can authorize disclosure of this information.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["confidentiality", "willingness_to_pay", "buyers_agent"]
+    },
+    {
+      "key_topic_ref": "MO-06.3",
+      "question_text": "A former client's willingness to accept a lower price was shared by the broker after the agency relationship ended. The client files a complaint. Is the broker liable?",
+      "correct_answer": "Yes, confidentiality survives the relationship",
+      "distractors": [
+        "No, duties end when the agreement expires",
+        "No, if the information is publicly known",
+        "Yes, but only within 90 days of termination"
+      ],
+      "explanation": "Confidentiality obligations regarding pricing willingness and motivating factors survive the termination of the agency relationship in Missouri. A broker cannot disclose former client confidential information after the relationship ends, and the client may file a valid complaint.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["confidentiality", "post_termination", "surviving_obligations"]
+    }
+  ]
+}

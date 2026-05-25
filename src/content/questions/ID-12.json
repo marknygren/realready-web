@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ID-12",
+  "scope": "state",
+  "state": "ID",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "ID-12.1",
+      "question_text": "Idaho is one of how many community property states?",
+      "correct_answer": "9 states",
+      "distractors": ["5 states", "7 states", "12 states"],
+      "explanation": "Idaho is one of 9 community property states (along with AZ, CA, LA, NV, NM, TX, WA, and WI). In these states, most property acquired during marriage is owned jointly by both spouses.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["community property", "9 states"]
+    },
+    {
+      "key_topic_ref": "ID-12.1",
+      "question_text": "A married couple in Idaho buys a home during their marriage using earned income. How is this property classified?",
+      "correct_answer": "Community property",
+      "distractors": ["Separate property of the purchasing spouse", "Joint tenancy by default", "Tenancy in common"],
+      "explanation": "In Idaho, assets acquired during marriage — including property purchased with earned income — are presumed to be community property, jointly owned by both spouses.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["community property", "during marriage", "classification"]
+    },
+    {
+      "key_topic_ref": "ID-12.1",
+      "question_text": "One spouse receives rental income from a cabin they owned before marriage. How is that rental income classified in Idaho?",
+      "correct_answer": "Community property unless agreed otherwise in writing",
+      "distractors": ["Separate property belonging to the owning spouse", "Joint tenancy income shared between spouses", "Split equally and treated as separate property"],
+      "explanation": "Under Section 32-906, income from separate property is treated as community property unless the spouses agree in writing to keep it separate. The cabin itself remains separate, but its income becomes community.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["community property", "separate property income", "Section 32-906"]
+    },
+    {
+      "key_topic_ref": "ID-12.1",
+      "question_text": "Which type of property is NOT community property in Idaho?",
+      "correct_answer": "Property inherited by one spouse during marriage",
+      "distractors": ["Wages earned during marriage", "A home purchased during marriage", "A car bought with marital earnings"],
+      "explanation": "Separate property includes property acquired before marriage, by gift, or by inheritance. Property inherited by one spouse remains that spouse's separate property even during the marriage.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["community property", "separate property", "inheritance"]
+    },
+    {
+      "key_topic_ref": "ID-12.1",
+      "question_text": "A spouse receives a gift of real property from their parents during the marriage. How is this property classified?",
+      "correct_answer": "Separate property of the receiving spouse",
+      "distractors": ["Community property shared by both spouses", "Joint tenancy held between both spouses", "Tenancy by the entirety for the couple"],
+      "explanation": "Property received as a gift is classified as separate property, even if received during the marriage. Along with inheritance and property owned before marriage, gifts remain the separate property of the receiving spouse.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["community property", "separate property", "gift"]
+    },
+    {
+      "key_topic_ref": "ID-12.2",
+      "question_text": "Can one spouse sell community real estate in Idaho without the other spouse's consent?",
+      "correct_answer": "No, both spouses must join in the conveyance",
+      "distractors": ["Yes, either spouse can sell independently", "Yes, with IREC approval", "Only if the property is valued under $100,000"],
+      "explanation": "Section 32-912 requires both spouses to join in executing any document that conveys or encumbers community real property. Neither spouse can unilaterally sell or mortgage community real estate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["community property", "spousal consent", "Section 32-912"]
+    },
+    {
+      "key_topic_ref": "ID-12.2",
+      "question_text": "What is the only way one spouse can sell community real estate without the other physically signing the deed?",
+      "correct_answer": "Through a written power of attorney",
+      "distractors": ["Verbal authorization witnessed by an agent", "A notarized letter of consent", "Court approval from a family judge"],
+      "explanation": "An express written power of attorney can grant one spouse the authority to convey or encumber community real property on behalf of the other. Verbal authorization is not sufficient.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["community property", "power of attorney", "conveyance"]
+    },
+    {
+      "key_topic_ref": "ID-12.2",
+      "question_text": "House Bill 150 (effective July 2025) changed which aspect of Idaho property law?",
+      "correct_answer": "Modernized homestead conveyance rules for married couples",
+      "distractors": ["Increased the homeowner's exemption to $150,000", "Eliminated community property requirements", "Created a new transfer tax on residential sales"],
+      "explanation": "HB 150 revised homestead conveyance rules, requiring both spouses to consent before selling, transferring, or encumbering their homestead. It also allows one spouse to transfer the homestead to the other as sole and separate property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HB 150", "homestead", "conveyance", "2025"]
+    },
+    {
+      "key_topic_ref": "ID-12.2",
+      "question_text": "Under HB 150, can one spouse transfer the homestead to the other spouse?",
+      "correct_answer": "Yes, as the receiving spouse's sole and separate property",
+      "distractors": ["No, homesteads cannot be transferred between spouses", "Yes, but it remains community property", "Only with court approval"],
+      "explanation": "HB 150 allows one spouse to transfer the homestead to the other, making it the receiving spouse's sole and separate property. This provides flexibility for estate planning and property management.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HB 150", "homestead", "spouse transfer"]
+    },
+    {
+      "key_topic_ref": "ID-12.2",
+      "question_text": "A listing agent receives a signed listing agreement from only one of two married property owners. Can the property be sold?",
+      "correct_answer": "No, both spouses must consent to sell community property",
+      "distractors": ["Yes, one spouse's signature is sufficient", "Yes, if the listing agent verifies ownership", "Only if the missing spouse is out of state"],
+      "explanation": "Both spouses must join in the conveyance of community real property. A listing signed by only one spouse cannot result in a valid sale — both signatures are needed on the deed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["community property", "spousal consent", "listing"]
+    },
+    {
+      "key_topic_ref": "ID-12.3",
+      "question_text": "What recording system does Idaho follow?",
+      "correct_answer": "Race-notice",
+      "distractors": ["Pure race", "Pure notice", "Torrens"],
+      "explanation": "Idaho follows a race-notice recording system. To be protected, a subsequent purchaser must both record first (race) and have no notice of a prior unrecorded conveyance (notice).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "system"]
+    },
+    {
+      "key_topic_ref": "ID-12.3",
+      "question_text": "Where must documents affecting real property be recorded in Idaho?",
+      "correct_answer": "In the county recorder's office where the property is located",
+      "distractors": ["At the IREC central office located in Boise", "At any county recorder's office located in Idaho", "At the DOPL central filing office in the capital"],
+      "explanation": "Documents affecting real property must be recorded in the county recorder's office of the county where the property is located. Recording provides constructive notice to the public.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "county recorder", "location"]
+    },
+    {
+      "key_topic_ref": "ID-12.3",
+      "question_text": "In Idaho's race-notice system, which buyer is protected?",
+      "correct_answer": "The first to record without notice of prior claims",
+      "distractors": ["The buyer who paid the highest price", "The first buyer to sign a contract", "Any buyer who has title insurance"],
+      "explanation": "Under race-notice, a subsequent buyer is protected only if they (1) record first AND (2) had no notice of any prior unrecorded conveyance. Both elements must be met for protection.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "protection"]
+    },
+    {
+      "key_topic_ref": "ID-12.3",
+      "question_text": "Which of the following is classified as separate property in Idaho?",
+      "correct_answer": "Property owned by one spouse before marriage",
+      "distractors": ["Salary earned during marriage", "A home purchased during marriage", "Savings from earnings during marriage"],
+      "explanation": "Separate property includes property acquired before marriage, by gift, or by inheritance. Property owned before marriage remains separate even after marriage, though income from it may become community property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["separate property", "before marriage"]
+    },
+    {
+      "key_topic_ref": "ID-12.3",
+      "question_text": "A buyer purchases property but does not record the deed. What risk does this create?",
+      "correct_answer": "A subsequent buyer without notice could gain priority",
+      "distractors": ["The deed is automatically void and unenforceable", "The seller retains full ownership of the property", "The buyer loses their earnest money and deposit"],
+      "explanation": "In Idaho's race-notice system, failing to record leaves the buyer vulnerable. A subsequent purchaser who records first and had no notice of the prior unrecorded conveyance could gain priority over the unrecorded buyer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recording", "failure to record", "risk"]
+    }
+  ]
+}

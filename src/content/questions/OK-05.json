@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OK-05",
+  "scope": "state",
+  "state": "OK",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "OK-05.1",
+      "question_text": "In Oklahoma, which of the following persons is exempt from real estate licensing requirements?",
+      "correct_answer": "An attorney handling a transaction for a client",
+      "distractors": ["A friend helping negotiate a sale for a fee", "A property manager collecting rent for others", "A consultant paid to find buyers for listings"],
+      "explanation": "Attorneys, property owners dealing with their own property, auctioneers, and court-appointed persons are exempt from licensing. Receiving compensation for real estate services generally requires a license.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed", "exemptions", "attorney"]
+    },
+    {
+      "key_topic_ref": "OK-05.1",
+      "question_text": "A homeowner sells their own property without a license. Is this permitted in Oklahoma?",
+      "correct_answer": "Yes, owners may sell their own property",
+      "distractors": ["No, all real property sales require a license", "Only if the sale is under $100,000", "Only for residential properties"],
+      "explanation": "Owners dealing with their own property are exempt from licensing requirements. The license requirement applies to those performing real estate acts for others for compensation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["unlicensed", "owner", "exemption"]
+    },
+    {
+      "key_topic_ref": "OK-05.1",
+      "question_text": "A person receives $500 for referring a friend to a real estate broker. Is this permitted?",
+      "correct_answer": "No, referral compensation requires a license",
+      "distractors": ["Yes, referral fees are always permitted", "Yes, if the amount is under $1,000", "Only with a registered referral permit"],
+      "explanation": "Performing real estate acts for compensation without a license is prohibited. Receiving compensation for referring clients is a licensed activity, regardless of the amount.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed", "referral", "compensation"]
+    },
+    {
+      "key_topic_ref": "OK-05.1",
+      "question_text": "Which of the following requires an Oklahoma real estate license?",
+      "correct_answer": "Managing rental property for others for a fee",
+      "distractors": ["Selling your own personal residence", "An auctioneer selling real estate at auction", "A trustee distributing estate property"],
+      "explanation": "Managing property for others for compensation requires a real estate license. Owners, auctioneers, and fiduciaries like trustees are exempt when acting in those capacities.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["licensing", "required", "property management"]
+    },
+    {
+      "key_topic_ref": "OK-05.1",
+      "question_text": "A court appoints someone to sell property in a foreclosure proceeding. Does this person need a real estate license?",
+      "correct_answer": "No, court-appointed persons are exempt",
+      "distractors": ["Yes, all property sales require a license", "Only if the property exceeds $50,000", "Only if they receive a commission"],
+      "explanation": "Court-appointed persons acting under judicial authority are exempt from licensing requirements. This includes receivers, trustees in bankruptcy, and persons selling property pursuant to court orders.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemption", "court-appointed", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "OK-05.2",
+      "question_text": "An unlicensed assistant in an Oklahoma brokerage may perform which of the following tasks?",
+      "correct_answer": "Schedule property showings by phone",
+      "distractors": ["Negotiate the purchase price with a buyer", "Hold an open house independently", "Discuss contract terms with a client"],
+      "explanation": "Unlicensed assistants may perform clerical and administrative tasks like scheduling. They may NOT negotiate, show property to make a sale, hold open houses, or discuss terms/conditions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed assistant", "permitted", "tasks"]
+    },
+    {
+      "key_topic_ref": "OK-05.2",
+      "question_text": "A broker's unlicensed assistant answers a caller's questions about a listing's price and features. Is this permitted?",
+      "correct_answer": "No, providing property details is prohibited",
+      "distractors": ["Yes, if the information is on the MLS", "Yes, answering phones is a clerical task", "Only if the broker is physically present"],
+      "explanation": "Providing property information to prospective buyers goes beyond clerical tasks and requires a license. Unlicensed assistants may answer phones but cannot provide substantive property details.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed assistant", "prohibited", "information"]
+    },
+    {
+      "key_topic_ref": "OK-05.2",
+      "question_text": "Which statement about unlicensed assistants in Oklahoma is correct?",
+      "correct_answer": "They must work under direct broker supervision",
+      "distractors": ["They may show properties with broker approval", "They may negotiate if the broker reviews after", "They may operate from a remote location alone"],
+      "explanation": "Unlicensed assistants must work under direct broker supervision. They cannot show properties, negotiate terms, or operate independently, regardless of broker approval.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["unlicensed assistant", "supervision", "requirements"]
+    },
+    {
+      "key_topic_ref": "OK-05.2",
+      "question_text": "An unlicensed assistant prepares documents under the broker's supervision. Is this activity permitted?",
+      "correct_answer": "Yes, document preparation under supervision is allowed",
+      "distractors": ["No, only licensees may handle documents", "Only if the assistant has paralegal training", "Only for internal brokerage documents"],
+      "explanation": "Unlicensed assistants may prepare documents under broker supervision as part of their clerical/administrative role. They cannot independently create or modify contract terms.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed assistant", "documents", "clerical"]
+    },
+    {
+      "key_topic_ref": "OK-05.2",
+      "question_text": "A broker asks their unlicensed assistant to host a Sunday open house alone. What should the assistant do?",
+      "correct_answer": "Decline, as this requires a license",
+      "distractors": ["Accept, since the broker authorized it", "Accept if they only hand out flyers", "Accept with written broker supervision"],
+      "explanation": "Holding open houses independently is a licensed activity that unlicensed assistants may not perform, even with broker authorization. A licensed associate must be present.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed assistant", "open house", "prohibited"]
+    },
+    {
+      "key_topic_ref": "OK-05.3",
+      "question_text": "A licensee receives a referral fee from a title company without disclosing it to their client. This is an example of:",
+      "correct_answer": "A prohibited undisclosed compensation",
+      "distractors": ["A standard business practice", "An acceptable dual compensation", "A minor disclosure oversight"],
+      "explanation": "Receiving undisclosed compensation from third parties is a prohibited dealing. Licensees may not accept kickbacks or hidden fees from service providers without full disclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prohibited", "kickback", "disclosure"]
+    },
+    {
+      "key_topic_ref": "OK-05.3",
+      "question_text": "Under Oklahoma law, which type of listing agreement is prohibited?",
+      "correct_answer": "Net listing",
+      "distractors": ["Exclusive right to sell", "Exclusive agency listing", "Open listing"],
+      "explanation": "Net listings are prohibited in Oklahoma because they create a conflict of interest where the broker's compensation depends on the sale price exceeding a minimum set amount.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["prohibited", "net listing", "agreements"]
+    },
+    {
+      "key_topic_ref": "OK-05.3",
+      "question_text": "A licensee tells a buyer that a property's value will double in 5 years if they buy now. What rule does this violate?",
+      "correct_answer": "Prohibition on guaranteeing future profits",
+      "distractors": ["Fair housing advertising regulations", "Trust account commingling rules", "Unlicensed activity provisions"],
+      "explanation": "Guaranteeing future profits from a real estate investment is a prohibited dealing. Licensees cannot make promises about future property values to induce a purchase.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prohibited", "guaranteeing profits", "investment"]
+    },
+    {
+      "key_topic_ref": "OK-05.3",
+      "question_text": "A licensee contacts a homeowner under an exclusive listing with another broker and encourages them to cancel. This violates:",
+      "correct_answer": "The prohibition on inducing contract breach",
+      "distractors": ["Oklahoma advertising regulations for listings", "Trust account handling requirements", "Continuing education completion rules"],
+      "explanation": "Inducing a party to break an existing contract is a prohibited dealing. Licensees must respect existing listing agreements and cannot solicit clients bound by exclusive contracts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prohibited", "inducing breach", "contract"]
+    },
+    {
+      "key_topic_ref": "OK-05.3",
+      "question_text": "A sales associate receives a bonus directly from a grateful seller after closing. Is this permitted?",
+      "correct_answer": "No, compensation must come from the broker",
+      "distractors": ["Yes, if disclosed to all parties involved", "Yes, if the amount is under $500 total", "Only if the broker is informed afterward"],
+      "explanation": "Oklahoma licensees may only accept compensation from their employing broker. Receiving payment directly from clients or other parties is a prohibited dealing, regardless of disclosure.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prohibited", "compensation", "broker"]
+    }
+  ]
+}

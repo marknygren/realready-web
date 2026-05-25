@@ -1,0 +1,228 @@
+{
+  "standard_ref": "SC-07",
+  "scope": "state",
+  "state": "SC",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "SC-07.1",
+      "question_text": "An SC trust account must be established as which type of account?",
+      "correct_answer": "A demand deposit account (checking)",
+      "distractors": ["A money market savings account", "A certificate of deposit (CD)", "A brokerage investment account"],
+      "explanation": "SC law requires trust accounts to be demand deposit accounts (checking accounts) with an insured financial institution authorized to do business in South Carolina.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "demand deposit", "checking"]
+    },
+    {
+      "key_topic_ref": "SC-07.1",
+      "question_text": "The name on an SC real estate trust account must include which term?",
+      "correct_answer": "Trust or escrow",
+      "distractors": ["Earnest money only", "Client funds only", "Fiduciary or custodial"],
+      "explanation": "The account title must include the word 'trust' or 'escrow' in the brokerage firm's name. This clearly identifies the account as holding other people's money.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "name", "escrow"]
+    },
+    {
+      "key_topic_ref": "SC-07.1",
+      "question_text": "A brokerage has three office locations. How many trust accounts are required?",
+      "correct_answer": "One central account may serve all offices",
+      "distractors": ["One per office location required", "Three minimum, one per office", "One per BIC at each location"],
+      "explanation": "One central trust account may serve multiple offices. The brokerage may have as many accounts as desired, but only one is required if the BIC holds trust funds.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "multiple offices", "central"]
+    },
+    {
+      "key_topic_ref": "SC-07.1",
+      "question_text": "Can an SC trust account be interest-bearing?",
+      "correct_answer": "Yes, if fund owners agree in writing",
+      "distractors": ["No, trust accounts cannot earn interest", "Yes, without any restrictions", "Only if approved by the SCREC"],
+      "explanation": "Interest-bearing trust accounts are permitted if they provide for withdrawal on demand. The BIC/PMIC may keep interest only if the fund owner(s) agree in writing, with conspicuous language if in preprinted forms.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "interest", "written consent"]
+    },
+    {
+      "key_topic_ref": "SC-07.1",
+      "question_text": "A BIC wants to keep interest earned on a client's earnest money deposit. Under SC law, this requires:",
+      "correct_answer": "Written consent from the fund owner",
+      "distractors": ["Automatic entitlement by the BIC", "Verbal permission from the client", "Commission approval per transaction"],
+      "explanation": "The BIC may keep interest on trust funds only with written agreement from the fund owner(s). If the agreement is in a preprinted form, the language about interest must be conspicuous.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "interest", "consent"]
+    },
+    {
+      "key_topic_ref": "SC-07.2",
+      "question_text": "A licensee receives a cash earnest money deposit on Wednesday. By when must it be deposited into the trust account?",
+      "correct_answer": "By Friday (within 48 hours)",
+      "distractors": ["By the next business day (Thursday)", "Within 72 hours (Saturday)", "Within 5 business days"],
+      "explanation": "Cash or certified funds must be deposited within 48 hours of receipt, excluding Saturdays, Sundays, and bank holidays. Wednesday receipt means deposit by Friday.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deposit timing", "cash", "48 hours"]
+    },
+    {
+      "key_topic_ref": "SC-07.2",
+      "question_text": "When must an earnest money check be deposited into the trust account?",
+      "correct_answer": "Within 48 hours after offer acceptance",
+      "distractors": ["Within 48 hours of receiving the check", "Within 24 hours of receiving the check", "At the time of contract ratification only"],
+      "explanation": "Checks must be deposited within 48 hours after acceptance of the offer by the parties (excluding weekends and bank holidays). The timing is triggered by acceptance, not receipt of the check.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deposit timing", "check", "offer acceptance"]
+    },
+    {
+      "key_topic_ref": "SC-07.2",
+      "question_text": "A BIC keeps $200 of personal funds in the trust account to cover bank service charges. Is this permitted?",
+      "correct_answer": "Yes, a nominal amount for bank fees is allowed",
+      "distractors": ["No, any personal funds constitute commingling", "Only if the amount is under $100", "Only with prior SCREC approval"],
+      "explanation": "A clearly identified nominal amount of BIC/PMIC funds may remain in the trust account to cover bank service charges or prevent zero-balance closure. This is the sole exception to the commingling prohibition.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "exception", "bank fees"]
+    },
+    {
+      "key_topic_ref": "SC-07.2",
+      "question_text": "A BIC deposits a $5,000 personal check into the trust account to temporarily cover a shortfall. This constitutes:",
+      "correct_answer": "Commingling of personal and trust funds",
+      "distractors": ["Proper trust account management", "An acceptable temporary loan to the account", "Conversion of trust funds"],
+      "explanation": "Depositing personal funds beyond a nominal amount for bank fees is commingling. The only exception is a clearly identified nominal amount to cover bank charges or prevent account closure.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "personal funds", "prohibition"]
+    },
+    {
+      "key_topic_ref": "SC-07.2",
+      "question_text": "Rent received by a licensee who is directly employed by the property owner may be deposited into:",
+      "correct_answer": "An operating or similar account",
+      "distractors": ["Only the PM trust account", "The owner's personal bank account", "Any account the licensee chooses"],
+      "explanation": "Per Section 40-57-136(C)(1)(b), rent received by a licensee directly employed by the owner may go into an operating account. However, advance rental deposits are ALWAYS trust funds regardless.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rent", "operating account", "exception"]
+    },
+    {
+      "key_topic_ref": "SC-07.3",
+      "question_text": "Buyer and seller disagree about who should receive the earnest money after a contract falls through. The broker may release the funds when:",
+      "correct_answer": "Both parties agree in a separate written agreement",
+      "distractors": ["The broker decides based on contract terms", "The listing agent directs the disbursement", "30 days pass without written objection"],
+      "explanation": "When funds are disputed, the broker may release them only upon: mutual written agreement, court order, mediator direction, or by filing an interpleader action and depositing funds with the court.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disputed funds", "earnest money", "release"]
+    },
+    {
+      "key_topic_ref": "SC-07.3",
+      "question_text": "A broker cannot resolve a dispute over earnest money between buyer and seller. What legal action can the broker take?",
+      "correct_answer": "File an interpleader action with the court",
+      "distractors": ["Return the funds to the buyer by default", "Split the funds equally between parties", "Hold the funds indefinitely until resolved"],
+      "explanation": "An interpleader action allows the broker to deposit disputed funds with the court clerk and let the court decide. This protects the broker from liability while ensuring proper resolution.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["interpleader", "disputed funds", "court"]
+    },
+    {
+      "key_topic_ref": "SC-07.3",
+      "question_text": "Once deposited in a trust account, transaction funds must remain there until:",
+      "correct_answer": "Consummation or termination of the transaction",
+      "distractors": ["The buyer requests a refund", "The closing attorney directs disbursement", "30 days after the contract date"],
+      "explanation": "Transaction funds must stay in the trust account until consummation (closing) or termination of the transaction. Early withdrawal requires proper authorization per disputed funds procedures.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust funds", "retention", "consummation"]
+    },
+    {
+      "key_topic_ref": "SC-07.3",
+      "question_text": "A tenant's security deposit must remain in the PM trust account until:",
+      "correct_answer": "Termination of the lease",
+      "distractors": ["The tenant's first month of occupancy", "The owner requests disbursement", "Six months after deposit"],
+      "explanation": "Security deposits must remain in trust until lease termination. Rental funds are disbursed per the management contract, but security deposits are held for the duration of the tenancy.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security deposit", "trust", "lease termination"]
+    },
+    {
+      "key_topic_ref": "SC-07.3",
+      "question_text": "A trust account check is returned NSF. Under SC law, this may be:",
+      "correct_answer": "Grounds for disciplinary action",
+      "distractors": ["An automatic license suspension", "A minor issue with no consequences", "Only the bank's responsibility"],
+      "explanation": "Returned checks (NSF or closed account) from a trust account may be grounds for disciplinary action by the SCREC. The BIC is responsible for maintaining sufficient funds and proper accounting.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NSF", "returned check", "discipline"]
+    },
+    {
+      "key_topic_ref": "SC-07.4",
+      "question_text": "How long must an SC BIC maintain trust account records?",
+      "correct_answer": "A minimum of 5 years",
+      "distractors": ["A minimum of 3 years", "A minimum of 7 years", "A minimum of 10 years"],
+      "explanation": "SC law requires trust account records to be maintained for a minimum of five years. Records include journals, ledgers, canceled checks, deposit slips, and bank statements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recordkeeping", "5 years", "retention"]
+    },
+    {
+      "key_topic_ref": "SC-07.4",
+      "question_text": "A BIC uses computerized bookkeeping for trust account records. What additional requirement applies?",
+      "correct_answer": "Backup copies at a separate off-site location",
+      "distractors": ["Manual duplicate ledgers must also be kept", "Records must be printed monthly", "A third-party auditor must verify annually"],
+      "explanation": "Computerized trust account records require backup copies at a separate off-site location. This ensures records survive even if the primary system is damaged or lost.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recordkeeping", "computerized", "off-site backup"]
+    },
+    {
+      "key_topic_ref": "SC-07.4",
+      "question_text": "The SCREC may audit a brokerage's trust account records:",
+      "correct_answer": "At any time without prior notice",
+      "distractors": ["Only during annual scheduled reviews", "Only after receiving a formal complaint", "Only with 30 days advance written notice"],
+      "explanation": "The SCREC can audit trust accounts at any time. The BIC must make all records available for inspection upon request by a Commission representative.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["audit", "SCREC", "trust account"]
+    },
+    {
+      "key_topic_ref": "SC-07.4",
+      "question_text": "Which records must be maintained for an SC real estate trust account?",
+      "correct_answer": "Journals, ledgers, deposit slips, and bank statements",
+      "distractors": ["Only monthly bank statements", "Only the annual tax return for the account", "Only records of deposits over $10,000"],
+      "explanation": "Required records include journals, ledgers, folios, client subaccounts, tenant accounts, canceled checks, deposit slips, and bank statements — all maintained for at least 5 years.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recordkeeping", "required records", "documents"]
+    },
+    {
+      "key_topic_ref": "SC-07.4",
+      "question_text": "An SCREC auditor requests trust account records from a BIC. The BIC has 4-year-old records available but claims older records were destroyed. Is this a violation?",
+      "correct_answer": "Yes, records must be kept for 5 years minimum",
+      "distractors": ["No, 3 years of records is sufficient", "No, 4 years exceeds the requirement", "Only if the destroyed records were subpoenaed"],
+      "explanation": "SC requires a minimum 5-year retention period for trust account records. Destroying records before the 5-year mark is a violation, and the BIC must furnish records to the Commission upon request.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recordkeeping", "retention", "violation"]
+    }
+  ]
+}

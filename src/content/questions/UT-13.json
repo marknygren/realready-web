@@ -1,0 +1,173 @@
+{
+  "standard_ref": "UT-13",
+  "scope": "state",
+  "state": "UT",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "UT-13.1",
+      "question_text": "What is the maximum amount the Utah Recovery Fund will pay per transaction?",
+      "correct_answer": "$15,000",
+      "distractors": ["$10,000", "$25,000", "$50,000"],
+      "explanation": "The Utah Real Estate Education, Research and Recovery Fund pays a maximum of $15,000 per single transaction and $50,000 total per licensee.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "limits", "per-transaction"]
+    },
+    {
+      "key_topic_ref": "UT-13.1",
+      "question_text": "Before a claimant can receive payment from the Recovery Fund, they must first:",
+      "correct_answer": "Obtain a court judgment against the licensee",
+      "distractors": ["File a complaint with the Division only", "Get approval from the Real Estate Commission", "Attempt mediation through the Association"],
+      "explanation": "The claimant must first obtain a court judgment against the licensee and demonstrate an inability to collect before the Fund will pay. The Fund is a last resort after other remedies fail.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "claim-process", "court-judgment"]
+    },
+    {
+      "key_topic_ref": "UT-13.1",
+      "question_text": "The Recovery Fund pays $15,000 to a consumer who was defrauded by a licensee. What happens to the licensee's license?",
+      "correct_answer": "It is automatically revoked",
+      "distractors": ["It is suspended for 6 months", "It is placed on probation", "Nothing happens to the license"],
+      "explanation": "If the Fund pays a claim, the licensee's license is automatically revoked, not just suspended. The licensee cannot obtain a new license until the Fund is repaid in full with interest.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "revocation", "consequences"]
+    },
+    {
+      "key_topic_ref": "UT-13.1",
+      "question_text": "A licensee whose license was revoked due to a Recovery Fund payout wants to become licensed again. They must:",
+      "correct_answer": "Repay the Fund in full with interest",
+      "distractors": ["Wait 5 years and reapply", "Complete 40 hours of additional education", "Pay a $5,000 reinstatement fee"],
+      "explanation": "The licensee cannot obtain a new license until the Recovery Fund is repaid in full with interest. This ensures the Fund is made whole before the licensee can return to practice.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "reinstatement", "repayment"]
+    },
+    {
+      "key_topic_ref": "UT-13.1",
+      "question_text": "What is the maximum total the Recovery Fund will pay for claims against a single licensee?",
+      "correct_answer": "$50,000",
+      "distractors": ["$15,000", "$25,000", "$100,000"],
+      "explanation": "The Recovery Fund pays a maximum of $50,000 total per licensee across all claims. Individual transactions are capped at $15,000. The Fund also supports real estate education and research.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "limits", "per-licensee"]
+    },
+    {
+      "key_topic_ref": "UT-13.2",
+      "question_text": "Utah follows which doctrine for allocating water rights?",
+      "correct_answer": "Prior appropriation",
+      "distractors": ["Riparian rights", "Reasonable use", "Correlative rights"],
+      "explanation": "Utah follows the prior appropriation doctrine, meaning 'first in time, first in right.' This is different from riparian rights used in eastern states where landowners adjacent to water have automatic use rights.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water-rights", "prior-appropriation", "doctrine"]
+    },
+    {
+      "key_topic_ref": "UT-13.2",
+      "question_text": "A rancher buys land in Utah but finds no water rights were transferred with the property. This is because in Utah:",
+      "correct_answer": "Water rights are separate from land ownership",
+      "distractors": ["All land automatically includes water rights", "Water rights transfer with the deed", "Only irrigated land has water rights"],
+      "explanation": "In Utah, water rights are separate from land ownership. Owning land does not automatically grant water rights. Rights must be specifically obtained through application to the State Engineer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water-rights", "land-ownership", "separate"]
+    },
+    {
+      "key_topic_ref": "UT-13.2",
+      "question_text": "To obtain new water rights in Utah, an application must be filed with the:",
+      "correct_answer": "Utah State Engineer",
+      "distractors": ["County water district", "Division of Real Estate", "Department of Environmental Quality"],
+      "explanation": "Water rights must be obtained through application to the Utah State Engineer, who operates within the Division of Water Rights. The State Engineer administers all water rights in Utah.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water-rights", "state-engineer", "application"]
+    },
+    {
+      "key_topic_ref": "UT-13.2",
+      "question_text": "A water rights holder in Utah stops using their water for agricultural purposes for several years. The rights may be:",
+      "correct_answer": "Forfeited due to non-beneficial use",
+      "distractors": ["Automatically transferred to the county", "Preserved indefinitely once granted", "Reduced but not fully forfeited"],
+      "explanation": "Water must be put to beneficial use in Utah. Unused water rights can be forfeited. This 'use it or lose it' principle is a core element of the prior appropriation doctrine.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water-rights", "beneficial-use", "forfeiture"]
+    },
+    {
+      "key_topic_ref": "UT-13.2",
+      "question_text": "A water rights holder wants to change where they divert water from a river. They must file a:",
+      "correct_answer": "Change application with the State Engineer",
+      "distractors": ["Permit amendment with the county", "Request with the Division of Real Estate", "Notice with the irrigation company"],
+      "explanation": "To change the point of diversion, place of use, or nature of use, a change application must be filed with the State Engineer. Changes cannot be made unilaterally without approval.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water-rights", "change-application", "state-engineer"]
+    },
+    {
+      "key_topic_ref": "UT-13.3",
+      "question_text": "In many Utah areas, water rights are held as:",
+      "correct_answer": "Shares in irrigation companies",
+      "distractors": ["Deed covenants on the property", "County-issued water permits", "Federal reservoir allocations"],
+      "explanation": "In many Utah areas, water rights are held as shares in irrigation companies rather than as individual appropriation rights. These shares can be bought, sold, and transferred separately from land.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water-shares", "irrigation-companies", "ownership"]
+    },
+    {
+      "key_topic_ref": "UT-13.3",
+      "question_text": "A buyer is purchasing a rural Utah property that includes farmland. The buyer's agent should advise investigating:",
+      "correct_answer": "Whether water rights are included in the sale",
+      "distractors": ["Only the mineral rights for the property", "The nearest municipal water connection", "Whether the county provides free water"],
+      "explanation": "Water rights must be investigated in any transaction involving land that uses or may need water. In Utah's arid climate, the presence or absence of water rights can significantly affect property value.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water-shares", "due-diligence", "rural-property"]
+    },
+    {
+      "key_topic_ref": "UT-13.3",
+      "question_text": "Why are water rights particularly important in Utah real estate?",
+      "correct_answer": "Utah's arid climate makes water scarce",
+      "distractors": ["Utah has more lakes than any other state", "Federal law requires water right disclosure", "Water rights determine property tax rates"],
+      "explanation": "Utah's arid climate makes water rights critically important to property values. Properties with adequate water rights are significantly more valuable than those without, especially for agricultural and rural land.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water-shares", "value-impact", "arid-climate"]
+    },
+    {
+      "key_topic_ref": "UT-13.3",
+      "question_text": "Two neighboring farms in Utah have water rights from the same stream. During a drought, which farmer has priority?",
+      "correct_answer": "The one with the older appropriation date",
+      "distractors": ["The one with the larger farm", "The one closest to the water source", "They share equally regardless of date"],
+      "explanation": "Under prior appropriation ('first in time, first in right'), the holder with the older appropriation date has priority during shortages. Junior rights holders may have to reduce or stop usage.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["water-shares", "priority", "drought"]
+    },
+    {
+      "key_topic_ref": "UT-13.3",
+      "question_text": "A seller's property includes 10 shares in a local irrigation company. How should these be handled in the sale?",
+      "correct_answer": "They should be specifically addressed in the contract",
+      "distractors": ["They transfer automatically with the deed", "They remain with the seller by default", "They are managed by the title company"],
+      "explanation": "Water shares are separate property interests that must be specifically addressed in the transaction. They do not automatically transfer with the land and should be included in or excluded from the contract.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water-shares", "contract", "transfer"]
+    }
+  ]
+}

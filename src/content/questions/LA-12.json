@@ -1,0 +1,233 @@
+{
+  "standard_ref": "LA-12",
+  "scope": "state",
+  "state": "LA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "LA-12.1",
+      "question_text": "Under Louisiana law, what is a servitude?",
+      "correct_answer": "A charge on one estate for another's benefit",
+      "distractors": [
+        "A tax lien recorded by the parish clerk",
+        "A lease agreement between neighboring owners",
+        "A building restriction imposed by local zoning"
+      ],
+      "explanation": "A servitude in Louisiana civil law is a charge imposed on a servient estate for the benefit of a dominant estate or a person. This concept corresponds to what common-law states call an easement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["servitudes", "definition", "louisiana_terminology"]
+    },
+    {
+      "key_topic_ref": "LA-12.1",
+      "question_text": "A predial servitude benefits which of the following?",
+      "correct_answer": "The dominant estate itself",
+      "distractors": [
+        "A specific individual personally",
+        "The parish government",
+        "The servient estate owner"
+      ],
+      "explanation": "A predial servitude is attached to land and benefits the dominant estate. It runs with the land and transfers with ownership. This is distinguished from a personal servitude, which benefits a specific person rather than a parcel of land.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["servitudes", "predial", "dominant_estate"]
+    },
+    {
+      "key_topic_ref": "LA-12.1",
+      "question_text": "A property owner grants a neighbor a right of passage across her land. This is an example of what?",
+      "correct_answer": "A predial servitude",
+      "distractors": [
+        "A personal servitude of usufruct",
+        "A building restriction",
+        "A right of habitation"
+      ],
+      "explanation": "A right of passage granted to a neighboring property is a predial servitude because it benefits the neighboring estate, not just the individual neighbor. The servitude will transfer with both properties when they are sold.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["servitudes", "predial", "right_of_passage"]
+    },
+    {
+      "key_topic_ref": "LA-12.1",
+      "question_text": "Which of the following can establish a servitude in Louisiana?",
+      "correct_answer": "Law, agreement, or prescription",
+      "distractors": [
+        "Only a recorded written agreement",
+        "Only a court order after a lawsuit",
+        "Only a parish zoning ordinance"
+      ],
+      "explanation": "Louisiana recognizes three ways to establish a servitude: by law (such as natural drainage rights), by agreement between parties, or by prescription (long, continuous use over a statutory period). This provides multiple paths for servitude creation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["servitudes", "establishment", "prescription"]
+    },
+    {
+      "key_topic_ref": "LA-12.1",
+      "question_text": "A neighbor has used a path across an adjacent lot openly and continuously for the prescriptive period without permission. The lot owner now wants to block the path. What is the likely outcome?",
+      "correct_answer": "The neighbor may have acquired a servitude",
+      "distractors": [
+        "The lot owner can block it at any time",
+        "The neighbor must obtain a parish permit",
+        "The path reverts to the lot owner automatically"
+      ],
+      "explanation": "Under Louisiana law, a servitude can be established by prescription through open, continuous, and uninterrupted use for the required statutory period. If the neighbor meets these requirements, a servitude by prescription may have been acquired and the lot owner cannot block the path.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["servitudes", "prescription", "acquisitive"]
+    },
+    {
+      "key_topic_ref": "LA-12.2",
+      "question_text": "What does a usufruct grant the usufructuary?",
+      "correct_answer": "The right to use property and enjoy its fruits",
+      "distractors": [
+        "Full ownership of the property outright",
+        "The right to sell the property to others",
+        "Only the right to occupy it as a dwelling"
+      ],
+      "explanation": "A usufruct grants the usufructuary the right to use and enjoy the property of another, including collecting its fruits (such as rent or crops), while the naked owner retains ownership. The usufructuary cannot alienate the property itself.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["usufruct", "definition", "fruits"]
+    },
+    {
+      "key_topic_ref": "LA-12.2",
+      "question_text": "What is the distinction between a perfect and imperfect usufruct?",
+      "correct_answer": "Perfect applies to nonconsumables, imperfect to consumables",
+      "distractors": [
+        "Perfect is recorded, imperfect is unrecorded",
+        "Perfect lasts forever, imperfect is temporary",
+        "Perfect is granted by court, imperfect by will"
+      ],
+      "explanation": "A perfect usufruct involves nonconsumable things that can be used without being destroyed (like a house). An imperfect usufruct involves consumable things (like money or crops) that are consumed by use. The usufructuary of consumables must return equivalent value.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["usufruct", "perfect", "imperfect", "consumables"]
+    },
+    {
+      "key_topic_ref": "LA-12.2",
+      "question_text": "A husband dies, leaving his wife a usufruct over the family home. When does the usufruct terminate?",
+      "correct_answer": "At the surviving spouse's death",
+      "distractors": [
+        "When the children reach age 18",
+        "After 10 years from the date of death",
+        "When the mortgage is fully paid off"
+      ],
+      "explanation": "A usufruct granted to a natural person terminates at the death of the usufructuary. The surviving spouse's usufruct over the family home ends at her death, at which point full ownership consolidates in the naked owners, typically the children.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["usufruct", "termination", "succession", "surviving_spouse"]
+    },
+    {
+      "key_topic_ref": "LA-12.2",
+      "question_text": "A usufructuary collects $2,000 monthly rent from a tenant occupying the property. Who is entitled to this rent?",
+      "correct_answer": "The usufructuary keeps the rent as fruits",
+      "distractors": [
+        "The naked owner receives all rent",
+        "Rent is split equally between both parties",
+        "The parish collects rent during usufruct"
+      ],
+      "explanation": "The usufructuary is entitled to the fruits of the property, which include rental income. Collecting rent is a fundamental right of the usufructuary. The naked owner retains ownership but does not receive the fruits during the usufruct.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["usufruct", "fruits", "rental_income"]
+    },
+    {
+      "key_topic_ref": "LA-12.2",
+      "question_text": "A widow holds a usufruct over her late husband's immovable. She wants to sell the property outright to a developer. The children, who are naked owners, object. Can she complete the sale?",
+      "correct_answer": "No, the usufructuary cannot sell the property",
+      "distractors": [
+        "Yes, the usufructuary has full disposal rights",
+        "Yes, if the sale price exceeds appraised value",
+        "Only if a parish judge approves the sale"
+      ],
+      "explanation": "A usufructuary has the right to use and enjoy the property but cannot alienate it. The naked owners hold title and must consent to any sale. The widow can sell or lease her usufruct interest, but she cannot convey the full ownership without the children's agreement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["usufruct", "alienation", "naked_owner", "succession"]
+    },
+    {
+      "key_topic_ref": "LA-12.3",
+      "question_text": "Under Louisiana law, the right of habitation allows a person to do what?",
+      "correct_answer": "Dwell in another's house",
+      "distractors": [
+        "Sell the property to a third party",
+        "Lease the property for rental income",
+        "Modify the structure without consent"
+      ],
+      "explanation": "The right of habitation is a personal servitude that allows the holder to dwell in another person's house. It is limited to the personal housing needs of the holder and is nontransferable.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["habitation", "personal_servitude", "nontransferable"]
+    },
+    {
+      "key_topic_ref": "LA-12.3",
+      "question_text": "Can a holder of a right of habitation lease the dwelling to a third party?",
+      "correct_answer": "No, the right is personal and nontransferable",
+      "distractors": [
+        "Yes, with the owner's written consent",
+        "Yes, for up to one year at a time",
+        "Only if the holder is temporarily absent"
+      ],
+      "explanation": "The right of habitation is strictly personal and cannot be transferred, leased, or assigned to another person. The holder may only use the dwelling for personal residential needs, not for generating rental income.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["habitation", "nontransferable", "lease_prohibited"]
+    },
+    {
+      "key_topic_ref": "LA-12.3",
+      "question_text": "How does a right of use differ from a right of habitation in Louisiana?",
+      "correct_answer": "Right of use is broader but limited to personal needs",
+      "distractors": [
+        "Right of use allows for commercial exploitation",
+        "Right of use is transferable to the holder's heirs",
+        "There is no legal difference between the two rights"
+      ],
+      "explanation": "The right of use is broader than habitation because it extends to property other than dwellings, but it is still limited to the personal needs of the holder and the holder's family. Neither right is transferable.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["right_of_use", "habitation", "personal_needs"]
+    },
+    {
+      "key_topic_ref": "LA-12.3",
+      "question_text": "Building restrictions in a Louisiana subdivision must meet which requirement to be enforceable?",
+      "correct_answer": "They must be written and recorded",
+      "distractors": [
+        "Approved by the parish council only",
+        "Agreed to verbally by all lot owners",
+        "Filed with the state legislature"
+      ],
+      "explanation": "Building restrictions in Louisiana must be established in writing and recorded in the parish conveyance records to be enforceable against subsequent purchasers. Unrecorded or verbal restrictions are generally not enforceable.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["building_restrictions", "recorded", "written"]
+    },
+    {
+      "key_topic_ref": "LA-12.3",
+      "question_text": "A subdivision's building restrictions were recorded 30 years ago but have not been re-recorded or enforced. A new lot owner wants to build a structure that violates the original restrictions. Can the other owners enforce them?",
+      "correct_answer": "Possibly not, if the restrictions have prescribed",
+      "distractors": [
+        "Yes, recorded restrictions never expire",
+        "Yes, any owner can enforce at any time",
+        "No, restrictions expire after 10 years"
+      ],
+      "explanation": "Louisiana building restrictions can prescribe (expire) after a set period if they are not enforced or re-recorded. Whether the restrictions are still enforceable depends on the specific prescriptive period and whether any actions interrupted prescription.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["building_restrictions", "prescription", "enforcement"]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "standard_ref": "FL-16",
+  "scope": "state",
+  "state": "FL",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "FL-16.1",
+      "question_text": "Florida follows which mortgage theory, meaning the borrower retains title to the property?",
+      "correct_answer": "Lien theory",
+      "distractors": ["Title theory", "Intermediate theory", "Equity theory"],
+      "explanation": "Florida is a lien theory state — the mortgage creates a lien on the property, but the borrower retains title. In title theory states, the lender holds title until the loan is paid off.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lien-theory", "mortgage", "borrower-title"]
+    },
+    {
+      "key_topic_ref": "FL-16.1",
+      "question_text": "In Florida, the maximum interest rate allowed on loans under $500,000 before triggering criminal usury is:",
+      "correct_answer": "18%",
+      "distractors": ["12%", "25%", "10%"],
+      "explanation": "Florida limits interest to 18% for loans under $500,000 (criminal usury threshold). For loans of $500,000 or more, the criminal usury limit is 25%. These are criminal, not civil, limits.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["usury", "18-percent", "interest-rate"]
+    },
+    {
+      "key_topic_ref": "FL-16.1",
+      "question_text": "Under Florida's lien theory, what does the mortgage instrument create on the property?",
+      "correct_answer": "A lien securing the debt",
+      "distractors": ["A transfer of title to the lender", "A conditional ownership interest", "An equitable mortgage right"],
+      "explanation": "In lien theory, the mortgage creates a lien (security interest) on the property, but legal title stays with the borrower. The lien is released when the loan is paid in full.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lien-theory", "security-interest", "mortgage"]
+    },
+    {
+      "key_topic_ref": "FL-16.1",
+      "question_text": "Misrepresenting information on a Florida mortgage application is classified as:",
+      "correct_answer": "Mortgage fraud, a criminal offense",
+      "distractors": ["A civil contract dispute only", "A FREC license violation only", "An ethical violation but not a crime"],
+      "explanation": "Mortgage fraud is a criminal offense in Florida. Misrepresenting income, assets, employment, or other information on a mortgage application can result in criminal prosecution and penalties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mortgage-fraud", "criminal", "misrepresentation"]
+    },
+    {
+      "key_topic_ref": "FL-16.1",
+      "question_text": "For loans of $500,000 or more in Florida, the criminal usury limit is:",
+      "correct_answer": "25%",
+      "distractors": ["18%", "30%", "21%"],
+      "explanation": "Florida's criminal usury limits are tiered: 18% for loans under $500,000 and 25% for loans of $500,000 or more. Exceeding these limits constitutes criminal usury.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["usury", "25-percent", "large-loans"]
+    },
+    {
+      "key_topic_ref": "FL-16.2",
+      "question_text": "Florida requires which type of foreclosure process?",
+      "correct_answer": "Judicial foreclosure through the courts",
+      "distractors": ["Non-judicial foreclosure by power of sale", "Either judicial or non-judicial", "Administrative foreclosure through DBPR"],
+      "explanation": "Florida requires judicial foreclosure — a court action is necessary. There is no power-of-sale (non-judicial) foreclosure option. This typically results in a longer timeline (6-12+ months).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "judicial", "court-action"]
+    },
+    {
+      "key_topic_ref": "FL-16.2",
+      "question_text": "After a Florida foreclosure sale, can the lender pursue the borrower for the remaining loan balance?",
+      "correct_answer": "Yes, through a deficiency judgment",
+      "distractors": ["No, Florida prohibits deficiency judgments", "Only for commercial properties", "Only if the loan exceeds $500,000"],
+      "explanation": "Florida allows deficiency judgments — the lender can pursue the borrower for the difference between the loan balance and the foreclosure sale price. This differs from states like California that restrict deficiency judgments on purchase-money loans.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deficiency-judgment", "foreclosure", "remaining-balance"]
+    },
+    {
+      "key_topic_ref": "FL-16.2",
+      "question_text": "A borrower in foreclosure in Florida can redeem the property up until what point?",
+      "correct_answer": "When the clerk files the certificate of title",
+      "distractors": ["On the date of the foreclosure auction", "Exactly 30 days after the foreclosure sale", "When the court enters the final judgment"],
+      "explanation": "Florida's right of redemption extends until the clerk files the certificate of title after the foreclosure sale. Once the certificate is filed, the redemption right is extinguished.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["redemption", "certificate-of-title", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "FL-16.2",
+      "question_text": "Florida's judicial foreclosure process typically takes how long compared to non-judicial states?",
+      "correct_answer": "Longer, typically 6-12+ months",
+      "distractors": ["Shorter, typically 30-60 days", "About the same timeframe", "Exactly 90 days by statute"],
+      "explanation": "Judicial foreclosure is generally slower because it requires court involvement — filing a lawsuit, serving the borrower, and obtaining a court judgment. Non-judicial states can complete foreclosure in as few as 2-4 months.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["judicial-foreclosure", "timeline", "comparison"]
+    },
+    {
+      "key_topic_ref": "FL-16.2",
+      "question_text": "In a Florida foreclosure, the property is sold at auction. If the sale price is less than the debt, the difference is called a:",
+      "correct_answer": "Deficiency",
+      "distractors": ["Surplus", "Equity remainder", "Shortfall credit"],
+      "explanation": "The deficiency is the difference between the outstanding loan balance and the foreclosure sale price. In Florida, the lender can seek a deficiency judgment against the borrower for this amount.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deficiency", "foreclosure-sale", "terminology"]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "standard_ref": "MS-05",
+  "scope": "state",
+  "state": "MS",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "MS-05.1",
+      "question_text": "What is the minimum E&O insurance coverage required per claim in Mississippi?",
+      "correct_answer": "$100,000 per claim",
+      "distractors": ["$50,000 per claim", "$250,000 per claim", "$500,000 per claim"],
+      "explanation": "Mississippi requires all active licensees to carry E&O insurance with a minimum of $100,000 per claim and $100,000 aggregate. This provides consumer protection since Mississippi has no recovery fund.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O insurance", "minimum coverage", "per claim"]
+    },
+    {
+      "key_topic_ref": "MS-05.1",
+      "question_text": "A broker's E&O policy has a $3,000 deductible for damages. Does this comply with Mississippi requirements?",
+      "correct_answer": "No, maximum deductible is $2,500",
+      "distractors": ["Yes, deductibles are unregulated", "Yes, up to $5,000 is allowed", "No, maximum deductible is $1,000"],
+      "explanation": "Mississippi limits the E&O insurance deductible to a maximum of $2,500 for damages and $1,000 for defense costs. A $3,000 damages deductible exceeds the $2,500 maximum and is non-compliant.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O insurance", "deductible", "compliance"]
+    },
+    {
+      "key_topic_ref": "MS-05.1",
+      "question_text": "Which licensees must carry E&O insurance in Mississippi?",
+      "correct_answer": "All active licensees",
+      "distractors": ["Brokers only", "Salespersons only", "Only those handling trust funds"],
+      "explanation": "Mississippi requires ALL active licensees, both brokers and salespersons, to maintain E&O insurance coverage. Inactive licensees are not required to carry coverage since they cannot practice.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O insurance", "active licensees", "requirement"]
+    },
+    {
+      "key_topic_ref": "MS-05.1",
+      "question_text": "A licensee wants to purchase E&O insurance from a private insurer instead of the MREC group program. Is this allowed?",
+      "correct_answer": "Yes, if the insurer is approved",
+      "distractors": ["No, only the MREC program is allowed", "Yes, any insurer is acceptable", "Only for brokers, not salespersons"],
+      "explanation": "Licensees may use either the MREC group program or an approved private insurer for their E&O coverage. The key requirement is that the policy meets the minimum coverage and deductible limits.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O insurance", "private insurer", "MREC program"]
+    },
+    {
+      "key_topic_ref": "MS-05.1",
+      "question_text": "What is the maximum deductible for defense costs under Mississippi E&O requirements?",
+      "correct_answer": "$1,000",
+      "distractors": ["$500", "$2,500", "$5,000"],
+      "explanation": "Mississippi limits E&O policy deductibles to $2,500 for damages and $1,000 for defense costs. These caps ensure licensees cannot avoid meaningful coverage by selecting excessively high deductibles.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O insurance", "defense costs", "deductible"]
+    },
+    {
+      "key_topic_ref": "MS-05.2",
+      "question_text": "A consumer is harmed by a licensee's negligence. Does Mississippi have a recovery fund to compensate the consumer?",
+      "correct_answer": "No, there is no recovery fund",
+      "distractors": ["Yes, up to $25,000 per claim", "Yes, up to $50,000 per claim", "Yes, it is funded by license fees"],
+      "explanation": "Mississippi does NOT have a recovery fund. Consumers harmed by licensees must seek remedies through E&O insurance claims, MREC complaints for discipline, or civil litigation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "consumer protection", "no fund"]
+    },
+    {
+      "key_topic_ref": "MS-05.2",
+      "question_text": "A buyer suffers financial loss from an agent's misrepresentation. What is the buyer's primary insurance remedy?",
+      "correct_answer": "File an E&O insurance claim",
+      "distractors": ["Claim from the recovery fund", "Claim from the License Fund", "Claim from the broker's bond"],
+      "explanation": "Since Mississippi has no recovery fund, the buyer's primary insurance remedy is filing a claim against the licensee's mandatory E&O insurance. The buyer may also file an MREC complaint or pursue civil litigation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O claim", "consumer remedies", "misrepresentation"]
+    },
+    {
+      "key_topic_ref": "MS-05.2",
+      "question_text": "The License Fund under Section 73-35-19 can be used for which purpose?",
+      "correct_answer": "Financing MREC operations",
+      "distractors": ["Compensating harmed consumers", "Paying licensee legal fees", "Funding broker trust accounts"],
+      "explanation": "The License Fund (§73-35-19) is used exclusively to finance MREC's operational costs, including licensing, enforcement, and administration. It is NOT a consumer recovery fund.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["License Fund", "MREC operations", "Section 73-35-19"]
+    },
+    {
+      "key_topic_ref": "MS-05.2",
+      "question_text": "A consumer wants MREC to discipline a licensee who defrauded her. What should she file?",
+      "correct_answer": "An MREC complaint",
+      "distractors": ["A recovery fund claim", "A License Fund claim", "A civil lawsuit with MREC"],
+      "explanation": "To seek disciplinary action against a licensee, a consumer should file a formal complaint with MREC. This initiates the investigation and hearing process. For financial recovery, the consumer would pursue an E&O claim or civil litigation separately.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MREC complaint", "discipline", "consumer remedies"]
+    },
+    {
+      "key_topic_ref": "MS-05.2",
+      "question_text": "A harmed consumer wants both financial recovery and disciplinary action against a licensee. What combination of remedies is available?",
+      "correct_answer": "E&O claim plus MREC complaint",
+      "distractors": ["Recovery fund plus MREC complaint", "License Fund plus civil lawsuit", "Recovery fund plus E&O claim"],
+      "explanation": "Mississippi consumers can pursue both an E&O insurance claim for financial recovery and an MREC complaint for disciplinary action. Civil litigation is also an option. There is no recovery fund in Mississippi.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["consumer remedies", "E&O claim", "MREC complaint"]
+    }
+  ]
+}

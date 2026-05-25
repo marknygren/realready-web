@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WV-05",
+  "scope": "state",
+  "state": "WV",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "WV-05.1",
+      "question_text": "Which WV license type allows the holder to operate independently and supervise salespersons?",
+      "correct_answer": "Broker",
+      "distractors": ["Salesperson", "Associate broker", "Managing agent"],
+      "explanation": "Only a broker can operate independently and supervise salespersons in WV. An associate broker holds broker qualifications but works under another broker, similar to a salesperson.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["license-types", "broker", "supervision"]
+    },
+    {
+      "key_topic_ref": "WV-05.1",
+      "question_text": "How does an associate broker differ from a salesperson in West Virginia?",
+      "correct_answer": "Associate broker has broker qualifications",
+      "distractors": ["Associate broker can operate independently", "Associate broker supervises salespersons", "There is no meaningful difference"],
+      "explanation": "An associate broker holds broker qualifications (education and experience) but chooses to work under another broker rather than operating independently. A salesperson has only salesperson-level qualifications.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["license-types", "associate-broker", "comparison"]
+    },
+    {
+      "key_topic_ref": "WV-05.1",
+      "question_text": "A newly licensed WV salesperson wants to practice real estate. What is required before they can begin?",
+      "correct_answer": "Must be sponsored by an employing broker",
+      "distractors": ["Must complete 30 days of training first", "Must register with the county clerk", "Can begin immediately upon passing the exam"],
+      "explanation": "A WV salesperson must be sponsored by an employing broker to activate their license. They cannot practice independently — all salespersons must work under a licensed broker.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["license-types", "salesperson", "sponsoring-broker"]
+    },
+    {
+      "key_topic_ref": "WV-05.1",
+      "question_text": "An experienced agent who qualifies as a broker decides to continue working under another broker's supervision. What license type applies?",
+      "correct_answer": "Associate broker",
+      "distractors": ["Salesperson", "Independent broker", "Supervising broker"],
+      "explanation": "An associate broker holds broker qualifications but works under another broker's supervision. This allows experienced agents to maintain broker credentials without the responsibilities of operating a brokerage.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["license-types", "associate-broker", "supervision"]
+    },
+    {
+      "key_topic_ref": "WV-05.1",
+      "question_text": "Which of the following accurately describes West Virginia's license structure?",
+      "correct_answer": "Salesperson, associate broker, and broker",
+      "distractors": ["Salesperson and broker only", "Agent, broker, and managing broker", "Associate, designated broker, and principal broker"],
+      "explanation": "WV has three license types: salesperson (works under broker), associate broker (broker-qualified but works under another broker), and broker (operates independently, supervises others).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["license-types", "structure", "overview"]
+    },
+    {
+      "key_topic_ref": "WV-05.2",
+      "question_text": "What is the application processing fee for a WV real estate license?",
+      "correct_answer": "$25",
+      "distractors": ["$50", "$75", "$100"],
+      "explanation": "The application processing fee is $25, paid through the WVREC Online Application System. Separately, there is a $45.75 fingerprint fee and a $75 license activation fee.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fees", "application", "costs"]
+    },
+    {
+      "key_topic_ref": "WV-05.2",
+      "question_text": "A WV salesperson renews their license on time during the May 1–June 30 period. What is the renewal fee?",
+      "correct_answer": "$75",
+      "distractors": ["$25", "$50", "$125"],
+      "explanation": "The standard annual renewal fee for a WV salesperson is $75 when renewed on time during the May 1–June 30 period. Late renewal (July 1–August 31) adds a $50 late fee.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fees", "renewal", "annual"]
+    },
+    {
+      "key_topic_ref": "WV-05.2",
+      "question_text": "How does a WV license applicant submit their fingerprints for a background check?",
+      "correct_answer": "Through IdentoGO for $45.75",
+      "distractors": ["At any local police station for free", "Through the WVREC office for $25", "Via mail to the FBI for $30"],
+      "explanation": "Fingerprints are submitted through IdentoGO, the state's designated vendor, at a cost of $45.75. IdentoGO processes both FBI and state criminal history checks.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fees", "fingerprints", "IdentoGO"]
+    },
+    {
+      "key_topic_ref": "WV-05.2",
+      "question_text": "WV real estate license applications are submitted through which system?",
+      "correct_answer": "WVREC Online Application System",
+      "distractors": ["Pearson VUE testing portal", "Paper forms mailed to Charleston", "The county clerk's office"],
+      "explanation": "Applications can only be completed online through the WVREC Online Application System. Paper applications are no longer accepted.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["application", "online", "process"]
+    },
+    {
+      "key_topic_ref": "WV-05.2",
+      "question_text": "What is the license activation fee for a new WV salesperson?",
+      "correct_answer": "$75",
+      "distractors": ["$25", "$45.75", "$100"],
+      "explanation": "The license activation fee is $75, separate from the $25 application processing fee and $45.75 fingerprint fee. The license is activated once the applicant has a sponsoring broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fees", "activation", "costs"]
+    },
+    {
+      "key_topic_ref": "WV-05.3",
+      "question_text": "How many clock hours of education are required for a WV broker license?",
+      "correct_answer": "180 clock hours",
+      "distractors": ["90 clock hours", "120 clock hours", "240 clock hours"],
+      "explanation": "A WV broker license requires 180 clock hours (12 college credit hours) of broker-specific education, which is double the 90 hours required for a salesperson license.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "education", "hours"]
+    },
+    {
+      "key_topic_ref": "WV-05.3",
+      "question_text": "A salesperson with 12 closed transactions over the past 2 years wants to upgrade to a broker license. Do they meet the experience requirement?",
+      "correct_answer": "Yes, 10 transactions in 2 years qualifies",
+      "distractors": ["No, minimum is 20 transactions in 2 years", "No, minimum is 15 transactions in 2 years", "No, must have 5 years of experience"],
+      "explanation": "The experience requirement is met with either 10 closed transactions in the 2 years prior to application OR 20 total transactions regardless of years. Having 12 in 2 years exceeds the 10-transaction threshold.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker", "experience", "transactions"]
+    },
+    {
+      "key_topic_ref": "WV-05.3",
+      "question_text": "A salesperson has completed 22 closed transactions over 5 years but only 8 in the last 2 years. Can they qualify for a broker license on experience?",
+      "correct_answer": "Yes, 20+ total transactions qualifies",
+      "distractors": ["No, need 10 transactions in last 2 years", "No, need 40 total transactions", "No, only recent transactions count"],
+      "explanation": "The experience requirement can be met two ways: 10 transactions in the most recent 2 years OR 20+ total transactions regardless of timeframe. Having 22 total meets the 20-transaction alternative.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker", "experience", "alternative-path"]
+    },
+    {
+      "key_topic_ref": "WV-05.3",
+      "question_text": "How many scored state-specific items are on the WV broker exam compared to the salesperson exam?",
+      "correct_answer": "60 items vs. 50 for salesperson",
+      "distractors": ["50 items vs. 40 for salesperson", "80 items vs. 50 for salesperson", "Same number for both exams"],
+      "explanation": "The WV broker exam has 60 scored state-specific items compared to 50 for the salesperson exam. The broker exam includes an additional section on Broker Management (18 items).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "exam", "comparison"]
+    },
+    {
+      "key_topic_ref": "WV-05.3",
+      "question_text": "The WV broker exam includes an additional section not on the salesperson exam covering which topics?",
+      "correct_answer": "Broker management and trust funds",
+      "distractors": ["Advanced fair housing law", "Commercial real estate valuation", "Federal lending regulations"],
+      "explanation": "The broker exam includes a Broker Management section (18 items) covering trust funds, place of business, brokerage operations, and HR management — supervisory topics not tested on the salesperson exam.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "exam", "management"]
+    }
+  ]
+}

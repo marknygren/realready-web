@@ -1,0 +1,233 @@
+{
+  "standard_ref": "MO-04",
+  "scope": "state",
+  "state": "MO",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "MO-04.1",
+      "question_text": "When a consumer files a complaint against a Missouri licensee, who receives a copy of the complaint?",
+      "correct_answer": "Both the complainant and licensee",
+      "distractors": [
+        "Only the licensee who is accused",
+        "The complainant and MREC staff only",
+        "The licensee's supervising broker only"
+      ],
+      "explanation": "Missouri's complaint process requires that a copy of the complaint be provided to both parties: the person who filed the complaint (complainant) and the licensee who is the subject of the complaint. This ensures transparency and allows both sides to prepare their positions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["complaint_process", "notice", "both_parties"]
+    },
+    {
+      "key_topic_ref": "MO-04.1",
+      "question_text": "After MREC investigates a complaint and finds sufficient evidence, where is the case forwarded for a hearing?",
+      "correct_answer": "Administrative Hearing Commission",
+      "distractors": [
+        "Missouri Circuit Court",
+        "MREC's internal hearing panel",
+        "Division of Professional Registration"
+      ],
+      "explanation": "If MREC's investigation reveals sufficient evidence of a violation, the case is forwarded to the Administrative Hearing Commission (AHC), an independent body. The AHC conducts the formal hearing and makes the final determination. MREC does not hold its own hearings on disciplinary matters.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["AHC", "hearing", "complaint_process"]
+    },
+    {
+      "key_topic_ref": "MO-04.1",
+      "question_text": "A licensee receives a complaint notice from MREC. She asks her broker to handle it. The broker responds on her behalf. Is the complaint resolved?",
+      "correct_answer": "No, MREC still investigates independently",
+      "distractors": [
+        "Yes, if the broker provides a satisfactory answer",
+        "Yes, broker responses close the complaint",
+        "No, but the broker's response stops the process"
+      ],
+      "explanation": "A broker's response does not resolve or close a complaint. MREC conducts its own independent investigation regardless of any explanations provided. If sufficient evidence is found, the case proceeds to the Administrative Hearing Commission. The licensee should also respond personally and may want legal counsel.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["complaint_process", "investigation", "broker_response"]
+    },
+    {
+      "key_topic_ref": "MO-04.1",
+      "question_text": "Which body makes the final determination in a Missouri real estate disciplinary hearing?",
+      "correct_answer": "The Administrative Hearing Commission",
+      "distractors": [
+        "The Missouri Real Estate Commission",
+        "The Division of Professional Registration",
+        "The Missouri Supreme Court"
+      ],
+      "explanation": "The Administrative Hearing Commission (AHC) conducts hearings and makes final determinations in Missouri real estate disciplinary cases. This provides an independent adjudication separate from MREC, which acts as the complaining party. The licensee may appeal AHC decisions to the courts.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["AHC", "final_determination", "disciplinary_hearing"]
+    },
+    {
+      "key_topic_ref": "MO-04.1",
+      "question_text": "MREC investigates a complaint but finds insufficient evidence. What happens to the complaint?",
+      "correct_answer": "The complaint is dismissed",
+      "distractors": [
+        "It is forwarded to the AHC regardless",
+        "The licensee receives a formal warning",
+        "It remains open for 2 years"
+      ],
+      "explanation": "If MREC's investigation does not produce sufficient evidence of a violation, the complaint is dismissed and not forwarded to the Administrative Hearing Commission. The licensee faces no further action on that particular complaint. However, MREC retains records for pattern tracking.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["complaint_dismissal", "insufficient_evidence", "investigation"]
+    },
+    {
+      "key_topic_ref": "MO-04.2",
+      "question_text": "A salesperson deposits a client's earnest money into her personal checking account. Which violation has occurred?",
+      "correct_answer": "Commingling of funds",
+      "distractors": [
+        "Misrepresentation of property",
+        "Failure to disclose agency",
+        "Unauthorized practice of law"
+      ],
+      "explanation": "Depositing client funds into a personal account is commingling, which is mixing client funds with the licensee's own money. Missouri law requires all client funds to be deposited into the broker's designated escrow (trust) account. Commingling is a serious violation that can result in license revocation.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "escrow_violation", "earnest_money"]
+    },
+    {
+      "key_topic_ref": "MO-04.2",
+      "question_text": "A listing agent receives a lowball offer and decides not to present it to the seller. Under Missouri law, this is grounds for discipline unless which condition exists?",
+      "correct_answer": "The seller gave a written waiver in advance",
+      "distractors": [
+        "The offer was below 80% of list price",
+        "The listing agent deemed it frivolous",
+        "The buyer's agent agreed to withdraw it"
+      ],
+      "explanation": "Missouri requires agents to present all offers to their clients. The only exception is when the seller has provided a prior written waiver authorizing the agent not to present certain categories of offers. An agent cannot unilaterally decide which offers to withhold based on price or personal judgment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["present_all_offers", "written_waiver", "seller_rights"]
+    },
+    {
+      "key_topic_ref": "MO-04.2",
+      "question_text": "A licensee knowingly tells a buyer that a property has no foundation issues, despite being aware of cracks in the basement. This is an example of which violation?",
+      "correct_answer": "Concealment of material facts",
+      "distractors": [
+        "Unauthorized dual agency",
+        "Practicing without a license",
+        "Breach of fiduciary duty to the seller"
+      ],
+      "explanation": "Knowingly hiding or misrepresenting a known material defect is concealment of material facts, a serious violation under Missouri law. Foundation issues are clearly material because they affect the property's value and safety. This can result in license discipline and civil liability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material_facts", "concealment", "misrepresentation"]
+    },
+    {
+      "key_topic_ref": "MO-04.2",
+      "question_text": "A licensee offers a $500 gift card to anyone who signs a listing agreement. Under Missouri law, is this permissible?",
+      "correct_answer": "No, using prizes as inducement is prohibited",
+      "distractors": [
+        "Yes, if disclosed to all parties",
+        "Yes, if the gift card value is under $1,000",
+        "No, but cash bonuses are allowed"
+      ],
+      "explanation": "Missouri prohibits licensees from using prizes, gifts, or similar inducements to solicit listings or sales. Offering a $500 gift card as an incentive to sign a listing violates this rule regardless of disclosure or value. This prohibition prevents potentially deceptive marketing practices.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inducement", "prizes", "prohibited_practices"]
+    },
+    {
+      "key_topic_ref": "MO-04.2",
+      "question_text": "Which of the following is a ground for discipline under Missouri real estate law?",
+      "correct_answer": "Refusing to rent based on familial status",
+      "distractors": [
+        "Declining to reduce a commission rate",
+        "Advertising a listing on only one website",
+        "Requiring a written buyer agency agreement"
+      ],
+      "explanation": "Fair housing violations, including discrimination based on familial status, are grounds for discipline by MREC. Commission rates are negotiable and not regulated. Advertising choices and requiring written agreements are legitimate business practices that do not violate Missouri licensing law.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair_housing", "familial_status", "discrimination"]
+    },
+    {
+      "key_topic_ref": "MO-04.3",
+      "question_text": "Which disciplinary actions can the Administrative Hearing Commission impose on a Missouri licensee?",
+      "correct_answer": "Censure, probation, suspension, revocation",
+      "distractors": [
+        "Only suspension or revocation of license",
+        "Monetary fines only with no license action",
+        "Criminal penalties including possible jail time"
+      ],
+      "explanation": "The AHC can impose a range of disciplinary actions including censure (formal reprimand), probation (supervised practice), suspension (temporary loss of license), and revocation (permanent loss of license). The severity depends on the nature of the violation. Criminal penalties require separate prosecution.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disciplinary_actions", "censure", "probation", "suspension", "revocation"]
+    },
+    {
+      "key_topic_ref": "MO-04.3",
+      "question_text": "What is the monetary penalty range per violation for Missouri real estate license law infractions?",
+      "correct_answer": "$100 to $1,000 per violation",
+      "distractors": [
+        "$500 to $5,000 per violation",
+        "$50 to $500 per violation",
+        "$1,000 to $10,000 per violation"
+      ],
+      "explanation": "Missouri law authorizes monetary penalties of $100 to $1,000 per violation for real estate license law infractions. These penalties can be imposed in addition to other disciplinary actions such as suspension or revocation. Multiple violations in a single case can result in cumulative penalties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["monetary_penalty", "fine_range", "per_violation"]
+    },
+    {
+      "key_topic_ref": "MO-04.3",
+      "question_text": "A person who was never licensed sells a property for a friend and collects a $3,000 fee. What violation has occurred?",
+      "correct_answer": "Practicing real estate without a license",
+      "distractors": [
+        "Collecting an excessive commission",
+        "Operating as an unlicensed appraiser",
+        "No violation if it was a one-time favor"
+      ],
+      "explanation": "Performing real estate services for compensation without a license is a violation of Missouri law. Even a single transaction for a fee constitutes unlicensed practice. The amount of the fee is irrelevant; what matters is that compensation was received for services requiring licensure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unlicensed_activity", "practicing_without_license"]
+    },
+    {
+      "key_topic_ref": "MO-04.3",
+      "question_text": "A licensee commits 3 separate violations in one transaction. What is the maximum total monetary penalty?",
+      "correct_answer": "$3,000",
+      "distractors": [
+        "$1,000",
+        "$5,000",
+        "$2,000"
+      ],
+      "explanation": "Missouri allows monetary penalties of up to $1,000 per violation. With 3 separate violations, the maximum total penalty is $3,000 (3 x $1,000). Each violation is assessed independently, so multiple infractions in a single transaction can compound the financial penalty significantly.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["monetary_penalty", "multiple_violations", "calculation"]
+    },
+    {
+      "key_topic_ref": "MO-04.3",
+      "question_text": "What is the purpose of Missouri's Education and Research Fund in real estate regulation?",
+      "correct_answer": "It is funded by licensing fees",
+      "distractors": [
+        "It pays damages to defrauded consumers",
+        "It subsidizes pre-license exam costs",
+        "It provides grants to new brokerages"
+      ],
+      "explanation": "Missouri's Education and Research Fund receives a portion of licensing fees and is used to support real estate education and research initiatives. It is not a recovery fund for consumer damages, nor does it subsidize individual exam costs or provide business grants. The fund supports the profession's educational infrastructure.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Education_Research_Fund", "licensing_fees", "funding"]
+    }
+  ]
+}

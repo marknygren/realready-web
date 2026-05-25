@@ -1,0 +1,298 @@
+{
+  "standard_ref": "NY-14",
+  "scope": "state",
+  "state": "NY",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NY-14.1",
+      "question_text": "What is the New York State transfer tax rate on a residential property sold for $2,000,000?",
+      "correct_answer": "0.4% of the sale price",
+      "distractors": [
+        "0.65% of the sale price",
+        "1% of the sale price",
+        "0.2% of the sale price"
+      ],
+      "explanation": "The New York State transfer tax rate is 0.4% for properties selling for under $3 million and 0.65% for properties at $3 million or above. At $2,000,000, the property falls below the $3M threshold, so the 0.4% rate applies, resulting in a tax of $8,000.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "NYS-transfer-tax",
+        "0.4-percent",
+        "seller-pays"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.1",
+      "question_text": "A seller closes on a $4,500,000 property in New York. The NYS transfer tax rate applied to this sale is:",
+      "correct_answer": "0.65%",
+      "distractors": [
+        "0.4%",
+        "1.0%",
+        "1.425%"
+      ],
+      "explanation": "For properties selling at $3 million or above, the NYS transfer tax rate increases to 0.65%. At $4,500,000, this threshold is exceeded, so the higher rate applies. The transfer tax is paid by the seller in New York.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "NYS-transfer-tax",
+        "0.65-percent",
+        "3M-threshold"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.1",
+      "question_text": "Who is responsible for paying the New York State transfer tax?",
+      "correct_answer": "The seller",
+      "distractors": [
+        "The buyer",
+        "Both parties equally",
+        "The party with the higher income"
+      ],
+      "explanation": "In New York, the seller is responsible for paying the state transfer tax. This applies to both the standard 0.4% rate and the higher 0.65% rate for sales of $3 million or more. This is a common exam topic because the responsibility differs from the mansion tax, which is paid by the buyer.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "NYS-transfer-tax",
+        "seller-pays",
+        "closing-costs"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.1",
+      "question_text": "A property in Manhattan sells for $750,000. The NYC Real Property Transfer Tax (RPTT) rate applied is:",
+      "correct_answer": "1.425% because the sale exceeds $500,000",
+      "distractors": [
+        "1% because it is a standard residential sale",
+        "0.4% matching the NYS transfer tax rate",
+        "1.425% only for commercial properties"
+      ],
+      "explanation": "The NYC RPTT has two tiers for residential property: 1% for sales under $500,000 and 1.425% for sales of $500,000 or more. At $750,000, the higher 1.425% rate applies. Like the NYS transfer tax, the RPTT is paid by the seller.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "NYC-RPTT",
+        "1.425-percent",
+        "500K-threshold"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.1",
+      "question_text": "A seller lists a NYC condo for $480,000 and it sells at the asking price. The seller's attorney calculates the NYC RPTT. A buyer's agent claims the 1.425% rate applies because it is NYC. The attorney correctly applies:",
+      "correct_answer": "The 1% rate because the sale is under $500,000",
+      "distractors": [
+        "The 1.425% rate for all NYC residential sales",
+        "No RPTT because condos are exempt",
+        "The 0.4% NYS rate in lieu of the RPTT"
+      ],
+      "explanation": "The NYC RPTT uses a two-tier structure: 1% for residential sales under $500,000 and 1.425% for $500,000 and above. At $480,000, the sale falls under the $500,000 threshold, so the lower 1% rate applies. The buyer's agent was incorrect that all NYC sales use the higher rate.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "NYC-RPTT",
+        "1-percent",
+        "threshold-analysis",
+        "seller-pays"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.2",
+      "question_text": "The New York mansion tax applies to residential purchases of:",
+      "correct_answer": "$1 million or more",
+      "distractors": [
+        "$500,000 or more",
+        "$2 million or more",
+        "$3 million or more"
+      ],
+      "explanation": "The mansion tax begins at residential purchases of $1 million or more. It is a graduated tax starting at 1% for properties between $1 million and $2 million, increasing in brackets up to 3.9% for properties of $25 million and above. Unlike the transfer tax, the mansion tax is paid by the buyer.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "mansion-tax",
+        "1M-threshold",
+        "buyer-pays"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.2",
+      "question_text": "Who is responsible for paying the mansion tax in New York?",
+      "correct_answer": "The buyer",
+      "distractors": [
+        "The seller",
+        "Both parties equally",
+        "The lender"
+      ],
+      "explanation": "The mansion tax is paid by the buyer, which distinguishes it from the NYS transfer tax and NYC RPTT, both of which are paid by the seller. This distinction is a frequently tested concept on the New York real estate exam.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "mansion-tax",
+        "buyer-pays",
+        "tax-responsibility"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.2",
+      "question_text": "A buyer purchases a $1,500,000 condominium in Brooklyn. The mansion tax rate for this purchase is:",
+      "correct_answer": "1% of the full purchase price",
+      "distractors": [
+        "1.25% of the full purchase price",
+        "1% on the amount exceeding $1 million only",
+        "No mansion tax applies outside Manhattan"
+      ],
+      "explanation": "The mansion tax for residential properties between $1 million and $2 million is 1% of the full purchase price, not just the amount over $1 million. The tax applies throughout New York State, not just Manhattan. At $1,500,000, the buyer would owe $15,000 in mansion tax.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "mansion-tax",
+        "1-percent-bracket",
+        "full-purchase-price"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.2",
+      "question_text": "A buyer finances a co-op apartment purchase with a share loan. Compared to a condo purchase with a traditional mortgage, the co-op buyer will:",
+      "correct_answer": "Not pay mortgage recording tax",
+      "distractors": [
+        "Pay double the standard mortgage recording tax rate",
+        "Pay mortgage recording tax at the same rate as condos",
+        "Pay a reduced mansion tax rate"
+      ],
+      "explanation": "Co-op purchases are financed with share loans, not traditional mortgages, because the buyer is purchasing shares in a corporation rather than real property. Since share loans are not mortgages recorded against real property, they do not incur the mortgage recording tax. This is a significant cost advantage for co-op buyers.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "co-op",
+        "share-loan",
+        "mortgage-recording-tax",
+        "tax-exemption"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.2",
+      "question_text": "The mortgage recording tax in New York is paid by:",
+      "correct_answer": "The buyer",
+      "distractors": [
+        "The seller",
+        "The lender",
+        "Both parties equally"
+      ],
+      "explanation": "The mortgage recording tax is paid by the buyer (borrower) when a new mortgage is recorded. Rates vary by county, with New York City having the highest rates. This tax applies each time a new mortgage is recorded, which is why refinancing also triggers the tax.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "mortgage-recording-tax",
+        "buyer-pays",
+        "county-rates"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.3",
+      "question_text": "Which of the following closing costs is typically the SELLER's responsibility in a New York transaction?",
+      "correct_answer": "Real estate broker's commission",
+      "distractors": [
+        "Title insurance premium paid at closing",
+        "Mortgage recording tax on the new loan",
+        "Home inspection fee"
+      ],
+      "explanation": "In New York, the seller typically pays the real estate broker's commission, transfer taxes (both NYS and NYC RPTT), attorney fees, and costs to clear any existing liens. The buyer typically pays for title insurance, mortgage recording tax, appraisal, inspections, and lender fees.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "seller-closing-costs",
+        "commission",
+        "cost-allocation"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.3",
+      "question_text": "A closing is scheduled for March 15. The seller prepaid the full year's property taxes of $6,000 on January 1. How should the tax proration be handled at closing?",
+      "correct_answer": "Buyer reimburses seller for 292 days of prepaid taxes",
+      "distractors": [
+        "The seller receives no credit because taxes were voluntarily prepaid",
+        "The buyer pays only from April 1 forward per county rules",
+        "The full $6,000 is credited to the buyer at closing"
+      ],
+      "explanation": "Since the seller prepaid taxes for the full year but is transferring ownership on March 15, the buyer must reimburse the seller for the portion of taxes covering March 15 through December 31 (approximately 292 days). This proration ensures each party pays only for their period of ownership.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property-tax-proration",
+        "closing-adjustments",
+        "prepaid-taxes"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.3",
+      "question_text": "At closing, the seller of a rental property has collected $3,000 in security deposits from tenants. How are these deposits handled?",
+      "correct_answer": "Security deposits are transferred to the buyer",
+      "distractors": [
+        "The seller retains all deposits collected",
+        "Deposits are returned to tenants at closing",
+        "Deposits are split equally between buyer and seller"
+      ],
+      "explanation": "Security deposits belong to the tenants and must be transferred to the new owner (buyer) at closing. The buyer assumes responsibility for holding and eventually returning the deposits in accordance with New York law. The seller cannot retain security deposits after selling the property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "security-deposits",
+        "closing-adjustments",
+        "rental-property",
+        "tenant-protection"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.3",
+      "question_text": "A buyer purchases a NYC condo for $1,200,000 with a $960,000 mortgage. Identify which combination of taxes the buyer is personally responsible for paying:",
+      "correct_answer": "Mansion tax and mortgage recording tax",
+      "distractors": [
+        "NYS transfer tax and NYC RPTT",
+        "NYS transfer tax and mansion tax",
+        "NYC RPTT and mortgage recording tax only"
+      ],
+      "explanation": "The buyer pays the mansion tax (1% on purchases of $1M+) and the mortgage recording tax (on the $960,000 mortgage). The NYS transfer tax and NYC RPTT are both seller responsibilities. Understanding which party pays which tax is essential for accurate closing cost estimates.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "buyer-taxes",
+        "mansion-tax",
+        "mortgage-recording-tax",
+        "tax-allocation"
+      ]
+    },
+    {
+      "key_topic_ref": "NY-14.3",
+      "question_text": "A seller in NYC sells a property for $3,500,000. Which taxes must the SELLER pay at closing?",
+      "correct_answer": "NYS transfer tax at 0.65% and NYC RPTT at 1.425%",
+      "distractors": [
+        "Mansion tax at 1% and NYS transfer tax at 0.4%",
+        "NYC RPTT at 1% and mortgage recording tax",
+        "NYS transfer tax at 0.4% and mansion tax at 1.25%"
+      ],
+      "explanation": "For a $3,500,000 NYC sale, the seller pays the NYS transfer tax at the higher 0.65% rate (applies at $3M+) and the NYC RPTT at 1.425% (applies at $500K+). The mansion tax is the buyer's responsibility, and the mortgage recording tax applies to the buyer's mortgage.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "seller-taxes",
+        "NYS-transfer-tax",
+        "NYC-RPTT",
+        "high-value-sale"
+      ]
+    }
+  ]
+}

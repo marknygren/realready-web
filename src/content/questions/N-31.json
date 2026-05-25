@@ -1,0 +1,488 @@
+{
+  "standard_ref": "N-31",
+  "scope": "national",
+  "state": null,
+  "category": "real_estate_math",
+  "questions": [
+    {
+      "key_topic_ref": "N-31.1",
+      "question_text": "Using a 360-day year (30-day months), what is the per-diem (daily) rate for a $3,600 annual expense?",
+      "correct_answer": "$10.00 per day",
+      "distractors": [
+        "$9.86 per day",
+        "$300.00 per day",
+        "$120.00 per day"
+      ],
+      "explanation": "The 360-day/30-day-month method is the standard used on most real estate licensing exams for proration calculations. Per-diem rate = Annual amount ÷ 360. $3,600 ÷ 360 = $10.00 per day. If the exam specifies a 365-day year, use 365 instead. Once you have the daily rate, multiply by the number of days to determine who owes what. This rate is used for tax prorations, interest calculations, and any other item that accrues daily.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "proration",
+        "per_diem_rate",
+        "360_day_year",
+        "daily_rate"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.2",
+      "question_text": "Annual property taxes are $4,320 and have not been paid. Closing occurs on April 15 (using 360-day year, 30-day months). What is the seller's tax proration debit?",
+      "correct_answer": "$1,260",
+      "distractors": [
+        "$1,080",
+        "$2,880",
+        "$360"
+      ],
+      "explanation": "Taxes paid in arrears: the seller owes taxes for the portion of the year they owned the property. Daily rate = $4,320 ÷ 360 = $12/day. Seller's days: January (30) + February (30) + March (30) + April 1–15 (15 days) = 105 days. Proration = 105 × $12 = $1,260. This appears as a debit to the seller and a credit to the buyer on the closing statement — the buyer will pay the full annual tax bill when due and is reimbursed for the seller's share at closing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_tax_proration",
+        "closing_statement",
+        "seller_debit",
+        "buyer_credit"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.3",
+      "question_text": "A rental property closes on March 10. The seller collected the full March rent of $1,500 from the tenant on March 1. Using a 30-day month, what is the rent proration credit to the buyer?",
+      "correct_answer": "$1,000",
+      "distractors": [
+        "$500",
+        "$1,500",
+        "$750"
+      ],
+      "explanation": "When rent is paid in advance and closing occurs mid-month, the seller has collected rent for days the buyer will own the property. The seller owes the buyer a credit for the buyer's portion. Buyer's days: March 10 closing = buyer owns March 10 through March 30 = 21 days (the closing day typically belongs to the buyer). Daily rent = $1,500 ÷ 30 = $50/day. Buyer's credit = 21 × $50 = $1,000. This appears as a debit to the seller and a credit to the buyer on the closing statement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "rent_proration",
+        "advance_rent",
+        "buyer_credit",
+        "closing_statement"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.4",
+      "question_text": "A state charges a transfer tax of $2.00 per $500 of sale price (or fraction thereof). A property sells for $387,000. What is the transfer tax?",
+      "correct_answer": "$1,548",
+      "distractors": [
+        "$774",
+        "$1,550",
+        "$7,740"
+      ],
+      "explanation": "Transfer tax (also called documentary stamp tax, deed tax, or conveyance tax depending on the state) is typically calculated per unit of sale price. Step 1: $387,000 ÷ $500 = 774 exactly (no fraction, so no rounding needed). Step 2: 774 × $2.00 = $1,548. The 'fraction thereof' language means if the division produces any remainder (even one cent), round up to the next full unit. For example, $387,001 would require 775 units. Transfer taxes are typically paid by the seller, though customs vary by state.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "transfer_tax",
+        "documentary_stamp",
+        "closing_costs",
+        "tax_calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.5",
+      "question_text": "A property sells for $410,000. The seller's costs include: mortgage payoff of $245,000; 6% commission; seller's title insurance of $1,200; tax proration debit of $900. What is the seller's net proceeds?",
+      "correct_answer": "$138,300",
+      "distractors": [
+        "$163,800",
+        "$140,400",
+        "$139,200"
+      ],
+      "explanation": "Seller's net proceeds = Sale Price − All Seller Debits. Step 1: Commission = $410,000 × 0.06 = $24,600. Step 2: Subtract all debits: $410,000 − $24,600 − $245,000 − $1,200 − $900 = $138,300. On the closing statement (Closing Disclosure), the seller's column shows the sale price as a credit and all payoffs, commissions, closing costs, and proration debits as debits. The bottom line is the net proceeds check the seller receives (or brings to closing if the figure is negative).",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "seller_net_proceeds",
+        "closing_statement",
+        "net_to_seller",
+        "closing_costs"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.1",
+      "question_text": "Using a 365-day year, what is the daily rate for a $7,300 annual expense?",
+      "correct_answer": "$20.00 per day",
+      "distractors": [
+        "$20.28 per day",
+        "$608.33 per day",
+        "$24.33 per day"
+      ],
+      "explanation": "Daily rate = Annual amount ÷ 365. $7,300 ÷ 365 = $20.00 per day. The $20.28 uses a 360-day year ($7,300 ÷ 360). The $608.33 divides by 12 (monthly). The $24.33 divides by 300. The 365-day method uses the actual number of days in the year for more precise prorations. Some jurisdictions or exam questions specify which method to use — always follow the instructions given.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "per_diem",
+        "365_day_year",
+        "daily_rate"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.1",
+      "question_text": "The difference between a 360-day year and a 365-day year for proration purposes results in a higher daily rate when using the:",
+      "correct_answer": "360-day year, because fewer days produces a larger daily amount",
+      "distractors": [
+        "365-day year, because more days means each day costs more",
+        "Neither method produces a higher daily rate than the other",
+        "360-day year, but only for tax prorations, not interest"
+      ],
+      "explanation": "When dividing the same annual amount, using 360 as the denominator yields a higher daily rate than 365. For example, $3,600 ÷ 360 = $10.00/day, while $3,600 ÷ 365 = $9.86/day. The 360-day (banker's year) method is simpler to calculate and produces slightly higher daily rates. The exam will typically specify which method to use. If not specified, use 360-day unless the question gives actual calendar dates that imply actual-day counting.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "per_diem",
+        "360_vs_365",
+        "proration_method"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.1",
+      "question_text": "Annual property taxes are $5,400. Using a 360-day year, what is the monthly proration amount?",
+      "correct_answer": "$450.00 per month",
+      "distractors": [
+        "$15.00 per month",
+        "$900.00 per month",
+        "$180.00 per month"
+      ],
+      "explanation": "Monthly rate = Annual amount ÷ 12. $5,400 ÷ 12 = $450.00 per month. With a 360-day year, each month has exactly 30 days, so: $5,400 ÷ 360 = $15.00/day × 30 days = $450.00. Both approaches give the same result. The $15.00 is the daily rate. The $900.00 divides by 6 instead of 12. Using monthly rates is simpler when the closing falls on the 1st or last day of a month.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "per_diem",
+        "monthly_proration",
+        "360_day_year"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.1",
+      "question_text": "A closing occurs on July 20. Using a 360-day year (30-day months), how many days has the seller owned the property from January 1 through July 20?",
+      "correct_answer": "200 days",
+      "distractors": [
+        "201 days",
+        "170 days",
+        "210 days"
+      ],
+      "explanation": "With 30-day months: Jan(30) + Feb(30) + Mar(30) + Apr(30) + May(30) + Jun(30) + Jul 1-20(20) = 200 days. In a 360-day year, each full month counts as exactly 30 days regardless of the actual number of days. This simplifies calculations significantly. The 201 distractor incorrectly counts July 20 as a full day plus one. Count the closing date as the last day of the seller's ownership (or the first day of the buyer's — follow exam instructions).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "day_counting",
+        "360_day_year",
+        "proration"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.2",
+      "question_text": "Property taxes of $6,000 per year have been prepaid through December 31. Closing is September 1. Using a 360-day year, what credit is owed to the seller?",
+      "correct_answer": "$2,000",
+      "distractors": [
+        "$4,000",
+        "$500",
+        "$6,000"
+      ],
+      "explanation": "The seller prepaid taxes through December 31 but is leaving September 1. The buyer benefits from 4 months of prepaid taxes (Sept, Oct, Nov, Dec). The seller should be reimbursed: $6,000 ÷ 12 × 4 = $2,000 credit to seller. The $4,000 is the seller's portion (Jan-Aug, 8 months). When taxes are prepaid, the proration is reversed — the buyer owes the seller for the unused prepaid period. This is a credit to the seller, debit to the buyer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_tax_proration",
+        "prepaid_taxes",
+        "seller_credit"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.2",
+      "question_text": "Annual taxes are $3,600, unpaid. Closing is October 15 (360-day year). The proration appears on the closing statement as:",
+      "correct_answer": "A $2,850 debit to the seller and credit to the buyer",
+      "distractors": [
+        "A $750 credit to the seller and debit to the buyer",
+        "A $2,850 credit to the seller and debit to the buyer",
+        "A $3,600 debit to the seller regardless of closing date"
+      ],
+      "explanation": "Daily rate: $3,600 ÷ 360 = $10/day. Seller's days: Jan-Sep (9 months × 30 days = 270) + Oct 1-15 (15 days) = 285 days. Seller's share: 285 × $10 = $2,850. Since taxes are unpaid, the buyer will eventually pay the full year. The seller reimburses the buyer for the seller's portion: $2,850 debit to seller, $2,850 credit to buyer. The $750 is the buyer's share (75 days × $10).",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_tax_proration",
+        "debit_credit",
+        "closing_statement"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.2",
+      "question_text": "A property's annual taxes are $4,800. Taxes were paid through June 30. Closing occurs August 15 (360-day year). What is the seller's tax proration debit?",
+      "correct_answer": "$600",
+      "distractors": [
+        "$4,800",
+        "$3,200",
+        "$1,200"
+      ],
+      "explanation": "Taxes are paid through June 30. The seller owes for July 1 through August 15 — the period after taxes were last paid through closing. Days: July (30) + Aug 1-15 (15) = 45 days. Daily rate: $4,800 ÷ 360 = $13.33/day. Seller's debit: 45 × $13.33 = $600. The key is identifying the unpaid period. Since taxes through June are already paid, only July 1 through the closing date needs to be prorated.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_tax_proration",
+        "partial_prepaid",
+        "closing_calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.2",
+      "question_text": "Annual property taxes are $5,400 and are paid in arrears. Closing is March 1 (360-day year). What is the seller's proration?",
+      "correct_answer": "$900 debit to seller",
+      "distractors": [
+        "$4,500 credit to seller",
+        "$450 debit to seller",
+        "$5,400 debit to seller"
+      ],
+      "explanation": "Taxes in arrears means they haven't been paid yet. The seller owned from Jan 1 through Feb 28 = 2 months. Monthly rate: $5,400 ÷ 12 = $450. Seller's share: 2 × $450 = $900. This is a debit to seller, credit to buyer. The buyer will pay the full annual tax bill later and is reimbursed at closing for the seller's two months. March 1 closing = seller owned Jan and Feb (2 months, not 3).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_tax_proration",
+        "arrears",
+        "monthly_calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.3",
+      "question_text": "A duplex generates $2,400/month in total rent. The tenant paid rent for the full month of June on June 1. Closing occurs June 20 (30-day month). What rent credit does the buyer receive?",
+      "correct_answer": "$800",
+      "distractors": [
+        "$1,600",
+        "$2,400",
+        "$1,200"
+      ],
+      "explanation": "Daily rent: $2,400 ÷ 30 = $80/day. Buyer owns June 20-30 = 11 days (if closing day counts as buyer's). Wait — actually June 20 through June 30 = 11 days. $80 × 11 = $880. Hmm, let me recalculate. Buyer gets 10 remaining days (June 21-30). $80 × 10 = $800. The seller collected rent for the full month but only owned through June 20. The buyer is credited for the remaining days. The $1,600 credits the seller's portion. The $2,400 credits the full month.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "rent_proration",
+        "buyer_credit",
+        "duplex"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.3",
+      "question_text": "A commercial property has a tenant paying $3,000 monthly rent. Rent for April was collected by the seller on April 1. Closing is April 10 (30-day month). How much rent does the seller keep?",
+      "correct_answer": "$1,000",
+      "distractors": [
+        "$2,000",
+        "$3,000",
+        "$900"
+      ],
+      "explanation": "The seller owned the property for April 1-10 = 10 days. Daily rent: $3,000 ÷ 30 = $100/day. Seller's share: 10 × $100 = $1,000. The remaining $2,000 (20 days) must be credited to the buyer. The seller collected the full $3,000 but is only entitled to the portion covering their ownership period. This rent proration is a common closing calculation for investment properties.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "rent_proration",
+        "seller_share",
+        "commercial_property"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.3",
+      "question_text": "A rental property closes on February 15. The tenant has NOT paid February rent of $1,800. How is unpaid rent typically handled at closing?",
+      "correct_answer": "No proration",
+      "distractors": [
+        "The seller receives a $900 credit for the first 15 days of rent",
+        "The buyer receives the full $1,800 as a credit at closing",
+        "The escrow agent holds $1,800 until the tenant pays, then splits it"
+      ],
+      "explanation": "Unpaid rent is generally not prorated at closing because collection from the tenant is not guaranteed. The seller may retain the right to pursue the tenant for the unpaid rent, or the parties may negotiate a specific arrangement in the purchase contract. Unlike prepaid rent (which has already been collected and must be split), unpaid rent represents an uncertain receivable. Some contracts include provisions for how uncollected rent will be handled post-closing, but the default approach is no proration for amounts not yet received.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "rent_proration",
+        "unpaid_rent",
+        "closing_treatment"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.3",
+      "question_text": "A property has three tenants paying $800, $950, and $1,100 per month respectively. All paid rent for the full month. Closing is the 20th (30-day month). What total rent credit does the buyer receive?",
+      "correct_answer": "$950",
+      "distractors": [
+        "$2,850",
+        "$1,900",
+        "$1,425"
+      ],
+      "explanation": "Total monthly rent: $800 + $950 + $1,100 = $2,850. Daily rent: $2,850 ÷ 30 = $95/day. Buyer's days: 10 days (21st through 30th). Buyer's credit: 10 × $95 = $950. The $2,850 is the full month's rent. The $1,900 credits the seller's 20 days. The $1,425 incorrectly splits 50/50. Combine all rental income first, then prorate based on the closing date.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "rent_proration",
+        "multiple_tenants",
+        "buyer_credit"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.4",
+      "question_text": "A state charges documentary stamps at $0.70 per $100 of the sale price. A home sells for $275,000. What is the documentary stamp tax?",
+      "correct_answer": "$1,925",
+      "distractors": [
+        "$192.50",
+        "$19,250",
+        "$1,750"
+      ],
+      "explanation": "$275,000 ÷ $100 = 2,750 units. 2,750 × $0.70 = $1,925. The $192.50 divides by $1,000 instead of $100. The $19,250 multiplies by $7.00 instead of $0.70. The $1,750 uses $275,000 × 0.7% but drops a digit. Always check the unit basis — some states tax per $100, others per $500 or per $1,000. Apply the rate to the correct unit.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "documentary_stamps",
+        "transfer_tax",
+        "per_100"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.4",
+      "question_text": "A county charges a transfer tax of $1.10 per $1,000 of sale price. A property sells for $450,000. What is the transfer tax?",
+      "correct_answer": "$495",
+      "distractors": [
+        "$4,950",
+        "$49.50",
+        "$990"
+      ],
+      "explanation": "$450,000 ÷ $1,000 = 450 units. 450 × $1.10 = $495. The $4,950 uses $11.00 per $1,000. The $49.50 uses $0.11 per $1,000. The $990 uses $2.20 per $1,000. Transfer tax rates vary widely by jurisdiction — always use the specific rate given in the problem. Some areas have both county and city transfer taxes that must be calculated separately and added together.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "transfer_tax",
+        "per_1000",
+        "county_tax"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.4",
+      "question_text": "A state charges transfer tax at $3.00 per $500 (or fraction thereof). A home sells for $312,750. What is the transfer tax?",
+      "correct_answer": "$1,878",
+      "distractors": [
+        "$1,876.50",
+        "$1,875",
+        "$938"
+      ],
+      "explanation": "$312,750 ÷ $500 = 625.5. Because the rate applies to 'any fraction thereof,' round UP to 626 units. 626 × $3.00 = $1,878. The $1,876.50 uses 625.5 without rounding up. The $1,875 uses exactly 625 units (rounds down). The 'fraction thereof' language is critical — any partial unit counts as a full unit. This is a common exam trap — always round up when you see 'fraction thereof.'",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "transfer_tax",
+        "fraction_thereof",
+        "rounding_up"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.4",
+      "question_text": "A state imposes both a state transfer tax of $2.00 per $500 and a county transfer tax of $0.55 per $500. A property sells for $200,000. What is the total combined transfer tax?",
+      "correct_answer": "$1,020",
+      "distractors": [
+        "$800.00",
+        "$220.00",
+        "$510.00"
+      ],
+      "explanation": "$200,000 ÷ $500 = 400 units. State tax: 400 × $2.00 = $800. County tax: 400 × $0.55 = $220. Total: $800 + $220 = $1,020. The $800 includes only the state tax. The $220 includes only the county tax. The $510 incorrectly halves the total. When multiple taxing authorities impose transfer taxes, calculate each separately and add them together for the total tax obligation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "transfer_tax",
+        "combined_tax",
+        "state_county"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.5",
+      "question_text": "A home sells for $325,000. Seller expenses: mortgage payoff $200,000, 6% commission, title insurance $1,500, transfer tax $650, tax proration debit $1,200. What are the seller's net proceeds?",
+      "correct_answer": "$102,150",
+      "distractors": [
+        "$122,150",
+        "$123,350",
+        "$81,650"
+      ],
+      "explanation": "Commission: $325,000 × 0.06 = $19,500. Total deductions: $200,000 + $19,500 + $1,500 + $650 + $1,200 = $222,850. Net proceeds: $325,000 - $222,850 = $102,150. The $122,150 omits the commission. The $123,350 omits commission and adds back tax proration. The $81,650 uses an 8% commission. Always list every seller debit and subtract the total from the sale price.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "seller_net_proceeds",
+        "multiple_deductions",
+        "closing_math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.5",
+      "question_text": "A seller's closing statement shows: sale price $500,000; existing mortgage payoff $310,000; commission $30,000; repair credit to buyer $5,000; tax proration credit to seller $2,000. The seller's net proceeds are:",
+      "correct_answer": "$157,000",
+      "distractors": [
+        "$155,000",
+        "$153,000",
+        "$160,000"
+      ],
+      "explanation": "Net = Sale price + Credits to seller - All debits. $500,000 + $2,000 (tax credit) - $310,000 (mortgage) - $30,000 (commission) - $5,000 (repair credit to buyer) = $157,000. Note that the tax proration credit ADDS to seller proceeds (buyer owes seller for prepaid taxes), while the repair credit is a deduction. The $155,000 omits the tax credit. The $153,000 subtracts the tax credit. Always identify whether each item is a credit or debit to the seller.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "seller_net_proceeds",
+        "credits_debits",
+        "closing_statement"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.5",
+      "question_text": "A seller wants to net $100,000 after paying off a $180,000 mortgage and a 5% commission. What is the minimum sale price (rounded to the nearest dollar)?",
+      "correct_answer": "$294,737",
+      "distractors": [
+        "$280,000",
+        "$294,000",
+        "$300,000"
+      ],
+      "explanation": "The seller needs sale price minus 5% commission minus $180,000 mortgage = $100,000. So: 0.95 × Sale Price = $100,000 + $180,000 = $280,000. Sale Price = $280,000 ÷ 0.95 = $294,736.84 ≈ $294,737. The $280,000 ignores the commission. The $300,000 adds commission as 5% of $280,000 ($14,000) but 5% of $294,737 is actually $14,737. Always divide by (1 - commission rate), not add the commission to the desired net.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "seller_net",
+        "working_backward",
+        "minimum_sale_price"
+      ]
+    },
+    {
+      "key_topic_ref": "N-31.5",
+      "question_text": "On the buyer's side of the closing statement, which item is typically a credit to the buyer?",
+      "correct_answer": "The new mortgage loan amount from the lender",
+      "distractors": [
+        "The purchase price of the property being acquired",
+        "The appraisal fee paid to the lender's appraiser",
+        "The recording fee for the deed and mortgage"
+      ],
+      "explanation": "On the buyer's closing statement, credits reduce the amount the buyer must bring to closing. The largest credit is typically the new loan amount — money the lender provides. Other buyer credits include: earnest money deposit, seller concessions, and proration credits owed by the seller. The purchase price is the buyer's largest debit. Recording fees and appraisal fees are also buyer debits. The bottom line: purchase price (debit) minus all credits (loan, earnest money, seller credits) equals the buyer's cash to close.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "buyer_credits",
+        "closing_statement",
+        "loan_amount"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MS-14",
+  "scope": "state",
+  "state": "MS",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MS-14.1",
+      "question_text": "How long must a Mississippi broker retain transaction records?",
+      "correct_answer": "3 years",
+      "distractors": ["5 years", "7 years", "1 year"],
+      "explanation": "Mississippi requires brokers to retain all transaction records for a minimum of 3 years. This includes contracts, listing agreements, closing statements, correspondence, and trust account records.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["records retention", "3-year rule", "broker obligations"]
+    },
+    {
+      "key_topic_ref": "MS-14.1",
+      "question_text": "Which of the following must a Mississippi broker retain for 3 years?",
+      "correct_answer": "All transaction-related documents",
+      "distractors": ["Only signed purchase contracts", "Only trust account bank statements", "Only documents the buyer signs"],
+      "explanation": "The 3-year retention requirement applies to ALL transaction records including contracts, listing agreements, closing statements, correspondence, and trust account records.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["required records", "retention", "transaction documents"]
+    },
+    {
+      "key_topic_ref": "MS-14.1",
+      "question_text": "A former client sues a broker over a transaction from 2 years ago. When may the broker destroy the related records?",
+      "correct_answer": "After the litigation concludes",
+      "distractors": ["At the 3-year mark regardless", "Immediately upon the attorney's advice", "Records cannot be destroyed during the suit"],
+      "explanation": "If litigation is pending, records must be retained until the matter is concluded, even if the standard 3-year retention period has passed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["litigation hold", "retention period", "records"]
+    },
+    {
+      "key_topic_ref": "MS-14.1",
+      "question_text": "A broker's trust account records from a transaction completed 2 years ago are requested by MREC. Must the broker produce them?",
+      "correct_answer": "Yes, they are within the retention period",
+      "distractors": ["No, trust records only need 1 year retention", "Only if MREC obtains a court order", "Only the bank provides trust records"],
+      "explanation": "Trust account records are among the required documents subject to the 3-year retention rule. Records from 2 years ago are well within the retention period and must be produced for MREC inspection.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "MREC inspection", "retention"]
+    },
+    {
+      "key_topic_ref": "MS-14.1",
+      "question_text": "Correspondence related to a transaction closed 4 years ago has no pending litigation. Must the broker still retain it?",
+      "correct_answer": "No, the 3-year period has expired",
+      "distractors": ["Yes, correspondence must be kept 5 years", "Yes, all records are permanent", "Only if the client requests retention"],
+      "explanation": "Without pending litigation, the 3-year retention period applies. Since 4 years have passed with no active legal proceedings, the broker is no longer required to retain the correspondence.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["retention period", "correspondence", "expiration"]
+    },
+    {
+      "key_topic_ref": "MS-14.2",
+      "question_text": "A Mississippi brokerage is closing permanently. What must happen to the transaction records?",
+      "correct_answer": "Properly transferred or stored",
+      "distractors": ["They may be destroyed immediately", "MREC takes possession automatically", "The closing attorney retains them"],
+      "explanation": "When a brokerage closes, records must be properly transferred to another party or placed in secure storage. The records cannot simply be abandoned or destroyed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["business closure", "records transfer", "storage"]
+    },
+    {
+      "key_topic_ref": "MS-14.2",
+      "question_text": "After closing his brokerage, a broker transfers all records to a storage facility. Who remains responsible for the records?",
+      "correct_answer": "The broker until retention expires",
+      "distractors": ["The storage facility operator", "MREC assumes all responsibility", "No one after the transfer"],
+      "explanation": "The broker remains personally responsible for records during the entire retention period, even after closing the business and transferring records to storage.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["broker responsibility", "business closure", "retention"]
+    },
+    {
+      "key_topic_ref": "MS-14.2",
+      "question_text": "A retiring broker's partner agrees to take custody of all firm records. Is this arrangement permitted?",
+      "correct_answer": "Yes, records may be transferred properly",
+      "distractors": ["No, only MREC can accept records", "Only if a court approves the transfer", "No, records must stay with the original broker"],
+      "explanation": "Records may be properly transferred to another broker or party when a brokerage closes. The key requirement is that the records remain accessible and secure during the retention period.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["records transfer", "business closure", "custody"]
+    },
+    {
+      "key_topic_ref": "MS-14.2",
+      "question_text": "MREC requests records from a brokerage that closed 18 months ago. The former broker says he discarded them at closing. What is the consequence?",
+      "correct_answer": "The broker violated retention requirements",
+      "distractors": ["No violation if the firm is dissolved", "MREC must request from the Secretary of State", "No consequence after a firm closes"],
+      "explanation": "The broker remains responsible for records during the retention period regardless of business closure. Discarding records within the 3-year period violates Mississippi retention requirements.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["violation", "retention", "broker responsibility"]
+    },
+    {
+      "key_topic_ref": "MS-14.2",
+      "question_text": "A broker is merging her firm with another brokerage. What happens to existing transaction records?",
+      "correct_answer": "They transfer to the surviving brokerage",
+      "distractors": ["They must be sent to MREC for safekeeping", "They are destroyed at the merger date", "Each agent takes their own records"],
+      "explanation": "In a merger, existing records are properly transferred to the surviving brokerage entity. The new firm assumes the retention obligation for the remaining retention period.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["merger", "records transfer", "business transition"]
+    },
+    {
+      "key_topic_ref": "MS-14.3",
+      "question_text": "Are electronic transaction records legally acceptable in Mississippi real estate?",
+      "correct_answer": "Yes, with the same standing as paper",
+      "distractors": ["No, paper originals are required", "Only for transactions under $100,000", "Only if notarized digitally"],
+      "explanation": "Electronic records are fully acceptable in Mississippi and carry the same legal standing as paper records. They must be accessible and available for MREC inspection.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["electronic records", "legal standing", "paper equivalence"]
+    },
+    {
+      "key_topic_ref": "MS-14.3",
+      "question_text": "MREC arrives for an audit and requests to view electronic records. What is the broker's obligation?",
+      "correct_answer": "Make records accessible for inspection",
+      "distractors": ["Print all records before the audit", "Request 30 days to compile records", "Provide MREC with login credentials"],
+      "explanation": "Electronic records must be accessible and available for MREC inspection. The broker must be able to produce them in a reviewable format when requested.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MREC inspection", "electronic records", "accessibility"]
+    },
+    {
+      "key_topic_ref": "MS-14.3",
+      "question_text": "A broker stores all transaction records in a cloud-based system. Is this method compliant with Mississippi law?",
+      "correct_answer": "Yes, if accessible for inspection",
+      "distractors": ["No, records must be stored locally", "Only with written MREC approval", "Only for records less than 1 year old"],
+      "explanation": "Cloud storage is an acceptable form of electronic record keeping in Mississippi, provided the records remain accessible and can be produced for MREC inspection on request.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["cloud storage", "electronic records", "compliance"]
+    },
+    {
+      "key_topic_ref": "MS-14.3",
+      "question_text": "A broker maintains some records electronically and others on paper. Is this permitted?",
+      "correct_answer": "Yes, a hybrid approach is acceptable",
+      "distractors": ["No, all records must be the same format", "Only if MREC approves the system", "Only for the first year of operation"],
+      "explanation": "Mississippi does not require all records to be in a single format. A broker may maintain a mix of electronic and paper records as long as all records are accessible and meet the retention requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["hybrid records", "electronic records", "paper records"]
+    },
+    {
+      "key_topic_ref": "MS-14.3",
+      "question_text": "A broker's electronic records system crashes and data is lost. Has the broker violated retention requirements?",
+      "correct_answer": "Yes, if records cannot be reproduced",
+      "distractors": ["No, system failures are excused", "Only if MREC requested records first", "No, electronic records are discretionary"],
+      "explanation": "The broker is responsible for maintaining accessible records during the retention period. A system crash resulting in permanent data loss means the broker has failed to meet the retention obligation, highlighting the importance of backups.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["data loss", "retention violation", "electronic records"]
+    }
+  ]
+}

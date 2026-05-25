@@ -1,0 +1,173 @@
+{
+  "standard_ref": "TN-01",
+  "scope": "state",
+  "state": "TN",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "TN-01.1",
+      "question_text": "Under which Tennessee state department does TREC operate?",
+      "correct_answer": "Commerce and Insurance",
+      "distractors": ["Financial Institutions", "Secretary of State", "Revenue and Taxation"],
+      "explanation": "TREC operates under the Tennessee Department of Commerce and Insurance, which oversees various regulatory boards including the real estate commission.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TREC", "commission structure", "department"]
+    },
+    {
+      "key_topic_ref": "TN-01.1",
+      "question_text": "Which license types does TREC have authority to regulate?",
+      "correct_answer": "Broker, affiliate broker, timeshare, acquisition",
+      "distractors": ["Broker and affiliate broker only", "Broker, salesperson, and appraiser", "Broker, affiliate broker, and home inspector"],
+      "explanation": "Tennessee issues four license types: Broker, Affiliate Broker, Timeshare Salesperson, and Acquisition Agent. All four fall under TREC's regulatory authority.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TREC", "license types", "regulation"]
+    },
+    {
+      "key_topic_ref": "TN-01.1",
+      "question_text": "What is the entry-level real estate license called in Tennessee?",
+      "correct_answer": "Affiliate broker",
+      "distractors": ["Salesperson", "Associate broker", "Licensed agent"],
+      "explanation": "Tennessee uses the term 'affiliate broker' for the entry-level license, equivalent to 'salesperson' in most other states. An affiliate broker must work under a principal broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["affiliate broker", "terminology", "licensing"]
+    },
+    {
+      "key_topic_ref": "TN-01.1",
+      "question_text": "A new affiliate broker asks about TREC's powers over licensees. Which best describes TREC's authority?",
+      "correct_answer": "Licensing, enforcement, and rulemaking",
+      "distractors": ["Licensing and education approval only", "Enforcement and mediation of disputes", "Rulemaking and property tax collection"],
+      "explanation": "TREC has broad authority encompassing licensing (issuing/renewing licenses), enforcement (investigating complaints and imposing discipline), and rulemaking (adopting rules under Chapter 1260).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["TREC", "authority", "powers"]
+    },
+    {
+      "key_topic_ref": "TN-01.1",
+      "question_text": "What is the primary statute TREC administers for real estate licensing?",
+      "correct_answer": "The Real Estate Broker License Act",
+      "distractors": ["The Tennessee Real Property Code", "The Real Estate Practice Standards Act", "The Tennessee Licensing Reform Act"],
+      "explanation": "TREC administers the Tennessee Real Estate Broker License Act (T.C.A. Title 62, Chapter 13), which is the foundational statute governing real estate licensing in the state.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TREC", "License Act", "statute"]
+    },
+    {
+      "key_topic_ref": "TN-01.2",
+      "question_text": "Two affiliate brokers at different firms dispute their commission split on a completed sale. Where should this be resolved?",
+      "correct_answer": "In civil court as a private matter",
+      "distractors": ["Before TREC at a hearing", "Through mandatory TREC mediation", "By the county Register of Deeds"],
+      "explanation": "TREC does not mediate commission disputes between licensees — these are civil matters. TREC's jurisdiction covers licensed activities and regulatory compliance, not private financial disputes.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["TREC", "jurisdiction", "commission disputes"]
+    },
+    {
+      "key_topic_ref": "TN-01.2",
+      "question_text": "A consumer files a complaint about a licensee's personal debt unrelated to real estate. How should TREC respond?",
+      "correct_answer": "Decline jurisdiction over the matter",
+      "distractors": ["Investigate and hold a formal hearing", "Suspend the licensee's license immediately", "Refer the complaint to the attorney general"],
+      "explanation": "TREC jurisdiction covers only licensed activities, not personal disputes. A personal debt matter unrelated to real estate practice falls outside TREC's regulatory authority.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["TREC", "jurisdiction", "complaints"]
+    },
+    {
+      "key_topic_ref": "TN-01.2",
+      "question_text": "Which matter falls within TREC's jurisdiction?",
+      "correct_answer": "A licensee misrepresenting property condition",
+      "distractors": ["A commission dispute between two agents", "A licensee's personal bankruptcy filing", "A neighbor's property boundary dispute"],
+      "explanation": "Misrepresentation during licensed activity is a violation of the License Act and falls within TREC's jurisdiction. Commission disputes, personal financial matters, and boundary issues are outside its authority.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["TREC", "jurisdiction", "misrepresentation"]
+    },
+    {
+      "key_topic_ref": "TN-01.2",
+      "question_text": "TREC has regulatory authority over all of the following EXCEPT:",
+      "correct_answer": "Real estate appraisers",
+      "distractors": ["Affiliate brokers", "Timeshare salespersons", "Acquisition agents"],
+      "explanation": "TREC regulates brokers, affiliate brokers, timeshare salespersons, and acquisition agents. Real estate appraisers are regulated by the separate Tennessee Real Estate Appraiser Commission.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["TREC", "jurisdiction", "license types"]
+    },
+    {
+      "key_topic_ref": "TN-01.3",
+      "question_text": "Who may file a complaint against a Tennessee licensee with TREC?",
+      "correct_answer": "Any person",
+      "distractors": ["Only the affected buyer or seller", "Only another licensed agent", "Only the principal broker"],
+      "explanation": "TREC can receive complaints from any person regarding licensee conduct. There is no requirement that the complainant be a party to the transaction or hold a license.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TREC", "complaints", "enforcement"]
+    },
+    {
+      "key_topic_ref": "TN-01.3",
+      "question_text": "TREC hearings on licensee complaints follow which procedural framework?",
+      "correct_answer": "Uniform Administrative Procedures Act",
+      "distractors": ["Tennessee Rules of Civil Procedure", "Federal Administrative Procedure Act", "TREC Internal Hearing Guidelines"],
+      "explanation": "All TREC hearings follow the Uniform Administrative Procedures Act (UAPA), which governs administrative hearings across Tennessee state agencies.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TREC", "hearings", "UAPA"]
+    },
+    {
+      "key_topic_ref": "TN-01.3",
+      "question_text": "After TREC imposes a disciplinary action, to which court may a licensee appeal?",
+      "correct_answer": "Chancery Court",
+      "distractors": ["Circuit Court", "Supreme Court of Tennessee", "Federal District Court"],
+      "explanation": "TREC findings and disciplinary actions may be appealed to Chancery Court, which provides judicial review of administrative decisions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TREC", "appeals", "Chancery Court"]
+    },
+    {
+      "key_topic_ref": "TN-01.3",
+      "question_text": "A buyer files a complaint that an affiliate broker concealed a known foundation defect. What is the correct TREC process sequence?",
+      "correct_answer": "Investigation, notification, hearing, discipline",
+      "distractors": ["Hearing, investigation, notification, appeal", "Notification, mediation, hearing, discipline", "Investigation, mediation, arbitration, ruling"],
+      "explanation": "TREC follows a structured process: investigation of the complaint, notification to the licensee, hearing under UAPA procedures, then potential disciplinary action if warranted.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["TREC", "complaint process", "enforcement"]
+    },
+    {
+      "key_topic_ref": "TN-01.3",
+      "question_text": "TREC discovers an unlicensed person conducting real estate transactions. What enforcement tool can TREC use?",
+      "correct_answer": "Cease and desist order",
+      "distractors": ["License suspension", "Civil penalty fine only", "Mandatory probation period"],
+      "explanation": "TREC can issue cease and desist orders to stop unlicensed or improper activity. License suspension only applies to licensees; an unlicensed person has no license to suspend.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["TREC", "cease and desist", "enforcement"]
+    },
+    {
+      "key_topic_ref": "TN-01.2",
+      "question_text": "A licensee's neighbor sues them over a fence line dispute. Does TREC have jurisdiction?",
+      "correct_answer": "No, personal property disputes are outside TREC",
+      "distractors": ["Yes, all property matters involve TREC", "Yes, if the licensee used their license", "Only if the neighbor files a formal complaint"],
+      "explanation": "TREC jurisdiction covers only licensed real estate activities. A personal fence line dispute between neighbors is a civil matter outside TREC's regulatory scope.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["TREC", "jurisdiction", "personal disputes"]
+    }
+  ]
+}

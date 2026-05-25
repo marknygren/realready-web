@@ -1,0 +1,233 @@
+{
+  "standard_ref": "OR-13",
+  "scope": "state",
+  "state": "OR",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OR-13.1",
+      "question_text": "Which legislation established Oregon's statewide land use planning program?",
+      "correct_answer": "Senate Bill 100 (1973)",
+      "distractors": [
+        "House Bill 2001 (1969)",
+        "Senate Bill 458 (1981)",
+        "Measure 37 (2004)"
+      ],
+      "explanation": "Senate Bill 100, passed in 1973, created one of the most comprehensive land use planning systems in the United States. It required all Oregon cities and counties to adopt comprehensive plans consistent with statewide planning goals.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SB100", "statewide_planning", "legislation"]
+    },
+    {
+      "key_topic_ref": "OR-13.1",
+      "question_text": "A county's new comprehensive plan omits protections for wetlands and wildlife habitat. Which statewide planning goal is most likely violated?",
+      "correct_answer": "Goal 5 — Natural Resources",
+      "distractors": [
+        "Goal 3 — Agricultural Lands",
+        "Goal 14 — Urbanization",
+        "Goal 4 — Forest Lands"
+      ],
+      "explanation": "Goal 5 requires the protection of natural resources, scenic areas, and open spaces, including wetlands and wildlife habitat. A comprehensive plan that fails to address these protections would be inconsistent with Goal 5.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Goal_5", "natural_resources", "comprehensive_plan"]
+    },
+    {
+      "key_topic_ref": "OR-13.1",
+      "question_text": "Which state agency administers Oregon's statewide planning goals on a day-to-day basis?",
+      "correct_answer": "DLCD",
+      "distractors": [
+        "LCDC",
+        "LUBA",
+        "DEQ"
+      ],
+      "explanation": "The Department of Land Conservation and Development (DLCD) is the state agency that administers the planning program daily. LCDC is the citizen commission that adopts statewide planning goals, while DLCD staff carry out the commission's directives.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["DLCD", "LCDC", "administration"]
+    },
+    {
+      "key_topic_ref": "OR-13.1",
+      "question_text": "An analyst is reviewing whether a rural county's plan adequately addresses timber resource preservation. Which statewide goal applies?",
+      "correct_answer": "Goal 4 — Forest Lands",
+      "distractors": [
+        "Goal 3 — Agricultural Lands",
+        "Goal 5 — Natural Resources",
+        "Goal 14 — Urbanization"
+      ],
+      "explanation": "Goal 4 specifically addresses the conservation and protection of forest lands for commercial timber production and related uses. While Goal 5 covers broader natural resources, timber resource preservation falls squarely under Goal 4.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Goal_4", "forest_lands", "comprehensive_plan"]
+    },
+    {
+      "key_topic_ref": "OR-13.1",
+      "question_text": "How many statewide planning goals must Oregon cities and counties address in their comprehensive plans?",
+      "correct_answer": "19 goals",
+      "distractors": [
+        "14 goals",
+        "10 goals",
+        "25 goals"
+      ],
+      "explanation": "Oregon's land use planning program includes 19 statewide planning goals covering topics from citizen involvement and land use planning to urbanization, energy, and the Willamette River Greenway. All local comprehensive plans must be consistent with these goals.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statewide_goals", "comprehensive_plan", "19_goals"]
+    },
+    {
+      "key_topic_ref": "OR-13.2",
+      "question_text": "A fast-growing city wants to annex farmland beyond its current boundary for new housing. What must the city first demonstrate?",
+      "correct_answer": "Insufficient buildable land inside the UGB",
+      "distractors": [
+        "Voter approval in a general election",
+        "The farmland has low productivity ratings",
+        "Adjacent county consent to the annexation"
+      ],
+      "explanation": "Before expanding an Urban Growth Boundary, a city must demonstrate that there is insufficient buildable land within the existing UGB to accommodate projected growth. Simply wanting more land or having low-productivity farmland nearby is not sufficient justification.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["UGB", "expansion", "buildable_land"]
+    },
+    {
+      "key_topic_ref": "OR-13.2",
+      "question_text": "What is the primary purpose of an Urban Growth Boundary in Oregon?",
+      "correct_answer": "Concentrate development and prevent sprawl",
+      "distractors": [
+        "Set maximum building heights in cities",
+        "Establish property tax assessment zones",
+        "Define school district boundaries"
+      ],
+      "explanation": "Urban Growth Boundaries separate urban land from rural land. Their primary purpose is to concentrate development inside the boundary to prevent urban sprawl, protect farm and forest land, and promote efficient use of public services and infrastructure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["UGB", "sprawl_prevention", "urbanization"]
+    },
+    {
+      "key_topic_ref": "OR-13.2",
+      "question_text": "A property owner disagrees with a county's denial of a zone change. To which body does the owner first appeal?",
+      "correct_answer": "LUBA",
+      "distractors": [
+        "Oregon Court of Appeals",
+        "LCDC",
+        "Circuit court in the county"
+      ],
+      "explanation": "The Land Use Board of Appeals (LUBA) is the specialized tribunal that hears initial appeals of local government land use decisions in Oregon. Further appeals from LUBA go to the Oregon Court of Appeals, not directly to circuit court or LCDC.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["LUBA", "appeals", "land_use_decisions"]
+    },
+    {
+      "key_topic_ref": "OR-13.2",
+      "question_text": "After LUBA issues a ruling on a land use dispute, where is the next level of appeal?",
+      "correct_answer": "Oregon Court of Appeals",
+      "distractors": [
+        "Oregon Supreme Court",
+        "LCDC review panel",
+        "Local circuit court"
+      ],
+      "explanation": "Oregon law establishes a clear appellate path: local government decisions are appealed first to LUBA, then to the Oregon Court of Appeals. The Supreme Court may hear further appeals but only through discretionary review (petition for certiorari).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["LUBA", "Court_of_Appeals", "appellate_process"]
+    },
+    {
+      "key_topic_ref": "OR-13.2",
+      "question_text": "A developer argues that a city's UGB is too restrictive and should be expanded immediately. Which statewide planning goal governs UGB decisions?",
+      "correct_answer": "Goal 14 — Urbanization",
+      "distractors": [
+        "Goal 3 — Agricultural Lands",
+        "Goal 10 — Housing",
+        "Goal 12 — Transportation"
+      ],
+      "explanation": "Goal 14 specifically addresses urbanization and establishes the requirement that each city maintain an Urban Growth Boundary. While Goal 10 (Housing) relates to housing needs, the rules governing UGB establishment and expansion fall under Goal 14.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Goal_14", "UGB", "urbanization"]
+    },
+    {
+      "key_topic_ref": "OR-13.3",
+      "question_text": "A rancher outside a UGB wants to convert 200 acres of EFU-zoned land into a residential subdivision. What is the most likely outcome?",
+      "correct_answer": "The application will be denied",
+      "distractors": [
+        "Approval with a conditional use permit",
+        "Approval if no neighbors object",
+        "Automatic approval after LUBA review"
+      ],
+      "explanation": "Exclusive Farm Use (EFU) zoning strictly prohibits most non-farm development, including residential subdivisions. Converting EFU land to residential use outside a UGB would be inconsistent with Oregon's agricultural land protections and would almost certainly be denied.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["EFU", "farm_use", "non_farm_development"]
+    },
+    {
+      "key_topic_ref": "OR-13.3",
+      "question_text": "What does EFU zoning stand for in Oregon land use law?",
+      "correct_answer": "Exclusive Farm Use",
+      "distractors": [
+        "Extended Federal Use",
+        "Environmental Field Unit",
+        "Exempt Forestry Use"
+      ],
+      "explanation": "EFU stands for Exclusive Farm Use. This zoning designation is applied to agricultural lands outside Urban Growth Boundaries and strictly limits the types of development and activities permitted, preserving the land primarily for farming.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["EFU", "zoning", "terminology"]
+    },
+    {
+      "key_topic_ref": "OR-13.3",
+      "question_text": "A timber company proposes building a large retail outlet on forest-zoned land outside a UGB. How would Oregon law treat this proposal?",
+      "correct_answer": "Prohibited as an incompatible use",
+      "distractors": [
+        "Allowed if the company owns the land",
+        "Permitted with a conditional use permit",
+        "Approved if it creates local employment"
+      ],
+      "explanation": "Forest-zoned lands outside UGBs are protected under Goal 4 and related statutes. Large retail development is incompatible with forest use zoning. Oregon's strict protections allow only very limited non-forest uses on these lands, and a retail outlet would not qualify.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["forest_lands", "Goal_4", "incompatible_use"]
+    },
+    {
+      "key_topic_ref": "OR-13.3",
+      "question_text": "Why are Oregon's agricultural and forest land protections considered nationally distinctive?",
+      "correct_answer": "They impose stricter limits than most states",
+      "distractors": [
+        "They allow unlimited density on farmland",
+        "They are enforced by the federal government",
+        "They apply only within Urban Growth Boundaries"
+      ],
+      "explanation": "Oregon's EFU zoning and forest land protections are among the strictest in the nation. Unlike most states, Oregon severely restricts non-farm and non-forest development on resource lands outside UGBs, making its system a national model for agricultural preservation.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["EFU", "forest_lands", "national_distinction"]
+    },
+    {
+      "key_topic_ref": "OR-13.3",
+      "question_text": "A landowner with EFU-zoned acreage asks an agent whether a small winery tasting room qualifies as a permitted farm use. What is the best answer?",
+      "correct_answer": "It may qualify under limited farm-related exceptions",
+      "distractors": [
+        "All commercial activity is prohibited on EFU land",
+        "Any agricultural business is automatically allowed",
+        "Only the county assessor can authorize the use"
+      ],
+      "explanation": "Oregon law provides very limited exceptions allowing certain farm-related commercial activities on EFU land, such as winery tasting rooms, if they meet specific criteria. However, they are not automatically permitted and must comply with strict conditions set by statute and local code.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["EFU", "farm_related_use", "exceptions"]
+    }
+  ]
+}

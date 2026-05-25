@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OR-14",
+  "scope": "state",
+  "state": "OR",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OR-14.1",
+      "question_text": "Oregon has no state sales tax. What is the primary source of local government revenue?",
+      "correct_answer": "Property taxes",
+      "distractors": ["State income tax", "Excise taxes on goods", "Municipal sales surcharges"],
+      "explanation": "Because Oregon has no state sales tax, property taxes serve as the primary revenue source for local governments, funding schools and government operations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "no sales tax", "revenue"]
+    },
+    {
+      "key_topic_ref": "OR-14.1",
+      "question_text": "Measure 5, passed in 1990, caps property tax rates at what amount per $1,000 of real market value?",
+      "correct_answer": "$15 total ($10 education, $5 government)",
+      "distractors": ["$20 total ($12 education, $8 government)", "$10 total ($7 education, $3 government)", "$25 total ($15 education, $10 government)"],
+      "explanation": "Measure 5 (1990) caps property tax rates at $15 per $1,000 of RMV, split between $10 per $1,000 for education and $5 per $1,000 for general government operations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Measure 5", "tax caps", "rate limits"]
+    },
+    {
+      "key_topic_ref": "OR-14.1",
+      "question_text": "A county assessor is explaining Oregon's property tax history. What did Measure 50 (1997) establish?",
+      "correct_answer": "Maximum Assessed Value with 3% annual cap",
+      "distractors": ["A flat tax rate for all properties", "Elimination of property tax exemptions", "A statewide reassessment every five years"],
+      "explanation": "Measure 50 (1997) froze assessed values at 1995-96 levels and established Maximum Assessed Value (MAV), which limits assessed value growth to 3% per year.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Measure 50", "MAV", "3% cap"]
+    },
+    {
+      "key_topic_ref": "OR-14.1",
+      "question_text": "A homeowner's property is taxed at $12 per $1,000 of RMV for education. Under Measure 5, what happens to the excess?",
+      "correct_answer": "The rate is compressed down to $10",
+      "distractors": ["The homeowner pays the full $12", "The county refunds the difference", "The state covers the extra $2"],
+      "explanation": "Measure 5 caps education taxes at $10 per $1,000 of RMV. When levies exceed this cap, tax rates are compressed (reduced proportionally) so the total does not exceed the limit.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Measure 5", "compression", "education cap"]
+    },
+    {
+      "key_topic_ref": "OR-14.1",
+      "question_text": "What is the base year used by Measure 50 to establish initial assessed values for Oregon properties?",
+      "correct_answer": "The 1995-96 tax year",
+      "distractors": ["The 1990-91 tax year", "The year the property last sold", "The year Measure 5 was passed"],
+      "explanation": "Measure 50 froze assessed values at the 1995-96 tax year levels. From that baseline, the Maximum Assessed Value may increase no more than 3% per year.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Measure 50", "base year", "1995-96"]
+    },
+    {
+      "key_topic_ref": "OR-14.2",
+      "question_text": "In Oregon, Real Market Value (RMV) is best defined as the price a property would bring in what type of transaction?",
+      "correct_answer": "An arm's-length transaction",
+      "distractors": ["A foreclosure sale", "A related-party transfer", "A tax lien auction"],
+      "explanation": "Real Market Value (RMV) represents the price a property would sell for in an arm's-length transaction between a willing buyer and seller, neither under duress.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RMV", "market value", "arm's-length"]
+    },
+    {
+      "key_topic_ref": "OR-14.2",
+      "question_text": "A property has an RMV of $400,000 and a MAV of $310,000. What is the assessed value used for taxation?",
+      "correct_answer": "$310,000",
+      "distractors": ["$400,000", "$355,000", "$710,000"],
+      "explanation": "Oregon taxes property based on Assessed Value, which equals the LESSER of RMV or MAV. Since $310,000 (MAV) is less than $400,000 (RMV), the assessed value is $310,000.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["assessed value", "RMV", "MAV", "lesser of"]
+    },
+    {
+      "key_topic_ref": "OR-14.2",
+      "question_text": "Last year a property had a MAV of $250,000. No ownership change or new construction occurred. What is the maximum MAV this year?",
+      "correct_answer": "$257,500",
+      "distractors": ["$250,000", "$262,500", "$275,000"],
+      "explanation": "Under Measure 50, MAV may increase by a maximum of 3% per year. $250,000 x 1.03 = $257,500. This growth cap applies regardless of actual market appreciation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MAV", "3% growth", "calculation"]
+    },
+    {
+      "key_topic_ref": "OR-14.2",
+      "question_text": "A buyer purchases a home in Oregon. How is the property's Maximum Assessed Value (MAV) affected by the sale?",
+      "correct_answer": "The buyer inherits the existing MAV unchanged",
+      "distractors": ["MAV resets to the current sale price", "MAV is recalculated at real market value", "MAV increases by 10% upon transfer"],
+      "explanation": "Unlike California's Proposition 13, Oregon's Measure 50 does NOT reset MAV upon a change of ownership. The buyer inherits the seller's existing MAV, which continues to grow at no more than 3% per year. MAV only resets for new construction or significant improvements.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["MAV", "ownership change", "no reset"]
+    },
+    {
+      "key_topic_ref": "OR-14.2",
+      "question_text": "Market values dropped sharply. A property now has an RMV of $280,000 and a MAV of $300,000. What is the assessed value?",
+      "correct_answer": "$280,000",
+      "distractors": ["$300,000", "$290,000", "$310,000"],
+      "explanation": "Assessed Value equals the lesser of RMV or MAV. When market values decline below MAV, the RMV becomes the assessed value. Here $280,000 (RMV) is less than $300,000 (MAV).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["assessed value", "declining market", "lesser of"]
+    },
+    {
+      "key_topic_ref": "OR-14.3",
+      "question_text": "A city forms a Local Improvement District to install new sidewalks. How are affected property owners typically charged?",
+      "correct_answer": "Through special assessments on their property",
+      "distractors": ["Through higher state income taxes", "Through a one-time sales tax", "Through increased utility rates only"],
+      "explanation": "Local Improvement Districts (LIDs) levy special assessments against properties that directly benefit from the infrastructure improvement, such as sidewalks, streets, or sewer lines.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["LID", "special assessment", "infrastructure"]
+    },
+    {
+      "key_topic_ref": "OR-14.3",
+      "question_text": "A farmer's land is taxed at farm use value rather than market value. What type of assessment is this?",
+      "correct_answer": "Farm Use Special Assessment",
+      "distractors": ["Standard ad valorem assessment", "Measure 5 compression rate", "Local Improvement District levy"],
+      "explanation": "Oregon's Farm Use Special Assessment allows qualifying agricultural land to be taxed based on its farm use value rather than its higher market value, encouraging continued agricultural use.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["farm use", "special assessment", "agricultural"]
+    },
+    {
+      "key_topic_ref": "OR-14.3",
+      "question_text": "A landowner converts forest land that received special assessment into a residential subdivision. What tax consequence results?",
+      "correct_answer": "Back taxes are owed for years of reduced rates",
+      "distractors": ["No additional taxes are due", "Only current-year taxes increase", "A one-time flat penalty is assessed"],
+      "explanation": "When land receiving Forestland Special Assessment is disqualified due to a change of use, the owner must pay additional back taxes (sometimes called rollback taxes) for the years of preferential treatment.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["forestland", "disqualification", "back taxes"]
+    },
+    {
+      "key_topic_ref": "OR-14.3",
+      "question_text": "How does Oregon's Forestland Special Assessment determine a property's taxable value?",
+      "correct_answer": "Based on forest use value, not market value",
+      "distractors": ["Based on timber sale revenue only", "At full real market value", "Using a flat per-acre state rate"],
+      "explanation": "Similar to farm use assessment, Forestland Special Assessment values the land based on its productive forest use rather than its potentially higher real market value.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["forestland", "special assessment", "use value"]
+    },
+    {
+      "key_topic_ref": "OR-14.3",
+      "question_text": "A farm that has received special assessment for 8 years is sold for commercial development. Which statement best describes the tax impact?",
+      "correct_answer": "Additional taxes for the 8 years are triggered",
+      "distractors": ["Only the new owner's future taxes increase", "The seller receives a tax credit", "Taxes revert to standard rates next year only"],
+      "explanation": "When farm use land is disqualified through a change to non-qualifying use, additional taxes (back taxes) are assessed for the years the property received preferential farm use treatment. This discourages speculative holding of farmland.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["farm use", "disqualification", "back taxes", "change of use"]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "standard_ref": "CA-05",
+  "scope": "state",
+  "state": "CA",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "CA-05.1",
+      "question_text": "Which California agency administers and enforces the Fair Employment and Housing Act (FEHA) in housing matters?",
+      "correct_answer": "Civil Rights Department",
+      "distractors": [
+        "Department of Real Estate",
+        "Department of Consumer Affairs",
+        "Office of the Attorney General"
+      ],
+      "explanation": "FEHA is administered by the Civil Rights Department (CRD), formerly the Department of Fair Employment and Housing (DFEH). The DRE enforces the real estate license law but the CRD handles FEHA fair housing complaints.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "FEHA",
+        "Civil-Rights-Department",
+        "enforcement"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.1",
+      "question_text": "A landlord refuses to rent to a veteran, citing a personal policy against renting to anyone who has served in the military. Which California law is most directly violated?",
+      "correct_answer": "FEHA protection for veteran and military status",
+      "distractors": [
+        "Holden Act prohibition on neighborhood-based lending",
+        "Unruh Civil Rights Act business establishment prohibition",
+        "Rumford Act governing owner-occupied exemptions"
+      ],
+      "explanation": "FEHA expressly protects veteran and military status as a prohibited basis for housing discrimination. Refusing to rent based on military service violates FEHA.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "FEHA",
+        "veteran-status",
+        "protected-class"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.1",
+      "question_text": "A California landlord owns a single-family home, lives next door, and refuses to rent to an unmarried couple. Under California's Rumford Act, is this exemption valid?",
+      "correct_answer": "No, the Rumford Act eliminated the Mrs. Murphy exemption in California",
+      "distractors": [
+        "Yes, small owner-occupants may refuse for any reason",
+        "Yes, the exemption applies to owners of fewer than four units",
+        "No, but only if the couple can prove discriminatory intent"
+      ],
+      "explanation": "California's Rumford Act eliminated the so-called Mrs. Murphy exemption that federal law and some states recognize for small owner-occupied properties. In California, all residential landlords must comply with FEHA regardless of property size.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Rumford-Act",
+        "Mrs-Murphy-exemption",
+        "FEHA"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.1",
+      "question_text": "A tenant relies on a housing voucher (Section 8) to pay rent. A landlord refuses the voucher. Which FEHA protected class is most relevant?",
+      "correct_answer": "Source of income",
+      "distractors": [
+        "Familial status",
+        "Genetic information",
+        "Marital status"
+      ],
+      "explanation": "Source of income is a protected class under FEHA. Refusing to accept a housing voucher or government subsidy is discrimination based on source of income.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "FEHA",
+        "source-of-income",
+        "protected-class"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.1",
+      "question_text": "A broker refuses to show homes in certain neighborhoods to a buyer based on the buyer's national origin. Which protected class under FEHA does this violate?",
+      "correct_answer": "National origin and ancestry",
+      "distractors": [
+        "Genetic information",
+        "Gender identity and expression",
+        "Marital status"
+      ],
+      "explanation": "FEHA prohibits discrimination based on national origin and ancestry. Steering a buyer away from or toward neighborhoods based on ethnic or national background violates this protection.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "FEHA",
+        "national-origin",
+        "steering"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.2",
+      "question_text": "Under the Unruh Civil Rights Act, which entities must comply with its anti-discrimination requirements?",
+      "correct_answer": "All business establishments operating in California",
+      "distractors": [
+        "Only licensed real estate brokers and salespersons",
+        "Residential landlords with five or more units only",
+        "Public housing authorities and government landlords only"
+      ],
+      "explanation": "The Unruh Civil Rights Act applies to all business establishments in California, a broad category that courts have interpreted expansively. This includes real estate firms, hotels, clubs, and other commercial enterprises.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Unruh-Act",
+        "business-establishments",
+        "scope"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.2",
+      "question_text": "A real estate firm has a policy that refuses service to buyers with visible tattoos. A buyer with tattoos is denied representation. Which law most directly applies?",
+      "correct_answer": "Unruh Civil Rights Act, prohibiting arbitrary discrimination",
+      "distractors": [
+        "FEHA, because disability is a protected class",
+        "Holden Act, barring lender discrimination",
+        "Rumford Act, covering owner-occupied properties"
+      ],
+      "explanation": "The Unruh Act broadly prohibits arbitrary discrimination by business establishments. Courts have interpreted it to cover characteristics beyond the enumerated classes, including policies that have no rational business justification.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Unruh-Act",
+        "arbitrary-discrimination",
+        "business-establishments"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.2",
+      "question_text": "A buyer proves a business establishment violated the Unruh Civil Rights Act. What damages may be awarded?",
+      "correct_answer": "Actual damages plus up to three times actual damages, plus attorney fees",
+      "distractors": [
+        "Actual damages only, capped at $10,000",
+        "A $500 statutory penalty per incident, plus injunctive relief",
+        "Compensatory damages only if the discriminatory act was intentional"
+      ],
+      "explanation": "Under the Unruh Civil Rights Act, a prevailing plaintiff may recover actual damages, plus up to three times the actual damages as a punitive multiplier, plus reasonable attorney fees.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Unruh-Act",
+        "damages",
+        "attorney-fees"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.2",
+      "question_text": "How does the Unruh Civil Rights Act's scope of protection differ from FEHA's approach to housing discrimination?",
+      "correct_answer": "Unruh broadly prohibits arbitrary discrimination; FEHA covers specific listed classes",
+      "distractors": [
+        "Unruh lists protected classes; FEHA prohibits all arbitrary discrimination",
+        "Both laws are identical in scope and enforcement",
+        "Unruh applies only to commercial tenants; FEHA covers residential tenants"
+      ],
+      "explanation": "FEHA protects specifically enumerated classes. The Unruh Act is interpreted more broadly to prohibit arbitrary discrimination of any kind by business establishments, even beyond listed categories.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "Unruh-Act",
+        "FEHA",
+        "comparison"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.2",
+      "question_text": "What type of lending discrimination does the California Holden Act specifically target?",
+      "correct_answer": "Refusing loans based on the neighborhood where property is located",
+      "distractors": [
+        "Charging higher interest rates to protected classes",
+        "Requiring larger down payments from first-generation buyers",
+        "Denying loans based on the applicant's source of income"
+      ],
+      "explanation": "The Holden Act is California's anti-redlining law. It prohibits lenders and real estate brokers arranging loans from discriminating based on the neighborhood or geographic area where the property is located.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Holden-Act",
+        "redlining",
+        "lending-discrimination"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.3",
+      "question_text": "A mortgage broker arranging a home loan refuses to process applications for properties located in a predominantly Latino neighborhood. Which California law directly prohibits this?",
+      "correct_answer": "Holden Act, prohibiting neighborhood-based lending discrimination",
+      "distractors": [
+        "FEHA, covering national origin discrimination",
+        "Unruh Act, applying to all business establishments",
+        "Rumford Act, covering residential landlords"
+      ],
+      "explanation": "The Holden Act specifically prohibits discrimination in lending or loan arranging based on the geographic location or neighborhood characteristics of a property, which is the defining feature of redlining.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Holden-Act",
+        "mortgage-broker",
+        "redlining"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.3",
+      "question_text": "Which professionals are covered by the Holden Act's prohibition on neighborhood-based lending discrimination?",
+      "correct_answer": "Financial institutions and real estate brokers arranging loans",
+      "distractors": [
+        "Real estate appraisers and home inspectors",
+        "Title insurance companies and escrow officers",
+        "Only state-chartered banks and credit unions"
+      ],
+      "explanation": "The Holden Act applies to both financial institutions (banks, lenders) and real estate brokers who arrange financing. This broad coverage prevents brokers from steering clients away from lenders based on property location.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Holden-Act",
+        "covered-entities",
+        "brokers"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.3",
+      "question_text": "A lender denies a loan to a qualified applicant because the property is in a 'declining' neighborhood that happens to be predominantly African American. Which law is violated, and why does the Holden Act apply even if no racial intent is proven?",
+      "correct_answer": "The Holden Act applies because it prohibits neighborhood-based denials regardless of stated reason",
+      "distractors": [
+        "Only FEHA applies; the Holden Act requires proof of racial intent",
+        "Only the federal Fair Housing Act applies to this scenario",
+        "Neither applies unless the lender is federally chartered"
+      ],
+      "explanation": "The Holden Act prohibits geographic or neighborhood-based lending discrimination without requiring proof of racial intent. Using neighborhood characteristics as a basis for denial — even a facially neutral one — is the conduct the law targets.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "Holden-Act",
+        "redlining",
+        "disparate-impact"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.3",
+      "question_text": "A California landlord tells a prospective tenant he won't rent to families with children because 'kids damage walls.' Which law is violated?",
+      "correct_answer": "FEHA, because familial status is a protected class",
+      "distractors": [
+        "Holden Act, if financing is involved",
+        "Unruh Act only, since no license is involved",
+        "Rumford Act, as owner-occupants are exempt"
+      ],
+      "explanation": "Familial status — which includes families with children under 18 — is a protected class under FEHA. Refusing to rent based on this characteristic violates California's fair housing law.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "FEHA",
+        "familial-status",
+        "protected-class"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-05.3",
+      "question_text": "A buyer claims a broker steered her away from a neighborhood based on her gender identity. Under FEHA, which protected characteristic is at issue, and who has enforcement authority?",
+      "correct_answer": "Gender identity/expression; enforced by the Civil Rights Department",
+      "distractors": [
+        "Sexual orientation; enforced by the DRE",
+        "Marital status; enforced by the real estate commissioner",
+        "Disability; enforced by the Department of Consumer Affairs"
+      ],
+      "explanation": "Gender identity and gender expression are both FEHA-protected classes. Fair housing complaints under FEHA are investigated and enforced by the Civil Rights Department, not the DRE.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "FEHA",
+        "gender-identity",
+        "Civil-Rights-Department"
+      ]
+    }
+  ]
+}

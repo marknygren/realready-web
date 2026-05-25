@@ -1,0 +1,408 @@
+{
+  "standard_ref": "GA-13",
+  "scope": "state",
+  "state": "GA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "GA-13.1",
+      "question_text": "Georgia uses which instrument to secure a real estate loan?",
+      "correct_answer": "Security deed (deed to secure debt)",
+      "distractors": [
+        "Mortgage with judicial foreclosure rights",
+        "Deed of trust with a neutral trustee",
+        "Promissory note with lien attachment"
+      ],
+      "explanation": "Georgia is a security deed state. The borrower conveys legal title to the lender as collateral, giving the lender power of sale if the borrower defaults. This differs from mortgage states and deed-of-trust states.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "security-deed",
+        "deed-to-secure-debt",
+        "Georgia",
+        "loan-instruments"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.1",
+      "question_text": "When a Georgia borrower signs a security deed, what happens to legal title to the property?",
+      "correct_answer": "Title transfers to the lender as security",
+      "distractors": [
+        "Title remains with the borrower at all times",
+        "Title goes to a neutral third-party trustee",
+        "Title is held in escrow until payoff"
+      ],
+      "explanation": "Under a Georgia security deed, the borrower conveys legal title to the lender as collateral. The borrower retains equitable title and possession. Upon full repayment, the lender reconveys title back to the borrower.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "security-deed",
+        "title-theory",
+        "conveyance",
+        "Georgia"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.1",
+      "question_text": "A borrower has fully repaid her Georgia mortgage loan. How does the lender release its interest in the property?",
+      "correct_answer": "By recording a cancellation or quitclaim deed",
+      "distractors": [
+        "By filing a satisfaction of mortgage in probate court",
+        "By issuing a reconveyance through a trustee",
+        "By signing a deed of release at the county courthouse"
+      ],
+      "explanation": "Because the lender holds legal title under a security deed, it reconveys that title upon payoff by recording a cancellation of the security deed or executing a quitclaim deed back to the borrower.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "security-deed",
+        "payoff",
+        "reconveyance",
+        "cancellation"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.1",
+      "question_text": "A Georgia security deed grants the lender which key right that a standard mortgage in other states may not include?",
+      "correct_answer": "Power of sale without court involvement",
+      "distractors": [
+        "Right to collect rent from the property's tenants",
+        "Right to increase the interest rate at will",
+        "Right to refuse prepayment of the loan"
+      ],
+      "explanation": "The security deed includes a power of sale clause, allowing the lender to foreclose without going through the court system. This enables non-judicial foreclosure, which is faster and less expensive than judicial foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "security-deed",
+        "power-of-sale",
+        "non-judicial",
+        "foreclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.1",
+      "question_text": "An out-of-state investor asks her agent whether Georgia follows lien theory or title theory for secured loans. Which answer is correct?",
+      "correct_answer": "Title theory, because the lender holds legal title",
+      "distractors": [
+        "Lien theory, because the borrower keeps title",
+        "Intermediate theory, combining both approaches",
+        "Hybrid theory unique to southeastern states"
+      ],
+      "explanation": "Georgia follows title theory. The security deed conveys legal title to the lender while the borrower retains equitable title and possession. In lien-theory states, the borrower keeps legal title and the lender only holds a lien.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "title-theory",
+        "security-deed",
+        "Georgia",
+        "lien-theory"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.2",
+      "question_text": "How long must a foreclosure notice be published in the county legal organ before a Georgia non-judicial sale?",
+      "correct_answer": "Four consecutive weeks before the sale",
+      "distractors": [
+        "Two consecutive weeks before the sale",
+        "Three consecutive weeks before the sale",
+        "Once a week for six weeks before the sale"
+      ],
+      "explanation": "Georgia law requires the foreclosure notice to be published in the county's official legal organ (newspaper) for four consecutive weeks prior to the sale date. This ensures adequate public notice of the pending foreclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "non-judicial",
+        "publication",
+        "notice"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.2",
+      "question_text": "A lender initiates non-judicial foreclosure on a Georgia property. When must written notice be mailed to the debtor?",
+      "correct_answer": "At least 30 days before the sale date",
+      "distractors": [
+        "At least 15 days before the sale date",
+        "At least 60 days before the sale date",
+        "At least 45 days before the sale date"
+      ],
+      "explanation": "Georgia requires the lender to mail written notice to the debtor at least 30 days before the foreclosure sale. This personal notice is required in addition to the publication requirement in the county legal organ.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "non-judicial",
+        "debtor-notice",
+        "30-days"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.2",
+      "question_text": "A Georgia foreclosure auction is scheduled. On what day and at what location will it most likely occur?",
+      "correct_answer": "First Tuesday of the month at the county courthouse",
+      "distractors": [
+        "Last Wednesday of the month at the sheriff's office",
+        "First Monday of the month at the county courthouse",
+        "Any weekday at the county tax commissioner's office"
+      ],
+      "explanation": "Georgia foreclosure sales under power of sale occur on the first Tuesday of the month between 10 AM and 4 PM at the county courthouse. This fixed schedule provides predictability for all parties and bidders.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "auction",
+        "first-Tuesday",
+        "courthouse"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.2",
+      "question_text": "After a non-judicial foreclosure sale in Georgia, a borrower asks his attorney about the right of redemption. What should the attorney advise?",
+      "correct_answer": "Georgia has no right of redemption after non-judicial sale",
+      "distractors": [
+        "The borrower has 6 months to redeem the property",
+        "The borrower has 12 months to redeem the property",
+        "Redemption is available only for homestead properties"
+      ],
+      "explanation": "Georgia does not provide a statutory right of redemption after a non-judicial foreclosure sale. Once the property is sold at auction to the highest bidder, the former owner cannot reclaim the property by paying off the debt.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "redemption",
+        "non-judicial",
+        "Georgia"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.2",
+      "question_text": "A Georgia homeowner defaults and the property is sold at foreclosure auction. The highest bid was $180,000. Who receives the property?",
+      "correct_answer": "The highest bidder at the courthouse auction",
+      "distractors": [
+        "The lender, who must then list it for resale",
+        "The county, which holds it in a tax lien pool",
+        "The borrower, who gets a final chance to match the bid"
+      ],
+      "explanation": "At a Georgia non-judicial foreclosure sale, the property goes to the highest bidder. The lender may bid but does not automatically receive the property. There is no post-sale redemption right for the borrower in a non-judicial foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "auction",
+        "highest-bidder",
+        "non-judicial"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.3",
+      "question_text": "After a Georgia foreclosure, a lender wants to sue the borrower for the remaining unpaid balance. What must the lender do first?",
+      "correct_answer": "File for confirmation of the sale within 30 days",
+      "distractors": [
+        "Wait 90 days after the sale before filing suit",
+        "Obtain a new appraisal within 60 days of sale",
+        "Record a lis pendens on the borrower's other assets"
+      ],
+      "explanation": "To pursue a deficiency judgment in Georgia, the lender must file for confirmation of the foreclosure sale within 30 days. The court reviews whether the property sold at fair market value before permitting the deficiency claim.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "deficiency-judgment",
+        "confirmation",
+        "foreclosure",
+        "30-days"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.3",
+      "question_text": "A Georgia lender forecloses and the property sells for $150,000 but the debt was $200,000. Can the lender seek the $50,000 difference?",
+      "correct_answer": "Yes, if the court confirms the sale was at fair value",
+      "distractors": [
+        "No, Georgia prohibits all deficiency judgments",
+        "Yes, automatically without any court approval",
+        "Only if the loan was a commercial loan, not residential"
+      ],
+      "explanation": "Georgia allows deficiency judgments, but the lender must obtain court confirmation of the sale within 30 days. The court evaluates whether the property sold for fair market value. Without confirmation, no deficiency judgment is available.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "deficiency-judgment",
+        "fair-market-value",
+        "foreclosure",
+        "confirmation"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.3",
+      "question_text": "A foreclosure sale in Georgia is not confirmed by the court. What is the consequence for the lender?",
+      "correct_answer": "The lender cannot pursue a deficiency judgment",
+      "distractors": [
+        "The foreclosure sale is automatically reversed",
+        "The borrower regains a 12-month redemption period",
+        "The lender must relist the property at public auction"
+      ],
+      "explanation": "If the court does not confirm the foreclosure sale, the lender loses the right to seek a deficiency judgment against the borrower. However, the sale itself is not reversed; the new owner still retains the property.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "deficiency-judgment",
+        "confirmation",
+        "court-review",
+        "foreclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.3",
+      "question_text": "What standard does a Georgia court use when deciding whether to confirm a foreclosure sale?",
+      "correct_answer": "Whether the property sold for fair market value",
+      "distractors": [
+        "Whether the borrower was given 90 days written notice",
+        "Whether three or more bidders attended the auction",
+        "Whether the lender offered a loan modification first"
+      ],
+      "explanation": "Georgia courts review the sale price against fair market value when deciding confirmation. This protects borrowers from deficiency judgments based on sales where the property was sold far below its actual worth.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "deficiency-judgment",
+        "fair-market-value",
+        "court-confirmation",
+        "foreclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.3",
+      "question_text": "A Georgia lender forecloses but fails to file for sale confirmation within the required time. The borrower still owes $40,000 on the loan. What can the lender collect?",
+      "correct_answer": "Nothing beyond what the foreclosure sale produced",
+      "distractors": [
+        "The full $40,000 deficiency after a separate lawsuit",
+        "Half the deficiency through an administrative claim",
+        "The deficiency if the borrower agrees in writing"
+      ],
+      "explanation": "Georgia lenders must file for court confirmation of the foreclosure sale within 30 days to pursue a deficiency judgment. Missing this deadline permanently bars the lender from collecting any deficiency, regardless of the amount owed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "deficiency-judgment",
+        "confirmation-deadline",
+        "foreclosure",
+        "Georgia"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.4",
+      "question_text": "What is the Georgia intangible recording tax rate on a new security deed?",
+      "correct_answer": "$1.50 per $500 of new debt secured",
+      "distractors": [
+        "$1.00 per $500 of new debt secured",
+        "$3.00 per $500 of new debt secured",
+        "$0.50 per $500 of new debt secured"
+      ],
+      "explanation": "Georgia's intangible recording tax is $1.50 per $500 of new debt (equivalent to $3.00 per $1,000). This tax applies only to new money borrowed and is paid at the time the security deed is recorded.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "intangible-tax",
+        "recording",
+        "security-deed",
+        "tax-rate"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.4",
+      "question_text": "A buyer borrows $300,000 to purchase a Georgia home. How much intangible recording tax is due?",
+      "correct_answer": "$900",
+      "distractors": [
+        "$450",
+        "$1,800",
+        "$600"
+      ],
+      "explanation": "The intangible recording tax is $3.00 per $1,000 of new debt. $300,000 / $1,000 = 300 units x $3.00 = $900. This tax applies to new money borrowed and is paid when the security deed is recorded.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "intangible-tax",
+        "calculation",
+        "recording",
+        "security-deed"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.4",
+      "question_text": "A Georgia homeowner refinances from a $200,000 loan to a $250,000 loan. On how much is the intangible recording tax calculated?",
+      "correct_answer": "Only the $50,000 in new money above the prior balance",
+      "distractors": [
+        "The full $250,000 new loan amount",
+        "The full $450,000 total of both loans combined",
+        "No tax is owed because it is a refinance"
+      ],
+      "explanation": "Georgia's intangible recording tax on refinances applies only to new money borrowed above the prior loan balance. The $200,000 being refinanced was already taxed on the original loan, so only the $50,000 increase is subject to the tax.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "intangible-tax",
+        "refinance",
+        "new-money",
+        "calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.4",
+      "question_text": "What is the maximum intangible recording tax that can be charged on a single security deed in Georgia?",
+      "correct_answer": "$25,000",
+      "distractors": [
+        "$10,000",
+        "$50,000",
+        "There is no maximum cap"
+      ],
+      "explanation": "Georgia caps the intangible recording tax at $25,000 per security deed. This cap benefits borrowers taking very large loans, as the tax does not increase beyond this amount regardless of the loan size.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "intangible-tax",
+        "maximum-cap",
+        "recording",
+        "Georgia"
+      ]
+    },
+    {
+      "key_topic_ref": "GA-13.4",
+      "question_text": "A borrower takes out a Georgia loan with a 48-month maturity. Is the intangible recording tax owed?",
+      "correct_answer": "No, notes maturing within 62 months are exempt",
+      "distractors": [
+        "Yes, only notes under 36 months are exempt",
+        "Yes, all secured loans must pay the tax",
+        "No, but only if the loan is under $100,000"
+      ],
+      "explanation": "As of July 2025, Georgia exempts short-term notes maturing within 62 months from the intangible recording tax. The threshold was previously 36 months. A 48-month note falls within the exemption window.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "intangible-tax",
+        "short-term-exempt",
+        "62-months",
+        "Georgia"
+      ]
+    }
+  ]
+}

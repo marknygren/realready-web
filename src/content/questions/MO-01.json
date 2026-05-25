@@ -1,0 +1,233 @@
+{
+  "standard_ref": "MO-01",
+  "scope": "state",
+  "state": "MO",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "MO-01.1",
+      "question_text": "How many members serve on the Missouri Real Estate Commission (MREC)?",
+      "correct_answer": "7 members",
+      "distractors": [
+        "5 members",
+        "9 members",
+        "11 members"
+      ],
+      "explanation": "The Missouri Real Estate Commission consists of 7 members appointed by the Governor. Six must be licensed brokers with at least 10 years of experience, and one must be a public (non-licensee) member representing consumer interests.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "commission_composition", "members"]
+    },
+    {
+      "key_topic_ref": "MO-01.1",
+      "question_text": "A candidate for the MREC has held a broker license for 8 years. Does this person qualify as a broker member?",
+      "correct_answer": "No, broker members need 10+ years",
+      "distractors": [
+        "Yes, 5 years is sufficient",
+        "Yes, any active broker qualifies",
+        "No, broker members need 15+ years"
+      ],
+      "explanation": "Missouri law requires that the six broker members of the MREC each have at least 10 years of experience as licensed brokers. Eight years falls short of this threshold, so the candidate does not qualify regardless of other credentials.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MREC", "broker_members", "eligibility"]
+    },
+    {
+      "key_topic_ref": "MO-01.1",
+      "question_text": "What is the term length for a member of the Missouri Real Estate Commission?",
+      "correct_answer": "5 years",
+      "distractors": [
+        "3 years",
+        "4 years",
+        "6 years"
+      ],
+      "explanation": "MREC members serve 5-year terms. Terms are staggered to ensure continuity on the commission and prevent a complete turnover of all members at once. Members are appointed by the Governor with Senate confirmation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "term_length", "appointment"]
+    },
+    {
+      "key_topic_ref": "MO-01.1",
+      "question_text": "The Governor appoints a new MREC member who is not a real estate licensee. How many such non-licensee positions exist on the commission?",
+      "correct_answer": "1 public member position",
+      "distractors": [
+        "2 public member positions",
+        "3 public member positions",
+        "No public member positions exist"
+      ],
+      "explanation": "The MREC includes exactly 1 public member who is not a real estate licensee. This person represents consumer interests. The remaining 6 seats are reserved for licensed brokers with at least 10 years of experience.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "public_member", "commission_composition"]
+    },
+    {
+      "key_topic_ref": "MO-01.1",
+      "question_text": "An MREC broker member has 12 years of licensure but let her license lapse last month. She wants to continue serving. What is the most likely outcome?",
+      "correct_answer": "She cannot serve without an active license",
+      "distractors": [
+        "She may serve until her term expires",
+        "She becomes the public member instead",
+        "She has 90 days to reinstate her license"
+      ],
+      "explanation": "Broker members of the MREC must maintain active broker licensure throughout their term. A lapsed license disqualifies the member from serving in a broker seat. The public member position is a separate appointment, not an automatic reassignment.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["MREC", "broker_members", "active_license", "eligibility"]
+    },
+    {
+      "key_topic_ref": "MO-01.2",
+      "question_text": "Which of the following is a power of the Missouri Real Estate Commission?",
+      "correct_answer": "Auditing licensee escrow accounts",
+      "distractors": [
+        "Prosecuting criminal real estate fraud",
+        "Setting real estate commission rates",
+        "Approving mortgage loan applications"
+      ],
+      "explanation": "MREC has the authority to audit escrow (trust) accounts maintained by licensees to ensure client funds are properly handled. Criminal prosecution falls to the Attorney General or local prosecutors. Commission rates are set by the market, and mortgage oversight belongs to the Division of Finance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "powers", "escrow_audit"]
+    },
+    {
+      "key_topic_ref": "MO-01.2",
+      "question_text": "A broker suspects a competitor is operating an unapproved continuing education school. Which entity has authority to investigate?",
+      "correct_answer": "The MREC",
+      "distractors": [
+        "The local Board of REALTORS",
+        "The Missouri Attorney General",
+        "The Department of Education"
+      ],
+      "explanation": "The MREC holds exclusive authority to approve and regulate real estate education providers in Missouri. This includes investigating whether schools and courses meet MREC standards. The Board of REALTORS is a private trade association without regulatory power over education providers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MREC", "course_approval", "education_providers"]
+    },
+    {
+      "key_topic_ref": "MO-01.2",
+      "question_text": "MREC receives a complaint alleging a licensee failed to disclose a material defect. What is MREC's initial authority?",
+      "correct_answer": "Investigate the complaint",
+      "distractors": [
+        "Immediately suspend the license",
+        "Order the licensee to pay damages",
+        "File a civil lawsuit against the licensee"
+      ],
+      "explanation": "When MREC receives a complaint, its first step is investigation to determine whether sufficient evidence exists. MREC cannot immediately suspend a license without due process, cannot order monetary damages (that requires a court), and does not file civil suits. If the investigation reveals violations, the case may proceed to a hearing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MREC", "investigation", "complaints", "enforcement"]
+    },
+    {
+      "key_topic_ref": "MO-01.2",
+      "question_text": "Which MREC function directly protects consumers from mishandled earnest money deposits?",
+      "correct_answer": "Escrow account auditing",
+      "distractors": [
+        "Pre-license exam administration",
+        "Continuing education approval",
+        "License fee collection"
+      ],
+      "explanation": "Escrow account auditing ensures that brokers properly maintain and account for client funds, including earnest money deposits. This is a direct consumer protection mechanism. While education and exams indirectly protect consumers by ensuring competency, they do not directly safeguard deposited funds.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["MREC", "escrow_audit", "consumer_protection", "earnest_money"]
+    },
+    {
+      "key_topic_ref": "MO-01.2",
+      "question_text": "MREC wants to adopt a new rule requiring all licensees to complete cybersecurity training. What authority enables this?",
+      "correct_answer": "MREC's rule-making authority",
+      "distractors": [
+        "The Missouri Governor's executive order",
+        "A vote of all active licensees",
+        "Approval from the federal HUD office"
+      ],
+      "explanation": "The MREC possesses delegated rule-making authority under Chapter 339 RSMo to adopt regulations governing licensees. New rules must follow the state administrative procedures process, including public notice and comment. Neither licensee votes nor federal agency approval is required.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MREC", "rulemaking", "regulatory_authority"]
+    },
+    {
+      "key_topic_ref": "MO-01.3",
+      "question_text": "Which Missouri statute governs real estate licensing?",
+      "correct_answer": "Chapter 339 RSMo",
+      "distractors": [
+        "Chapter 442 RSMo",
+        "Chapter 407 RSMo",
+        "Chapter 516 RSMo"
+      ],
+      "explanation": "Chapter 339 of the Revised Statutes of Missouri (RSMo) is the primary statute governing real estate licensing, education, and discipline. Chapter 442 covers conveyances and property law, Chapter 407 addresses consumer protection, and Chapter 516 deals with statutes of limitations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Chapter_339", "RSMo", "licensing_statute"]
+    },
+    {
+      "key_topic_ref": "MO-01.3",
+      "question_text": "The administrative rules implementing Missouri real estate licensing law are found in which code section?",
+      "correct_answer": "20 CSR 2250",
+      "distractors": [
+        "12 CSR 1500",
+        "20 CSR 4240",
+        "15 CSR 2000"
+      ],
+      "explanation": "The Code of State Regulations (CSR) section 20 CSR 2250 contains the administrative rules that implement Chapter 339 RSMo. These rules provide specific procedural details for licensing, education requirements, and disciplinary processes that the statute authorizes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["20_CSR_2250", "administrative_rules", "regulations"]
+    },
+    {
+      "key_topic_ref": "MO-01.3",
+      "question_text": "A licensee wants to challenge a new MREC regulation. She argues the rule conflicts with Chapter 339. Which relationship between these authorities is correct?",
+      "correct_answer": "The statute overrides the regulation",
+      "distractors": [
+        "The regulation overrides the statute",
+        "Both carry equal legal weight",
+        "Only a court can determine which applies"
+      ],
+      "explanation": "Chapter 339 RSMo is the enabling statute, and 20 CSR 2250 contains the implementing regulations. Statutes always take precedence over administrative rules. If a regulation conflicts with its enabling statute, the regulation is invalid. While courts resolve disputes, the legal hierarchy is clear.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Chapter_339", "20_CSR_2250", "regulatory_hierarchy"]
+    },
+    {
+      "key_topic_ref": "MO-01.3",
+      "question_text": "Under which state agency does MREC operate?",
+      "correct_answer": "Division of Professional Registration",
+      "distractors": [
+        "Department of Commerce and Insurance",
+        "Department of Economic Development",
+        "Office of the Attorney General"
+      ],
+      "explanation": "The Missouri Real Estate Commission operates under the Division of Professional Registration, which oversees numerous professional licensing boards in Missouri. The Division provides administrative support while the MREC retains authority over real estate licensing decisions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "Division_of_Professional_Registration", "state_agency"]
+    },
+    {
+      "key_topic_ref": "MO-01.3",
+      "question_text": "A real estate instructor needs to verify whether a proposed course topic satisfies MREC requirements. Which two sources should the instructor consult?",
+      "correct_answer": "Chapter 339 RSMo and 20 CSR 2250",
+      "distractors": [
+        "The local MLS rules and MREC website",
+        "NAR guidelines and state statute",
+        "Federal HUD rules and state regulation"
+      ],
+      "explanation": "The instructor should consult both Chapter 339 RSMo (the licensing statute) and 20 CSR 2250 (the administrative rules). Together these sources define what education content MREC requires and approves. MLS rules, NAR guidelines, and federal HUD rules do not govern Missouri pre-license education standards.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Chapter_339", "20_CSR_2250", "education_requirements", "course_approval"]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "standard_ref": "TX-03",
+  "scope": "state",
+  "state": "TX",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "TX-03.1",
+      "question_text": "How many hours of Sales Apprentice Education (SAE) must a new Texas sales agent complete before the first renewal?",
+      "correct_answer": "270 hours",
+      "distractors": [
+        "180 hours",
+        "360 hours",
+        "90 hours"
+      ],
+      "explanation": "Texas requires 270 hours of SAE before a sales agent's first license renewal. This is in addition to the 180 hours of pre-license education completed before initial licensure. The SAE must be finished before the agent can renew for the first time.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SAE", "first_renewal", "education"]
+    },
+    {
+      "key_topic_ref": "TX-03.1",
+      "question_text": "A Texas licensee's renewal is due in 30 days, but she has not completed her CE. She pays the $200 deferral fee. How much additional time does she receive?",
+      "correct_answer": "60 days",
+      "distractors": [
+        "30 days",
+        "90 days",
+        "120 days"
+      ],
+      "explanation": "Texas allows licensees to pay a $200 CE deferral fee for a 60-day extension to complete their continuing education requirements. This is a one-time extension per renewal cycle and does not waive the CE requirement itself.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["CE_deferral", "extension", "renewal"]
+    },
+    {
+      "key_topic_ref": "TX-03.1",
+      "question_text": "How many total hours of continuing education must a Texas licensee complete each 2-year renewal cycle?",
+      "correct_answer": "18 hours",
+      "distractors": [
+        "14 hours",
+        "24 hours",
+        "12 hours"
+      ],
+      "explanation": "Texas requires 18 hours of CE per 2-year renewal cycle. This breaks down to 4 hours of Legal Update I, 4 hours of Legal Update II, 3 hours of contract-related coursework, and 7 hours of elective topics approved by TREC.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing_education", "CE_hours", "renewal_cycle"]
+    },
+    {
+      "key_topic_ref": "TX-03.1",
+      "question_text": "A licensee completed Legal Update I and 7 elective hours but skipped Legal Update II and contract-related courses. Has she met her CE requirements?",
+      "correct_answer": "No, Legal Update II and contract hours are required",
+      "distractors": [
+        "Yes, she completed the minimum 11 hours",
+        "Yes, if she takes extra elective hours instead",
+        "No, but she can substitute with SAE credits"
+      ],
+      "explanation": "All four CE components are mandatory: Legal Update I (4 hrs), Legal Update II (4 hrs), contract-related (3 hrs), and electives (7 hrs). Skipping any mandatory component means the requirement is not met, regardless of total hours completed. Elective hours cannot substitute for required courses.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["CE_requirements", "Legal_Update", "contract_courses"]
+    },
+    {
+      "key_topic_ref": "TX-03.1",
+      "question_text": "In addition to 270 hours of SAE, which courses must a sales agent complete before the first renewal?",
+      "correct_answer": "Legal Update I and Legal Update II",
+      "distractors": [
+        "Ethics and Professional Standards",
+        "Broker Responsibility and Supervision",
+        "Real Estate Math and Finance"
+      ],
+      "explanation": "Before the first renewal, a Texas sales agent must complete 270 hours of SAE plus 4 hours of Legal Update I and 4 hours of Legal Update II. These Legal Update courses are mandatory for every renewal cycle throughout a licensee's career.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SAE", "Legal_Update", "first_renewal"]
+    },
+    {
+      "key_topic_ref": "TX-03.2",
+      "question_text": "A sales agent leaves Broker A and joins Broker B. What must the agent do regarding TREC?",
+      "correct_answer": "Notify TREC of the sponsorship change",
+      "distractors": [
+        "Retake the licensing exam",
+        "Complete 30 hours of additional education",
+        "Wait 90 days before resuming practice"
+      ],
+      "explanation": "When changing sponsoring brokers, a Texas sales agent must notify TREC of the sponsorship change. There is no requirement to retake the exam or complete additional education. The agent may begin working under the new broker once the change is properly reported.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["sponsorship_change", "broker_transfer", "TREC_notification"]
+    },
+    {
+      "key_topic_ref": "TX-03.2",
+      "question_text": "A licensee's status changes to inactive. A buyer asks the licensee to show properties and negotiate an offer. What should the licensee do?",
+      "correct_answer": "Decline because inactive licensees cannot practice",
+      "distractors": [
+        "Proceed if no commission is earned",
+        "Show property but refer negotiations to a broker",
+        "Accept if the buyer signs a liability waiver"
+      ],
+      "explanation": "A licensee on inactive status is prohibited from performing any real estate activity, including showing properties and negotiating offers. The licensee must reactivate the license before engaging in practice. No waiver or workaround permits practice while inactive.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inactive_status", "practice_prohibition", "license_status"]
+    },
+    {
+      "key_topic_ref": "TX-03.2",
+      "question_text": "A broker wants to advertise under the trade name 'Premier Realty Group.' What must the broker do before using this name?",
+      "correct_answer": "Register the assumed name with TREC",
+      "distractors": [
+        "File with the county clerk only",
+        "Get approval from the local MLS",
+        "No registration is needed for trade names"
+      ],
+      "explanation": "Texas requires that all assumed business names (trade names or DBAs) be registered with TREC before use. Using an unregistered assumed name in advertising or business operations is a violation. County clerk filing may also be required but does not substitute for TREC registration.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["assumed_name", "DBA", "TREC_registration", "advertising"]
+    },
+    {
+      "key_topic_ref": "TX-03.2",
+      "question_text": "A sales agent's sponsoring broker retires and closes the brokerage. The agent does not find a new sponsor. What is the agent's license status?",
+      "correct_answer": "The license becomes inactive",
+      "distractors": [
+        "The license is automatically revoked",
+        "The agent has 1 year to find a new broker",
+        "The license converts to a broker license"
+      ],
+      "explanation": "When a sales agent loses broker sponsorship and does not obtain a new sponsor, the license reverts to inactive status. An inactive license is not revoked and can be reactivated later by securing a new sponsoring broker. However, the agent cannot practice while inactive.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["inactive_status", "sponsorship_loss", "broker_closure"]
+    },
+    {
+      "key_topic_ref": "TX-03.2",
+      "question_text": "An agent uses the name 'Sunset Homes' on business cards without registering it with TREC. What is the consequence?",
+      "correct_answer": "The agent is in violation of TREC rules",
+      "distractors": [
+        "No consequence if the name is not misleading",
+        "The agent receives a warning for first offense only",
+        "Only brokers must register assumed names"
+      ],
+      "explanation": "Using an unregistered assumed name is a violation of TREC rules, regardless of whether the name is misleading. Both brokers and sales agents must register assumed names with TREC before use. Violations can result in disciplinary action including fines.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["assumed_name", "violation", "TREC_rules", "advertising"]
+    }
+  ]
+}

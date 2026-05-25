@@ -1,0 +1,228 @@
+{
+  "standard_ref": "MA-12",
+  "scope": "state",
+  "state": "MA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MA-12.1",
+      "question_text": "Under Massachusetts Lead Law, properties built before which year are presumed to contain lead paint?",
+      "correct_answer": "1978",
+      "distractors": ["1960", "1985", "1950"],
+      "explanation": "Properties built before 1978 are presumed to contain lead paint. This is consistent with the federal standard, but Massachusetts has stricter enforcement requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead-paint", "1978", "presumption"]
+    },
+    {
+      "key_topic_ref": "MA-12.1",
+      "question_text": "A family with a 4-year-old moves into a 1965 rental. The landlord discovers lead paint in the unit. Under Massachusetts law, the landlord must:",
+      "correct_answer": "De-lead or bring the property into compliance",
+      "distractors": ["Only notify the tenant of the hazard", "Wait until the child turns 6 to act", "Relocate the tenant at the landlord's expense"],
+      "explanation": "Massachusetts Lead Law requires owners to de-lead or bring into compliance any pre-1978 property where a child under 6 resides. This is one of the strictest lead laws in the nation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lead-paint", "de-leading", "child-under-6"]
+    },
+    {
+      "key_topic_ref": "MA-12.1",
+      "question_text": "As an alternative to full de-leading, a property owner may use:",
+      "correct_answer": "Interim controls",
+      "distractors": ["A lead paint disclaimer in the lease", "Paint-over encapsulation without testing", "A tenant waiver of lead paint rights"],
+      "explanation": "Interim controls are a lower-cost alternative to full de-leading but must be maintained over time. Waivers of lead paint rights are not valid, and simple paint-over without proper process is insufficient.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead-paint", "interim-controls", "alternative"]
+    },
+    {
+      "key_topic_ref": "MA-12.1",
+      "question_text": "A child in a pre-1978 rental is diagnosed with lead poisoning. The property owner may be held:",
+      "correct_answer": "Strictly liable for the child's injuries",
+      "distractors": ["Liable only if negligence is proven", "Not liable if they were unaware of lead", "Liable only if the paint was visibly peeling"],
+      "explanation": "Massachusetts imposes strict liability on property owners for lead poisoning in pre-1978 homes. This means liability exists regardless of fault or the owner's knowledge of the hazard.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["lead-paint", "strict-liability", "poisoning"]
+    },
+    {
+      "key_topic_ref": "MA-12.1",
+      "question_text": "In addition to Massachusetts Lead Law, sellers of pre-1978 homes must also comply with:",
+      "correct_answer": "Federal lead paint disclosure requirements",
+      "distractors": ["State asbestos disclosure rules for sellers", "Local radon testing mandates for transfers", "Wetlands Protection Act filing requirements"],
+      "explanation": "Both federal law (EPA pamphlet and disclosure) and Massachusetts Lead Law apply to pre-1978 properties. The federal disclosure is required at the time of sale or lease.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lead-paint", "federal-disclosure", "EPA"]
+    },
+    {
+      "key_topic_ref": "MA-12.2",
+      "question_text": "A property not connected to public sewer must pass which inspection before it can be transferred?",
+      "correct_answer": "Title 5 septic inspection",
+      "distractors": ["State fire marshal inspection", "Building code compliance review", "Environmental impact assessment"],
+      "explanation": "Title 5 (310 CMR 15.00) requires a septic system inspection for properties not connected to public sewer at the time of transfer. A failed system must be repaired or replaced.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-5", "septic", "transfer"]
+    },
+    {
+      "key_topic_ref": "MA-12.2",
+      "question_text": "A Title 5 inspection was done 18 months ago but the system has NOT been pumped annually. Is this inspection still valid for a property transfer?",
+      "correct_answer": "Yes, it is valid for 2 years without annual pumping",
+      "distractors": ["No, it expired after 12 months without pumping", "Yes, it is valid for 5 years regardless of pumping", "Only if re-certified by the local Board of Health"],
+      "explanation": "A Title 5 inspection is valid for 2 years prior to transfer, or 3 years if the system is pumped annually. At 18 months without annual pumping, the 2-year window still applies.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["title-5", "validity", "timing"]
+    },
+    {
+      "key_topic_ref": "MA-12.2",
+      "question_text": "A Title 5 inspection reveals a failed septic system. Who is typically responsible for repair or replacement?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer after closing", "The local Board of Health", "The mortgage lender"],
+      "explanation": "The seller is typically responsible for Title 5 compliance, including repair or replacement of a failed system. A failed septic can significantly impact property value and the ability to sell.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-5", "failed-system", "seller"]
+    },
+    {
+      "key_topic_ref": "MA-12.2",
+      "question_text": "A homeowner pumps their septic system every year. Their Title 5 inspection is valid for:",
+      "correct_answer": "3 years",
+      "distractors": ["2 years", "5 years", "1 year"],
+      "explanation": "If the septic system is pumped annually, the Title 5 inspection validity extends from 2 years to 3 years. Annual pumping demonstrates proper system maintenance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-5", "validity", "annual-pumping"]
+    },
+    {
+      "key_topic_ref": "MA-12.2",
+      "question_text": "A Title 5 inspection report must be submitted to which local authority?",
+      "correct_answer": "The local Board of Health",
+      "distractors": ["The Registry of Deeds", "The Conservation Commission", "The Board of Registration"],
+      "explanation": "Title 5 inspection reports must be submitted to the local Board of Health, which oversees septic system compliance. The Board of Health reviews and maintains records of all inspections.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title-5", "board-of-health", "report"]
+    },
+    {
+      "key_topic_ref": "MA-12.3",
+      "question_text": "A seller is preparing to close on their home. They must obtain a certificate of compliance for smoke and CO detectors from:",
+      "correct_answer": "The local fire department",
+      "distractors": ["The Board of Registration", "The building inspector", "The buyer's home inspector"],
+      "explanation": "A certificate of compliance for smoke and CO detectors is issued by the local fire department and is required before closing on a residential property sale in Massachusetts.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["smoke-CO", "certificate", "fire-department"]
+    },
+    {
+      "key_topic_ref": "MA-12.3",
+      "question_text": "Carbon monoxide detectors must be installed on which levels of a Massachusetts residence?",
+      "correct_answer": "Every habitable level",
+      "distractors": ["Only the basement and ground floor", "Only levels with gas appliances", "Only the bedroom level"],
+      "explanation": "CO detectors are required on every habitable level of a residence. This includes all floors where people live, not just levels with fuel-burning appliances.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["smoke-CO", "carbon-monoxide", "habitable-level"]
+    },
+    {
+      "key_topic_ref": "MA-12.3",
+      "question_text": "A closing is scheduled for next week but the seller has not yet obtained a smoke/CO certificate. The seller should:",
+      "correct_answer": "Contact the fire department immediately",
+      "distractors": ["Proceed to closing without the certificate", "Ask the buyer to waive the requirement", "Install detectors and self-certify"],
+      "explanation": "The seller must obtain a certificate of compliance from the local fire department before closing. There is no self-certification option — the fire department must inspect and issue the certificate.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["smoke-CO", "certificate", "closing"]
+    },
+    {
+      "key_topic_ref": "MA-12.3",
+      "question_text": "A buyer is purchasing a home. Who is responsible for obtaining the smoke and CO detector certificate of compliance?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "The buyer's attorney", "The mortgage lender"],
+      "explanation": "The seller is responsible for ensuring the property complies with smoke and CO detector requirements and must obtain the certificate of compliance from the fire department before closing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["smoke-CO", "seller-responsibility", "closing"]
+    },
+    {
+      "key_topic_ref": "MA-12.3",
+      "question_text": "The smoke and CO detector certificate of compliance is required at which point in the transaction?",
+      "correct_answer": "At the time of sale (before closing)",
+      "distractors": ["Within 30 days after closing", "Only when the buyer moves in", "Only for properties built before 1990"],
+      "explanation": "The certificate of compliance is required at the time of sale, before closing. The seller is responsible for obtaining it from the local fire department.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["smoke-CO", "timing", "closing"]
+    },
+    {
+      "key_topic_ref": "MA-12.4",
+      "question_text": "A developer wants to build within 75 feet of a wetland. Under the Wetlands Protection Act, the developer must:",
+      "correct_answer": "File with the local Conservation Commission",
+      "distractors": ["Obtain a federal EPA permit only", "Simply notify abutting property owners", "Proceed if the impact is minimal"],
+      "explanation": "Activities within 100 feet of a wetland require filing with the local Conservation Commission under MGL c.131 §40. At 75 feet, the project falls within the regulated buffer zone.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["wetlands", "conservation-commission", "buffer-zone"]
+    },
+    {
+      "key_topic_ref": "MA-12.4",
+      "question_text": "The Wetlands Protection Act regulates activities within what distance of a perennial river?",
+      "correct_answer": "200 feet",
+      "distractors": ["100 feet", "50 feet", "500 feet"],
+      "explanation": "Activities within 200 feet of a perennial river (or 100 feet of a wetland) require filing with the Conservation Commission. The river buffer is larger due to greater ecological sensitivity.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wetlands", "river", "200-feet"]
+    },
+    {
+      "key_topic_ref": "MA-12.4",
+      "question_text": "After reviewing a project near a wetland, the Conservation Commission issues:",
+      "correct_answer": "An Order of Conditions",
+      "distractors": ["A Building Permit", "A Certificate of Title", "A Determination of Value"],
+      "explanation": "The Conservation Commission reviews filings and issues Orders of Conditions, which specify what activities are allowed and under what conditions. These are legally binding.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wetlands", "order-of-conditions", "conservation"]
+    },
+    {
+      "key_topic_ref": "MA-12.4",
+      "question_text": "A buyer is purchasing a property near a wetland. During due diligence, the buyer should:",
+      "correct_answer": "Investigate wetland boundaries and restrictions",
+      "distractors": ["Assume the seller handled all permits", "Only check if building is on the wetland itself", "Rely solely on the MLS listing description"],
+      "explanation": "Buyers should investigate wetland boundaries as part of due diligence because wetland restrictions can significantly limit what can be done with the property, even within the 100-200 foot buffer zone.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["wetlands", "due-diligence", "buyer"]
+    },
+    {
+      "key_topic_ref": "MA-12.4",
+      "question_text": "A property owner fills in a small area of wetland without Conservation Commission approval. The owner may face:",
+      "correct_answer": "Fines and restoration orders",
+      "distractors": ["No consequences for small areas", "Only a verbal warning", "A tax penalty from the assessor"],
+      "explanation": "Violations of the Wetlands Protection Act can result in fines and restoration orders requiring the owner to return the wetland to its original condition. Size of the area does not determine whether enforcement applies.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["wetlands", "violation", "enforcement"]
+    }
+  ]
+}

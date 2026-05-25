@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WA-02",
+  "scope": "state",
+  "state": "WA",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "WA-02.1",
+      "question_text": "In Washington, what is the entry-level real estate license called?",
+      "correct_answer": "Broker",
+      "distractors": ["Sales associate", "Salesperson", "Agent"],
+      "explanation": "Since July 1, 2010, Washington's entry-level license is called 'broker.' Previously it was called 'salesperson.' This terminology differs from many other states where 'broker' refers to a higher-level license.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "license-types", "entry-level"]
+    },
+    {
+      "key_topic_ref": "WA-02.1",
+      "question_text": "Before July 1, 2010, Washington's entry-level license was called what?",
+      "correct_answer": "Salesperson",
+      "distractors": ["Broker", "Managing broker", "Associate broker"],
+      "explanation": "Washington renamed its license types effective July 1, 2010. The entry-level 'salesperson' became 'broker,' the mid-level 'broker' became 'managing broker,' and the top-level license became the 'designated broker' endorsement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["salesperson", "license-history", "2010-rename"]
+    },
+    {
+      "key_topic_ref": "WA-02.1",
+      "question_text": "A newly licensed Washington broker wants to work for two different firms simultaneously. Is this permitted?",
+      "correct_answer": "No, only one firm at a time",
+      "distractors": ["Yes, up to two firms", "Yes, with DOL approval", "Yes, if both firms consent"],
+      "explanation": "A Washington broker must be licensed with only one firm at a time. To change firms, the broker must transfer their license through the DOL. This ensures clear supervision and accountability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker", "firm-affiliation", "single-firm"]
+    },
+    {
+      "key_topic_ref": "WA-02.1",
+      "question_text": "A licensee from another state refers to herself as a 'salesperson.' What is the equivalent Washington license title?",
+      "correct_answer": "Broker",
+      "distractors": ["Managing broker", "Designated broker", "Associate agent"],
+      "explanation": "Washington's 'broker' license is equivalent to what most other states call a 'salesperson' or 'sales associate.' The 2010 rename changed terminology but not the fundamental role of the entry-level licensee.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker", "license-types", "terminology"]
+    },
+    {
+      "key_topic_ref": "WA-02.1",
+      "question_text": "Which statement accurately describes the Washington broker license after the 2010 terminology change?",
+      "correct_answer": "It is the entry-level license",
+      "distractors": ["It allows managing a branch", "It requires three years experience", "It includes a firm endorsement"],
+      "explanation": "After the July 1, 2010 rename, the broker license became Washington's entry-level license. Managing a branch requires a managing broker license, and operating a firm requires a designated broker endorsement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker", "entry-level", "2010-rename"]
+    },
+    {
+      "key_topic_ref": "WA-02.2",
+      "question_text": "What was the managing broker license called before 2010?",
+      "correct_answer": "Broker",
+      "distractors": ["Salesperson", "Associate broker", "Principal broker"],
+      "explanation": "Before July 1, 2010, what is now called a 'managing broker' was simply called a 'broker.' The rename clarified the supervisory role this license holder plays in a firm.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["managing-broker", "license-history", "2010-rename"]
+    },
+    {
+      "key_topic_ref": "WA-02.2",
+      "question_text": "A managing broker wants to oversee two branch offices. Is this allowed under Washington law?",
+      "correct_answer": "No, only one branch office",
+      "distractors": ["Yes, up to three branches", "Yes, with DOL approval", "Yes, if both are in the same county"],
+      "explanation": "A Washington managing broker can manage only one branch office. If a firm has multiple branches, each must have its own managing broker to ensure adequate supervision.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["managing-broker", "branch-office", "supervision"]
+    },
+    {
+      "key_topic_ref": "WA-02.2",
+      "question_text": "A broker obtained her license 18 months ago. What level of supervision must her managing broker provide?",
+      "correct_answer": "Heightened supervision",
+      "distractors": ["Standard supervision only", "No direct supervision needed", "Monthly check-ins only"],
+      "explanation": "Washington requires managing brokers to provide heightened supervision to brokers during their first 2 years of licensure. This ensures new licensees receive additional guidance as they gain experience.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["managing-broker", "heightened-supervision", "new-broker"]
+    },
+    {
+      "key_topic_ref": "WA-02.2",
+      "question_text": "After how many years of active practice does a Washington broker no longer require heightened supervision?",
+      "correct_answer": "2 years",
+      "distractors": ["1 year", "3 years", "5 years"],
+      "explanation": "The heightened supervision requirement applies during a broker's first 2 years of licensure. After completing 2 years of active practice, the broker transitions to standard supervision under their managing broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["heightened-supervision", "new-broker", "timeline"]
+    },
+    {
+      "key_topic_ref": "WA-02.2",
+      "question_text": "Which responsibility distinguishes a managing broker from an entry-level broker in Washington?",
+      "correct_answer": "Supervising other brokers",
+      "distractors": ["Listing residential property", "Preparing market analyses", "Negotiating purchase offers"],
+      "explanation": "The key distinction of a managing broker is the authority and responsibility to supervise other brokers. Entry-level brokers can list property, prepare analyses, and negotiate offers, but cannot supervise other licensees.",
+      "difficulty": "easy",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["managing-broker", "supervision", "license-types"]
+    },
+    {
+      "key_topic_ref": "WA-02.3",
+      "question_text": "The designated broker endorsement is added to which license type?",
+      "correct_answer": "Managing broker license",
+      "distractors": ["Broker license", "Firm license", "Branch office license"],
+      "explanation": "The designated broker is not a separate license but an endorsement added to a managing broker license. Only managing brokers can apply for the designated broker endorsement to operate a real estate firm.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["designated-broker", "endorsement", "managing-broker"]
+    },
+    {
+      "key_topic_ref": "WA-02.3",
+      "question_text": "How many designated brokers must a Washington real estate firm have?",
+      "correct_answer": "Exactly one",
+      "distractors": ["At least two", "One per branch office", "None if under 10 agents"],
+      "explanation": "Each Washington real estate firm must have exactly one designated broker. This person holds ultimate responsibility for all firm activities and must have a controlling interest in the firm.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["designated-broker", "firm-requirements", "one-per-firm"]
+    },
+    {
+      "key_topic_ref": "WA-02.3",
+      "question_text": "A designated broker's firm is found to have trust account violations. Who bears ultimate responsibility?",
+      "correct_answer": "The designated broker",
+      "distractors": ["The managing broker only", "The broker who made the error", "The firm's accountant"],
+      "explanation": "The designated broker has ultimate responsibility for all firm activities, including trust account management. While others may have made the specific error, the designated broker is accountable to the DOL for all firm operations.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["designated-broker", "firm-responsibility", "trust-accounts"]
+    },
+    {
+      "key_topic_ref": "WA-02.3",
+      "question_text": "Can a managing broker with a designated broker endorsement serve as designated broker for more than one firm?",
+      "correct_answer": "Yes, for multiple firms",
+      "distractors": ["No, only one firm", "Only with DOL waiver", "Only for firms in the same county"],
+      "explanation": "Washington law allows a designated broker to serve as DB for more than one firm. However, they must maintain a controlling interest in each firm and bear ultimate responsibility for all activities at every firm they oversee.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["designated-broker", "multiple-firms", "endorsement"]
+    },
+    {
+      "key_topic_ref": "WA-02.3",
+      "question_text": "What ownership requirement must a designated broker meet within their firm?",
+      "correct_answer": "Controlling interest in the firm",
+      "distractors": ["Any ownership percentage", "At least 10% ownership", "No ownership required"],
+      "explanation": "A designated broker must have a controlling interest in the firm. This ensures the person ultimately responsible for the firm's activities also has the authority to direct and manage its operations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["designated-broker", "controlling-interest", "ownership"]
+    }
+  ]
+}

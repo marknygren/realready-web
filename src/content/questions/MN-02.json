@@ -1,0 +1,233 @@
+{
+  "standard_ref": "MN-02",
+  "scope": "state",
+  "state": "MN",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "MN-02.1",
+      "question_text": "How many hours of pre-license education are required for a salesperson license in Minnesota?",
+      "correct_answer": "90 hours",
+      "distractors": [
+        "60 hours",
+        "120 hours",
+        "75 hours"
+      ],
+      "explanation": "Minnesota requires 90 hours of pre-license education for salesperson candidates, divided into three 30-hour courses. Course I must be completed before sitting for the exam, while Courses II and III must be completed before the license is issued.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license_education", "salesperson", "90_hours"]
+    },
+    {
+      "key_topic_ref": "MN-02.1",
+      "question_text": "A salesperson candidate in Minnesota has completed Course I and wants to sit for the licensing exam. Must she also complete Courses II and III before the exam?",
+      "correct_answer": "No, only Course I is required before the exam",
+      "distractors": [
+        "Yes, all three courses are required first",
+        "No, none of the courses are needed for the exam",
+        "Yes, Courses I and II must both be done first"
+      ],
+      "explanation": "Minnesota allows candidates to sit for the licensing exam after completing only Course I. Courses II and III must be completed before the actual license is issued but are not prerequisites for the exam itself.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["pre-license_education", "exam_eligibility", "Course_I"]
+    },
+    {
+      "key_topic_ref": "MN-02.1",
+      "question_text": "A licensed salesperson with 2 years of experience applies for a broker license in Minnesota. She has completed the required 30 additional hours of broker education. Will her application be approved?",
+      "correct_answer": "No, she needs at least 3 years of experience",
+      "distractors": [
+        "Yes, she meets all requirements",
+        "No, brokers need 60 additional hours",
+        "Yes, if her broker provides a recommendation"
+      ],
+      "explanation": "Minnesota requires broker candidates to have at least 3 years of experience as a licensed salesperson in addition to completing 30 hours of broker-specific education. With only 2 years of experience, the applicant does not yet qualify for a broker license.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker_license", "experience_requirement", "3_years"]
+    },
+    {
+      "key_topic_ref": "MN-02.1",
+      "question_text": "How many additional education hours beyond salesperson courses must a broker candidate complete in Minnesota?",
+      "correct_answer": "30 hours",
+      "distractors": [
+        "60 hours",
+        "45 hours",
+        "15 hours"
+      ],
+      "explanation": "A broker candidate in Minnesota must complete 30 additional hours of broker-specific education beyond the 90 hours of salesperson pre-license courses. This broker education covers advanced topics such as brokerage management and supervision.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker_license", "education", "30_hours"]
+    },
+    {
+      "key_topic_ref": "MN-02.1",
+      "question_text": "A candidate passes the Minnesota salesperson exam but has only finished Course I. What must she do before receiving her license?",
+      "correct_answer": "Complete Courses II and III",
+      "distractors": [
+        "Retake the exam after all courses",
+        "Complete only Course II",
+        "Submit a waiver request to Commerce"
+      ],
+      "explanation": "After passing the exam, the candidate must complete Courses II and III before the license will be issued. Minnesota allows the exam after Course I, but all 90 hours across three courses must be finished for license activation. No waiver is available for this requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["pre-license_education", "Course_II", "Course_III", "license_issuance"]
+    },
+    {
+      "key_topic_ref": "MN-02.2",
+      "question_text": "How many continuing education hours must a Minnesota licensee complete during each 2-year renewal cycle?",
+      "correct_answer": "30 hours",
+      "distractors": [
+        "24 hours",
+        "15 hours",
+        "45 hours"
+      ],
+      "explanation": "Minnesota requires 30 hours of continuing education every 2 years for license renewal. This requirement ensures licensees stay current with changes in law, market practices, and professional standards throughout their career.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing_education", "renewal", "30_hours"]
+    },
+    {
+      "key_topic_ref": "MN-02.2",
+      "question_text": "A newly licensed salesperson obtained her license 10 months ago and has completed 12 hours of continuing education. Has she met the first-year CE requirement?",
+      "correct_answer": "No, 15 hours are required in the first 12 months",
+      "distractors": [
+        "Yes, 12 hours exceeds the first-year minimum",
+        "No, all 30 hours must be done in the first year",
+        "Yes, there is no first-year requirement"
+      ],
+      "explanation": "Minnesota imposes a special requirement that newly licensed salespersons complete 15 hours of continuing education within their first 12 months of licensure. With only 12 hours done and 2 months remaining, she still needs 3 more hours to meet this specific deadline.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["continuing_education", "first_year", "15_hours"]
+    },
+    {
+      "key_topic_ref": "MN-02.2",
+      "question_text": "A licensee completes 30 hours of elective CE courses but none of the state-mandated required modules. Has the licensee satisfied renewal requirements?",
+      "correct_answer": "No, required state-mandated modules must be included",
+      "distractors": [
+        "Yes, only total hours matter for renewal",
+        "Yes, if the broker approves the course selections",
+        "No, but only if the licensee is a first-time renewer"
+      ],
+      "explanation": "Minnesota's CE program includes state-mandated required modules that must be completed as part of the 30-hour requirement. Simply accumulating 30 hours of elective courses does not satisfy renewal requirements if the mandatory topics are not included.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["continuing_education", "required_modules", "renewal"]
+    },
+    {
+      "key_topic_ref": "MN-02.2",
+      "question_text": "A licensee completes all 30 hours of CE but fails to submit the renewal application by the deadline. What happens to the license?",
+      "correct_answer": "The license expires and must be reinstated",
+      "distractors": [
+        "The license remains active with a late fee",
+        "The licensee gets an automatic 90-day extension",
+        "The CE hours carry over to the next cycle"
+      ],
+      "explanation": "In Minnesota, failing to submit the renewal application by the deadline results in license expiration regardless of whether CE hours were completed. The licensee must then go through a reinstatement process. There is no automatic extension or grace period.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["renewal", "license_expiration", "reinstatement"]
+    },
+    {
+      "key_topic_ref": "MN-02.2",
+      "question_text": "Which of the following is part of Minnesota's continuing education requirement for every renewal cycle?",
+      "correct_answer": "Required state-mandated topic modules",
+      "distractors": [
+        "A proctored exam on current law",
+        "Supervised field training hours",
+        "A broker attestation of competency"
+      ],
+      "explanation": "Minnesota's CE program includes state-mandated topic modules that all licensees must complete as part of their 30-hour requirement. The specific topics change each cycle. Minnesota does not require a proctored exam, field training hours, or broker attestation as part of CE renewal.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing_education", "required_modules", "renewal"]
+    },
+    {
+      "key_topic_ref": "MN-02.3",
+      "question_text": "A Wisconsin-licensed agent applies for a Minnesota license under the reciprocity agreement. What must she complete?",
+      "correct_answer": "A 13-hour reciprocity course and state exam",
+      "distractors": [
+        "The full 90 hours of MN pre-license education",
+        "Only the Minnesota state exam",
+        "A 30-hour bridge course and national exam"
+      ],
+      "explanation": "Minnesota and Wisconsin have a specific reciprocity arrangement. Wisconsin licensees must complete a 13-hour Minnesota reciprocity course covering state-specific law and pass the Minnesota state exam. They do not need to complete the full 90-hour pre-license education.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["reciprocity", "Wisconsin", "13_hour_course"]
+    },
+    {
+      "key_topic_ref": "MN-02.3",
+      "question_text": "A nonresident applicant from Illinois applies for a Minnesota real estate license. What exam component must she pass?",
+      "correct_answer": "The Minnesota state-specific exam portion",
+      "distractors": [
+        "Both the national and state portions",
+        "No exam is required for nonresidents",
+        "Only the national portion of the exam"
+      ],
+      "explanation": "Nonresident applicants from states other than Wisconsin must pass the Minnesota state-specific exam. If they hold an active license in their home state, Minnesota generally requires only the state portion, recognizing the national education and exam from their home state.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["nonresident_licensing", "state_exam", "reciprocity"]
+    },
+    {
+      "key_topic_ref": "MN-02.3",
+      "question_text": "An Iowa-licensed agent wants to practice real estate in Minnesota. She is not eligible for the Wisconsin reciprocity course. What is her path to licensure?",
+      "correct_answer": "Pass the MN state exam portion",
+      "distractors": [
+        "Complete the 13-hour WI reciprocity course",
+        "Complete all 90 hours of MN pre-license courses",
+        "Obtain a temporary practice permit first"
+      ],
+      "explanation": "Nonresident licensees from states other than Wisconsin must pass the Minnesota state-specific exam portion. The 13-hour reciprocity course is only available to Wisconsin licensees. Minnesota does not require the full 90-hour pre-license education for actively licensed nonresidents.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["nonresident_licensing", "state_exam", "Iowa"]
+    },
+    {
+      "key_topic_ref": "MN-02.3",
+      "question_text": "Which state has a specific reciprocity course arrangement with Minnesota for real estate licensing?",
+      "correct_answer": "Wisconsin",
+      "distractors": [
+        "Iowa",
+        "North Dakota",
+        "South Dakota"
+      ],
+      "explanation": "Minnesota has a specific reciprocity arrangement only with Wisconsin, which includes a dedicated 13-hour reciprocity course. While nonresidents from other states can obtain Minnesota licensure, they do not have a reciprocity course arrangement and must follow the standard nonresident application process.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["reciprocity", "Wisconsin", "nonresident_licensing"]
+    },
+    {
+      "key_topic_ref": "MN-02.3",
+      "question_text": "A Wisconsin broker completes the 13-hour reciprocity course but does not take the Minnesota state exam. Can she receive a Minnesota license?",
+      "correct_answer": "No, the state exam is still required",
+      "distractors": [
+        "Yes, the course waives the exam requirement",
+        "Yes, if she has 5 or more years of experience",
+        "No, she must also complete Course I"
+      ],
+      "explanation": "Even under the Wisconsin reciprocity arrangement, candidates must pass the Minnesota state exam in addition to completing the 13-hour reciprocity course. The course reduces the education requirement but does not waive the examination. Both components are mandatory for licensure.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["reciprocity", "Wisconsin", "state_exam"]
+    }
+  ]
+}

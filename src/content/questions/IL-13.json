@@ -1,0 +1,233 @@
+{
+  "standard_ref": "IL-13",
+  "scope": "state",
+  "state": "IL",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IL-13.1",
+      "question_text": "A property sells for $250,000 in DuPage County. What is the Illinois state transfer tax owed?",
+      "correct_answer": "$250 in state transfer tax",
+      "distractors": [
+        "$500 in state transfer tax",
+        "$125 in state transfer tax",
+        "$1,250 in state transfer tax"
+      ],
+      "explanation": "The Illinois state transfer tax rate is $0.50 per $500 of value, which equals $1.00 per $1,000. For a $250,000 sale: $250,000 / $500 = 500 increments x $0.50 = $250. The $500 distractor confuses the rate with $1.00 per $500, and $125 confuses the county rate.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["state_transfer_tax", "tax_calculation", "Illinois"]
+    },
+    {
+      "key_topic_ref": "IL-13.1",
+      "question_text": "A divorcing couple transfers their marital home as part of their settlement agreement. How are Illinois transfer taxes affected?",
+      "correct_answer": "The transfer is exempt from transfer taxes",
+      "distractors": [
+        "Both parties split the transfer tax equally",
+        "The seller pays the full transfer tax",
+        "Only the county transfer tax is waived"
+      ],
+      "explanation": "Transfers between spouses, including those made as part of a divorce settlement, are exempt from Illinois state and county transfer taxes. This exemption recognizes that such transfers do not represent typical arm's-length transactions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer_tax_exemption", "spousal_transfer", "divorce"]
+    },
+    {
+      "key_topic_ref": "IL-13.1",
+      "question_text": "A residential property sells for $180,000 in Lake County. What is the combined state and county transfer tax?",
+      "correct_answer": "$270",
+      "distractors": [
+        "$1,350",
+        "$180",
+        "$360"
+      ],
+      "explanation": "State tax: $180,000 / $500 = 360 increments x $0.50 = $180. County tax: 360 increments x $0.25 = $90. Combined total: $180 + $90 = $270. The $1,350 distractor incorrectly uses $0.75 per $100, and $180 omits the county portion.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["state_transfer_tax", "county_transfer_tax", "tax_calculation"]
+    },
+    {
+      "key_topic_ref": "IL-13.1",
+      "question_text": "Where does a buyer in Illinois obtain the tax stamps that evidence payment of state and county transfer taxes?",
+      "correct_answer": "From the county recorder's office",
+      "distractors": [
+        "From the Illinois Department of Revenue",
+        "From the title insurance company",
+        "From the municipal clerk's office"
+      ],
+      "explanation": "In Illinois, tax stamps documenting payment of state and county transfer taxes are obtained from the county recorder's office. The stamps are affixed to or noted on the deed when it is recorded. The Department of Revenue oversees the program but does not sell stamps directly.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tax_stamps", "county_recorder", "transfer_tax"]
+    },
+    {
+      "key_topic_ref": "IL-13.1",
+      "question_text": "In a typical Illinois residential transaction outside Chicago, which party customarily pays the state and county transfer taxes?",
+      "correct_answer": "The seller pays both taxes",
+      "distractors": [
+        "The buyer pays both taxes",
+        "The buyer pays state and seller pays county",
+        "Each party pays half of both taxes"
+      ],
+      "explanation": "By Illinois custom, the seller typically pays both the state and county transfer taxes, though local custom may vary. This is a negotiable item, but the prevailing practice throughout most of Illinois places this obligation on the seller.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer_tax", "seller_responsibility", "closing_costs"]
+    },
+    {
+      "key_topic_ref": "IL-13.2",
+      "question_text": "A condominium in Chicago sells for $400,000. What is the total Chicago Real Property Transfer Tax?",
+      "correct_answer": "$4,200",
+      "distractors": [
+        "$3,000",
+        "$1,200",
+        "$21,000"
+      ],
+      "explanation": "The Chicago Real Property Transfer Tax is $5.25 per $500 of value. $400,000 / $500 = 800 increments x $5.25 = $4,200. The $3,000 distractor uses only the City portion ($3.75 per $500), and $1,200 uses only the CTA portion ($1.50 per $500).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Chicago_transfer_tax", "tax_calculation", "RPTT"]
+    },
+    {
+      "key_topic_ref": "IL-13.2",
+      "question_text": "In a Chicago home sale, the CTA portion of the city transfer tax is $1.50 per $500. Which party customarily pays this portion?",
+      "correct_answer": "The seller pays the CTA portion",
+      "distractors": [
+        "The buyer pays the CTA portion",
+        "The CTA portion is split equally",
+        "The closing agent chooses who pays"
+      ],
+      "explanation": "In Chicago, the transfer tax is split between buyer and seller. The seller customarily pays the CTA portion of $1.50 per $500, which funds the Chicago Transit Authority. The buyer customarily pays the City portion of $3.75 per $500.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CTA_tax", "Chicago_transfer_tax", "seller_responsibility"]
+    },
+    {
+      "key_topic_ref": "IL-13.2",
+      "question_text": "A townhome sells for $300,000 in Chicago. What is the combined transfer tax from all three taxing bodies?",
+      "correct_answer": "$3,600",
+      "distractors": [
+        "$3,150",
+        "$18,000",
+        "$3,300"
+      ],
+      "explanation": "Total rate in Chicago: $6.00 per $500 (state $0.50 + county $0.25 + Chicago $5.25). $300,000 / $500 = 600 increments x $6.00 = $3,600. The $3,150 distractor uses only the Chicago tax, and $450 uses only the state and county taxes combined.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["combined_transfer_tax", "Chicago", "tax_calculation"]
+    },
+    {
+      "key_topic_ref": "IL-13.2",
+      "question_text": "A buyer purchases a $500,000 property in Chicago. How much of the Chicago city transfer tax is the buyer customarily responsible for?",
+      "correct_answer": "$3,750 for the City portion",
+      "distractors": [
+        "$5,250 for the full Chicago tax",
+        "$1,500 for the CTA portion",
+        "$2,625 for half of the Chicago tax"
+      ],
+      "explanation": "The buyer customarily pays the City portion of the Chicago transfer tax at $3.75 per $500. For a $500,000 sale: $500,000 / $500 = 1,000 increments x $3.75 = $3,750. The seller customarily pays the CTA portion of $1,500.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Chicago_transfer_tax", "buyer_responsibility", "City_portion"]
+    },
+    {
+      "key_topic_ref": "IL-13.2",
+      "question_text": "A broker is explaining Chicago closing costs to a client relocating from the suburbs. Which statement accurately describes the Chicago transfer tax?",
+      "correct_answer": "It layers on top of state and county taxes",
+      "distractors": [
+        "It replaces the county transfer tax entirely",
+        "It applies only to commercial property transfers",
+        "It is a voluntary tax for residential sales only"
+      ],
+      "explanation": "The Chicago Real Property Transfer Tax is an additional municipal tax layered on top of the state and county transfer taxes. It does not replace either tax. The Chicago tax applies to all real property transfers within the city, not just commercial properties, and it is mandatory.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Chicago_transfer_tax", "municipal_tax", "layered_taxes"]
+    },
+    {
+      "key_topic_ref": "IL-13.3",
+      "question_text": "A surveyor describes a parcel starting at an iron pin, then running N45E for 200 feet along a creek. Which legal description method is being used?",
+      "correct_answer": "Metes and bounds",
+      "distractors": [
+        "Rectangular survey system",
+        "Lot and block method",
+        "Assessor's parcel number"
+      ],
+      "explanation": "Metes and bounds descriptions identify property boundaries using compass directions, distances, and physical monuments or landmarks. References to a starting point (iron pin), directional bearings (N45E), and natural features (creek) are hallmarks of this method.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["metes_and_bounds", "legal_description", "survey_methods"]
+    },
+    {
+      "key_topic_ref": "IL-13.3",
+      "question_text": "An owner wants to divide a 10-acre parcel into three residential lots in an Illinois township. Under the Illinois Plat Act, what must occur?",
+      "correct_answer": "The land must be platted and approved",
+      "distractors": [
+        "Only a survey is required for three lots",
+        "The county recorder files a description only",
+        "No approval is needed for fewer than five lots"
+      ],
+      "explanation": "The Illinois Plat Act requires that any division of land into two or more parcels must be platted unless an exemption applies. The plat must be approved by local authorities before the lots can be sold. Simply obtaining a survey or filing a description is not sufficient.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Illinois_Plat_Act", "subdivision", "platting"]
+    },
+    {
+      "key_topic_ref": "IL-13.3",
+      "question_text": "A deed references 'Lot 14, Block 3, Sunrise Hills Subdivision, as recorded in Plat Book 12, Page 45.' Which legal description method is this?",
+      "correct_answer": "Lot and block method",
+      "distractors": [
+        "Metes and bounds description",
+        "Rectangular government survey",
+        "Informal reference description"
+      ],
+      "explanation": "The lot and block method references specific lot numbers within a recorded subdivision plat. The inclusion of a plat book and page number where the subdivision plat is recorded is a key identifier of this method. It is the most common method for properties in developed subdivisions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lot_and_block", "recorded_plat", "legal_description"]
+    },
+    {
+      "key_topic_ref": "IL-13.3",
+      "question_text": "A title company discovers that a legal description in a purchase contract is ambiguous and could reference two different parcels. What is the most likely consequence?",
+      "correct_answer": "The contract may be unenforceable",
+      "distractors": [
+        "The larger parcel is automatically selected",
+        "The county recorder resolves the ambiguity",
+        "The assessor's PIN overrides the description"
+      ],
+      "explanation": "Legal descriptions must be accurate and unambiguous to create a valid conveyance. An ambiguous description that could identify two different parcels may render the contract unenforceable because the essential term of the property being conveyed is uncertain. A survey or corrected description would be needed.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["ambiguous_description", "enforceability", "title_issues"]
+    },
+    {
+      "key_topic_ref": "IL-13.3",
+      "question_text": "A property is described using the rectangular survey system as 'the NW 1/4 of the SE 1/4 of Section 12, T3N, R2E.' How many acres does this parcel contain?",
+      "correct_answer": "40 acres",
+      "distractors": [
+        "160 acres",
+        "80 acres",
+        "20 acres"
+      ],
+      "explanation": "A full section contains 640 acres. The SE 1/4 of a section is 160 acres, and the NW 1/4 of that quarter is 1/4 of 160 = 40 acres. The 160-acre distractor represents a full quarter section, and 80 acres represents a half-quarter section.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rectangular_survey", "government_survey", "acreage_calculation"]
+    }
+  ]
+}

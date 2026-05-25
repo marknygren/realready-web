@@ -1,0 +1,691 @@
+{
+  "standard_ref": "N-06",
+  "scope": "national",
+  "state": null,
+  "category": "ownership_transfer",
+  "questions": [
+    {
+      "key_topic_ref": "N-06.1",
+      "question_text": "Which of the following is required for a deed to be legally VALID between the grantor and grantee?",
+      "correct_answer": "The grantor must sign the deed",
+      "distractors": [
+        "The grantee must sign the deed",
+        "The deed must be notarized",
+        "The deed must be recorded in the county records"
+      ],
+      "explanation": "A valid deed requires: a competent grantor, an identifiable grantee, words of conveyance, a legal description, and the grantor's signature. The grantee does not need to sign. Notarization is not required for validity between the parties, but it is required for recording. Recording is not required for the deed to be valid — an unrecorded deed still transfers title between grantor and grantee. However, failure to record leaves the grantee vulnerable to claims by subsequent purchasers who had no notice.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "deed_requirements",
+        "valid_deed",
+        "grantor_grantee"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.1",
+      "question_text": "A deed has been signed by the grantor and is properly notarized, but the grantor dies before handing it to the grantee. Has title transferred?",
+      "correct_answer": "No",
+      "distractors": [
+        "Yes",
+        "Yes",
+        "No"
+      ],
+      "explanation": "Delivery and acceptance are essential elements of a valid deed transfer. Delivery means the grantor must voluntarily and unconditionally deliver the deed with the intent to immediately pass title. Acceptance means the grantee (or their agent) must accept it. If the grantor dies before delivering the deed, there has been no legal transfer — the property passes instead through the grantor's estate via will or intestacy. The signed deed alone proves intent, but intent without delivery is not sufficient to transfer title.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "deed_requirements",
+        "delivery_and_acceptance",
+        "title_transfer"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.2",
+      "question_text": "Which type of deed provides the GREATEST protection to the grantee?",
+      "correct_answer": "General warranty deed",
+      "distractors": [
+        "Special warranty deed",
+        "Quitclaim deed",
+        "Bargain and sale deed"
+      ],
+      "explanation": "A general warranty deed contains the broadest protection — the grantor covenants to defend the grantee against any title challenge from any source, even defects that arose before the grantor ever owned the property. A special warranty deed warrants only against defects arising during the grantor's period of ownership. A quitclaim deed provides no warranties at all — it transfers only whatever interest the grantor happens to have. A bargain and sale deed implies possession but offers no explicit title warranty.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "deed_types",
+        "general_warranty_deed",
+        "title_protection"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.2",
+      "question_text": "A buyer purchases a foreclosed property at a sheriff's sale. The deed received will most likely be a:",
+      "correct_answer": "Sheriff's deed",
+      "distractors": [
+        "General warranty deed",
+        "Special warranty deed",
+        "Quitclaim deed"
+      ],
+      "explanation": "A sheriff's deed (or trustee's deed in non-judicial foreclosures) is an involuntary conveyance issued by a court officer or trustee. It contains no warranties of title because the grantor is not the voluntary owner but rather a legal officer conducting a forced sale. Buyers at foreclosure auctions accept the property 'as-is' from a title standpoint and should obtain a title search and title insurance to identify any prior liens or title defects that survive the foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "deed_types",
+        "sheriffs_deed",
+        "foreclosure",
+        "involuntary_conveyance"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.2",
+      "question_text": "An ex-spouse wants to release any potential claim they may have to a property following a divorce. The MOST appropriate deed to use is a:",
+      "correct_answer": "Quitclaim deed",
+      "distractors": [
+        "General warranty deed",
+        "Special warranty deed",
+        "Bargain and sale deed"
+      ],
+      "explanation": "A quitclaim deed is the most appropriate tool for clearing potential title clouds because it transfers whatever interest — if any — the grantor has, without warranting that they actually have any interest at all. In a divorce, an ex-spouse may or may not have a legal claim. A quitclaim deed efficiently resolves the ambiguity by transferring any possible interest, allowing the title to be clarified without the grantor making any representation about the validity of their claim. It is commonly used for family transfers, trust transfers, and clearing title defects.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "deed_types",
+        "quitclaim_deed",
+        "title_clearing"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.3",
+      "question_text": "Which of the following is an example of VOLUNTARY alienation of real property?",
+      "correct_answer": "An owner sells property and delivers a deed to the buyer",
+      "distractors": [
+        "The government condemns property for a new highway",
+        "A lender forecloses on a delinquent mortgage",
+        "An owner dies intestate and the state takes the property"
+      ],
+      "explanation": "Voluntary alienation means the owner willingly and intentionally transfers title. Methods include sale (deed), gift (deed without consideration), and devise (transfer by will). The other options are all forms of involuntary alienation — the owner does not willingly transfer title: condemnation (government takes by eminent domain), foreclosure (lender forces sale due to default), and escheat (state claims property with no owner). The distinction matters because voluntary transfers require a competent, consenting grantor.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "voluntary_alienation",
+        "deed",
+        "title_transfer"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.4",
+      "question_text": "Which of the following is a requirement for a claimant to acquire title to property by adverse possession?",
+      "correct_answer": "Open, notorious, hostile, exclusive, actual, and continuous use",
+      "distractors": [
+        "A written agreement with the owner allowing the use",
+        "Payment of property taxes throughout the statutory period",
+        "The true owner's absence from the property for the statutory period"
+      ],
+      "explanation": "Adverse possession (involuntary alienation) requires the claimant's use to satisfy all five elements — remembered as OCEAN: Open and notorious (visible, not hidden), Continuous (uninterrupted for the statutory period), Exclusive (not shared with the true owner), Actual (physical use, not just a claim), and Notorious/Hostile (without the owner's permission). Some states also require payment of property taxes. Permissive use (with the owner's consent) cannot ripen into adverse possession because it lacks the 'hostile' element.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "adverse_possession",
+        "involuntary_alienation",
+        "OCEAN"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.4",
+      "question_text": "A neighbor has maintained and mowed a strip of land along their property line for 22 years, believing it was part of their lot. The statutory period for adverse possession in the state is 20 years. The true owner has never objected. The neighbor likely:",
+      "correct_answer": "Acquired title by adverse possession, having met all OCEAN elements",
+      "distractors": [
+        "Has not acquired title because a court judgment is required first",
+        "Has only acquired a prescriptive easement, not full ownership",
+        "Has not acquired title because the use was by mistake"
+      ],
+      "explanation": "The neighbor's continuous maintenance of the strip for 22 years (exceeding the 20-year statutory period) satisfies the OCEAN elements: the mowing was open and obvious, continuous, exclusive (neighbor mowed it, not the true owner), and hostile (without permission — ignorance of the true boundary does not defeat the hostility requirement in most states). The neighbor likely has a claim to title. Note: a court judgment is needed to formally confirm the title, but the adverse possession rights ripen automatically at the end of the statutory period.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "adverse_possession",
+        "statutory_period",
+        "hostile_use"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.5",
+      "question_text": "When a joint tenant dies, their interest passes to the surviving joint tenants. This is an example of title transferring:",
+      "correct_answer": "By operation of law",
+      "distractors": [
+        "By voluntary alienation",
+        "By involuntary alienation",
+        "By descent"
+      ],
+      "explanation": "Transfer by operation of law occurs automatically due to the legal structure of the ownership arrangement, without requiring a deed, will, or probate proceeding. Joint tenancy survivorship is the most common example — when a joint tenant dies, their interest instantly vests in the surviving joint tenant(s) by operation of law. Other examples include: community property passing to a surviving spouse in community property states, and transfer to a successor trustee upon a trustee's death.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "transfer_by_operation_of_law",
+        "joint_tenancy",
+        "survivorship",
+        "probate"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.6",
+      "question_text": "A buyer purchases a home and properly records the deed. Six months later, they discover the seller had also sold the same property to another buyer one month earlier, but that buyer never recorded their deed. Under a race-notice recording statute, who has superior title?",
+      "correct_answer": "The second buyer",
+      "distractors": [
+        "The first buyer",
+        "The second buyer, but only if they paid a higher price",
+        "Neither buyer"
+      ],
+      "explanation": "Under a race-notice statute (the most common type in the U.S.), a subsequent purchaser prevails if they: (1) recorded first, AND (2) had no actual or constructive notice of the prior conveyance at the time of purchase. Here, the second buyer satisfies both conditions — they recorded first and had no notice of the first buyer's unrecorded deed. This illustrates why recording immediately after closing is critical: an unrecorded deed protects the grantee against the grantor but not against subsequent purchasers who record first without notice.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "recording_acts",
+        "race_notice",
+        "constructive_notice",
+        "priority"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.6",
+      "question_text": "When a deed is properly recorded in the county records, it provides what type of notice to the world?",
+      "correct_answer": "Constructive notice",
+      "distractors": [
+        "Actual notice",
+        "Inquiry notice",
+        "Implied notice"
+      ],
+      "explanation": "Recording a deed provides constructive notice — a legal presumption that the entire world knows about the recorded instrument. Anyone who later deals with the property is presumed to have searched the public records and found the deed, even if they never actually looked. Actual notice means a party truly knows something (e.g., they were told directly or witnessed an event). Inquiry notice is a middle ground — facts that would cause a reasonable person to investigate further. Constructive notice through recording is the cornerstone of the public recording system.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "recording_system",
+        "constructive_notice",
+        "actual_notice",
+        "public_records"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.7",
+      "question_text": "A lender requires the buyer to purchase title insurance at closing. This policy PRIMARILY protects:",
+      "correct_answer": "The lender",
+      "distractors": [
+        "The buyer",
+        "The previous owner",
+        "The title company"
+      ],
+      "explanation": "There are two types of title insurance policies. A lender's (mortgagee's) policy protects the lender up to the outstanding loan balance — most mortgage lenders require it as a condition of the loan. An owner's policy protects the buyer's equity and ownership interest. The lender's required policy does NOT protect the buyer; the buyer must separately purchase an owner's policy. Both protect against title defects that existed before closing but were not discovered in the title search (e.g., forged deeds, undisclosed heirs, recording errors).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "title_insurance",
+        "lenders_policy",
+        "owners_policy",
+        "closing"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.1",
+      "question_text": "Which of the following is NOT a requirement for a valid deed?",
+      "correct_answer": "Recording the deed in the county clerk's office",
+      "distractors": [
+        "A competent grantor who is of legal age and sound mind",
+        "An identifiable grantee named in the deed document",
+        "A legal description sufficient to identify the property"
+      ],
+      "explanation": "Recording is not required for a deed to be valid between the grantor and grantee — an unrecorded deed still transfers title. However, recording is strongly recommended because it provides constructive notice to the world and protects the grantee against subsequent purchasers. The essential elements of a valid deed are: competent grantor, identifiable grantee, consideration (or words of love and affection for a gift), legal description, words of conveyance, grantor's signature, and delivery and acceptance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "deed_requirements",
+        "recording",
+        "valid_deed"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.1",
+      "question_text": "A grantor places a signed deed in their safe deposit box with instructions for the deed to be given to the grantee after the grantor's death. Has there been a valid delivery?",
+      "correct_answer": "No",
+      "distractors": [
+        "Yes",
+        "Yes",
+        "No"
+      ],
+      "explanation": "For valid delivery, the grantor must relinquish control of the deed with the intent to immediately and unconditionally pass title. Retaining the deed in a personal safe deposit box — even with instructions — shows the grantor kept control and could have changed their mind. This is a testamentary transfer attempt (like a will), not a present conveyance. To pass property at death, the grantor should use a will or a transfer-on-death deed (where available). A deed placed in escrow with a third party can constitute valid conditional delivery.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "deed_requirements",
+        "delivery",
+        "intent",
+        "control"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.1",
+      "question_text": "A deed names the grantee as 'my oldest daughter.' The grantor has three daughters. This deed is:",
+      "correct_answer": "Potentially valid if the grantee can be identified with certainty",
+      "distractors": [
+        "Void because the grantee must be named by full legal name",
+        "Valid only if accompanied by the grantee's social security number",
+        "Void because family descriptions are prohibited in deed language"
+      ],
+      "explanation": "A valid deed requires an identifiable grantee, but the grantee does not necessarily need to be named by full legal name. If the description is sufficient to identify one specific person with reasonable certainty (and 'oldest daughter' can be verified through birth records), the deed may be upheld. However, ambiguous descriptions create title issues and should be avoided. Best practice is always to use the grantee's full legal name.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "deed_requirements",
+        "grantee_identification",
+        "validity"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.2",
+      "question_text": "A general warranty deed typically includes all of the following covenants EXCEPT:",
+      "correct_answer": "Covenant of insurance",
+      "distractors": [
+        "Covenant of seisin",
+        "Covenant against encumbrances",
+        "Covenant of quiet enjoyment"
+      ],
+      "explanation": "The standard covenants in a general warranty deed are: seisin (grantor owns it), right to convey, covenant against encumbrances, quiet enjoyment, warranty forever (grantor will defend title), and further assurances (grantor will do what's needed to perfect title). There is no 'covenant of insurance' — the grantor does not guarantee insurance coverage. Insurance is the buyer's responsibility to obtain separately. These covenants are a key distinction between deed types.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "deed_types",
+        "general_warranty_deed",
+        "covenants_of_title"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.2",
+      "question_text": "A special warranty deed differs from a general warranty deed because the special warranty deed:",
+      "correct_answer": "Only warrants against defects during the grantor's ownership period",
+      "distractors": [
+        "Provides no warranties of title, similar to a quitclaim deed",
+        "Warrants against all title defects from any time period",
+        "Requires the grantee to purchase title insurance before delivery"
+      ],
+      "explanation": "A special warranty deed limits the grantor's warranty to defects or claims that arose during the grantor's ownership period. The grantor does not warrant against problems that existed before they acquired the property. This is narrower than a general warranty deed (which covers all time periods) but broader than a quitclaim deed (which provides no warranty at all). Special warranty deeds are commonly used by trustees, executors, and banks conveying foreclosure properties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "deed_types",
+        "special_warranty_deed",
+        "comparison"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.3",
+      "question_text": "A property owner writes a will leaving their home to a nephew. This transfer method is called:",
+      "correct_answer": "Devise",
+      "distractors": [
+        "Bequest",
+        "Dedication",
+        "Alienation"
+      ],
+      "explanation": "A devise is the transfer of real property through a will. The person who receives real property by will is a devisee. A bequest (or legacy) technically refers to the transfer of personal property by will, though the terms are sometimes used interchangeably in common speech. Dedication is donating land for public use (e.g., roads, parks). Alienation is any transfer of title, not specifically by government action — it can be voluntary or involuntary.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "voluntary_alienation",
+        "devise",
+        "will",
+        "title_transfer"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.3",
+      "question_text": "A developer donates a strip of land to the county for use as a public road. This is an example of:",
+      "correct_answer": "Dedication",
+      "distractors": [
+        "Condemnation",
+        "Escheat",
+        "Adverse possession"
+      ],
+      "explanation": "Dedication is the voluntary transfer of private property for public use — typically for roads, sidewalks, parks, or utilities. It differs from condemnation (involuntary taking by eminent domain). Dedication can be statutory (formal filing with the governing body) or common law (implied through the owner's actions and public acceptance). Most subdivision plats include dedications of streets, sidewalks, and utility easements to the local municipality.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "voluntary_alienation",
+        "dedication",
+        "public_use"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.3",
+      "question_text": "Which of the following transfers of real property does NOT require a deed?",
+      "correct_answer": "Transfer by will (devise)",
+      "distractors": [
+        "Transfer by sale",
+        "Transfer by gift",
+        "Transfer by exchange"
+      ],
+      "explanation": "A devise (transfer by will) does not involve a deed between the decedent and the devisee. Instead, the personal representative (executor/administrator) of the estate distributes property according to the will, typically using an executor's deed or personal representative's deed. The will itself is the controlling document. Sales, gifts, and exchanges all require deeds to transfer title during the parties' lifetimes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "voluntary_alienation",
+        "devise",
+        "deed",
+        "methods"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.3",
+      "question_text": "A grandmother wants to gift her vacation home to her grandson during her lifetime. To complete this voluntary transfer, she must:",
+      "correct_answer": "Execute and deliver a deed, even without money exchanged",
+      "distractors": [
+        "Write a will leaving the home to the grandson instead",
+        "Verbally tell the grandson the property is his",
+        "File a gift declaration with the county assessor for title transfer"
+      ],
+      "explanation": "A lifetime gift of real property requires a deed — just like a sale. The consideration may be stated as 'love and affection' or '$1 and other good and valuable consideration.' A verbal declaration and handing over keys does not transfer title because real property transfers require a written instrument (Statute of Frauds). A will only takes effect at death. There is no 'gift declaration' filing required — the deed itself is the transfer instrument.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "voluntary_alienation",
+        "gift",
+        "deed",
+        "statute_of_frauds"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.4",
+      "question_text": "The mnemonic OCEAN helps remember the requirements for adverse possession. The 'H' in hostile means:",
+      "correct_answer": "Use without the owner's permission, not necessarily hostile intent",
+      "distractors": [
+        "The possessor must demonstrate anger or animosity toward the owner",
+        "The possessor must send written hostile notices to the owner",
+        "The use must involve physical confrontation with the true owner"
+      ],
+      "explanation": "In adverse possession, 'hostile' simply means 'without the owner's permission.' It does not require anger, aggression, or ill intent. A neighbor who unknowingly farms a strip of land beyond their boundary is using it 'hostilely' because the true owner never authorized the use. If the owner had granted permission, the use would be permissive — and permissive use can never ripen into adverse possession, no matter how long it continues.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "adverse_possession",
+        "hostile_use",
+        "OCEAN",
+        "definitions"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.4",
+      "question_text": "A squatter occupies an abandoned building for 10 years in a state with a 15-year statutory period for adverse possession. The squatter claims ownership. The squatter:",
+      "correct_answer": "Has not acquired title because the statutory period is unmet",
+      "distractors": [
+        "Has acquired title through 10 years of continuous occupation",
+        "Has acquired a prescriptive easement but not full ownership",
+        "Has no claim because adverse possession cannot apply to structures"
+      ],
+      "explanation": "Adverse possession requires the claimant to satisfy all OCEAN elements for the full statutory period. With a 15-year requirement, 10 years of occupation — even if open, continuous, exclusive, and hostile — is insufficient. The true owner still has the right to eject the squatter. If the squatter continues for 5 more years (totaling 15), and all other elements are met, they could then claim title. The statutory period varies significantly by state (5 to 20+ years).",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "adverse_possession",
+        "statutory_period",
+        "requirements"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.4",
+      "question_text": "A property owner gives verbal permission for a neighbor to use a path across their land. After 20 years, the neighbor claims adverse possession. The neighbor will MOST likely:",
+      "correct_answer": "Fail, because the permissive use was not hostile per OCEAN",
+      "distractors": [
+        "Succeed, because 20 years of use exceeds most statutory periods",
+        "Succeed, because verbal permission became an easement over time",
+        "Fail, because adverse possession applies only to structures"
+      ],
+      "explanation": "Permissive use defeats adverse possession because it lacks the 'hostile' element. When the owner grants permission, the use is by license, not by adverse claim. No amount of time can convert permissive use into adverse possession. This is why property owners who want to allow access should do so explicitly — granting written permission actually protects against adverse possession claims. If the permission is revoked and the neighbor continues using the path without consent, that could begin a new adverse possession clock.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "adverse_possession",
+        "permissive_use",
+        "hostile",
+        "license"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.5",
+      "question_text": "Which of the following is an example of involuntary alienation?",
+      "correct_answer": "A court orders property sold to satisfy a judgment",
+      "distractors": [
+        "An owner sells property through a real estate agent",
+        "A parent gifts property to a child by deed",
+        "An owner devises property to a charity through a will"
+      ],
+      "explanation": "Involuntary alienation is the transfer of title without the owner's consent. A court-ordered sale to satisfy a judgment (judicial foreclosure) is involuntary — the owner did not choose to sell. Other examples include eminent domain, tax sale, and adverse possession. The other options are all voluntary: sale (intentional transfer for consideration), gift (intentional transfer without consideration), and devise (intentional transfer by will).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "involuntary_alienation",
+        "court_order",
+        "judgment",
+        "foreclosure"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.5",
+      "question_text": "A property owner dies without a will (intestate) and has no surviving spouse or children, but has a living brother. In most states, the property will:",
+      "correct_answer": "Pass to the brother under the state's intestate succession laws",
+      "distractors": [
+        "Automatically escheat to the state government immediately upon death",
+        "Remain in the deceased owner's name indefinitely until probated",
+        "Transfer to the county government as abandoned real property"
+      ],
+      "explanation": "When an owner dies intestate (without a will), the property passes according to the state's laws of descent and distribution (intestate succession). These laws establish a priority of heirs: typically spouse, children, parents, siblings, then more distant relatives. The brother, as a sibling, would inherit under most states' intestacy statutes. Property only escheats to the state when no heirs at all can be found. The probate court oversees this process.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "involuntary_alienation",
+        "intestate_succession",
+        "descent_distribution"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.5",
+      "question_text": "Transfer by operation of law includes all of the following EXCEPT:",
+      "correct_answer": "A property sale by an owner who lists with a broker",
+      "distractors": [
+        "Joint tenancy survivorship when one joint tenant dies",
+        "Foreclosure sale ordered by a court to satisfy a mortgage",
+        "Intestate succession when the owner dies without a will"
+      ],
+      "explanation": "Transfer by operation of law occurs automatically through legal mechanisms rather than by the owner's voluntary action. Joint tenancy survivorship (automatic upon death), foreclosure (court-ordered), and intestate succession (statutory heir determination) are all involuntary transfers by operation of law. A listed sale through a broker is a voluntary alienation — the owner chose to sell and executed a deed. This is the most common form of transfer but is not by operation of law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "transfer_by_operation_of_law",
+        "involuntary_alienation",
+        "voluntary_alienation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.5",
+      "question_text": "A court issues an order transferring property from a debtor to a creditor to satisfy a judgment. This transfer requires no deed from the property owner because it occurs through:",
+      "correct_answer": "Operation of law",
+      "distractors": [
+        "Voluntary alienation",
+        "Constructive delivery",
+        "Equitable conversion"
+      ],
+      "explanation": "Court-ordered transfers are involuntary alienation by operation of law. The court issues a deed (sheriff's deed, master's deed, or court deed) on behalf of the debtor — the debtor's signature and consent are not required. The court's legal authority replaces the normal requirement for a grantor's voluntary deed. Other examples of involuntary transfer include tax deed sales, foreclosure, and eminent domain condemnation proceedings.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "operation_of_law",
+        "court_order",
+        "involuntary_alienation",
+        "judgment"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.6",
+      "question_text": "Under a 'race' recording statute, which buyer prevails in a dispute over the same property?",
+      "correct_answer": "The buyer who records their deed first, regardless of notice",
+      "distractors": [
+        "The buyer who purchased the property first chronologically",
+        "The buyer who paid the highest purchase price",
+        "The buyer who can prove no knowledge of the other sale"
+      ],
+      "explanation": "Under a pure race statute, the first party to record their deed wins — regardless of whether they knew about prior unrecorded conveyances. This rewards the 'race to the courthouse.' Only a few states use pure race statutes. Most use race-notice (must record first AND have no notice of prior conveyance) or notice (subsequent purchaser without notice prevails, even if they haven't recorded). Understanding these three types of recording acts is essential for the exam.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "recording_acts",
+        "race_statute",
+        "priority",
+        "notice"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.6",
+      "question_text": "A buyer drives past a property and sees someone other than the seller living there. This observation provides the buyer with:",
+      "correct_answer": "Inquiry notice",
+      "distractors": [
+        "Constructive notice",
+        "Actual notice",
+        "No notice"
+      ],
+      "explanation": "Inquiry notice arises when a buyer encounters facts or circumstances that would cause a reasonable person to investigate further. Seeing an unknown occupant should prompt the buyer to inquire about that person's rights (they might have a lease, a purchase contract, or an adverse possession claim). Constructive notice comes from recorded documents. Actual notice is direct knowledge of a specific fact. Inquiry notice is the middle ground — an obligation to investigate suspicious circumstances.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "recording_acts",
+        "inquiry_notice",
+        "due_diligence"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.6",
+      "question_text": "The chain of title refers to:",
+      "correct_answer": "The chronological history of all recorded documents affecting title",
+      "distractors": [
+        "The physical chain and padlock used to secure property in escrow",
+        "The sequence of lien holders with priority claims against the property",
+        "The list of licensed agents who have represented the property"
+      ],
+      "explanation": "The chain of title is the sequence of historical transfers of title to a property, as documented in the public records. A title search traces this chain backward from the current owner to the original source of title. Any gap, defect, or irregularity in the chain (a 'cloud on title') can affect the marketability of the title. Title insurance protects against hidden defects in the chain of title that a search may not discover.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "chain_of_title",
+        "recording",
+        "title_search",
+        "public_records"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.7",
+      "question_text": "The difference between an owner's title insurance policy and a lender's title insurance policy is that the owner's policy:",
+      "correct_answer": "Protects the buyer's equity as long as they own the property",
+      "distractors": [
+        "Is required by law in all states; lender's is optional",
+        "Covers both buyer and lender under one combined premium at closing",
+        "Decreases in coverage as the buyer pays down the mortgage"
+      ],
+      "explanation": "An owner's policy protects the buyer's full ownership interest (equity) and remains in effect for as long as the buyer (or their heirs) owns the property. A lender's policy protects only the lender's interest and decreases in value as the mortgage is paid down, eventually expiring when the loan is paid off. The owner's policy is optional (though strongly recommended); the lender's policy is typically required by the mortgage lender.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "title_insurance",
+        "owners_policy",
+        "lenders_policy",
+        "comparison"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.7",
+      "question_text": "Title insurance differs from other types of insurance (such as homeowner's insurance) because title insurance:",
+      "correct_answer": "Protects against past events and defects, not future risks or losses",
+      "distractors": [
+        "Requires annual premium payments to maintain continuous coverage",
+        "Covers physical damage to the property from fire, storms, and vandalism",
+        "Is issued by the state government rather than private insurance companies"
+      ],
+      "explanation": "Title insurance is unique because it insures against defects that already exist at the time of the policy's issuance — hidden title problems from the past (forged deeds, undisclosed heirs, recording errors, fraud). Homeowner's insurance covers future events (fire, storm, theft). Title insurance requires only a one-time premium paid at closing — no annual renewals. It is issued by private companies (Fidelity, First American, Old Republic, Stewart), not the government.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "title_insurance",
+        "past_defects",
+        "one_time_premium"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.7",
+      "question_text": "A title search reveals a forged deed in the chain of title from 30 years ago. The current owner has an owner's title insurance policy. The insurance company will MOST likely:",
+      "correct_answer": "Defend the owner's title and cover losses up to policy limits",
+      "distractors": [
+        "Deny the claim because the forgery predates the policy",
+        "Require the owner to sue the forger directly before paying",
+        "Cancel the policy because the title was defective at issuance"
+      ],
+      "explanation": "Title insurance specifically covers defects that existed before the policy was issued — that is its entire purpose. A forged deed in the chain of title is a covered risk under a standard owner's policy. The title company will either defend the owner's title in court or compensate the owner for losses, up to the policy limit. The fact that the forgery occurred 30 years ago does not exempt the insurer; title insurance is designed to protect against exactly these types of hidden historical defects.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": true,
+      "tags": [
+        "title_insurance",
+        "covered_risks",
+        "forged_deed",
+        "chain_of_title"
+      ]
+    },
+    {
+      "key_topic_ref": "N-06.7",
+      "question_text": "An abstract of title is:",
+      "correct_answer": "A summary of all recorded documents affecting title to a property",
+      "distractors": [
+        "An insurance policy guaranteeing clear title to the owner",
+        "A court order declaring the owner has marketable title",
+        "A survey establishing the physical boundaries of the property"
+      ],
+      "explanation": "An abstract of title is a condensed history of the title, summarizing all recorded instruments (deeds, mortgages, liens, judgments, easements) that affect the property. An attorney or title company reviews the abstract to render a title opinion. Unlike title insurance, an abstract does not insure against hidden defects — it simply summarizes what the public records show. Many states have moved away from abstracts toward title insurance as the primary method of title assurance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "abstract_of_title",
+        "title_search",
+        "public_records",
+        "title_assurance"
+      ]
+    }
+  ]
+}

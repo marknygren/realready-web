@@ -1,0 +1,173 @@
+{
+  "standard_ref": "DE-11",
+  "scope": "state",
+  "state": "DE",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "DE-11.1",
+      "question_text": "Two unmarried friends buy a Delaware property together without specifying the form of ownership. How does the law classify their estate?",
+      "correct_answer": "Tenancy in common",
+      "distractors": ["Joint tenancy with survivorship", "Tenancy by the entirety", "Community property"],
+      "explanation": "In Delaware, when co-owners do not specify the form of ownership, the default is tenancy in common. TIC allows unequal shares and does not include a right of survivorship. Each owner can transfer their interest independently.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tenancy in common", "default ownership", "co-ownership"]
+    },
+    {
+      "key_topic_ref": "DE-11.1",
+      "question_text": "A married couple holds Delaware property as tenants by the entirety. A creditor obtains a judgment against only the wife. Can the creditor force a sale of the property?",
+      "correct_answer": "No, TBE protects against one spouse's creditors",
+      "distractors": ["Yes, the creditor can force a full sale", "Yes, but only the wife's half can be sold", "Only if the judgment exceeds the home value"],
+      "explanation": "Tenancy by the entirety provides creditor protection for married couples in Delaware. A creditor of only one spouse cannot force the sale or attach the property. Both spouses must be jointly liable for a creditor to reach TBE property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tenancy by entirety", "creditor protection", "married couples"]
+    },
+    {
+      "key_topic_ref": "DE-11.1",
+      "question_text": "Which four unities must be present to create a joint tenancy with right of survivorship in Delaware?",
+      "correct_answer": "Time, title, interest, and possession",
+      "distractors": ["Time, title, intent, and payment", "Title, interest, possession, and consent", "Time, possession, recording, and intent"],
+      "explanation": "JTWROS requires the four unities of time (acquired simultaneously), title (same deed), interest (equal shares), and possession (equal right to use). If any unity is broken, the joint tenancy may convert to a tenancy in common.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["JTWROS", "four unities", "joint tenancy"]
+    },
+    {
+      "key_topic_ref": "DE-11.1",
+      "question_text": "A joint tenant in a Delaware JTWROS dies. What happens to the deceased's interest in the property?",
+      "correct_answer": "It passes to the surviving joint tenant",
+      "distractors": ["It goes to the deceased's heirs by will", "It reverts to the state of Delaware", "It is divided equally among all heirs"],
+      "explanation": "The right of survivorship is the defining feature of JTWROS. When one joint tenant dies, their interest automatically passes to the surviving joint tenant(s) outside of probate. The deceased's will has no effect on JTWROS property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["JTWROS", "survivorship", "death of co-owner"]
+    },
+    {
+      "key_topic_ref": "DE-11.1",
+      "question_text": "An unmarried couple wants survivorship rights but equal creditor exposure. Which ownership form fits?",
+      "correct_answer": "Joint tenancy with survivorship",
+      "distractors": ["Tenancy by the entirety only", "Tenancy in common with partition", "Sole ownership by one partner"],
+      "explanation": "TBE is only available to married couples, so it is not an option here. JTWROS provides survivorship rights for any co-owners. Unlike TBE, it does not shield against one owner's individual creditors.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["JTWROS", "unmarried co-owners", "survivorship"]
+    },
+    {
+      "key_topic_ref": "DE-11.2",
+      "question_text": "Which deed provides the greatest protection to a Delaware buyer?",
+      "correct_answer": "General warranty deed",
+      "distractors": ["Special warranty deed", "Quitclaim deed", "Bargain and sale deed"],
+      "explanation": "A general warranty deed provides full covenants protecting the buyer against all title defects, including those arising before the grantor's ownership. It offers the broadest protection compared to special warranty or quitclaim deeds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["general warranty deed", "buyer protection", "deed types"]
+    },
+    {
+      "key_topic_ref": "DE-11.2",
+      "question_text": "A seller conveys property using a special warranty deed. A title defect from 20 years ago surfaces. Is the seller liable?",
+      "correct_answer": "No, only defects during seller's ownership apply",
+      "distractors": ["Yes, the seller guarantees full title history", "Yes, but only for recorded defects", "No, because all deeds limit liability equally"],
+      "explanation": "A special warranty deed only warrants against defects arising during the grantor's period of ownership. Defects from before the seller acquired the property are not covered. The buyer would need to rely on title insurance for older claims.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["special warranty deed", "limited covenants", "title defect"]
+    },
+    {
+      "key_topic_ref": "DE-11.2",
+      "question_text": "A properly signed Delaware deed is delivered but never recorded. A subsequent buyer records first without knowledge of the earlier sale. Who prevails?",
+      "correct_answer": "The subsequent buyer who recorded first",
+      "distractors": ["The first buyer with the earlier deed", "Neither buyer until a court decides", "The seller retains ownership rights"],
+      "explanation": "Delaware follows a race-notice recording system. A subsequent purchaser who records first and had no notice of the prior unrecorded deed will prevail. This system rewards prompt recording and protects buyers who act in good faith.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["race-notice", "recording", "priority"]
+    },
+    {
+      "key_topic_ref": "DE-11.2",
+      "question_text": "What must a Delaware deed include to be eligible for recording?",
+      "correct_answer": "Grantor's signature and notarized acknowledgment",
+      "distractors": ["Only the grantor's signature is needed", "Signatures of both buyer and seller", "Approval from the county recorder"],
+      "explanation": "For a deed to be recorded in Delaware, it must be signed by the grantor and acknowledged (notarized). Recording provides constructive notice to the public and establishes priority under Delaware's race-notice system.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed requirements", "acknowledgment", "recording"]
+    },
+    {
+      "key_topic_ref": "DE-11.2",
+      "question_text": "A quitclaim deed is used to transfer property between family members. What warranties does the grantee receive?",
+      "correct_answer": "No warranties whatsoever",
+      "distractors": ["Full warranties against all defects", "Warranties only during grantor's ownership", "Limited warranties for known defects"],
+      "explanation": "A quitclaim deed conveys whatever interest the grantor may have, if any, with no warranties at all. It is commonly used for transfers between family members, divorcing spouses, or to clear cloud on title where trust exists between the parties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["quitclaim deed", "no warranties", "family transfer"]
+    },
+    {
+      "key_topic_ref": "DE-11.3",
+      "question_text": "In Delaware, who typically conducts real estate closings?",
+      "correct_answer": "An attorney handles the closing",
+      "distractors": ["A licensed real estate broker", "The county recorder of deeds", "A state-appointed closing officer"],
+      "explanation": "Delaware is an attorney state, meaning attorneys conduct real estate closings. The closing attorney prepares and reviews documents, ensures proper title transfer, handles escrow funds, and oversees deed recording.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["attorney state", "closings", "settlement"]
+    },
+    {
+      "key_topic_ref": "DE-11.3",
+      "question_text": "A buyer's lender requires title insurance. Which policies are standard in a Delaware residential transaction?",
+      "correct_answer": "Both an owner's and a lender's policy",
+      "distractors": ["Only a lender's policy is standard", "Only an owner's policy is standard", "Title insurance is optional in Delaware"],
+      "explanation": "In Delaware residential transactions, both an owner's title insurance policy and a lender's policy are standard practice. The owner's policy protects the buyer's equity, while the lender's policy protects the mortgage holder's interest.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title insurance", "owner's policy", "lender's policy"]
+    },
+    {
+      "key_topic_ref": "DE-11.3",
+      "question_text": "A buyer is purchasing a vacant lot in rural Delaware with no public sewer access. What disclosure is required?",
+      "correct_answer": "Notice Regarding Sewer and Water service",
+      "distractors": ["Environmental impact statement only", "Wetlands delineation certificate", "County building permit approval"],
+      "explanation": "For unimproved land in Delaware, a Notice Regarding Sewer/Water is required to inform the buyer that a septic system and/or private well may be needed. This ensures buyers understand utility limitations before committing to the purchase.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unimproved land", "sewer water notice", "disclosure"]
+    },
+    {
+      "key_topic_ref": "DE-11.3",
+      "question_text": "A buyer's agent discovers the rural property has no public water or sewer lines. What should the agent advise?",
+      "correct_answer": "A private well and septic system may be needed",
+      "distractors": ["The seller must install public utilities", "The county will extend sewer lines for free", "Financing will be unavailable for the lot"],
+      "explanation": "When purchasing unimproved land without public sewer or water, the buyer should expect to install a private well and septic system. Delaware requires the Notice Regarding Sewer/Water so buyers are fully informed of these potential costs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unimproved land", "well", "septic", "rural property"]
+    },
+    {
+      "key_topic_ref": "DE-11.3",
+      "question_text": "Why does Delaware require attorneys to conduct real estate closings rather than allowing title companies alone?",
+      "correct_answer": "To ensure legal review of documents and title",
+      "distractors": ["To reduce the overall cost of transactions", "To speed up the closing timeline", "To eliminate the need for title insurance"],
+      "explanation": "As an attorney state, Delaware mandates attorney involvement to protect both parties through professional legal review of closing documents, title examination, and proper conveyance. This requirement does not eliminate the need for title insurance.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["attorney state", "legal review", "consumer protection"]
+    }
+  ]
+}

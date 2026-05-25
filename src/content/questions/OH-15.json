@@ -1,0 +1,228 @@
+{
+  "standard_ref": "OH-15",
+  "scope": "state",
+  "state": "OH",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OH-15.1",
+      "question_text": "Does Ohio law set a maximum amount for residential security deposits?",
+      "correct_answer": "No, there is no statutory maximum",
+      "distractors": ["Yes, two months' rent maximum", "Yes, one month's rent maximum", "Yes, $2,000 maximum regardless of rent"],
+      "explanation": "Ohio has no statutory maximum for security deposits. However, deposits exceeding certain thresholds trigger interest payment requirements for the landlord.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "no-maximum", "Ohio"]
+    },
+    {
+      "key_topic_ref": "OH-15.1",
+      "question_text": "A tenant pays a $1,200 security deposit and stays for 8 months. Monthly rent is $900. Must the landlord pay interest on the deposit?",
+      "correct_answer": "Yes, the deposit and stay both exceed thresholds",
+      "distractors": ["No, interest is only required after 12 months", "No, interest is never required in Ohio", "Only if the tenant requests it in writing"],
+      "explanation": "Ohio requires 5% annual interest when the deposit exceeds $50 or one month's rent (whichever is greater) AND the tenant stays more than 6 months. Both conditions are met here.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "interest", "5-percent"]
+    },
+    {
+      "key_topic_ref": "OH-15.1",
+      "question_text": "A tenant moves out of an Ohio rental. Within how many days must the landlord return the security deposit?",
+      "correct_answer": "30 days",
+      "distractors": ["14 days", "45 days", "60 days"],
+      "explanation": "Ohio landlords must return the security deposit within 30 days of move-out, along with an itemized list of any deductions for damages or unpaid rent.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "30-days", "return"]
+    },
+    {
+      "key_topic_ref": "OH-15.1",
+      "question_text": "A landlord wants to deduct unpaid rent from a tenant's security deposit. Under 2024 Ohio law, what is required?",
+      "correct_answer": "The tenant's consent or a court order",
+      "distractors": ["No special permission is needed for rent deductions", "Only a written 10-day notice to the tenant", "Approval from the local housing authority"],
+      "explanation": "Ohio law provides that landlords cannot deduct unpaid rent from security deposits without the tenant's consent. If the tenant does not consent, the landlord must go through the courts.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "deduction", "consent"]
+    },
+    {
+      "key_topic_ref": "OH-15.1",
+      "question_text": "Under a 2024 Ohio update, tenants now have the option to pay security deposits in which manner?",
+      "correct_answer": "In installments over 3 or 6 months",
+      "distractors": ["By credit card with a 3% surcharge", "Through a state-run escrow program", "Via payroll deduction from their employer"],
+      "explanation": "A 2024 update gives Ohio tenants the option to pay security deposits in installments over 3 or 6 months instead of as a lump sum upfront.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "installments", "2024-update"]
+    },
+    {
+      "key_topic_ref": "OH-15.2",
+      "question_text": "Under Ohio's landlord-tenant law, which obligation does the landlord owe to tenants regarding the rental premises?",
+      "correct_answer": "Maintain the premises in habitable condition",
+      "distractors": ["Provide furnished living spaces", "Pay all utility bills for the tenant", "Allow pets in all rental units"],
+      "explanation": "Ohio landlords must maintain premises in a fit and habitable condition, comply with building/health/safety codes, and provide running water, reasonable heat, and hot water.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["habitability", "landlord-obligation", "maintenance"]
+    },
+    {
+      "key_topic_ref": "OH-15.2",
+      "question_text": "An Ohio landlord fails to repair a broken heating system after receiving written notice from the tenant. What remedy is available to the tenant?",
+      "correct_answer": "Deposit rent with the clerk of courts (rent escrow)",
+      "distractors": ["Withhold rent and keep it personally", "Deduct repair costs from next month's rent", "File a criminal complaint with the police"],
+      "explanation": "Ohio tenants can deposit rent with the clerk of courts (rent escrow) when a landlord fails to maintain habitability after written notice. The tenant may also terminate the rental agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rent-escrow", "habitability", "tenant-remedy"]
+    },
+    {
+      "key_topic_ref": "OH-15.2",
+      "question_text": "A tenant reports a code violation to the health department. The landlord begins eviction proceedings 10 days later. This is most likely:",
+      "correct_answer": "Prohibited retaliatory eviction",
+      "distractors": ["Legitimate eviction for lease violation", "Permissible since the tenant is month-to-month", "Allowed if 3 days written notice was provided"],
+      "explanation": "Ohio prohibits retaliatory eviction within 30 days of a tenant's complaint or exercise of legal rights. An eviction following a code violation report is presumed retaliatory.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["retaliatory-eviction", "prohibited", "30-days"]
+    },
+    {
+      "key_topic_ref": "OH-15.2",
+      "question_text": "Which of the following is a required landlord obligation under Ohio law?",
+      "correct_answer": "Keeping common areas clean and safe",
+      "distractors": ["Providing off-street parking for all tenants", "Paying for renter's insurance for each unit", "Replacing all appliances every 5 years"],
+      "explanation": "Ohio landlords must keep common areas clean and safe. Other obligations include maintaining plumbing, heating, electrical systems, and providing running water and reasonable heat.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-obligation", "common-areas", "maintenance"]
+    },
+    {
+      "key_topic_ref": "OH-15.2",
+      "question_text": "An Ohio tenant's apartment has no hot water for two weeks despite written complaints. Besides rent escrow, what other option does the tenant have?",
+      "correct_answer": "Terminate the rental agreement",
+      "distractors": ["Sue the landlord for pain and suffering", "Move out without giving notice", "Contact the Governor's office directly"],
+      "explanation": "When a landlord fails to maintain habitability after written notice, Ohio tenants may either deposit rent with the clerk of courts or terminate the rental agreement entirely.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["termination", "habitability", "tenant-remedy"]
+    },
+    {
+      "key_topic_ref": "OH-15.3",
+      "question_text": "An Ohio tenant fails to pay rent. How many days' notice must the landlord give before filing for eviction?",
+      "correct_answer": "3 days",
+      "distractors": ["7 days", "14 days", "30 days"],
+      "explanation": "Ohio uses a 3-day notice to vacate for nonpayment of rent. After the notice period expires, the landlord may file a forcible entry and detainer action in court.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "3-day-notice", "nonpayment"]
+    },
+    {
+      "key_topic_ref": "OH-15.3",
+      "question_text": "What type of court action must an Ohio landlord file to legally evict a tenant?",
+      "correct_answer": "Forcible entry and detainer action",
+      "distractors": ["Small claims court complaint", "Unlawful detainer petition only", "Administrative hearing request"],
+      "explanation": "Formal eviction in Ohio requires filing a forcible entry and detainer action in court. The landlord cannot evict without a court order.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eviction", "forcible-entry", "court-action"]
+    },
+    {
+      "key_topic_ref": "OH-15.3",
+      "question_text": "An Ohio landlord changes the locks on a tenant's apartment while the tenant is at work, without a court order. This is:",
+      "correct_answer": "An illegal self-help eviction",
+      "distractors": ["Permitted with 24 hours verbal notice", "Legal if the tenant is behind on rent", "Acceptable for month-to-month tenancies"],
+      "explanation": "Self-help evictions — changing locks, shutting off utilities, removing tenant's belongings — are illegal in Ohio. All evictions must go through the court process.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["self-help", "illegal", "eviction"]
+    },
+    {
+      "key_topic_ref": "OH-15.3",
+      "question_text": "A landlord shuts off the electricity to a tenant's unit to force them to leave. Under Ohio law, this is:",
+      "correct_answer": "An illegal self-help eviction",
+      "distractors": ["Permitted if the tenant owes utility payments", "Legal after providing 48 hours written notice", "Acceptable if the landlord pays the utility company"],
+      "explanation": "Shutting off utilities to force a tenant to vacate is an illegal self-help eviction in Ohio. The landlord must follow the formal court eviction process.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["self-help", "utilities", "illegal"]
+    },
+    {
+      "key_topic_ref": "OH-15.3",
+      "question_text": "After serving a 3-day notice, the tenant does not vacate or pay rent. What is the landlord's next step?",
+      "correct_answer": "File a court action for forcible entry and detainer",
+      "distractors": ["Change the locks and remove belongings", "Contact the county sheriff to remove the tenant", "Post a 30-day eviction notice on the door"],
+      "explanation": "If the tenant does not comply with the 3-day notice, the landlord must file a forcible entry and detainer action in court. Self-help measures are not permitted.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eviction", "court-filing", "next-step"]
+    },
+    {
+      "key_topic_ref": "OH-15.4",
+      "question_text": "In Ohio, managing rental property for others for compensation requires what?",
+      "correct_answer": "A real estate license",
+      "distractors": ["Only a business license from the county", "A property management certificate only", "No license if managing fewer than 5 units"],
+      "explanation": "Ohio requires a real estate license to manage property for others for compensation. The property manager must operate under a licensed broker.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PM-license", "required", "compensation"]
+    },
+    {
+      "key_topic_ref": "OH-15.4",
+      "question_text": "An Ohio property manager signs a management agreement with a property owner. This agreement must be in what form?",
+      "correct_answer": "Written form specifying duties and compensation",
+      "distractors": ["Verbal form is acceptable for residential", "Any form the parties agree to use", "Filed with the Division within 30 days"],
+      "explanation": "Ohio requires a written property management agreement that specifies duties, compensation, authority, and term. Verbal agreements are not sufficient for PM relationships.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PM-agreement", "written", "requirement"]
+    },
+    {
+      "key_topic_ref": "OH-15.4",
+      "question_text": "A property manager in Ohio collects rent from tenants. Where must these funds be deposited?",
+      "correct_answer": "A separate property management trust account",
+      "distractors": ["The broker's general operating account", "The property owner's personal account directly", "The same trust account used for sales escrow"],
+      "explanation": "Ohio requires a separate trust account for property management activities. Rent, security deposits, and owner funds must be kept in this dedicated PM trust account.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PM-trust-account", "rent", "separate"]
+    },
+    {
+      "key_topic_ref": "OH-15.4",
+      "question_text": "A tenant signs a 4-year residential lease in Ohio. For this lease to be effective against third parties (such as a future buyer), it must be:",
+      "correct_answer": "Recorded with the county recorder",
+      "distractors": ["Notarized by a licensed notary public", "Filed with the Division of Real Estate", "Approved by the local zoning board"],
+      "explanation": "Leases for more than 3 years must be recorded to be effective against third parties. Recording provides constructive notice of the tenant's interest in the property.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lease-recording", "3-years", "constructive-notice"]
+    },
+    {
+      "key_topic_ref": "OH-15.4",
+      "question_text": "A licensed property manager must operate under whose supervision in Ohio?",
+      "correct_answer": "A licensed real estate broker",
+      "distractors": ["The Division of Real Estate directly", "Any licensed salesperson in good standing", "The property owner who hired them"],
+      "explanation": "Property managers with a real estate license must operate under a licensed broker, just like salespersons involved in sales transactions. The broker supervises PM activities.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PM-supervision", "broker", "requirement"]
+    }
+  ]
+}

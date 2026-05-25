@@ -1,0 +1,173 @@
+{
+  "standard_ref": "DE-10",
+  "scope": "state",
+  "state": "DE",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "DE-10.1",
+      "question_text": "What is the combined Delaware realty transfer tax rate?",
+      "correct_answer": "4% of the sale price",
+      "distractors": ["2% of the sale price", "3% of the sale price", "5% of the sale price"],
+      "explanation": "Delaware's combined realty transfer tax is 4%, split between the state (2.5%) and the county (1.5%). This makes Delaware one of the highest transfer-tax states in the country.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "realty transfer tax", "tax rate"]
+    },
+    {
+      "key_topic_ref": "DE-10.1",
+      "question_text": "A home sells for $350,000 in Sussex County. Absent special negotiation, how much transfer tax does the buyer owe?",
+      "correct_answer": "$7,000",
+      "distractors": ["$3,500", "$8,750", "$14,000"],
+      "explanation": "The standard split is 2% buyer and 2% seller. The buyer's share is 2% of $350,000, which equals $7,000. The seller also pays $7,000 unless the parties negotiate a different split.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer tax", "buyer share", "calculation"]
+    },
+    {
+      "key_topic_ref": "DE-10.1",
+      "question_text": "A property in the City of Wilmington is being sold. How does the transfer tax differ from other Delaware locations?",
+      "correct_answer": "Wilmington imposes an additional city tax",
+      "distractors": ["Wilmington properties are tax-exempt", "The state rate is reduced in Wilmington", "The county portion is waived in Wilmington"],
+      "explanation": "The City of Wilmington levies its own transfer tax on top of the standard state and county portions. Buyers and sellers in Wilmington should budget for this additional cost when estimating closing expenses.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "Wilmington", "city tax"]
+    },
+    {
+      "key_topic_ref": "DE-10.1",
+      "question_text": "A seller's agent is estimating closing costs for a property in an area with no county transfer tax. What total transfer tax rate applies?",
+      "correct_answer": "3% of the sale price",
+      "distractors": ["2.5% of the sale price", "4% of the sale price", "1.5% of the sale price"],
+      "explanation": "Some areas in Delaware do not assess the 1.5% county transfer tax. In those locations, only the 2.5% state tax applies plus any applicable municipal tax, resulting in roughly 3% where no city tax exists.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer tax", "county tax", "no county tax"]
+    },
+    {
+      "key_topic_ref": "DE-10.1",
+      "question_text": "Delaware's realty transfer tax is frequently described as one of the highest nationally. Which components make up the combined 4% rate?",
+      "correct_answer": "2.5% state and 1.5% county",
+      "distractors": ["2% state and 2% county", "3% state and 1% county", "1.5% state and 2.5% county"],
+      "explanation": "The 4% combined rate consists of a 2.5% state portion and a 1.5% county portion. Despite this breakdown, the customary buyer/seller split is 2% each, not aligned to the state/county division.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "state rate", "county rate"]
+    },
+    {
+      "key_topic_ref": "DE-10.2",
+      "question_text": "A first-time homebuyer purchases a $300,000 home in Delaware. What transfer tax reduction can the buyer claim?",
+      "correct_answer": "0.5% reduction, saving $1,500",
+      "distractors": ["1% reduction, saving $3,000", "0.5% reduction, saving $2,000", "Full exemption from transfer tax"],
+      "explanation": "First-time Delaware homebuyers receive a 0.5% reduction on the first $400,000 of value. On a $300,000 purchase, that equals $1,500 in savings. The maximum possible savings under this program is $2,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["first-time buyer", "transfer tax reduction", "calculation"]
+    },
+    {
+      "key_topic_ref": "DE-10.2",
+      "question_text": "What is the maximum transfer tax savings available to a first-time Delaware homebuyer?",
+      "correct_answer": "$2,000",
+      "distractors": ["$1,500", "$2,500", "$4,000"],
+      "explanation": "The first-time buyer reduction is 0.5% on the first $400,000 of value. Since 0.5% of $400,000 is $2,000, that is the maximum possible savings. Any value above $400,000 is taxed at the full rate.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["first-time buyer", "maximum savings", "transfer tax"]
+    },
+    {
+      "key_topic_ref": "DE-10.2",
+      "question_text": "A first-time buyer purchases a $500,000 home. Does the 0.5% reduction apply to the full purchase price?",
+      "correct_answer": "No, only the first $400,000 qualifies",
+      "distractors": ["Yes, the reduction covers the full price", "No, only the first $200,000 qualifies", "Yes, but only for the seller's portion"],
+      "explanation": "The first-time homebuyer reduction of 0.5% applies only to the first $400,000 of property value. For a $500,000 purchase, the buyer saves $2,000 on the first $400,000 but pays the full buyer's rate on the remaining $100,000.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["first-time buyer", "cap", "transfer tax"]
+    },
+    {
+      "key_topic_ref": "DE-10.2",
+      "question_text": "Which transfer is exempt from Delaware realty transfer tax?",
+      "correct_answer": "A deed between spouses during divorce",
+      "distractors": ["A sale to an unrelated investor", "A foreclosure auction to a third party", "A sale between business partners"],
+      "explanation": "Transfers between spouses, including those pursuant to divorce, are exempt from Delaware realty transfer tax. Other exemptions include transfers to government entities, corporate reorganizations, and transfers by will or intestacy.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exemptions", "spousal transfer", "transfer tax"]
+    },
+    {
+      "key_topic_ref": "DE-10.2",
+      "question_text": "A parent dies and leaves property to a child through intestacy. Is transfer tax owed on this transfer?",
+      "correct_answer": "No, transfers by intestacy are exempt",
+      "distractors": ["Yes, at the full 4% rate", "Yes, but at a reduced 1% rate", "Only if the property exceeds $400,000"],
+      "explanation": "Transfers occurring through intestate succession (dying without a will) are exempt from Delaware realty transfer tax. The same exemption applies to transfers made by will. These exemptions prevent taxation of involuntary property transfers at death.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "intestacy", "inheritance"]
+    },
+    {
+      "key_topic_ref": "DE-10.3",
+      "question_text": "When must Delaware Form 5403 be filed?",
+      "correct_answer": "At the time the deed is recorded",
+      "distractors": ["Within 30 days after closing", "At the end of the tax year", "Before the listing agreement is signed"],
+      "explanation": "Form 5403, the Declaration of Estimated Income Tax, must be filed at the time the deed is recorded. It is required for every real property transfer in Delaware, regardless of whether tax is actually owed.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Form 5403", "filing", "deed recording"]
+    },
+    {
+      "key_topic_ref": "DE-10.3",
+      "question_text": "An out-of-state investor sells a Delaware rental property. Who is responsible for withholding estimated income tax?",
+      "correct_answer": "The buyer or settlement agent",
+      "distractors": ["The seller's real estate agent", "The Delaware Division of Revenue", "The county recorder of deeds"],
+      "explanation": "When a non-resident seller transfers Delaware property, the buyer or settlement agent must withhold estimated income tax and remit it to the state. This ensures Delaware collects tax on gains realized by out-of-state sellers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["non-resident withholding", "settlement agent", "Form 5403"]
+    },
+    {
+      "key_topic_ref": "DE-10.3",
+      "question_text": "A Delaware resident sells her primary home for a modest gain. Is Form 5403 still required?",
+      "correct_answer": "Yes, it is required for every transfer",
+      "distractors": ["No, residents are fully exempt", "Only if the gain exceeds $50,000", "Only for commercial property transfers"],
+      "explanation": "Form 5403 must accompany every real property transfer in Delaware, regardless of the seller's residency or whether income tax is actually owed. Even if an exemption applies, the form must still be filed at recording.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Form 5403", "resident seller", "requirement"]
+    },
+    {
+      "key_topic_ref": "DE-10.3",
+      "question_text": "A non-resident seller claims an exemption from Delaware income tax withholding. What happens at closing?",
+      "correct_answer": "The exemption must be documented on Form 5403",
+      "distractors": ["Withholding proceeds regardless of claims", "The closing is postponed for state review", "The seller files a separate court petition"],
+      "explanation": "If a non-resident seller qualifies for an exemption from withholding, the basis for that exemption must be stated on Form 5403 at the time of recording. The settlement agent verifies the claimed exemption before releasing proceeds.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["non-resident withholding", "exemption", "Form 5403"]
+    },
+    {
+      "key_topic_ref": "DE-10.3",
+      "question_text": "What is the primary purpose of Delaware's non-resident withholding requirement?",
+      "correct_answer": "Ensure the state collects income tax on gains",
+      "distractors": ["Fund first-time buyer tax credits", "Cover recording fees at the county level", "Reimburse the settlement agent's costs"],
+      "explanation": "Delaware requires withholding from non-resident sellers to ensure the state can collect income tax on capital gains from property sales. Without withholding, non-resident sellers could avoid paying Delaware income tax on their gains.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["non-resident withholding", "purpose", "income tax"]
+    }
+  ]
+}

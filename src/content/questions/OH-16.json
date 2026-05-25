@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OH-16",
+  "scope": "state",
+  "state": "OH",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OH-16.1",
+      "question_text": "Ohio is what type of foreclosure state?",
+      "correct_answer": "Judicial foreclosure only",
+      "distractors": ["Non-judicial (power of sale) only", "Both judicial and non-judicial", "Administrative foreclosure only"],
+      "explanation": "Ohio is strictly a judicial foreclosure state. All foreclosures must go through the court system — there is no power-of-sale or non-judicial foreclosure option available.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "judicial", "court"]
+    },
+    {
+      "key_topic_ref": "OH-16.1",
+      "question_text": "In an Ohio foreclosure, how is the property ultimately sold?",
+      "correct_answer": "At a sheriff's sale",
+      "distractors": ["Through a private auction firm", "By the lender directly to a buyer", "Through a Division-supervised sale"],
+      "explanation": "Ohio judicial foreclosures end with a sheriff's sale after the court issues a judgment. The property is sold at public auction conducted by the county sheriff.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "sheriff-sale", "auction"]
+    },
+    {
+      "key_topic_ref": "OH-16.1",
+      "question_text": "In Ohio, until what point can a borrower redeem their property during foreclosure?",
+      "correct_answer": "Before the court confirms the sale",
+      "distractors": ["Within 6 months after the sheriff's sale", "Up to 1 year after the judgment", "At any time before the deed is recorded"],
+      "explanation": "Ohio's right of redemption allows the borrower to redeem the property before the court confirms (approves) the sheriff's sale. Once confirmed, the right expires.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["redemption", "confirmation", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "OH-16.1",
+      "question_text": "A home sells at an Ohio sheriff's sale for $150,000, but the mortgage balance is $200,000. Can the lender pursue the borrower for the $50,000 difference?",
+      "correct_answer": "Yes, deficiency judgments are permitted in Ohio",
+      "distractors": ["No, Ohio prohibits deficiency judgments", "Only if the borrower agrees in writing", "Only for commercial properties"],
+      "explanation": "Ohio permits deficiency judgments. If the foreclosure sale price is less than the outstanding debt, the lender can sue the borrower for the difference.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deficiency-judgment", "foreclosure", "lender"]
+    },
+    {
+      "key_topic_ref": "OH-16.1",
+      "question_text": "What is the typical timeline for an Ohio judicial foreclosure from filing to sale?",
+      "correct_answer": "6 to 12 months",
+      "distractors": ["30 to 60 days", "2 to 3 months", "18 to 24 months"],
+      "explanation": "Ohio judicial foreclosures typically take 6-12 months from the initial filing to the sheriff's sale. The process involves filing a lawsuit, service, hearings, judgment, and sale scheduling.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "timeline", "6-12-months"]
+    },
+    {
+      "key_topic_ref": "OH-16.2",
+      "question_text": "Ohio is a lien theory state. This means that when a borrower takes out a mortgage:",
+      "correct_answer": "The borrower retains title and the mortgage creates a lien",
+      "distractors": ["The lender holds title until the loan is paid", "Title is held by a neutral third party", "The state holds title until recording"],
+      "explanation": "In lien theory states like Ohio, the borrower retains title to the property. The mortgage creates a lien (security interest) on the property but does not transfer title to the lender.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["lien-theory", "title", "mortgage"]
+    },
+    {
+      "key_topic_ref": "OH-16.2",
+      "question_text": "Ohio's recording system is described as 'race-notice.' What does this mean for competing claims?",
+      "correct_answer": "First good-faith recorder without notice of prior claims wins",
+      "distractors": ["The first person to record always wins regardless", "The person with the oldest deed always takes priority", "Recording order does not affect the priority of claims"],
+      "explanation": "Under race-notice, a subsequent purchaser who records first AND had no notice of a prior unrecorded claim will prevail. Both recording priority and good faith/lack of notice matter.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["race-notice", "recording", "priority"]
+    },
+    {
+      "key_topic_ref": "OH-16.2",
+      "question_text": "Which Ohio deed provides the greatest protection to the buyer?",
+      "correct_answer": "General warranty deed",
+      "distractors": ["Limited warranty deed", "Quitclaim deed", "Fiduciary deed"],
+      "explanation": "A general warranty deed provides the broadest protection, warranting title against all defects — including those arising before the grantor's ownership. It is the strongest form of deed.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["general-warranty", "deed", "protection"]
+    },
+    {
+      "key_topic_ref": "OH-16.2",
+      "question_text": "A grantor wants to transfer property without making any warranties about the title. Which deed should they use?",
+      "correct_answer": "Quitclaim deed",
+      "distractors": ["General warranty deed", "Limited warranty deed", "Fiduciary deed"],
+      "explanation": "A quitclaim deed transfers whatever interest the grantor has without any warranties. The grantee has no recourse against the grantor if title problems are discovered later.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["quitclaim", "no-warranty", "deed"]
+    },
+    {
+      "key_topic_ref": "OH-16.2",
+      "question_text": "A buyer purchases property but does not record the deed. A subsequent buyer purchases the same property in good faith and records first. Under Ohio's race-notice system, who prevails?",
+      "correct_answer": "The subsequent buyer who recorded first in good faith",
+      "distractors": ["The first buyer since they purchased first", "Neither, until a court determines priority", "The seller, who retains title by default"],
+      "explanation": "Under Ohio's race-notice system, a subsequent purchaser who records first and had no notice of the prior unrecorded deed prevails. This underscores the importance of prompt recording.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["race-notice", "recording", "subsequent-buyer"]
+    },
+    {
+      "key_topic_ref": "OH-16.3",
+      "question_text": "Under an Ohio land installment contract, who holds legal title during the payment period?",
+      "correct_answer": "The seller retains legal title",
+      "distractors": ["The buyer holds legal title", "A neutral third-party escrow agent", "The county recorder's office"],
+      "explanation": "In a land installment contract (ORC Chapter 5313), the seller retains legal title while the buyer makes installment payments. Title transfers only when the contract is fully paid.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land-contract", "seller-title", "installment"]
+    },
+    {
+      "key_topic_ref": "OH-16.3",
+      "question_text": "A buyer on a land installment contract has made payments for 6 years and paid 25% of the purchase price. The buyer defaults. What termination method must the seller use?",
+      "correct_answer": "Judicial foreclosure",
+      "distractors": ["30-day forfeiture notice", "60-day notice to quit", "Administrative hearing with the Division"],
+      "explanation": "When the buyer has paid for 5+ years OR paid 20%+ of the purchase price, the seller must use judicial foreclosure to terminate the contract. Both thresholds are met here.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["land-contract", "foreclosure", "5-year-20%"]
+    },
+    {
+      "key_topic_ref": "OH-16.3",
+      "question_text": "A buyer on a land contract has paid for 2 years and has paid 10% of the purchase price. They default on payments. What process can the seller use?",
+      "correct_answer": "Forfeiture with 30-day notice",
+      "distractors": ["Judicial foreclosure only", "Immediate eviction without notice", "90-day forfeiture notice"],
+      "explanation": "When the buyer has paid for less than 5 years AND less than 20% of the purchase price, the seller may use the faster forfeiture process with a 30-day notice rather than judicial foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["land-contract", "forfeiture", "30-day"]
+    },
+    {
+      "key_topic_ref": "OH-16.3",
+      "question_text": "An Ohio land installment contract must be recorded with which office?",
+      "correct_answer": "The county recorder",
+      "distractors": ["The Division of Real Estate", "The county auditor's office", "The Ohio Real Estate Commission"],
+      "explanation": "Ohio requires land installment contracts to be recorded with the county recorder. Recording provides constructive notice of the buyer's equitable interest in the property.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land-contract", "recording", "county-recorder"]
+    },
+    {
+      "key_topic_ref": "OH-16.3",
+      "question_text": "A buyer on a land installment contract has paid for 4 years and 22% of the purchase price. They default. What termination process must the seller use?",
+      "correct_answer": "Judicial foreclosure, since 20% has been paid",
+      "distractors": ["Forfeiture with 30-day notice only", "Either forfeiture or foreclosure at seller's choice", "Administrative hearing with the Superintendent"],
+      "explanation": "The buyer has paid 22% of the purchase price, exceeding the 20% threshold. Even though less than 5 years have passed, either threshold alone triggers the judicial foreclosure requirement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["land-contract", "20-percent", "foreclosure"]
+    }
+  ]
+}

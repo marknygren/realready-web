@@ -1,0 +1,173 @@
+{
+  "standard_ref": "KY-12",
+  "scope": "state",
+  "state": "KY",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "KY-12.1",
+      "question_text": "What is the name of the Kentucky seller disclosure form?",
+      "correct_answer": "KREC Form 402",
+      "distractors": ["KREC Form 400", "KREC Form 203", "KREC Form 500"],
+      "explanation": "KREC Form 402 is the Seller's Disclosure of Property Condition form. Form 400 is the agency disclosure ('A Guide to Agency Relationships').",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Form 402", "seller disclosure", "KREC"]
+    },
+    {
+      "key_topic_ref": "KY-12.1",
+      "question_text": "Within how many hours of contract creation must the seller disclosure form be delivered to the buyer?",
+      "correct_answer": "120 hours (5 days)",
+      "distractors": ["48 hours (2 days)", "72 hours (3 days)", "240 hours (10 days)"],
+      "explanation": "The Seller's Disclosure of Property Condition must be delivered to the buyer within 120 hours (5 days) after creation of any executory contract.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Form 402", "delivery", "120 hours"]
+    },
+    {
+      "key_topic_ref": "KY-12.1",
+      "question_text": "A purchase contract is signed on Monday at 2 PM. By when must the seller disclosure be delivered?",
+      "correct_answer": "By Saturday at 2 PM",
+      "distractors": ["By Wednesday at 2 PM", "By Thursday at 2 PM", "By the following Monday at 2 PM"],
+      "explanation": "The disclosure must be delivered within 120 hours (5 days) of contract creation. Counting from Monday at 2 PM, the deadline is Saturday at 2 PM.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Form 402", "deadline", "calculation"]
+    },
+    {
+      "key_topic_ref": "KY-12.1",
+      "question_text": "Which type of property triggers the Kentucky seller disclosure requirement?",
+      "correct_answer": "Single-family residential properties",
+      "distractors": ["All residential and commercial properties", "Properties valued over $100,000 only", "Multi-family properties with 4+ units"],
+      "explanation": "The seller disclosure requirement under KRS 324.360 applies specifically to single-family residential properties. Commercial and multi-family properties are not covered.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller disclosure", "property type", "residential"]
+    },
+    {
+      "key_topic_ref": "KY-12.1",
+      "question_text": "A condition changes after the disclosure form is completed but before closing. What must the seller do?",
+      "correct_answer": "Notify the agent or buyer in writing",
+      "distractors": ["Nothing is required until after closing", "Complete an entirely new disclosure form", "Cancel the existing purchase contract"],
+      "explanation": "Sellers must notify the agent or buyer in writing of any changes to the disclosed conditions before closing. This ensures the buyer has current information.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["disclosure", "changes", "notification"]
+    },
+    {
+      "key_topic_ref": "KY-12.2",
+      "question_text": "How many categories of property conditions does the Kentucky seller disclosure form cover?",
+      "correct_answer": "12 categories",
+      "distractors": ["8 categories", "10 categories", "15 categories"],
+      "explanation": "KREC Form 402 covers 12 categories of property conditions, including structural, mechanical, environmental, and other aspects of the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Form 402", "categories", "disclosure"]
+    },
+    {
+      "key_topic_ref": "KY-12.2",
+      "question_text": "Which of the following must be disclosed on the Kentucky seller disclosure form?",
+      "correct_answer": "Known methamphetamine contamination",
+      "distractors": ["That a previous owner had HIV", "That a murder occurred on the property", "The seller's original purchase price"],
+      "explanation": "Methamphetamine contamination is a required disclosure on KREC Form 402. HIV/AIDS and homicides are specifically NOT material facts under KY stigmatized property law (KRS 324.162).",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["meth disclosure", "required items", "Form 402"]
+    },
+    {
+      "key_topic_ref": "KY-12.2",
+      "question_text": "A seller knows radon testing was performed and showed elevated levels. Must this be disclosed?",
+      "correct_answer": "Yes, radon results must be disclosed",
+      "distractors": ["Only if levels exceed EPA guidelines", "No, radon is not on the KY form", "Only in certain Kentucky counties"],
+      "explanation": "Radon testing and mitigation is one of the required disclosure categories on KREC Form 402. Sellers must disclose known radon test results.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["radon", "disclosure", "Form 402"]
+    },
+    {
+      "key_topic_ref": "KY-12.2",
+      "question_text": "Which environmental hazard disclosure items appear on the Kentucky form?",
+      "correct_answer": "Carbon monoxide, asbestos, urea formaldehyde",
+      "distractors": ["Only lead-based paint hazard disclosures", "Only asbestos and mold issue disclosures", "Only radon and meth contamination items"],
+      "explanation": "The Kentucky disclosure form includes environmental hazards such as carbon monoxide, asbestos, and urea formaldehyde insulation, along with mold, radon, and meth contamination.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental", "hazards", "disclosure"]
+    },
+    {
+      "key_topic_ref": "KY-12.2",
+      "question_text": "A seller is aware of a roof leak that was temporarily patched. Must they disclose this?",
+      "correct_answer": "Yes, roof condition must be disclosed",
+      "distractors": ["No, if the patch stopped the leak", "Only if the leak caused interior damage", "Only for roofs over 10 years old"],
+      "explanation": "Roof condition is one of the 12 required disclosure categories. A known leak, even if temporarily patched, must be disclosed on Form 402.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["roof", "disclosure", "defects"]
+    },
+    {
+      "key_topic_ref": "KY-12.3",
+      "question_text": "A seller refuses to complete the property condition disclosure form. What must the licensee do?",
+      "correct_answer": "Disclose the refusal to the buyer",
+      "distractors": ["Cancel the listing agreement", "Complete the form for the seller", "Report the seller to KREC"],
+      "explanation": "If a seller refuses to complete Form 402, the licensee must disclose that refusal to the buyer. The licensee cannot force the seller to complete it but must inform the buyer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller refusal", "disclosure", "licensee duty"]
+    },
+    {
+      "key_topic_ref": "KY-12.3",
+      "question_text": "A seller completes Form 402 but later discovers a new issue with the HVAC system before closing. What is required?",
+      "correct_answer": "Written notification of the change",
+      "distractors": ["Nothing, the form was already completed", "A complete new Form 402", "Verbal notification to the buyer's agent"],
+      "explanation": "The seller must notify the agent or buyer in writing of any changes to the disclosed conditions before closing. A completely new form is not required — just written notice of the change.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["changes", "notification", "written"]
+    },
+    {
+      "key_topic_ref": "KY-12.3",
+      "question_text": "A buyer receives the seller disclosure 8 days after contract creation. What are the buyer's options?",
+      "correct_answer": "The disclosure was delivered late",
+      "distractors": ["This is within the normal timeframe", "The contract is automatically void", "The buyer must accept the late disclosure"],
+      "explanation": "The 120-hour (5-day) delivery deadline was missed. Late delivery may give the buyer grounds to rescind or renegotiate depending on the contract terms.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["late delivery", "120 hours", "buyer rights"]
+    },
+    {
+      "key_topic_ref": "KY-12.3",
+      "question_text": "A listing agent knows of a basement issue but the seller's disclosure form says 'unknown.' What should the agent do?",
+      "correct_answer": "Disclose the known issue to the buyer",
+      "distractors": ["Accept the seller's disclosure as final", "Update the form without seller consent", "Report the seller to KREC immediately"],
+      "explanation": "Licensees have an independent duty to disclose known material facts. If the agent knows about an issue the seller marked as unknown, the agent must still disclose it to the buyer.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["agent duty", "disclosure", "material facts"]
+    },
+    {
+      "key_topic_ref": "KY-12.3",
+      "question_text": "The seller's disclosure form reveals previous mold remediation. Can the buyer use this to cancel the contract?",
+      "correct_answer": "Depends on the contract contingencies",
+      "distractors": ["Yes, mold always allows cancellation", "No, remediated mold is not material", "Only if the mold returns before closing"],
+      "explanation": "Whether mold remediation allows cancellation depends on the contract terms and contingencies. The disclosure informs the buyer, but cancellation rights depend on the specific agreement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["mold", "cancellation", "contingencies"]
+    }
+  ]
+}

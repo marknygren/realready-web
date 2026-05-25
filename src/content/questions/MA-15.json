@@ -1,0 +1,228 @@
+{
+  "standard_ref": "MA-15",
+  "scope": "state",
+  "state": "MA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MA-15.1",
+      "question_text": "The most commonly used deed type in Massachusetts is:",
+      "correct_answer": "Quitclaim deed",
+      "distractors": ["General warranty deed", "Special warranty deed", "Bargain and sale deed"],
+      "explanation": "The quitclaim deed is the most commonly used deed in Massachusetts. It transfers whatever interest the grantor has, with no warranties. This is a distinctive feature of MA real estate practice.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deeds", "quitclaim", "common"]
+    },
+    {
+      "key_topic_ref": "MA-15.1",
+      "question_text": "A grantor conveys property using a quitclaim deed. If a title defect is later discovered, the grantee:",
+      "correct_answer": "Has no warranty claim against the grantor",
+      "distractors": ["Can sue the grantor for breach of warranty", "Can rescind the transaction automatically", "Is protected by the deed's implied warranties"],
+      "explanation": "A quitclaim deed provides no warranties. The grantor only conveys whatever interest they have — if that interest is defective, the grantee has no claim against the grantor based on the deed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deeds", "quitclaim", "no-warranty"]
+    },
+    {
+      "key_topic_ref": "MA-15.1",
+      "question_text": "An executor of an estate conveys real property to an heir. The appropriate deed type is:",
+      "correct_answer": "Fiduciary deed",
+      "distractors": ["Quitclaim deed", "General warranty deed", "Gift deed"],
+      "explanation": "A fiduciary deed is used by executors, administrators, and trustees who convey property in their official capacity. It identifies the grantor's fiduciary role and authority.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deeds", "fiduciary", "estate"]
+    },
+    {
+      "key_topic_ref": "MA-15.1",
+      "question_text": "Before a deed can be recorded in Massachusetts, it must be:",
+      "correct_answer": "Acknowledged (notarized)",
+      "distractors": ["Approved by the Board of Registration", "Reviewed by the buyer's attorney", "Stamped by the tax assessor"],
+      "explanation": "All deeds must be acknowledged (notarized) before they can be recorded at the Registry of Deeds. Acknowledgment verifies the grantor's identity and voluntary execution.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deeds", "acknowledged", "notarized"]
+    },
+    {
+      "key_topic_ref": "MA-15.1",
+      "question_text": "A warranty deed in Massachusetts provides which protections that a quitclaim deed does not?",
+      "correct_answer": "Full covenants of title",
+      "distractors": ["Exemption from deed excise tax", "Priority over recorded liens", "Automatic title insurance coverage"],
+      "explanation": "A warranty deed provides full covenants of title (seisen, right to convey, against encumbrances, quiet enjoyment, warranty, further assurance). A quitclaim deed provides none of these.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deeds", "warranty", "covenants"]
+    },
+    {
+      "key_topic_ref": "MA-15.2",
+      "question_text": "Massachusetts uses which type of recording system?",
+      "correct_answer": "Race-notice",
+      "distractors": ["Race only", "Notice only", "Pure recording"],
+      "explanation": "Massachusetts uses a race-notice recording system — the first to record without notice of prior claims prevails. Both being first to record AND having no knowledge of prior claims are required.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "system"]
+    },
+    {
+      "key_topic_ref": "MA-15.2",
+      "question_text": "Buyer A purchases a property and records the deed on Monday. Buyer B purchased the same property earlier but has not yet recorded. In Massachusetts, who has priority?",
+      "correct_answer": "Buyer A, if they had no notice of B's claim",
+      "distractors": ["Buyer B, because they purchased the property first", "Buyer A, regardless of any prior knowledge", "Neither buyer — the entire transaction is void"],
+      "explanation": "Under the race-notice system, Buyer A prevails only if they (1) recorded first AND (2) had no notice of Buyer B's prior purchase. If A knew about B's purchase, B would prevail despite not recording.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "priority"]
+    },
+    {
+      "key_topic_ref": "MA-15.2",
+      "question_text": "Recording a deed at the Registry of Deeds provides:",
+      "correct_answer": "Constructive notice to the world",
+      "distractors": ["Actual notice to all buyers", "Title insurance protection", "Guarantee of clear title"],
+      "explanation": "Recording provides constructive notice — the legal presumption that everyone knows about the recorded instrument. It does not provide title insurance or guarantee clear title.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "constructive-notice", "registry"]
+    },
+    {
+      "key_topic_ref": "MA-15.2",
+      "question_text": "An unrecorded deed in Massachusetts is valid between:",
+      "correct_answer": "The original parties to the transaction",
+      "distractors": ["No one — unrecorded deeds are void", "All subsequent purchasers", "Only if witnessed by two people"],
+      "explanation": "Unrecorded instruments may still be valid between the parties but not against bona fide purchasers who record first without notice. Recording is important but not required for validity between the parties.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recording", "unrecorded", "validity"]
+    },
+    {
+      "key_topic_ref": "MA-15.2",
+      "question_text": "Where are deeds for non-registered land recorded in Massachusetts?",
+      "correct_answer": "The county Registry of Deeds",
+      "distractors": ["The Land Court", "The Secretary of State's office", "The municipal clerk's office"],
+      "explanation": "Non-registered land (most MA property) is recorded at the county Registry of Deeds. Registered land is recorded at the Land Court instead.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "registry-of-deeds", "county"]
+    },
+    {
+      "key_topic_ref": "MA-15.3",
+      "question_text": "A property in Suffolk County sells for $500,000. The deed excise tax at the standard rate is:",
+      "correct_answer": "$2,280",
+      "distractors": ["$3,240", "$1,140", "$4,560"],
+      "explanation": "The standard deed excise tax is $4.56 per $1,000 of consideration. $500,000 / $1,000 = 500 x $4.56 = $2,280.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "deed-excise", "calculation"]
+    },
+    {
+      "key_topic_ref": "MA-15.3",
+      "question_text": "A home sells for $350,000 in a community that has adopted the Community Preservation Act. The buyer should expect:",
+      "correct_answer": "A surcharge added to the deed excise tax",
+      "distractors": ["A reduction in the deed excise tax", "No additional cost beyond the base tax", "An exemption from all transfer taxes"],
+      "explanation": "Communities that adopt the Community Preservation Act add a surcharge (typically 1-3%) on top of the deed excise tax. This funds local open space, historic preservation, and affordable housing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer-tax", "CPA", "surcharge"]
+    },
+    {
+      "key_topic_ref": "MA-15.3",
+      "question_text": "A transfer of property between spouses as part of a divorce settlement is:",
+      "correct_answer": "Exempt from deed excise tax",
+      "distractors": ["Taxed at the standard rate", "Taxed at half the standard rate", "Subject to a special divorce transfer tax"],
+      "explanation": "Certain transfers are exempt from deed excise tax, including transfers between spouses in divorce and certain government transfers. This prevents tax from being a barrier to divorce settlements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-tax", "exemption", "divorce"]
+    },
+    {
+      "key_topic_ref": "MA-15.3",
+      "question_text": "Barnstable County (Cape Cod) has a deed excise tax rate that is:",
+      "correct_answer": "Higher than the standard statewide rate",
+      "distractors": ["The same as all other counties", "Lower due to a local tourism exemption", "Set annually by the county commissioners"],
+      "explanation": "Barnstable County has a higher deed excise tax rate of approximately $6.48 per $1,000, compared to the standard $4.56 per $1,000 in other counties. This is a unique exception candidates should know.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-tax", "barnstable", "cape-cod"]
+    },
+    {
+      "key_topic_ref": "MA-15.3",
+      "question_text": "The standard Massachusetts deed excise tax rate is:",
+      "correct_answer": "$4.56 per $1,000 of consideration",
+      "distractors": ["$2.00 per $1,000 of consideration", "$6.84 per $1,000 of consideration", "$10.00 per $1,000 of consideration"],
+      "explanation": "The standard deed excise tax is $2.28 per $500 (equivalent to $4.56 per $1,000) of consideration. This rate applies in most counties except Barnstable County.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer-tax", "rate", "standard"]
+    },
+    {
+      "key_topic_ref": "MA-15.4",
+      "question_text": "Massachusetts is classified as an 'attorney state' because:",
+      "correct_answer": "Attorneys typically handle real estate closings",
+      "distractors": ["Only attorneys can hold real estate licenses", "The state bar oversees real estate agents", "Attorneys must approve all listing agreements"],
+      "explanation": "Massachusetts is an attorney state meaning attorneys typically handle closings, examine title, and prepare the purchase and sale agreement. This differs from states where title companies or escrow agents handle closings.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "attorney-state", "practice"]
+    },
+    {
+      "key_topic_ref": "MA-15.4",
+      "question_text": "A condominium unit is being sold. At closing, a certificate certifying the unit owner is current on fees is called a:",
+      "correct_answer": "6(d) certificate",
+      "distractors": ["Resale certificate", "Certificate of Title", "Certificate of Compliance"],
+      "explanation": "The 6(d) certificate (from MGL c.183A §6(d)) certifies that the condominium unit owner is current on fees and assessments. The buyer's lender typically requires this at closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "6d-certificate", "condominium"]
+    },
+    {
+      "key_topic_ref": "MA-15.4",
+      "question_text": "The buyer's attorney in a Massachusetts closing typically performs which key function?",
+      "correct_answer": "Examines title and issues certification",
+      "distractors": ["Negotiates the final purchase price", "Arranges the mortgage financing", "Conducts the property home inspection"],
+      "explanation": "The buyer's attorney typically examines the title and issues the title certification. This is a core function in Massachusetts attorney-state practice.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "title-examination", "attorney"]
+    },
+    {
+      "key_topic_ref": "MA-15.4",
+      "question_text": "Title insurance in Massachusetts is:",
+      "correct_answer": "Available and increasingly common",
+      "distractors": ["Required by state law for all sales", "Prohibited under attorney-state rules", "Only available through the Land Court"],
+      "explanation": "Title insurance is available and increasingly common in Massachusetts, though the state's attorney-state tradition means closings historically relied on attorney title examinations. It is not required by law but is often requested by lenders.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "title-insurance", "practice"]
+    },
+    {
+      "key_topic_ref": "MA-15.4",
+      "question_text": "At a Massachusetts closing, all executed documents are recorded at:",
+      "correct_answer": "The Registry of Deeds",
+      "distractors": ["The Board of Registration", "The town clerk's office only", "The buyer's attorney's office"],
+      "explanation": "After closing, all documents (deed, mortgage, etc.) are recorded at the Registry of Deeds (or Land Court for registered land) to provide constructive notice and protect the buyer's interests.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["closing", "recording", "registry"]
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "standard_ref": "N-27",
+  "scope": "national",
+  "state": null,
+  "category": "real_estate_math",
+  "questions": [
+    {
+      "key_topic_ref": "N-27.1",
+      "question_text": "A rectangular lot measures 150 feet wide by 200 feet deep. What is the total square footage of the lot?",
+      "correct_answer": "30,000 square feet",
+      "distractors": [
+        "700 square feet",
+        "15,000 square feet",
+        "60,000 square feet"
+      ],
+      "explanation": "The area of a rectangle = length × width. 150 ft × 200 ft = 30,000 square feet. This is the fundamental area formula tested throughout real estate math. Always confirm you are multiplying two dimensions (not adding them — that would give perimeter). Real estate math uses this calculation for lot size, building footprints, and room dimensions.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "area_calculation",
+        "square_footage",
+        "rectangle",
+        "lot_size"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.1",
+      "question_text": "A triangular parcel of land has a base of 400 feet and a height of 300 feet. What is the area of the parcel in square feet?",
+      "correct_answer": "60,000 square feet",
+      "distractors": [
+        "120,000 square feet",
+        "700 square feet",
+        "30,000 square feet"
+      ],
+      "explanation": "The area of a triangle = ½ × base × height. ½ × 400 ft × 300 ft = ½ × 120,000 = 60,000 square feet. The ½ factor is the most common mistake — students often forget it and arrive at 120,000. Triangular parcels appear frequently in exam questions, especially for irregular lots or surveyed parcels. The 'height' must be the perpendicular distance from the base to the opposite vertex, not the length of a side.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "area_calculation",
+        "triangle",
+        "square_footage",
+        "irregular_lot"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.2",
+      "question_text": "A rectangular lot measures 130 feet wide by 200 feet deep. Approximately how many acres is the lot? (1 acre = 43,560 sq ft)",
+      "correct_answer": "Approximately 0.60 acres",
+      "distractors": [
+        "Approximately 1.68 acres",
+        "Approximately 2.4 acres",
+        "Approximately 0.26 acres"
+      ],
+      "explanation": "To convert square feet to acres, divide by 43,560. Step 1: Calculate area: 130 ft × 200 ft = 26,000 sq ft. Step 2: Convert to acres: 26,000 ÷ 43,560 = 0.597 acres ≈ 0.60 acres. Memorize 43,560 sq ft = 1 acre. To go from acres to sq ft, multiply by 43,560. To go from sq ft to acres, divide by 43,560. Common reference: a square lot 209 feet × 209 feet is approximately 1 acre.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "acreage_conversion",
+        "square_footage",
+        "43560",
+        "lot_size"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.2",
+      "question_text": "In the rectangular (government) survey system, a quarter-quarter section contains how many acres?",
+      "correct_answer": "40 acres",
+      "distractors": [
+        "160 acres",
+        "80 acres",
+        "20 acres"
+      ],
+      "explanation": "A township is 6 miles × 6 miles = 36 square miles = 36 sections. One section = 1 square mile = 640 acres. Subdivisions of a section follow a simple halving pattern: ½ section = 320 acres; ¼ section = 160 acres; ½ of ¼ = ⅛ section = 80 acres; ¼ of ¼ = 1/16 section = 40 acres. A quarter-quarter section is often written as 'NW¼ of the SW¼' — each further fraction halves or quarters the acreage. 40-acre parcels were historically the standard homesteading unit.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "rectangular_survey",
+        "sections",
+        "acreage",
+        "quarter_section"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.3",
+      "question_text": "A commercial lot has 80 feet of frontage on Main Street. Similar lots in the area sell for $1,500 per front foot. What is the estimated value of the lot?",
+      "correct_answer": "$120,000",
+      "distractors": [
+        "$150,000",
+        "$18.75 per square foot",
+        "$1,500"
+      ],
+      "explanation": "The front foot method values commercial property based on street frontage — the most economically important dimension for a storefront. Value = Number of front feet × Price per front foot. 80 × $1,500 = $120,000. Front footage is the length of the property along the street. This method is common in urban commercial districts where visibility and access are the primary value drivers. Note: 'front foot' refers to linear feet of street frontage, not square footage.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "front_footage",
+        "commercial_property",
+        "valuation_math",
+        "lot_value"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.1",
+      "question_text": "A house has a main rectangular living area of 40 feet × 50 feet and an attached rectangular garage of 20 feet × 25 feet. What is the total square footage of the structure (both areas combined)?",
+      "correct_answer": "2,500 square feet",
+      "distractors": [
+        "2,000 square feet",
+        "3,000 square feet",
+        "4,000 square feet"
+      ],
+      "explanation": "For irregular or multi-section structures, calculate the area of each rectangular section separately, then add them together. Main area: 40 × 50 = 2,000 sq ft. Garage: 20 × 25 = 500 sq ft. Total: 2,000 + 500 = 2,500 sq ft. On exams, the challenge is often an L-shaped or complex floor plan. Strategy: mentally divide the shape into rectangles, calculate each, and sum. Note: in practice, heated/cooled living area and garage square footage are typically reported separately in listings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "square_footage",
+        "area_calculation",
+        "irregular_shape",
+        "multi_section"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.1",
+      "question_text": "An L-shaped room can be divided into two rectangles: one measuring 10 ft × 12 ft and one measuring 8 ft × 6 ft. What is the total area of the room?",
+      "correct_answer": "168 square feet",
+      "distractors": [
+        "120 square feet",
+        "216 square feet",
+        "192 square feet"
+      ],
+      "explanation": "Divide irregular shapes into simple rectangles and add the areas. Rectangle 1: 10 × 12 = 120 sq ft. Rectangle 2: 8 × 6 = 48 sq ft. Total: 120 + 48 = 168 sq ft. The 120 sq ft distractor only counts the first rectangle. The 216 sq ft distractor incorrectly multiplies all four numbers (10 × 12 + 8 × 6 ≠ 216). On the exam, always sketch the shape, break it into rectangles, calculate each area, and add them together.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "area_calculation",
+        "L-shaped",
+        "irregular_shape",
+        "square_footage"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.1",
+      "question_text": "A builder needs to pour a concrete patio that is 20 feet long, 15 feet wide, and 4 inches thick. How many cubic feet of concrete are needed?",
+      "correct_answer": "100 cubic feet",
+      "distractors": [
+        "1,200 cubic feet",
+        "300 cubic feet",
+        "25 cubic feet"
+      ],
+      "explanation": "Volume = length × width × height. First convert 4 inches to feet: 4 ÷ 12 = 0.333 feet. Then: 20 × 15 × 0.333 = 100 cubic feet. The most common mistake is forgetting to convert inches to feet — 20 × 15 × 4 = 1,200 cubic feet (the first distractor). Always ensure all measurements are in the same unit before multiplying. Volume questions on the exam typically involve concrete, fill dirt, or storage capacity.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "volume_calculation",
+        "cubic_feet",
+        "unit_conversion",
+        "concrete"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.2",
+      "question_text": "A farmer owns a 5-acre parcel. How many square feet is the parcel? (1 acre = 43,560 sq ft)",
+      "correct_answer": "217,800 square feet",
+      "distractors": [
+        "218,000 square feet",
+        "8,712 square feet",
+        "43,560 square feet"
+      ],
+      "explanation": "To convert acres to square feet, multiply by 43,560. 5 × 43,560 = 217,800 square feet. The 43,560 distractor represents only 1 acre. The 8,712 distractor incorrectly divides 43,560 by 5 instead of multiplying. Remember: acres to sq ft = multiply by 43,560; sq ft to acres = divide by 43,560.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "acreage_conversion",
+        "square_footage",
+        "43560"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.2",
+      "question_text": "A property measures 660 feet × 330 feet. How many acres does it contain? (1 acre = 43,560 sq ft)",
+      "correct_answer": "5 acres",
+      "distractors": [
+        "10 acres",
+        "2.5 acres",
+        "7.5 acres"
+      ],
+      "explanation": "Area = 660 × 330 = 217,800 sq ft. Acres = 217,800 ÷ 43,560 = 5 acres. Helpful reference: a section (1 square mile) = 640 acres = 5,280 ft × 5,280 ft. Half a section is 320 acres, and common lot dimensions like 660 × 330 ft create recognizable acreage amounts. On the exam, always calculate in two steps: find total square footage, then divide by 43,560.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "acreage_conversion",
+        "square_footage",
+        "lot_dimensions"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.2",
+      "question_text": "A buyer purchases a lot containing 87,120 square feet. The lot size in acres is:",
+      "correct_answer": "2 acres",
+      "distractors": [
+        "1 acre",
+        "0.5 acres",
+        "4 acres"
+      ],
+      "explanation": "87,120 sq ft ÷ 43,560 sq ft per acre = 2 acres. Quick check: 43,560 × 2 = 87,120. Memorizing 43,560 is essential for the exam. Quick mental benchmarks: 1 acre ≈ 43,560 sq ft; 2 acres ≈ 87,120 sq ft; 5 acres ≈ 217,800 sq ft; 10 acres ≈ 435,600 sq ft.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "acreage_conversion",
+        "43560",
+        "lot_size"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.3",
+      "question_text": "A developer wants to purchase a 120-foot wide lot for $2,400 per front foot. The lot has 200 feet of depth. What is the total price?",
+      "correct_answer": "$288,000",
+      "distractors": [
+        "$480,000",
+        "$24,000",
+        "$576,000"
+      ],
+      "explanation": "Front foot pricing uses only the frontage (width along the street), not the depth. Price = frontage × price per front foot = 120 × $2,400 = $288,000. The depth is irrelevant when using front foot pricing — it is provided as a distractor. The $480,000 answer incorrectly uses the depth (200 × $2,400). The $576,000 answer incorrectly multiplies by both dimensions. Front foot pricing is used primarily for commercial property where street exposure drives value.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "front_footage",
+        "commercial_valuation",
+        "lot_pricing"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.3",
+      "question_text": "A commercial lot with 60 feet of street frontage sold for $180,000. What was the price per front foot?",
+      "correct_answer": "$3,000 per front foot",
+      "distractors": [
+        "$300 per front foot",
+        "$1,800 per front foot",
+        "$6,000 per front foot"
+      ],
+      "explanation": "Price per front foot = total price ÷ front footage = $180,000 ÷ 60 = $3,000 per front foot. This is the reverse of the more common calculation (total = frontage × rate). Working backward from a known sale price to determine the front foot rate helps appraisers establish comparable values for neighboring commercial lots. The $300 distractor divides by 600, the $1,800 divides by 100, and $6,000 multiplies the ratio incorrectly.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "front_footage",
+        "price_per_front_foot",
+        "commercial_valuation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.3",
+      "question_text": "Two adjacent commercial lots are for sale. Lot A has 50 feet of frontage at $2,000 per front foot. Lot B has 75 feet of frontage at $1,800 per front foot. What is the combined purchase price?",
+      "correct_answer": "$235,000",
+      "distractors": [
+        "$250,000",
+        "$225,000",
+        "$190,000"
+      ],
+      "explanation": "Calculate each lot separately, then add. Lot A: 50 × $2,000 = $100,000. Lot B: 75 × $1,800 = $135,000. Combined: $100,000 + $135,000 = $235,000. Note that adjacent lots may have different per-front-foot prices based on corner location, visibility, zoning, or access. The $250,000 distractor uses $2,000 for both lots (125 × $2,000). The $225,000 uses $1,800 for both. Always apply each lot's specific rate.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "front_footage",
+        "combined_lots",
+        "commercial_valuation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-27.3",
+      "question_text": "A commercial lot sold for $225,000. Comparable front foot values in the area are $3,000 per front foot. Approximately how many feet of street frontage does the lot have?",
+      "correct_answer": "75 front feet",
+      "distractors": [
+        "225 front feet",
+        "50 front feet",
+        "100 front feet"
+      ],
+      "explanation": "Front footage = total price ÷ price per front foot = $225,000 ÷ $3,000 = 75 front feet. This is another reverse calculation — given the sale price and the per-front-foot value, solve for the frontage. These working-backward problems are common on the exam. The 225 distractor divides by $1,000, the 50 divides by $4,500, and 100 divides by $2,250.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "front_footage",
+        "working_backward",
+        "commercial_valuation"
+      ]
+    }
+  ]
+}

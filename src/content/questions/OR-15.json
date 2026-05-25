@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OR-15",
+  "scope": "state",
+  "state": "OR",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OR-15.1",
+      "question_text": "Two farmers both claim water from the same creek during a drought. Farmer A's water right was established in 1952 and Farmer B's in 1978. Who receives water first?",
+      "correct_answer": "Farmer A, as the senior appropriator",
+      "distractors": ["Farmer B, as the downstream user", "Both receive equal shares", "Neither, until OWRD allocates shares"],
+      "explanation": "Oregon follows the prior appropriation doctrine: first in time, first in right. Farmer A holds the senior right (1952 priority date) and must be fully satisfied before Farmer B receives any water during shortage.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prior appropriation", "senior rights", "priority date"]
+    },
+    {
+      "key_topic_ref": "OR-15.1",
+      "question_text": "Which state agency administers water rights in Oregon?",
+      "correct_answer": "Oregon Water Resources Department",
+      "distractors": ["Oregon Department of Environmental Quality", "Oregon Department of State Lands", "Oregon Department of Agriculture"],
+      "explanation": "The Oregon Water Resources Department (OWRD) administers water rights, issues permits, and enforces beneficial use requirements under the prior appropriation doctrine.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["OWRD", "water administration", "state agency"]
+    },
+    {
+      "key_topic_ref": "OR-15.1",
+      "question_text": "A rancher holds a water right but has not diverted water for irrigation in several years. What is the most likely consequence?",
+      "correct_answer": "The right may be forfeited for nonuse",
+      "distractors": ["The right automatically transfers to neighbors", "The priority date resets to the current year", "No consequence if taxes are current"],
+      "explanation": "Oregon's prior appropriation doctrine requires beneficial use. Under the 'use it or lose it' principle, a water right that is not put to beneficial use can be forfeited through OWRD proceedings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["beneficial use", "forfeiture", "prior appropriation"]
+    },
+    {
+      "key_topic_ref": "OR-15.1",
+      "question_text": "Under Oregon's prior appropriation doctrine, a water right is BEST described as which type of right?",
+      "correct_answer": "A property right separate from the land",
+      "distractors": ["An appurtenant right tied to the land", "A license revocable at any time", "A riparian right based on land ownership"],
+      "explanation": "In Oregon, a water right is a property right but is separate from the land itself. It can be independently transferred or lost through nonuse, unlike riparian rights which attach to land bordering water.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property right", "prior appropriation", "water right nature"]
+    },
+    {
+      "key_topic_ref": "OR-15.1",
+      "question_text": "During a water shortage, an OWRD watermaster must allocate limited supply among multiple right holders. Which factor determines the order of allocation?",
+      "correct_answer": "Each holder's priority date",
+      "distractors": ["The volume each holder needs", "Each holder's proximity to the source", "The economic value of each holder's use"],
+      "explanation": "Under prior appropriation, the priority date controls allocation during shortages. Senior rights (earlier dates) are satisfied first in full before junior rights receive any water, regardless of proximity, need, or economic value.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["priority date", "allocation", "shortage"]
+    },
+    {
+      "key_topic_ref": "OR-15.2",
+      "question_text": "A rural homeowner uses a well pumping 10,000 gallons per day for household needs. Does this use require an OWRD permit?",
+      "correct_answer": "No, domestic use under 15,000 GPD is exempt",
+      "distractors": ["Yes, all groundwater use requires a permit", "No, all residential wells are exempt", "Yes, any use over 5,000 GPD needs a permit"],
+      "explanation": "Oregon exempts domestic groundwater use up to 15,000 gallons per day from the permit requirement. At 10,000 gallons per day, this homeowner falls within the exempt threshold.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exempt use", "groundwater", "domestic use"]
+    },
+    {
+      "key_topic_ref": "OR-15.2",
+      "question_text": "A seller conveys farmland but the deed makes no mention of the associated water right. What happens to the water right?",
+      "correct_answer": "It transfers automatically with the land",
+      "distractors": ["It reverts to the state of Oregon", "It is split equally between seller and buyer", "It is forfeited due to the omission"],
+      "explanation": "Under ORS 540.510, Oregon water rights are appurtenant to the land and transfer automatically with a property sale unless specifically reserved or excluded in the deed. If the deed is silent, the water right passes to the buyer.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water right transfer", "appurtenant", "sale of land"]
+    },
+    {
+      "key_topic_ref": "OR-15.2",
+      "question_text": "A farmer wants to change her water right from irrigation use to fish pond use on an adjacent parcel. What approval is required?",
+      "correct_answer": "OWRD approval of a transfer application",
+      "distractors": ["No approval if the water source stays the same", "County planning commission approval only", "Oregon DEQ environmental clearance only"],
+      "explanation": "Changing the use or place of use of a water right in Oregon requires OWRD approval through a formal transfer application. OWRD evaluates whether the change will injure other water right holders.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer", "change of use", "OWRD approval"]
+    },
+    {
+      "key_topic_ref": "OR-15.2",
+      "question_text": "Which of the following groundwater uses is exempt from the OWRD permit requirement in Oregon?",
+      "correct_answer": "Stock watering for livestock on the property",
+      "distractors": ["Irrigating 20 acres of cropland", "Operating a small commercial car wash", "Filling a community swimming pool weekly"],
+      "explanation": "Oregon exempts certain small-scale uses from permit requirements, including stock watering and domestic use up to 15,000 gallons per day. Commercial and larger irrigation uses require OWRD permits.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exempt use", "stock watering", "groundwater"]
+    },
+    {
+      "key_topic_ref": "OR-15.2",
+      "question_text": "A buyer's agent is advising a client purchasing property with surface water access. Which statement about surface water rights is CORRECT?",
+      "correct_answer": "Use of surface water requires an OWRD permit",
+      "distractors": ["Landowners may freely use adjacent surface water", "Surface water rights attach to riparian land", "No permit is needed for agricultural surface use"],
+      "explanation": "Oregon requires an OWRD permit for surface water use. Unlike riparian states, owning land adjacent to a stream does not grant automatic rights to use that water. All surface water belongs to the public.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["surface water", "OWRD permit", "buyer advisory"]
+    },
+    {
+      "key_topic_ref": "OR-15.3",
+      "question_text": "A subcontractor completes work on a residential project but is not paid. How many days after completion does she have to file a construction lien?",
+      "correct_answer": "75 days",
+      "distractors": ["60 days", "90 days", "120 days"],
+      "explanation": "Under ORS 87.001-87.093, a construction lien must be filed within 75 days after completion or cessation of work. Missing this deadline extinguishes the right to file a lien.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["construction lien", "filing deadline", "75 days"]
+    },
+    {
+      "key_topic_ref": "OR-15.3",
+      "question_text": "A contractor files a construction lien on March 1. By what deadline must she commence foreclosure proceedings to enforce the lien?",
+      "correct_answer": "Within 120 days after filing the lien",
+      "distractors": ["Within 75 days after filing the lien", "Within 180 days after filing the lien", "Within one year after filing the lien"],
+      "explanation": "Oregon law requires foreclosure action to commence within 120 days after the lien is filed. Failure to initiate foreclosure within this window causes the lien to expire.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["foreclosure", "120 days", "lien enforcement"]
+    },
+    {
+      "key_topic_ref": "OR-15.3",
+      "question_text": "A homeowner hires a contractor for a $5,000 bathroom remodel. Under Oregon law, the contractor must provide what document before work begins?",
+      "correct_answer": "An Information Notice to Owner",
+      "distractors": ["A construction lien waiver", "A surety bond certificate", "A building permit application copy"],
+      "explanation": "For residential contracts exceeding $2,000, Oregon requires the contractor to provide an Information Notice to Owner. This notice informs the homeowner about construction lien rights and protections.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Information Notice", "residential contract", "$2,000 threshold"]
+    },
+    {
+      "key_topic_ref": "OR-15.3",
+      "question_text": "In Oregon, the priority of a construction lien is determined by which date?",
+      "correct_answer": "The date the lien is filed",
+      "distractors": ["The date construction work began", "The date the contract was signed", "The date materials were first delivered"],
+      "explanation": "Oregon determines construction lien priority from the date the lien is filed, not when work commenced. This differs from some states where the lien relates back to the start of construction.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["lien priority", "filing date", "Oregon distinction"]
+    },
+    {
+      "key_topic_ref": "OR-15.3",
+      "question_text": "A property owner is concerned about potential construction liens from unpaid subcontractors. What protective measure can the owner require from the general contractor?",
+      "correct_answer": "A payment bond",
+      "distractors": ["A mechanic's lien waiver from all subs", "Title insurance with lien coverage", "A personal guarantee from each subcontractor"],
+      "explanation": "Oregon law allows property owners to require the general contractor to obtain a payment bond. This bond protects the owner's property from liens by ensuring subcontractors and suppliers can be paid from the bond rather than filing liens.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["payment bond", "owner protection", "construction lien"]
+    }
+  ]
+}

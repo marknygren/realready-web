@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MO-10",
+  "scope": "state",
+  "state": "MO",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MO-10.1",
+      "question_text": "A Missouri seller asks whether state law requires completing a property disclosure form. What is the correct answer?",
+      "correct_answer": "Missouri has no mandatory disclosure statute",
+      "distractors": ["Sellers must complete a 6-page statutory form", "Only commercial sellers are exempt from disclosure", "Disclosure is required only for properties over $100,000"],
+      "explanation": "Missouri is one of few states with NO mandatory seller disclosure statute. The MAR (Missouri Association of REALTORS) Disclosure Form is an industry standard but not a statutory mandate. Sellers still have a common-law duty to disclose known material defects.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller-disclosure", "MAR-form", "no-statutory-mandate"]
+    },
+    {
+      "key_topic_ref": "MO-10.1",
+      "question_text": "A buyer's agent recommends the seller complete a MAR Disclosure Form. The seller refuses, claiming it is not required. Is the seller correct?",
+      "correct_answer": "Yes, the MAR form is voluntary, not statutory",
+      "distractors": ["No, state law mandates a disclosure form", "No, MREC requires it for all residential sales", "Yes, but only for properties under $200,000"],
+      "explanation": "The seller is correct. Missouri has no mandatory seller disclosure statute. The MAR Seller's Disclosure Form is an industry standard created by the Missouri Association of REALTORS, but completing it is voluntary. Sellers still owe a common-law duty to disclose known material defects.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MAR-form", "voluntary-disclosure", "seller-rights"]
+    },
+    {
+      "key_topic_ref": "MO-10.1",
+      "question_text": "A seller knows the basement floods every spring but says nothing to the buyer. Under Missouri law, is the seller liable?",
+      "correct_answer": "Yes, under the common-law duty to disclose defects",
+      "distractors": ["No, Missouri follows strict caveat emptor", "Only if the buyer specifically asks about flooding", "Only if the agent knew about the flooding"],
+      "explanation": "Even without a mandatory disclosure statute, Missouri common law imposes a duty on sellers to disclose known material defects. Deliberately concealing a flooding problem constitutes fraud and exposes the seller to liability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["common-law-duty", "material-defects", "seller-liability"]
+    },
+    {
+      "key_topic_ref": "MO-10.1",
+      "question_text": "A listing agent learns the seller completed a MAR Disclosure Form but left several sections blank. What should the agent advise?",
+      "correct_answer": "Complete all sections or mark items as unknown",
+      "distractors": ["Leave blanks since the form is voluntary", "Remove the form from the transaction file", "File the incomplete form with the state commission"],
+      "explanation": "Although the MAR form is not statutorily required, once a seller begins completing it, blank sections create liability risk. Best practice requires answering every section or marking items as unknown to avoid claims of concealment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["MAR-form", "best-practice", "disclosure-completion"]
+    },
+    {
+      "key_topic_ref": "MO-10.1",
+      "question_text": "Which statement accurately describes Missouri's approach to seller disclosure?",
+      "correct_answer": "No statute mandates disclosure forms for sellers",
+      "distractors": ["State law requires a 4-page disclosure form", "Disclosure is required only in Kansas City metro", "Federal law preempts Missouri disclosure rules"],
+      "explanation": "Missouri does NOT have a mandatory seller disclosure statute. The commonly used MAR Disclosure Form is a voluntary industry standard developed by the Missouri Association of REALTORS, not a legal requirement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "Missouri-law", "voluntary-form"]
+    },
+    {
+      "key_topic_ref": "MO-10.2",
+      "question_text": "Under RSMo 442.600, a listing agent is asked whether a previous owner died of AIDS in the home. How should the agent respond?",
+      "correct_answer": "The agent has no duty to disclose that fact",
+      "distractors": ["The agent must disclose if asked directly", "The agent must provide a written AIDS disclosure", "The agent must refer the buyer to public records"],
+      "explanation": "RSMo 442.600 provides that there is NO duty to disclose that a property was the site of a death caused by HIV/AIDS, murder, felony, suicide, or death by any other cause. Agents are immune from liability for not disclosing these facts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["stigmatized-property", "RSMo-442.600", "AIDS-disclosure"]
+    },
+    {
+      "key_topic_ref": "MO-10.2",
+      "question_text": "Which events does RSMo 442.600 specifically exempt from disclosure in Missouri real estate transactions?",
+      "correct_answer": "HIV/AIDS, murder, felony, suicide, or any death",
+      "distractors": ["Only homicides and suicides on the property", "Only deaths occurring within the past 3 years", "Only violent crimes reported to law enforcement"],
+      "explanation": "RSMo 442.600 broadly exempts disclosure of HIV/AIDS, murder, felony, suicide, or death by any cause. This protection extends to both sellers and their agents, who are immune from liability for nondisclosure of these stigmatizing events.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["stigmatized-property", "RSMo-442.600", "exempt-events"]
+    },
+    {
+      "key_topic_ref": "MO-10.2",
+      "question_text": "A buyer asks a Missouri agent if a felony was committed in a property. The agent knows one occurred. What is the agent's legal obligation?",
+      "correct_answer": "No obligation to disclose under RSMo 442.600",
+      "distractors": ["Must disclose because the buyer asked directly", "Must disclose only felonies within the past 5 years", "Must provide a police report to the buyer"],
+      "explanation": "RSMo 442.600 provides that agents have NO duty to disclose that a felony, murder, suicide, or death occurred on a property. The statute grants agents immunity from liability for nondisclosure of these stigmatizing events, even when directly asked.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["stigmatized-property", "agent-immunity", "felony-disclosure"]
+    },
+    {
+      "key_topic_ref": "MO-10.2",
+      "question_text": "What protection does RSMo 442.600 provide to real estate agents regarding stigmatized properties?",
+      "correct_answer": "Immunity from liability for not disclosing",
+      "distractors": ["A 3-year statute of limitations on claims", "Protection only if they file a disclosure waiver", "Immunity only for residential transactions"],
+      "explanation": "RSMo 442.600 grants real estate agents immunity from liability for failing to disclose stigmatizing events such as HIV/AIDS, murder, felony, suicide, or death by any cause that occurred on the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agent-immunity", "RSMo-442.600", "liability-protection"]
+    },
+    {
+      "key_topic_ref": "MO-10.2",
+      "question_text": "A prospective buyer with young children asks whether anyone has ever died in the house. Under Missouri law, the seller:",
+      "correct_answer": "Has no legal duty to disclose any death",
+      "distractors": ["Must disclose deaths within the past 10 years", "Must disclose only if the death was violent", "Must disclose if the buyer has a reasonable concern"],
+      "explanation": "RSMo 442.600 eliminates any duty to disclose death by any cause on the property. This applies regardless of the buyer's reason for asking and protects both sellers and agents from liability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["stigmatized-property", "death-disclosure", "seller-duty"]
+    },
+    {
+      "key_topic_ref": "MO-10.3",
+      "question_text": "Under RSMo 442.606, which environmental hazard requires mandatory written disclosure by Missouri sellers?",
+      "correct_answer": "Prior methamphetamine production on the property",
+      "distractors": ["Radon levels above 4.0 pCi/L in the basement", "Lead paint in homes built before 1978", "Proximity to a former landfill site"],
+      "explanation": "RSMo 442.606 requires sellers to disclose in writing if the property was used for methamphetamine production. This is a state-specific mandatory disclosure. Lead paint disclosure is a separate federal requirement, and radon disclosure is not mandated by Missouri statute.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["meth-disclosure", "RSMo-442.606", "environmental-hazard"]
+    },
+    {
+      "key_topic_ref": "MO-10.3",
+      "question_text": "Approximately what fraction of Missouri homes exceed the EPA radon action level of 4.0 pCi/L?",
+      "correct_answer": "One in three homes",
+      "distractors": ["One in ten homes", "One in twenty homes", "One in fifty homes"],
+      "explanation": "Approximately 1 in 3 Missouri homes exceed the EPA radon action level of 4.0 pCi/L, making Missouri one of the highest-radon states in the nation. Radon testing is strongly recommended for all Missouri real estate transactions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["radon", "EPA-action-level", "Missouri-statistics"]
+    },
+    {
+      "key_topic_ref": "MO-10.3",
+      "question_text": "A buyer is purchasing a 1950s home in the St. Louis area. Which environmental concern is MOST significant for this location and era?",
+      "correct_answer": "Lead-based paint in older housing stock",
+      "distractors": ["Earthquake fault line proximity", "High radon levels unique to St. Louis", "Methamphetamine contamination risk"],
+      "explanation": "Lead-based paint is a major concern in the St. Louis area due to its large inventory of older housing stock built before the 1978 federal lead paint ban. Federal law requires lead paint disclosure for homes built before 1978.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["lead-paint", "St-Louis", "pre-1978-housing"]
+    },
+    {
+      "key_topic_ref": "MO-10.3",
+      "question_text": "A property along the Missouri River is being listed. Which environmental risk should the agent highlight to potential buyers?",
+      "correct_answer": "Floodplain designation requiring flood insurance",
+      "distractors": ["Mandatory earthquake insurance requirements", "State-required soil contamination testing", "Wetland restrictions prohibiting all development"],
+      "explanation": "Properties along the Missouri and Mississippi Rivers frequently fall within FEMA-designated floodplains. Lenders require flood insurance for properties in these zones, and agents should ensure buyers understand this additional cost and risk.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["floodplain", "Missouri-River", "flood-insurance"]
+    },
+    {
+      "key_topic_ref": "MO-10.3",
+      "question_text": "A seller knew methamphetamine was manufactured in the garage but failed to provide written disclosure. Under RSMo 442.606, the seller has:",
+      "correct_answer": "Violated a mandatory state disclosure requirement",
+      "distractors": ["No liability since meth disclosure is voluntary", "Liability only if the buyer becomes ill", "Complied if they disclosed verbally to the agent"],
+      "explanation": "RSMo 442.606 specifically requires written disclosure of prior methamphetamine production. Verbal disclosure is insufficient. Failure to provide this written disclosure violates Missouri law and exposes the seller to legal liability.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["meth-disclosure", "RSMo-442.606", "written-requirement"]
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "standard_ref": "MN-16",
+  "scope": "state",
+  "state": "MN",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MN-16.1",
+      "question_text": "Minnesota is classified as which type of security instrument state?",
+      "correct_answer": "A mortgage state",
+      "distractors": [
+        "A deed of trust state",
+        "A hybrid mortgage and deed of trust state",
+        "A title theory state"
+      ],
+      "explanation": "Minnesota uses mortgages as the primary security instrument for real estate loans. It does not use deeds of trust, which are common in many western states.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "mortgage",
+        "security-instrument",
+        "state-classification"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.1",
+      "question_text": "A lender initiates foreclosure by advertisement on a residential property. What publication requirement must be met?",
+      "correct_answer": "Notice published in a newspaper for 6 consecutive weeks",
+      "distractors": [
+        "Notice posted at the courthouse for 30 days",
+        "Notice mailed to the borrower 90 days in advance",
+        "Notice published in a newspaper for 4 consecutive weeks"
+      ],
+      "explanation": "Foreclosure by advertisement (non-judicial) requires the lender to publish a notice of sale in a newspaper for 6 consecutive weeks before the sale. This is the most common foreclosure method in Minnesota.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "foreclosure-by-advertisement",
+        "publication"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.1",
+      "question_text": "A lender files a foreclosure action in district court. Which type of foreclosure is this?",
+      "correct_answer": "Foreclosure by action (judicial)",
+      "distractors": [
+        "Foreclosure by advertisement",
+        "Strict foreclosure",
+        "Deed in lieu of foreclosure"
+      ],
+      "explanation": "Foreclosure by action is the judicial method where the lender files a lawsuit in district court. It is less common in Minnesota than foreclosure by advertisement (non-judicial).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "judicial-foreclosure",
+        "district-court"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.1",
+      "question_text": "A borrower defaults and the lender proceeds with foreclosure by advertisement. Which statement about this process is correct?",
+      "correct_answer": "It is non-judicial and the most common method in MN",
+      "distractors": [
+        "It requires a court order before the sale can proceed",
+        "It eliminates the borrower's right of redemption",
+        "It can only be used for commercial properties"
+      ],
+      "explanation": "Foreclosure by advertisement is a non-judicial process and the most common foreclosure method in Minnesota. It does not require court involvement but still preserves the borrower's redemption rights.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "foreclosure-by-advertisement",
+        "non-judicial"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.1",
+      "question_text": "Under what circumstances would a lender choose foreclosure by action over foreclosure by advertisement in Minnesota?",
+      "correct_answer": "When seeking a deficiency judgment against the borrower",
+      "distractors": [
+        "When the property is located in Hennepin County",
+        "When the mortgage balance exceeds $500,000",
+        "When the borrower has made fewer than 12 payments"
+      ],
+      "explanation": "Judicial foreclosure allows the lender to pursue a deficiency judgment if the sale price is less than the debt owed. Foreclosure by advertisement typically does not allow deficiency judgments, making judicial foreclosure preferable when the lender expects a shortfall.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "foreclosure",
+        "judicial-foreclosure",
+        "deficiency-judgment"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.2",
+      "question_text": "What is the standard redemption period for most residential property after a sheriff's sale in Minnesota?",
+      "correct_answer": "6 months",
+      "distractors": [
+        "12 months",
+        "3 months",
+        "90 days"
+      ],
+      "explanation": "The standard redemption period for most residential properties in Minnesota is 6 months after the sheriff's sale. During this time, the borrower may redeem by paying the sale price plus interest and fees.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "redemption",
+        "sheriff-sale",
+        "residential"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.2",
+      "question_text": "A borrower's 15-acre property is foreclosed. The original mortgage was $300,000 and the amount owed is $280,000. What is the redemption period?",
+      "correct_answer": "12 months because the property exceeds 10 acres",
+      "distractors": [
+        "6 months as the standard residential period",
+        "5 weeks because of the loan-to-value ratio",
+        "24 months for properties over 10 acres"
+      ],
+      "explanation": "Minnesota provides a 12-month redemption period for properties over 10 acres, agricultural land, or when the amount due is less than 66 2/3% of the original principal. The 15-acre parcel triggers the 12-month period.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "redemption",
+        "12-month",
+        "acreage"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.2",
+      "question_text": "During the redemption period, a borrower continues living in the foreclosed home. Is this permitted?",
+      "correct_answer": "Yes, the borrower may occupy during redemption",
+      "distractors": [
+        "No, the borrower must vacate within 30 days of sale",
+        "Only if the borrower pays monthly rent to the buyer",
+        "Only if the court grants a hardship exemption"
+      ],
+      "explanation": "Minnesota law allows the borrower to remain in possession of the property during the entire redemption period. The borrower is not required to pay rent during this time.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "redemption",
+        "occupancy",
+        "borrower-rights"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.2",
+      "question_text": "A borrower wants to redeem their home after a sheriff's sale. What must they pay?",
+      "correct_answer": "Sheriff sale price plus interest and fees",
+      "distractors": [
+        "Only the original mortgage balance",
+        "The appraised market value of the property",
+        "The sale price minus their original down payment"
+      ],
+      "explanation": "To redeem, the borrower must pay the sheriff's sale price plus accrued interest and associated fees. The amount is not based on the original mortgage balance or the property's current market value.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "redemption",
+        "sheriff-sale",
+        "payment"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.2",
+      "question_text": "A foreclosed property has been confirmed as abandoned. What redemption period applies?",
+      "correct_answer": "5 weeks",
+      "distractors": [
+        "6 months standard period",
+        "12 months extended period",
+        "No redemption for abandoned property"
+      ],
+      "explanation": "When property is confirmed as abandoned, the redemption period is reduced to just 5 weeks. This shortened period also applies when the borrower elects postponement of the sale.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "redemption",
+        "abandoned-property",
+        "shortened-period"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.3",
+      "question_text": "Under a contract for deed in Minnesota, who holds legal title during the contract period?",
+      "correct_answer": "The seller retains legal title",
+      "distractors": [
+        "The buyer receives legal title at signing",
+        "Title is held in escrow by a neutral third party",
+        "Both parties share title as joint tenants"
+      ],
+      "explanation": "In a contract for deed, the seller retains legal title while the buyer gets possession and equitable interest. Legal title transfers only when the contract is fully paid.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "contract-for-deed",
+        "legal-title",
+        "seller-financing"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.3",
+      "question_text": "A buyer defaults on a residential contract for deed. The seller serves a cancellation notice. How long does the buyer have to cure the default?",
+      "correct_answer": "60 days for most residential properties",
+      "distractors": [
+        "30 days from the date of default",
+        "90 days for all residential contracts",
+        "120 days if the buyer has paid more than half"
+      ],
+      "explanation": "Minnesota provides a 60-day cancellation notice period for most residential contracts for deed. During this time, the buyer can cure the default by making all past-due payments.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "contract-for-deed",
+        "cancellation",
+        "cure-period"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.3",
+      "question_text": "An investor sells a property on a contract for deed in 2025. Under Ch. 559A, what notice period applies upon buyer default?",
+      "correct_answer": "90-day notice for investor sellers",
+      "distractors": [
+        "60-day standard cancellation notice",
+        "30-day expedited cancellation notice",
+        "120-day extended cancellation notice"
+      ],
+      "explanation": "Effective 2025, Ch. 559A requires investor sellers to provide a 90-day cancellation notice (instead of the standard 60 days). Investor sellers must also give a 30-day pre-default notice before starting cancellation.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "contract-for-deed",
+        "Ch-559A",
+        "investor-seller",
+        "cancellation"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.3",
+      "question_text": "How does contract for deed cancellation differ from mortgage foreclosure in Minnesota?",
+      "correct_answer": "Cancellation is faster and less expensive than foreclosure",
+      "distractors": [
+        "Cancellation requires a court order; foreclosure does not",
+        "Foreclosure gives buyers more time than cancellation",
+        "There is no practical difference between the two"
+      ],
+      "explanation": "Contract for deed cancellation is a statutory process that is generally faster and cheaper than mortgage foreclosure. It does not require court involvement or a sheriff's sale.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "contract-for-deed",
+        "cancellation",
+        "foreclosure-comparison"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.3",
+      "question_text": "An investor seller fails to give the required 30-day pre-default notice before serving cancellation on a contract for deed buyer. What is the consequence?",
+      "correct_answer": "The cancellation may be invalid under Ch. 559A",
+      "distractors": [
+        "The cancellation proceeds after a 10-day extension",
+        "The buyer automatically forfeits all payments made",
+        "No consequence if the buyer is actually in default"
+      ],
+      "explanation": "Under Ch. 559A (effective 2025), investor sellers must give a 30-day pre-default notice before starting the cancellation process. Failure to provide this notice can render the cancellation invalid.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "contract-for-deed",
+        "Ch-559A",
+        "pre-default-notice",
+        "investor-seller"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.4",
+      "question_text": "What is the current homestead exemption amount for non-agricultural property in Minnesota?",
+      "correct_answer": "$510,000",
+      "distractors": [
+        "$350,000",
+        "$1,275,000",
+        "$250,000"
+      ],
+      "explanation": "Minnesota's homestead exemption protects up to $510,000 of equity in a non-agricultural homestead from most creditors. The agricultural homestead exemption is $1,275,000. These amounts increase every 2 years on July 1.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "homestead-exemption",
+        "creditor-protection",
+        "exemption-amount"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.4",
+      "question_text": "A creditor obtains a judgment against a married homeowner and wants to force sale of the homestead. Both spouses did not consent to the debt. Can the creditor force a sale?",
+      "correct_answer": "No, the homestead is protected from most creditors",
+      "distractors": [
+        "Yes, any court judgment can force a homestead sale",
+        "Yes, if the judgment exceeds $100,000",
+        "Only if the homeowner has other assets to satisfy it"
+      ],
+      "explanation": "The Minnesota homestead exemption protects the home from most creditors. Exceptions include mortgages, property taxes, and mechanics' liens. Both spouses must consent to encumber the homestead.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "homestead-exemption",
+        "creditor-protection",
+        "spousal-consent"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.4",
+      "question_text": "A contractor completes kitchen renovations but is not paid. How long does the contractor have to file a mechanics' lien?",
+      "correct_answer": "120 days from the date of last work performed",
+      "distractors": [
+        "90 days from the date of last work performed",
+        "60 days from the date of the final invoice",
+        "180 days from the date the contract was signed"
+      ],
+      "explanation": "In Minnesota, a mechanics' lien must be filed within 120 days of the last date work was performed or materials were furnished. The lien's priority dates back to when the first work began on the project.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "mechanics-lien",
+        "filing-deadline",
+        "120-days"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.4",
+      "question_text": "A subcontractor began work on a home addition on March 1 and a mortgage was recorded on April 15. The subcontractor files a mechanics' lien on June 1. Which has priority?",
+      "correct_answer": "The mechanics' lien, because priority dates from first work",
+      "distractors": [
+        "The mortgage, because it was recorded before the lien filing",
+        "Neither has priority until a court makes a determination",
+        "The mortgage, because lenders always take first position"
+      ],
+      "explanation": "In Minnesota, a mechanics' lien has priority dating back to when the first work was performed on the project. Since work began March 1 before the mortgage was recorded April 15, the lien has priority.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "mechanics-lien",
+        "priority",
+        "mortgage",
+        "first-work"
+      ]
+    },
+    {
+      "key_topic_ref": "MN-16.4",
+      "question_text": "Which of the following debts can override the Minnesota homestead exemption?",
+      "correct_answer": "Unpaid property taxes",
+      "distractors": [
+        "Credit card judgments",
+        "Medical debt collections",
+        "Personal loan defaults"
+      ],
+      "explanation": "The homestead exemption has exceptions for mortgages, property taxes, and mechanics' liens. These debts can force a sale of the homestead despite the exemption. General unsecured debts like credit cards and medical bills cannot.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "homestead-exemption",
+        "exceptions",
+        "property-taxes"
+      ]
+    }
+  ]
+}

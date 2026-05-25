@@ -1,0 +1,233 @@
+{
+  "standard_ref": "GA-01",
+  "scope": "state",
+  "state": "GA",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "GA-01.1",
+      "question_text": "How many members serve on the Georgia Real Estate Commission?",
+      "correct_answer": "Six members total",
+      "distractors": [
+        "Five licensed members only",
+        "Seven members total",
+        "Nine members total"
+      ],
+      "explanation": "GREC has six members: five licensees and one consumer member. The inclusion of a consumer member ensures public representation on the Commission alongside industry professionals.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["GREC", "commission-structure", "membership"]
+    },
+    {
+      "key_topic_ref": "GA-01.1",
+      "question_text": "A newly appointed GREC member asks how the chairperson is selected. What is the correct process?",
+      "correct_answer": "The Commission elects its own chairperson",
+      "distractors": [
+        "The Governor appoints the chairperson",
+        "The Secretary of State selects the chairperson",
+        "The senior member automatically serves"
+      ],
+      "explanation": "GREC members elect their own chairperson from among themselves. This internal selection process gives the Commission autonomy in choosing its leadership, rather than relying on external appointment.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["GREC", "chairperson", "commission-structure"]
+    },
+    {
+      "key_topic_ref": "GA-01.1",
+      "question_text": "The Governor nominates a retired teacher with no real estate license to GREC. Which seat could this person fill?",
+      "correct_answer": "The consumer member seat",
+      "distractors": [
+        "Any of the six seats on the Commission",
+        "None, all members must be licensees",
+        "Only a temporary advisory seat"
+      ],
+      "explanation": "One of the six GREC seats is reserved for a consumer member who is not a licensee. The remaining five seats must be filled by active real estate licensees, so a non-licensee can only fill the consumer seat.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["GREC", "consumer-member", "appointment"]
+    },
+    {
+      "key_topic_ref": "GA-01.1",
+      "question_text": "GREC members serve staggered terms of what length?",
+      "correct_answer": "Five-year terms",
+      "distractors": [
+        "Three-year terms",
+        "Four-year terms",
+        "Six-year terms"
+      ],
+      "explanation": "GREC members serve five-year staggered terms. Staggering ensures continuity so that all seats do not expire simultaneously, preserving institutional knowledge on the Commission.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["GREC", "term-length", "commission-structure"]
+    },
+    {
+      "key_topic_ref": "GA-01.1",
+      "question_text": "After the Governor appoints a new GREC member, which body must confirm the appointment before the member can serve?",
+      "correct_answer": "The Georgia Senate",
+      "distractors": [
+        "The Georgia House of Representatives",
+        "The Secretary of State's office",
+        "The existing GREC members"
+      ],
+      "explanation": "GREC appointments by the Governor must be confirmed by the Georgia Senate. This dual-step process provides legislative oversight of who regulates the real estate industry.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["GREC", "appointment", "senate-confirmation"]
+    },
+    {
+      "key_topic_ref": "GA-01.2",
+      "question_text": "GREC discovers an unlicensed person conducting real estate closings for a fee. Which enforcement power should GREC exercise first?",
+      "correct_answer": "Issue a cease and desist order",
+      "distractors": [
+        "Revoke the person's license",
+        "Impose a fine on the person's broker",
+        "Refer the matter to the Recovery Fund"
+      ],
+      "explanation": "GREC can issue cease and desist orders to stop unlicensed activity immediately. License revocation would not apply here because the person has no license, making a cease and desist the appropriate initial action.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["GREC", "cease-and-desist", "unlicensed-activity"]
+    },
+    {
+      "key_topic_ref": "GA-01.2",
+      "question_text": "Which Georgia statute grants GREC its primary regulatory authority over real estate licensees?",
+      "correct_answer": "O.C.G.A. Section 43-40",
+      "distractors": [
+        "O.C.G.A. Section 44-14",
+        "O.C.G.A. Section 10-6A",
+        "O.C.G.A. Section 36-60"
+      ],
+      "explanation": "O.C.G.A. Section 43-40 is the Georgia Real Estate License Law and the primary statute granting GREC authority. Other statutes govern different aspects of Georgia law unrelated to real estate licensing.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["GREC", "OCGA-43-40", "statutory-authority"]
+    },
+    {
+      "key_topic_ref": "GA-01.2",
+      "question_text": "A community association manager (CAM) in Georgia questions whether GREC has authority over their license. Does GREC have jurisdiction?",
+      "correct_answer": "Yes, CAMs fall under GREC jurisdiction",
+      "distractors": [
+        "No, CAMs are regulated by a separate board",
+        "Only if the CAM also holds a broker license",
+        "Only for trust account matters"
+      ],
+      "explanation": "GREC has jurisdiction over community association managers in addition to salespersons, brokers, associate brokers, and firms. CAM licensing is specifically included under GREC's regulatory authority in Georgia.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["GREC", "CAM", "jurisdiction"]
+    },
+    {
+      "key_topic_ref": "GA-01.2",
+      "question_text": "GREC suspects a brokerage is commingling earnest money deposits. Which power allows GREC to verify this without a formal complaint?",
+      "correct_answer": "Trust account audit authority",
+      "distractors": [
+        "Rulemaking authority only",
+        "Subpoena power from Superior Court",
+        "Civil lawsuit against the brokerage"
+      ],
+      "explanation": "GREC has the power to conduct trust account audits to ensure brokerages properly handle client funds. This authority can be exercised proactively and does not require a formal complaint to initiate.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["GREC", "trust-account-audit", "enforcement"]
+    },
+    {
+      "key_topic_ref": "GA-01.2",
+      "question_text": "Which types of professionals does GREC have licensing authority over?",
+      "correct_answer": "Brokers, salespersons, associate brokers, CAMs, and firms",
+      "distractors": [
+        "Only licensed salespersons and brokers",
+        "Salespersons, brokers, and property appraisers",
+        "All real estate and mortgage loan professionals"
+      ],
+      "explanation": "GREC's jurisdiction covers salespersons, brokers, associate brokers, community association managers, and real estate firms. Appraisers and mortgage professionals are regulated by separate Georgia boards.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["GREC", "jurisdiction", "license-types"]
+    },
+    {
+      "key_topic_ref": "GA-01.3",
+      "question_text": "GREC operates as a division under which Georgia state office?",
+      "correct_answer": "Secretary of State's Licensing Boards Division",
+      "distractors": [
+        "Office of the Georgia Governor",
+        "Georgia Department of Community Affairs",
+        "Office of the Georgia Attorney General"
+      ],
+      "explanation": "GREC falls under the Secretary of State's Professional Licensing Boards Division. This administrative placement groups real estate regulation with other professional licensing functions in Georgia.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["GREC", "secretary-of-state", "administration"]
+    },
+    {
+      "key_topic_ref": "GA-01.3",
+      "question_text": "A licensee calls GREC about a routine application status. Who handles this day-to-day inquiry?",
+      "correct_answer": "The Real Estate Commissioner on staff",
+      "distractors": [
+        "The elected GREC chairperson",
+        "An appointed Commission member",
+        "The Secretary of State directly"
+      ],
+      "explanation": "The Real Estate Commissioner is a staff position that handles day-to-day operations of GREC. This person is not the same as the appointed Commission members who set policy and make disciplinary decisions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["GREC", "commissioner-staff", "administration"]
+    },
+    {
+      "key_topic_ref": "GA-01.3",
+      "question_text": "GREC adopts a new regulation that conflicts with an existing state statute. Which authority takes precedence?",
+      "correct_answer": "The state statute under O.C.G.A. Section 43-40",
+      "distractors": [
+        "The GREC regulation as the more recent action",
+        "Whichever authority the Commission chair selects",
+        "The Secretary of State resolves any conflicts"
+      ],
+      "explanation": "GREC's rulemaking authority is delegated by the legislature. Commission rules cannot exceed or conflict with the enabling statute at O.C.G.A. Section 43-40. Statutes always take precedence over administrative regulations.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["GREC", "rulemaking", "statutory-authority"]
+    },
+    {
+      "key_topic_ref": "GA-01.3",
+      "question_text": "The GREC Commission votes to adopt a new trust account rule. Who is responsible for implementing that rule in daily operations?",
+      "correct_answer": "The Real Estate Commissioner and staff",
+      "distractors": [
+        "The Commission chairperson directly",
+        "Each individual Commission member",
+        "The Secretary of State personally"
+      ],
+      "explanation": "While the Commission sets policy through rulemaking, the Real Estate Commissioner (a staff position) and their team handle implementation and day-to-day enforcement. This separation keeps policy and operations distinct.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["GREC", "rulemaking", "commissioner-staff"]
+    },
+    {
+      "key_topic_ref": "GA-01.3",
+      "question_text": "What is the key distinction between the Real Estate Commissioner and GREC Commission members?",
+      "correct_answer": "The Commissioner is staff; members are appointed",
+      "distractors": [
+        "The Commissioner serves longer terms than members",
+        "The Commissioner must be an active broker",
+        "Members handle operations while Commissioner sets policy"
+      ],
+      "explanation": "The Real Estate Commissioner is a staff employee managing day-to-day operations, while Commission members are Governor-appointed officials who set policy and make disciplinary decisions. Confusing these two roles is a common exam mistake.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["GREC", "commissioner-staff", "commission-members"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "HI-11",
+  "scope": "state",
+  "state": "HI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "HI-11.1",
+      "question_text": "A buyer purchases a leasehold property in Honolulu with 60 years remaining on the ground lease. What does the buyer actually own?",
+      "correct_answer": "Improvements only, not the land",
+      "distractors": ["The land and all improvements", "A fractional share of the land", "An easement over the land"],
+      "explanation": "In a leasehold arrangement, the buyer owns the improvements (house, structures) but not the underlying land. The buyer pays ground rent to the landowner for use of the land. At lease expiration, land and improvements revert to the landowner.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["leasehold", "fee-simple", "ownership"]
+    },
+    {
+      "key_topic_ref": "HI-11.1",
+      "question_text": "Which historical event created the concentrated land ownership pattern that led to Hawaii's widespread leasehold system?",
+      "correct_answer": "The Great Mahele of 1848",
+      "distractors": ["Hawaii's 1959 statehood", "The Land Reform Act of 1967", "The Midkiff decision of 1984"],
+      "explanation": "The Great Mahele of 1848 under King Kamehameha III divided Hawaii's lands and created the concentrated ownership pattern. Large estates like Kamehameha Schools/Bishop Estate (365,000+ acres, roughly 9-10% of Hawaii) retained vast holdings, making leasehold common.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["great-mahele", "land-history", "ownership"]
+    },
+    {
+      "key_topic_ref": "HI-11.1",
+      "question_text": "A seller lists a fee simple home in Kailua. How does fee simple ownership differ from leasehold in Hawaii?",
+      "correct_answer": "Fee simple includes land ownership in perpetuity",
+      "distractors": ["Fee simple requires annual ground rent", "Fee simple expires after 99 years", "Fee simple limits resale options"],
+      "explanation": "Fee simple ownership means the owner holds both the land and improvements in perpetuity with full rights of ownership. Unlike leasehold, there is no ground lease, no expiration date, and no reversion to a landowner.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fee-simple", "leasehold", "ownership-comparison"]
+    },
+    {
+      "key_topic_ref": "HI-11.1",
+      "question_text": "A leasehold homeowner's 75-year ground lease has expired. What happens to the home and land?",
+      "correct_answer": "Both revert to the landowner",
+      "distractors": ["The homeowner retains the structure", "The lease automatically renews", "The state acquires the property"],
+      "explanation": "At lease expiration, both the land and all improvements revert to the landowner. The lessee loses everything, including the home they built or purchased. This reversion risk is one of the most significant drawbacks of leasehold ownership.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["leasehold", "expiration", "reversion"]
+    },
+    {
+      "key_topic_ref": "HI-11.1",
+      "question_text": "Why did leasehold ownership become so common in Hawaii compared to other states?",
+      "correct_answer": "A few large estates owned most of the land",
+      "distractors": ["State law prohibited fee simple sales", "Federal regulations limited land ownership", "Geographic isolation prevented land division"],
+      "explanation": "Hawaii's leasehold system arose from the concentrated ownership following the Great Mahele of 1848. A few large estates, including Kamehameha Schools/Bishop Estate, held vast land holdings and leased rather than sold the land, creating a unique leasehold housing market.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["leasehold", "land-concentration", "history"]
+    },
+    {
+      "key_topic_ref": "HI-11.2",
+      "question_text": "Under Hawaii's Land Reform Act of 1967 (HRS Chapter 516), what power does HHFDC use to convert leasehold lots to fee simple?",
+      "correct_answer": "Eminent domain",
+      "distractors": ["Adverse possession", "Voluntary negotiation only", "Tax lien foreclosure"],
+      "explanation": "The Land Reform Act authorizes the Hawaii Housing Finance and Development Corporation (HHFDC) to use eminent domain to acquire leased fee interests from large landowners and sell them to leasehold tenants, converting leasehold to fee simple ownership.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land-reform-act", "eminent-domain", "conversion"]
+    },
+    {
+      "key_topic_ref": "HI-11.2",
+      "question_text": "A group of leasehold tenants wants to trigger the Land Reform Act process. What is the minimum number of lessees required to file an application?",
+      "correct_answer": "25 lessees or 50% of lot holders",
+      "distractors": ["10 lessees or 25% of lot holders", "50 lessees or 75% of lot holders", "100 lessees regardless of percentage"],
+      "explanation": "Under HRS Chapter 516, the Land Reform Act process is triggered when at least 25 lessees OR lessees holding 50% or more of the lots in a tract apply to HHFDC for conversion from leasehold to fee simple ownership.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["land-reform-act", "trigger", "lessees"]
+    },
+    {
+      "key_topic_ref": "HI-11.2",
+      "question_text": "In Hawaii Housing Authority v. Midkiff (1984), the U.S. Supreme Court ruled on the constitutionality of Hawaii's Land Reform Act. What was the outcome?",
+      "correct_answer": "The Act was unanimously upheld",
+      "distractors": ["The Act was struck down entirely", "The Act was partially invalidated", "The Court declined to hear the case"],
+      "explanation": "In Hawaii Housing Authority v. Midkiff (1984), the U.S. Supreme Court unanimously upheld the Land Reform Act as a valid exercise of eminent domain. The Court ruled that redistributing land to reduce concentration of ownership served a legitimate public purpose under the Takings Clause.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["midkiff", "supreme-court", "land-reform"]
+    },
+    {
+      "key_topic_ref": "HI-11.2",
+      "question_text": "A constitutional law student argues that forcing landowners to sell to tenants violates the Fifth Amendment. Based on the Midkiff ruling, which principle justified Hawaii's Land Reform Act?",
+      "correct_answer": "Reducing land oligopoly is a valid public use",
+      "distractors": ["Private transfers never require just compensation", "State sovereignty overrides federal limits", "Eminent domain applies only to government use"],
+      "explanation": "The Supreme Court in Midkiff held that breaking up a land oligopoly constitutes a valid public use under the Fifth Amendment. The government may use eminent domain to transfer property from one private party to another when it serves a legitimate public purpose.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["midkiff", "public-use", "takings-clause"]
+    },
+    {
+      "key_topic_ref": "HI-11.2",
+      "question_text": "What was the primary result of Hawaii's Land Reform Act during the 1980s through 2000s?",
+      "correct_answer": "Thousands of leaseholds converted to fee simple",
+      "distractors": ["All leasehold properties were eliminated", "Ground rents were permanently frozen", "Large estates were dissolved by the state"],
+      "explanation": "The Land Reform Act resulted in thousands of leasehold properties being converted to fee simple ownership during the 1980s through 2000s. However, leasehold properties still exist in Hawaii, particularly where the Act was not applied.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land-reform-act", "conversion", "results"]
+    },
+    {
+      "key_topic_ref": "HI-11.3",
+      "question_text": "A buyer wants to finance a leasehold condo with 20 years remaining on the ground lease. What challenge will the buyer most likely face?",
+      "correct_answer": "Lenders may refuse the loan entirely",
+      "distractors": ["Interest rates are capped by the state", "Only adjustable-rate mortgages are allowed", "The buyer cannot obtain title insurance"],
+      "explanation": "Lenders are reluctant to finance leasehold properties with short remaining terms. Below 25-35 years remaining, values decline significantly and most lenders will not make the loan. When they do lend, they typically limit the loan to 90% of the remaining lease term.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["leasehold", "financing", "remaining-term"]
+    },
+    {
+      "key_topic_ref": "HI-11.3",
+      "question_text": "A leasehold homeowner's ground rent is approaching a renegotiation date. Which risk does this present?",
+      "correct_answer": "Ground rent may increase substantially",
+      "distractors": ["The lease is automatically terminated", "The property converts to fee simple", "The homeowner must vacate immediately"],
+      "explanation": "Ground rent renegotiation is a significant risk for leasehold property owners. When the renegotiation date arrives, the landowner may increase ground rent substantially based on current land values, potentially making the property unaffordable for the lessee.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["leasehold", "ground-rent", "renegotiation"]
+    },
+    {
+      "key_topic_ref": "HI-11.3",
+      "question_text": "An agent lists a leasehold property for sale. Which disclosure items are mandatory regarding the leasehold status?",
+      "correct_answer": "Leasehold status, term, rent, and renegotiation dates",
+      "distractors": ["Only the remaining lease term", "Only whether ground rent is current", "Only the original lease start date"],
+      "explanation": "Full disclosure is required for leasehold properties, including the leasehold status itself, remaining lease term, current ground rent amount, and upcoming renegotiation dates. Buyers need all of this information to assess the true cost and risk of the property.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["leasehold", "disclosure", "listing"]
+    },
+    {
+      "key_topic_ref": "HI-11.3",
+      "question_text": "A lender agrees to finance a leasehold property with 50 years left on the lease. The lender will most likely limit the mortgage term to what?",
+      "correct_answer": "45 years (90% of remaining lease)",
+      "distractors": ["50 years matching the lease term", "30 years regardless of lease term", "25 years as a standard maximum"],
+      "explanation": "Lenders typically limit financing on leasehold properties to approximately 90% of the remaining lease term. With 50 years remaining, the maximum mortgage term would be approximately 45 years (90% of 50). This ensures the loan is repaid before the lease expires.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["leasehold", "financing", "lender-requirements"]
+    },
+    {
+      "key_topic_ref": "HI-11.3",
+      "question_text": "A prospective buyer compares two identical condos. One is fee simple and one is leasehold with 30 years remaining. How will the leasehold unit's value compare?",
+      "correct_answer": "Significantly lower than the fee simple unit",
+      "distractors": ["Approximately equal in value", "Slightly higher due to lower costs", "Determined solely by square footage"],
+      "explanation": "Leasehold properties with shorter remaining terms are valued significantly lower than comparable fee simple properties. Below 25-35 years remaining, values decline sharply due to reversion risk, financing difficulties, and the diminishing period of ownership.",
+      "difficulty": "easy",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["leasehold", "valuation", "fee-simple-comparison"]
+    }
+  ]
+}

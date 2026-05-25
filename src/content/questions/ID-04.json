@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ID-04",
+  "scope": "state",
+  "state": "ID",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "ID-04.1",
+      "question_text": "Which of the following is grounds for disciplinary action against an Idaho licensee?",
+      "correct_answer": "Failure to disclose material facts about property",
+      "distractors": ["Refusing to reduce a commission rate", "Declining to represent a buyer", "Charging a flat fee instead of a percentage"],
+      "explanation": "Failure to disclose material facts about property condition is a specific ground for discipline under Idaho law. Commission rates are negotiable, agents can decline representation, and flat fees are permissible.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["discipline", "material facts", "disclosure"]
+    },
+    {
+      "key_topic_ref": "ID-04.1",
+      "question_text": "A licensee represents both buyer and seller without informing either party. Which violation has occurred?",
+      "correct_answer": "Undisclosed dual agency",
+      "distractors": ["Commingling of funds", "Unauthorized practice of law", "Failure to maintain E&O insurance"],
+      "explanation": "Representing both parties without disclosure is undisclosed dual agency, a serious violation. Idaho permits limited dual agency but only with express written consent from all parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["discipline", "dual agency", "undisclosed"]
+    },
+    {
+      "key_topic_ref": "ID-04.1",
+      "question_text": "A licensee falsifies information on their license renewal application. What type of violation is this?",
+      "correct_answer": "Making false statements on a license application",
+      "distractors": ["A violation of advertising regulations", "A trust account handling violation", "A continuing education compliance violation"],
+      "explanation": "Making false statements on any license application — whether initial or renewal — is a specific ground for discipline. This is treated as fraud or dishonest dealing by IREC.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["discipline", "false statements", "application"]
+    },
+    {
+      "key_topic_ref": "ID-04.1",
+      "question_text": "Which criminal conviction is specifically listed as grounds for Idaho license discipline?",
+      "correct_answer": "A felony or crime involving moral turpitude",
+      "distractors": ["Any traffic violation", "A misdemeanor under $500", "Only federal criminal convictions"],
+      "explanation": "Conviction of a felony or a crime involving moral turpitude (dishonesty, fraud, breach of trust) is grounds for discipline. Minor traffic violations are not grounds for license discipline.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["discipline", "felony", "moral turpitude"]
+    },
+    {
+      "key_topic_ref": "ID-04.1",
+      "question_text": "A broker uses earnest money from a trust account to pay personal expenses. This is an example of what violation?",
+      "correct_answer": "Conversion or misappropriation of trust funds",
+      "distractors": ["Commingling of personal and trust funds", "Failure to maintain required trust records", "Operating without required E&O insurance coverage"],
+      "explanation": "Using trust funds for personal purposes is conversion or misappropriation — one of the most serious violations. Commingling means mixing personal and trust funds in the same account; conversion means actually spending the trust funds.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["discipline", "trust funds", "conversion", "misappropriation"]
+    },
+    {
+      "key_topic_ref": "ID-04.2",
+      "question_text": "Which of the following is an IREC sanction that allows a licensee to continue practicing under conditions?",
+      "correct_answer": "Probation",
+      "distractors": ["Suspension", "Revocation", "Reprimand"],
+      "explanation": "Probation allows continued practice under specific conditions set by the Commission. Suspension prohibits all activity, revocation ends the license entirely, and a reprimand is a formal disapproval without practice restrictions.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["sanctions", "probation", "discipline"]
+    },
+    {
+      "key_topic_ref": "ID-04.2",
+      "question_text": "What is the difference between license suspension and revocation?",
+      "correct_answer": "Suspension is temporary; revocation is permanent",
+      "distractors": ["Suspension requires a hearing; revocation does not", "Revocation allows pending deals; suspension does not", "Suspension applies to brokers; revocation to salespersons"],
+      "explanation": "Suspension temporarily prohibits licensed activity for a set period, after which the license may be reinstated. Revocation permanently terminates the license, requiring a new application to return to the profession.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sanctions", "suspension", "revocation"]
+    },
+    {
+      "key_topic_ref": "ID-04.2",
+      "question_text": "A licensee and IREC reach a negotiated agreement regarding a violation. What is this called?",
+      "correct_answer": "A consent order",
+      "distractors": ["A plea bargain", "A settlement decree", "A voluntary surrender"],
+      "explanation": "A consent order is a negotiated agreement between the licensee and the Commission that resolves a disciplinary matter with specified terms and conditions. It avoids a full hearing while still addressing the violation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sanctions", "consent order", "discipline"]
+    },
+    {
+      "key_topic_ref": "ID-04.2",
+      "question_text": "IREC discovers a licensee engaged in minor advertising violations. Which sanction is MOST appropriate for a first offense?",
+      "correct_answer": "Reprimand or fine",
+      "distractors": ["Immediate license revocation", "Criminal prosecution", "Mandatory license surrender"],
+      "explanation": "For minor first-time violations like advertising issues, IREC typically imposes lesser sanctions such as reprimands or fines. Revocation is reserved for serious violations. IREC does not handle criminal prosecution.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["sanctions", "reprimand", "fine", "advertising"]
+    },
+    {
+      "key_topic_ref": "ID-04.2",
+      "question_text": "Which list correctly orders IREC sanctions from least to most severe?",
+      "correct_answer": "Reprimand, fine, probation, suspension, revocation",
+      "distractors": ["Fine, reprimand, suspension, probation, revocation", "Probation, reprimand, fine, revocation, suspension", "Reprimand, suspension, fine, probation, revocation"],
+      "explanation": "IREC sanctions escalate: reprimand (formal disapproval) → fine (monetary penalty) → probation (conditional practice) → suspension (temporary prohibition) → revocation (permanent loss of license).",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sanctions", "severity", "discipline"]
+    },
+    {
+      "key_topic_ref": "ID-04.3",
+      "question_text": "What is the maximum amount the Idaho Recovery Fund will pay per licensee per calendar year?",
+      "correct_answer": "$10,000",
+      "distractors": ["$15,000", "$25,000", "$50,000"],
+      "explanation": "The Idaho Recovery Fund is limited to $10,000 per licensee per calendar year, regardless of the number of persons damaged. This is significantly lower than many other states' recovery fund limits.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery Fund", "$10,000", "limits"]
+    },
+    {
+      "key_topic_ref": "ID-04.3",
+      "question_text": "Before a consumer can access the Idaho Recovery Fund, what must they first obtain?",
+      "correct_answer": "A final court judgment against the licensee",
+      "distractors": ["An IREC disciplinary ruling", "A written complaint to DOPL", "An arbitration award from mediation"],
+      "explanation": "The Recovery Fund requires a final court judgment — after all proceedings and appeals conclude — based on fraud, misrepresentation, or deceit. An IREC complaint alone is not sufficient.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery Fund", "court judgment", "requirements"]
+    },
+    {
+      "key_topic_ref": "ID-04.3",
+      "question_text": "The Idaho Recovery Fund covers claims based on which types of conduct?",
+      "correct_answer": "Fraud, misrepresentation, or deceit",
+      "distractors": ["Any breach of contract", "Poor customer service", "Negligent market analysis"],
+      "explanation": "The Recovery Fund specifically covers claims arising from fraud, misrepresentation, or deceit by a licensee. General breach of contract, poor service, or negligent valuations are not covered grounds.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery Fund", "fraud", "misrepresentation"]
+    },
+    {
+      "key_topic_ref": "ID-04.3",
+      "question_text": "A consumer suffered $35,000 in damages from a licensee's fraud and obtains a court judgment. How much can the Recovery Fund pay?",
+      "correct_answer": "$10,000 maximum",
+      "distractors": ["$35,000 (the full judgment)", "$20,000 per calendar year", "$25,000 per transaction"],
+      "explanation": "The Recovery Fund caps payments at $10,000 per licensee per calendar year, regardless of the actual damages. The consumer would need to seek the remaining $25,000 through other means such as collecting from the licensee directly.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Recovery Fund", "limits", "damages"]
+    },
+    {
+      "key_topic_ref": "ID-04.3",
+      "question_text": "What type of damages does the Idaho Recovery Fund cover?",
+      "correct_answer": "Actual damages only",
+      "distractors": ["Actual plus punitive damages", "Treble damages", "Actual damages plus attorney fees"],
+      "explanation": "The Recovery Fund covers only actual damages up to the $10,000 limit. Punitive damages, treble damages, and attorney fees are not recoverable from the fund.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery Fund", "actual damages", "limits"]
+    }
+  ]
+}

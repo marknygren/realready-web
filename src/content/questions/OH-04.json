@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OH-04",
+  "scope": "state",
+  "state": "OH",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "OH-04.1",
+      "question_text": "What is the primary purpose of the Ohio Real Estate Recovery Fund?",
+      "correct_answer": "Compensate victims of licensee fraud",
+      "distractors": ["Provide low-interest loans to homebuyers", "Fund real estate education programs", "Pay for Division operating expenses"],
+      "explanation": "The Recovery Fund compensates people who suffer losses due to fraud, misrepresentation, or dishonest dealing by a licensee. It is funded by a portion of license fees.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "purpose", "fraud"]
+    },
+    {
+      "key_topic_ref": "OH-04.1",
+      "question_text": "A buyer is defrauded by a licensed salesperson who was acting as a property manager on the side without using their license. Can the buyer recover from the Fund?",
+      "correct_answer": "No, the act must be in a licensed capacity",
+      "distractors": ["Yes, any fraud by a licensee qualifies", "Yes, if damages exceed $10,000", "Only if the salesperson is still licensed"],
+      "explanation": "The Recovery Fund only covers acts committed by licensees acting in their licensed capacity. If the licensee was not performing licensed real estate activities, the Fund does not apply.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery-fund", "eligibility", "licensed-capacity"]
+    },
+    {
+      "key_topic_ref": "OH-04.1",
+      "question_text": "How is the Ohio Real Estate Recovery Fund financed?",
+      "correct_answer": "A portion of license fees",
+      "distractors": ["Annual assessments on brokerages", "State general tax revenue", "Fines collected from disciplinary actions"],
+      "explanation": "The Recovery Fund is funded by a portion of real estate license fees paid by salespersons and brokers when they apply for or renew their licenses.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "funding", "license-fees"]
+    },
+    {
+      "key_topic_ref": "OH-04.1",
+      "question_text": "An unlicensed person defrauds a homebuyer during a real estate transaction. Can the buyer recover from the Ohio Recovery Fund?",
+      "correct_answer": "No, the fund covers only licensed persons",
+      "distractors": ["Yes, if the loss exceeds $5,000", "Yes, any real estate fraud qualifies", "Only if the person was previously licensed"],
+      "explanation": "The Recovery Fund only compensates victims of fraud or misrepresentation by persons who hold an Ohio real estate license and acted in their licensed capacity.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "eligibility", "unlicensed"]
+    },
+    {
+      "key_topic_ref": "OH-04.1",
+      "question_text": "A licensee engages in dishonest dealing in a real estate transaction. Which type of misconduct does the Recovery Fund cover?",
+      "correct_answer": "Fraud, misrepresentation, and dishonest dealing",
+      "distractors": ["Only criminal fraud with a conviction", "Only errors in property valuation", "Only breaches of the listing agreement"],
+      "explanation": "The Recovery Fund covers losses from fraud, misrepresentation, or dishonest dealing by a licensee. It is broader than criminal fraud and does not require a criminal conviction.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "covered-acts", "fraud"]
+    },
+    {
+      "key_topic_ref": "OH-04.2",
+      "question_text": "What is the maximum amount the Ohio Recovery Fund will pay for claims against a single licensee?",
+      "correct_answer": "$40,000 per licensee",
+      "distractors": ["$25,000 per licensee", "$50,000 per licensee", "$100,000 per licensee"],
+      "explanation": "The Recovery Fund's maximum liability is $40,000 per licensee (aggregate). If multiple claimants exceed this cap, the $40,000 is divided proportionally among valid claims.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "maximum", "cap"]
+    },
+    {
+      "key_topic_ref": "OH-04.2",
+      "question_text": "Before petitioning the Recovery Fund, a claimant must first take which action?",
+      "correct_answer": "Obtain a final civil court judgment",
+      "distractors": ["File a complaint with the Division", "Attempt mediation with the licensee", "Complete a Division investigation"],
+      "explanation": "To access the Recovery Fund, a claimant must first obtain a final civil court judgment against the licensee, then attempt collection, and then petition the Franklin County Court of Common Pleas.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "claim-process", "judgment"]
+    },
+    {
+      "key_topic_ref": "OH-04.2",
+      "question_text": "Three victims each suffered $20,000 in losses from the same Ohio licensee. How much total can the Fund pay for all three claims combined?",
+      "correct_answer": "$40,000 divided proportionally",
+      "distractors": ["$60,000 total for all three", "$40,000 to each claimant", "$20,000 to each claimant"],
+      "explanation": "The Fund's maximum is $40,000 per licensee regardless of how many claimants there are. When claims exceed the cap, the $40,000 is divided proportionally among all valid claimants.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "proportional", "aggregate-cap"]
+    },
+    {
+      "key_topic_ref": "OH-04.2",
+      "question_text": "A victim of licensee fraud wants to access the Recovery Fund but has not yet sued the licensee. Can they file a Fund claim?",
+      "correct_answer": "No, a final court judgment is required first",
+      "distractors": ["Yes, if they file a complaint with the Division", "Yes, if the loss exceeds $10,000", "Yes, if the licensee admits wrongdoing"],
+      "explanation": "Accessing the Recovery Fund requires a specific sequence: first obtain a final civil court judgment, then attempt collection from the licensee, then petition the court for Fund payment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "claim-process", "judgment"]
+    },
+    {
+      "key_topic_ref": "OH-04.2",
+      "question_text": "How long after obtaining a final judgment does a claimant have to file a Recovery Fund petition?",
+      "correct_answer": "1 year from the final judgment",
+      "distractors": ["6 months from the final judgment", "2 years from the final judgment", "90 days from the final judgment"],
+      "explanation": "Claims against the Recovery Fund must be filed within 1 year of the final civil court judgment. Missing this deadline means the claimant cannot access the Fund.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "deadline", "filing"]
+    },
+    {
+      "key_topic_ref": "OH-04.3",
+      "question_text": "If the Ohio Recovery Fund pays a claim on behalf of a licensee, what happens to that licensee's license?",
+      "correct_answer": "It is automatically suspended",
+      "distractors": ["It remains active with a probation note", "It is revoked permanently", "Nothing happens to the license"],
+      "explanation": "When the Fund pays a claim, the licensee's license is automatically suspended. The suspension remains until the licensee repays the Fund in full with interest.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "suspension", "automatic"]
+    },
+    {
+      "key_topic_ref": "OH-04.3",
+      "question_text": "A licensee whose license was suspended due to a Recovery Fund payment wants to practice again. What must they do?",
+      "correct_answer": "Repay the Fund in full with interest",
+      "distractors": ["Wait 5 years for automatic reinstatement", "Complete 60 hours of additional education", "Appeal the suspension to the Commission"],
+      "explanation": "The licensee must repay the Recovery Fund the full amount paid plus interest before the suspension can be lifted. There is no time-based automatic reinstatement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "repayment", "reactivation"]
+    },
+    {
+      "key_topic_ref": "OH-04.3",
+      "question_text": "After repaying the Recovery Fund and having their license reactivated, what is the licensee's new aggregate liability cap?",
+      "correct_answer": "$40,000 for future transactions only",
+      "distractors": ["$20,000 reduced cap for repeat risk", "No further Fund coverage is available", "$80,000 combined with prior claims"],
+      "explanation": "When a licensee's license is reactivated after repaying the Fund, the $40,000 liability cap resets — but only for transactions occurring after reactivation.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery-fund", "reactivation", "reset"]
+    },
+    {
+      "key_topic_ref": "OH-04.3",
+      "question_text": "A licensee has a Recovery Fund claim paid against them. Can they continue to show property while the suspension is in effect?",
+      "correct_answer": "No, all licensed activities are prohibited",
+      "distractors": ["Yes, with a supervising broker present", "Yes, for existing clients only", "Only for rental transactions"],
+      "explanation": "Automatic suspension from a Fund payment prohibits all licensed real estate activities. The licensee cannot practice until the Fund is repaid in full with interest and the license is reinstated.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "suspension", "prohibition"]
+    },
+    {
+      "key_topic_ref": "OH-04.3",
+      "question_text": "The Recovery Fund pays $30,000 on behalf of a licensee. What amount must the licensee repay to have their license reinstated?",
+      "correct_answer": "$30,000 plus accrued interest",
+      "distractors": ["$30,000 with no interest", "$40,000 which is the maximum cap", "Only the interest on the amount paid"],
+      "explanation": "The licensee must repay the exact amount the Fund paid on their behalf plus interest. Repayment of the full amount with interest is required before the license can be reinstated.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "repayment", "interest"]
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "standard_ref": "N-25",
+  "scope": "national",
+  "state": null,
+  "category": "financing_settlement",
+  "questions": [
+    {
+      "key_topic_ref": "N-25.1",
+      "question_text": "Under TRID, a lender must provide the buyer with a Loan Estimate within how many business days of receiving a loan application?",
+      "correct_answer": "Three business days",
+      "distractors": [
+        "One business day",
+        "Five business days",
+        "Ten business days"
+      ],
+      "explanation": "TRID (the TILA-RESPA Integrated Disclosure rule, effective October 2015) requires lenders to provide the Loan Estimate within three business days of receiving a completed loan application. The Loan Estimate replaced the old Good Faith Estimate (GFE) and Truth-in-Lending disclosure. It provides the borrower with key loan terms, estimated monthly payments, and projected closing costs. A separate three-business-day waiting period is required after the Closing Disclosure is provided before closing can occur. These waiting periods are designed to give borrowers time to review and compare loan terms.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "TRID",
+        "Loan_Estimate",
+        "three_business_days",
+        "federal_regulations"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.1",
+      "question_text": "A closing is scheduled for Friday. The lender delivers the Closing Disclosure to the buyer on Monday. Under TRID, closing can occur no earlier than:",
+      "correct_answer": "Thursday",
+      "distractors": [
+        "Wednesday",
+        "Friday as originally scheduled",
+        "The following Monday"
+      ],
+      "explanation": "TRID requires a minimum three-business-day waiting period between delivery of the Closing Disclosure and closing. Counting Monday as Day 0 (delivery day), Day 1 = Tuesday, Day 2 = Wednesday, Day 3 = Thursday — the earliest closing can occur. If the Closing Disclosure contains certain significant changes (APR increases of more than 0.125%, loan product changes, or prepayment penalty additions), a new three-day waiting period resets. This rule replaced the old HUD-1 requirement and gives buyers time to review final terms before committing at closing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "TRID",
+        "Closing_Disclosure",
+        "three_business_days",
+        "waiting_period"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.2",
+      "question_text": "A title company pays a real estate agent $200 for every buyer the agent refers to them for title services. This arrangement violates:",
+      "correct_answer": "RESPA Section 8",
+      "distractors": [
+        "TRID",
+        "Regulation Z",
+        "The Sherman Antitrust Act"
+      ],
+      "explanation": "RESPA (Real Estate Settlement Procedures Act) Section 8 prohibits giving or receiving anything of value — money, gifts, meals, kickbacks — in exchange for the referral of settlement service business (title, escrow, appraisal, mortgage, etc.) in connection with a federally related mortgage transaction. The purpose is to prevent conflicts of interest that increase costs for consumers. Exceptions exist for bona fide employment relationships, affiliated business arrangements with proper disclosure, and normal marketing activities. Violations can result in criminal penalties, fines up to $10,000 per violation, and license discipline.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "RESPA",
+        "Section_8",
+        "kickbacks",
+        "referral_fees",
+        "settlement_services"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.2",
+      "question_text": "A seller insists that the buyer use the seller's preferred title insurance company as a condition of the sale. This likely violates:",
+      "correct_answer": "RESPA Section 9",
+      "distractors": [
+        "RESPA Section 8",
+        "TRID",
+        "No law"
+      ],
+      "explanation": "RESPA Section 9 specifically prohibits sellers in federally related mortgage transactions from requiring buyers to purchase title insurance from a particular title company as a condition of the sale. The buyer has the right to choose their own title insurance provider. This protection prevents coercive arrangements where sellers and title companies have financial relationships at the buyer's expense. Section 8 covers kickbacks for referrals more broadly. Violations of Section 9 can make the seller liable to the buyer for up to three times the title insurance premium charged.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "RESPA",
+        "Section_9",
+        "title_insurance",
+        "seller_requirements"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.3",
+      "question_text": "The Annual Percentage Rate (APR) disclosed under Regulation Z is typically higher than the mortgage note rate because:",
+      "correct_answer": "It includes the interest rate plus loan fees, expressed as an annual rate",
+      "distractors": [
+        "It includes projected future rate increases for adjustable-rate mortgages",
+        "It is calculated on the original loan amount, not the outstanding balance",
+        "It includes property taxes paid through the escrow account"
+      ],
+      "explanation": "Regulation Z (implementing the Truth in Lending Act) requires lenders to disclose the Annual Percentage Rate (APR) as a standardized cost measure. The APR incorporates the interest rate plus certain loan costs — origination fees, discount points, mortgage broker fees, and some prepaid items — spread over the loan term. This makes the APR higher than the note rate and allows borrowers to compare the true cost of different loans on an apples-to-apples basis. The APR does not include property taxes, homeowners insurance, or title insurance costs. A loan with a lower note rate but high fees may have a higher APR than a loan with a slightly higher rate and no fees.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "APR",
+        "Regulation_Z",
+        "Truth_in_Lending",
+        "loan_comparison",
+        "TILA"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.3",
+      "question_text": "Under Regulation Z, a borrower has a right to rescind (cancel) which of the following transactions within three business days?",
+      "correct_answer": "A refinance of their primary residence",
+      "distractors": [
+        "The original purchase mortgage used to buy their primary residence",
+        "Any real estate transaction over $100,000 in total loan amount",
+        "A commercial property loan with a floating interest rate"
+      ],
+      "explanation": "Regulation Z's three-day right of rescission applies to non-purchase credit transactions secured by a primary residence — specifically refinances, home equity loans (HELOCs), and second mortgages. It does NOT apply to purchase money mortgages (loans used to buy the home). The rationale: a buyer who uses their home as collateral for a refinance or equity loan needs time to reconsider; a buyer using a purchase mortgage is already committed to buying the home. The rescission period runs three business days from loan closing OR from when required disclosures are received, whichever is later.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "right_of_rescission",
+        "Regulation_Z",
+        "refinance",
+        "HELOC",
+        "three_business_days"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.6",
+      "question_text": "A lender repeatedly contacts a homeowner with negative equity, encouraging them to refinance into a new loan with high fees and a higher interest rate, claiming it will 'improve their situation.' This is BEST described as:",
+      "correct_answer": "Loan flipping",
+      "distractors": [
+        "A legitimate loss mitigation strategy",
+        "Mortgage acceleration",
+        "An affiliated business arrangement that must be disclosed under RESPA regulations"
+      ],
+      "explanation": "Loan flipping is a predatory lending practice where a lender repeatedly convinces a borrower to refinance — often stripping equity through high fees each time — without providing a net benefit to the borrower. Each refinance generates origination fees, prepayment penalties, and closing costs for the lender while leaving the borrower in a worse financial position. Other predatory lending practices: equity stripping (encouraging borrowers to borrow against their equity beyond their ability to repay), balloon payment traps, and steering qualified borrowers into subprime loans when they qualify for better terms.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "predatory_lending",
+        "loan_flipping",
+        "equity_stripping",
+        "consumer_protection"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.1",
+      "question_text": "The Loan Estimate replaced which two older disclosure forms?",
+      "correct_answer": "The Good Faith Estimate (GFE) and the initial Truth-in-Lending disclosure",
+      "distractors": [
+        "The HUD-1 Settlement Statement and the Closing Disclosure form",
+        "The Mortgage Insurance Disclosure and the Servicing Transfer Notice",
+        "The Annual Percentage Rate statement and the Escrow Account Disclosure"
+      ],
+      "explanation": "Before TRID (effective October 2015), borrowers received two separate early disclosures: the Good Faith Estimate (required by RESPA) and the initial Truth-in-Lending disclosure (required by TILA). TRID combined these into a single Loan Estimate form. Similarly, the HUD-1 Settlement Statement and the final Truth-in-Lending disclosure were combined into the Closing Disclosure. This integration was intended to simplify the disclosure process and make it easier for borrowers to understand their loan terms and costs.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "TRID",
+        "Loan_Estimate",
+        "GFE",
+        "disclosure_history"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.1",
+      "question_text": "If a significant change occurs in the loan terms after the Closing Disclosure is issued, the lender must:",
+      "correct_answer": "Issue a corrected Closing Disclosure and restart the three-day waiting period",
+      "distractors": [
+        "Proceed with closing since the Closing Disclosure is a final document",
+        "Notify the borrower verbally and document the change in the file",
+        "Cancel the loan and require the borrower to reapply from the beginning"
+      ],
+      "explanation": "TRID requires a new three-day waiting period when certain significant changes occur after the Closing Disclosure is issued: (1) the APR increases by more than 0.125% for fixed-rate loans or 0.25% for ARMs, (2) a prepayment penalty is added, or (3) the loan product changes (e.g., fixed to adjustable). Minor changes (small fee adjustments within tolerances) do not require a new waiting period. This re-disclosure requirement can delay closings, which agents and borrowers should anticipate.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "TRID",
+        "Closing_Disclosure",
+        "redisclosure",
+        "waiting_period"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.1",
+      "question_text": "TRID tolerance rules limit how much certain closing costs can increase from the Loan Estimate to the Closing Disclosure. Zero tolerance means:",
+      "correct_answer": "The fee cannot increase at all from the Loan Estimate amount",
+      "distractors": [
+        "The fee can increase up to 10% with a written explanation",
+        "The fee is optional and may be waived at the lender's discretion",
+        "The fee applies only to loans over the conforming loan limit"
+      ],
+      "explanation": "TRID categorizes closing costs into tolerance buckets. Zero tolerance fees (cannot increase at all): lender origination charges, transfer taxes, and services the borrower is not allowed to shop for. 10% tolerance fees (aggregate cannot increase more than 10%): third-party services the borrower can shop for but uses the lender's preferred provider, and recording fees. Unlimited fees (can change without limit): prepaid items (taxes, insurance), property insurance, and services the borrower shops for and selects on their own. If a zero-tolerance fee increases, the lender must cure the excess by crediting the borrower.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "TRID",
+        "tolerance_rules",
+        "zero_tolerance",
+        "closing_costs"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.2",
+      "question_text": "A real estate brokerage owns a title company and refers all clients to it. Under RESPA, this is permitted only if:",
+      "correct_answer": "The brokerage discloses the relationship and the client's right to choose another provider",
+      "distractors": [
+        "The title company charges below-market rates to prove no consumer harm",
+        "The brokerage receives no referral fees from the title company",
+        "Both companies are licensed in the same state and share office space"
+      ],
+      "explanation": "RESPA allows Affiliated Business Arrangements (AfBAs) where related companies refer business to each other, provided: (1) the referring party discloses the ownership relationship in writing (on an Affiliated Business Arrangement Disclosure), (2) the consumer is informed they are not required to use the affiliated company, and (3) the only return to the referring party is a legitimate ownership interest (not a referral fee per transaction). The key is transparency and consumer choice — the consumer must know about the relationship and be free to shop elsewhere.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "RESPA",
+        "affiliated_business",
+        "disclosure",
+        "consumer_choice"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.2",
+      "question_text": "RESPA requires that when a loan servicer transfers servicing rights to a new company, the borrower must receive:",
+      "correct_answer": "Written notice at least 15 days before the transfer",
+      "distractors": [
+        "A new promissory note reflecting the new servicing company",
+        "A refund of all prepaid escrow funds from the original servicer",
+        "The option to refinance with the new servicer at a reduced rate"
+      ],
+      "explanation": "RESPA Section 6 requires both the old and new servicers to notify the borrower of a servicing transfer. The notice must be sent at least 15 days before the transfer date (or 15 days after, if the transferee sends it). The notice must include: the effective date, the new servicer's contact information, and information about the 60-day grace period during which the borrower cannot be charged a late fee for sending payment to the old servicer. The loan terms themselves do not change — servicing transfer only changes where the borrower sends payments.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "RESPA",
+        "servicing_transfer",
+        "borrower_notice"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.2",
+      "question_text": "RESPA applies to which type of real estate transactions?",
+      "correct_answer": "Federally related mortgage loans involving federally insured lenders",
+      "distractors": [
+        "Only FHA and VA government-backed loans, not conventional mortgage loans",
+        "All real estate transactions including cash purchases and commercial properties",
+        "Only purchase transactions, not refinances or home equity loans"
+      ],
+      "explanation": "RESPA covers 'federally related mortgage loans' — residential mortgage loans made by federally insured or regulated lenders, or loans that are intended to be sold on the secondary market. This includes virtually all residential purchase loans and refinances made by banks, credit unions, and mortgage companies. Cash transactions (no loan involved), seller financing not involving a federally regulated lender, and purely commercial loans are generally not covered. RESPA also covers home equity loans and lines of credit from covered lenders.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "RESPA",
+        "scope",
+        "federally_related"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.3",
+      "question_text": "Under Regulation Z advertising rules, if an advertisement for a mortgage includes a specific interest rate, it must also disclose:",
+      "correct_answer": "The APR",
+      "distractors": [
+        "The lender's total profit margin on the loan",
+        "The borrower's estimated monthly payment including taxes and insurance",
+        "The maximum rate the lender has ever charged on similar loans"
+      ],
+      "explanation": "Regulation Z contains 'trigger term' advertising rules. If a creditor's advertisement includes specific credit terms — such as the interest rate, down payment amount, monthly payment, or finance charge — it triggers the requirement to disclose additional terms: the APR, the terms of repayment, and other material terms. The APR is the most important because it allows consumers to compare loans on a standardized basis. Simply advertising 'low rates available' without specific numbers does not trigger these requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Regulation_Z",
+        "advertising",
+        "trigger_terms",
+        "APR"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.3",
+      "question_text": "The right of rescission under Regulation Z gives borrowers how many business days to cancel?",
+      "correct_answer": "Three business days",
+      "distractors": [
+        "Five calendar days from closing regardless of weekends",
+        "Seven business days from when loan funds are deposited",
+        "Ten business days from receipt of final closing documents"
+      ],
+      "explanation": "The right of rescission runs for three business days. Under Regulation Z, business days for rescission purposes include Saturdays but exclude Sundays and federal public holidays. For example, if a refinance closes on Monday, the three-day period runs Tuesday, Wednesday, Thursday — the borrower can rescind through midnight Thursday. If the lender fails to provide required material disclosures, the rescission period extends to three years. During the rescission period, the lender should not disburse loan funds (except for the initial creditor in a purchase transaction, which is exempt).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "right_of_rescission",
+        "Regulation_Z",
+        "three_days",
+        "business_days"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.3",
+      "question_text": "The Truth in Lending Act (TILA) was enacted primarily to:",
+      "correct_answer": "Promote informed credit use by requiring uniform disclosure of loan terms",
+      "distractors": [
+        "Set maximum interest rates lenders may charge on residential mortgages",
+        "Provide government insurance to protect lenders against default risk",
+        "Regulate the secondary mortgage market and securities trading"
+      ],
+      "explanation": "TILA (implemented through Regulation Z) focuses on transparency — requiring lenders to disclose the cost and terms of credit in a uniform manner so borrowers can compare offers. Key disclosures include: the APR, finance charge, amount financed, total of payments, and payment schedule. TILA does not set interest rates (those are market-determined), insure loans (that's FHA/VA), or regulate the secondary market (that's the SEC and FHFA). TILA's central insight: informed borrowers make better credit decisions when they can compare standardized cost information.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "TILA",
+        "Regulation_Z",
+        "disclosure",
+        "consumer_protection"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.6",
+      "question_text": "Equity stripping in predatory lending involves:",
+      "correct_answer": "Encouraging borrowers to borrow against equity beyond their ability to repay",
+      "distractors": [
+        "Gradually reducing the borrower's rate as they build equity",
+        "Requiring the borrower to maintain at least 20% equity at all times",
+        "Using home equity to fund retirement savings accounts"
+      ],
+      "explanation": "Equity stripping targets homeowners — often elderly or those with limited financial literacy — who have significant home equity but limited income. The predatory lender encourages them to take out loans they cannot afford, secured by their home equity. When the borrower inevitably defaults, the lender forecloses and profits from the equity. The borrower loses their home and the equity they built over years or decades. This practice is particularly harmful because it targets the most vulnerable homeowners.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "predatory_lending",
+        "equity_stripping",
+        "foreclosure_risk"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.6",
+      "question_text": "Steering a qualified borrower into a subprime loan when they qualify for prime terms is:",
+      "correct_answer": "A predatory lending practice",
+      "distractors": [
+        "A standard underwriting decision within the lender's discretion",
+        "Required when the borrower's credit score is below 680",
+        "Permitted if the borrower signs a subprime terms disclosure"
+      ],
+      "explanation": "Steering borrowers into more expensive loan products when they qualify for better terms is a predatory practice. The lender profits from higher interest rates and fees while the borrower pays unnecessarily more. This practice also has fair lending implications — studies have shown that minority borrowers were disproportionately steered into subprime loans during the pre-2008 housing boom, even when they qualified for prime rates. Dodd-Frank Act regulations now require loan originators to make reasonable, good-faith efforts to present borrowers with loan options they are likely to be able to repay.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "predatory_lending",
+        "subprime_steering",
+        "fair_lending"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.6",
+      "question_text": "A balloon payment loan requires the borrower to:",
+      "correct_answer": "Make a large lump-sum payment at the end of the loan term",
+      "distractors": [
+        "Pay gradually increasing payments that grow over the loan's life",
+        "Make a large down payment at closing before regular payments begin",
+        "Pay double the monthly payment for the final 12 months"
+      ],
+      "explanation": "Balloon payment loans have regular monthly payments that do not fully amortize the loan — a large balance remains due at the end of the term (often 5-7 years). The borrower must either pay the balloon amount, refinance, or sell the property. Predatory lenders use balloon payment traps when they know the borrower cannot afford the balloon and will be forced into a refinance (generating new fees) or foreclosure. Balloon loans are not inherently predatory — they can be appropriate for borrowers who plan to sell before the balloon — but they become predatory when used to exploit unsophisticated borrowers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "balloon_payment",
+        "predatory_lending",
+        "loan_terms"
+      ]
+    },
+    {
+      "key_topic_ref": "N-25.6",
+      "question_text": "The Dodd-Frank Act's qualified mortgage (QM) rules protect borrowers by requiring lenders to:",
+      "correct_answer": "Verify the borrower's ability to repay before approving the loan",
+      "distractors": [
+        "Guarantee the property will appreciate over the life of the mortgage",
+        "Offer the same interest rate to all borrowers regardless of credit",
+        "Refund all origination fees if the borrower defaults within one year"
+      ],
+      "explanation": "The Dodd-Frank Wall Street Reform and Consumer Protection Act (2010) established the Ability-to-Repay (ATR) rule, requiring lenders to make a reasonable, good-faith determination that the borrower can repay the loan. Qualified Mortgages (QMs) are loans that meet specific criteria — DTI limits, no toxic features (interest-only, negative amortization, balloon payments over 5 years, terms over 30 years), and limited points and fees. Lenders who make QM loans receive a legal safe harbor or rebuttable presumption of compliance with ATR requirements.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Dodd_Frank",
+        "qualified_mortgage",
+        "ability_to_repay"
+      ]
+    }
+  ]
+}

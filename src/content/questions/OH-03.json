@@ -1,0 +1,228 @@
+{
+  "standard_ref": "OH-03",
+  "scope": "state",
+  "state": "OH",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "OH-03.1",
+      "question_text": "A homeowner believes their listing agent committed fraud. Where should they file a complaint in Ohio?",
+      "correct_answer": "The Division of Real Estate",
+      "distractors": ["The Ohio Real Estate Commission", "The county court of common pleas", "The local Board of Realtors"],
+      "explanation": "Complaints are filed with the Division of Real Estate & Professional Licensing. The Superintendent investigates and may refer formal charges to the Commission for a hearing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["complaint", "division", "investigation"]
+    },
+    {
+      "key_topic_ref": "OH-03.1",
+      "question_text": "During an investigation, the Superintendent discovers questionable trust account entries. What investigative power does the Superintendent exercise?",
+      "correct_answer": "Audit of broker records",
+      "distractors": ["Emergency license suspension", "Freezing of all brokerage accounts", "Seizure of brokerage computers"],
+      "explanation": "The Superintendent has the authority to audit broker records at any time during an investigation. More severe actions like suspension require formal proceedings.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["investigation", "audit", "trust-account"]
+    },
+    {
+      "key_topic_ref": "OH-03.1",
+      "question_text": "After investigating a complaint, the Superintendent determines the evidence warrants formal action. What is the next step?",
+      "correct_answer": "File formal charges for a Commission hearing",
+      "distractors": ["Immediately suspend the license", "Forward the case to criminal court", "Impose a fine and close the case"],
+      "explanation": "When formal action is warranted, the Superintendent files charges with the Commission for a hearing. The Commission then conducts the hearing and decides on penalties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["formal-charges", "commission", "process"]
+    },
+    {
+      "key_topic_ref": "OH-03.1",
+      "question_text": "A consumer files a complaint. The Superintendent investigates and finds no violation occurred. What happens?",
+      "correct_answer": "No action is taken against the licensee",
+      "distractors": ["The licensee receives a formal warning", "The complaint is forwarded to the Commission", "The licensee must complete extra CE hours"],
+      "explanation": "If an investigation reveals no violation, the Superintendent can determine that no action is necessary. Not every complaint results in charges or discipline.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["investigation", "no-action", "complaint"]
+    },
+    {
+      "key_topic_ref": "OH-03.1",
+      "question_text": "Which entity in Ohio receives and investigates complaints against real estate licensees?",
+      "correct_answer": "The Superintendent of Real Estate",
+      "distractors": ["The Ohio Real Estate Commission only", "The Attorney General's office only", "The county sheriff's department"],
+      "explanation": "The Superintendent receives and investigates complaints. The Commission holds hearings on formal charges, but the initial investigation is the Superintendent's responsibility.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["superintendent", "complaint", "investigation"]
+    },
+    {
+      "key_topic_ref": "OH-03.2",
+      "question_text": "A licensee deposits a client's earnest money into their personal bank account. Which violation has occurred?",
+      "correct_answer": "Commingling of trust funds",
+      "distractors": ["Unauthorized practice of law", "Breach of fiduciary duty only", "Misrepresentation of license status"],
+      "explanation": "Depositing client funds into a personal account is commingling, a specific violation under ORC 4735.18. Client funds must be placed in the brokerage's trust or special account.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "trust-funds", "discipline"]
+    },
+    {
+      "key_topic_ref": "OH-03.2",
+      "question_text": "An Ohio salesperson pays a $500 referral fee to an unlicensed neighbor who referred a buyer. This violates ORC 4735 because:",
+      "correct_answer": "Compensation to unlicensed persons is prohibited",
+      "distractors": ["Referral fees are illegal in all circumstances", "Only brokers may authorize referral payments", "The amount exceeds the permitted threshold"],
+      "explanation": "Under ORC 4735, paying a commission or fee to an unlicensed person is a specific ground for discipline. Referral fees may only be paid to licensed persons.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["referral-fee", "unlicensed", "violation"]
+    },
+    {
+      "key_topic_ref": "OH-03.2",
+      "question_text": "A licensee represents both the buyer and seller without obtaining written consent from either party. Which violation has occurred?",
+      "correct_answer": "Dual agency without informed consent",
+      "distractors": ["Unauthorized practice of law", "Misrepresentation of license status", "Failure to present all offers"],
+      "explanation": "Dual agency without written informed consent from both parties is a specific ground for discipline under ORC 4735.18. Both parties must consent in writing to dual representation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["dual-agency", "consent", "violation"]
+    },
+    {
+      "key_topic_ref": "OH-03.2",
+      "question_text": "An Ohio salesperson begins managing a small brokerage and negotiating listings without a broker's license. Which ground for discipline applies?",
+      "correct_answer": "Acting as a broker while licensed as a salesperson",
+      "distractors": ["Practicing without continuing education", "Operating without errors and omissions insurance", "Advertising without Division approval"],
+      "explanation": "Acting as a broker while licensed only as a salesperson is a specific ORC 4735.18 violation. Salespersons must work under and be supervised by a licensed broker.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["acting-as-broker", "salesperson", "violation"]
+    },
+    {
+      "key_topic_ref": "OH-03.2",
+      "question_text": "A licensee is convicted of a felony unrelated to real estate. Can the Commission take disciplinary action?",
+      "correct_answer": "Yes, felony conviction is grounds for discipline",
+      "distractors": ["No, only real estate violations apply", "Only if the felony involves financial fraud", "Only after the licensee completes their sentence"],
+      "explanation": "Under ORC 4735.18, conviction of a felony or crime involving moral turpitude is grounds for discipline regardless of whether the crime is related to real estate practice.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["felony", "discipline", "grounds"]
+    },
+    {
+      "key_topic_ref": "OH-03.3",
+      "question_text": "What is the maximum fine the Ohio Real Estate Commission can impose per violation?",
+      "correct_answer": "$2,500",
+      "distractors": ["$1,000", "$5,000", "$10,000"],
+      "explanation": "The Commission can impose fines of up to $2,500 per violation. Fines can be imposed in addition to other penalties such as suspension or revocation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fine", "penalty", "maximum"]
+    },
+    {
+      "key_topic_ref": "OH-03.3",
+      "question_text": "The Commission finds a licensee guilty of misrepresentation. What is the maximum suspension period?",
+      "correct_answer": "Up to 5 years",
+      "distractors": ["Up to 1 year", "Up to 3 years", "Up to 10 years"],
+      "explanation": "The Commission can suspend a license for up to 5 years. Other penalties include revocation, fines up to $2,500 per violation, educational sanctions, and reprimands.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["suspension", "penalty", "maximum"]
+    },
+    {
+      "key_topic_ref": "OH-03.3",
+      "question_text": "After a hearing, the Commission determines a licensee committed a minor first offense. Which penalty is LEAST severe?",
+      "correct_answer": "A formal reprimand",
+      "distractors": ["A $2,500 fine per violation", "License suspension for one year", "Mandatory additional coursework"],
+      "explanation": "A reprimand is the least severe disciplinary action. The Commission can also impose educational sanctions, fines, suspension, or revocation depending on the severity of the violation.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["reprimand", "penalty", "discipline"]
+    },
+    {
+      "key_topic_ref": "OH-03.3",
+      "question_text": "Can the Ohio Commission impose a fine AND a license suspension for the same violation?",
+      "correct_answer": "Yes, fines may be imposed with suspension",
+      "distractors": ["No, only one penalty per violation is allowed", "Only if the violation involves trust funds", "Only with approval from the court of common pleas"],
+      "explanation": "Fines up to $2,500 can be imposed in addition to suspension or revocation. The Commission has discretion to combine penalties based on the seriousness of the violation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fine", "suspension", "combined-penalty"]
+    },
+    {
+      "key_topic_ref": "OH-03.3",
+      "question_text": "The Commission orders a licensee to complete additional real estate coursework as a penalty. This type of sanction is known as:",
+      "correct_answer": "An educational sanction",
+      "distractors": ["A probationary condition", "A remedial suspension", "A corrective reprimand"],
+      "explanation": "Educational sanctions require the licensee to complete specific coursework as a disciplinary penalty. This is one of several penalty options available to the Commission.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["educational-sanction", "penalty", "discipline"]
+    },
+    {
+      "key_topic_ref": "OH-03.4",
+      "question_text": "After the Commission issues a decision suspending a licensee, the licensee disagrees. Where can they appeal?",
+      "correct_answer": "The court of common pleas",
+      "distractors": ["The Ohio Supreme Court directly", "The Director of Commerce", "The Superintendent of Real Estate"],
+      "explanation": "A respondent can appeal a Commission decision to the court of common pleas. The appeal goes to the judicial system, not back to the Division or Department of Commerce.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["appeal", "common-pleas", "hearing"]
+    },
+    {
+      "key_topic_ref": "OH-03.4",
+      "question_text": "Who files formal charges against a licensee that will be heard by the Ohio Real Estate Commission?",
+      "correct_answer": "The Superintendent of Real Estate",
+      "distractors": ["The complaining consumer", "The Ohio Attorney General", "The licensee's principal broker"],
+      "explanation": "After investigation, the Superintendent files formal charges with the Commission. The consumer initiates the complaint, but formal charges are filed by the Superintendent.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["formal-charges", "superintendent", "hearing"]
+    },
+    {
+      "key_topic_ref": "OH-03.4",
+      "question_text": "During a Commission hearing, who conducts the hearing and issues the decision?",
+      "correct_answer": "The Ohio Real Estate Commission",
+      "distractors": ["The Superintendent of Real Estate", "An administrative law judge", "The Director of Commerce"],
+      "explanation": "The Commission conducts hearings on formal charges and issues decisions including suspension, revocation, fines, or dismissal. The Superintendent investigates and files charges but does not decide.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commission", "hearing", "decision"]
+    },
+    {
+      "key_topic_ref": "OH-03.4",
+      "question_text": "At a Commission hearing, what outcomes are possible?",
+      "correct_answer": "Suspension, revocation, fine, or dismissal",
+      "distractors": ["Only suspension or revocation", "Only fines and educational sanctions", "Only criminal penalties or acquittal"],
+      "explanation": "The Commission can suspend, revoke, fine, impose educational sanctions, reprimand, or dismiss the charges. The range of outcomes allows the penalty to fit the violation.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["hearing", "outcomes", "penalties"]
+    },
+    {
+      "key_topic_ref": "OH-03.4",
+      "question_text": "A licensee receives a suspension from the Commission and files an appeal. Which court hears the appeal?",
+      "correct_answer": "Court of common pleas",
+      "distractors": ["Federal district court", "Ohio Court of Appeals directly", "Municipal court in the licensee's county"],
+      "explanation": "Commission decisions are appealed to the court of common pleas. This is the first level of judicial review for administrative decisions made by the Commission.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["appeal", "court", "judicial-review"]
+    }
+  ]
+}

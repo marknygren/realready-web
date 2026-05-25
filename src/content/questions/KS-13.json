@@ -1,0 +1,173 @@
+{
+  "standard_ref": "KS-13",
+  "scope": "state",
+  "state": "KS",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "KS-13.1",
+      "question_text": "Under K.S.A. 58-3061, every Kansas broker must maintain what type of account for client funds?",
+      "correct_answer": "A separate designated trust account",
+      "distractors": ["A personal savings account", "A general business checking account", "A joint account with the seller"],
+      "explanation": "K.S.A. 58-3061 requires every broker to maintain a separate trust account specifically designated as such. This account must be distinct from the broker's personal and operating accounts to protect client funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "K.S.A. 58-3061", "broker requirements"]
+    },
+    {
+      "key_topic_ref": "KS-13.1",
+      "question_text": "A Kansas broker opens a trust account at an out-of-state online bank without KREC permission. Does this comply with Kansas requirements?",
+      "correct_answer": "No, it must be in Kansas or an adjoining state with KREC approval",
+      "distractors": ["Yes, any FDIC-insured bank qualifies", "Yes, if the bank has online access in Kansas", "Yes, all out-of-state banks are permitted"],
+      "explanation": "Under K.S.A. 58-3061, the trust account must be at an insured institution in Kansas. A broker may use an adjoining-state institution only with KREC's written permission. An out-of-state online bank without such permission does not comply.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "Kansas institution", "account location"]
+    },
+    {
+      "key_topic_ref": "KS-13.1",
+      "question_text": "Which types of funds must a Kansas broker deposit into the trust account?",
+      "correct_answer": "Earnest money, down payments, and advance fees",
+      "distractors": ["Only earnest money deposit amounts", "Only funds exceeding the $5,000 threshold", "Only buyer down payments and closing costs"],
+      "explanation": "Kansas law requires all earnest money, down payments, advance listing fees, and other trust funds received on behalf of clients to be deposited into the trust account. The requirement covers all funds held for others, not just specific transaction types.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust funds", "deposit requirements", "fund types"]
+    },
+    {
+      "key_topic_ref": "KS-13.1",
+      "question_text": "A new Kansas broker is setting up her office. At which type of institution may she open her trust account?",
+      "correct_answer": "An insured credit union in Kansas",
+      "distractors": ["Any brokerage firm's escrow division", "A private investment fund in Kansas", "An uninsured community bank"],
+      "explanation": "Kansas law permits trust accounts at insured banks, savings and loan associations, or credit unions located in Kansas. The institution must carry deposit insurance. Private investment funds and uninsured institutions do not qualify.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "eligible institutions", "credit union"]
+    },
+    {
+      "key_topic_ref": "KS-13.1",
+      "question_text": "A broker receives a $2,500 advance listing fee from a seller. Where must this fee be deposited?",
+      "correct_answer": "The broker's designated trust account",
+      "distractors": ["The broker's operating account", "A personal savings account", "The seller's bank account"],
+      "explanation": "Advance listing fees are trust funds that belong to the client until earned. Under K.S.A. 58-3061, all such funds must be deposited into the broker's separate designated trust account, not into operating or personal accounts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["advance fees", "trust account", "deposit"]
+    },
+    {
+      "key_topic_ref": "KS-13.2",
+      "question_text": "A Kansas broker receives an earnest money check on Friday afternoon. By when must the deposit typically be made?",
+      "correct_answer": "The next business day",
+      "distractors": ["Within 5 business days", "Within 30 calendar days", "Before the closing date"],
+      "explanation": "Kansas requires prompt deposit of trust funds, typically by the next business day after receipt. Holding funds longer than necessary exposes the broker to discipline for improper handling of trust funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deposit timing", "earnest money", "prompt deposit"]
+    },
+    {
+      "key_topic_ref": "KS-13.2",
+      "question_text": "A Kansas broker keeps $50 of personal funds in the trust account to cover monthly bank service charges. Is this permitted?",
+      "correct_answer": "Yes, a nominal amount for bank fees is allowed",
+      "distractors": ["No, any personal funds constitute commingling", "Only if the amount exceeds $200", "Only with written client consent"],
+      "explanation": "Kansas law allows an exception to the commingling prohibition for a nominal amount of the broker's own funds kept in the trust account to cover bank service charges. This prevents accounts from falling below zero due to fees.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling exception", "bank fees", "nominal amount"]
+    },
+    {
+      "key_topic_ref": "KS-13.2",
+      "question_text": "Both the buyer and seller agree in writing that the title company should hold the earnest money instead of the broker. Is this permissible in Kansas?",
+      "correct_answer": "Yes, all parties may agree to alternative handling",
+      "distractors": ["No, the listing broker must always hold funds", "Only if KREC approves the arrangement", "Only for transactions over $100,000"],
+      "explanation": "Kansas law allows all parties to agree in writing to alternative handling of trust funds. When the buyer, seller, and brokers all consent, funds may be held by a third party such as a title company rather than the listing broker.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["alternative handling", "written agreement", "trust funds"]
+    },
+    {
+      "key_topic_ref": "KS-13.2",
+      "question_text": "A broker receives earnest money but waits 10 days to deposit it because the buyer asked to delay. No written agreement exists. What is the consequence?",
+      "correct_answer": "The broker violated prompt deposit requirements",
+      "distractors": ["The delay is acceptable if buyer requested it", "No violation occurs until 30 days pass", "Only a violation if the seller complains"],
+      "explanation": "Without a written agreement from all parties for alternative fund handling, the broker must deposit trust funds promptly. A verbal request from the buyer alone does not authorize delayed deposit and the broker faces potential discipline.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["prompt deposit", "delayed deposit", "verbal request"]
+    },
+    {
+      "key_topic_ref": "KS-13.2",
+      "question_text": "A broker deposits $800 of personal funds into the trust account to temporarily boost the balance. What violation has occurred?",
+      "correct_answer": "Commingling personal and trust funds",
+      "distractors": ["No violation if funds are removed promptly", "Permissible trust account padding", "A minor recordkeeping error only"],
+      "explanation": "Depositing personal funds beyond a nominal amount for bank fees into the trust account constitutes commingling. The only exception is a small amount to cover service charges. Intentionally boosting the balance with personal funds violates Kansas law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "personal funds", "trust account"]
+    },
+    {
+      "key_topic_ref": "KS-13.3",
+      "question_text": "In what form must a Kansas broker maintain trust account records?",
+      "correct_answer": "In the form prescribed by KREC",
+      "distractors": ["Any format the broker prefers", "Only handwritten ledger books", "Only through a CPA-maintained system"],
+      "explanation": "Kansas law requires brokers to maintain trust account records in the form and manner prescribed by the Kansas Real Estate Commission. KREC sets specific standards for how records must be kept to ensure consistency and accountability.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust records", "KREC requirements", "record format"]
+    },
+    {
+      "key_topic_ref": "KS-13.3",
+      "question_text": "KREC investigators arrive unannounced at a brokerage to review trust account records. Must the broker allow access?",
+      "correct_answer": "Yes, KREC can audit at any time",
+      "distractors": ["No, 48 hours written notice is required", "Only with a signed court order", "Only during annual renewal periods"],
+      "explanation": "KREC has the authority to audit trust accounts at any time without prior notice. Brokers must maintain records that are available for inspection and cannot refuse access to KREC investigators.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["KREC audit", "trust account inspection", "broker obligations"]
+    },
+    {
+      "key_topic_ref": "KS-13.3",
+      "question_text": "A broker claims trust account records were destroyed in a flood after two years. What is the likely outcome?",
+      "correct_answer": "The broker may face discipline for inadequate records",
+      "distractors": ["No issue if the broker files an insurance claim", "Records older than one year are not required", "KREC waives requirements for natural disasters"],
+      "explanation": "Brokers must maintain trust account records for the term prescribed by KREC. Loss of records, even due to circumstances beyond control, can result in discipline. Brokers should maintain backup copies to protect against such events.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["record retention", "discipline", "trust records"]
+    },
+    {
+      "key_topic_ref": "KS-13.3",
+      "question_text": "Which entity has the authority to inspect a Kansas broker's trust account records?",
+      "correct_answer": "The Kansas Real Estate Commission",
+      "distractors": ["Only the state attorney general", "The local board of REALTORS", "The Kansas Department of Revenue"],
+      "explanation": "KREC has statutory authority to inspect and audit trust account records of all licensed brokers. This power is essential for protecting the public and ensuring brokers properly handle client funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["KREC", "inspection authority", "trust account"]
+    },
+    {
+      "key_topic_ref": "KS-13.3",
+      "question_text": "A broker maintains detailed trust account ledgers but stores them at a remote storage facility inaccessible during business hours. Is this compliant?",
+      "correct_answer": "No, records must be available for inspection",
+      "distractors": ["Yes, any secure storage location is acceptable", "Yes, if copies exist electronically", "Only a problem during scheduled audits"],
+      "explanation": "Kansas law requires trust account records to be available for inspection by KREC. Storing records in an inaccessible location defeats the purpose of the inspection requirement, even if the records themselves are accurate and complete.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["record availability", "inspection", "compliance"]
+    }
+  ]
+}

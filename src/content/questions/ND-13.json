@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ND-13",
+  "scope": "state",
+  "state": "ND",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "ND-13.1",
+      "question_text": "In a North Dakota contract for deed, who holds legal title during the payment period?",
+      "correct_answer": "The seller retains legal title",
+      "distractors": ["The buyer holds legal title", "Title is held in escrow", "The county recorder holds title"],
+      "explanation": "In a North Dakota contract for deed, the seller retains legal title until the buyer completes all required payments. The buyer holds equitable interest during the contract period.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contract for deed", "legal title", "seller"]
+    },
+    {
+      "key_topic_ref": "ND-13.1",
+      "question_text": "A buyer defaults on a contract for deed. What must the seller provide before declaring cancellation?",
+      "correct_answer": "Written notice of the default",
+      "distractors": ["A verbal warning at the property", "A court order for eviction", "A certified appraisal of the property"],
+      "explanation": "North Dakota requires the seller to provide WRITTEN NOTICE before declaring cancellation or forfeiture of a contract for deed. The buyer then has the right to reinstate by curing the default.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contract for deed", "cancellation", "written notice"]
+    },
+    {
+      "key_topic_ref": "ND-13.1",
+      "question_text": "A contract-for-deed buyer misses two payments. The seller accelerates the balance and then seeks forfeiture for nonpayment. Is this allowed?",
+      "correct_answer": "No, the seller cannot forfeit for unpaid accelerated amounts",
+      "distractors": ["Yes, acceleration triggers immediate forfeiture", "Yes, if the contract includes a default clause", "Only if the buyer has less than 50% equity"],
+      "explanation": "In North Dakota, a seller CANNOT accelerate payments and then cause forfeiture for the buyer's failure to pay the accelerated amount. This protects buyers from losing their equity through aggressive acceleration tactics.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["contract for deed", "acceleration", "forfeiture"]
+    },
+    {
+      "key_topic_ref": "ND-13.1",
+      "question_text": "After receiving a cancellation notice on a contract for deed, what right does the ND buyer have?",
+      "correct_answer": "The right to reinstate by curing the default",
+      "distractors": ["The right to an automatic 12-month extension", "The right to transfer the contract to a third party", "No rights once cancellation notice is sent"],
+      "explanation": "North Dakota law gives contract-for-deed buyers the right to REINSTATE the contract by curing the default after receiving a cancellation notice from the seller.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contract for deed", "reinstatement", "buyer rights"]
+    },
+    {
+      "key_topic_ref": "ND-13.1",
+      "question_text": "A recorded contract for deed is cancelled. Must the cancellation notice be recorded?",
+      "correct_answer": "Yes, if the original contract was recorded",
+      "distractors": ["No, cancellation is effective without recording", "Only if the buyer consents to recording", "Only for properties over 10 acres"],
+      "explanation": "When a contract for deed has been recorded with the county, the notice of cancellation must also be recorded to properly clear the title record.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contract for deed", "recording", "cancellation"]
+    },
+    {
+      "key_topic_ref": "ND-13.2",
+      "question_text": "Under HB 1190, what must a real estate wholesaler hold in North Dakota?",
+      "correct_answer": "A valid North Dakota real estate license",
+      "distractors": ["A business license from the county", "A federal securities dealer permit", "Only a general contractor license"],
+      "explanation": "HB 1190 (effective August 1, 2023) requires wholesalers to hold a valid North Dakota real estate license to engage in wholesaling activities.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wholesaling", "license requirement", "HB 1190"]
+    },
+    {
+      "key_topic_ref": "ND-13.2",
+      "question_text": "A wholesaler assigns a purchase contract but fails to disclose that they hold only equitable interest. What can the buyer do?",
+      "correct_answer": "Cancel before closing without penalty",
+      "distractors": ["Sue for double the contract price", "File a criminal complaint with the sheriff", "Nothing once the contract is signed"],
+      "explanation": "If a wholesaler fails to provide the required written disclosure, the buyer may cancel the transaction before closing without penalty and receives a refund of any money paid.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["wholesaling", "disclosure failure", "cancellation"]
+    },
+    {
+      "key_topic_ref": "ND-13.2",
+      "question_text": "Which disclosure is NOT required of a North Dakota wholesaler under HB 1190?",
+      "correct_answer": "The wholesaler's expected profit amount",
+      "distractors": ["That they hold equitable interest only", "That they may not be able to convey title", "That they intend to profit from the transfer"],
+      "explanation": "Wholesalers must disclose they hold equitable interest, may not be able to convey title, and intend to profit. However, they are not required to disclose the specific dollar amount of their expected profit.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["wholesaling", "disclosure requirements", "HB 1190"]
+    },
+    {
+      "key_topic_ref": "ND-13.2",
+      "question_text": "HB 1125 expanded North Dakota's wholesaling requirements effective August 1, 2025. What changed?",
+      "correct_answer": "Coverage expanded to all real estate types",
+      "distractors": ["The license requirement was eliminated", "Only commercial properties were added", "Disclosure became optional for small deals"],
+      "explanation": "HB 1125 (effective August 1, 2025) expanded wholesaling requirements from residential properties with fewer than 5 units to ALL real estate transactions in North Dakota.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wholesaling", "HB 1125", "expansion"]
+    },
+    {
+      "key_topic_ref": "ND-13.2",
+      "question_text": "A wholesaler fails to provide required disclosures and the seller cancels. Who keeps the earnest money?",
+      "correct_answer": "The seller retains the earnest money",
+      "distractors": ["The wholesaler keeps the earnest money", "The funds are split equally", "The earnest money goes to NDREC"],
+      "explanation": "When a transaction is cancelled due to a wholesaler's failure to provide required disclosures, the seller retains the earnest money while the buyer receives a refund of any money paid.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["wholesaling", "earnest money", "cancellation"]
+    },
+    {
+      "key_topic_ref": "ND-13.3",
+      "question_text": "Before a deed can be recorded in North Dakota, what must the county auditor certify?",
+      "correct_answer": "That all property taxes are paid",
+      "distractors": ["That the deed was prepared by an attorney", "That the purchase price is at market value", "That the property passed a building inspection"],
+      "explanation": "North Dakota requires a county auditor certificate showing that property taxes are paid before a deed can be recorded with the county recorder.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "county auditor", "taxes"]
+    },
+    {
+      "key_topic_ref": "ND-13.3",
+      "question_text": "A deed recorded in North Dakota lacks the grantee's post office address. What is the effect?",
+      "correct_answer": "The deed does not meet recording requirements",
+      "distractors": ["The deed is still valid and recordable", "The county will add the address automatically", "Only the grantor's address is required"],
+      "explanation": "North Dakota recording requirements include the grantee's post office address. A deed missing this element does not meet the statutory requirements for recording.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recording", "deed requirements", "grantee address"]
+    },
+    {
+      "key_topic_ref": "ND-13.3",
+      "question_text": "A 2005 deed uses metes and bounds for the legal description. What additional information must it include?",
+      "correct_answer": "The name and address of the drafter",
+      "distractors": ["A survey plat signed by the county", "GPS coordinates for each boundary point", "Approval from the state land office"],
+      "explanation": "Deeds and contracts recorded after January 1, 2000 that use metes and bounds descriptions must include the name and address of the person who drafted the document.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recording", "metes and bounds", "drafter"]
+    },
+    {
+      "key_topic_ref": "ND-13.3",
+      "question_text": "Which item is required on a deed for recording in North Dakota?",
+      "correct_answer": "A statement of full consideration",
+      "distractors": ["The buyer's social security number", "A notarized affidavit of value", "The lender's loan approval letter"],
+      "explanation": "North Dakota deeds must include a statement of full consideration, along with grantor/grantee names, grantee's post office address, and an adequate legal description for recording.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "consideration", "deed requirements"]
+    },
+    {
+      "key_topic_ref": "ND-13.3",
+      "question_text": "Where are deeds recorded in North Dakota?",
+      "correct_answer": "With the county recorder's office",
+      "distractors": ["At the state capitol in Bismarck", "With the NDREC main office", "At the district court clerk's office"],
+      "explanation": "Deeds in North Dakota are recorded with the county recorder's office in the county where the property is located.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "county recorder", "deed"]
+    }
+  ]
+}

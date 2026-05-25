@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NH-13",
+  "scope": "state",
+  "state": "NH",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NH-13.1",
+      "question_text": "What is the NH real estate transfer tax rate per party under RSA 78-B?",
+      "correct_answer": "$0.75 per $100 of sale price",
+      "distractors": ["$1.00 per $100 of sale price", "$0.50 per $100 of sale price", "$1.50 per $100 of sale price"],
+      "explanation": "Under RSA 78-B, the NH transfer tax is $0.75 per $100 of the sale price, paid by each party (buyer and seller). The combined rate equals 1.5% of the sale price.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 78-B", "transfer tax", "rate"]
+    },
+    {
+      "key_topic_ref": "NH-13.1",
+      "question_text": "A home sells for $350,000 in NH. What is the total combined transfer tax paid by both parties?",
+      "correct_answer": "$5,250",
+      "distractors": ["$2,625", "$3,500", "$5,000"],
+      "explanation": "The combined transfer tax rate is 1.5% ($0.75 per $100 from each party). On a $350,000 sale: $350,000 x 0.015 = $5,250 total. Each party pays $2,625.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 78-B", "transfer tax", "calculation"]
+    },
+    {
+      "key_topic_ref": "NH-13.1",
+      "question_text": "A property transfers for $3,000. What is the minimum transfer tax applied under RSA 78-B?",
+      "correct_answer": "$20 per party",
+      "distractors": ["$10 per party", "$50 per party", "No tax on this amount"],
+      "explanation": "Under RSA 78-B, the minimum transfer tax is $20 per party for transfers of $4,000 or less. This floor applies regardless of the actual calculated amount.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 78-B", "minimum tax", "transfer tax"]
+    },
+    {
+      "key_topic_ref": "NH-13.1",
+      "question_text": "Which of these transfers is EXEMPT from NH transfer tax under RSA 78-B?",
+      "correct_answer": "Transfer by will or intestate succession",
+      "distractors": ["Sale between unrelated individuals", "Sale of commercial property", "Foreclosure sale to third party"],
+      "explanation": "NH transfer tax exemptions under RSA 78-B include transfers by death (will, intestate, joint tenancy survivorship), divorce, government transfers, TOD deeds (new July 2024), affordable housing, and nominal consideration between related entities.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 78-B", "transfer tax", "exemptions"]
+    },
+    {
+      "key_topic_ref": "NH-13.1",
+      "question_text": "A property owner executes a Transfer on Death Deed in 2025. Is this transfer exempt from NH transfer tax?",
+      "correct_answer": "Yes, TOD deeds are exempt since July 2024",
+      "distractors": ["No, all deed transfers are taxed", "Only if the beneficiary is a spouse", "Only if the property value is under $100,000"],
+      "explanation": "Effective July 2024, Transfer on Death Deeds are exempt from the NH real estate transfer tax under RSA 78-B. This was added along with the new TOD deed statute (RSA 563-D).",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 78-B", "TOD deed", "exemption", "2024 law"]
+    },
+    {
+      "key_topic_ref": "NH-13.2",
+      "question_text": "What types of state-level taxes does New Hampshire NOT impose?",
+      "correct_answer": "Income tax and sales tax",
+      "distractors": ["Property tax and transfer tax", "Income tax and property tax", "Sales tax and transfer tax"],
+      "explanation": "New Hampshire has no state income tax and no sales tax. Property tax is the primary source of municipal revenue, making it especially significant in NH real estate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NH taxes", "income tax", "sales tax"]
+    },
+    {
+      "key_topic_ref": "NH-13.2",
+      "question_text": "At what percentage of market value are NH properties assessed for property tax?",
+      "correct_answer": "100% of full and true value",
+      "distractors": ["70% of full and true value", "80% of full and true value", "90% of full and true value"],
+      "explanation": "New Hampshire properties are assessed at 100% of full and true (market) value. This assessment forms the basis for calculating annual property tax obligations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "assessment", "market value"]
+    },
+    {
+      "key_topic_ref": "NH-13.2",
+      "question_text": "A farmer wants Current Use taxation under RSA 79-A. What minimum acreage qualifies if there is no annual production?",
+      "correct_answer": "10 acres",
+      "distractors": ["5 acres", "20 acres", "25 acres"],
+      "explanation": "Under RSA 79-A, land qualifies for Current Use taxation with either 10 acres of qualifying land OR annual production of at least $2,500. The property is then taxed at its current use value rather than market value.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 79-A", "Current Use", "acreage"]
+    },
+    {
+      "key_topic_ref": "NH-13.2",
+      "question_text": "A landowner removes 15 acres from Current Use to develop housing. What Land Use Change Tax rate applies?",
+      "correct_answer": "10% of the full market value",
+      "distractors": ["5% of the full market value", "15% of the full market value", "20% of the assessed value"],
+      "explanation": "When land is converted from Current Use to development, the Land Use Change Tax is 10% of the full market value of the land being removed from the Current Use program under RSA 79-A.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Land Use Change Tax", "Current Use", "development"]
+    },
+    {
+      "key_topic_ref": "NH-13.2",
+      "question_text": "A property owner believes their property tax assessment is too high. What remedy is available under NH law?",
+      "correct_answer": "Filing for a property tax abatement",
+      "distractors": ["Refusing to pay until reassessed", "Appealing directly to the state legislature", "Withholding taxes in an escrow account"],
+      "explanation": "NH law provides a formal abatement process for property owners who believe their tax assessment is incorrect. The owner must file an abatement request, which is reviewed to determine whether the assessment accurately reflects the property's value.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 76:16", "tax abatement", "assessment"]
+    },
+    {
+      "key_topic_ref": "NH-13.3",
+      "question_text": "What is the NH homestead protection amount for an individual under RSA 480 effective January 2026?",
+      "correct_answer": "$400,000",
+      "distractors": ["$120,000", "$250,000", "$550,000"],
+      "explanation": "Effective January 2026, the NH homestead protection under RSA 480 increased to $400,000 for an individual and $550,000 for co-owners, up significantly from the previous $120,000 limit.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 480", "homestead protection", "2026"]
+    },
+    {
+      "key_topic_ref": "NH-13.3",
+      "question_text": "A married couple co-owns their NH home. What homestead protection amount applies under the 2026 law?",
+      "correct_answer": "$550,000",
+      "distractors": ["$400,000", "$800,000", "$120,000"],
+      "explanation": "Effective January 2026, the homestead protection for co-owners is $550,000 under RSA 480. The individual amount is $400,000. Both figures were significantly increased from the previous $120,000 limit.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 480", "homestead", "co-owners"]
+    },
+    {
+      "key_topic_ref": "NH-13.3",
+      "question_text": "A homeowner has medical debt and claims homestead protection. Is there a dollar limit on the medical debt exemption?",
+      "correct_answer": "No, the medical debt exemption is unlimited",
+      "distractors": ["Yes, it is limited to the $400,000 cap", "Yes, it is limited to the $550,000 cap", "Yes, it is limited to the prior $120,000 cap"],
+      "explanation": "Under the NH homestead protection statute (RSA 480), the exemption for medical debt is unlimited. However, the homeowner must have resided in the property for at least 12 consecutive months.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 480", "homestead", "medical debt"]
+    },
+    {
+      "key_topic_ref": "NH-13.3",
+      "question_text": "How long must an owner reside in a property to claim NH homestead protection?",
+      "correct_answer": "12 months continuously",
+      "distractors": ["6 months continuously", "24 months continuously", "No residency requirement exists"],
+      "explanation": "To claim homestead protection under RSA 480, the owner must have resided in the property continuously for at least 12 months. This residency requirement prevents abuse of the exemption.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 480", "homestead", "residency requirement"]
+    },
+    {
+      "key_topic_ref": "NH-13.3",
+      "question_text": "Besides the state homestead protection, what additional property tax relief can NH municipalities offer?",
+      "correct_answer": "A local homestead exemption on residential property",
+      "distractors": ["A complete property tax waiver for all residents", "A state-funded rebate on property taxes", "Automatic forgiveness of delinquent taxes"],
+      "explanation": "NH municipalities may adopt a local homestead exemption that reduces the taxable value of owner-occupied residential property. Additional exemptions for elderly, disabled, veteran, and blind residents are also available under state law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 72", "municipal homestead exemption", "property tax"]
+    }
+  ]
+}

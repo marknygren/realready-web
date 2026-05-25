@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ID-07",
+  "scope": "state",
+  "state": "ID",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "ID-07.1",
+      "question_text": "An Idaho real estate trust account must be in whose name?",
+      "correct_answer": "The broker's licensed business name",
+      "distractors": ["The individual salesperson's name", "The client's name", "The title company's name"],
+      "explanation": "Trust accounts must be in the broker's licensed business name and identified as a 'real estate trust account.' This ensures accountability and allows Commission audit and oversight.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "business name", "requirements"]
+    },
+    {
+      "key_topic_ref": "ID-07.1",
+      "question_text": "What type of account must a broker use for entrusted real estate funds?",
+      "correct_answer": "An account subject to withdrawal on demand",
+      "distractors": ["A 90-day certificate of deposit", "A money market account with restrictions", "A savings account with penalty for early withdrawal"],
+      "explanation": "Trust account funds must be subject to withdrawal on demand. This ensures funds are immediately available when needed for transactions. Restricted or time-locked accounts are not permitted.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "withdrawal on demand"]
+    },
+    {
+      "key_topic_ref": "ID-07.1",
+      "question_text": "How often must a broker prepare accounting records for the trust account?",
+      "correct_answer": "Monthly",
+      "distractors": ["Weekly", "Quarterly", "Annually"],
+      "explanation": "Idaho requires separate monthly accounting records for trust accounts, including deposits, disbursements, and balances. Monthly reconciliation helps detect errors or unauthorized activity promptly.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "monthly", "records"]
+    },
+    {
+      "key_topic_ref": "ID-07.1",
+      "question_text": "A broker who does not handle entrusted funds in any transaction must do what?",
+      "correct_answer": "File a Trust Account Notification form with IREC",
+      "distractors": ["Nothing — no form is required", "Open a trust account anyway", "Report it on their annual tax return"],
+      "explanation": "Even if a broker does not receive entrusted funds, they must file a Trust Account Notification form with the Commission. This ensures IREC knows whether each brokerage handles trust funds.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "notification form", "no funds"]
+    },
+    {
+      "key_topic_ref": "ID-07.1",
+      "question_text": "Trust account records must include which of the following?",
+      "correct_answer": "Deposits, disbursements, and balances",
+      "distractors": ["Only the ending monthly balance", "Only deposits and the current balance", "Only disbursements made to parties"],
+      "explanation": "Complete trust account records require documentation of all deposits, all disbursements, and running balances. This allows for proper reconciliation and Commission audit.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "records", "accounting"]
+    },
+    {
+      "key_topic_ref": "ID-07.2",
+      "question_text": "By when must an Idaho broker deposit earnest money into the trust account?",
+      "correct_answer": "The next banking day after receipt",
+      "distractors": ["Within 3 business days", "Within 5 calendar days", "Within 24 hours of receipt"],
+      "explanation": "Section 54-2045 requires deposit on or before the banking day immediately following receipt of funds. If received on Friday, the deposit must be made by the next banking day (typically Monday).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "deposit deadline", "next banking day"]
+    },
+    {
+      "key_topic_ref": "ID-07.2",
+      "question_text": "A buyer gives earnest money to a salesperson on Saturday. By when must it be deposited?",
+      "correct_answer": "The next banking day (typically Monday)",
+      "distractors": ["Within 24 hours (Sunday)", "The following Wednesday", "Within 3 business days (Wednesday)"],
+      "explanation": "The deposit deadline is the banking day immediately following receipt. Since Saturday is not typically a banking day, and Sunday is not, the deposit must be made on Monday (the next banking day).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "deposit deadline", "weekend"]
+    },
+    {
+      "key_topic_ref": "ID-07.2",
+      "question_text": "Under what circumstance can a broker delay depositing earnest money beyond the next banking day?",
+      "correct_answer": "When written instructions from interested parties direct otherwise",
+      "distractors": ["When the amount is under $1,000", "When the broker is on vacation", "When waiting for the contract to be fully executed"],
+      "explanation": "The only exception to the next-banking-day deposit rule is when written instructions signed by the parties having an interest in the funds direct the broker to handle them differently.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "deposit deadline", "written instructions"]
+    },
+    {
+      "key_topic_ref": "ID-07.2",
+      "question_text": "The parties in a transaction provide written instructions for the earnest money to be delivered to a title company. Is this permitted?",
+      "correct_answer": "Yes, parties may direct transfer to a third party in writing",
+      "distractors": ["No, funds must always go to the broker's trust account", "Only if the title company is IREC-approved", "Only if the amount exceeds $10,000"],
+      "explanation": "Parties may direct the broker in writing to transfer funds to a third party such as a title or escrow company. This is a recognized alternative to depositing in the broker's trust account.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "third party", "title company"]
+    },
+    {
+      "key_topic_ref": "ID-07.2",
+      "question_text": "Which Idaho Code section governs trust account deposit requirements?",
+      "correct_answer": "Section 54-2045",
+      "distractors": ["Section 54-2053", "Section 54-2055", "Section 54-2082"],
+      "explanation": "Section 54-2045 establishes the deposit requirements for entrusted funds, including the next-banking-day deadline. Section 54-2053 covers advertising, 54-2055 covers licensee property disclosure, and 54-2082 begins agency law.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "Section 54-2045", "statute"]
+    },
+    {
+      "key_topic_ref": "ID-07.3",
+      "question_text": "A buyer and seller dispute who should receive the earnest money after a failed transaction. What governs the broker's handling?",
+      "correct_answer": "Commission Guideline 14",
+      "distractors": ["The broker's personal judgment", "The listing agreement terms only", "The Idaho Attorney General's office"],
+      "explanation": "Commission Guideline 14 provides specific procedures for handling disputed earnest money. Brokers must follow these procedures rather than making independent decisions about fund distribution.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "disputed funds", "Guideline 14"]
+    },
+    {
+      "key_topic_ref": "ID-07.3",
+      "question_text": "A broker deposits personal funds into the real estate trust account. What violation has occurred?",
+      "correct_answer": "Commingling of personal and trust funds",
+      "distractors": ["Conversion of trust funds", "Failure to maintain E&O insurance", "Unauthorized brokerage activity"],
+      "explanation": "Mixing personal funds with trust funds is commingling, which is prohibited. The only exception is maintaining the minimum balance required by the financial institution to keep the account open.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "commingling", "prohibition"]
+    },
+    {
+      "key_topic_ref": "ID-07.3",
+      "question_text": "Under what limited circumstance may a broker keep personal funds in the trust account?",
+      "correct_answer": "To maintain the minimum balance required by the bank",
+      "distractors": ["To cover anticipated commission payments", "To earn interest on the combined balance", "There is never a valid reason"],
+      "explanation": "The only exception to the commingling prohibition is maintaining the minimum balance required by the financial institution. This small amount of personal funds keeps the account active without violating the spirit of the rule.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust account", "commingling", "exception", "minimum balance"]
+    },
+    {
+      "key_topic_ref": "ID-07.3",
+      "question_text": "If a buyer and seller cannot agree on earnest money distribution, what should the broker avoid doing?",
+      "correct_answer": "Releasing funds to either party without authorization",
+      "distractors": ["Contacting both parties about the dispute", "Following Commission Guideline 14 procedures", "Notifying their designated broker of the dispute"],
+      "explanation": "When earnest money is disputed, the broker must not release funds to either party without proper authorization. Guideline 14 provides procedures for handling the dispute, which may include interpleading the funds with the court.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "disputed funds", "broker duties"]
+    },
+    {
+      "key_topic_ref": "ID-07.3",
+      "question_text": "What distinguishes commingling from conversion of trust funds?",
+      "correct_answer": "Commingling is mixing funds; conversion is spending them",
+      "distractors": ["They are the same violation", "Commingling is more serious than conversion", "Conversion applies only to broker funds"],
+      "explanation": "Commingling is mixing personal and trust funds in the same account. Conversion is actually using or spending trust funds for personal purposes. Conversion is generally considered more serious because the funds are actually taken.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust account", "commingling", "conversion"]
+    }
+  ]
+}

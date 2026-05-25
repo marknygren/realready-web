@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AZ-10",
+  "scope": "state",
+  "state": "AZ",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "AZ-10.1",
+      "question_text": "Arizona uses a dual assessment system. What are the two assessment values?",
+      "correct_answer": "Full Cash Value and Limited Property Value",
+      "distractors": ["Market Value and Assessed Value amounts", "Tax Value and Sale Value calculations", "Primary Value and Secondary Value figures"],
+      "explanation": "Arizona's unique dual assessment system uses Full Cash Value (market value from the assessor) and Limited Property Value (a capped value that cannot increase more than 5% per year for primary taxes).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["FCV", "LPV", "dual assessment"]
+    },
+    {
+      "key_topic_ref": "AZ-10.1",
+      "question_text": "The Limited Property Value (LPV) cannot increase by more than what percentage annually?",
+      "correct_answer": "5% per year",
+      "distractors": ["2% per year", "10% per year", "3% per year"],
+      "explanation": "LPV cannot increase more than 5% per year, providing homeowners with some predictability in primary tax assessments even when market values rise rapidly. This is less restrictive than California's Prop 13 (2% cap).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["LPV", "5% cap", "annual increase"]
+    },
+    {
+      "key_topic_ref": "AZ-10.1",
+      "question_text": "A home's Full Cash Value is $400,000. What is the assessment ratio for residential property in Arizona?",
+      "correct_answer": "10% of the assessed value",
+      "distractors": ["15% of the assessed value", "25% of the assessed value", "100% of the market value"],
+      "explanation": "Arizona residential property is assessed at 10% of the LPV (for primary taxes) or FCV (for secondary taxes). So a $400,000 FCV home would have a secondary assessed value of $40,000.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["assessment ratio", "10%", "residential"]
+    },
+    {
+      "key_topic_ref": "AZ-10.1",
+      "question_text": "Which value does the county assessor determine to represent a property's market value?",
+      "correct_answer": "Full Cash Value (FCV)",
+      "distractors": ["Limited Property Value (LPV)", "Net Assessed Value (NAV)", "Taxable Market Value (TMV)"],
+      "explanation": "Full Cash Value (FCV) represents the property's market value as determined by the county assessor. LPV is the capped value used for primary taxes, calculated separately with the 5% annual increase limit.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["FCV", "market value", "county assessor"]
+    },
+    {
+      "key_topic_ref": "AZ-10.1",
+      "question_text": "A home's LPV was $300,000 last year but the FCV jumped to $400,000. What is the maximum LPV this year?",
+      "correct_answer": "$315,000",
+      "distractors": ["$400,000", "$330,000", "$300,000"],
+      "explanation": "LPV can increase by a maximum of 5% per year. Last year's LPV of $300,000 x 1.05 = $315,000 maximum, regardless of how much the FCV increased. This protects homeowners from sudden tax spikes.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["LPV", "calculation", "5% cap"]
+    },
+    {
+      "key_topic_ref": "AZ-10.2",
+      "question_text": "Arizona primary property taxes fund which types of government services?",
+      "correct_answer": "Schools, fire districts, and community colleges",
+      "distractors": ["Voter-approved bonds and overrides", "State highway maintenance only", "Federal defense and infrastructure"],
+      "explanation": "Primary taxes fund operational budgets for schools, fire districts, community colleges, and other local entities. They are based on Limited Property Value (LPV). Secondary taxes fund voter-approved bonds and overrides.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["primary taxes", "schools", "fire districts"]
+    },
+    {
+      "key_topic_ref": "AZ-10.2",
+      "question_text": "Secondary property taxes in Arizona are based on which value?",
+      "correct_answer": "Full Cash Value (FCV)",
+      "distractors": ["Limited Property Value (LPV)", "The original purchase price", "The prior year's tax assessment"],
+      "explanation": "Secondary taxes — which fund voter-approved bonds and overrides — are based on Full Cash Value (FCV), not LPV. This means secondary taxes can fluctuate more with market conditions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["secondary taxes", "FCV", "bonds"]
+    },
+    {
+      "key_topic_ref": "AZ-10.2",
+      "question_text": "When are Arizona property tax payments due?",
+      "correct_answer": "October 1 and March 1 in two installments",
+      "distractors": ["January 1 and July 1 in two installments", "November 1 in one annual payment", "Quarterly on the first of each quarter"],
+      "explanation": "Arizona property tax bills are due in two installments: the first half by October 1 and the second half by March 1. Late payments are subject to interest and penalties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tax due dates", "October", "March", "installments"]
+    },
+    {
+      "key_topic_ref": "AZ-10.2",
+      "question_text": "Voter-approved school district bonds are funded through which type of Arizona property tax?",
+      "correct_answer": "Secondary taxes based on FCV",
+      "distractors": ["Primary taxes based on LPV", "A separate school district assessment", "State income tax allocations"],
+      "explanation": "Voter-approved bonds and overrides are funded through secondary property taxes, which are based on Full Cash Value (FCV). Primary taxes fund operational budgets and use Limited Property Value (LPV).",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["secondary taxes", "bonds", "school district"]
+    },
+    {
+      "key_topic_ref": "AZ-10.2",
+      "question_text": "Which of the following best describes how primary and secondary taxes differ in Arizona?",
+      "correct_answer": "Primary uses LPV for operations; secondary uses FCV for bonds",
+      "distractors": ["Primary is state; secondary is federal", "Primary is for homes; secondary is for commercial", "Primary is assessed annually; secondary is biennial"],
+      "explanation": "The key distinction is that primary taxes use LPV (capped) to fund ongoing operations, while secondary taxes use FCV (market-based) to fund voter-approved bonds and overrides. Both apply to all property types.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["primary taxes", "secondary taxes", "comparison"]
+    },
+    {
+      "key_topic_ref": "AZ-10.3",
+      "question_text": "Which of the following property tax exemptions exists in Arizona?",
+      "correct_answer": "Exemptions for veterans and disabled persons",
+      "distractors": ["A universal homeowner's property tax exemption", "A senior citizen freeze on all property taxes", "An automatic 50% reduction for first-time buyers"],
+      "explanation": "Arizona provides property tax exemptions for veterans, disabled persons, and widows/widowers. Unlike California, Arizona does NOT have a universal homeowner's property tax exemption.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["exemptions", "veterans", "disabled"]
+    },
+    {
+      "key_topic_ref": "AZ-10.3",
+      "question_text": "A neighborhood's streets are being repaved through a special improvement district. How are these costs funded?",
+      "correct_answer": "Special assessments against benefited properties",
+      "distractors": ["General property tax increases countywide", "State highway maintenance funds", "HOA fees for the neighborhood"],
+      "explanation": "Improvement districts fund infrastructure improvements through special assessments charged to properties that benefit from the improvements. This targets costs to the properties that receive the direct benefit.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["special assessments", "improvement districts", "infrastructure"]
+    },
+    {
+      "key_topic_ref": "AZ-10.3",
+      "question_text": "Does the Arizona homestead exemption reduce property taxes?",
+      "correct_answer": "No, it only protects equity from creditors",
+      "distractors": ["Yes, it reduces the assessed value by $25,000", "Yes, it exempts the first $50,000 in value", "Yes, for primary residence owners only"],
+      "explanation": "The Arizona homestead exemption ($425,200) protects home equity from forced sale by general creditors but is NOT a property tax reduction. It should not be confused with property tax exemptions available to veterans and disabled persons.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["homestead", "property tax", "distinction"]
+    },
+    {
+      "key_topic_ref": "AZ-10.3",
+      "question_text": "Special assessments for flood control improvements must be approved by:",
+      "correct_answer": "The affected property owners or governing body",
+      "distractors": ["A statewide ballot measure", "The Arizona Department of Water Resources", "The county assessor unilaterally"],
+      "explanation": "Special assessments for improvement districts must be approved by the affected property owners or the local governing body. They cannot be imposed unilaterally by a single official.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["special assessments", "approval", "flood control"]
+    },
+    {
+      "key_topic_ref": "AZ-10.3",
+      "question_text": "Which of the following improvements could be funded through an Arizona improvement district?",
+      "correct_answer": "Streets, sewers, and flood control systems",
+      "distractors": ["Private swimming pools and landscaping", "Commercial building renovations", "Individual home repairs and upgrades"],
+      "explanation": "Improvement districts fund public infrastructure improvements like streets, sewers, and flood control that benefit specific areas. Private improvements to individual properties are not eligible.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["improvement districts", "infrastructure", "eligible improvements"]
+    }
+  ]
+}

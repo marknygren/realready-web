@@ -1,0 +1,158 @@
+{
+  "standard_ref": "TX-01",
+  "scope": "state",
+  "state": "TX",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "TX-01.1",
+      "question_text": "How many members serve on the Texas Real Estate Commission (TREC)?",
+      "correct_answer": "9 members",
+      "distractors": [
+        "7 members",
+        "11 members",
+        "5 members"
+      ],
+      "explanation": "TREC is composed of 9 members appointed by the Governor and confirmed by the Texas Senate. Six must be licensed brokers with at least 5 years of licensure, and 3 must be public (non-licensee) members representing consumer interests.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TREC", "commission_composition", "members"]
+    },
+    {
+      "key_topic_ref": "TX-01.1",
+      "question_text": "A TREC member has served two consecutive 6-year terms. The Governor wants to reappoint this person. What is the outcome?",
+      "correct_answer": "The member cannot be reappointed",
+      "distractors": [
+        "The member may serve one more term",
+        "The Senate must grant a special waiver",
+        "The member can serve if no replacement is found"
+      ],
+      "explanation": "Texas law limits TREC members to a maximum of two consecutive terms. After serving two full 6-year terms, a member is ineligible for reappointment regardless of the Governor's preference. This ensures regular turnover on the commission.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["TREC", "term_limits", "appointment"]
+    },
+    {
+      "key_topic_ref": "TX-01.1",
+      "question_text": "Which official designates the chair of the Texas Real Estate Commission?",
+      "correct_answer": "The Governor",
+      "distractors": [
+        "The TREC Administrator",
+        "The Texas Senate",
+        "The commission members by vote"
+      ],
+      "explanation": "The Governor of Texas designates the chair of TREC from among the appointed members. The TREC Administrator handles day-to-day operations but does not select the chair. The Senate's role is limited to confirming appointments.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TREC", "chair", "Governor", "appointment"]
+    },
+    {
+      "key_topic_ref": "TX-01.1",
+      "question_text": "A newly appointed TREC broker member has held a license for 3 years. Is this appointment valid?",
+      "correct_answer": "No, broker members need at least 5 years",
+      "distractors": [
+        "Yes, any active broker may serve",
+        "Yes, if confirmed by the Senate",
+        "No, broker members need at least 10 years"
+      ],
+      "explanation": "The six broker members of TREC must each have a minimum of 5 years of licensure experience. A broker with only 3 years does not meet this statutory requirement, making the appointment invalid regardless of Senate confirmation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["TREC", "broker_members", "eligibility", "licensure"]
+    },
+    {
+      "key_topic_ref": "TX-01.1",
+      "question_text": "TREC terms are staggered so that a specific number of seats expire every two years. How many seats come up for appointment each cycle?",
+      "correct_answer": "3 seats",
+      "distractors": [
+        "2 seats",
+        "4 seats",
+        "5 seats"
+      ],
+      "explanation": "TREC's 9 members serve staggered 6-year terms, with 3 seats expiring every 2 years. This staggered structure ensures continuity on the commission and prevents a complete turnover of all members at once.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TREC", "staggered_terms", "appointment_cycle"]
+    },
+    {
+      "key_topic_ref": "TX-01.2",
+      "question_text": "How many members serve on the Broker-Lawyer Committee in Texas?",
+      "correct_answer": "13 members",
+      "distractors": [
+        "9 members",
+        "12 members",
+        "15 members"
+      ],
+      "explanation": "The Broker-Lawyer Committee has 13 members: 6 brokers appointed by TREC, 6 attorneys appointed by the State Bar of Texas, and 1 public member appointed by the Governor. The committee drafts promulgated contract forms for TREC review.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Broker-Lawyer_Committee", "composition", "members"]
+    },
+    {
+      "key_topic_ref": "TX-01.2",
+      "question_text": "The Broker-Lawyer Committee submits a revised sales contract form to TREC. TREC disagrees with several provisions. What authority does TREC have?",
+      "correct_answer": "TREC may adopt, modify, or reject the form",
+      "distractors": [
+        "TREC must adopt the form as submitted",
+        "TREC can only accept or reject without changes",
+        "The State Bar must approve any TREC changes"
+      ],
+      "explanation": "TREC has final authority over promulgated forms. While the Broker-Lawyer Committee drafts and recommends contract forms, TREC retains the power to adopt, modify, or reject any form the committee produces. The State Bar has no veto over TREC's decision.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Broker-Lawyer_Committee", "promulgated_forms", "TREC_authority"]
+    },
+    {
+      "key_topic_ref": "TX-01.2",
+      "question_text": "Under which statute does TREC exercise its rulemaking authority?",
+      "correct_answer": "TRELA, Occupations Code Chapter 1101",
+      "distractors": [
+        "Texas Property Code Chapter 5",
+        "Texas Business and Commerce Code",
+        "Texas Government Code Chapter 2001"
+      ],
+      "explanation": "TREC's rulemaking authority derives from the Texas Real Estate License Act (TRELA), codified in Occupations Code Chapter 1101. The Government Code Chapter 2001 is the Administrative Procedure Act governing the process, but TRELA grants the substantive authority.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["TRELA", "rulemaking", "Occupations_Code", "Chapter_1101"]
+    },
+    {
+      "key_topic_ref": "TX-01.2",
+      "question_text": "Who appoints the 6 attorney members of the Broker-Lawyer Committee?",
+      "correct_answer": "The State Bar of Texas",
+      "distractors": [
+        "The Governor of Texas",
+        "TREC commissioners",
+        "The Texas Attorney General"
+      ],
+      "explanation": "The 6 attorney members are appointed by the State Bar of Texas. TREC appoints the 6 broker members, and the Governor appoints the single public member. This structure ensures balanced representation from both real estate and legal professions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Broker-Lawyer_Committee", "State_Bar", "attorney_members"]
+    },
+    {
+      "key_topic_ref": "TX-01.2",
+      "question_text": "A consumer files a formal complaint against a licensee with TREC. Which process governs the resulting hearing?",
+      "correct_answer": "The Administrative Procedure Act",
+      "distractors": [
+        "The Texas Rules of Civil Procedure",
+        "TREC internal guidelines only",
+        "The Texas Penal Code"
+      ],
+      "explanation": "TREC hearings on complaints follow the Administrative Procedure Act, which establishes due process requirements for state agency proceedings. This ensures licensees receive notice, an opportunity to be heard, and the right to appeal. Civil procedure rules apply to courts, not agency hearings.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["TREC", "complaints", "hearings", "Administrative_Procedure_Act"]
+    }
+  ]
+}

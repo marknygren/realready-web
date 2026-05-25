@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OH-10",
+  "scope": "state",
+  "state": "OH",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "OH-10.1",
+      "question_text": "Every Ohio brokerage must maintain a trust or special account at what type of institution?",
+      "correct_answer": "A recognized Ohio depository",
+      "distractors": ["Any U.S. federally insured bank", "A Division-approved national bank only", "The state treasury department"],
+      "explanation": "Ohio law requires the trust or special account to be at a recognized Ohio depository. The account must be designated as a trust or special account on all bank records and checks.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "depository", "requirement"]
+    },
+    {
+      "key_topic_ref": "OH-10.1",
+      "question_text": "A broker receives a $10,000 earnest money deposit on Friday afternoon. When must the funds be deposited into the trust account?",
+      "correct_answer": "Promptly upon receipt",
+      "distractors": ["Within 5 business days", "By the following Monday at noon", "Within 30 days of the contract date"],
+      "explanation": "Ohio law requires all trust funds (earnest money, security deposits, etc.) to be deposited promptly upon receipt. There is no specific multi-day grace period specified.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-account", "deposit", "prompt"]
+    },
+    {
+      "key_topic_ref": "OH-10.1",
+      "question_text": "A broker places $500 of personal funds in the brokerage trust account to cover bank fees. This is:",
+      "correct_answer": "Commingling, which is prohibited",
+      "distractors": ["Acceptable for maintaining minimum balances", "Permitted if the amount is under $1,000", "Required to keep the account operational"],
+      "explanation": "Commingling broker personal funds with client trust funds is prohibited in Ohio. The trust account must contain only client funds and funds belonging to others.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "prohibited", "trust-account"]
+    },
+    {
+      "key_topic_ref": "OH-10.1",
+      "question_text": "How must a brokerage's trust account be labeled on bank records in Ohio?",
+      "correct_answer": "Designated as 'trust account' or 'special account'",
+      "distractors": ["Using only the broker's personal name", "With a standard business checking designation", "With any name the broker prefers"],
+      "explanation": "Ohio requires the account to be specifically designated as a 'trust account' or 'special account' on all bank records and checks, clearly distinguishing it from the broker's operating accounts.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "designation", "bank-records"]
+    },
+    {
+      "key_topic_ref": "OH-10.1",
+      "question_text": "An Ohio broker has one trust account that holds earnest money from sales transactions and security deposits from rentals. Is this acceptable?",
+      "correct_answer": "No, a separate PM trust account is required",
+      "distractors": ["Yes, one trust account can hold all funds", "Yes, if the funds are tracked in separate ledgers", "Only if the broker manages fewer than 10 properties"],
+      "explanation": "Ohio requires a separate trust account for property management activities. Sales earnest money and PM funds (security deposits, rents) must not be combined in one account.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust-account", "PM-separate", "requirement"]
+    },
+    {
+      "key_topic_ref": "OH-10.2",
+      "question_text": "An Ohio broker manages 15 rental properties. What type of account must be maintained for tenant security deposits?",
+      "correct_answer": "A separate property management trust account",
+      "distractors": ["The broker's regular business operating account", "The same trust account used for sales escrow", "Individual accounts for each tenant"],
+      "explanation": "Ohio requires brokers engaged in property management to maintain a separate trust account for PM activities, keeping security deposits and rents segregated from sales trust funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PM-trust-account", "security-deposits", "separate"]
+    },
+    {
+      "key_topic_ref": "OH-10.2",
+      "question_text": "In an Ohio property management trust account, how should different types of funds be handled?",
+      "correct_answer": "Funds must be segregated by purpose",
+      "distractors": ["All PM funds can be pooled together freely", "Only security deposits need separate tracking", "Funds are segregated only at year-end for accounting"],
+      "explanation": "Funds in the PM trust account must be segregated by purpose — security deposits, rents, and owner funds should be tracked separately to ensure proper accounting.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PM-trust-account", "segregation", "funds"]
+    },
+    {
+      "key_topic_ref": "OH-10.2",
+      "question_text": "A property manager collects first month's rent and a security deposit from a new tenant. Where should these funds be placed?",
+      "correct_answer": "The brokerage's property management trust account",
+      "distractors": ["The property owner's personal bank account", "The broker's general operating account", "The sales trust account with earnest money"],
+      "explanation": "All funds received in the course of property management — including rent and security deposits — must be deposited into the separate PM trust account maintained by the brokerage.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PM-trust-account", "rent", "security-deposit"]
+    },
+    {
+      "key_topic_ref": "OH-10.2",
+      "question_text": "An Ohio PM broker transfers a property owner's rental income from the PM trust account to the owner. What documentation must be maintained?",
+      "correct_answer": "Records of the disbursement for Division audit",
+      "distractors": ["No documentation is needed for owner disbursements", "Only an email confirmation to the owner", "A form filed with the Division within 30 days"],
+      "explanation": "All trust account transactions, including disbursements to property owners, must be documented and retained. Records must be available for Division audit at any time.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PM-trust-account", "disbursement", "documentation"]
+    },
+    {
+      "key_topic_ref": "OH-10.2",
+      "question_text": "A broker manages a mixed portfolio of commercial and residential rentals. How many property management trust accounts are needed?",
+      "correct_answer": "At least one separate PM trust account",
+      "distractors": ["One account per property type is mandatory", "One account per individual property is required", "No separate account if under 20 properties"],
+      "explanation": "Ohio requires at least one separate PM trust account for all property management activities. While more accounts may be advisable, the law requires at minimum a separate PM account.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PM-trust-account", "mixed-portfolio", "requirement"]
+    },
+    {
+      "key_topic_ref": "OH-10.3",
+      "question_text": "How long must an Ohio broker retain trust account records?",
+      "correct_answer": "3 years from closing or listing termination",
+      "distractors": ["1 year from the transaction date", "5 years from the date of deposit", "7 years as required by federal tax law"],
+      "explanation": "Brokers must retain all transaction records, including trust account records, for 3 years from the date of closing or termination of the listing agreement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record-retention", "3-years", "trust-account"]
+    },
+    {
+      "key_topic_ref": "OH-10.3",
+      "question_text": "Which records must an Ohio broker maintain for trust account compliance?",
+      "correct_answer": "Receipts, disbursements, statements, and reconciliations",
+      "distractors": ["Only monthly bank statements", "Only deposit receipts and checks", "Only the annual reconciliation summary"],
+      "explanation": "Complete trust account records include receipts, disbursements, bank statements, and reconciliations. All must be maintained and available for Division audit.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["records", "reconciliation", "trust-account"]
+    },
+    {
+      "key_topic_ref": "OH-10.3",
+      "question_text": "The Division of Real Estate decides to audit a broker's trust account. Must the broker be given advance notice?",
+      "correct_answer": "No, the Division can audit at any time",
+      "distractors": ["Yes, 30 days written notice is required", "Yes, 10 business days notice minimum", "Only with a court order or subpoena"],
+      "explanation": "The Division has the authority to audit broker records at any time, without advance notice. Brokers must keep records current and accessible for inspection.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["audit", "no-notice", "Division"]
+    },
+    {
+      "key_topic_ref": "OH-10.3",
+      "question_text": "A broker's salesperson handles trust account deposits. An error is discovered during a Division audit. Who is held responsible?",
+      "correct_answer": "The broker, even if delegated to a salesperson",
+      "distractors": ["Only the salesperson who made the error", "Both equally under Ohio law", "Neither, if the error was unintentional"],
+      "explanation": "The broker is responsible for the trust account even when day-to-day management is delegated to a salesperson. The broker must ensure proper handling and supervision.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["broker-responsibility", "delegation", "trust-account"]
+    },
+    {
+      "key_topic_ref": "OH-10.3",
+      "question_text": "An Ohio broker closed a transaction two years ago and wants to shred the trust account records from that sale. Is this permitted?",
+      "correct_answer": "No, records must be kept for at least 3 years",
+      "distractors": ["Yes, 2 years is sufficient retention time", "Yes, if the records have been digitized", "Only if both parties consent to destruction"],
+      "explanation": "Ohio requires 3-year retention from closing or listing termination. Destroying records before the 3-year period expires violates the record-keeping requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["record-retention", "3-years", "destruction"]
+    }
+  ]
+}

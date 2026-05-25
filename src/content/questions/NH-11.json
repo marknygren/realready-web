@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NH-11",
+  "scope": "state",
+  "state": "NH",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NH-11.1",
+      "question_text": "A property contains improperly stored hazardous chemicals. Under NH environmental law, what must the owner address?",
+      "correct_answer": "Proper storage, treatment, and disposal of hazardous waste",
+      "distractors": ["Only notifying adjacent property owners", "Only testing the soil for contamination", "Only obtaining a building permit for storage"],
+      "explanation": "NH hazardous waste law (RSA 147-A) requires property owners to comply with proper storage, treatment, and disposal requirements for hazardous waste. Violations can lead to enforcement actions and cleanup liability.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 147-A", "hazardous waste", "environmental"]
+    },
+    {
+      "key_topic_ref": "NH-11.1",
+      "question_text": "A buyer discovers contaminated soil on a property they recently purchased. Who may be held liable for cleanup under NH environmental law?",
+      "correct_answer": "Both current and former owners of the property",
+      "distractors": ["Only the current owner at the time of discovery", "Only the party that caused the contamination", "The municipality where the property is located"],
+      "explanation": "NH cleanup liability law assigns broad responsibility for contaminated sites. Both current and former property owners can be held liable for remediation, regardless of who caused the contamination. This makes environmental due diligence critical before purchasing property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 147-B", "cleanup liability", "contamination"]
+    },
+    {
+      "key_topic_ref": "NH-11.1",
+      "question_text": "A property owner removes an underground storage tank without notifying the state. What NH requirement was violated?",
+      "correct_answer": "State registration and removal notification requirements",
+      "distractors": ["Only local building permit requirements", "Only the septic system inspection requirement", "No notification is required for tank removal"],
+      "explanation": "NH law requires underground storage tank owners to register tanks and follow state notification and removal procedures. Removing a tank without proper notification violates these requirements and can result in enforcement action, especially if contamination is found.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 146-C", "underground storage tanks", "removal"]
+    },
+    {
+      "key_topic_ref": "NH-11.1",
+      "question_text": "A building owner discovers asbestos during renovation. Under RSA 141-E, what is the owner's primary obligation?",
+      "correct_answer": "Provide notification and manage the asbestos",
+      "distractors": ["Immediately demolish the structure", "File a lawsuit against the builder", "Transfer ownership before remediation"],
+      "explanation": "RSA 141-E:9 and 141-E:10 require asbestos notification and management. Property owners must notify appropriate parties and follow proper management procedures when asbestos is discovered.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 141-E", "asbestos", "notification"]
+    },
+    {
+      "key_topic_ref": "NH-11.1",
+      "question_text": "An agent lists a property near a former gas station. The buyer's inspector finds soil contamination from old fuel tanks. Under RSA 147-B, who may be held liable for cleanup?",
+      "correct_answer": "Current and former owners of the site",
+      "distractors": ["Only the current property owner", "Only the gas station operator", "The municipality where the site exists"],
+      "explanation": "RSA 147-B establishes broad cleanup liability for contaminated sites, which can extend to both current and former property owners. Liability attaches regardless of fault, making due diligence critical in transactions involving potentially contaminated properties.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["RSA 147-B", "cleanup liability", "contamination", "due diligence"]
+    },
+    {
+      "key_topic_ref": "NH-11.2",
+      "question_text": "Which NH agency oversees septic system design and approval?",
+      "correct_answer": "Department of Environmental Services",
+      "distractors": ["Department of Health and Human Services", "Office of Professional Licensure", "Department of Safety"],
+      "explanation": "The NH Department of Environmental Services (DES) oversees septic system design and approval under RSA 485-A, which governs water pollution control in the state.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["DES", "septic", "RSA 485-A"]
+    },
+    {
+      "key_topic_ref": "NH-11.2",
+      "question_text": "Under RSA 485-A:39, how close must a septic system be to the reference line to trigger a waterfront evaluation before property transfer?",
+      "correct_answer": "Within 250 feet",
+      "distractors": ["Within 100 feet", "Within 150 feet", "Within 500 feet"],
+      "explanation": "RSA 485-A:39 (effective September 2024) requires a waterfront septic evaluation before transfer of developed waterfront property when the septic system is within 250 feet of the reference line.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 485-A:39", "waterfront septic", "reference line"]
+    },
+    {
+      "key_topic_ref": "NH-11.2",
+      "question_text": "A seller had a septic evaluation done 120 days ago. Can the buyer rely on it under RSA 485-A:39?",
+      "correct_answer": "Yes, if the buyer provides written acknowledgment",
+      "distractors": ["No, a new evaluation is always required", "Yes, no additional steps are needed", "Only if DES issues a waiver letter"],
+      "explanation": "Under RSA 485-A:39, the seller's evaluation is acceptable if it was conducted within 180 days and the buyer provides written acknowledgment. At 120 days, the evaluation is within the 180-day window.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 485-A:39", "waterfront septic", "seller evaluation"]
+    },
+    {
+      "key_topic_ref": "NH-11.2",
+      "question_text": "A waterfront septic evaluation reveals a failed system. How many days after closing must the buyer replace it?",
+      "correct_answer": "180 days",
+      "distractors": ["90 days", "60 days", "365 days"],
+      "explanation": "Under RSA 485-A:39, when a septic evaluation reveals a failed system, DES is notified and the system must be replaced within 180 days of closing. A 180-day extension is available if needed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 485-A:39", "failed septic", "replacement deadline"]
+    },
+    {
+      "key_topic_ref": "NH-11.2",
+      "question_text": "A septic system approved in 1985 is on a waterfront property being sold. What additional evaluation does RSA 485-A:39 require?",
+      "correct_answer": "A depth-to-water-table evaluation",
+      "distractors": ["A full environmental impact study", "A structural engineering assessment", "A municipal code compliance review"],
+      "explanation": "Under RSA 485-A:39, septic systems approved before September 1, 1989 require an additional depth-to-water-table evaluation during the waterfront septic assessment, reflecting older design standards that may not adequately protect water quality.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 485-A:39", "pre-1989 septic", "depth-to-water-table"]
+    },
+    {
+      "key_topic_ref": "NH-11.3",
+      "question_text": "A buyer's well water test shows contamination above state standards. Which area of NH environmental law governs safe drinking water?",
+      "correct_answer": "Safe drinking water regulations",
+      "distractors": ["Hazardous waste cleanup liability", "Shoreland protection setback rules", "Underground storage tank regulations"],
+      "explanation": "New Hampshire has specific safe drinking water standards that set maximum contaminant levels for well water and public water supplies. When contamination is found, these standards determine whether the water is safe for consumption.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["drinking water", "contamination", "well water"]
+    },
+    {
+      "key_topic_ref": "NH-11.3",
+      "question_text": "A developer plans to build near a wellhead protection area. What environmental concern should a licensee advise the buyer about?",
+      "correct_answer": "Potential groundwater contamination risk",
+      "distractors": ["Shoreland vegetation clearing limits", "Wetlands dredge and fill permits", "Asbestos management requirements"],
+      "explanation": "Development near wellhead protection areas raises groundwater contamination concerns under NH environmental law. Licensees should advise buyers that groundwater resources are protected and development restrictions may apply.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["groundwater", "wellhead protection", "environmental"]
+    },
+    {
+      "key_topic_ref": "NH-11.3",
+      "question_text": "A buyer is purchasing a waterfront home with a septic system installed in 1987 within 200 feet of the shoreline. Under RSA 485-A:39, which requirements apply?",
+      "correct_answer": "Septic evaluation plus depth-to-water-table test",
+      "distractors": ["Only a standard home inspection", "Septic evaluation without additional testing", "No evaluation if seller provides a warranty"],
+      "explanation": "The property has a septic system within 250 feet of the reference line (triggering the waterfront evaluation) and was approved before September 1, 1989 (triggering the additional depth-to-water-table evaluation). Both requirements apply under RSA 485-A:39.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["RSA 485-A:39", "pre-1989", "waterfront", "depth-to-water-table"]
+    },
+    {
+      "key_topic_ref": "NH-11.3",
+      "question_text": "Who must a buyer hire to perform a waterfront septic evaluation under RSA 485-A:39?",
+      "correct_answer": "A licensed NH septic evaluator",
+      "distractors": ["Any licensed home inspector", "A registered professional engineer", "A DES field representative"],
+      "explanation": "RSA 485-A:39 specifically requires the buyer to hire a licensed New Hampshire septic evaluator to conduct the waterfront septic evaluation before closing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 485-A:39", "septic evaluator", "licensing"]
+    },
+    {
+      "key_topic_ref": "NH-11.3",
+      "question_text": "A waterfront septic system fails evaluation, and the buyer needs more time for replacement. What extension is available under RSA 485-A:39?",
+      "correct_answer": "An additional 180 days",
+      "distractors": ["An additional 90 days", "An additional 365 days", "No extension is available"],
+      "explanation": "Under RSA 485-A:39, the initial replacement deadline is 180 days after closing. If more time is needed, a 180-day extension is available, providing up to 360 total days for replacement.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 485-A:39", "failed septic", "extension", "replacement"]
+    }
+  ]
+}

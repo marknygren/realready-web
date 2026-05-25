@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MS-07",
+  "scope": "state",
+  "state": "MS",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "MS-07.1",
+      "question_text": "Under Mississippi law, dual agency is permitted only when which condition is met?",
+      "correct_answer": "Both parties give written consent",
+      "distractors": ["The broker notifies MREC in advance", "One party gives verbal consent", "The transaction is under $250,000"],
+      "explanation": "Mississippi permits dual agency ONLY with the written consent of both parties. Verbal consent or consent from just one party is insufficient. The MREC Dual Agency Confirmation Form must be used.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["dual-agency", "written-consent", "requirements"]
+    },
+    {
+      "key_topic_ref": "MS-07.1",
+      "question_text": "Which form does MREC require to document dual agency in Mississippi?",
+      "correct_answer": "Dual Agency Confirmation Form",
+      "distractors": ["Form A: Working with a Broker", "Dual Representation Waiver Form", "Agency Disclosure Acknowledgment Form"],
+      "explanation": "MREC requires the Dual Agency Confirmation Form to document that both parties have consented to dual agency. This form is separate from Form A, which discloses agency types generally.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MREC", "dual-agency", "confirmation-form"]
+    },
+    {
+      "key_topic_ref": "MS-07.1",
+      "question_text": "A dual agent in Mississippi learns the buyer will pay more than the listed price. Can the agent share this with the seller?",
+      "correct_answer": "No, not without the buyer's consent",
+      "distractors": ["Yes, the seller is owed full disclosure", "Yes, if the agent discloses in writing", "Only if the offer exceeds list by 10%"],
+      "explanation": "A dual agent retains all fiduciary duties EXCEPT full disclosure and undivided loyalty. Confidential pricing and motivation information cannot be disclosed to the other party without that party's consent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["dual-agency", "confidentiality", "pricing"]
+    },
+    {
+      "key_topic_ref": "MS-07.1",
+      "question_text": "Which fiduciary duties does a Mississippi dual agent retain?",
+      "correct_answer": "All except full disclosure and loyalty",
+      "distractors": ["Only confidentiality and accounting", "All fiduciary duties without exception", "Only honesty and fair dealing duties"],
+      "explanation": "A dual agent retains all fiduciary duties EXCEPT full disclosure and undivided loyalty. The agent must still exercise reasonable care, maintain confidentiality, provide accountability, and obey lawful instructions.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["dual-agency", "fiduciary-duties", "limitations"]
+    },
+    {
+      "key_topic_ref": "MS-07.1",
+      "question_text": "A broker obtains the seller's written dual agency consent but not the buyer's. The broker proceeds with dual representation. What has occurred?",
+      "correct_answer": "A violation of Mississippi agency law",
+      "distractors": ["Valid dual agency with partial consent", "Automatic conversion to transaction broker", "Permissible if buyer consents verbally"],
+      "explanation": "Dual agency requires BOTH parties' written consent. Proceeding without the buyer's written consent is a violation of Mississippi law, regardless of the seller's consent or any verbal agreement from the buyer.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["dual-agency", "violation", "consent"]
+    },
+    {
+      "key_topic_ref": "MS-07.2",
+      "question_text": "A buyer signs a buyer-broker agreement in Mississippi and later decides to withdraw. How much written notice is required?",
+      "correct_answer": "15 days' written notice",
+      "distractors": ["7 days' written notice", "30 days' written notice", "Immediate upon verbal notice"],
+      "explanation": "In Mississippi, a buyer may withdraw from a buyer-broker agreement by providing 15 days' written notice. This gives the broker time to conclude any pending activities on the buyer's behalf.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer-broker", "withdrawal", "notice-period"]
+    },
+    {
+      "key_topic_ref": "MS-07.2",
+      "question_text": "Under the NAR settlement effective August 2024, what must occur before a buyer tours a property with an agent?",
+      "correct_answer": "A written buyer-broker agreement must be signed",
+      "distractors": ["The agent must verify buyer preapproval", "The listing broker must approve the showing", "The buyer must pay a refundable touring fee"],
+      "explanation": "The NAR settlement (August 2024) requires a written buyer-broker agreement before an agent can tour properties with a buyer. The agreement must also specify the compensation amount.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NAR-settlement", "buyer-broker", "touring"]
+    },
+    {
+      "key_topic_ref": "MS-07.2",
+      "question_text": "A buyer-broker agreement in Mississippi must specify which financial detail per the NAR settlement?",
+      "correct_answer": "The compensation amount",
+      "distractors": ["The maximum purchase price", "The earnest money deposit amount", "The buyer's credit score range"],
+      "explanation": "Per the NAR settlement, buyer-broker agreements must specify the compensation amount the buyer's agent will receive. This promotes transparency about agent compensation before representation begins.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NAR-settlement", "compensation", "buyer-broker"]
+    },
+    {
+      "key_topic_ref": "MS-07.2",
+      "question_text": "A buyer wants to cancel her buyer-broker agreement on Day 1 and stop working with her agent immediately. What is the earliest she can be released?",
+      "correct_answer": "Day 16 after written notice",
+      "distractors": ["Day 8 after written notice", "Immediately upon written notice", "Day 31 after written notice"],
+      "explanation": "Mississippi requires 15 days' written notice to withdraw from a buyer-broker agreement. If notice is given on Day 1, the earliest release date is Day 16. The buyer remains bound during the notice period.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["buyer-broker", "withdrawal", "calculation"]
+    },
+    {
+      "key_topic_ref": "MS-07.2",
+      "question_text": "A buyer's agent shows a property without a signed buyer-broker agreement after August 2024. This action is:",
+      "correct_answer": "A violation of NAR settlement requirements",
+      "distractors": ["Permissible for the first showing only", "Allowed if the buyer pays cash", "Acceptable with verbal agreement only"],
+      "explanation": "The NAR settlement effective August 2024 requires a written buyer-broker agreement before touring properties. Showing properties without one violates these requirements regardless of circumstance.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["NAR-settlement", "violation", "touring"]
+    },
+    {
+      "key_topic_ref": "MS-07.3",
+      "question_text": "Which fiduciary duty requires a Mississippi agent to follow the client's lawful instructions?",
+      "correct_answer": "Obedience",
+      "distractors": ["Loyalty", "Reasonable care", "Accountability"],
+      "explanation": "Obedience requires the agent to follow all lawful instructions from the client. The agent must comply with the client's directions as long as they do not violate the law or the agent's ethical obligations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fiduciary-duties", "obedience", "client-instructions"]
+    },
+    {
+      "key_topic_ref": "MS-07.3",
+      "question_text": "A listing agent discovers the roof has significant hidden damage. The agent owes which duty to a prospective unrepresented buyer?",
+      "correct_answer": "Disclosure of material facts",
+      "distractors": ["Undivided loyalty", "Obedience to buyer instructions", "Confidentiality of seller information"],
+      "explanation": "Agents owe ALL parties (regardless of representation) honesty, fair dealing, accurate information, and disclosure of material facts. Hidden roof damage is a material fact that must be disclosed even to unrepresented buyers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["material-facts", "general-duties", "unrepresented-buyer"]
+    },
+    {
+      "key_topic_ref": "MS-07.3",
+      "question_text": "Which duty does a Mississippi agent owe to ALL parties in a transaction, regardless of representation?",
+      "correct_answer": "Honesty and fair dealing",
+      "distractors": ["Undivided loyalty", "Obedience to instructions", "Full confidentiality"],
+      "explanation": "General duties owed to ALL parties include honesty, fair dealing, presenting accurate information, and disclosing material facts. Fiduciary duties like loyalty, obedience, and confidentiality are owed only to the agent's client.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["general-duties", "honesty", "fair-dealing"]
+    },
+    {
+      "key_topic_ref": "MS-07.3",
+      "question_text": "A buyer's agent discovers that a competing offer exists on a property. The agent must account for which duty when handling this information?",
+      "correct_answer": "Loyalty to the buyer client",
+      "distractors": ["Loyalty to the listing agent", "Confidentiality to the seller", "Obedience to the seller's agent"],
+      "explanation": "The buyer's agent owes undivided loyalty to the buyer. The agent must use this information to benefit the buyer and advise accordingly, while still maintaining honesty with all parties.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["loyalty", "fiduciary-duties", "competing-offers"]
+    },
+    {
+      "key_topic_ref": "MS-07.3",
+      "question_text": "An agent fails to account for $500 received from a client for a home inspection. Which fiduciary duty has been violated?",
+      "correct_answer": "Accountability",
+      "distractors": ["Obedience duty", "Loyalty to client", "Reasonable care"],
+      "explanation": "Accountability requires agents to properly account for all money and property entrusted to them. Failing to track and report client funds is a violation of this core fiduciary duty.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["accountability", "fiduciary-duties", "funds"]
+    }
+  ]
+}

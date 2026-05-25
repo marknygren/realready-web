@@ -1,0 +1,396 @@
+{
+  "standard_ref": "N-08",
+  "scope": "national",
+  "state": null,
+  "category": "valuation_appraisal",
+  "questions": [
+    {
+      "key_topic_ref": "N-08.1",
+      "question_text": "What is the FIRST step in the appraisal process?",
+      "correct_answer": "Define the problem",
+      "distractors": [
+        "Collect data",
+        "Apply the three approaches",
+        "Reconcile the value indicators"
+      ],
+      "explanation": "The appraisal process follows a defined sequence: (1) Define the problem, (2) Determine scope of work, (3) Collect and analyze data, (4) Apply the three approaches to value, (5) Reconcile value indicators, (6) Report the final estimate. Defining the problem must come first because everything else depends on it — what type of value is being estimated (market value? insurable value?), for what purpose (mortgage lending? estate tax?), and as of what date. Without a clear problem definition, the appraiser cannot determine what data to collect or which approaches are appropriate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "appraisal_process",
+        "steps",
+        "define_the_problem"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.1",
+      "question_text": "An appraisal report states an effective date of January 15. The appraiser performed the site inspection on January 10 but did not complete the written report until February 20. The value estimate in the report reflects:",
+      "correct_answer": "Market conditions as of January 15",
+      "distractors": [
+        "Market conditions as of January 10",
+        "Market conditions as of February 20",
+        "An average of market conditions from inspection to report date"
+      ],
+      "explanation": "The effective date of value is the specific date as of which the appraiser's opinion of value applies. It is a defined step in problem identification. The inspection date (when the appraiser visited) and the report date (when the document was completed) are separate from the effective date. This distinction matters when market conditions change rapidly — an appraisal effective January 15 reflects that market, not February's. Retrospective appraisals (effective date in the past) and prospective appraisals (effective date in the future) are also possible.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "appraisal_process",
+        "effective_date",
+        "report_date"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.2",
+      "question_text": "USPAP stands for:",
+      "correct_answer": "Uniform Standards of Professional Appraisal Practice",
+      "distractors": [
+        "Unified System of Property Appraisal and Pricing",
+        "U.S. Panel of Appraisal Professionals",
+        "Uniform Standards for Property Assessment and Pricing"
+      ],
+      "explanation": "USPAP (Uniform Standards of Professional Appraisal Practice) is developed and maintained by The Appraisal Foundation and sets the minimum ethical and performance standards for all real property appraisers in the U.S. Key USPAP requirements include: independence and objectivity (no advocacy for either party), no contingency fees based on a target value, competency (appraisers must be qualified for the assignment), and confidentiality. Appraisers who violate USPAP face license discipline, civil liability, and federal penalties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "USPAP",
+        "appraisal_standards",
+        "ethics"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.2",
+      "question_text": "A lender asks an appraiser to 'hit a number' — to appraise the property at exactly the agreed purchase price to ensure the loan goes through. The appraiser agrees. This violates USPAP because:",
+      "correct_answer": "USPAP requires independence",
+      "distractors": [
+        "USPAP requires completion within 30 days of the loan application",
+        "USPAP prohibits appraiser communication with lenders before the report",
+        "USPAP requires review by a second licensed appraiser before delivery"
+      ],
+      "explanation": "USPAP's independence requirement prohibits appraisers from allowing advocacy, bias, or external pressure to influence their value conclusion. Accepting a contingency fee (where compensation depends on achieving a specific value) or agreeing to a predetermined value are serious USPAP violations. This behavior — called 'appraisal fraud' or 'hitting the number' — contributed to the 2008 mortgage crisis. Appraisers who comply with such requests face license revocation, civil lawsuits, and potential criminal liability.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "USPAP",
+        "independence",
+        "appraisal_fraud",
+        "ethics"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.3",
+      "question_text": "FIRREA was passed primarily in response to:",
+      "correct_answer": "The savings and loan crisis of the 1980s",
+      "distractors": [
+        "The 2008 subprime mortgage crisis",
+        "The 1970s inflation crisis",
+        "Concerns about foreign investors overpaying for commercial real estate"
+      ],
+      "explanation": "FIRREA — the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 — was Congress's response to the savings and loan (S&L) crisis of the 1980s, during which hundreds of S&Ls failed due in part to inflated appraisals used to justify bad loans. FIRREA established federal oversight of the appraisal industry, requiring state licensing/certification of appraisers for federally related transactions, and created the Appraisal Subcommittee (ASC) to oversee state appraisal programs. The Appraisal Foundation was designated to set appraisal standards (USPAP) and qualifications criteria.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "FIRREA",
+        "federal_oversight",
+        "appraisal_regulation",
+        "history"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.3",
+      "question_text": "Under FIRREA, which transactions require an appraisal by a state-licensed or state-certified appraiser?",
+      "correct_answer": "Federally related transactions",
+      "distractors": [
+        "All real estate transactions regardless of financing",
+        "Only commercial transactions valued over $1 million",
+        "Only residential transactions using FHA or VA financing"
+      ],
+      "explanation": "FIRREA's appraisal requirements apply to 'federally related transactions' — real estate loans made, insured, or guaranteed by federally regulated financial institutions (banks, S&Ls, credit unions). Transactions below the de minimis threshold (currently $500,000 for most residential transactions, subject to change) may use a written evaluation instead of a full appraisal. Private cash transactions between private parties with no federally regulated lender involved are not technically required to use a FIRREA-compliant appraisal — though lenders almost always require one anyway for risk management.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "FIRREA",
+        "federally_related_transactions",
+        "appraisal_requirements"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.4",
+      "question_text": "A lender orders an appraisal for a standard residential mortgage. The most common report format the appraiser will use is:",
+      "correct_answer": "An Appraisal Report",
+      "distractors": [
+        "A Restricted Appraisal Report",
+        "A Letter of Opinion",
+        "A Feasibility Study"
+      ],
+      "explanation": "USPAP defines two report types: an Appraisal Report (detailed, containing sufficient information for the intended users to understand the analysis) and a Restricted Appraisal Report (abbreviated, intended only for the client). For standard residential mortgage lending, lenders require an Appraisal Report — specifically using standardized forms like the Uniform Residential Appraisal Report (URAR/Fannie Mae Form 1004). Restricted Appraisal Reports are not acceptable for most mortgage lending because secondary market buyers (Fannie Mae, Freddie Mac) require the full Appraisal Report.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "appraisal_reports",
+        "report_types",
+        "USPAP",
+        "mortgage_lending"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.1",
+      "question_text": "After defining the problem and determining the scope of work, the next step in the appraisal process is:",
+      "correct_answer": "Collecting and analyzing data about the property and market",
+      "distractors": [
+        "Reconciling the value indicators from the three approaches",
+        "Delivering the final report to the client and intended users",
+        "Selecting the single best comparable sale to determine value"
+      ],
+      "explanation": "The appraisal process steps are: (1) Define the problem, (2) Determine scope of work, (3) Collect and analyze data, (4) Apply approaches to value, (5) Reconcile, (6) Report. Data collection follows scope determination because the scope defines what data is needed. Data includes both general market data (economic conditions, neighborhood trends) and specific data (subject property details, comparable sales, costs, income).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "appraisal_process",
+        "steps",
+        "data_collection"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.1",
+      "question_text": "The FINAL step in the appraisal process is:",
+      "correct_answer": "Reporting the final value opinion to the client",
+      "distractors": [
+        "Reconciling the three approaches to value",
+        "Inspecting the subject property and comparables",
+        "Defining the problem and intended use of the appraisal"
+      ],
+      "explanation": "The appraisal process concludes with the report — the appraiser communicates the final opinion of value to the client and intended users. The report must comply with USPAP reporting standards and the scope of work agreed upon. Reconciliation is the second-to-last step (weighing the value indicators from different approaches). Inspection occurs during data collection. Problem definition is the first step.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "appraisal_process",
+        "report",
+        "final_step"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.1",
+      "question_text": "During the reconciliation step, an appraiser has values of $290,000 (sales comparison), $305,000 (cost), and $275,000 (income). The appraiser should:",
+      "correct_answer": "Weigh each approach based on reliability and select the most supported value",
+      "distractors": [
+        "Average all three values to arrive at a final estimate of $290,000",
+        "Always select the highest value to protect the buyer's investment",
+        "Use only the sales comparison approach because it is always reliable"
+      ],
+      "explanation": "Reconciliation is not averaging — it requires the appraiser to evaluate the reliability, relevance, and accuracy of each approach for the specific property type and intended use. For a single-family residence, the sales comparison approach usually receives the most weight. For new construction, the cost approach may be strongest. For income-producing properties, the income approach often dominates. The appraiser exercises professional judgment to arrive at a single, well-supported value opinion.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "appraisal_process",
+        "reconciliation",
+        "approaches_to_value"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.2",
+      "question_text": "USPAP's competency rule requires an appraiser to:",
+      "correct_answer": "Be qualified for the assignment or take steps to become competent",
+      "distractors": [
+        "Hold a minimum of 10 years of experience before accepting any assignment",
+        "Complete at least 20 comparable appraisals in the area before accepting",
+        "Refuse any assignment outside their immediate geographic area"
+      ],
+      "explanation": "The USPAP competency rule does not prohibit appraisers from accepting unfamiliar assignments — it requires them to either already be competent or to take steps to become competent before accepting the assignment (through research, education, or association with a qualified appraiser). This flexibility allows appraisers to expand their expertise while still protecting clients. An appraiser must disclose any lack of knowledge or experience in the appraisal report.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "USPAP",
+        "competency_rule",
+        "appraiser_qualifications"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.2",
+      "question_text": "Which organization develops and maintains USPAP?",
+      "correct_answer": "The Appraisal Foundation",
+      "distractors": [
+        "The National Association of Realtors",
+        "The Federal Housing Administration",
+        "The Consumer Financial Protection Bureau"
+      ],
+      "explanation": "The Appraisal Foundation, authorized by Congress through FIRREA, develops and maintains USPAP through its Appraisal Standards Board (ASB). The Foundation also sets minimum appraiser qualification criteria through its Appraiser Qualifications Board (AQB). NAR is a trade organization for real estate agents. FHA insures mortgages. CFPB regulates consumer financial products. The Appraisal Foundation is the sole source of USPAP standards.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "USPAP",
+        "Appraisal_Foundation",
+        "regulation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.2",
+      "question_text": "An appraiser discovers during their analysis that the subject property's value is significantly less than the contract price. Under USPAP, the appraiser must:",
+      "correct_answer": "Report the honest value opinion",
+      "distractors": [
+        "Contact the lender for guidance on adjusting the value upward",
+        "Withdraw from the assignment to avoid disrupting the transaction",
+        "Report the contract price since the market has spoken through the offer"
+      ],
+      "explanation": "USPAP requires objectivity and integrity — the appraiser must report their honest opinion of value regardless of the impact on the transaction. An appraiser who inflates a value to save a deal violates the ethics rule and faces disciplinary action. The appraiser is not an advocate for the buyer, seller, or lender. If the appraised value comes in below the contract price, the parties can renegotiate, the buyer can increase their down payment, or the deal may fall through — but the appraiser's job is accurate valuation.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "USPAP",
+        "objectivity",
+        "ethics",
+        "low_appraisal"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.3",
+      "question_text": "FIRREA stands for:",
+      "correct_answer": "Financial Institutions Reform, Recovery, and Enforcement Act",
+      "distractors": [
+        "Federal Insurance Rate and Evaluation Act",
+        "Financial Intermediary Regulation and Examination Act",
+        "Federal Institutional Real Estate Assessment Act"
+      ],
+      "explanation": "FIRREA — the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 — was passed in response to the savings and loan crisis. It established federal oversight of the appraisal profession, requiring that appraisals for federally related transactions be performed by state-licensed or state-certified appraisers. FIRREA also created the Resolution Trust Corporation to handle failed S&L assets and reorganized the federal bank regulatory structure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "FIRREA",
+        "acronym",
+        "federal_law"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.3",
+      "question_text": "The Appraisal Subcommittee (ASC), established by FIRREA, is responsible for:",
+      "correct_answer": "Overseeing state appraiser regulatory programs for federal compliance",
+      "distractors": [
+        "Performing appraisals on behalf of federal agencies and lenders",
+        "Setting interest rates for federally related mortgage transactions",
+        "Licensing real estate agents who also perform appraisal services"
+      ],
+      "explanation": "The ASC monitors state appraiser regulatory programs to ensure they comply with Title XI of FIRREA. It does not perform appraisals, set interest rates, or license real estate agents. The ASC verifies that states properly license and certify appraisers, investigate complaints, and enforce standards. It reports to Congress on the effectiveness of state programs and can sanction states that fail to maintain adequate appraiser oversight.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "FIRREA",
+        "ASC",
+        "appraiser_oversight",
+        "state_regulation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.3",
+      "question_text": "A cash buyer purchases a home from a private seller without using a bank or any other federally regulated lender. Under FIRREA, is a formal appraisal required?",
+      "correct_answer": "No",
+      "distractors": [
+        "Yes",
+        "Yes",
+        "No, but the buyer must obtain a written evaluation from a licensed appraiser"
+      ],
+      "explanation": "FIRREA's appraisal requirements are triggered only when a federally regulated financial institution is involved in the transaction (making, insuring, or guaranteeing a real estate loan). A private cash sale between individuals with no federally regulated lender involvement does not trigger FIRREA requirements. The buyer may choose to obtain an appraisal for their own protection, but it is not legally required. Tax basis is established by the purchase price, not by an appraisal.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "FIRREA",
+        "cash_sale",
+        "exemptions",
+        "federally_related"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.4",
+      "question_text": "A Restricted Appraisal Report under USPAP differs from an Appraisal Report in that a Restricted Report:",
+      "correct_answer": "Is intended only for the client and contains less detail",
+      "distractors": [
+        "Is the standard format for all residential mortgage lending",
+        "Does not require the appraiser to follow USPAP standards",
+        "Can be prepared by a real estate agent instead of an appraiser"
+      ],
+      "explanation": "Under USPAP, a Restricted Appraisal Report is abbreviated and intended only for the client — it cannot be shared with other intended users without upgrading to an Appraisal Report. It contains less detail but must still comply with USPAP. Most residential mortgage lenders require a full Appraisal Report (not restricted) because secondary market investors need the detailed analysis. Restricted reports are sometimes used for estate planning, litigation consulting, or other private purposes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "appraisal_reports",
+        "restricted_report",
+        "USPAP"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.4",
+      "question_text": "The Uniform Residential Appraisal Report (URAR) form is also known as:",
+      "correct_answer": "Fannie Mae Form 1004 / Freddie Mac Form 70",
+      "distractors": [
+        "HUD Settlement Statement Form 1 / Form HUD-1",
+        "RESPA Good Faith Estimate Form 2530",
+        "FHA Property Inspection Report Form 92051"
+      ],
+      "explanation": "The URAR is the standardized appraisal form required by Fannie Mae (Form 1004) and Freddie Mac (Form 70) for single-family residential appraisals. It is the most commonly used appraisal form for conventional residential mortgage lending. The form includes sections for property description, neighborhood analysis, comparable sales, reconciliation, and the appraiser's opinion of value. HUD-1 is a settlement statement. The other form numbers are fabricated distractors.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "appraisal_reports",
+        "URAR",
+        "Fannie_Mae",
+        "Form_1004"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.4",
+      "question_text": "An appraiser is hired to provide a value opinion for an estate settlement. The appraisal will be used only by the attorney and the executor. The MOST appropriate report type is:",
+      "correct_answer": "Either an Appraisal Report or Restricted Report, depending on needs",
+      "distractors": [
+        "Only a full Appraisal Report; USPAP prohibits Restricted Reports for estates",
+        "Only a Restricted Report; estate appraisals are always limited in scope",
+        "A broker price opinion; appraisals are only required for mortgage lending"
+      ],
+      "explanation": "For a private assignment like estate settlement, either USPAP report type may be appropriate. If only the attorney and executor will use the report (limited intended users), a Restricted Appraisal Report may suffice — it's less expensive and faster. If the report may need to be shared with courts, beneficiaries, or tax authorities, an Appraisal Report provides the detail needed for broader use. The choice depends on the intended use and intended users.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "appraisal_reports",
+        "estate_settlement",
+        "report_selection"
+      ]
+    },
+    {
+      "key_topic_ref": "N-08.4",
+      "question_text": "Which of the following is NOT a type of appraisal report recognized by USPAP?",
+      "correct_answer": "A verbal estimate given over the phone with no written documentation",
+      "distractors": [
+        "An Appraisal Report with full detail for clients and intended users",
+        "A Restricted Appraisal Report intended only for the client's use",
+        "An oral report supported by a workfile maintained by the appraiser"
+      ],
+      "explanation": "USPAP actually does recognize oral reports as a valid communication method — but they must be supported by a workfile containing the same data and analysis as a written report. A casual verbal estimate with no documentation is not a USPAP-compliant report. USPAP requires that all appraisal opinions be supportable and documented, regardless of the communication method. The two written report types are the Appraisal Report and the Restricted Appraisal Report.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "appraisal_reports",
+        "USPAP",
+        "oral_report",
+        "workfile"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NM-12",
+  "scope": "state",
+  "state": "NM",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NM-12.1",
+      "question_text": "Under NM's prior appropriation doctrine, who owns all water in the state?",
+      "correct_answer": "The public (the state)",
+      "distractors": ["The property owner where water is located", "The federal government", "The county where water flows"],
+      "explanation": "In New Mexico, all water belongs to the public (the state). Private parties acquire the right to use water, not ownership of the water itself.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water rights", "public ownership", "prior appropriation"]
+    },
+    {
+      "key_topic_ref": "NM-12.1",
+      "question_text": "Under prior appropriation, when two water users compete for the same source, priority goes to:",
+      "correct_answer": "The user who first put water to beneficial use",
+      "distractors": ["The user whose property is closest to the source", "The user with the larger property", "The user who filed the most recent permit"],
+      "explanation": "Prior appropriation follows 'first in time, first in right.' The user who first put water to beneficial use has priority, regardless of property location or size.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["prior appropriation", "first in time", "priority"]
+    },
+    {
+      "key_topic_ref": "NM-12.1",
+      "question_text": "Water rights in NM are treated as:",
+      "correct_answer": "Separate from land ownership",
+      "distractors": ["Automatically included with land ownership", "Part of mineral rights", "Owned by the county government"],
+      "explanation": "In NM, water rights are separate from land ownership and can be sold, leased, or transferred independently. A land sale does not automatically include water rights.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water rights", "separate from land", "transferable"]
+    },
+    {
+      "key_topic_ref": "NM-12.1",
+      "question_text": "Which state office administers water rights and adjudicates disputes in NM?",
+      "correct_answer": "The Office of the State Engineer",
+      "distractors": ["The NM Environment Department", "The NM Real Estate Commission", "The county water authority"],
+      "explanation": "The Office of the State Engineer (OSE) administers water rights, issues permits, and adjudicates water disputes in New Mexico.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["OSE", "water administration", "state engineer"]
+    },
+    {
+      "key_topic_ref": "NM-12.1",
+      "question_text": "A buyer purchases rural land in NM but does not verify water rights. The buyer may discover:",
+      "correct_answer": "The land has no legal right to use water",
+      "distractors": ["Water rights always transfer with the land", "The county will provide water automatically", "Federal law guarantees rural water access"],
+      "explanation": "Because water rights are separate from land ownership in NM, a buyer must verify water availability and legal rights. Purchasing land does not guarantee water access.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["water rights", "due diligence", "buyer risk"]
+    },
+    {
+      "key_topic_ref": "NM-12.2",
+      "question_text": "In NM, a domestic well for household use can generally be drilled without a permit if usage does not exceed:",
+      "correct_answer": "3 acre-feet per year",
+      "distractors": ["1 acre-foot per year", "5 acre-feet per year", "10 acre-feet per year"],
+      "explanation": "Domestic wells for household use up to 3 acre-feet per year can generally be drilled without an OSE permit. Larger groundwater uses require a permit.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["domestic well", "3 acre-feet", "permit exempt"]
+    },
+    {
+      "key_topic_ref": "NM-12.2",
+      "question_text": "A farmer wants to divert water from a NM river for irrigation. The farmer must first obtain a permit from:",
+      "correct_answer": "The Office of the State Engineer",
+      "distractors": ["The county water district", "The NM Environment Department", "The US Army Corps of Engineers"],
+      "explanation": "Surface water rights require a permit from the Office of the State Engineer. All surface water diversions in NM must be permitted through the OSE.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["surface water", "permit", "OSE"]
+    },
+    {
+      "key_topic_ref": "NM-12.2",
+      "question_text": "Acequia systems in NM are:",
+      "correct_answer": "Traditional community irrigation ditches in NM law",
+      "distractors": ["Modern municipal water treatment plant facilities", "Federal government water distribution network systems", "Private wells shared between two adjoining properties"],
+      "explanation": "Acequias are traditional community irrigation ditch systems with roots in Spanish colonial law. NM law recognizes acequia associations and their authority to govern water distribution among members.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["acequia", "irrigation", "community"]
+    },
+    {
+      "key_topic_ref": "NM-12.2",
+      "question_text": "A property is located within an acequia association's territory. Water distribution among members is governed by:",
+      "correct_answer": "The acequia association",
+      "distractors": ["The county water department", "The Office of the State Engineer directly", "Each property owner independently"],
+      "explanation": "Acequia associations govern water distribution among their members. These associations have legal authority under NM law to manage water allocation within their ditch systems.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["acequia", "governance", "water distribution"]
+    },
+    {
+      "key_topic_ref": "NM-12.2",
+      "question_text": "A rancher wants to drill a commercial well to irrigate 100 acres. Unlike a domestic well, this use:",
+      "correct_answer": "Requires an OSE permit",
+      "distractors": ["Is exempt if on the rancher's own land", "Only needs county approval", "Is automatically granted upon application"],
+      "explanation": "Commercial and agricultural water uses exceeding 3 acre-feet per year require a permit from the OSE. The domestic well exemption only covers household use up to 3 acre-feet.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commercial well", "OSE permit", "irrigation"]
+    },
+    {
+      "key_topic_ref": "NM-12.3",
+      "question_text": "Which state agency regulates septic systems in NM?",
+      "correct_answer": "The NM Environment Department (NMED)",
+      "distractors": ["The NM Real Estate Commission", "The county health department only", "The Office of the State Engineer"],
+      "explanation": "NMED regulates liquid waste disposal, including septic systems. Permits for installation and modification must comply with NMED regulations.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["septic", "NMED", "regulation"]
+    },
+    {
+      "key_topic_ref": "NM-12.3",
+      "question_text": "A homeowner wants to install a new septic system on their NM property. What must they obtain first?",
+      "correct_answer": "A permit from NMED",
+      "distractors": ["Only a building permit from the county", "Approval from the HOA board", "A variance from the zoning commission"],
+      "explanation": "Septic system installation requires a permit from NMED (New Mexico Environment Department). The system must comply with NMED regulations for setbacks, soil type, and capacity.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["septic", "permit", "installation"]
+    },
+    {
+      "key_topic_ref": "NM-12.3",
+      "question_text": "When selling a property with a septic system in NM, the seller should:",
+      "correct_answer": "Disclose the type and condition of the system",
+      "distractors": ["Replace the system before closing", "Provide a 5-year warranty on the system", "Obtain a new NMED permit for the buyer"],
+      "explanation": "Sellers should disclose the type and condition of septic systems to buyers. This allows buyers to evaluate the system and plan for any necessary inspections or repairs.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["septic", "disclosure", "seller duty"]
+    },
+    {
+      "key_topic_ref": "NM-12.3",
+      "question_text": "A septic system permit in NM must ensure compliance with regulations regarding:",
+      "correct_answer": "Setbacks, soil type, and system capacity",
+      "distractors": ["Only the distance from the property line", "Only the number of bedrooms in the house", "Only the depth of the water table"],
+      "explanation": "NMED septic regulations address setbacks (distance from wells, property lines, water sources), soil type (percolation ability), and system capacity (based on home size and expected use).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["septic", "compliance", "regulations"]
+    },
+    {
+      "key_topic_ref": "NM-12.3",
+      "question_text": "A buyer is purchasing a rural NM property not connected to municipal sewer. The buyer should be aware that:",
+      "correct_answer": "The property likely relies on a septic system",
+      "distractors": ["NM law prohibits septic systems on rural land", "The county provides free sewer connections", "Septic systems are not regulated in rural areas"],
+      "explanation": "Properties not connected to municipal sewer systems require septic systems in NM. NMED regulates these systems, and buyers should verify the system's compliance and condition.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["septic", "rural property", "buyer awareness"]
+    }
+  ]
+}

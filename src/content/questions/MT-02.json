@@ -1,0 +1,228 @@
+{
+  "standard_ref": "MT-02",
+  "scope": "state",
+  "state": "MT",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "MT-02.1",
+      "question_text": "Which activity requires a Montana real estate license?",
+      "correct_answer": "Negotiating a sale for compensation",
+      "distractors": ["Selling your own property", "Giving free advice to a neighbor", "Appraising property for a lender"],
+      "explanation": "Negotiating a real estate sale for compensation on behalf of another person requires a Montana real estate license. Selling one's own property, giving free advice, and appraising are not activities requiring a real estate license.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["licensing", "licensed activities"]
+    },
+    {
+      "key_topic_ref": "MT-02.1",
+      "question_text": "A Montana investor hires someone to collect rent on 10 rental units. Does the rent collector need a license?",
+      "correct_answer": "Yes, a property management license is needed",
+      "distractors": ["No, rent collection is exempt from licensing", "Only if managing more than 20 rental units", "Only a salesperson license is needed"],
+      "explanation": "Under Montana law (Title 37, Chapter 56), property management is a separately licensed activity. Collecting rent for compensation on behalf of another requires a property management license, regardless of the number of units.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "licensing", "rent collection"]
+    },
+    {
+      "key_topic_ref": "MT-02.1",
+      "question_text": "Which person is EXEMPT from Montana real estate licensing requirements?",
+      "correct_answer": "An owner selling their own property",
+      "distractors": ["A paid referral agent for buyers", "A friend negotiating a sale for a fee", "A consultant listing homes for commission"],
+      "explanation": "Under MCA 37-51-103, property owners selling their own real estate are exempt from licensing. Persons who negotiate, list, or refer for compensation on behalf of others must hold a license.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemptions", "licensed activities", "owner sales"]
+    },
+    {
+      "key_topic_ref": "MT-02.1",
+      "question_text": "A property owner hires someone to collect rent and manage five residential units for a monthly fee. What license does Montana require?",
+      "correct_answer": "A property management license",
+      "distractors": ["A real estate salesperson license", "A general business license only", "No license is needed for rentals"],
+      "explanation": "Montana requires a separate property management license for those who collect rent and manage properties for others. This is distinct from the real estate broker or salesperson license and is governed by a separate statute.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "licensing", "separate license"]
+    },
+    {
+      "key_topic_ref": "MT-02.1",
+      "question_text": "A homeowner asks a friend who holds no license to list her house for sale and offers a $2,000 fee. Is this lawful?",
+      "correct_answer": "No, listing for compensation requires a license",
+      "distractors": ["Yes, friends are exempt from licensing rules", "Yes, if the fee is under $5,000 total", "Only if the friend advertises the property"],
+      "explanation": "Listing real property for sale on behalf of another person for compensation is a licensed activity in Montana regardless of the relationship between the parties. The friend would need a valid real estate license.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["listing", "licensed activities", "compensation"]
+    },
+    {
+      "key_topic_ref": "MT-02.2",
+      "question_text": "What is the minimum age to obtain a Montana salesperson license?",
+      "correct_answer": "18 years old",
+      "distractors": ["19 years old", "21 years old", "16 years old"],
+      "explanation": "Montana requires salesperson license applicants to be at least 18 years of age. This is consistent with many other states' minimum age requirements for real estate licensure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["salesperson", "age requirement", "pre-licensing"]
+    },
+    {
+      "key_topic_ref": "MT-02.2",
+      "question_text": "How many hours of pre-license education must a Montana salesperson candidate complete?",
+      "correct_answer": "70 hours",
+      "distractors": ["60 hours", "90 hours", "120 hours"],
+      "explanation": "Montana requires 70 hours of approved pre-license education for salesperson applicants. This education must be completed before the candidate can sit for the licensing examination.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license education", "salesperson", "hours"]
+    },
+    {
+      "key_topic_ref": "MT-02.2",
+      "question_text": "A salesperson has been actively licensed for 18 months and wants to become a broker. Does she meet the experience requirement?",
+      "correct_answer": "No, she needs 2 years of active experience",
+      "distractors": ["Yes, 18 months is sufficient experience", "Yes, if she completes extra education", "No, 3 years of experience is required"],
+      "explanation": "Montana requires a minimum of 2 years of active experience as a licensed salesperson before an individual can apply for a broker license. At 18 months, she has not yet met this requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker license", "experience requirement", "upgrade"]
+    },
+    {
+      "key_topic_ref": "MT-02.2",
+      "question_text": "A newly licensed salesperson wants to begin practicing immediately. What must she have in addition to passing the exam?",
+      "correct_answer": "A sponsoring broker",
+      "distractors": ["A business license from the county", "Two years of college education", "Membership in the local MLS"],
+      "explanation": "A Montana salesperson must be affiliated with a sponsoring broker before engaging in any real estate activity. The salesperson cannot practice independently; all activity must be under broker supervision.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["sponsoring broker", "new licensee", "practice requirements"]
+    },
+    {
+      "key_topic_ref": "MT-02.2",
+      "question_text": "What is the minimum education prerequisite for a Montana salesperson applicant?",
+      "correct_answer": "2 years of high school",
+      "distractors": ["High school diploma or GED", "Associate degree", "No education requirement"],
+      "explanation": "Montana requires salesperson applicants to have completed at least 2 years of high school education. This is a lower threshold than many states that require a full diploma or equivalent.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["education prerequisite", "salesperson", "eligibility"]
+    },
+    {
+      "key_topic_ref": "MT-02.3",
+      "question_text": "When must Montana real estate licenses be renewed each year?",
+      "correct_answer": "October 31",
+      "distractors": ["December 31", "June 30", "March 31"],
+      "explanation": "Montana real estate licenses must be renewed annually by October 31. The licensing year runs from November 1 through October 31 of the following year.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["renewal", "deadline", "licensing year"]
+    },
+    {
+      "key_topic_ref": "MT-02.3",
+      "question_text": "A Montana salesperson fails to renew by October 31. What happens to her license?",
+      "correct_answer": "It becomes inactive",
+      "distractors": ["It is automatically revoked", "It transfers to the state", "It remains active for 30 more days"],
+      "explanation": "A Montana license that is not renewed by October 31 becomes inactive. The licensee cannot practice until the renewal is completed. Inactive status can be maintained for a limited period before re-examination is required.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["renewal", "inactive status", "deadline"]
+    },
+    {
+      "key_topic_ref": "MT-02.3",
+      "question_text": "A Montana salesperson completed 8 hours of CE by September. How many more hours are needed before October 31?",
+      "correct_answer": "4 hours",
+      "distractors": ["2 hours", "6 hours", "No additional hours needed"],
+      "explanation": "Montana requires 12 hours of continuing education per licensing year, which ends October 31. With 8 hours completed, the salesperson needs 4 more hours to meet the 12-hour annual requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["continuing education", "hours", "renewal deadline"]
+    },
+    {
+      "key_topic_ref": "MT-02.3",
+      "question_text": "How many hours of continuing education does Montana require annually for license renewal?",
+      "correct_answer": "12 hours",
+      "distractors": ["8 hours", "16 hours", "24 hours"],
+      "explanation": "Montana requires 12 hours of approved continuing education annually for license renewal. Supervising brokers must complete at least 4 of those 12 hours in supervision-related education.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["continuing education", "hours", "renewal"]
+    },
+    {
+      "key_topic_ref": "MT-02.3",
+      "question_text": "How long is Montana pre-license education valid before a candidate must pass the exam?",
+      "correct_answer": "24 months from course completion",
+      "distractors": ["12 months from course completion", "36 months from course completion", "There is no expiration date"],
+      "explanation": "Montana pre-license education is valid for 24 months from the date of completion. If a candidate does not pass the licensing exam within that window, the education must be retaken.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["pre-license education", "validity period", "exam deadline"]
+    },
+    {
+      "key_topic_ref": "MT-02.4",
+      "question_text": "A Montana salesperson changes her home address. How quickly must she notify the Board?",
+      "correct_answer": "Within 30 days",
+      "distractors": ["Within 10 days", "Within 60 days", "At next renewal"],
+      "explanation": "Montana licensees must notify the Board of any address change within 30 days. Failure to provide timely notice may result in disciplinary action.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["address change", "HB 276", "notification"]
+    },
+    {
+      "key_topic_ref": "MT-02.4",
+      "question_text": "A salesperson leaves her sponsoring broker but has not yet affiliated with a new one. What is her license status?",
+      "correct_answer": "Inactive",
+      "distractors": ["Active until renewal date", "Suspended for 90 days", "Automatically revoked"],
+      "explanation": "When a Montana salesperson leaves her sponsoring broker, her license becomes inactive until she affiliates with a new broker. She cannot conduct any real estate activities during this period.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["license status", "inactive", "broker change"]
+    },
+    {
+      "key_topic_ref": "MT-02.4",
+      "question_text": "When a salesperson transfers to a new brokerage in Montana, what must the FORMER broker do?",
+      "correct_answer": "Return the salesperson's license to the Board",
+      "distractors": ["Transfer the license to the new broker", "Notify the salesperson's clients directly", "File a termination report with the MLS"],
+      "explanation": "When a salesperson leaves a brokerage, the former broker must return the salesperson's license to the Board. The new broker then notifies the Board of the new affiliation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["broker change", "license return", "Board"]
+    },
+    {
+      "key_topic_ref": "MT-02.4",
+      "question_text": "Where must a Montana licensee's license certificate be kept?",
+      "correct_answer": "Displayed at the brokerage office",
+      "distractors": ["Kept in the licensee's personal files", "Filed with the county clerk", "Carried on the licensee's person"],
+      "explanation": "Montana requires that license certificates be displayed at the brokerage office where the licensee is affiliated. This allows consumers and the Board to verify active licensure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["license display", "brokerage office", "compliance"]
+    },
+    {
+      "key_topic_ref": "MT-02.4",
+      "question_text": "A broker closes her firm and two salespersons are affiliated with her. What must the broker do with the salesperson licenses?",
+      "correct_answer": "Return them to the Board promptly",
+      "distractors": ["Give them to the salespersons directly", "Shred them for privacy protection", "Hold them until new brokers are found"],
+      "explanation": "When a brokerage closes, the broker is required to return all affiliated salesperson licenses to the Board. The salespersons' licenses become inactive until they affiliate with a new broker.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker closure", "license return", "Board"]
+    }
+  ]
+}

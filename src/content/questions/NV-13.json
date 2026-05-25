@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NV-13",
+  "scope": "state",
+  "state": "NV",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NV-13.1",
+      "question_text": "A Nevada licensee needs to add special terms to a purchase agreement. What is the licensee permitted to do?",
+      "correct_answer": "Fill in blanks on approved forms only",
+      "distractors": ["Draft a custom addendum for the client", "Modify pre-printed contract provisions", "Write a new clause and initial it"],
+      "explanation": "Nevada licensees may only fill in blanks on approved forms. They cannot draft legal documents, modify pre-printed provisions, or give legal advice. Custom addenda or clause modifications constitute unauthorized practice of law and should be handled by an attorney.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["documents", "approved-forms", "practice-of-law"]
+    },
+    {
+      "key_topic_ref": "NV-13.1",
+      "question_text": "A buyer asks their Nevada agent to explain the legal implications of a contract clause. What should the agent do?",
+      "correct_answer": "Refer the buyer to a licensed attorney",
+      "distractors": ["Provide a written legal interpretation", "Explain the clause based on experience", "Delete the clause from the contract"],
+      "explanation": "Giving legal advice is unauthorized practice of law for a real estate licensee. The agent should refer the buyer to a licensed attorney for legal interpretation. While agents can explain the general purpose of form provisions, they must not interpret legal implications or advise on legal rights.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["documents", "legal-advice", "referral"]
+    },
+    {
+      "key_topic_ref": "NV-13.1",
+      "question_text": "After completing a transaction document, what must a Nevada licensee do with it?",
+      "correct_answer": "Promptly deliver it to the broker",
+      "distractors": ["File it with the county recorder", "Send it to the Real Estate Division", "Hold it until the closing date"],
+      "explanation": "All transaction documents must be promptly delivered to the broker. The broker is responsible for maintaining complete transaction files. Licensees should not hold documents — timely submission ensures proper oversight and record keeping.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["documents", "broker", "record-keeping"]
+    },
+    {
+      "key_topic_ref": "NV-13.1",
+      "question_text": "A Nevada salesperson crosses out a pre-printed clause in a purchase agreement and writes in a replacement. This action is:",
+      "correct_answer": "Unauthorized practice of law",
+      "distractors": ["Permitted if both parties initial it", "Allowed with broker approval only", "Required when terms are outdated"],
+      "explanation": "Modifying pre-printed provisions on approved forms constitutes unauthorized practice of law. Nevada licensees may only fill in blanks on approved forms. Any substantive changes to pre-printed contract language should be drafted by an attorney. Even initialing by both parties does not make this permissible for a licensee.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["documents", "practice-of-law", "violations"]
+    },
+    {
+      "key_topic_ref": "NV-13.1",
+      "question_text": "Which activity is within a Nevada licensee's authorized scope regarding documents?",
+      "correct_answer": "Inserting the closing date on a form",
+      "distractors": ["Drafting a lease termination agreement", "Writing a property easement document", "Creating a custom disclosure form"],
+      "explanation": "Licensees may fill in blanks on approved forms, such as inserting dates, names, addresses, and prices. Drafting lease terminations, easement documents, or custom disclosure forms are all forms of legal document preparation that only attorneys may perform.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["documents", "approved-forms", "scope"]
+    },
+    {
+      "key_topic_ref": "NV-13.2",
+      "question_text": "In a Nevada closing, who typically handles the settlement process?",
+      "correct_answer": "An escrow or title company",
+      "distractors": ["The buyer's real estate attorney", "The county clerk's office", "The Real Estate Division"],
+      "explanation": "Nevada uses escrow companies or title companies to handle closings, not attorneys. This is different from some eastern states where attorney closings are required. The escrow/title company prepares the settlement statement, collects funds, and distributes proceeds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["settlement", "escrow", "closing"]
+    },
+    {
+      "key_topic_ref": "NV-13.2",
+      "question_text": "Property taxes of $3,600 are due for the year. Closing is on April 1. Using a 360-day year, what is the seller's prorated share?",
+      "correct_answer": "$900",
+      "distractors": ["$2,700", "$1,200", "$300"],
+      "explanation": "The seller owes for January through March (3 months). Using a 360-day year: $3,600 / 12 months = $300/month x 3 months = $900. The buyer would be credited $900 at closing since the seller occupied the property for the first quarter.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["settlement", "prorations", "math"]
+    },
+    {
+      "key_topic_ref": "NV-13.2",
+      "question_text": "On a Nevada settlement statement, the seller's existing mortgage payoff appears as which type of entry?",
+      "correct_answer": "A debit to the seller",
+      "distractors": ["A credit to the seller", "A debit to the buyer", "A credit to the buyer"],
+      "explanation": "The seller's mortgage payoff is money owed by the seller, so it appears as a debit (charge) to the seller on the settlement statement. This reduces the seller's net proceeds. It is not a buyer obligation since the buyer typically obtains their own new financing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["settlement", "debits-credits", "mortgage"]
+    },
+    {
+      "key_topic_ref": "NV-13.2",
+      "question_text": "Both parties in a Nevada transaction must receive which document at closing?",
+      "correct_answer": "A settlement statement",
+      "distractors": ["A broker price opinion", "A Consent to Act form", "A title commitment letter"],
+      "explanation": "Both buyer and seller must receive a settlement statement that accurately accounts for all debits and credits. The settlement statement is the final accounting document showing each party's financial obligations and proceeds from the transaction.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["settlement", "closing", "documentation"]
+    },
+    {
+      "key_topic_ref": "NV-13.2",
+      "question_text": "In a Nevada settlement, the earnest money deposit appears as what for the buyer?",
+      "correct_answer": "A credit to the buyer",
+      "distractors": ["A debit to the buyer", "A credit to the seller", "Neither a debit nor credit"],
+      "explanation": "The earnest money deposit has already been paid by the buyer, so it appears as a credit (reducing the amount the buyer still owes at closing). It is also a credit to the seller since it is part of the purchase price being applied toward the sale.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["settlement", "earnest-money", "debits-credits"]
+    },
+    {
+      "key_topic_ref": "NV-13.3",
+      "question_text": "Nevada is classified as which type of recording state?",
+      "correct_answer": "Race-notice",
+      "distractors": ["Pure race", "Pure notice", "Race only"],
+      "explanation": "Nevada is a race-notice recording state. This means the first party to record in good faith and for value wins priority. Both elements are required — the party must record first (race) AND must not have notice of a prior unrecorded interest (notice).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "title"]
+    },
+    {
+      "key_topic_ref": "NV-13.3",
+      "question_text": "A married couple in Nevada wants to sell their home purchased during the marriage. Who must sign the deed?",
+      "correct_answer": "Both spouses",
+      "distractors": ["Only the spouse on the title", "Only the spouse who earned more", "Either spouse may sign alone"],
+      "explanation": "Nevada is a community property state. Property acquired during marriage is presumed community property, and both spouses must consent to sell or encumber community real property. Even if only one spouse is on the title, the other spouse's signature is required for a valid conveyance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["community-property", "marriage", "deeds"]
+    },
+    {
+      "key_topic_ref": "NV-13.3",
+      "question_text": "A Nevada husband inherits a cabin from his parents during the marriage. This property is classified as:",
+      "correct_answer": "Separate property",
+      "distractors": ["Community property", "Joint tenancy property", "Tenancy in common property"],
+      "explanation": "In Nevada's community property system, property received as a gift or inheritance during marriage is classified as separate property, not community property. Only property acquired through the efforts of either spouse during the marriage is presumed community property.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["community-property", "separate-property", "inheritance"]
+    },
+    {
+      "key_topic_ref": "NV-13.3",
+      "question_text": "In Nevada, a buyer purchases property but fails to record the deed. A subsequent good-faith buyer records first. Who has priority?",
+      "correct_answer": "The subsequent buyer who recorded first",
+      "distractors": ["The first buyer regardless of recording", "Neither buyer until a court decides", "The buyer with the higher purchase price"],
+      "explanation": "Under Nevada's race-notice recording system, the first to record in good faith and for value wins. Since the subsequent buyer had no notice of the prior unrecorded deed and recorded first, they have priority. This illustrates why prompt recording is essential in Nevada.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "priority"]
+    },
+    {
+      "key_topic_ref": "NV-13.3",
+      "question_text": "Which form of property protection is standard practice in Nevada real estate transactions?",
+      "correct_answer": "Title insurance",
+      "distractors": ["Attorney opinion letters", "Torrens certificates", "Abstract continuations"],
+      "explanation": "Title insurance is standard practice in Nevada real estate transactions. It protects buyers and lenders against losses from title defects. Unlike some states that rely on attorney opinions or abstract-and-opinion systems, Nevada's title companies provide both the title search and insurance policy.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title", "insurance", "closing"]
+    }
+  ]
+}

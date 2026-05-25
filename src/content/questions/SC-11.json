@@ -1,0 +1,173 @@
+{
+  "standard_ref": "SC-11",
+  "scope": "state",
+  "state": "SC",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "SC-11.1",
+      "question_text": "In SC, owner-occupied residential property is assessed at what percentage of fair market value?",
+      "correct_answer": "4%",
+      "distractors": ["6%", "10%", "15%"],
+      "explanation": "Owner-occupied residential property in SC is assessed at 4% of fair market value. This is one of the lowest assessment ratios — commercial property is assessed at 6%, and manufacturing/utility at 10.5%.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["assessment ratio", "residential", "4%"]
+    },
+    {
+      "key_topic_ref": "SC-11.1",
+      "question_text": "A commercial rental property in SC has a fair market value of $500,000. What is its assessed value?",
+      "correct_answer": "$30,000",
+      "distractors": ["$20,000", "$50,000", "$52,500"],
+      "explanation": "Commercial and rental real property is assessed at 6% of FMV. $500,000 × 6% = $30,000 assessed value. Owner-occupied residential would be 4%, and manufacturing would be 10.5%.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["assessment ratio", "commercial", "calculation"]
+    },
+    {
+      "key_topic_ref": "SC-11.1",
+      "question_text": "What assessment ratio applies to agricultural property owned by a private individual in SC?",
+      "correct_answer": "4%",
+      "distractors": ["6%", "10.5%", "2%"],
+      "explanation": "Private agricultural property is assessed at 4% (same as owner-occupied residential). Corporate-owned agricultural property is assessed at 6%. If removed from agricultural use, a rollback provision may apply.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["assessment ratio", "agricultural", "private"]
+    },
+    {
+      "key_topic_ref": "SC-11.1",
+      "question_text": "Manufacturing property in SC is assessed at what rate?",
+      "correct_answer": "10.5%",
+      "distractors": ["6%", "4%", "8%"],
+      "explanation": "Manufacturing and utility properties are assessed at 10.5% of fair market value — the highest assessment ratio in SC. Residential is 4%, commercial is 6%.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["assessment ratio", "manufacturing", "10.5%"]
+    },
+    {
+      "key_topic_ref": "SC-11.1",
+      "question_text": "A farmer sells agricultural land to a developer who rezones it for commercial use. What tax consequence may apply?",
+      "correct_answer": "Rollback taxes for prior agricultural use benefit",
+      "distractors": ["An immediate tax exemption for 3 years", "No change until the next reassessment cycle", "A one-time transfer tax surcharge"],
+      "explanation": "When property is removed from agricultural use, the agricultural rollback provision may require payment of back taxes reflecting the difference between the agricultural (4%) and commercial (6%) assessment ratios.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["agricultural", "rollback", "rezoning"]
+    },
+    {
+      "key_topic_ref": "SC-11.2",
+      "question_text": "One mill in SC property tax equals how much per dollar of assessed value?",
+      "correct_answer": "$0.001 per dollar",
+      "distractors": ["$0.01 per dollar", "$0.10 per dollar", "$1.00 per dollar"],
+      "explanation": "A mill equals 1/1000 of a dollar ($0.001), or equivalently $1 per $1,000 of assessed value. The millage rate is multiplied by the assessed value to determine the tax.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["millage", "mill", "definition"]
+    },
+    {
+      "key_topic_ref": "SC-11.2",
+      "question_text": "A home has a fair market value of $300,000 and is owner-occupied. The millage rate is 250 mills. What is the annual property tax?",
+      "correct_answer": "$3,000",
+      "distractors": ["$4,500", "$7,500", "$1,500"],
+      "explanation": "$300,000 × 4% assessment = $12,000 assessed value. $12,000 × 0.250 (250 mills) = $3,000 annual tax.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tax calculation", "millage", "residential"]
+    },
+    {
+      "key_topic_ref": "SC-11.2",
+      "question_text": "A commercial building worth $400,000 is in an area with a 300-mill tax rate. What is the annual property tax?",
+      "correct_answer": "$7,200",
+      "distractors": ["$4,800", "$12,000", "$3,600"],
+      "explanation": "$400,000 × 6% commercial assessment = $24,000 assessed value. $24,000 × 0.300 (300 mills) = $7,200 annual tax.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tax calculation", "commercial", "millage"]
+    },
+    {
+      "key_topic_ref": "SC-11.2",
+      "question_text": "The SC property tax formula is:",
+      "correct_answer": "FMV × Assessment Ratio × Millage Rate",
+      "distractors": ["FMV × Millage Rate × Tax Credit", "Assessed Value ÷ Millage Rate", "FMV × Tax Rate × Exemption Factor"],
+      "explanation": "SC property tax is calculated: Fair Market Value × Assessment Ratio = Assessed Value, then Assessed Value × Millage Rate = Annual Tax. The assessment ratio varies by property classification.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["tax formula", "calculation", "assessment"]
+    },
+    {
+      "key_topic_ref": "SC-11.2",
+      "question_text": "An owner-occupied home has a $200,000 FMV and a 350-mill tax rate. The homeowner is 70 and qualifies for the homestead exemption. What is the annual tax?",
+      "correct_answer": "$2,100",
+      "distractors": ["$2,800", "$1,400", "$3,500"],
+      "explanation": "Homestead exempts first $50,000 FMV. Taxable FMV = $150,000. $150,000 × 4% = $6,000 assessed. $6,000 × 0.350 = $2,100. Without exemption: $200,000 × 4% × 0.350 = $2,800.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tax calculation", "homestead", "exemption"]
+    },
+    {
+      "key_topic_ref": "SC-11.3",
+      "question_text": "The SC homestead exemption shields how much of a home's fair market value from taxes?",
+      "correct_answer": "$50,000",
+      "distractors": ["$25,000", "$75,000", "$100,000"],
+      "explanation": "The SC homestead exemption removes the first $50,000 of fair market value from county, municipal, school, and special assessment taxes for qualifying homeowners.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead exemption", "$50,000", "tax relief"]
+    },
+    {
+      "key_topic_ref": "SC-11.3",
+      "question_text": "To qualify for the SC homestead exemption, which requirement must a 66-year-old homeowner meet?",
+      "correct_answer": "Be a legal SC resident for at least 1 year",
+      "distractors": ["Have owned the home for at least 5 years", "Have a household income under $50,000", "Be a US citizen for at least 10 years"],
+      "explanation": "Eligibility requires being a legal SC resident for at least 1 year AND being 65+, totally/permanently disabled, or legally blind. There is no income requirement or ownership duration requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homestead exemption", "eligibility", "residency"]
+    },
+    {
+      "key_topic_ref": "SC-11.3",
+      "question_text": "A 55-year-old SC homeowner who is legally blind applies for the homestead exemption. Is the homeowner eligible?",
+      "correct_answer": "Yes, legal blindness qualifies regardless of age",
+      "distractors": ["No, applicants must be at least 65", "Only if also totally disabled", "Only if income is below $30,000"],
+      "explanation": "The homestead exemption is available to those 65+, totally/permanently disabled, or legally blind — meeting any one condition qualifies. The 55-year-old qualifies based on legal blindness alone.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homestead exemption", "blind", "eligibility"]
+    },
+    {
+      "key_topic_ref": "SC-11.3",
+      "question_text": "A property sells at a higher price than its prior assessed value. Under SC law, the property will be:",
+      "correct_answer": "Reassessed at fair market value at point of sale",
+      "distractors": ["Reassessed at the next county cycle only", "Exempt from reassessment for 3 years", "Assessed at the average of old and new values"],
+      "explanation": "SC uses point-of-sale reassessment — property is reassessed at current fair market value when sold. This can cause a significant tax increase for the buyer compared to what the seller was paying.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["reassessment", "point of sale", "tax increase"]
+    },
+    {
+      "key_topic_ref": "SC-11.3",
+      "question_text": "A buyer purchases a home previously owned by a long-time resident. The buyer's property taxes are significantly higher. This is likely due to:",
+      "correct_answer": "Point-of-sale reassessment at current value",
+      "distractors": ["A statewide tax rate increase", "Loss of the buyer's homestead exemption", "An error in the county assessment records"],
+      "explanation": "Point-of-sale reassessment updates the property's assessed value to current fair market value. If the prior owner held the property for many years at an older, lower assessment, the new buyer sees a tax jump.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["reassessment", "tax increase", "buyer impact"]
+    }
+  ]
+}

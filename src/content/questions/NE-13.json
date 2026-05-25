@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NE-13",
+  "scope": "state",
+  "state": "NE",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NE-13.1",
+      "question_text": "An out-of-state developer divides land into 30 lots and wants to sell them to Nebraska residents. What must the developer obtain from the NREC?",
+      "correct_answer": "A subdivision certificate",
+      "distractors": [
+        "A broker's license only",
+        "A zoning variance from the county",
+        "A plat approval from the county"
+      ],
+      "explanation": "Under Nebraska's subdivided land registration laws, land outside Nebraska divided into 25 or more lots for sale to Nebraska residents requires a subdivision certificate from the NREC before sales may begin.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["subdivided_land", "NREC", "subdivision_certificate"]
+    },
+    {
+      "key_topic_ref": "NE-13.1",
+      "question_text": "A developer registers 200 out-of-state lots with the NREC. What is the total registration fee?",
+      "correct_answer": "$150",
+      "distractors": [
+        "$100",
+        "$200",
+        "$250"
+      ],
+      "explanation": "The NREC registration fee is $100 plus $25 per 100 lots or fraction thereof. For 200 lots: $100 base + $25 for the first 100 + $25 for the second 100 = $150.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["subdivided_land", "registration_fee", "calculation"]
+    },
+    {
+      "key_topic_ref": "NE-13.1",
+      "question_text": "A developer divides out-of-state land into 20 lots for sale to Nebraska residents. Is NREC subdivision registration required?",
+      "correct_answer": "No, the threshold is 25 or more lots",
+      "distractors": [
+        "Yes, any subdivision requires it",
+        "Yes, the threshold is 10 lots",
+        "Only if the lots exceed one acre each"
+      ],
+      "explanation": "Nebraska's subdivided land registration applies to out-of-state land divided into 25 or more lots for sale to Nebraska residents. A 20-lot development falls below this threshold.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["subdivided_land", "lot_threshold", "registration"]
+    },
+    {
+      "key_topic_ref": "NE-13.1",
+      "question_text": "Who is authorized to sell registered subdivided land in Nebraska on behalf of an out-of-state developer?",
+      "correct_answer": "A Nebraska-licensed broker",
+      "distractors": [
+        "Any licensed agent from any state",
+        "The developer without a license",
+        "A Nebraska-licensed attorney"
+      ],
+      "explanation": "Nebraska law requires all sales of registered subdivided land to be conducted through a Nebraska-licensed real estate broker, ensuring compliance with state consumer protections.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["subdivided_land", "broker_requirement", "sales"]
+    },
+    {
+      "key_topic_ref": "NE-13.1",
+      "question_text": "A developer registers out-of-state lots for sale to Nebraska residents. Which type of land must the lots be?",
+      "correct_answer": "Platted land with plats filed at the county",
+      "distractors": [
+        "Any land with a legal description",
+        "Land surveyed within the last 5 years",
+        "Land zoned for residential use only"
+      ],
+      "explanation": "Nebraska requires out-of-state subdivided land sold to Nebraska residents to be platted with plats filed at the local county authority. Unplatted land cannot be registered for sale to Nebraska buyers.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["subdivided_land", "platted_land", "registration"]
+    },
+    {
+      "key_topic_ref": "NE-13.2",
+      "question_text": "A company plans to sell time-share interests in a Nebraska resort. Before offering units, what must the company do?",
+      "correct_answer": "Register the time-shares with the NREC",
+      "distractors": [
+        "Obtain a special resort license",
+        "File with the Secretary of State only",
+        "Get approval from the local zoning board"
+      ],
+      "explanation": "Time-share interests must be registered with the NREC before they can be offered for sale in Nebraska, ensuring the offering meets state regulatory standards.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["time_shares", "NREC_registration", "consumer_protection"]
+    },
+    {
+      "key_topic_ref": "NE-13.2",
+      "question_text": "A real estate licensee sells memberships in a campground. Must this licensee also register as a campground salesperson?",
+      "correct_answer": "No, RE licensees are exempt",
+      "distractors": [
+        "Yes, a separate registration is required",
+        "Only if selling more than 10 memberships",
+        "Only if the campground is out of state"
+      ],
+      "explanation": "Under the Nebraska Membership Campground Act, real estate licensees are exempt from the separate campground salesperson registration requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["campground_memberships", "licensee_exemption"]
+    },
+    {
+      "key_topic_ref": "NE-13.2",
+      "question_text": "A retirement community developer wants to market units in Nebraska. What must the developer do before offering units?",
+      "correct_answer": "Register the community with the NREC",
+      "distractors": [
+        "Obtain approval from the county only",
+        "File a prospectus with the SEC",
+        "Get a special developer license from HUD"
+      ],
+      "explanation": "Nebraska requires retirement subdivisions and communities to register with the NREC before offering units for sale. This registration ensures the development meets state consumer protection standards.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["retirement_subdivisions", "NREC_registration", "consumer_protection"]
+    },
+    {
+      "key_topic_ref": "NE-13.2",
+      "question_text": "A membership campground operator wants to market in Nebraska. What registration is required?",
+      "correct_answer": "Register under the Campground Act",
+      "distractors": [
+        "Obtain a broker's license from NREC",
+        "File a subdivision certificate only",
+        "No registration is required"
+      ],
+      "explanation": "Membership campgrounds must register under the Nebraska Membership Campground Act before they can be offered or sold in Nebraska.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["campground_memberships", "registration", "Campground_Act"]
+    },
+    {
+      "key_topic_ref": "NE-13.2",
+      "question_text": "A developer offers time-shares in another state to Nebraska buyers without registering with the NREC. What is the status of these offerings?",
+      "correct_answer": "They violate Nebraska registration law",
+      "distractors": [
+        "They are legal if federally registered",
+        "They are permitted for out-of-state units",
+        "They are legal if sold by NE brokers"
+      ],
+      "explanation": "Time-shares must be registered with the NREC before being offered for sale in Nebraska, regardless of the property's physical location. Failing to register violates state law.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["time_shares", "NREC_registration", "violation"]
+    },
+    {
+      "key_topic_ref": "NE-13.3",
+      "question_text": "An out-of-state developer contracts to sell lots to Nebraska residents. In what form must the sales contracts be?",
+      "correct_answer": "Recordable form",
+      "distractors": [
+        "Notarized but not recordable",
+        "Any written format is acceptable",
+        "NREC-approved template only"
+      ],
+      "explanation": "Nebraska requires contracts for out-of-state land sales to Nebraska residents to be in recordable form, providing buyers with the ability to record their interest in the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["out_of_state_sales", "recordable_form", "contract_requirements"]
+    },
+    {
+      "key_topic_ref": "NE-13.3",
+      "question_text": "An out-of-state developer promises to build roads and utilities in a subdivision marketed to Nebraska buyers. How must the developer guarantee completion?",
+      "correct_answer": "A performance bond",
+      "distractors": [
+        "A letter of intent",
+        "A personal guarantee",
+        "An escrow deposit of 5%"
+      ],
+      "explanation": "Nebraska requires out-of-state developers to demonstrate their ability to perform on promised improvements via performance bonds, protecting Nebraska buyers from unfulfilled promises.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["out_of_state_sales", "performance_bond", "developer_requirements"]
+    },
+    {
+      "key_topic_ref": "NE-13.3",
+      "question_text": "An Arizona developer hires a salesperson licensed only in Arizona to sell lots to Nebraska residents. Is this arrangement lawful?",
+      "correct_answer": "No, sales must go through a NE broker",
+      "distractors": [
+        "Yes, if the lots are in Arizona",
+        "Yes, with NREC written approval",
+        "Only if co-brokering with a NE agent"
+      ],
+      "explanation": "All sales of out-of-state land to Nebraska residents must be conducted through a Nebraska-licensed broker and their employees. An Arizona-only licensee cannot sell directly to Nebraska buyers.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["out_of_state_sales", "broker_requirement", "NE_license"]
+    },
+    {
+      "key_topic_ref": "NE-13.3",
+      "question_text": "A Colorado developer sells lots to Nebraska buyers but never had the land platted. Which Nebraska requirement has the developer violated?",
+      "correct_answer": "Land must be platted with plats on file",
+      "distractors": [
+        "The performance bond requirement",
+        "The NREC advertising disclosure rule",
+        "The minimum lot-size standard"
+      ],
+      "explanation": "Nebraska requires out-of-state land sold to Nebraska residents to be platted, with the plats filed at the county level. Selling unplatted lots violates this requirement.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["out_of_state_sales", "platted_land", "compliance"]
+    },
+    {
+      "key_topic_ref": "NE-13.3",
+      "question_text": "A developer sells out-of-state lots to Nebraska residents using an oral contract. A buyer later disputes the sale. What is the most likely outcome?",
+      "correct_answer": "The contract fails the recordable form rule",
+      "distractors": [
+        "The contract is enforceable if witnessed",
+        "The oral agreement is valid under NE law",
+        "The buyer must prove fraud to void it"
+      ],
+      "explanation": "Nebraska requires contracts for out-of-state land sales to be in recordable form. An oral contract does not meet this standard and would likely be unenforceable.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["out_of_state_sales", "recordable_form", "contract_enforcement"]
+    }
+  ]
+}

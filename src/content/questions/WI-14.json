@@ -1,0 +1,173 @@
+{
+  "standard_ref": "WI-14",
+  "scope": "state",
+  "state": "WI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WI-14.1",
+      "question_text": "Which deed type provides the greatest protection for the buyer in Wisconsin?",
+      "correct_answer": "Warranty deed",
+      "distractors": ["Quitclaim deed", "Special warranty deed", "Personal representative's deed"],
+      "explanation": "A warranty deed provides the most protection, as the grantor warrants title against all defects, both past and present. It is the most common deed type used in Wisconsin residential transactions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deeds", "warranty deed", "protection"]
+    },
+    {
+      "key_topic_ref": "WI-14.1",
+      "question_text": "A grantor wants to transfer property without making any guarantees about the title. Which deed should they use?",
+      "correct_answer": "Quitclaim deed",
+      "distractors": ["Warranty deed", "Special warranty deed", "Grant deed"],
+      "explanation": "A quitclaim deed transfers whatever interest the grantor has (if any) with no warranties about the title. It offers no protection to the grantee and is commonly used for transfers between family members.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deeds", "quitclaim", "no warranties"]
+    },
+    {
+      "key_topic_ref": "WI-14.1",
+      "question_text": "How does a special warranty deed differ from a general warranty deed?",
+      "correct_answer": "It warrants only against defects during the grantor's ownership",
+      "distractors": ["It covers a shorter list of possible title defects in general", "It requires a lower real estate transfer fee at recording", "It does not need to be recorded with the Register of Deeds"],
+      "explanation": "A special warranty deed only warrants against defects that arose during the grantor's period of ownership. A general warranty deed warrants against all defects, including those from before the grantor owned the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deeds", "special warranty", "limited"]
+    },
+    {
+      "key_topic_ref": "WI-14.1",
+      "question_text": "An executor of a deceased person's estate conveys the property. Which deed type is typically used?",
+      "correct_answer": "Personal representative's deed",
+      "distractors": ["Warranty deed", "Quitclaim deed", "Bargain and sale deed"],
+      "explanation": "A personal representative's deed is used by executors or administrators of estates to convey property. It provides limited warranties related to the representative's authority to transfer.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deeds", "personal representative", "estate"]
+    },
+    {
+      "key_topic_ref": "WI-14.1",
+      "question_text": "Which deed is most commonly used in Wisconsin residential transactions?",
+      "correct_answer": "Warranty deed",
+      "distractors": ["Special warranty deed", "Quitclaim deed", "Trustee's deed"],
+      "explanation": "The warranty deed is the most common deed type in Wisconsin residential sales because it provides the buyer with the strongest title protection, warranting against all defects past and present.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deeds", "warranty", "common"]
+    },
+    {
+      "key_topic_ref": "WI-14.2",
+      "question_text": "What is the standard method of proving marketable title in Wisconsin?",
+      "correct_answer": "Title insurance",
+      "distractors": ["A sworn affidavit from the seller", "A survey by a licensed surveyor", "A county clerk certification"],
+      "explanation": "Title insurance is the standard method of proving marketable title in Wisconsin. A title insurance company researches the property's history and issues a policy protecting the buyer against title defects.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title insurance", "marketable title", "standard"]
+    },
+    {
+      "key_topic_ref": "WI-14.2",
+      "question_text": "What document shows the current state of title before closing in Wisconsin?",
+      "correct_answer": "Preliminary title report (title commitment)",
+      "distractors": ["The Real Estate Condition Report", "The property's deed of record", "The county assessor's report"],
+      "explanation": "A preliminary title report (also called a title commitment) shows the current state of title, including any liens, easements, or encumbrances, before closing. It precedes the final title insurance policy.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title insurance", "preliminary report", "commitment"]
+    },
+    {
+      "key_topic_ref": "WI-14.2",
+      "question_text": "Besides title insurance, what other method can prove title in Wisconsin?",
+      "correct_answer": "Abstract of title",
+      "distractors": ["Property survey only", "County tax receipt", "Seller's warranty letter"],
+      "explanation": "An abstract of title — a summary of all recorded documents affecting the title — may also be used to prove title in Wisconsin. However, title insurance is far more common in modern practice.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["abstract of title", "title evidence", "alternative"]
+    },
+    {
+      "key_topic_ref": "WI-14.2",
+      "question_text": "Who typically pays for title insurance in a Wisconsin residential transaction?",
+      "correct_answer": "This is negotiable between buyer and seller",
+      "distractors": ["The buyer always pays for title insurance", "The seller is required by law to pay", "The title company absorbs the cost"],
+      "explanation": "While customs vary by area in Wisconsin, the payment of title insurance is a negotiable item between buyer and seller. It is addressed in the offer to purchase.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["title insurance", "payment", "negotiable"]
+    },
+    {
+      "key_topic_ref": "WI-14.2",
+      "question_text": "What does an abstract of title contain?",
+      "correct_answer": "A summary of recorded documents affecting the property",
+      "distractors": ["The property's appraised market value", "A list of all previous owners and their addresses", "A guarantee that the title is free of defects"],
+      "explanation": "An abstract of title is a summary of all recorded instruments and documents that affect the title to a property, organized chronologically. Unlike title insurance, it does not guarantee or insure the title.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["abstract of title", "recorded documents", "summary"]
+    },
+    {
+      "key_topic_ref": "WI-14.3",
+      "question_text": "Wisconsin follows which recording system?",
+      "correct_answer": "Race-notice",
+      "distractors": ["Pure race", "Pure notice", "Torrens system"],
+      "explanation": "Wisconsin is a race-notice recording state. The first party to record without notice of prior claims has priority. Both recording first and lack of notice of competing claims are required for priority.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "priority"]
+    },
+    {
+      "key_topic_ref": "WI-14.3",
+      "question_text": "A buyer records their deed but knew about a prior unrecorded deed. Under race-notice, who has priority?",
+      "correct_answer": "The prior unrecorded deed holder has priority",
+      "distractors": ["The buyer who recorded first has priority", "Neither has priority until a court decides", "The most recent deed always takes priority"],
+      "explanation": "Under race-notice, recording first only gives priority if you had no notice of the prior claim. Since this buyer knew about the prior deed, they cannot claim priority despite recording first.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "prior notice"]
+    },
+    {
+      "key_topic_ref": "WI-14.3",
+      "question_text": "Where must deeds be recorded in Wisconsin?",
+      "correct_answer": "Register of Deeds in the property's county",
+      "distractors": ["The DSPS central office in Madison", "Any county courthouse within the state", "The Department of Revenue in Madison"],
+      "explanation": "Deeds must be recorded with the Register of Deeds in the county where the property is located. Recording provides constructive notice to the world of the ownership transfer.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "Register of Deeds", "county"]
+    },
+    {
+      "key_topic_ref": "WI-14.3",
+      "question_text": "What legal effect does recording a deed provide?",
+      "correct_answer": "Constructive notice to the world",
+      "distractors": ["Actual notice to all nearby property owners", "Guarantee that the title is clear", "Protection against all future claims"],
+      "explanation": "Recording provides constructive notice — meaning everyone is presumed to know about the recorded document. This is different from actual notice, where someone is specifically informed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "constructive notice", "legal effect"]
+    },
+    {
+      "key_topic_ref": "WI-14.3",
+      "question_text": "Buyer A purchases property but does not record the deed. Buyer B later buys the same property without knowledge of Buyer A's deed and records immediately. Under race-notice, who has priority?",
+      "correct_answer": "Buyer B, who recorded first without notice",
+      "distractors": ["Buyer A, who purchased first", "Both buyers share the property equally", "Neither, until a court rules"],
+      "explanation": "Under Wisconsin's race-notice system, Buyer B has priority because they recorded first AND had no notice of Buyer A's prior claim. This illustrates why prompt recording is critical.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recording", "race-notice", "priority"]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "standard_ref": "SD-07",
+  "scope": "state",
+  "state": "SD",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "SD-07.1",
+      "question_text": "A purchase agreement is accepted on Thursday evening. By when must the broker deposit the earnest money?",
+      "correct_answer": "First legal banking day after acceptance",
+      "distractors": ["Within 3 business days of acceptance", "Within 24 hours of the signed contract", "By the end of the following business week"],
+      "explanation": "Under SDCL 36-21A-80, earnest money must be deposited on the first legal banking day after acceptance of the contract, or as otherwise agreed to in writing by the parties. For a Thursday acceptance, this would typically be Friday.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-account", "deposit", "timeline"]
+    },
+    {
+      "key_topic_ref": "SD-07.1",
+      "question_text": "A broker deposits $200 of personal funds into the trust account to cover monthly bank service fees. Is this permitted?",
+      "correct_answer": "Yes, personal funds to cover bank charges are allowed",
+      "distractors": ["No, this constitutes commingling of funds", "Yes, up to $500 of personal funds is always allowed", "No, bank fees must be paid from a separate account"],
+      "explanation": "The sole exception to SD's commingling prohibition allows a broker to deposit personal funds to cover bank-assessed charges or fees. These broker funds must be tracked separately on a ledger labeled 'broker equity' or 'broker funds.'",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-account", "commingling", "exception"]
+    },
+    {
+      "key_topic_ref": "SD-07.1",
+      "question_text": "What type of reconciliation does South Dakota require for trust accounts?",
+      "correct_answer": "Three-way monthly reconciliation",
+      "distractors": ["Annual audit by a CPA", "Quarterly bank statement review", "Semi-annual balance confirmation"],
+      "explanation": "SDCL 36-21A-80 requires three-way monthly reconciliation: the bank statement, trust ledger, and check register must all be reconciled at least monthly. Failure to reconcile is a violation of the law and common grounds for discipline.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "reconciliation", "three-way"]
+    },
+    {
+      "key_topic_ref": "SD-07.1",
+      "question_text": "Which three records must be reconciled in the monthly trust account review?",
+      "correct_answer": "Bank statement, trust ledger, and check register",
+      "distractors": ["Bank statement, tax records, and closing files", "Trust ledger, MLS records, and agency agreements", "Check register, listing agreements, and tax returns"],
+      "explanation": "The three-way reconciliation compares the bank statement, trust ledger, and check register. All three must match monthly. This is one of the most commonly tested trust account topics and a frequent area of SDREC violations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "reconciliation", "records"]
+    },
+    {
+      "key_topic_ref": "SD-07.1",
+      "question_text": "A broker deposits $500 of personal funds in the trust account to maintain a minimum balance with the bank. No bank fees are involved. Is this permitted?",
+      "correct_answer": "No, personal funds are only for bank charges",
+      "distractors": ["Yes, up to $1,000 of personal funds is fine", "Yes, if documented on a separate ledger line", "No, but it only warrants a written warning"],
+      "explanation": "The commingling exception is narrow — personal funds may ONLY be deposited to cover bank-assessed charges or fees. Maintaining a minimum balance for the broker's convenience is not an approved exception and constitutes commingling.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust-account", "commingling", "violation"]
+    },
+    {
+      "key_topic_ref": "SD-07.2",
+      "question_text": "A real estate transaction falls through and the buyer and seller disagree about who gets the earnest money. How can the broker disburse the funds?",
+      "correct_answer": "Written agreement of all parties or court order",
+      "distractors": ["The broker decides based on the contract terms", "Funds go to the seller automatically after 30 days", "The SDREC makes the final disbursement decision"],
+      "explanation": "When a deal doesn't close, disputed trust funds can only be disbursed through written instructions from all parties or by court order. The broker may NOT disburse disputed funds unilaterally — even if the broker believes one party is clearly entitled.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust-account", "disbursement", "dispute"]
+    },
+    {
+      "key_topic_ref": "SD-07.2",
+      "question_text": "How long must a South Dakota broker retain transaction records after the final closing?",
+      "correct_answer": "4 years",
+      "distractors": ["3 years", "5 years", "7 years"],
+      "explanation": "South Dakota requires brokers to retain all transaction records for a minimum of 4 years from the final closing. This includes agency agreements, contracts, seller's disclosure, purchase agreements, addenda, closing statements, and all relevant forms.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "record-retention", "4-years"]
+    },
+    {
+      "key_topic_ref": "SD-07.2",
+      "question_text": "Trust funds remain in the broker's trust account until the transaction is:",
+      "correct_answer": "Consummated or terminated",
+      "distractors": ["Approved by the lender", "Past the inspection period", "Recorded at the county office"],
+      "explanation": "Trust funds stay in the account until the transaction is either consummated (closed) or terminated (deal falls through). If terminated with a dispute, funds require mutual written agreement or court order for disbursement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "disbursement", "timing"]
+    },
+    {
+      "key_topic_ref": "SD-07.2",
+      "question_text": "A buyer believes they are entitled to the earnest money after a seller breaches the contract. The seller disagrees. What should the broker do?",
+      "correct_answer": "Hold funds until mutual agreement or court order",
+      "distractors": ["Release funds to the buyer since seller breached", "Split the funds equally between both parties", "Send the funds to the SDREC for resolution"],
+      "explanation": "Even when a broker believes one party is entitled, they cannot unilaterally disburse disputed funds. The broker must hold the money in trust until all parties provide written authorization or a court orders release. The SDREC does not resolve earnest money disputes unless the broker acted recklessly.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust-account", "dispute", "broker-duty"]
+    },
+    {
+      "key_topic_ref": "SD-07.2",
+      "question_text": "Which documents are included in the 4-year record retention requirement for SD brokers?",
+      "correct_answer": "Agency agreements, contracts, and closing statements",
+      "distractors": ["Only the final purchase agreement and the deed", "Only financial records and all bank statements", "Only documents signed by both parties involved"],
+      "explanation": "The 4-year retention covers a broad range: agency agreements, contracts, seller's disclosure, purchase agreements, addenda, closing statements, and all relevant transaction forms. Brokers should retain every document related to the transaction.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust-account", "record-retention", "documents"]
+    }
+  ]
+}

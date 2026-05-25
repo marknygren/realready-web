@@ -1,0 +1,118 @@
+{
+  "standard_ref": "FL-07",
+  "scope": "state",
+  "state": "FL",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "FL-07.1",
+      "question_text": "A Florida broker receives an earnest money deposit on Wednesday. By when must it be deposited into the escrow account?",
+      "correct_answer": "By the end of the following Monday",
+      "distractors": ["By Friday of the same week", "Within 24 hours of receipt", "Within 5 business days"],
+      "explanation": "Escrow funds must be deposited by the end of the 3rd business day after receipt. If received Wednesday, the 3rd business day is Monday (Thursday = 1, Friday = 2, Monday = 3).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["escrow", "deposit-deadline", "3rd-business-day"]
+    },
+    {
+      "key_topic_ref": "FL-07.1",
+      "question_text": "Under Florida law, a broker's escrow account must be maintained in what type of institution?",
+      "correct_answer": "A Florida FDIC-insured bank or savings association",
+      "distractors": ["Any FDIC-insured bank located anywhere nationwide", "A Florida credit union approved and authorized by FREC", "The broker's personal operating bank account"],
+      "explanation": "The escrow account must be in a Florida bank or savings association that is FDIC-insured. Out-of-state banks are not permitted for escrow accounts even if they are FDIC-insured.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow-account", "Florida-bank", "FDIC"]
+    },
+    {
+      "key_topic_ref": "FL-07.1",
+      "question_text": "How much of their own personal funds may a Florida broker keep in a non-interest-bearing escrow account used for property management?",
+      "correct_answer": "$5,000",
+      "distractors": ["$1,000", "$500", "$10,000"],
+      "explanation": "A broker may keep up to $5,000 of personal funds in a non-interest-bearing escrow account maintained for property management. For an interest-bearing escrow account, the limit is $1,000 for bank charges.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "personal-funds", "property-management"]
+    },
+    {
+      "key_topic_ref": "FL-07.1",
+      "question_text": "A broker deposits $3,000 of personal operating funds into the escrow account to cover anticipated bank fees. This constitutes:",
+      "correct_answer": "Commingling, which is prohibited",
+      "distractors": ["A permissible broker practice", "An authorized use of escrow funds", "A required reserve amount"],
+      "explanation": "Commingling is prohibited. While a broker may keep up to $1,000 of personal funds in an interest-bearing escrow account for bank charges, depositing $3,000 of operating funds exceeds the allowed amount.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "prohibited", "escrow"]
+    },
+    {
+      "key_topic_ref": "FL-07.1",
+      "question_text": "Which parties are authorized to hold escrow deposits in a Florida real estate transaction?",
+      "correct_answer": "Broker, attorney, or title company",
+      "distractors": ["Broker or FREC-approved trustee only", "Only the listing broker's escrow account", "The sales associate or the broker"],
+      "explanation": "Under Florida law, escrow funds may be held by the broker in an escrow account, an attorney, or a title company. A sales associate may never hold escrow funds directly.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["escrow", "authorized-holders", "funds"]
+    },
+    {
+      "key_topic_ref": "FL-07.2",
+      "question_text": "When a buyer and seller both claim the escrow deposit, within how many business days must the broker notify FREC?",
+      "correct_answer": "15 business days",
+      "distractors": ["10 business days", "30 calendar days", "5 business days"],
+      "explanation": "When conflicting demands arise, the broker must notify FREC within 15 business days regardless of which settlement method is chosen. This notification is mandatory.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disputed-funds", "FREC-notification", "15-days"]
+    },
+    {
+      "key_topic_ref": "FL-07.2",
+      "question_text": "Which of the following is NOT one of the four settlement options for disputed escrow funds in Florida?",
+      "correct_answer": "Having the sales associate decide",
+      "distractors": ["Mediation", "Interpleader (litigation)", "Escrow Disbursement Order from FREC"],
+      "explanation": "The four options are: mediation, arbitration, interpleader (court action), and Escrow Disbursement Order (EDO) from FREC. A sales associate has no authority to decide escrow disputes.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disputed-funds", "settlement-options", "escrow"]
+    },
+    {
+      "key_topic_ref": "FL-07.2",
+      "question_text": "A broker is unsure who is entitled to escrowed funds before a formal dispute arises. The broker may request what from FREC?",
+      "correct_answer": "An Escrow Disbursement Order (EDO)",
+      "distractors": ["A formal investigation of both parties", "Permission to return funds to the buyer", "An advisory opinion from the DBPR"],
+      "explanation": "When a broker has good-faith doubt about who is entitled to the funds before a formal dispute, they may request an EDO from FREC. This provides a binding decision on disbursement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["EDO", "good-faith-doubt", "escrow"]
+    },
+    {
+      "key_topic_ref": "FL-07.2",
+      "question_text": "A contract specifies that mediation is required before litigation for escrow disputes. What must the broker do when conflicting demands are received?",
+      "correct_answer": "Pursue mediation and notify FREC within 15 business days",
+      "distractors": ["File an interpleader action immediately", "Request an EDO from FREC instead", "Hold funds until parties agree voluntarily"],
+      "explanation": "If the contract requires mediation, the broker must pursue that method. However, FREC notification within 15 business days is still mandatory regardless of which settlement option is used.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["mediation", "disputed-funds", "FREC-notification"]
+    },
+    {
+      "key_topic_ref": "FL-07.2",
+      "question_text": "In an interpleader action, the broker asks the court to do what with the disputed escrow funds?",
+      "correct_answer": "Determine which party is entitled to the funds",
+      "distractors": ["Divide the funds equally between parties", "Return the funds to the buyer automatically", "Fine both parties for the dispute"],
+      "explanation": "In an interpleader action, the broker deposits the disputed funds with the court and asks the judge to determine who is entitled to them. This releases the broker from liability for the decision.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["interpleader", "court-action", "disputed-funds"]
+    }
+  ]
+}

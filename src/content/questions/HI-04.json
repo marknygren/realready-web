@@ -1,0 +1,118 @@
+{
+  "standard_ref": "HI-04",
+  "scope": "state",
+  "state": "HI",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "HI-04.1",
+      "question_text": "What is the primary purpose of Hawaii's Real Estate Recovery Fund?",
+      "correct_answer": "Compensate consumers harmed by licensees",
+      "distractors": ["Fund HIREC operating expenses", "Provide grants to first-time buyers", "Subsidize licensee education costs"],
+      "explanation": "The Recovery Fund compensates members of the public who have been harmed by licensee fraud, misrepresentation, or deceit in a real estate transaction. It is funded by a portion of license fees.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "purpose", "consumer-protection"]
+    },
+    {
+      "key_topic_ref": "HI-04.1",
+      "question_text": "What is the maximum Recovery Fund payment for a single transaction?",
+      "correct_answer": "$25,000",
+      "distractors": ["$10,000", "$50,000", "$100,000"],
+      "explanation": "The per-transaction cap is $25,000, which includes court costs and attorney fees. The per-licensee aggregate cap is $50,000 over the licensee's lifetime.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "per-transaction", "cap"]
+    },
+    {
+      "key_topic_ref": "HI-04.1",
+      "question_text": "A consumer wins a $30,000 judgment against a licensee for fraud. How much can the Recovery Fund pay?",
+      "correct_answer": "$25,000 maximum",
+      "distractors": ["The full $30,000", "$15,000 maximum", "$50,000 maximum"],
+      "explanation": "Regardless of the judgment amount, the Recovery Fund is capped at $25,000 per transaction, including court costs and attorney fees. The remaining $5,000 must be recovered through other means.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "cap", "judgment"]
+    },
+    {
+      "key_topic_ref": "HI-04.1",
+      "question_text": "What is the lifetime aggregate Recovery Fund cap per licensee?",
+      "correct_answer": "$50,000",
+      "distractors": ["$25,000", "$75,000", "$100,000"],
+      "explanation": "The Recovery Fund has a per-licensee aggregate cap of $50,000 over the licensee's entire career. Once this amount is reached through claims, no further fund payments can be made against that licensee.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "aggregate-cap", "lifetime"]
+    },
+    {
+      "key_topic_ref": "HI-04.1",
+      "question_text": "How is the Hawaii Real Estate Recovery Fund financed?",
+      "correct_answer": "Through a portion of license fees",
+      "distractors": ["Through a state general fund allocation", "Through voluntary licensee donations", "Through a surcharge on property sales"],
+      "explanation": "The Recovery Fund is funded by a portion of real estate license fees paid by licensees. If the fund drops below $350,000, DCCA may assess additional fees against all licensees.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "funding", "license-fees"]
+    },
+    {
+      "key_topic_ref": "HI-04.2",
+      "question_text": "The Recovery Fund balance drops to $300,000. What action may DCCA take?",
+      "correct_answer": "Assess additional fees on all licensees",
+      "distractors": ["Suspend all new license applications", "Borrow from the state general fund", "Reduce the per-transaction cap to $10,000"],
+      "explanation": "The Recovery Fund has a minimum balance requirement of $350,000. When the balance falls below this threshold, DCCA may assess additional fees against all licensees to replenish it.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery-fund", "minimum-balance", "assessment"]
+    },
+    {
+      "key_topic_ref": "HI-04.2",
+      "question_text": "Before filing a Recovery Fund claim, what must the consumer first obtain?",
+      "correct_answer": "A court judgment against the licensee",
+      "distractors": ["A HIREC ruling of misconduct", "A RICO investigation report", "A written apology from the licensee"],
+      "explanation": "The Recovery Fund claim process requires the consumer to first obtain a court judgment against the licensee, then exhaust all other collection remedies before filing a verified claim with the court.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "claim-process", "judgment"]
+    },
+    {
+      "key_topic_ref": "HI-04.2",
+      "question_text": "A consumer plans to sue a licensee and may seek Recovery Fund payment. When must HIREC be notified?",
+      "correct_answer": "When commencing the lawsuit",
+      "distractors": ["After the trial concludes", "Only when filing the fund claim", "Within 30 days of the incident"],
+      "explanation": "Consumers must notify HIREC when they commence a lawsuit that may result in a Recovery Fund claim. Additionally, the consumer must give HIREC 10 days' written notice before the court orders payment.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "notice", "lawsuit"]
+    },
+    {
+      "key_topic_ref": "HI-04.2",
+      "question_text": "What is the statute of limitations for filing a Recovery Fund claim?",
+      "correct_answer": "2 years from accrual",
+      "distractors": ["1 year from accrual", "3 years from accrual", "5 years from accrual"],
+      "explanation": "A Recovery Fund claim must be filed within 2 years from the date the cause of action accrued. After this period, the consumer loses the right to seek payment from the fund.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "statute-of-limitations", "deadline"]
+    },
+    {
+      "key_topic_ref": "HI-04.2",
+      "question_text": "A court orders a Recovery Fund payment against a licensee. What happens to the licensee's license?",
+      "correct_answer": "It is automatically terminated",
+      "distractors": ["It is placed on probation", "It is suspended for one year", "Nothing happens to the license"],
+      "explanation": "When a court orders a Recovery Fund payment, the licensee's license is automatically terminated. The licensee cannot obtain a new license until the fund is repaid in full with interest.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "termination", "repayment"]
+    }
+  ]
+}

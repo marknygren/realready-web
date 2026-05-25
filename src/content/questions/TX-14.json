@@ -1,0 +1,158 @@
+{
+  "standard_ref": "TX-14",
+  "scope": "state",
+  "state": "TX",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "TX-14.1",
+      "question_text": "A bank forecloses on a residential property and lists it for sale. Is a Seller Disclosure Notice required?",
+      "correct_answer": "No, foreclosure sales are exempt",
+      "distractors": [
+        "Yes, all residential sales require one",
+        "Yes, but only for occupied properties",
+        "No, but only if the bank never occupied it"
+      ],
+      "explanation": "Foreclosure sales are one of the specific exemptions from the Seller Disclosure Notice requirement. Other exemptions include probate sales, new construction with a builder warranty, and court-ordered sales. The exemption applies regardless of property occupancy status.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller_disclosure", "foreclosure", "exemption"]
+    },
+    {
+      "key_topic_ref": "TX-14.1",
+      "question_text": "What must a seller disclose on the Seller Disclosure Notice?",
+      "correct_answer": "Known material defects and conditions",
+      "distractors": [
+        "All defects whether known or unknown",
+        "Only structural and foundation issues",
+        "Only items found in a recent inspection"
+      ],
+      "explanation": "The Seller Disclosure Notice requires sellers to disclose known material defects and conditions. Sellers are not responsible for defects they are unaware of, nor is disclosure limited to structural issues. The duty extends to all material information the seller knows about the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller_disclosure", "material_defects", "known_conditions"]
+    },
+    {
+      "key_topic_ref": "TX-14.1",
+      "question_text": "A buyer receives the Seller Disclosure Notice two days after contract execution. What right does the buyer have?",
+      "correct_answer": "The buyer may terminate within a specified period",
+      "distractors": [
+        "The buyer must accept the disclosure as is",
+        "The contract is automatically void",
+        "The buyer can sue for damages immediately"
+      ],
+      "explanation": "When the SDN is not provided before contract execution, the buyer receives a statutory right to terminate within a specified period after receiving it. The contract is not automatically void, and the buyer must affirmatively exercise this termination right.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller_disclosure", "termination_right", "late_delivery"]
+    },
+    {
+      "key_topic_ref": "TX-14.1",
+      "question_text": "An executor sells a deceased person's home through probate. Must the executor provide a Seller Disclosure Notice?",
+      "correct_answer": "No, probate sales are exempt",
+      "distractors": [
+        "Yes, all residential sales require disclosure",
+        "Yes, unless the home is over 20 years old",
+        "No, but only if the executor never lived there"
+      ],
+      "explanation": "Probate sales are specifically exempt from the Seller Disclosure Notice requirement. This exemption recognizes that executors and administrators may lack personal knowledge of the property's condition. The exemption applies regardless of the property's age or the executor's relationship to it.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller_disclosure", "probate", "exemption"]
+    },
+    {
+      "key_topic_ref": "TX-14.1",
+      "question_text": "A builder sells a newly constructed home with a full builder warranty. Which disclosure requirement applies?",
+      "correct_answer": "The builder is exempt from the SDN requirement",
+      "distractors": [
+        "The builder must provide the standard SDN",
+        "The builder files a separate new-construction form",
+        "The buyer waives all disclosure rights at closing"
+      ],
+      "explanation": "New construction sold with a builder warranty is exempt from the Seller Disclosure Notice. The builder warranty is deemed to provide sufficient protection for the buyer. This exemption applies specifically when the builder provides a warranty with the new home sale.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller_disclosure", "new_construction", "builder_warranty"]
+    },
+    {
+      "key_topic_ref": "TX-14.2",
+      "question_text": "Under the Texas Statute of Frauds, which contract must be in writing to be enforceable?",
+      "correct_answer": "A contract for the sale of real property",
+      "distractors": [
+        "A 6-month residential lease agreement",
+        "An oral agreement to share a commission",
+        "A verbal offer accepted by handshake"
+      ],
+      "explanation": "The Texas Statute of Frauds requires contracts for the sale of real property to be in writing and signed by the party to be charged. A 6-month lease does not require writing because only leases exceeding one year fall under the statute. Oral real estate sales contracts are generally unenforceable.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute_of_frauds", "writing_requirement", "real_property"]
+    },
+    {
+      "key_topic_ref": "TX-14.2",
+      "question_text": "A landlord and tenant verbally agree to a 14-month residential lease. The tenant later refuses to honor the agreement. What is the likely outcome?",
+      "correct_answer": "The lease is unenforceable under Statute of Frauds",
+      "distractors": [
+        "The lease is enforceable with witness testimony",
+        "The landlord can enforce it through TREC",
+        "The lease is valid for the first 12 months only"
+      ],
+      "explanation": "Leases exceeding one year must be in writing under the Texas Statute of Frauds. A 14-month oral lease exceeds this threshold and is therefore unenforceable. Witness testimony cannot substitute for the writing requirement, and TREC does not adjudicate lease disputes.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute_of_frauds", "lease", "writing_requirement"]
+    },
+    {
+      "key_topic_ref": "TX-14.2",
+      "question_text": "Which of the following is NOT required to be in writing under the Texas Statute of Frauds?",
+      "correct_answer": "An 11-month commercial lease",
+      "distractors": [
+        "A listing agreement with a broker",
+        "A buyer representation agreement",
+        "A residential sales contract"
+      ],
+      "explanation": "Leases for one year or less are not required to be in writing under the Statute of Frauds. An 11-month lease falls below this threshold. Listing agreements, buyer representation agreements, and sales contracts for real property must all be in writing to be enforceable.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["statute_of_frauds", "lease_term", "exceptions"]
+    },
+    {
+      "key_topic_ref": "TX-14.2",
+      "question_text": "A seller verbally agrees to sell a ranch to a buyer for $500,000. The buyer sends a check but the seller backs out. Can the buyer enforce the sale?",
+      "correct_answer": "No, the oral contract is unenforceable",
+      "distractors": [
+        "Yes, the check proves mutual agreement",
+        "Yes, if the buyer has two witnesses",
+        "Yes, partial performance overrides the statute"
+      ],
+      "explanation": "Under the Texas Statute of Frauds, contracts for the sale of real property must be in writing and signed by the party to be charged. An oral agreement, even with payment evidence, is generally unenforceable. The writing requirement protects against fraudulent claims in real property transactions.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute_of_frauds", "oral_contract", "enforceability"]
+    },
+    {
+      "key_topic_ref": "TX-14.2",
+      "question_text": "Who must sign the written contract under the Texas Statute of Frauds for it to be enforceable?",
+      "correct_answer": "The party to be charged",
+      "distractors": [
+        "Both the buyer and seller",
+        "All parties plus a notary",
+        "The broker representing each side"
+      ],
+      "explanation": "The Statute of Frauds requires the signature of the party to be charged, meaning the party against whom enforcement is sought. While both parties typically sign, the statute's minimum requirement focuses on the party being held to the agreement. Notarization and broker signatures are not statutory requirements.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["statute_of_frauds", "signature", "party_to_be_charged"]
+    }
+  ]
+}

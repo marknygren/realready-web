@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ID-08",
+  "scope": "state",
+  "state": "ID",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "ID-08.1",
+      "question_text": "How many agency types does Idaho recognize for brokerage relationships?",
+      "correct_answer": "Four types",
+      "distractors": ["Two types", "Three types", "Five types"],
+      "explanation": "Idaho recognizes four agency types: single agency, limited dual agency, limited dual agency with assigned agents, and nonagent (nonrepresentation).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency", "types", "four"]
+    },
+    {
+      "key_topic_ref": "ID-08.1",
+      "question_text": "In which Idaho agency type does the brokerage represent ONLY the buyer OR the seller?",
+      "correct_answer": "Single agency",
+      "distractors": ["Limited dual agency", "Limited dual agency with assigned agents", "Nonagent"],
+      "explanation": "Single agency means the brokerage represents only one party — either the buyer or the seller, not both. This is the simplest agency relationship with the fewest conflicts of interest.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency", "single agency", "representation"]
+    },
+    {
+      "key_topic_ref": "ID-08.1",
+      "question_text": "Under limited dual agency with assigned agents, what can the assigned agents do that a limited dual agent cannot?",
+      "correct_answer": "Advocate and negotiate for their assigned client",
+      "distractors": ["Disclose confidential pricing information", "Set the commission rate for both sides", "Make binding decisions for their client"],
+      "explanation": "In limited dual agency with assigned agents, individual licensees are assigned to act solely for each party and may advocate and negotiate. In regular limited dual agency, the agent cannot advocate for one party over the other.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["agency", "assigned agents", "advocacy"]
+    },
+    {
+      "key_topic_ref": "ID-08.1",
+      "question_text": "A party working with a licensee under nonagent status is referred to as what?",
+      "correct_answer": "A customer",
+      "distractors": ["A client", "A principal", "A fiduciary"],
+      "explanation": "Under nonagent (nonrepresentation), the party is a 'Customer,' not a 'Client.' The licensee assists the customer without creating an agency relationship, so fiduciary duties like loyalty do not apply.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency", "nonagent", "customer"]
+    },
+    {
+      "key_topic_ref": "ID-08.1",
+      "question_text": "What is required before a brokerage can represent both buyer and seller in Idaho?",
+      "correct_answer": "Express written consent from all parties",
+      "distractors": ["Verbal agreement from both parties", "IREC pre-approval of the transaction", "Only the seller's written consent"],
+      "explanation": "Limited dual agency requires express written consent from all parties. Both the buyer and seller must agree in writing before the brokerage can represent both sides of the transaction.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency", "dual agency", "written consent"]
+    },
+    {
+      "key_topic_ref": "ID-08.2",
+      "question_text": "When must an Idaho licensee provide the Agency Disclosure Brochure?",
+      "correct_answer": "At the first substantial business contact",
+      "distractors": ["At the time an offer is written", "At the closing of the transaction", "Within 48 hours of meeting the client"],
+      "explanation": "The Agency Disclosure Brochure must be provided at the first substantial business contact with a prospective buyer or seller. This ensures parties understand agency relationships before engaging in real estate discussions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency", "disclosure brochure", "first contact"]
+    },
+    {
+      "key_topic_ref": "ID-08.2",
+      "question_text": "Does providing the Agency Disclosure Brochure create an agency relationship?",
+      "correct_answer": "No, a separate signed written agreement is required",
+      "distractors": ["Yes, delivery creates the relationship", "Yes, if the party signs the brochure", "Only if delivered before showing property"],
+      "explanation": "The brochure alone does not create an agency relationship. A signed, written agreement is required to establish a brokerage relationship. The brochure is informational only.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency", "disclosure brochure", "written agreement"]
+    },
+    {
+      "key_topic_ref": "ID-08.2",
+      "question_text": "A licensee shows a buyer three homes without ever providing the Agency Disclosure Brochure. What violation has occurred?",
+      "correct_answer": "Failure to provide timely agency disclosure",
+      "distractors": ["No violation if no offer was made", "An advertising violation", "A trust account violation"],
+      "explanation": "The brochure must be provided at first substantial business contact. Showing properties constitutes substantial business contact, so failing to provide the brochure is a disclosure violation subject to disciplinary action.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["agency", "disclosure brochure", "violation"]
+    },
+    {
+      "key_topic_ref": "ID-08.2",
+      "question_text": "Idaho agency law is codified in which sections of Idaho Code?",
+      "correct_answer": "Sections 54-2082 through 54-2097",
+      "distractors": ["Sections 54-2045 through 54-2055", "Sections 55-2501 through 55-2515", "Sections 67-5901 through 67-5912"],
+      "explanation": "Idaho agency law is in Title 54, Chapter 20, Part 8 (Sections 54-2082 through 54-2097). This is part of the Idaho Real Estate License Law.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency", "Idaho Code", "statute"]
+    },
+    {
+      "key_topic_ref": "ID-08.2",
+      "question_text": "What creates a brokerage representation relationship in Idaho?",
+      "correct_answer": "A signed, written brokerage agreement",
+      "distractors": ["Providing the Agency Disclosure Brochure", "Showing property to a prospective buyer", "An oral promise of representation"],
+      "explanation": "A signed, written agreement is required to create a brokerage relationship. Neither the disclosure brochure, property showings, nor oral promises establish a formal agency relationship.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency", "written agreement", "creation"]
+    },
+    {
+      "key_topic_ref": "ID-08.3",
+      "question_text": "Where must the representation confirmation appear in an Idaho transaction?",
+      "correct_answer": "In the purchase and sale agreement (checkbox format)",
+      "distractors": ["On a separate agency disclosure form at closing", "In the listing agreement between seller and broker", "On the closing settlement statement document"],
+      "explanation": "The Representation Confirmation must appear in the purchase and sale agreement using a checkbox format. This confirms the agency relationship for all parties at the time of contract.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency", "representation confirmation", "checkbox"]
+    },
+    {
+      "key_topic_ref": "ID-08.3",
+      "question_text": "In a limited dual agency, what is the agent prohibited from disclosing without written permission?",
+      "correct_answer": "Confidential info about price, terms, or motivations",
+      "distractors": ["The existence of the agency relationship", "Material adverse facts about the property", "The identity of the other party"],
+      "explanation": "In dual agency, the agent cannot disclose confidential information about one client's price, terms, or motivating factors to the other client without written permission. Material adverse facts must still be disclosed to all parties.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["agency", "dual agency", "confidentiality"]
+    },
+    {
+      "key_topic_ref": "ID-08.3",
+      "question_text": "A dual agent learns the buyer will pay $20,000 over asking price. Can the agent share this with the seller?",
+      "correct_answer": "No, not without the buyer's written permission",
+      "distractors": ["Yes, the seller has a right to know", "Yes, if it benefits the transaction", "Only if the seller specifically asks"],
+      "explanation": "In limited dual agency, the agent cannot disclose one client's willingness to accept different price or terms without that client's written permission. The buyer's maximum price is confidential information.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["agency", "dual agency", "confidentiality", "price"]
+    },
+    {
+      "key_topic_ref": "ID-08.3",
+      "question_text": "What restriction applies to a limited dual agent regarding advocacy?",
+      "correct_answer": "Cannot advocate for one client over another",
+      "distractors": ["Cannot communicate with either party", "Cannot attend the closing", "Cannot prepare any documents"],
+      "explanation": "A limited dual agent cannot advocate for one client over the other — they must remain neutral. However, in limited dual agency WITH assigned agents, the assigned agents CAN advocate for their respective clients.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["agency", "dual agency", "advocacy", "neutral"]
+    },
+    {
+      "key_topic_ref": "ID-08.3",
+      "question_text": "What distinguishes limited dual agency with assigned agents from regular limited dual agency?",
+      "correct_answer": "Assigned agents may advocate for their individual client",
+      "distractors": ["It requires IREC approval for each transaction", "Only one agent works with both parties", "The commission is split equally between agents"],
+      "explanation": "In limited dual agency with assigned agents, individual licensees are assigned to act solely for each party and may advocate and negotiate for their client. In regular limited dual agency, no advocacy for either side is permitted.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["agency", "assigned agents", "dual agency", "advocacy"]
+    }
+  ]
+}

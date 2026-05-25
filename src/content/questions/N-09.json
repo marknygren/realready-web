@@ -1,0 +1,703 @@
+{
+  "standard_ref": "N-09",
+  "scope": "national",
+  "state": null,
+  "category": "valuation_appraisal",
+  "questions": [
+    {
+      "key_topic_ref": "N-09.1",
+      "question_text": "In the sales comparison approach, if a comparable property sold for $350,000 and has a two-car garage while the subject property has only a one-car garage, the appraiser should:",
+      "correct_answer": "Adjust the comparable's price downward for its superior garage",
+      "distractors": [
+        "Adjust the comparable's price upward for its superior garage",
+        "Adjust the subject's estimated value upward",
+        "Discard the comparable because the garage difference invalidates it"
+      ],
+      "explanation": "The adjustment rule in the sales comparison approach: adjust the COMPARABLE, not the subject. When the comparable is SUPERIOR to the subject, adjust the comparable DOWNWARD (subtract value). When the comparable is INFERIOR to the subject, adjust UPWARD (add value). A memory trick: 'CBS' — Comparable Better, Subtract. Here, the comparable has a two-car garage (better than the subject's one-car garage), so the appraiser subtracts the value of the extra garage space from the comparable's sale price. This allows a fair comparison on an equal footing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "sales_comparison_approach",
+        "adjustments",
+        "comparables",
+        "CBS"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.1",
+      "question_text": "The sales comparison approach to value is MOST reliable and is given the most weight when:",
+      "correct_answer": "Recent sales of similar properties are available in the area",
+      "distractors": [
+        "The subject is a special-purpose property like a church or school",
+        "The subject generates rental income that can be capitalized",
+        "The subject is newly constructed with known reproduction cost"
+      ],
+      "explanation": "The sales comparison approach relies on the availability of recent, comparable sales data. It is most reliable for residential properties in active markets where many similar homes sell regularly, providing a strong data pool. It is least reliable for unique, special-purpose, or rarely-traded properties (churches, schools, government buildings) where comparable sales are scarce. Those properties are better suited to the cost approach. Income-producing properties are better suited to the income approach, though sales comparison is often used as a secondary check.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "sales_comparison_approach",
+        "reliability",
+        "property_types"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.2",
+      "question_text": "In the cost approach, 'depreciation' refers to:",
+      "correct_answer": "Any loss in value",
+      "distractors": [
+        "The IRS-allowed tax deduction for wear and tear on investment property",
+        "The decline in value from age and physical wear only",
+        "The difference between replacement cost and reproduction cost"
+      ],
+      "explanation": "In appraisal, depreciation is broader than the tax or accounting definition. It includes three types: (1) Physical deterioration — wear and tear, deferred maintenance, damage (can be curable or incurable); (2) Functional obsolescence — loss of value from design deficiencies or superadequacies relative to current market standards (e.g., outdated floor plan, low ceilings); (3) External/economic obsolescence — caused by factors outside the property (highway noise, declining neighborhood, new competing development). External obsolescence is always incurable because the owner cannot remedy a factor outside their property. The cost approach formula is: Value = Land Value + (Replacement Cost New − Total Depreciation).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "cost_approach",
+        "depreciation",
+        "physical_deterioration",
+        "functional_obsolescence",
+        "external_obsolescence"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.2",
+      "question_text": "A home's floor plan has a bedroom that can only be accessed by walking through another bedroom. This layout reduces buyer appeal. This is an example of which type of depreciation?",
+      "correct_answer": "Functional obsolescence",
+      "distractors": [
+        "Physical deterioration",
+        "External obsolescence",
+        "Economic obsolescence"
+      ],
+      "explanation": "Functional obsolescence results from design features that are deficient or superadequate relative to current market standards. A bedroom only accessible through another bedroom is a classic design deficiency — it reduces utility and marketability compared to homes with proper hallway access. Other examples include: one bathroom in a four-bedroom home, outdated galley kitchen, inadequate electrical service, or excessive square footage for the neighborhood (over-improvement). This differs from physical deterioration (actual physical decline) and external obsolescence (outside factors).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "cost_approach",
+        "functional_obsolescence",
+        "depreciation",
+        "design_deficiency"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.2",
+      "question_text": "The cost approach is MOST reliable and is given the most weight when appraising:",
+      "correct_answer": "New construction or a special-use property with few comparable sales",
+      "distractors": [
+        "An older home in an established neighborhood with many recent sales",
+        "A large apartment complex with readily available income data",
+        "A condominium where many identical units have recently sold"
+      ],
+      "explanation": "The cost approach is most reliable when depreciation is minimal (new construction) or when the property type has so few sales that comparable data is unavailable (churches, schools, fire stations, specialty industrial buildings). For older properties, estimating depreciation accurately becomes difficult, reducing the approach's reliability. For properties with abundant comparable sales data (like condominiums), the sales comparison approach is more reliable. For income-producing properties, the income approach is primary.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "cost_approach",
+        "reliability",
+        "special_use_property",
+        "new_construction"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.3",
+      "question_text": "Using the income approach, an appraiser determines that an apartment building generates a Net Operating Income (NOI) of $120,000 per year. The appraiser selects a capitalization rate of 6%. What is the indicated value?",
+      "correct_answer": "$2,000,000",
+      "distractors": [
+        "$720,000",
+        "$1,200,000",
+        "$7,200,000"
+      ],
+      "explanation": "Direct capitalization formula: Value = NOI ÷ Cap Rate. Here: $120,000 ÷ 0.06 = $2,000,000. The cap rate reflects the relationship between NOI and value — a 6% cap rate means investors in this market expect a 6% annual return on their investment. A lower cap rate (e.g., 4%) implies higher demand and prices; a higher cap rate (e.g., 10%) implies lower demand and prices. NOI is calculated as: Potential Gross Income − Vacancy & Collection Loss − Operating Expenses (does NOT include mortgage payments or income taxes).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "income_approach",
+        "direct_capitalization",
+        "NOI",
+        "cap_rate",
+        "math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.3",
+      "question_text": "Net Operating Income (NOI) is calculated as:",
+      "correct_answer": "Effective gross income minus operating expenses",
+      "distractors": [
+        "Potential gross income minus all expenses including mortgage payments",
+        "Gross rents minus property taxes and insurance only",
+        "Total revenue minus the investor's required rate of return"
+      ],
+      "explanation": "NOI calculation: Start with Potential Gross Income (PGI) — all possible income at 100% occupancy. Subtract Vacancy & Collection Loss to get Effective Gross Income (EGI). Subtract Operating Expenses (taxes, insurance, maintenance, management fees, reserves) to get NOI. Mortgage payments (debt service) are NOT deducted — NOI is a pre-financing metric that allows comparison across properties with different financing. Income taxes are also excluded. This makes NOI a pure measure of the property's earning power independent of how it is financed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "income_approach",
+        "NOI",
+        "operating_expenses",
+        "EGI"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.4",
+      "question_text": "In reconciliation, an appraiser has three value indicators: Sales Comparison = $485,000; Cost Approach = $510,000; Income Approach = $470,000. The appraiser's final value conclusion should be:",
+      "correct_answer": "A value weighted toward the most reliable approach for this property",
+      "distractors": [
+        "The arithmetic average of the three approaches",
+        "The highest value ($510,000) because it represents maximum potential",
+        "The lowest value ($470,000) because appraisers must be conservative"
+      ],
+      "explanation": "Reconciliation is not a mathematical average — it is a professional judgment about which approach is most credible given the property type, data quality, and intended use. The appraiser weighs each approach based on its reliability in the specific assignment. For a single-family home with abundant comp sales, the sales comparison approach would receive the most weight. The cost and income approaches provide supporting context. The final value may or may not fall exactly on any single approach's indication — it reflects the appraiser's reasoned judgment about what the market evidence supports.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "reconciliation",
+        "appraisal_approaches",
+        "final_value",
+        "professional_judgment"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.5",
+      "question_text": "A homeowner asks their real estate agent to prepare a CMA before listing the home. A CMA differs from a formal appraisal in that a CMA:",
+      "correct_answer": "Is prepared by a licensee, not an appraiser, and cannot satisfy lender requirements",
+      "distractors": [
+        "Uses fundamentally different data and typically produces a higher value",
+        "Is prepared by an appraiser but uses fewer comparables to save time",
+        "Is legally equivalent to a formal appraisal for all purposes"
+      ],
+      "explanation": "A Comparative Market Analysis (CMA) is performed by a licensed real estate agent or broker to help establish a competitive listing price or assist a buyer in evaluating an offer. It is not an appraisal — it cannot satisfy mortgage lender requirements under FIRREA, which mandate a state-licensed or state-certified appraiser. CMAs typically analyze recent sales, pending sales, and active listings. While appraisers and agents may use similar data, only the appraiser provides an independent, credentialed opinion of value with USPAP compliance.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "CMA",
+        "comparative_market_analysis",
+        "appraisal_vs_CMA",
+        "licensee"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.6",
+      "question_text": "A bank needs a quick value estimate on a foreclosed home to price it for resale. They order a BPO rather than a full appraisal. A BPO is appropriate here because:",
+      "correct_answer": "BPOs are for internal lender use",
+      "distractors": [
+        "BPOs are federally approved substitutes for formal appraisals",
+        "BPOs provide more accurate valuations because agents know local markets",
+        "BPOs are required by Fannie Mae and Freddie Mac for all REO sales"
+      ],
+      "explanation": "A Broker Price Opinion (BPO) is a value estimate prepared by a licensed real estate broker or agent. It is less comprehensive and less expensive than a full appraisal. Lenders use BPOs for internal decisions: pricing REO (real estate owned/foreclosed) properties, evaluating loan modification requests, short sale approvals, and portfolio valuations. BPOs cannot be used to originate new mortgage loans — FIRREA requires a licensed appraiser for federally related transactions. They are not more accurate than appraisals; they serve a different, more limited purpose.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "BPO",
+        "broker_price_opinion",
+        "REO",
+        "lender_use"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.7",
+      "question_text": "A property has a market value of $400,000. The county assesses property at 80% of market value and levies a tax rate of 25 mills. What is the annual property tax?",
+      "correct_answer": "$8,000",
+      "distractors": [
+        "$10,000",
+        "$4,000",
+        "$2,000"
+      ],
+      "explanation": "Step 1: Calculate assessed value — $400,000 × 80% = $320,000. Step 2: Apply the mill rate — a mill is $1 per $1,000 of assessed value, so 25 mills = $25 per $1,000. Step 3: $320,000 ÷ 1,000 × 25 = $8,000 annual property tax. Alternatively: $320,000 × 0.025 = $8,000. Key formula: Tax = Assessed Value × (Mill Rate ÷ 1,000). The assessment ratio (here 80%) and mill rate vary by jurisdiction — these are the two variables to identify in any property tax math problem.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "assessed_value",
+        "property_tax",
+        "mill_rate",
+        "math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.1",
+      "question_text": "In the sales comparison approach, adjustments are always made to:",
+      "correct_answer": "The comparable property's sale price, never to the subject property",
+      "distractors": [
+        "The subject property's estimated value based on comparable differences",
+        "Both the subject and the comparable equally to reach a midpoint",
+        "The listing price of the subject property before it goes on the market"
+      ],
+      "explanation": "A fundamental rule of the sales comparison approach: always adjust the comparable, never the subject. The comparable's known sale price is modified to reflect what it would have sold for if it had the same features as the subject. If the comparable is superior in some feature, its price is adjusted downward; if inferior, upward. The subject has no known sale price to adjust — its value is what we are trying to estimate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "sales_comparison_approach",
+        "adjustments",
+        "comparable"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.1",
+      "question_text": "A comparable property sold for $300,000 but lacks a swimming pool that the subject property has. Market data shows pools add $15,000 to value. The appraiser should:",
+      "correct_answer": "Add $15,000 to the comparable's price",
+      "distractors": [
+        "Subtract $15,000 from the comparable's price",
+        "Add $15,000 to the subject's estimated value as a pool premium",
+        "Discard this comparable because differing amenities make comparison unreliable"
+      ],
+      "explanation": "CBS rule: Comparable Better, Subtract. The reverse is also true: Comparable Inferior, Add. The comparable lacks the pool (inferior to subject), so the appraiser adds $15,000 to the comparable's sale price. This adjustment shows what the comparable would have sold for if it had a pool like the subject. The adjusted price ($315,000) then serves as one indicator of the subject's value.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "sales_comparison_approach",
+        "adjustments",
+        "CBS",
+        "amenities"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.1",
+      "question_text": "Paired sales analysis is a technique used in the sales comparison approach to:",
+      "correct_answer": "Isolate the value of a single feature by comparing two similar sales",
+      "distractors": [
+        "Determine the average sale price of all properties in a neighborhood",
+        "Match each comparable to a second one to verify the sale price",
+        "Calculate the cap rate by pairing income with the sale price"
+      ],
+      "explanation": "Paired sales analysis (also called matched pairs) compares two sales that are as similar as possible except for one feature — such as a garage vs. no garage. The price difference between the two sales is attributed to that feature. For example, if House A (with garage) sold for $310,000 and House B (identical but no garage) sold for $285,000, the indicated value of a garage is $25,000. This technique provides market-derived adjustment amounts rather than relying on the appraiser's estimate.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "sales_comparison_approach",
+        "paired_sales",
+        "adjustments"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.2",
+      "question_text": "In the cost approach, what is the difference between reproduction cost and replacement cost?",
+      "correct_answer": "Reproduction creates an exact replica; replacement uses current standards",
+      "distractors": [
+        "Reproduction uses modern methods; replacement copies the original exactly",
+        "Reproduction cost is always lower due to cheaper outdated materials",
+        "There is no meaningful difference between the two"
+      ],
+      "explanation": "Reproduction cost is the cost to construct an exact duplicate of the subject building using the same materials, design, and construction standards as the original. Replacement cost is the cost to build a structure with the same utility using current materials, design, and standards. Replacement cost is more commonly used because it avoids pricing obsolete materials and features. For historic buildings, reproduction cost may be preferred to capture the value of period-specific details.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "cost_approach",
+        "reproduction_cost",
+        "replacement_cost"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.2",
+      "question_text": "A factory near an airport suffers reduced value due to jet noise. This loss is classified as:",
+      "correct_answer": "External (economic) obsolescence",
+      "distractors": [
+        "Functional obsolescence",
+        "Physical deterioration",
+        "Curable depreciation"
+      ],
+      "explanation": "External (or economic) obsolescence is caused by factors outside the property that the owner cannot control — airport noise, highway traffic, a declining neighborhood, rezoning, or environmental contamination nearby. It is always incurable because the property owner cannot eliminate the external cause. Physical deterioration is actual wear and damage to the structure. Functional obsolescence relates to the building's design or features. While soundproofing might mitigate the effect, it does not cure the external cause (the airport).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "cost_approach",
+        "external_obsolescence",
+        "depreciation",
+        "incurable"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.3",
+      "question_text": "A property has a gross monthly rent of $5,000. Comparable properties have sold at a Gross Rent Multiplier (GRM) of 120. The indicated value using GRM is:",
+      "correct_answer": "$600,000",
+      "distractors": [
+        "$720,000",
+        "$41.67",
+        "$500,000"
+      ],
+      "explanation": "GRM formula: Value = Gross Monthly Rent × GRM. Here: $5,000 × 120 = $600,000. GRM is a simpler, less precise valuation tool than direct capitalization — it uses gross rent (not NOI) and does not account for vacancies or operating expenses. GRM is most commonly applied to small residential rental properties (2–4 units). For larger commercial properties, direct capitalization using NOI and a cap rate is preferred because it accounts for operating expenses.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "income_approach",
+        "GRM",
+        "gross_rent_multiplier",
+        "math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.3",
+      "question_text": "If a property's value is $1,500,000 and its NOI is $90,000, the capitalization rate is:",
+      "correct_answer": "6%",
+      "distractors": [
+        "16.7%",
+        "60%",
+        "0.6%"
+      ],
+      "explanation": "Cap rate formula rearranged: Cap Rate = NOI ÷ Value. Here: $90,000 ÷ $1,500,000 = 0.06 = 6%. The three forms of the direct capitalization formula (sometimes remembered as IRV): Income = Rate × Value; Rate = Income ÷ Value; Value = Income ÷ Rate. Cap rates reflect market risk — lower cap rates indicate lower risk and higher prices (premium markets), while higher cap rates signal higher risk and lower prices.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "income_approach",
+        "cap_rate",
+        "NOI",
+        "IRV",
+        "math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.3",
+      "question_text": "Which of the following expenses is NOT deducted when calculating Net Operating Income (NOI)?",
+      "correct_answer": "Mortgage payments (debt service)",
+      "distractors": [
+        "Property insurance premiums",
+        "Property management fees",
+        "Maintenance and repair costs"
+      ],
+      "explanation": "NOI excludes debt service (mortgage payments) and income taxes because these are financing and ownership costs, not property operating costs. NOI measures the property's earning power independent of how it is financed. Insurance, management fees, and maintenance are all operating expenses that are deducted. Reserves for replacement are also typically deducted. By excluding financing, NOI allows comparison of properties regardless of their mortgage terms.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "income_approach",
+        "NOI",
+        "operating_expenses",
+        "debt_service"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.4",
+      "question_text": "When appraising a 20-unit apartment building, the appraiser should give the MOST weight in reconciliation to:",
+      "correct_answer": "The income approach",
+      "distractors": [
+        "The cost approach",
+        "The sales comparison approach",
+        "An equal average of all three approaches to ensure objectivity"
+      ],
+      "explanation": "For income-producing properties like apartment buildings, the income approach typically receives the greatest weight because investors buy these properties based on their earning potential. The cap rate reflects the relationship between income and value in the market. The sales comparison approach may support the analysis if similar apartment buildings have recently sold, but income data usually drives the decision. The cost approach is least useful for older income properties because estimating depreciation is difficult.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "reconciliation",
+        "income_approach",
+        "apartment",
+        "weighting"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.4",
+      "question_text": "When appraising a single-family home in a subdivision with many recent comparable sales, the appraiser should give the MOST weight to:",
+      "correct_answer": "The sales comparison approach",
+      "distractors": [
+        "The income approach",
+        "The cost approach",
+        "A weighted combination giving equal weight to cost and income approaches only"
+      ],
+      "explanation": "For residential properties in active markets with abundant comparable sales, the sales comparison approach is most reliable and typically receives the greatest weight. Buyers of single-family homes generally make purchase decisions based on what similar homes sell for, not on construction cost or potential rental income. The cost approach may provide a secondary check, especially for newer homes. The income approach is rarely used for owner-occupied housing because homeowners are not investors seeking a return.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "reconciliation",
+        "sales_comparison",
+        "residential",
+        "weighting"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.4",
+      "question_text": "In reconciliation, an appraiser finds that the sales comparison approach yields $520,000 but only two comparable sales were available, both with significant adjustments. The cost approach yields $505,000 for the nearly new building. The appraiser should:",
+      "correct_answer": "Give more weight to the cost approach given the weak comparable data",
+      "distractors": [
+        "Always use sales comparison because it is the only acceptable approach",
+        "Average the two approaches to produce a final value of $512,500",
+        "Report the higher value to satisfy the client's expectations"
+      ],
+      "explanation": "Reconciliation requires evaluating the quality and reliability of each approach's data, not just mechanically selecting one approach. When comparable sales are limited and heavily adjusted, the sales comparison approach is less reliable. For a nearly new building, the cost approach may be more trustworthy because depreciation is minimal and construction costs are verifiable. The appraiser must explain the reasoning in the report. Averaging is not reconciliation, and reporting a value to satisfy the client violates USPAP.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "reconciliation",
+        "cost_approach",
+        "data_quality",
+        "judgment"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.4",
+      "question_text": "Which statement about reconciliation is TRUE?",
+      "correct_answer": "The final value may fall outside the range of the three approaches if supported",
+      "distractors": [
+        "The appraiser must select a value between the highest and lowest indication",
+        "Reconciliation requires a mathematical formula to weight approaches equally",
+        "Only one approach may be considered in reconciliation"
+      ],
+      "explanation": "While the reconciled value usually falls within the range of the three approaches, this is not an absolute rule. If the appraiser determines that one approach has a data error or is inappropriate for the assignment, the final opinion may fall outside the initial range after adjustments. Reconciliation is professional judgment, not a formula. All applicable approaches should be considered (not discarded), and they are not weighted equally — weighting depends on the reliability of each approach for the specific property and assignment.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "reconciliation",
+        "professional_judgment",
+        "final_value"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.5",
+      "question_text": "A real estate agent prepares a CMA for a seller. The CMA should include:",
+      "correct_answer": "Recent sold, pending, and active listings of comparable properties",
+      "distractors": [
+        "Only properties currently listed for sale, not sold or pending",
+        "A formal opinion of value that complies with USPAP standards",
+        "A cost estimate for replacing the improvements on the property"
+      ],
+      "explanation": "A CMA typically analyzes three categories: (1) recently sold properties (show what buyers actually paid), (2) pending sales (show current market activity), and (3) active listings (show the competition). Together, these give the seller a realistic picture of the market. A CMA is not a formal appraisal and does not need to comply with USPAP. It does not include cost approach analysis. The agent uses the CMA to recommend a listing price range, not to provide a certified opinion of value.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "CMA",
+        "comparative_market_analysis",
+        "listing_price"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.5",
+      "question_text": "A buyer's agent prepares a CMA to help the buyer determine an appropriate offer price. This is:",
+      "correct_answer": "A proper use of a CMA",
+      "distractors": [
+        "Illegal",
+        "A USPAP violation",
+        "Improper"
+      ],
+      "explanation": "CMAs are commonly used by both listing agents (to recommend a listing price) and buyer's agents (to advise on an appropriate offer). A CMA is a market analysis tool, not a formal appraisal, so it does not require an appraiser license or USPAP compliance. However, the agent should be careful not to represent the CMA as an appraisal. Some states have specific rules about how agents may describe their price opinions to avoid confusion with formal appraisals.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "CMA",
+        "buyer_agent",
+        "listing_agent",
+        "proper_use"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.5",
+      "question_text": "A CMA prepared by a real estate agent can be used for all of the following EXCEPT:",
+      "correct_answer": "Satisfying a lender's appraisal requirement for a federally related loan",
+      "distractors": [
+        "Helping a seller determine an appropriate listing price",
+        "Assisting a buyer in evaluating whether an asking price is reasonable",
+        "Providing market context during price negotiations"
+      ],
+      "explanation": "FIRREA requires that federally related transactions use a state-licensed or state-certified appraiser. A CMA prepared by a real estate agent does not satisfy this requirement — it is not a formal appraisal. CMAs are appropriate for helping sellers set listing prices, helping buyers evaluate offers, and providing market context during negotiations. These are normal real estate brokerage services. Only the lender's appraisal requirement demands a formal, USPAP-compliant appraisal by a credentialed appraiser.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "CMA",
+        "limitations",
+        "FIRREA",
+        "mortgage_lending"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.5",
+      "question_text": "An agent describes their CMA to a client as 'an appraisal of the property's value.' This is problematic because:",
+      "correct_answer": "Only licensed appraisers may perform appraisals",
+      "distractors": [
+        "CMAs always produce higher values than formal appraisals",
+        "CMAs expire after 30 days while appraisals last one year",
+        "Agents may not discuss property values with clients"
+      ],
+      "explanation": "Agents should never call a CMA an 'appraisal' — this can constitute the unauthorized practice of appraising, which violates state licensing laws. Appraisal is a regulated profession requiring specific education, licensing, and USPAP compliance. Agents who cross this line risk disciplinary action from their real estate commission and potential liability. The correct terminology is 'comparative market analysis' or 'market analysis,' not 'appraisal' or 'opinion of value' (in states where that term is reserved for appraisers).",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "CMA",
+        "misrepresentation",
+        "unauthorized_practice",
+        "legal_risk"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.6",
+      "question_text": "Which of the following is a key limitation of a Broker Price Opinion (BPO)?",
+      "correct_answer": "A BPO cannot substitute for a formal appraisal in loan origination",
+      "distractors": [
+        "A BPO can only be prepared by a certified appraiser",
+        "A BPO may not reference recent comparable sales",
+        "A BPO must be completed within 24 hours or it becomes invalid"
+      ],
+      "explanation": "The primary limitation of a BPO is that it cannot be used for federally related loan origination — FIRREA requires a state-licensed or certified appraiser for those transactions. BPOs are prepared by licensed real estate brokers or agents (not appraisers), they do reference comparable sales, and they have no specific time limit for completion. BPOs serve a useful but limited role: REO pricing, short sale evaluation, loan modification analysis, and portfolio review.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "BPO",
+        "limitations",
+        "FIRREA",
+        "loan_origination"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.6",
+      "question_text": "A BPO may be classified as either a 'drive-by' or an 'interior' BPO. An interior BPO:",
+      "correct_answer": "Includes an interior inspection and provides a more detailed analysis",
+      "distractors": [
+        "Is less expensive because the broker spends less time on it",
+        "Is the only BPO type accepted by regulators for loan origination",
+        "Requires the broker to hold an additional appraisal certification"
+      ],
+      "explanation": "A drive-by (exterior) BPO involves viewing the property from the street and analyzing comparable sales without entering the home. An interior BPO involves physically inspecting the inside, allowing the broker to assess condition, upgrades, and layout. Interior BPOs are more detailed, take more time, and cost more than drive-by BPOs. Neither type satisfies FIRREA appraisal requirements for loan origination. The broker does not need an appraisal certification to perform a BPO — a real estate license is sufficient.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "BPO",
+        "drive_by",
+        "interior",
+        "inspection"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.6",
+      "question_text": "Some states prohibit or restrict BPOs. The primary regulatory concern is that:",
+      "correct_answer": "BPOs may be used as improper substitutes for formal appraisals",
+      "distractors": [
+        "BPOs always produce inflated values that mislead consumers",
+        "Agents lack any training in property valuation or market analysis",
+        "BPOs violate antitrust laws by allowing brokers to fix prices"
+      ],
+      "explanation": "The main regulatory concern with BPOs is scope creep — the risk that they will be used as cheap substitutes for formal appraisals in situations that legally require an appraiser. Some states have enacted laws limiting when BPOs can be used, who can order them, or requiring specific disclosures that a BPO is not an appraisal. Agents do receive market analysis training, BPOs do not inherently produce inflated values, and they have no connection to price-fixing. The concern is proper use, not the tool itself.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "BPO",
+        "regulation",
+        "state_law",
+        "scope_creep"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.6",
+      "question_text": "A lender orders a BPO to evaluate a borrower's request for a short sale. The BPO is appropriate here because:",
+      "correct_answer": "Short sale evaluation is an internal lender decision, not new loan origination",
+      "distractors": [
+        "Short sales are exempt from all federal appraisal requirements",
+        "BPOs are more accurate than appraisals for distressed properties",
+        "The borrower waived their right to an appraisal by requesting the short sale"
+      ],
+      "explanation": "A short sale occurs when a lender agrees to accept less than the outstanding loan balance. The lender uses the BPO to determine whether to approve the short sale and at what price — this is an internal loss-mitigation decision, not a new loan origination. Since no new federally related loan is being made, FIRREA's formal appraisal requirement does not apply. Short sales are not exempt from FIRREA — the exemption is that no new loan is being originated. If a buyer obtains a new mortgage to purchase the short sale property, that new loan will require its own appraisal.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "BPO",
+        "short_sale",
+        "lender_decision",
+        "loss_mitigation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.7",
+      "question_text": "A homeowner believes their property tax assessment is too high. Their first step in challenging it should be:",
+      "correct_answer": "File a formal appeal with the local assessment review board",
+      "distractors": [
+        "Refuse to pay the tax bill until the assessment is corrected",
+        "Hire an appraiser to force the county to accept a lower value",
+        "File a lawsuit in state court without exhausting administrative remedies"
+      ],
+      "explanation": "Property tax appeals follow an administrative process: the homeowner files an appeal with the local board of review (or equalization board) within the statutory deadline, provides evidence of overassessment (comparable sales, errors in property description, etc.), and attends a hearing. Refusing to pay taxes can result in penalties, interest, and eventually a tax lien or tax sale. Lawsuits are generally a last resort after exhausting administrative remedies. An appraiser's opinion can be helpful evidence but does not force a change.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_tax",
+        "assessment_appeal",
+        "review_board"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.7",
+      "question_text": "Equalization is a process used by taxing authorities to:",
+      "correct_answer": "Ensure assessments across jurisdictions are uniform and proportional",
+      "distractors": [
+        "Calculate the exact mill rate needed to fund the county budget",
+        "Divide property tax revenue equally among all property owners",
+        "Guarantee all residential properties are assessed at full market value"
+      ],
+      "explanation": "Equalization adjusts assessed values across jurisdictions to ensure fairness. If one county assesses at 90% of market value and a neighboring county assesses at 70%, state equalization factors are applied so that properties of equal value bear equal tax burdens for shared levies (like state education funding). Equalization does not set mill rates, divide revenue equally, or guarantee assessment at full market value. It is a statistical adjustment that promotes uniformity across assessor boundaries.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "property_tax",
+        "equalization",
+        "assessment",
+        "uniformity"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.7",
+      "question_text": "A property has a market value of $250,000. The county assesses at 60% of market value. The combined tax rate is 40 mills. What is the annual tax?",
+      "correct_answer": "$6,000",
+      "distractors": [
+        "$10,000",
+        "$3,750",
+        "$15,000"
+      ],
+      "explanation": "Step 1: Assessed value = $250,000 × 60% = $150,000. Step 2: Tax = $150,000 × (40 ÷ 1,000) = $150,000 × 0.04 = $6,000. Common errors: $10,000 results from applying the mill rate to full market value ($250,000 × 0.04). $3,750 results from a calculation error. $15,000 results from confusing the assessment ratio and mill rate. Always apply the mill rate to the assessed value, not the market value.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "property_tax",
+        "mill_rate",
+        "assessed_value",
+        "math"
+      ]
+    },
+    {
+      "key_topic_ref": "N-09.7",
+      "question_text": "A homestead exemption typically:",
+      "correct_answer": "Reduces the taxable assessed value of an owner-occupied primary residence",
+      "distractors": [
+        "Eliminates all property taxes for homeowners over age 65",
+        "Exempts investment properties from tax if held over five years",
+        "Allows homeowners to deduct property taxes from state income tax"
+      ],
+      "explanation": "A homestead exemption reduces the assessed value subject to property tax for owner-occupied primary residences. For example, a $50,000 homestead exemption on a home assessed at $200,000 means taxes are calculated on $150,000. Exemptions vary by state — some are fixed dollar amounts, others are percentages, and some have additional exemptions for seniors, veterans, or disabled homeowners. Homestead exemptions do not eliminate all taxes, do not apply to investment properties, and are not the same as income tax deductions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "property_tax",
+        "homestead_exemption",
+        "assessment"
+      ]
+    }
+  ]
+}

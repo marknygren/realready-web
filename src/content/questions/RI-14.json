@@ -1,0 +1,173 @@
+{
+  "standard_ref": "RI-14",
+  "scope": "state",
+  "state": "RI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "RI-14.1",
+      "question_text": "A condo owner requests a resale certificate from their association. How many days does the association have to provide it?",
+      "correct_answer": "10 days",
+      "distractors": ["5 days", "15 days", "30 days"],
+      "explanation": "Under RIGL 34-36.1, a condominium association must furnish a resale certificate within 10 days of a unit owner's request. This certificate discloses key financial and legal information needed for the transaction.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "resale certificate", "10 days", "RIGL 34-36.1"]
+    },
+    {
+      "key_topic_ref": "RI-14.1",
+      "question_text": "A resale certificate incorrectly states there are no pending assessments, but the association later levies a special assessment. Who is liable for the error?",
+      "correct_answer": "The association, not the unit owner",
+      "distractors": ["The selling unit owner bears liability", "The buyer's attorney is responsible", "The real estate agent who provided it"],
+      "explanation": "Under RIGL 34-36.1, the unit owner is not liable for erroneous information furnished by the association in the resale certificate. The association bears responsibility for the accuracy of the information it provides.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condominium", "resale certificate", "liability", "assessments"]
+    },
+    {
+      "key_topic_ref": "RI-14.1",
+      "question_text": "A buyer purchases a condo unit. The resale certificate showed $2,000 in unpaid assessments. After closing, the association claims $5,000 is owed. What is the buyer's maximum liability for unpaid assessments?",
+      "correct_answer": "Limited to the $2,000 stated in the certificate",
+      "distractors": ["The full $5,000 as claimed by the association", "Zero, since the seller originally owed the amounts", "Half the difference between the $2,000 and $5,000"],
+      "explanation": "Under RIGL 34-36.1, a purchaser is not liable for unpaid assessments beyond the amount disclosed in the resale certificate. The certificate amount of $2,000 caps the buyer's exposure to prior unpaid assessments.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["condominium", "resale certificate", "unpaid assessments", "buyer protection"]
+    },
+    {
+      "key_topic_ref": "RI-14.1",
+      "question_text": "A developer is selling units in a newly built condominium complex. What document must the developer provide to prospective buyers?",
+      "correct_answer": "A public offering statement",
+      "distractors": ["A resale certificate only", "A property condition disclosure only", "An association financial audit only"],
+      "explanation": "For new condominium developments, the developer must provide a public offering statement to prospective purchasers under RIGL 34-36.1. This is distinct from the resale certificate required for existing unit resales.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["condominium", "developer", "public offering statement", "new construction"]
+    },
+    {
+      "key_topic_ref": "RI-14.1",
+      "question_text": "A resale certificate includes information about code violations, leasehold terms, and financial details. A buyer's agent reviews it and notices a pending code violation. What should the agent advise?",
+      "correct_answer": "Investigate the violation before proceeding",
+      "distractors": ["Ignore it since the association is responsible", "Cancel the transaction immediately", "Wait until after closing to address it"],
+      "explanation": "The resale certificate discloses code violations, leasehold terms, financial information, and assessments. A buyer's agent should advise investigating any disclosed violations to understand potential costs and impacts before the buyer commits to the purchase.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condominium", "resale certificate", "code violations", "agent duty"]
+    },
+    {
+      "key_topic_ref": "RI-14.2",
+      "question_text": "A home sells for $600,000 in Rhode Island in 2026. What is the total conveyance tax using the current rate?",
+      "correct_answer": "$4,500",
+      "distractors": ["$2,760", "$3,000", "$6,000"],
+      "explanation": "The Tier 1 conveyance tax rate effective October 1, 2025 is $3.75 per $500 of purchase price. For a $600,000 sale: ($600,000 / $500) x $3.75 = $4,500. Since the entire amount is below the Tier 2 threshold of $824,000, no additional tax applies.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conveyance tax", "Tier 1", "calculation", "2025 rate"]
+    },
+    {
+      "key_topic_ref": "RI-14.2",
+      "question_text": "A residential property sells for $1,000,000 in 2026. What additional Tier 2 conveyance tax applies on the amount above the threshold?",
+      "correct_answer": "$1,320",
+      "distractors": ["$3,750", "$2,640", "$660"],
+      "explanation": "The 2026 Tier 2 threshold is $824,000. The amount subject to Tier 2 is $1,000,000 - $824,000 = $176,000. The additional Tier 2 tax is ($176,000 / $500) x $3.75 = $1,320. This is in addition to the Tier 1 tax on the full $1,000,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["conveyance tax", "Tier 2", "calculation", "threshold"]
+    },
+    {
+      "key_topic_ref": "RI-14.2",
+      "question_text": "Who is primarily responsible for paying the real estate conveyance tax in Rhode Island?",
+      "correct_answer": "The seller, by default",
+      "distractors": ["The buyer in all transactions", "Split equally between buyer and seller", "The party with the higher income"],
+      "explanation": "In Rhode Island, the seller pays the conveyance tax by default. However, the buyer and seller may agree to a different arrangement as part of their purchase and sale agreement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance tax", "seller responsibility", "payment"]
+    },
+    {
+      "key_topic_ref": "RI-14.2",
+      "question_text": "The Tier 2 conveyance tax threshold is adjusted annually. In which direction can the CPI adjustment move the threshold?",
+      "correct_answer": "Only upward; the threshold never decreases",
+      "distractors": ["Both up and down with inflation changes", "Downward only to increase state revenue", "It is fixed permanently and does not adjust"],
+      "explanation": "The Tier 2 threshold is adjusted annually based on the CPI, rounded up to the nearest $5. However, the threshold can only increase, never decrease. The 2026 threshold is $824,000, up from the initial $800,000.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance tax", "Tier 2", "CPI adjustment", "threshold"]
+    },
+    {
+      "key_topic_ref": "RI-14.2",
+      "question_text": "Revenue from RI's conveyance tax funds which type of programs?",
+      "correct_answer": "Housing programs and affordable housing",
+      "distractors": ["General state revenue and operations only", "Public school construction and renovation", "Road and bridge maintenance and repair"],
+      "explanation": "Rhode Island's real estate conveyance tax revenue is directed toward housing programs and affordable housing initiatives. This dedicated funding purpose was part of the rationale for the 2025 rate increase.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance tax", "revenue allocation", "affordable housing"]
+    },
+    {
+      "key_topic_ref": "RI-14.3",
+      "question_text": "A non-resident seller closes on a Rhode Island investment property. What must the buyer or closing agent do regarding RI income tax?",
+      "correct_answer": "Withhold a portion of proceeds for RI tax",
+      "distractors": ["Nothing; only the seller files taxes", "Report the sale to the IRS only", "Collect a signed tax waiver from the seller"],
+      "explanation": "Under RIGL 44-30-71.3, when a non-resident sells Rhode Island property, the buyer or closing agent must withhold a portion of the sale proceeds for Rhode Island income tax purposes. This ensures the state collects tax on the gain.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["non-resident withholding", "RIGL 44-30-71.3", "income tax"]
+    },
+    {
+      "key_topic_ref": "RI-14.3",
+      "question_text": "A closing agent is handling a sale where the seller lives in Connecticut and owns a vacation home in Narragansett. The agent forgets to withhold for RI income tax. Who bears liability?",
+      "correct_answer": "The closing agent who failed to withhold",
+      "distractors": ["Only the non-resident seller bears liability", "The buyer's lender is responsible for this", "No one, since CT has a reciprocal agreement"],
+      "explanation": "Under RIGL 44-30-71.3, the buyer or closing agent is responsible for withholding a portion of proceeds when a non-resident sells RI property. Failure to withhold exposes the closing agent to liability for the uncollected tax.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["non-resident withholding", "closing agent", "liability", "tax compliance"]
+    },
+    {
+      "key_topic_ref": "RI-14.3",
+      "question_text": "How is real property assessed for tax purposes in Rhode Island?",
+      "correct_answer": "At full and fair cash value by municipalities",
+      "distractors": ["At 70% of market value by the state", "At acquisition cost by the county assessor", "At a uniform statewide rate set by DEM"],
+      "explanation": "Rhode Island property is assessed at the municipal level at full and fair cash value. There is no statewide homestead exemption, and municipalities may classify properties with different tax rates.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "assessment", "municipal", "fair cash value"]
+    },
+    {
+      "key_topic_ref": "RI-14.3",
+      "question_text": "A homeowner asks their agent whether Rhode Island offers a statewide homestead tax exemption. What is the correct response?",
+      "correct_answer": "No, RI has no statewide homestead exemption",
+      "distractors": ["Yes, up to $50,000 of assessed value", "Yes, but only for veterans", "Yes, for primary residences owned over 5 years"],
+      "explanation": "Rhode Island does not offer a statewide homestead exemption for property taxes. Property tax rates and any local exemptions are determined at the municipal level, and municipalities may classify properties with different rates.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property tax", "homestead exemption", "municipal taxes"]
+    },
+    {
+      "key_topic_ref": "RI-14.3",
+      "question_text": "A municipality in Rhode Island charges residential properties a lower tax rate than commercial properties. Is this permitted?",
+      "correct_answer": "Yes, municipalities may set different rates",
+      "distractors": ["No, all property types must be taxed equally", "Only with prior state legislative approval", "Only if the rate difference is under 10%"],
+      "explanation": "Rhode Island municipalities have the authority to classify properties and apply different tax rates to different property types. This means residential, commercial, and other property classes may each have distinct tax rates within the same municipality.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property tax", "classification", "municipal authority", "tax rates"]
+    }
+  ]
+}

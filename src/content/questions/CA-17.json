@@ -1,0 +1,308 @@
+{
+  "standard_ref": "CA-17",
+  "scope": "state",
+  "state": "CA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CA-17.1",
+      "question_text": "A California home was purchased in 1995 for $200,000. Under Proposition 13, what is the maximum assessed value increase allowed per year?",
+      "correct_answer": "The lesser of 2% or the change in CPI",
+      "distractors": [
+        "3% per year",
+        "The greater of 2% or inflation",
+        "5% or the county's average appreciation rate"
+      ],
+      "explanation": "Proposition 13 limits annual increases in assessed value to the lesser of 2% or the change in the California Consumer Price Index (CPI). This protects long-term owners from rapid tax increases even when market values soar.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Prop-13",
+        "assessed-value",
+        "2-percent-cap",
+        "property-tax"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.1",
+      "question_text": "A California homeowner sells her property after owning it for 30 years. Under Proposition 13, what happens to the assessed value when the buyer takes ownership?",
+      "correct_answer": "The assessed value is reassessed to the purchase price (new base year value)",
+      "distractors": [
+        "The assessed value stays at the seller's 30-year base",
+        "The assessed value is adjusted to the county average for similar homes",
+        "Reassessment is delayed 1 year to allow the buyer to plan for tax increases"
+      ],
+      "explanation": "Under Proposition 13, a change of ownership triggers reassessment to the current purchase price, which becomes the new base year value. The buyer's taxes will be approximately 1% of what they paid, plus any bonds — often a dramatic increase from what the seller was paying.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Prop-13",
+        "reassessment",
+        "change-of-ownership",
+        "base-year-value"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.1",
+      "question_text": "A California property has an assessed value of $450,000. Ignoring bond assessments, what is the approximate annual property tax under Proposition 13?",
+      "correct_answer": "$4,500",
+      "distractors": [
+        "$2,250",
+        "$6,750",
+        "$9,000"
+      ],
+      "explanation": "Proposition 13 sets the property tax rate at 1% of assessed value. $450,000 × 1% = $4,500 per year. In practice, total tax bills include additional bond levies of roughly 0.2–0.5%, but the base rate is 1%.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Prop-13",
+        "tax-rate",
+        "1-percent",
+        "calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.1",
+      "question_text": "A California owner adds a new swimming pool to her home. Under Proposition 13, will this trigger a reassessment of the entire property?",
+      "correct_answer": "No, only the value added by new construction is assessed at current market value",
+      "distractors": [
+        "Yes, any improvement triggers full reassessment of the entire property",
+        "No, pools are specifically exempt from Proposition 13 reassessment",
+        "Yes, but only if the pool's value exceeds 10% of the existing assessed value"
+      ],
+      "explanation": "New construction under Proposition 13 triggers reassessment of only the new construction — not the entire property. The existing structure retains its Prop 13 base year value. The pool's value is assessed separately at current cost and added to the base.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Prop-13",
+        "new-construction",
+        "reassessment",
+        "improvement"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.1",
+      "question_text": "A buyer is alarmed that the seller's property tax bill is only $1,800/year on a home priced at $900,000. Why is this possible under California law?",
+      "correct_answer": "Prop 13 locks assessed value at purchase price with only small annual increases",
+      "distractors": [
+        "The seller receives a senior citizen exemption that caps all taxes",
+        "The county erroneously failed to reassess the property",
+        "Commercial exemptions carried over from a prior industrial use"
+      ],
+      "explanation": "Proposition 13 establishes the purchase price as the base year value and limits annual increases to 2% or CPI. A long-held property bought decades ago for a fraction of current market value will have dramatically lower taxes than a newly purchased property.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "Prop-13",
+        "base-year-value",
+        "tax-disparity",
+        "long-term-ownership"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.2",
+      "question_text": "Under California's Proposition 19, a parent wants to transfer their primary residence to a child. Which condition must the child meet to avoid reassessment?",
+      "correct_answer": "Child must use the home as their primary residence",
+      "distractors": [
+        "Child must be under age 18 at the time of transfer",
+        "Child must have lived in the home for at least 1 year before transfer",
+        "Child must be unemployed and financially dependent on the parent"
+      ],
+      "explanation": "Proposition 19 (effective 2021) replaced Prop 58. The parent-to-child exclusion now applies only to the parent's primary residence AND requires the child to use the home as their own primary residence. Investment properties no longer qualify for exclusion.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Prop-19",
+        "parent-child",
+        "exclusion",
+        "primary-residence"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.2",
+      "question_text": "A parent transfers a primary residence with a $300,000 base value and $1,500,000 market value to a child who moves in. Under Prop 19, what is the new assessed value?",
+      "correct_answer": "$500,000",
+      "distractors": [
+        "$300,000",
+        "$1,000,000",
+        "$1,500,000"
+      ],
+      "explanation": "Under Prop 19, if the difference between market value and base value exceeds $1M, the excess is added to the base. Here: $1,500,000 - $300,000 = $1,200,000 difference. Excess over $1M = $200,000. New assessed value = $300,000 + $200,000 = $500,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Prop-19",
+        "parent-child",
+        "partial-reassessment",
+        "calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.2",
+      "question_text": "A 60-year-old California homeowner sells her home and buys a smaller one in a different county. Under Proposition 19's portability provisions, what can she do?",
+      "correct_answer": "Transfer her existing assessed value to the new property anywhere in California",
+      "distractors": [
+        "Receive a 50% reduction in the new property's assessed value",
+        "Avoid reassessment only if she stays in the same county",
+        "Transfer her base value only if the new home costs less than the old home"
+      ],
+      "explanation": "Proposition 19 allows homeowners who are 55+, severely disabled, or victims of natural disasters to transfer their existing base year value to a replacement home anywhere in California — up to three times. Prior law (Prop 60/90) had county restrictions and only one transfer.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Prop-19",
+        "portability",
+        "base-year-transfer",
+        "55-plus"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.2",
+      "question_text": "A California homeowner's property has a Prop 13 assessed value of $500,000, but the current market value has dropped to $380,000. What property tax relief is available?",
+      "correct_answer": "Prop 8 allows temporary reduction in assessed value to market value",
+      "distractors": [
+        "The homeowner must pay based on the $500,000 assessed value",
+        "Prop 19 permits a base year reset in declining markets",
+        "The county must reduce assessed value by 10% automatically"
+      ],
+      "explanation": "Proposition 8 (1978, Prop 13 companion measure) allows taxpayers to apply for a temporary reduction in assessed value when the current market value falls below the Prop 13 base year value. The assessment is restored when the market recovers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "Prop-8",
+        "decline-in-value",
+        "reassessment",
+        "market-value"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.2",
+      "question_text": "A parent wants to transfer a rental investment property to their child and avoid reassessment under Prop 19. Is this possible?",
+      "correct_answer": "No, Prop 19 limits the exclusion to primary residences only",
+      "distractors": [
+        "Yes, all parent-to-child transfers are excluded",
+        "Yes, if the property value is under $1 million",
+        "No, but the child can apply for a 5-year deferral"
+      ],
+      "explanation": "Prop 19 narrowed the parent-child exclusion to apply only when the parent's primary residence is transferred and the child uses it as their own primary residence. Investment and rental properties no longer qualify for the exclusion.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "Prop-19",
+        "parent-child",
+        "primary-residence",
+        "exclusion"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.3",
+      "question_text": "A California home sells on October 15. The buyer receives a supplemental tax bill in December. Why does this bill arrive separately from the regular annual tax bill?",
+      "correct_answer": "Supplemental tax captures the difference between old and new assessed values, prorated",
+      "distractors": [
+        "The county charges a penalty for late buyer registration",
+        "The buyer elected to spread property taxes over two billing periods",
+        "Supplemental bills cover the seller's unpaid property taxes"
+      ],
+      "explanation": "California's supplemental property tax is levied after reassessment following a change of ownership. It covers the additional tax owed on the difference between the old assessed value and the new (purchase price) value, prorated for the remaining months of the fiscal year.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "supplemental-tax",
+        "reassessment",
+        "change-of-ownership",
+        "proration"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.3",
+      "question_text": "A buyer closes escrow on June 10. California's property tax fiscal year runs July 1 through June 30. Why might the buyer receive TWO supplemental tax bills?",
+      "correct_answer": "One bill covers the current fiscal year; a second covers the new fiscal year starting July 1",
+      "distractors": [
+        "The county charges separately for city and county portions",
+        "One bill is for the property and a second is for improvements",
+        "Two bills are issued when the purchase price exceeds $1 million"
+      ],
+      "explanation": "When a sale closes near the end of the fiscal year (July 1 – June 30), the buyer can receive two supplemental bills: one prorated for the remaining current fiscal year, and a second for the full new fiscal year beginning July 1. Both reflect the difference between old and new assessed values.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "supplemental-tax",
+        "fiscal-year",
+        "two-bills",
+        "proration"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.3",
+      "question_text": "A California homeowner files for the homeowner's property tax exemption. By approximately how much does this reduce her annual tax bill?",
+      "correct_answer": "$70",
+      "distractors": [
+        "$700",
+        "$7,000",
+        "$350"
+      ],
+      "explanation": "The homeowner's property tax exemption reduces the assessed value by $7,000. At the Prop 13 tax rate of 1%, this saves approximately $70 per year. While modest, it is available to all eligible owner-occupants of a primary residence.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "homeowners-exemption",
+        "assessed-value",
+        "property-tax",
+        "calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.3",
+      "question_text": "Which event triggers a full supplemental tax assessment in California?",
+      "correct_answer": "A change of ownership or completion of new construction",
+      "distractors": [
+        "Annual renewal of the homeowner's exemption",
+        "Filing an appeal with the county assessment appeals board",
+        "Refinancing the property with a new lender"
+      ],
+      "explanation": "California issues a supplemental assessment when there is a change of ownership or when new construction is completed. Refinancing does not trigger reassessment. The supplemental tax bridges the gap between the old and new assessed values for the remainder of the fiscal year.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "supplemental-tax",
+        "change-of-ownership",
+        "new-construction",
+        "reassessment"
+      ]
+    },
+    {
+      "key_topic_ref": "CA-17.3",
+      "question_text": "A California homeowner's market value drops below her Prop 13 assessed value during an economic downturn. She successfully files for a Prop 8 reduction. When the market recovers, what happens to her assessed value?",
+      "correct_answer": "The county restores assessed value as market value recovers, capped at the Prop 13 base",
+      "distractors": [
+        "The assessed value stays at the lower amount permanently",
+        "The assessed value is reset to zero and recalculated under new Prop 13 rules",
+        "The homeowner must reapply for the original Prop 13 base each year"
+      ],
+      "explanation": "A Prop 8 temporary reduction is reviewed annually. As market values recover, the county can restore (increase) the assessed value, but it cannot exceed the inflation-adjusted Prop 13 base year value that would have applied without the reduction.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "Prop-8",
+        "decline-in-value",
+        "recovery",
+        "assessed-value"
+      ]
+    }
+  ]
+}

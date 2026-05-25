@@ -1,0 +1,399 @@
+{
+  "standard_ref": "N-30",
+  "scope": "national",
+  "state": null,
+  "category": "real_estate_math",
+  "questions": [
+    {
+      "key_topic_ref": "N-30.1",
+      "question_text": "A buyer purchases a home for $340,000 and makes a $51,000 down payment. What is the loan-to-value (LTV) ratio?",
+      "correct_answer": "85%",
+      "distractors": [
+        "15%",
+        "75%",
+        "150%"
+      ],
+      "explanation": "LTV = Loan Amount ÷ Property Value. Step 1: Loan amount = Purchase price − Down payment = $340,000 − $51,000 = $289,000. Step 2: LTV = $289,000 ÷ $340,000 = 0.85 = 85%. Note that LTV + Down Payment Percentage = 100%: if LTV is 85%, the buyer put 15% down. LTV is used to determine whether PMI is required (conventional loans require PMI if LTV > 80%), and it directly affects the interest rate — lower LTV typically means better loan terms.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "LTV",
+        "loan_to_value",
+        "down_payment",
+        "PMI"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.1",
+      "question_text": "A lender requires a maximum 90% LTV. The property appraises at $260,000. The purchase price is $275,000. What is the maximum loan amount the lender will approve?",
+      "correct_answer": "$234,000",
+      "distractors": [
+        "$247,500",
+        "$260,000",
+        "$241,500"
+      ],
+      "explanation": "Lenders always base the LTV on the lesser of the appraised value or the purchase price. Here the appraisal ($260,000) is less than the purchase price ($275,000), so the lender uses $260,000. Maximum loan = $260,000 × 0.90 = $234,000. The buyer must cover the gap: down payment = $260,000 × 10% = $26,000 plus the price-vs-appraisal gap of $15,000 = $41,000 total cash needed. This scenario — where the appraisal comes in below contract price — is sometimes called a 'low appraisal' and frequently requires renegotiation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "LTV",
+        "appraised_value",
+        "purchase_price",
+        "maximum_loan_amount"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.2",
+      "question_text": "A borrower takes out a $180,000 mortgage at 7% annual interest. What is the interest portion of the first monthly payment?",
+      "correct_answer": "$1,050",
+      "distractors": [
+        "$12,600",
+        "$875",
+        "$1,260"
+      ],
+      "explanation": "Monthly interest = Principal Balance × Annual Rate ÷ 12. $180,000 × 0.07 = $12,600 annual interest ÷ 12 = $1,050 per month for the first payment. Mortgage interest is paid in arrears on the outstanding balance. As payments are made and principal is reduced, the interest portion decreases and the principal portion increases — this is amortization. For exam purposes, interest calculations almost always ask about the first payment (when the full loan amount is outstanding) or a specific month given a known balance.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": true,
+      "tags": [
+        "interest_calculation",
+        "monthly_interest",
+        "mortgage_payment",
+        "amortization"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.3",
+      "question_text": "A buyer takes out a $320,000 mortgage and pays 1.5 discount points to lower the interest rate. How much do the discount points cost at closing?",
+      "correct_answer": "$4,800",
+      "distractors": [
+        "$480",
+        "$3,200",
+        "$6,400"
+      ],
+      "explanation": "One discount point equals 1% of the loan amount, paid as an upfront fee at closing to permanently lower the interest rate. 1.5 points = 1.5% of $320,000 = $320,000 × 0.015 = $4,800. Points are paid by the buyer and appear on the Closing Disclosure as a lender charge. The trade-off: paying points reduces the monthly payment — the 'break-even' analysis determines how long the buyer must stay in the home to recoup the upfront cost. Points are tax-deductible for primary residence purchases.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "discount_points",
+        "loan_origination",
+        "closing_costs",
+        "points_calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.4",
+      "question_text": "A buyer is obtaining an FHA loan with a minimum 3.5% down payment. The purchase price is $295,000. How much is the required down payment, and what is the loan amount?",
+      "correct_answer": "Down payment: $10,325; Loan amount: $284,675",
+      "distractors": [
+        "Down payment: $14,750; Loan amount: $280,250",
+        "Down payment: $7,375; Loan amount: $287,625",
+        "Down payment: $10,325; Loan amount: $295,000"
+      ],
+      "explanation": "FHA minimum down payment = 3.5% of the purchase price for borrowers with a credit score of 580 or higher. Down payment = $295,000 × 0.035 = $10,325. Loan amount = Purchase price − Down payment = $295,000 − $10,325 = $284,675. Note: FHA also charges an upfront Mortgage Insurance Premium of 1.75% of the loan amount ($284,675 × 0.0175 = $4,982), which is typically rolled into the loan — but that is a separate calculation from the down payment.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "FHA_loans",
+        "down_payment",
+        "loan_amount",
+        "3.5_percent"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.1",
+      "question_text": "A buyer puts 20% down on a $400,000 home. What is the LTV ratio?",
+      "correct_answer": "80%",
+      "distractors": [
+        "20%",
+        "75%",
+        "90%"
+      ],
+      "explanation": "LTV = 100% - Down Payment % = 100% - 20% = 80%. Alternatively: Loan = $400,000 × 0.80 = $320,000. LTV = $320,000 ÷ $400,000 = 80%. An 80% LTV is significant because conventional loans at or below 80% LTV do not require private mortgage insurance (PMI). This is why 20% down is often considered the standard down payment target.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "LTV",
+        "down_payment",
+        "80_percent"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.1",
+      "question_text": "A property is valued at $250,000 and the buyer's loan is $225,000. At what LTV does PMI become required on a conventional loan?",
+      "correct_answer": "Yes, PMI is required because the LTV is 90%",
+      "distractors": [
+        "No, PMI is not required because the loan is under $300,000",
+        "No, PMI is only required on FHA loans, not conventional loans",
+        "Only if the buyer has a credit score below 700"
+      ],
+      "explanation": "LTV = $225,000 ÷ $250,000 = 90%. Conventional loans require PMI when the LTV exceeds 80%. PMI protects the lender (not the borrower) against default risk. PMI can be removed once the LTV drops to 78% through payments or appreciation (under the Homeowners Protection Act, lenders must automatically cancel PMI at 78% LTV). FHA loans have their own mortgage insurance (MIP) with different rules — FHA MIP cannot be cancelled on loans with less than 10% down.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "LTV",
+        "PMI",
+        "conventional_loan",
+        "80_percent"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.1",
+      "question_text": "A borrower wants to avoid PMI on a conventional loan for a $350,000 home. What is the minimum down payment needed?",
+      "correct_answer": "$70,000",
+      "distractors": [
+        "$35,000",
+        "$52,500",
+        "$17,500"
+      ],
+      "explanation": "To avoid PMI, the LTV must be 80% or less, meaning a minimum 20% down payment. $350,000 × 0.20 = $70,000. The $35,000 is 10% down, $52,500 is 15%, and $17,500 is 5%. With a $70,000 down payment, the loan would be $280,000 and LTV = $280,000 ÷ $350,000 = 80%, which is the threshold where PMI is not required.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "PMI",
+        "down_payment",
+        "LTV",
+        "minimum_down"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.2",
+      "question_text": "A $200,000 mortgage at 6% annual interest. After the first monthly payment of $1,199.10, how much of the first payment went to principal?",
+      "correct_answer": "$199.10",
+      "distractors": [
+        "$1,000.00",
+        "$599.55",
+        "$1,199.10"
+      ],
+      "explanation": "First month's interest: $200,000 × 0.06 ÷ 12 = $1,000.00. Principal portion = Total payment - Interest = $1,199.10 - $1,000.00 = $199.10. In the early years of a mortgage, most of the payment goes toward interest. As the loan amortizes and the balance decreases, a larger portion goes to principal. This is the fundamental concept of amortization — the gradual repayment of principal over the loan term.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "amortization",
+        "principal",
+        "interest_calculation",
+        "monthly_payment"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.2",
+      "question_text": "A borrower closes on a $300,000 loan at 5% on March 15. Using a 365-day year, what is the per diem (daily) interest charge?",
+      "correct_answer": "$41.10",
+      "distractors": [
+        "$41.67",
+        "$50.00",
+        "$1,250.00"
+      ],
+      "explanation": "Per diem interest = Loan amount × Annual rate ÷ 365. $300,000 × 0.05 ÷ 365 = $15,000 ÷ 365 = $41.10 per day. The $41.67 distractor uses a 360-day year ($15,000 ÷ 360). The $1,250 is monthly interest ($15,000 ÷ 12). Per diem interest at closing covers the days from closing through the end of the month. For a March 15 closing, the borrower would pay 16 days of per diem interest (March 15-31): 16 × $41.10 = $657.60.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "per_diem_interest",
+        "daily_interest",
+        "closing_costs",
+        "365_day"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.2",
+      "question_text": "A borrower has a $150,000 loan at 8% annual interest. What is the total interest for one year?",
+      "correct_answer": "$12,000",
+      "distractors": [
+        "$1,000",
+        "$120,000",
+        "$18,750"
+      ],
+      "explanation": "Annual interest = Loan amount × Annual rate = $150,000 × 0.08 = $12,000. This is simple interest for one year. The $1,000 divides by 12 (monthly). The $120,000 multiplies by 0.80 instead of 0.08. The $18,750 divides by 0.08 instead of multiplying. Note that with an amortizing loan, the actual interest paid during the first year would be slightly less than $12,000 because the principal balance decreases with each payment.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "annual_interest",
+        "interest_calculation",
+        "simple_interest"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.2",
+      "question_text": "After making payments for several years, a borrower's loan balance is $165,000 at 6.5% annual interest. What is the interest portion of the next monthly payment?",
+      "correct_answer": "$893.75",
+      "distractors": [
+        "$10,725.00",
+        "$1,375.00",
+        "$446.88"
+      ],
+      "explanation": "Monthly interest = Current balance × Annual rate ÷ 12. $165,000 × 0.065 ÷ 12 = $10,725 ÷ 12 = $893.75. Interest is always calculated on the current outstanding balance, not the original loan amount. The $10,725 is the annual interest. The $1,375 uses an incorrect rate. The $446.88 divides by 24 instead of 12. This concept is key to understanding how amortization works — as the balance shrinks, the interest portion decreases.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "interest_calculation",
+        "current_balance",
+        "amortization"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.3",
+      "question_text": "A buyer pays 2 discount points on a $250,000 loan. Each point typically reduces the rate by approximately 0.25%. If the original rate was 7%, the new rate is approximately:",
+      "correct_answer": "6.5%",
+      "distractors": [
+        "5.0%",
+        "6.75%",
+        "6.0%"
+      ],
+      "explanation": "Each discount point typically reduces the interest rate by about 0.25% (this is a general rule of thumb — actual buydown amounts vary by lender and market). 2 points × 0.25% = 0.50% reduction. 7% - 0.50% = 6.5%. The cost of the points: 2% × $250,000 = $5,000 paid at closing. Whether buying down the rate makes sense depends on how long the borrower plans to keep the loan — the monthly savings must eventually exceed the upfront cost.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "discount_points",
+        "rate_buydown",
+        "interest_rate"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.3",
+      "question_text": "A lender charges a 1% loan origination fee and the borrower also pays 1.5 discount points on a $280,000 loan. What is the total points cost?",
+      "correct_answer": "$7,000",
+      "distractors": [
+        "$4,200",
+        "$2,800",
+        "$9,800"
+      ],
+      "explanation": "Total points = origination fee + discount points = 1% + 1.5% = 2.5%. $280,000 × 0.025 = $7,000. An origination fee compensates the lender for processing the loan. Discount points are optional prepaid interest to buy down the rate. Both are expressed as percentages of the loan amount. The $4,200 only counts 1.5 points. The $2,800 only counts 1 point. Total points appear on the Closing Disclosure under lender charges.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "discount_points",
+        "origination_fee",
+        "closing_costs"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.3",
+      "question_text": "A borrower's monthly payment savings from buying 1 discount point is $45. The point cost $3,500. How many months does it take to break even?",
+      "correct_answer": "Approximately 78 months",
+      "distractors": [
+        "Approximately 35 months",
+        "Approximately 156 months",
+        "Approximately 12 months"
+      ],
+      "explanation": "Break-even = Cost of points ÷ Monthly savings = $3,500 ÷ $45 = 77.78 ≈ 78 months (about 6.5 years). If the borrower keeps the loan longer than 78 months, buying the point saves money overall. If they sell or refinance before 78 months, the upfront cost was not recovered. Break-even analysis is a practical skill agents should understand to help buyers decide whether to pay points.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "discount_points",
+        "break_even",
+        "cost_analysis"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.3",
+      "question_text": "One discount point on a $400,000 loan costs:",
+      "correct_answer": "$4,000",
+      "distractors": [
+        "$400",
+        "$40,000",
+        "$2,000"
+      ],
+      "explanation": "One discount point = 1% of the loan amount. $400,000 × 0.01 = $4,000. This is a straightforward definition question. Points are always calculated as a percentage of the loan amount, not the purchase price (though for 100% financing they would be the same). The $400 uses 0.1%, the $40,000 uses 10%, and the $2,000 uses 0.5%.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "discount_points",
+        "definition",
+        "loan_amount"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.4",
+      "question_text": "A buyer purchases a $350,000 home with a conventional loan requiring 10% down. What is the loan amount?",
+      "correct_answer": "$315,000",
+      "distractors": [
+        "$35,000",
+        "$280,000",
+        "$350,000"
+      ],
+      "explanation": "Loan amount = Purchase price - Down payment. Down payment = $350,000 × 0.10 = $35,000. Loan = $350,000 - $35,000 = $315,000. The $35,000 is the down payment, not the loan. The $280,000 uses a 20% down payment. The $350,000 assumes no down payment. LTV = $315,000 ÷ $350,000 = 90%, which exceeds 80%, so PMI would be required.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "loan_amount",
+        "down_payment",
+        "conventional_loan"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.4",
+      "question_text": "A VA loan requires no down payment. If a veteran purchases a home for $280,000, what is the loan amount (excluding the VA funding fee)?",
+      "correct_answer": "$280,000",
+      "distractors": [
+        "$266,000",
+        "$252,000",
+        "$270,200"
+      ],
+      "explanation": "VA loans offer 100% financing — no down payment required for eligible veterans. The loan amount equals the full purchase price: $280,000. The VA funding fee (typically 1.25-3.3% depending on service history and down payment) is a separate charge that can be financed into the loan but is not part of the base loan amount calculation. The $266,000 assumes 5% down, $252,000 assumes 10% down. VA's zero-down-payment benefit is one of its most significant advantages.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "VA_loan",
+        "zero_down",
+        "loan_amount"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.4",
+      "question_text": "A buyer wants to purchase a $200,000 home using an FHA loan with 3.5% down. The FHA upfront MIP is 1.75% of the loan amount. If the buyer finances the MIP, what is the total financed amount?",
+      "correct_answer": "$196,375",
+      "distractors": [
+        "$193,000",
+        "$200,000",
+        "$203,500"
+      ],
+      "explanation": "Step 1: Down payment = $200,000 × 0.035 = $7,000. Step 2: Base loan = $200,000 - $7,000 = $193,000. Step 3: Upfront MIP = $193,000 × 0.0175 = $3,377.50. Step 4: Total financed = $193,000 + $3,377.50 = $196,377.50 ≈ $196,375 (rounded). The $193,000 is the base loan without MIP. The $203,500 incorrectly adds MIP to the purchase price. FHA allows the upfront MIP to be financed into the loan, increasing the total amount borrowed.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "FHA_loan",
+        "upfront_MIP",
+        "financed_MIP",
+        "loan_calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-30.4",
+      "question_text": "A lender approves a borrower for a maximum loan of $350,000 at 95% LTV. What is the maximum purchase price the borrower can afford?",
+      "correct_answer": "$368,421",
+      "distractors": [
+        "$350,000",
+        "$332,500",
+        "$385,000"
+      ],
+      "explanation": "If the loan is 95% of the purchase price: $350,000 = 0.95 × Purchase Price. Purchase Price = $350,000 ÷ 0.95 = $368,421. The buyer's 5% down payment on this price would be $368,421 × 0.05 = $18,421. Cross-check: $368,421 - $18,421 = $350,000 loan. The $350,000 assumes the loan equals the purchase price (100% LTV). Working backward from the loan amount to the maximum price requires dividing by the LTV percentage.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "LTV",
+        "maximum_purchase_price",
+        "working_backward",
+        "loan_amount"
+      ]
+    }
+  ]
+}

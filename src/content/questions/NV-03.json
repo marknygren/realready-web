@@ -1,0 +1,118 @@
+{
+  "standard_ref": "NV-03",
+  "scope": "state",
+  "state": "NV",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "NV-03.1",
+      "question_text": "A licensee is convicted of a misdemeanor. Within how many days must they notify the Division?",
+      "correct_answer": "Within 10 days of the event",
+      "distractors": ["Within 30 days of the event", "Within 5 business days", "Within 60 days of the event"],
+      "explanation": "Nevada requires licensees to notify the Division within 10 days of a conviction or plea, a change in broker association, or a change in personal information. Failure to provide timely notice can result in disciplinary action.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["notification", "10 days", "conviction"]
+    },
+    {
+      "key_topic_ref": "NV-03.1",
+      "question_text": "A salesperson transfers to a new brokerage. Which notification requirement applies?",
+      "correct_answer": "Notify the Division within 10 days",
+      "distractors": ["Notify the Division within 30 days", "No notification is required", "Notify only the former broker"],
+      "explanation": "Changing broker association is one of the events requiring notification to the Division within 10 days. Both the departing and receiving brokers typically handle documentation, but the licensee bears responsibility for ensuring the Division is informed promptly.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["broker change", "notification", "10 days"]
+    },
+    {
+      "key_topic_ref": "NV-03.1",
+      "question_text": "A salesperson is not currently associated with any broker. What is their license status?",
+      "correct_answer": "Inactive until associated with a broker",
+      "distractors": ["Active with limited practice rights", "Suspended pending a Division hearing", "Revoked after a 90-day grace period"],
+      "explanation": "A salesperson or broker-salesperson without an active broker association holds an inactive license. They cannot conduct real estate activities until they associate with a licensed broker and update their status with the Division.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inactive status", "broker association", "license status"]
+    },
+    {
+      "key_topic_ref": "NV-03.1",
+      "question_text": "Which of the following would be grounds for denying a Nevada real estate license application?",
+      "correct_answer": "A prior felony conviction",
+      "distractors": ["A previous career change", "Residence in another state", "Age over 65 at application"],
+      "explanation": "Felony convictions, crimes of moral turpitude, license revocation in another state, and providing false information on the application are all grounds for denial. General factors like career history, residency, or age are not grounds for denial.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["denial", "felony", "eligibility"]
+    },
+    {
+      "key_topic_ref": "NV-03.1",
+      "question_text": "An applicant had their license revoked in Arizona for fraud. They now apply in Nevada. What is the likely outcome?",
+      "correct_answer": "The application will likely be denied",
+      "distractors": ["Nevada ignores other states' actions", "Approval with a probationary period", "Automatic approval after five years"],
+      "explanation": "License revocation in another state is a statutory ground for denying a Nevada license. Nevada considers out-of-state disciplinary history as evidence of potential unfitness. The applicant may appeal but the prior revocation creates a strong basis for denial.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["denial", "revocation", "reciprocity", "out-of-state"]
+    },
+    {
+      "key_topic_ref": "NV-03.2",
+      "question_text": "How long must a Nevada broker retain transaction records after closing?",
+      "correct_answer": "Five years from the closing date",
+      "distractors": ["Three years from the closing date", "Seven years from the closing date", "Ten years from the closing date"],
+      "explanation": "Nevada requires brokers to maintain all transaction records for at least five years from the date of closing. This includes listing agreements, purchase contracts, trust account records, correspondence, and disclosure documents.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["record retention", "five years", "broker responsibility"]
+    },
+    {
+      "key_topic_ref": "NV-03.2",
+      "question_text": "A Division investigator arrives at a brokerage during business hours requesting to review transaction files. What must the broker do?",
+      "correct_answer": "Allow inspection of the records",
+      "distractors": ["Require a court-issued subpoena", "Schedule a future appointment only", "Refuse without legal counsel present"],
+      "explanation": "The Division has authority to inspect brokerage records during regular business hours without a subpoena. Brokers must maintain organized, accessible files and cooperate with Division inspections. Refusal to allow inspection can result in disciplinary action.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inspection", "Division authority", "business hours"]
+    },
+    {
+      "key_topic_ref": "NV-03.2",
+      "question_text": "Which documents must a broker maintain in a complete transaction file?",
+      "correct_answer": "Contracts, disclosures, and trust records",
+      "distractors": ["Only the signed purchase agreement", "Only the final closing statement", "Only the original listing agreement"],
+      "explanation": "A complete transaction file includes listing agreements, purchase contracts, trust account records, correspondence, and all disclosure documents. The broker is responsible for maintaining a comprehensive file for each transaction for the five-year retention period.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transaction file", "records", "broker responsibility"]
+    },
+    {
+      "key_topic_ref": "NV-03.2",
+      "question_text": "A salesperson closes a transaction and keeps all original documents at home. Is this proper procedure?",
+      "correct_answer": "No, documents must go to the broker",
+      "distractors": ["Yes, if copies are made first", "Yes, salespersons maintain own files", "No, documents go to the Division"],
+      "explanation": "All transaction documents must be submitted to the supervising broker in a timely manner. The broker is responsible for maintaining the complete transaction file. Salespersons cannot retain original documents separately from the brokerage's files.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["document submission", "broker", "salesperson duties"]
+    },
+    {
+      "key_topic_ref": "NV-03.2",
+      "question_text": "A former client asks a licensee to share transaction details with a third party. How should the licensee respond?",
+      "correct_answer": "Protect confidentiality of client info",
+      "distractors": ["Share freely since closing occurred", "Provide details if requested in writing", "Release all records to any party"],
+      "explanation": "Licensees must protect confidential client information even after a transaction closes. The duty of confidentiality survives the end of the agency relationship. Releasing confidential information without proper authorization or legal requirement violates licensee obligations.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["confidentiality", "client information", "post-closing"]
+    }
+  ]
+}

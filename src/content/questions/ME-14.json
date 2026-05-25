@@ -1,0 +1,228 @@
+{
+  "standard_ref": "ME-14",
+  "scope": "state",
+  "state": "ME",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "ME-14.1",
+      "question_text": "A landowner divides a 100-acre parcel into four lots over three years. Under Maine law, does this qualify as a subdivision?",
+      "correct_answer": "Yes, 3 or more lots in 5 years is a subdivision",
+      "distractors": ["No, only 5+ lots triggers subdivision", "Only if lots are under 10 acres each", "No, the 5-year window starts at recording"],
+      "explanation": "Maine defines a subdivision as dividing a tract into 3 or more lots within any 5-year period, counting from September 23, 1971 onward. Four lots in three years clearly meets this threshold. The definition includes division by sale, lease, or development regardless of lot size, with limited exceptions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["subdivision", "lot division", "5-year period"]
+    },
+    {
+      "key_topic_ref": "ME-14.1",
+      "question_text": "Under Maine subdivision law, which activity counts toward lot division?",
+      "correct_answer": "Sale, lease, development, or building",
+      "distractors": ["Only outright sales of land", "Only residential lot creation", "Only divisions recorded at the registry"],
+      "explanation": "Maine's subdivision definition is broad and includes division by sale, lease, development, or the construction of buildings. This prevents landowners from circumventing the law by leasing rather than selling parcels. Any method of creating separate parcels or occupancy areas counts toward the 3-lot threshold.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["subdivision definition", "lot division methods"]
+    },
+    {
+      "key_topic_ref": "ME-14.1",
+      "question_text": "A rural landowner creates two 45-acre lots from a large parcel outside any shoreland zone. Does the 40-acre exception apply?",
+      "correct_answer": "Yes, lots of 40+ acres are generally exempt",
+      "distractors": ["No, the exception only applies in towns", "No, the minimum exemption is 50 acres", "Only if the municipality approves it"],
+      "explanation": "Maine's subdivision law includes a 40-acre exception: lots of 40 or more acres are not counted toward the subdivision threshold, provided the municipality has not elected to remove this exception. Since these lots are outside shoreland areas and exceed 40 acres, the exception applies unless the town has opted out.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["40-acre exception", "subdivision exemption", "rural land"]
+    },
+    {
+      "key_topic_ref": "ME-14.1",
+      "question_text": "Can a Maine municipality expand the statutory definition of subdivision to include 2-lot divisions?",
+      "correct_answer": "No, municipalities cannot expand beyond statute",
+      "distractors": ["Yes, through local zoning ordinance", "Yes, if voters approve at town meeting", "Only with DEP written permission"],
+      "explanation": "Maine law prohibits municipalities from expanding the subdivision definition beyond what the state statute provides. The 3-lot threshold is set by state law and cannot be made stricter at the local level. Municipalities may adopt additional review standards for subdivisions, but they cannot change the fundamental definition of what constitutes a subdivision.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["subdivision law", "municipal authority", "state preemption"]
+    },
+    {
+      "key_topic_ref": "ME-14.1",
+      "question_text": "Why does Maine subdivision law use a historical reference date for counting lot divisions?",
+      "correct_answer": "To prevent evasion using old divisions",
+      "distractors": ["To exempt all pre-existing lots entirely", "To align with federal environmental rules", "To reset the count every five years"],
+      "explanation": "Maine's subdivision law counts lot divisions beginning from 1971 to prevent landowners from circumventing review by claiming divisions were completed before the law existed. The reviewing authority must consider all previously created lots since that date when determining whether a tract has been subdivided.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["subdivision law", "reference date", "lot counting"]
+    },
+    {
+      "key_topic_ref": "ME-14.2",
+      "question_text": "Under Maine's Mandatory Shoreland Zoning Act, how far does shoreland zoning extend from a great pond?",
+      "correct_answer": "250 feet",
+      "distractors": ["100 feet", "75 feet", "500 feet"],
+      "explanation": "Maine's Mandatory Shoreland Zoning Act requires all municipalities to zone areas within 250 feet of great ponds, rivers, and coastal/tidal wetlands. This buffer protects water quality and habitat. The 75-foot distance applies to certain smaller streams, not great ponds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["shoreland zoning", "great ponds", "setback distance"]
+    },
+    {
+      "key_topic_ref": "ME-14.2",
+      "question_text": "A buyer wants to build a home 90 feet from a great pond in Maine. Does the structure meet the minimum setback?",
+      "correct_answer": "No, setback is 100 feet from great ponds",
+      "distractors": ["Yes, the setback distance is 75 feet", "Yes, 90 feet exceeds the requirement", "No, setback distance is 250 feet total"],
+      "explanation": "Maine shoreland zoning requires structures to be set back at least 100 feet from great ponds and rivers. At 90 feet, this proposed home would not meet the setback requirement and would need a variance or redesign. The 250-foot figure is the shoreland zoning district boundary, not the building setback.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["structure setback", "great ponds", "shoreland zoning"]
+    },
+    {
+      "key_topic_ref": "ME-14.2",
+      "question_text": "Who is the primary local contact for shoreland zoning compliance in a Maine municipality?",
+      "correct_answer": "The code enforcement officer",
+      "distractors": ["The county Registry of Deeds", "The state DEP commissioner", "The municipal tax assessor"],
+      "explanation": "Local code enforcement officers are the primary contacts for shoreland zoning compliance in Maine municipalities. While the Department of Environmental Protection administers the program at the state level, day-to-day permitting and enforcement occurs through the municipal code enforcement officer. They review applications and ensure compliance with local shoreland zoning ordinances.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["code enforcement", "shoreland zoning", "local compliance"]
+    },
+    {
+      "key_topic_ref": "ME-14.2",
+      "question_text": "A property owner near a coastal wetland in Maine wants to clear trees 50 feet from the water. Is this permitted?",
+      "correct_answer": "No, clearing within 75 feet is restricted",
+      "distractors": ["Yes, clearing is allowed beyond 25 feet", "Yes, with a simple building permit", "Only if the trees are dead or diseased"],
+      "explanation": "Maine shoreland zoning prohibits clearing woody vegetation within 75 feet of protected water bodies, including coastal wetlands. At 50 feet from the water, this clearing would violate the vegetation protection standard. This rule preserves natural buffers that filter runoff and prevent erosion along shorelines.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["vegetation clearing", "75-foot buffer", "coastal wetland"]
+    },
+    {
+      "key_topic_ref": "ME-14.2",
+      "question_text": "Which state agency administers the Mandatory Shoreland Zoning Act at the state level in Maine?",
+      "correct_answer": "Department of Environmental Protection",
+      "distractors": ["Department of Agriculture", "Maine Real Estate Commission", "Bureau of Parks and Lands"],
+      "explanation": "The Maine Department of Environmental Protection (DEP) administers the Mandatory Shoreland Zoning Act at the state level. DEP establishes minimum guidelines that municipalities must adopt, reviews local ordinances for compliance, and can step in if a municipality fails to adopt or enforce adequate shoreland zoning standards.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["DEP", "shoreland zoning", "state administration"]
+    },
+    {
+      "key_topic_ref": "ME-14.3",
+      "question_text": "The Land Use Planning Commission has jurisdiction over which type of Maine territory?",
+      "correct_answer": "Unorganized and deorganized areas",
+      "distractors": ["All coastal municipalities", "Only state-owned forest land", "Incorporated cities over 10,000 people"],
+      "explanation": "Maine's Land Use Planning Commission (LUPC) has jurisdiction over unorganized territories and deorganized townships, which make up roughly half of Maine's land area. These areas lack municipal government, so LUPC serves as the planning and zoning authority. Incorporated municipalities handle their own land use regulation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["LUPC", "unorganized territory", "jurisdiction"]
+    },
+    {
+      "key_topic_ref": "ME-14.3",
+      "question_text": "A developer plans to build a 25-acre commercial project in an organized Maine town. Which state-level review applies?",
+      "correct_answer": "DEP Site Location of Development review",
+      "distractors": ["LUPC development permit", "Municipal review only, no state review", "Maine Revenue Services tax review"],
+      "explanation": "The Site Location of Development Act requires DEP review for large developments of 20 or more acres of land, among other thresholds. At 25 acres, this commercial project triggers Site Location review. LUPC would not apply because the project is in an organized municipality, not unorganized territory. Municipal review also applies but does not replace the state requirement.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Site Location", "DEP review", "large development"]
+    },
+    {
+      "key_topic_ref": "ME-14.3",
+      "question_text": "Under which state department does the Land Use Planning Commission operate?",
+      "correct_answer": "Dept. of Agriculture, Conservation & Forestry",
+      "distractors": ["Dept. of Environmental Protection", "Dept. of Economic Development", "Office of the Attorney General"],
+      "explanation": "The Land Use Planning Commission (LUPC) operates under the Department of Agriculture, Conservation and Forestry (DACF). This placement reflects LUPC's focus on managing Maine's vast unorganized territories, which are predominantly forest and conservation lands. DEP is a separate agency that handles Site Location review and shoreland zoning.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["LUPC", "DACF", "state organization"]
+    },
+    {
+      "key_topic_ref": "ME-14.3",
+      "question_text": "A landowner in an unorganized Maine township wants to build a lakeside cabin. Which three LUPC district types might affect the parcel?",
+      "correct_answer": "Protection, Management, and Development",
+      "distractors": ["Residential, Commercial, and Industrial", "Rural, Suburban, and Urban", "Conservation, Transition, and Growth"],
+      "explanation": "LUPC uses three district types to regulate land in unorganized territories: Protection districts (strict conservation), Management districts (resource-based activities allowed), and Development districts (more intensive uses permitted). The zoning district assigned to the parcel determines what activities and structures are allowed. These differ from typical municipal zoning categories.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["LUPC districts", "zoning types", "unorganized territory"]
+    },
+    {
+      "key_topic_ref": "ME-14.3",
+      "question_text": "A project with 4 acres of buildings and paved surfaces is proposed in an organized Maine town. Does this trigger Site Location review?",
+      "correct_answer": "Yes, 3+ acres of ground coverage triggers it",
+      "distractors": ["No, ground coverage is not a trigger", "No, only 20+ acres of land triggers it", "Only if the project is commercial"],
+      "explanation": "The Site Location of Development Act triggers review when buildings, parking, roads, and paved areas occupy 3 or more acres of ground area. At 4 acres, this project exceeds the threshold. The 20-acre land disturbance trigger is separate. Both residential and commercial projects can trigger Site Location review.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Site Location", "floor area threshold", "DEP review"]
+    },
+    {
+      "key_topic_ref": "ME-14.4",
+      "question_text": "A seller's property has an underground oil storage tank. What is the seller's obligation under Maine law?",
+      "correct_answer": "Disclose the tank and comply with DEP rules",
+      "distractors": ["No disclosure unless the buyer asks", "Remove the tank before listing", "Only disclose if the tank is leaking"],
+      "explanation": "Maine law requires sellers to disclose the presence of underground oil storage tanks and comply with DEP regulations governing them. The Maine Ground Water Oil Clean-up Fund may help with remediation costs, but disclosure is mandatory regardless of the tank's condition. Waiting for a buyer to ask or only disclosing leaking tanks would violate disclosure requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["underground tank", "disclosure", "DEP compliance"]
+    },
+    {
+      "key_topic_ref": "ME-14.4",
+      "question_text": "What is the minimum acreage required for enrollment in Maine's Tree Growth Tax program?",
+      "correct_answer": "10 acres of managed forest",
+      "distractors": ["5 acres of any wooded land", "25 acres of timber land", "50 acres of commercial forest"],
+      "explanation": "Maine's Tree Growth Tax program requires a minimum of 10 acres of land managed as forest under an approved forest management plan. Enrolled properties receive reduced tax assessments based on the land's value for growing trees rather than its market value. A withdrawal penalty applies if the land is removed from the program.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Tree Growth Tax", "minimum acreage", "forest management"]
+    },
+    {
+      "key_topic_ref": "ME-14.4",
+      "question_text": "A landowner removes 15 acres from Maine's Tree Growth Tax program to develop housing. What financial consequence results?",
+      "correct_answer": "A withdrawal penalty is assessed",
+      "distractors": ["No penalty if housing is built", "A tax refund for prior years", "Only a one-year tax adjustment"],
+      "explanation": "When land is withdrawn from Maine's Tree Growth Tax program, the owner must pay a withdrawal penalty. This penalty compensates the municipality for the years of reduced taxation the owner enjoyed. The penalty exists to discourage speculative enrollment and ensure the program benefits genuine forest management rather than tax avoidance before development.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Tree Growth Tax", "withdrawal penalty", "development"]
+    },
+    {
+      "key_topic_ref": "ME-14.4",
+      "question_text": "Under Maine law, who owns the bed of a great pond?",
+      "correct_answer": "The state holds it in public trust",
+      "distractors": ["The adjacent shoreline property owners", "The municipality where it is located", "The first person to record a deed"],
+      "explanation": "In Maine, great ponds (natural inland water bodies of 10 or more acres) have their beds owned by the state in public trust. This means no private party can claim ownership of the pond bottom. Additionally, the public has the right of foot access over unimproved land to reach these ponds under Title 17, Section 3860.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["great ponds", "public trust", "state ownership"]
+    },
+    {
+      "key_topic_ref": "ME-14.4",
+      "question_text": "A hiker wants to walk across unimproved private land to reach a 15-acre inland pond in Maine. Is this legally permitted?",
+      "correct_answer": "Yes, public foot access is allowed by statute",
+      "distractors": ["No, this constitutes trespassing", "Only with written landowner permission", "Only if a public easement is recorded"],
+      "explanation": "Maine law (Title 17, Section 3860) grants the public the right of foot access over unimproved, unfenced land to reach great ponds. Since the pond is 15 acres (exceeding the 10-acre threshold for great ponds), the hiker may legally cross unimproved private land on foot to reach it. This right does not extend to motorized access or improved/fenced land.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["great ponds", "public access", "Title 17"]
+    }
+  ]
+}

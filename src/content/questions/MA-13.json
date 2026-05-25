@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MA-13",
+  "scope": "state",
+  "state": "MA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MA-13.1",
+      "question_text": "Under MGL Chapter 186 Section 15B, the maximum security deposit a Massachusetts landlord may collect is:",
+      "correct_answer": "One month's rent",
+      "distractors": ["Two months' rent", "One and a half months' rent", "Three months' rent"],
+      "explanation": "Massachusetts limits security deposits to one month's rent. In addition, landlords may collect first month's rent, last month's rent, and the actual cost of a lock change — but no more.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "maximum", "one-month"]
+    },
+    {
+      "key_topic_ref": "MA-13.1",
+      "question_text": "A landlord collects a security deposit but fails to provide a Statement of Condition within 10 days. The tenant may claim:",
+      "correct_answer": "Treble damages under Section 15B",
+      "distractors": ["Only a return of the deposit amount", "A penalty of $100 per day of delay", "Free rent for the first month of tenancy"],
+      "explanation": "Massachusetts security deposit law is extremely strict — even technical violations like failing to provide the Statement of Condition within 10 days can trigger treble damages (3x the deposit).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "statement-of-condition", "treble-damages"]
+    },
+    {
+      "key_topic_ref": "MA-13.1",
+      "question_text": "A landlord must hold a tenant's security deposit in what type of account?",
+      "correct_answer": "A separate interest-bearing MA bank account",
+      "distractors": ["Any personal savings account they choose", "A non-interest-bearing escrow account", "An attorney's trust account only"],
+      "explanation": "Security deposits must be held in a separate, interest-bearing account in a Massachusetts bank. The landlord must provide the tenant with the bank name, address, and account number.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "interest-bearing", "account"]
+    },
+    {
+      "key_topic_ref": "MA-13.1",
+      "question_text": "A tenant moves out on March 1. By what date must the landlord return the security deposit with an itemized deduction list?",
+      "correct_answer": "March 31",
+      "distractors": ["March 15", "April 30", "May 1"],
+      "explanation": "The deposit must be returned within 30 days of tenancy termination with an itemized list of deductions. March 1 plus 30 days = March 31.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "30-day-return", "deadline"]
+    },
+    {
+      "key_topic_ref": "MA-13.1",
+      "question_text": "How much annual interest must a landlord pay a tenant on their security deposit?",
+      "correct_answer": "5% or actual bank interest, whichever is less",
+      "distractors": ["The full bank interest rate earned each year", "No interest payment is required by law", "A flat rate of 3% per year of tenancy"],
+      "explanation": "The landlord must pay the tenant annual interest of 5% or the actual interest earned on the deposit, whichever is less. This payment must be made annually.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "interest", "annual"]
+    },
+    {
+      "key_topic_ref": "MA-13.2",
+      "question_text": "The State Sanitary Code (105 CMR 410) establishes minimum standards for:",
+      "correct_answer": "Human habitation in rental properties",
+      "distractors": ["Commercial building fire safety codes", "Restaurant food handling procedures", "Public swimming pool sanitation rules"],
+      "explanation": "The State Sanitary Code establishes minimum standards for human habitation, covering structural integrity, water supply, sewage disposal, heating, lighting, ventilation, and pest control.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sanitary-code", "habitability", "standards"]
+    },
+    {
+      "key_topic_ref": "MA-13.2",
+      "question_text": "A tenant's apartment has no heat in January, violating the Sanitary Code. The tenant may use which remedy?",
+      "correct_answer": "Rent withholding",
+      "distractors": ["Only call the police", "Self-help eviction of the landlord", "File a claim in federal court"],
+      "explanation": "Rent withholding is one of the remedies available to tenants when the landlord fails to maintain the premises per the Sanitary Code. Repair and deduct is also available.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["sanitary-code", "rent-withholding", "tenant-remedy"]
+    },
+    {
+      "key_topic_ref": "MA-13.2",
+      "question_text": "A tenant reports Sanitary Code violations to the Board of Health. Two months later, the landlord issues an eviction notice. This creates a presumption of:",
+      "correct_answer": "Retaliatory eviction",
+      "distractors": ["Constructive eviction", "Justified termination", "Voluntary relocation"],
+      "explanation": "Eviction within 6 months of a tenant complaint creates a rebuttable presumption of retaliatory eviction. The landlord must prove a legitimate non-retaliatory reason for the eviction.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["sanitary-code", "retaliation", "eviction"]
+    },
+    {
+      "key_topic_ref": "MA-13.2",
+      "question_text": "The 'repair and deduct' remedy allows a tenant to:",
+      "correct_answer": "Fix defects and subtract costs from rent",
+      "distractors": ["Deduct rent for personal inconvenience", "Hire any contractor at landlord's expense", "Withhold all rent until issues are resolved"],
+      "explanation": "Repair and deduct allows a tenant to make necessary repairs when the landlord fails to maintain habitability, and deduct the reasonable cost from rent. This is distinct from full rent withholding.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["sanitary-code", "repair-deduct", "tenant-remedy"]
+    },
+    {
+      "key_topic_ref": "MA-13.2",
+      "question_text": "Within what timeframe of a tenant complaint does the presumption of retaliatory eviction apply?",
+      "correct_answer": "6 months",
+      "distractors": ["30 days", "12 months", "3 months"],
+      "explanation": "Retaliatory eviction within 6 months of a tenant complaint creates a rebuttable presumption of retaliation. This protects tenants from being punished for exercising their legal rights.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["retaliation", "6-months", "presumption"]
+    },
+    {
+      "key_topic_ref": "MA-13.3",
+      "question_text": "A Massachusetts homeowner rents their vacation home for weekend stays. They must collect and remit:",
+      "correct_answer": "Room occupancy excise tax",
+      "distractors": ["Real estate transfer tax", "Deed excise tax", "Personal property tax"],
+      "explanation": "Short-term rental operators must collect and remit room occupancy excise tax. The state rate is 5.7% plus any local option tax that the community has adopted.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["short-term-rental", "excise-tax", "occupancy"]
+    },
+    {
+      "key_topic_ref": "MA-13.3",
+      "question_text": "A community votes to ban short-term rentals in residential zones. This authority comes from:",
+      "correct_answer": "Local bylaws and ordinances",
+      "distractors": ["State Board of Registration rules", "Federal zoning preemption laws", "The Wetlands Protection Act"],
+      "explanation": "Communities can adopt bylaws regulating or restricting short-term rentals. Massachusetts allows local governments significant authority over short-term rental regulation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["short-term-rental", "local-regulation", "bylaws"]
+    },
+    {
+      "key_topic_ref": "MA-13.3",
+      "question_text": "Platforms like Airbnb that list Massachusetts short-term rentals must:",
+      "correct_answer": "Collect and remit occupancy taxes",
+      "distractors": ["Verify the host's real estate license", "File building permits for each listing", "Obtain Board of Registration approval"],
+      "explanation": "Platforms are required to collect and remit room occupancy excise taxes on behalf of hosts. This ensures tax compliance even when individual hosts might fail to collect taxes themselves.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["short-term-rental", "platform", "tax-collection"]
+    },
+    {
+      "key_topic_ref": "MA-13.3",
+      "question_text": "A homeowner wants to rent out a room in their house on a nightly basis. They should be aware that Massachusetts requires:",
+      "correct_answer": "Registration and collection of occupancy taxes",
+      "distractors": ["A real estate broker license", "Approval from the Board of Registration", "A commercial zoning variance in all cases"],
+      "explanation": "Short-term rental operators must register with the state and collect room occupancy excise tax. They do not need a real estate license, but must comply with tax collection and any local regulations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["short-term-rental", "registration", "tax"]
+    },
+    {
+      "key_topic_ref": "MA-13.3",
+      "question_text": "Massachusetts short-term rental operators must comply with which safety requirements?",
+      "correct_answer": "Insurance and safety standards",
+      "distractors": ["Only federal hotel fire codes", "No additional safety requirements", "Only commercial building permits"],
+      "explanation": "Short-term rental operators must comply with insurance and safety requirements, which may include liability coverage, smoke/CO detectors, and local safety ordinances.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["short-term-rental", "insurance", "safety"]
+    }
+  ]
+}

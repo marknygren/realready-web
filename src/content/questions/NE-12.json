@@ -1,0 +1,173 @@
+{
+  "standard_ref": "NE-12",
+  "scope": "state",
+  "state": "NE",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NE-12.1",
+      "question_text": "In a Nebraska deed of trust, who holds the power of sale if the borrower defaults?",
+      "correct_answer": "The trustee",
+      "distractors": ["The beneficiary (lender)", "The trustor (borrower)", "The county sheriff"],
+      "explanation": "A deed of trust involves three parties: the trustor (borrower), the beneficiary (lender), and the trustee. The trustee holds the power of sale and can initiate non-judicial foreclosure upon default, acting on behalf of the beneficiary.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "trustee", "power of sale"]
+    },
+    {
+      "key_topic_ref": "NE-12.1",
+      "question_text": "Since the mid-1980s, which security instrument has been the predominant form used in Nebraska residential transactions?",
+      "correct_answer": "Deed of trust",
+      "distractors": ["Traditional mortgage", "Land contract", "Assignment of rents"],
+      "explanation": "While both mortgages and deeds of trust are recognized in Nebraska, deeds of trust became the predominant security instrument starting in the mid-1980s, primarily because they allow faster non-judicial foreclosure on non-agricultural properties.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "security instruments", "Nebraska practice"]
+    },
+    {
+      "key_topic_ref": "NE-12.1",
+      "question_text": "A lender wants to use a security instrument with three parties. Which instrument fits this structure?",
+      "correct_answer": "Deed of trust",
+      "distractors": ["Traditional mortgage", "Promissory note", "Mechanic's lien"],
+      "explanation": "A deed of trust involves three parties: the trustor (borrower), the beneficiary (lender), and the trustee who holds the power of sale. A traditional mortgage involves only two parties, the mortgagor and mortgagee.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deed of trust", "three parties", "security instruments"]
+    },
+    {
+      "key_topic_ref": "NE-12.1",
+      "question_text": "A borrower signs a deed of trust in Nebraska. In this instrument, the borrower is called the:",
+      "correct_answer": "Trustor",
+      "distractors": ["Beneficiary", "Trustee", "Mortgagee"],
+      "explanation": "In a deed of trust, the borrower is the trustor who conveys the property to the trustee as security for the loan. The lender is the beneficiary, and the trustee holds the property in trust with the power of sale.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "trustor", "terminology"]
+    },
+    {
+      "key_topic_ref": "NE-12.1",
+      "question_text": "A Nebraska attorney advises a client that both mortgages and deeds of trust are valid security instruments. Why do most lenders prefer deeds of trust?",
+      "correct_answer": "Faster non-judicial foreclosure option",
+      "distractors": ["Significantly lower recording fees apply", "Borrowers avoid documentary stamp tax", "Borrowers retain fewer legal protections"],
+      "explanation": "Lenders prefer deeds of trust in Nebraska because they allow non-judicial foreclosure through a trustee's sale on non-agricultural property. This process takes approximately 90 days, which is significantly faster than judicial foreclosure required for mortgages.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deed of trust", "lender preference", "foreclosure speed"]
+    },
+    {
+      "key_topic_ref": "NE-12.2",
+      "question_text": "A lender holds a deed of trust on a residential property. After default, the lender wants the fastest foreclosure method. Which process applies?",
+      "correct_answer": "Non-judicial trustee's sale",
+      "distractors": ["Judicial foreclosure only", "Strict foreclosure", "Sheriff's sale without court action"],
+      "explanation": "For deeds of trust on non-agricultural property in Nebraska, the trustee may conduct a non-judicial foreclosure (trustee's sale). This process takes approximately 90 days after notice of default, making it faster than judicial foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["non-judicial foreclosure", "trustee sale", "residential"]
+    },
+    {
+      "key_topic_ref": "NE-12.2",
+      "question_text": "A borrower defaults on a mortgage (not a deed of trust) secured by a Nebraska home. Which foreclosure method is required?",
+      "correct_answer": "Judicial foreclosure",
+      "distractors": ["Non-judicial trustee's sale", "The borrower chooses the method", "Administrative foreclosure by the NREC"],
+      "explanation": "In Nebraska, judicial foreclosure is required for mortgages. Non-judicial foreclosure via trustee's sale is only available for deeds of trust on non-agricultural property. Traditional mortgages must proceed through the courts.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["judicial foreclosure", "mortgage", "court supervised"]
+    },
+    {
+      "key_topic_ref": "NE-12.2",
+      "question_text": "During a non-judicial foreclosure in Nebraska, for how many consecutive weeks must the notice of sale be published?",
+      "correct_answer": "5 consecutive weeks",
+      "distractors": ["3 consecutive weeks", "4 consecutive weeks", "Once, at least 30 days before sale"],
+      "explanation": "Nebraska law requires that the notice of a trustee's sale be published in a newspaper for 5 consecutive weeks before the sale date. This publication requirement provides public notice and protects the borrower's due process rights.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["non-judicial foreclosure", "publication", "notice requirements"]
+    },
+    {
+      "key_topic_ref": "NE-12.2",
+      "question_text": "A lender holds a deed of trust on a 500-acre Nebraska farm. The borrower defaults. Can the lender use non-judicial foreclosure?",
+      "correct_answer": "No, agricultural property requires judicial process",
+      "distractors": ["Yes, all deeds of trust allow trustee sales", "Yes, if the borrower consents in writing", "Only if the property is under 640 acres"],
+      "explanation": "Non-judicial foreclosure via trustee's sale is only available for deeds of trust on non-agricultural property in Nebraska. Agricultural property must be foreclosed through the judicial process regardless of the security instrument used.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["agricultural property", "foreclosure", "judicial required"]
+    },
+    {
+      "key_topic_ref": "NE-12.2",
+      "question_text": "After a foreclosure sale in Nebraska, the lender's debt exceeds the sale proceeds by $40,000. Can the lender pursue the borrower for the difference?",
+      "correct_answer": "Yes, deficiency judgments are permitted",
+      "distractors": ["No, Nebraska prohibits deficiency judgments", "Only if the loan was over $500,000", "Only with NREC approval"],
+      "explanation": "Nebraska permits deficiency judgments in both judicial and non-judicial foreclosures. When the foreclosure sale proceeds are insufficient to satisfy the outstanding debt, the lender may seek a court judgment against the borrower for the remaining balance.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deficiency judgment", "foreclosure", "borrower liability"]
+    },
+    {
+      "key_topic_ref": "NE-12.3",
+      "question_text": "A buyer and seller execute a purchase agreement. At what point does the buyer acquire equitable interest?",
+      "correct_answer": "At contract execution",
+      "distractors": ["At closing only", "When earnest money is deposited", "When the loan is approved"],
+      "explanation": "In Nebraska, the buyer acquires equitable interest at the moment the purchase contract is executed by both parties. The seller retains legal title until the deed is delivered at closing, but the buyer's equitable interest is immediate.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["equitable interest", "contract execution"]
+    },
+    {
+      "key_topic_ref": "NE-12.3",
+      "question_text": "A seller refuses to convey title after executing a valid purchase agreement. What remedy can the buyer seek based on equitable interest?",
+      "correct_answer": "Specific performance",
+      "distractors": ["Criminal prosecution", "License revocation of the seller", "Automatic title transfer by the county"],
+      "explanation": "Because the buyer acquires equitable interest at contract execution, the buyer has the right to compel the seller to convey through a specific performance action. This equitable remedy forces the seller to fulfill the contract terms.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["equitable interest", "specific performance", "buyer remedies"]
+    },
+    {
+      "key_topic_ref": "NE-12.3",
+      "question_text": "Before closing, a judgment creditor files a lien against the buyer. Can this lien attach to the buyer's interest in the contracted property?",
+      "correct_answer": "Yes, equitable interest can be liened",
+      "distractors": ["No, only legal title can be liened", "Only if the seller consents", "Only after the deed is recorded"],
+      "explanation": "A buyer's equitable interest in property under contract can be subject to liens. Once the purchase agreement is executed, the buyer holds an insurable and lienable equitable interest, even though the seller retains legal title until closing.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["equitable interest", "liens", "buyer rights"]
+    },
+    {
+      "key_topic_ref": "NE-12.3",
+      "question_text": "Before closing, a fire damages the property under contract. The buyer holds equitable interest. Can the buyer obtain insurance on that interest?",
+      "correct_answer": "Yes, equitable interest is insurable",
+      "distractors": ["No, only the deed holder can insure", "Only if the seller's policy lapsed", "Only with court approval"],
+      "explanation": "In Nebraska, equitable interest acquired at contract execution is insurable. The buyer can obtain insurance coverage on the property before closing because equitable interest represents a real property right that can be protected.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["equitable interest", "insurable interest", "buyer protection"]
+    },
+    {
+      "key_topic_ref": "NE-12.3",
+      "question_text": "After contract execution but before closing, who holds legal title to the property?",
+      "correct_answer": "The seller until deed delivery",
+      "distractors": ["The buyer after contract signing", "The escrow agent", "The title insurance company"],
+      "explanation": "The seller retains legal title until the deed is delivered at closing. During the executory period, the buyer holds equitable interest while the seller holds legal title. This split of interests is resolved when the deed is delivered and recorded.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["legal title", "equitable interest", "deed delivery"]
+    }
+  ]
+}

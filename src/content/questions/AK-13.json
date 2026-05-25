@@ -1,0 +1,118 @@
+{
+  "standard_ref": "AK-13",
+  "scope": "state",
+  "state": "AK",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AK-13.1",
+      "question_text": "A buyer wants to engage an Alaska licensee to help find a home. What type of agreement should the licensee present?",
+      "correct_answer": "A buyer representation agreement",
+      "distractors": ["A listing agreement", "A property management agreement", "A neutral licensee consent form"],
+      "explanation": "A buyer representation agreement establishes the terms of the relationship between the buyer and the licensee. It specifies compensation, scope of services, duration, and includes the required licensee relationship disclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer rep", "agreement", "representation"]
+    },
+    {
+      "key_topic_ref": "AK-13.1",
+      "question_text": "What must an Alaska buyer representation agreement include?",
+      "correct_answer": "Compensation terms, scope of services, and duration",
+      "distractors": ["Only the buyer's maximum purchase price", "The seller's listing agent information", "The buyer's credit score and financing details"],
+      "explanation": "A buyer representation agreement must include compensation terms, scope of services, duration, and the licensee relationship disclosure. It does not need to include the buyer's financial details or information about the other party's agent.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer rep", "required elements", "terms"]
+    },
+    {
+      "key_topic_ref": "AK-13.1",
+      "question_text": "As of August 2024, when must an MLS participant enter into a written agreement with a buyer?",
+      "correct_answer": "Before touring a home",
+      "distractors": ["Before making a written offer", "Within 7 days of the first showing", "After the buyer selects a property to purchase"],
+      "explanation": "Since August 2024, MLS participants must have a written buyer agreement in place before touring a home, including both in-person and live virtual tours. This requirement stems from the NAR settlement practice changes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["buyer rep", "NAR settlement", "before touring"]
+    },
+    {
+      "key_topic_ref": "AK-13.1",
+      "question_text": "A buyer signs a non-exclusive buyer representation agreement. The buyer then works with a different agent and purchases a home. Does the first agent earn a commission?",
+      "correct_answer": "No, non-exclusive agreements allow the buyer to work with others",
+      "distractors": ["Yes, the first agent is owed the full commission", "Yes, but only a reduced referral fee", "No, but only if the buyer gave 48 hours' written notice"],
+      "explanation": "A non-exclusive buyer representation agreement allows the buyer to work with multiple agents. The first agent only earns a commission if they are the procuring cause of the purchase. The buyer is free to engage other agents without penalty.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["buyer rep", "non-exclusive", "commission"]
+    },
+    {
+      "key_topic_ref": "AK-13.1",
+      "question_text": "A buyer representation agreement fails to include the licensee relationship disclosure. What is the effect?",
+      "correct_answer": "The agreement is missing a required element",
+      "distractors": ["The agreement automatically defaults to neutral licensee", "The agreement is valid but the buyer can void it anytime", "AREC will impose a fine on the licensee"],
+      "explanation": "The licensee relationship disclosure is a required element of buyer representation agreements in Alaska. Its absence means the agreement is incomplete, which could affect enforceability and violates the disclosure requirements of Alaska law.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["buyer rep", "disclosure", "required element"]
+    },
+    {
+      "key_topic_ref": "AK-13.2",
+      "question_text": "A property owner wants to hire a broker to manage their rental property. What type of agreement is needed?",
+      "correct_answer": "A written property management agreement",
+      "distractors": ["A verbal understanding of management duties", "A listing agreement for rental properties", "An assignment of the owner's landlord rights"],
+      "explanation": "A written property management agreement is required between the broker and the property owner. It must specify the scope of authority, compensation, term, duties, and how trust account funds will be handled.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PM agreement", "written", "required"]
+    },
+    {
+      "key_topic_ref": "AK-13.2",
+      "question_text": "An Alaska property management agreement must specify which of the following?",
+      "correct_answer": "Scope of authority, compensation, and term",
+      "distractors": ["Only the monthly management fee percentage", "The tenant's security deposit amount", "The property's insurance policy details"],
+      "explanation": "Property management agreements must specify the scope of authority (what the broker can do), compensation terms, the agreement's term/duration, the broker's duties, and how trust account handling will work. These protect both the owner and the broker.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PM agreement", "required elements", "scope"]
+    },
+    {
+      "key_topic_ref": "AK-13.2",
+      "question_text": "Under a property management agreement, who is responsible for collecting and accounting for rents and deposits?",
+      "correct_answer": "The managing broker",
+      "distractors": ["The property owner directly", "The tenant's employer for payroll deductions", "AREC's trust account division"],
+      "explanation": "The broker managing the property is responsible for collecting and accounting for all rents and deposits. These funds must be handled through the broker's trust account, with accurate records maintained. The owner receives the funds after proper accounting.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PM agreement", "rents", "accounting"]
+    },
+    {
+      "key_topic_ref": "AK-13.2",
+      "question_text": "A property management agreement does not include trust account handling provisions. What risk does this create?",
+      "correct_answer": "Unclear procedures for handling tenant deposits and rents",
+      "distractors": ["The broker automatically keeps all collected rents", "AREC will revoke the broker's license immediately", "The agreement is void and the broker cannot manage"],
+      "explanation": "Without trust account handling provisions, there is ambiguity about how tenant deposits, rents, and maintenance funds will be managed. This could lead to disputes between the owner and broker and potential trust fund violations.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["PM agreement", "trust account", "provisions"]
+    },
+    {
+      "key_topic_ref": "AK-13.2",
+      "question_text": "A property owner verbally authorizes a broker to manage their apartment building. Is this arrangement enforceable under Alaska law?",
+      "correct_answer": "A written agreement is required for property management",
+      "distractors": ["Yes, verbal authorization is sufficient for property management", "Yes, if the broker documents the conversation in writing", "Only if the building has fewer than 4 units"],
+      "explanation": "Alaska requires a written property management agreement between the broker and the property owner. A verbal authorization alone is not sufficient — the agreement must be in writing to clearly define the scope, compensation, and responsibilities.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PM agreement", "written", "requirement"]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "standard_ref": "AK-02",
+  "scope": "state",
+  "state": "AK",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "AK-02.1",
+      "question_text": "A consumer who was defrauded by an Alaska licensee wants to file a claim with the Recovery Fund. What must the consumer obtain first?",
+      "correct_answer": "A final judgment, arbitration award, or settlement",
+      "distractors": ["A police report documenting the fraud", "A letter of recommendation from another licensee", "A written complaint filed with AREC"],
+      "explanation": "Before filing a Recovery Fund claim, the consumer must have obtained a final judgment, arbitration award, or settlement agreement against the licensee. A complaint to AREC alone is not sufficient — there must be a legal determination of liability.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "claims", "requirements"]
+    },
+    {
+      "key_topic_ref": "AK-02.1",
+      "question_text": "A consumer obtains a court judgment against a licensee for fraud. How long does the consumer have to file a Recovery Fund claim?",
+      "correct_answer": "2 years from obtaining the judgment",
+      "distractors": ["1 year from obtaining the judgment", "6 months from obtaining the judgment", "3 years from the date of the fraud"],
+      "explanation": "Recovery Fund claims must be filed within 2 years of obtaining the final judgment, arbitration award, or settlement. The clock starts from when the legal determination was made, not when the fraudulent act occurred.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "deadline", "claims"]
+    },
+    {
+      "key_topic_ref": "AK-02.1",
+      "question_text": "A consumer was harmed by an unlicensed individual acting as a real estate agent. Can the consumer file a Recovery Fund claim?",
+      "correct_answer": "No, the Fund covers only claims against licensed professionals",
+      "distractors": ["Yes, if the individual was employed by a brokerage", "Yes, if the consumer has a final court judgment", "No, but the consumer can file with AREC directly"],
+      "explanation": "The Recovery Fund is designed to compensate consumers harmed by licensed real estate professionals. Claims against unlicensed individuals are not covered — the consumer would need to pursue other legal remedies against an unlicensed person.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery fund", "eligibility", "licensed"]
+    },
+    {
+      "key_topic_ref": "AK-02.1",
+      "question_text": "A consumer won a judgment against a licensee but has not attempted to collect directly. Can the consumer file a Recovery Fund claim?",
+      "correct_answer": "No, the consumer must first show inability to collect",
+      "distractors": ["Yes, the judgment alone qualifies the consumer", "Yes, if the claim is filed within 90 days", "No, only criminal fraud qualifies for the Fund"],
+      "explanation": "The Recovery Fund requires the consumer to demonstrate inability to collect from the licensee. The Fund is a safety net of last resort — claimants must first exhaust reasonable efforts to collect directly before turning to the Fund.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery fund", "claims", "requirements"]
+    },
+    {
+      "key_topic_ref": "AK-02.1",
+      "question_text": "Which types of licensee misconduct are covered by the Alaska Real Estate Recovery Fund?",
+      "correct_answer": "Fraud, intentional tort, deceit, or conversion",
+      "distractors": ["Negligent property management only", "Any breach of contract with a consumer", "Errors in completing standard forms"],
+      "explanation": "The Recovery Fund covers losses specifically from fraud, intentional tort, deceit, or conversion of trust funds. It does not cover simple negligence, honest mistakes, or ordinary breach of contract — the misconduct must involve intentional wrongdoing.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery fund", "coverage", "fraud"]
+    },
+    {
+      "key_topic_ref": "AK-02.2",
+      "question_text": "What is the maximum amount the Alaska Recovery Fund will pay for a single transaction?",
+      "correct_answer": "$15,000 per transaction",
+      "distractors": ["$25,000 per transaction", "$50,000 per transaction", "$10,000 per transaction"],
+      "explanation": "The Recovery Fund will pay a maximum of $15,000 per transaction, regardless of how many persons were injured or parcels of real estate were involved. The separate aggregate limit is $50,000 per licensee.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "limits", "transaction"]
+    },
+    {
+      "key_topic_ref": "AK-02.2",
+      "question_text": "A licensee defrauded multiple consumers in separate transactions totaling $80,000 in claims. What is the maximum the Fund will pay for this licensee?",
+      "correct_answer": "$50,000 total for this licensee",
+      "distractors": ["$80,000 covering all claims in full", "$15,000 total for all combined claims", "$75,000 at $15,000 per transaction"],
+      "explanation": "While the per-transaction limit is $15,000, the aggregate limit per licensee is $50,000. Even though 5+ transactions at $15,000 each could theoretically total more, the $50,000 licensee cap applies. Claims would be paid up to $50,000 total.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery fund", "limits", "aggregate"]
+    },
+    {
+      "key_topic_ref": "AK-02.2",
+      "question_text": "What happens to a licensee's license after the Recovery Fund pays a claim on their behalf?",
+      "correct_answer": "The license is automatically suspended",
+      "distractors": ["The license is placed on probation", "The license is unaffected until a hearing", "The license is permanently revoked"],
+      "explanation": "If the Recovery Fund pays a claim, the licensee's license is automatically suspended — no hearing is required for this consequence. The license remains suspended until the licensee repays the Fund in full, including interest.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery fund", "suspension", "repayment"]
+    },
+    {
+      "key_topic_ref": "AK-02.2",
+      "question_text": "A licensee whose license was suspended after a Recovery Fund payout wants to get relicensed. What must the licensee do?",
+      "correct_answer": "Repay the Fund in full with interest",
+      "distractors": ["Complete 40 hours of additional education", "Wait 5 years and reapply as a new applicant", "Pay a $1,000 reinstatement fee to AREC"],
+      "explanation": "The licensee must repay the Recovery Fund in full, including interest, before the suspension can be lifted. This repayment requirement ensures the Fund remains solvent to protect future consumers.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery fund", "reinstatement", "repayment"]
+    },
+    {
+      "key_topic_ref": "AK-02.2",
+      "question_text": "Three buyers were each harmed in a single fraudulent transaction by a licensee, with total damages of $30,000. What is the maximum the Recovery Fund will pay?",
+      "correct_answer": "$15,000 for the entire transaction",
+      "distractors": ["$30,000 covering all three buyers", "$45,000 at $15,000 per buyer", "$15,000 per buyer totaling $45,000"],
+      "explanation": "The $15,000 limit is per transaction, regardless of the number of persons injured. All three buyers share the $15,000 maximum for that single transaction. The limit is tied to the transaction, not the number of claimants.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery fund", "limits", "per-transaction"]
+    }
+  ]
+}

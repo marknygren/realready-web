@@ -1,0 +1,500 @@
+{
+  "standard_ref": "N-24",
+  "scope": "national",
+  "state": null,
+  "category": "financing_settlement",
+  "questions": [
+    {
+      "key_topic_ref": "N-24.1",
+      "question_text": "Which of the following statements about FHA loans is MOST accurate?",
+      "correct_answer": "FHA loans are made by private lenders and insured by the FHA",
+      "distractors": [
+        "FHA loans are made directly by the government to low-income borrowers",
+        "FHA loans require no mortgage insurance due to the government guarantee",
+        "FHA loans are available only to first-time homebuyers"
+      ],
+      "explanation": "The FHA does not lend money — it insures loans made by FHA-approved private lenders (banks, credit unions, mortgage companies). If a borrower defaults, FHA pays the lender's claim, reducing lender risk and allowing more favorable terms for borrowers. This insurance is funded by the Mortgage Insurance Premium (MIP) paid by the borrower: an upfront MIP of 1.75% of the loan amount plus an annual MIP. FHA loans are not limited to first-time buyers — any creditworthy buyer can use FHA financing. The minimum down payment is 3.5% for borrowers with credit scores of 580+.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "FHA_loans",
+        "mortgage_insurance",
+        "MIP",
+        "government_backed_loans"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.1",
+      "question_text": "A buyer using FHA financing puts 5% down on a home. Their FHA Mortgage Insurance Premium (MIP) will:",
+      "correct_answer": "Be required for the life of the loan",
+      "distractors": [
+        "Cancel automatically when the loan reaches 80% of original value",
+        "Cancel after five years of on-time payments regardless of balance",
+        "Not apply because 5% down exceeds FHA's minimum requirement"
+      ],
+      "explanation": "FHA MIP rules differ significantly from conventional PMI. For loans originated after June 2013 with an original LTV over 90% (less than 10% down): MIP is required for the life of the loan. For loans with 10%+ down (original LTV ≤ 90%): MIP can be cancelled after 11 years. With 5% down, the LTV is 95% — MIP stays for the life of the loan. This is a significant long-term cost difference from conventional loans, where PMI cancels when the LTV reaches 78% under the Homeowners Protection Act. Buyers planning to stay long-term should compare total costs carefully.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "FHA_loans",
+        "MIP",
+        "mortgage_insurance",
+        "LTV",
+        "cancellation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.2",
+      "question_text": "Which of the following is a UNIQUE advantage of VA loans compared to FHA and conventional loans?",
+      "correct_answer": "No down payment is required and no mortgage insurance is charged",
+      "distractors": [
+        "VA loans have no loan limits for any property at any price",
+        "VA loans are available to all U.S. citizens regardless of service",
+        "VA loans always have a fixed interest rate for the loan's life"
+      ],
+      "explanation": "VA loans, guaranteed by the U.S. Department of Veterans Affairs for eligible veterans, active-duty service members, and qualifying surviving spouses, offer two major advantages: (1) no down payment required, and (2) no private mortgage insurance — instead, a one-time VA funding fee is charged (which can be rolled into the loan and is waived for veterans with service-connected disabilities). VA loans have county loan limits (though eligible borrowers with full entitlement may exceed them), are available only to qualifying military-connected borrowers, and may be either fixed or adjustable rate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": true,
+      "tags": [
+        "VA_loans",
+        "no_down_payment",
+        "no_PMI",
+        "VA_funding_fee",
+        "government_backed_loans"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.3",
+      "question_text": "USDA Rural Development loans are primarily designed for:",
+      "correct_answer": "Low-to-moderate income buyers in eligible rural and suburban areas",
+      "distractors": [
+        "Buyers purchasing farmland or agricultural property nationwide",
+        "Any buyer purchasing a primary residence outside major metros",
+        "Commercial property investors in USDA-designated rural zones"
+      ],
+      "explanation": "USDA Rural Development (Section 502) loans offer 100% financing (no down payment) to low-to-moderate income buyers who purchase in USDA-designated eligible areas — which include many suburban communities, not just remote farmland. Key requirements: the property must be in an eligible area (determined by USDA income and population maps), the buyer must meet income limits (typically cannot exceed 115% of area median income), and the property must be used as a primary residence. Like FHA loans, they carry a guarantee fee (upfront and annual). USDA loans are not for farmland purchases — that is a different USDA program.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "USDA_loans",
+        "rural_development",
+        "no_down_payment",
+        "income_limits"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.4",
+      "question_text": "A lender calculates a borrower's debt-to-income ratio (DTI). The back-end DTI of 43% means:",
+      "correct_answer": "Total monthly debts including the mortgage equal 43% of gross income",
+      "distractors": [
+        "Proposed housing costs (PITI) equal 43% of gross monthly income",
+        "Net income after taxes is 43% of total monthly expenses",
+        "The lender will approve only if the borrower's income increases by 43%"
+      ],
+      "explanation": "DTI ratios are a primary qualifying tool. The front-end (housing) ratio compares proposed housing costs (PITI: principal, interest, taxes, insurance) to gross monthly income. The back-end (total debt) ratio compares ALL monthly debt obligations — PITI plus car payments, student loans, credit card minimums, and other installment debts — to gross monthly income. The back-end ratio is the more critical figure. Conventional loans typically allow up to 45% back-end DTI (sometimes higher with compensating factors). FHA allows up to 43-57% with strong compensating factors. VA and USDA have their own guidelines.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "DTI",
+        "debt_to_income_ratio",
+        "qualification",
+        "back_end_ratio",
+        "front_end_ratio"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.5",
+      "question_text": "A buyer purchases a home for $300,000 with a $240,000 conventional loan. Their loan-to-value (LTV) ratio is 80%, which means:",
+      "correct_answer": "PMI is not required because the LTV does not exceed 80%",
+      "distractors": [
+        "PMI is required until the loan balance falls below $240,000",
+        "The buyer must pay PMI for at least two years regardless of LTV",
+        "PMI is required because the down payment is less than 25%"
+      ],
+      "explanation": "LTV = Loan Amount ÷ Property Value = $240,000 ÷ $300,000 = 80%. Conventional lenders require PMI when the LTV exceeds 80% (i.e., less than 20% down). At exactly 80% LTV, PMI is not required. The Homeowners Protection Act (1998) provides additional rights: lenders must automatically cancel PMI when the LTV reaches 78% based on the original amortization schedule, and borrowers may request cancellation at 80% LTV once they've built equity through payments or appreciation (subject to lender requirements). PMI protects the lender, not the borrower, and typically costs 0.5%-1.5% of the loan amount annually.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "LTV",
+        "PMI",
+        "down_payment",
+        "conventional_loans",
+        "Homeowners_Protection_Act"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.5",
+      "question_text": "A buyer is comparing a conventional loan requiring PMI versus an FHA loan requiring MIP. Which statement is MOST accurate?",
+      "correct_answer": "Conventional PMI cancels at 80% LTV; FHA MIP with <10% down lasts for life",
+      "distractors": [
+        "Both PMI and MIP cancel when the loan reaches 80% of original value",
+        "FHA MIP is always cheaper than conventional PMI over the loan's life",
+        "PMI is a lump sum at closing; MIP is paid monthly only"
+      ],
+      "explanation": "This is a critical distinction for buyers choosing between loan programs. Conventional PMI: cancels by law when LTV reaches 78% (or upon borrower request at 80%), providing long-term savings for buyers who build equity. FHA MIP: for loans originated after June 2013 with less than 10% down, the annual MIP continues for the entire loan term — it never cancels. This means a borrower who keeps their FHA loan long-term pays MIP indefinitely. Many FHA borrowers refinance to a conventional loan once they reach 20% equity to eliminate MIP.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "PMI",
+        "MIP",
+        "FHA_vs_conventional",
+        "mortgage_insurance",
+        "cancellation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.1",
+      "question_text": "The minimum down payment for an FHA loan with a credit score of 580 or higher is:",
+      "correct_answer": "3.5% of the purchase price",
+      "distractors": [
+        "10% of the purchase price",
+        "20% of the purchase price",
+        "0%"
+      ],
+      "explanation": "FHA's minimum down payment is 3.5% for borrowers with credit scores of 580 or higher. Borrowers with scores between 500-579 must put down 10%. Below 500, FHA does not insure the loan. This low down payment makes FHA loans popular with first-time buyers and those with limited savings. However, the trade-off is MIP — both an upfront premium (1.75% of loan amount) and annual premiums that continue for the life of the loan when putting less than 10% down.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "FHA_loans",
+        "down_payment",
+        "credit_score"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.1",
+      "question_text": "FHA loans have maximum loan limits that:",
+      "correct_answer": "Vary by county based on local median home prices, adjusted annually",
+      "distractors": [
+        "Are set at one national amount that applies in every county",
+        "Are determined by the borrower's income and credit score",
+        "Have no maximum limit on loan amount"
+      ],
+      "explanation": "FHA loan limits vary by county and are based on median home prices in each area. They are set at 65% of the conforming loan limit in low-cost areas and up to 150% of the conforming limit in high-cost areas. Limits are reviewed and adjusted annually by HUD. For 2024, the floor is approximately $498,257 and the ceiling is approximately $1,149,825 for single-family homes. Borrowers in high-cost markets like San Francisco or New York can access higher FHA limits than borrowers in lower-cost areas.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "FHA_loans",
+        "loan_limits",
+        "county_variation"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.1",
+      "question_text": "FHA Mortgage Insurance Premium (MIP) consists of:",
+      "correct_answer": "An upfront premium of 1.75% plus annual premiums paid monthly",
+      "distractors": [
+        "Only a monthly premium with no upfront charge at closing",
+        "A single lump sum at closing with no additional monthly charges",
+        "A percentage added to the interest rate on each monthly payment"
+      ],
+      "explanation": "FHA MIP has two components: (1) Upfront MIP (UFMIP) of 1.75% of the base loan amount, typically financed into the loan, and (2) Annual MIP paid monthly as part of the mortgage payment. The annual MIP rate depends on the loan term, LTV, and loan amount (currently 0.50%-0.75% annually for most borrowers). This dual-premium structure means FHA borrowers pay more in total insurance costs than conventional borrowers with PMI, especially since FHA MIP on most loans does not cancel.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "FHA_loans",
+        "MIP",
+        "upfront_premium",
+        "annual_premium"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.2",
+      "question_text": "To qualify for a VA loan, a borrower must obtain a:",
+      "correct_answer": "Certificate of Eligibility (COE) from the VA",
+      "distractors": [
+        "Pre-approval letter from any licensed mortgage lender",
+        "Military discharge form (DD-214) certified by the DOD",
+        "Credit score report showing a minimum 620 from all three bureaus"
+      ],
+      "explanation": "The COE verifies the borrower's military service and entitlement to VA loan benefits. It can be obtained online through the VA's eBenefits portal, through a VA-approved lender, or by mail. Eligibility requirements include: minimum active duty service (90 days during wartime, 181 days during peacetime), or 6 years in the National Guard/Reserves. Surviving spouses of veterans who died in service or from service-connected disabilities may also be eligible. While the DD-214 is used to verify service, the COE is the actual document needed for the loan.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "VA_loans",
+        "COE",
+        "eligibility"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.2",
+      "question_text": "The VA funding fee on a VA loan:",
+      "correct_answer": "Is a one-time fee that can be financed and varies by down payment",
+      "distractors": [
+        "Is an annual premium paid monthly similar to FHA MIP",
+        "Is a fixed $500 fee that applies to all VA loans",
+        "Is paid by the seller as a required closing cost"
+      ],
+      "explanation": "The VA funding fee replaces mortgage insurance and helps sustain the VA loan program. It's a one-time charge (typically 1.25%-3.3% of the loan amount for first-time use) that varies based on: the type of service (regular military vs. reserves), down payment amount (higher down payments reduce the fee), and whether it's the borrower's first VA loan use. The fee can be financed into the loan. Important: veterans with service-connected disabilities rated 10% or higher are exempt from the funding fee entirely.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "VA_loans",
+        "funding_fee",
+        "disability_exemption"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.2",
+      "question_text": "VA loans include a unique protection for borrowers called:",
+      "correct_answer": "The VA appraisal ensuring the property meets minimum requirements",
+      "distractors": [
+        "A lifetime interest rate lock preventing any rate increases",
+        "Automatic 12-month forbearance if the veteran loses employment",
+        "Government-paid homeowner's insurance for the first five years"
+      ],
+      "explanation": "The VA appraisal determines the property's fair market value and ensures it meets VA minimum property requirements (MPRs). If the appraisal comes in below the purchase price, the VA will not guarantee the loan for more than the appraised value. The buyer can then: negotiate a lower price, pay the difference in cash, or walk away. This Tidewater process (giving agents notice of a potential low appraisal) and Notice of Value protect veterans from overpaying. VA also offers loan servicing assistance to help borrowers facing financial hardship avoid foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "VA_loans",
+        "VA_appraisal",
+        "buyer_protection"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.2",
+      "question_text": "Which of the following is NOT true about VA loans?",
+      "correct_answer": "VA loans can be used for investment properties and second homes",
+      "distractors": [
+        "VA loans require no down payment for borrowers with full entitlement",
+        "VA loans do not require private mortgage insurance or monthly MI",
+        "VA loans are available to veterans, active duty, and qualifying spouses"
+      ],
+      "explanation": "VA loans are restricted to primary residences — the veteran must intend to live in the property. They cannot be used for investment properties, vacation homes, or commercial properties. The other statements are true: VA offers 100% financing (no down payment), charges no PMI/MIP (only the one-time funding fee), and is available to veterans, active-duty service members, certain National Guard/Reserve members, and qualifying surviving spouses. This primary residence requirement is one of the key limitations of the VA program.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "VA_loans",
+        "primary_residence",
+        "restrictions"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.3",
+      "question_text": "A key requirement for USDA loan eligibility is that the buyer's household income must:",
+      "correct_answer": "Not exceed 115% of the area median income for the county",
+      "distractors": [
+        "Be below the federal poverty level to qualify for the program",
+        "Come entirely from farming or agricultural activities",
+        "Exceed the county median by 20% to demonstrate repayment ability"
+      ],
+      "explanation": "USDA loans have income caps — the household income (all adult members, not just the borrower) cannot exceed 115% of the area median income (AMI) for the county. This ensures the program serves low-to-moderate income families. Income limits vary by location and household size. The income does not need to come from farming — USDA loans are for residential housing, not agricultural operations. Buyers should check USDA's online eligibility tool to verify both property location and income eligibility.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "USDA_loans",
+        "income_limits",
+        "AMI"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.3",
+      "question_text": "USDA loan eligible areas include:",
+      "correct_answer": "Many suburban communities with populations under 35,000",
+      "distractors": [
+        "Only unincorporated areas more than 50 miles from any city",
+        "Any area designated as agricultural land on the county zoning map",
+        "All areas outside the ten largest metropolitan statistical areas"
+      ],
+      "explanation": "USDA-eligible areas are more expansive than most people expect. Generally, areas with populations under 35,000 that are rural in character may qualify — this includes many suburbs and small towns within commuting distance of cities. The USDA maintains an online eligibility map that buyers and agents can check by address. Many buyers are surprised to discover their preferred suburban neighborhood qualifies for USDA financing with its 100% financing benefit.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "USDA_loans",
+        "eligible_areas",
+        "suburban"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.3",
+      "question_text": "USDA loans charge a guarantee fee that is similar to:",
+      "correct_answer": "FHA's MIP",
+      "distractors": [
+        "VA's funding fee",
+        "Conventional PMI",
+        "A title insurance premium"
+      ],
+      "explanation": "USDA loans have a guarantee fee structure similar to FHA MIP: an upfront guarantee fee (currently 1.0% of the loan amount, which can be financed) plus an annual fee (currently 0.35% of the remaining balance, paid monthly). The USDA rates are typically lower than FHA MIP rates, making USDA an attractive option for eligible buyers. Unlike VA's funding fee (one-time only), the USDA annual fee continues for the life of the loan similar to FHA MIP.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "USDA_loans",
+        "guarantee_fee",
+        "comparison"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.3",
+      "question_text": "A buyer wants to use a USDA loan to purchase a property. The property must be:",
+      "correct_answer": "In a USDA-eligible area and used as the buyer's primary residence",
+      "distractors": [
+        "Zoned for agricultural use with at least 5 acres of farmable land",
+        "A newly constructed home that has never been occupied",
+        "Priced below $200,000 to meet program guidelines"
+      ],
+      "explanation": "USDA loans require two property conditions: (1) the property must be in a USDA-eligible area (verified on USDA's property eligibility map), and (2) it must be the buyer's primary residence. There is no maximum purchase price (though the loan amount is limited by what the buyer qualifies for based on income and debt ratios). USDA finances both new construction and existing homes. The property must meet USDA minimum property standards, which are similar to FHA requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "USDA_loans",
+        "property_eligibility",
+        "primary_residence"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.4",
+      "question_text": "The front-end DTI ratio measures:",
+      "correct_answer": "Housing costs (PITI) as a percentage of gross monthly income",
+      "distractors": [
+        "All monthly debt payments as a percentage of gross monthly income",
+        "The down payment amount as a percentage of the total purchase price",
+        "Monthly savings and investments as a percentage of take-home pay"
+      ],
+      "explanation": "The front-end (housing) ratio includes PITI: principal, interest, taxes, insurance, and any HOA dues or mortgage insurance. Conventional guidelines typically cap this at 28-31% of gross monthly income, though exceptions exist. For example, if a borrower earns $8,000/month gross and their proposed PITI is $2,000, their front-end ratio is 25% ($2,000/$8,000). The front-end ratio ensures the borrower can afford the housing payment specifically, while the back-end ratio looks at total debt capacity.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "DTI",
+        "front_end_ratio",
+        "PITI",
+        "housing_ratio"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.4",
+      "question_text": "A borrower earns $6,000/month gross. Their proposed PITI is $1,680 and their other debts total $720/month. Their back-end DTI is:",
+      "correct_answer": "40%",
+      "distractors": [
+        "28%",
+        "12%",
+        "52%"
+      ],
+      "explanation": "Back-end DTI = Total monthly debts / Gross monthly income = ($1,680 + $720) / $6,000 = $2,400 / $6,000 = 0.40 = 40%. The front-end ratio would be $1,680 / $6,000 = 28%. Both ratios use gross (pre-tax) income, not net. At 40% back-end DTI, this borrower falls within conventional guidelines (typically up to 45%) and well within FHA limits. Lenders may approve higher DTIs with strong compensating factors like excellent credit, significant reserves, or a history of managing similar payment levels.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "DTI",
+        "back_end_ratio",
+        "calculation",
+        "qualification"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.4",
+      "question_text": "Compensating factors that may allow a lender to approve a borrower with a high DTI include:",
+      "correct_answer": "Significant cash reserves, excellent credit, or a large down payment",
+      "distractors": [
+        "A signed letter promising to pay off debts within six months",
+        "The borrower's intention to get a raise or promotion soon",
+        "Cosigning by a relative who will not live in the property"
+      ],
+      "explanation": "Compensating factors are strengths in a borrower's application that offset weaknesses like a high DTI. Common compensating factors include: substantial cash reserves (6+ months of payments), excellent credit scores (740+), minimal increase over current housing payment, significant down payment (20%+), stable employment history, and demonstrated ability to manage similar debt levels. Promises of future income increases or third-party letters are not compensating factors — lenders evaluate current, documented financial strength.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "DTI",
+        "compensating_factors",
+        "loan_approval"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.4",
+      "question_text": "FHA loans generally allow higher DTI ratios than conventional loans because:",
+      "correct_answer": "FHA insurance reduces lender risk, allowing more flexible qualification",
+      "distractors": [
+        "FHA borrowers earn higher average incomes than conventional borrowers",
+        "FHA loans have lower interest rates making higher DTIs affordable",
+        "Federal law requires FHA to approve all applications regardless of DTI"
+      ],
+      "explanation": "Because FHA insures lenders against borrower default, lenders face less risk and can accept higher DTI ratios. FHA guidelines allow back-end DTIs up to 43% standard, and up to 50-57% with strong compensating factors through their automated underwriting system (TOTAL Scorecard). Conventional loans typically max at 45-50%. This flexibility is why FHA is popular with borrowers who have lower credit scores or higher debt levels — the government insurance makes lenders more willing to approve these applications.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "FHA_loans",
+        "DTI",
+        "flexible_guidelines",
+        "risk_reduction"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.5",
+      "question_text": "Under the Homeowners Protection Act (HPA), a lender must automatically cancel PMI when:",
+      "correct_answer": "The loan balance reaches 78% of original value per the amortization schedule",
+      "distractors": [
+        "The borrower has made 5 years of consecutive on-time payments",
+        "The property has appreciated 20% or more based on a current appraisal",
+        "The borrower submits a written request and pays a cancellation fee"
+      ],
+      "explanation": "The HPA provides two PMI cancellation triggers: (1) Automatic termination at 78% LTV based on the original amortization schedule — this happens regardless of borrower action; and (2) Borrower-requested cancellation at 80% LTV — the borrower must request this in writing, be current on payments, and may need to provide evidence that the property hasn't declined in value. Additionally, PMI must be cancelled by the midpoint of the loan term regardless of LTV. The HPA applies to single-family primary residences with conventional financing.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "HPA",
+        "PMI_cancellation",
+        "78_percent_LTV"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.5",
+      "question_text": "A home is purchased for $400,000 with a $360,000 loan. The LTV ratio is:",
+      "correct_answer": "90%",
+      "distractors": [
+        "80%",
+        "10%",
+        "110%"
+      ],
+      "explanation": "LTV = Loan amount / Property value = $360,000 / $400,000 = 90%. Since the LTV exceeds 80%, PMI is required on a conventional loan. The buyer put down $40,000 (10% of $400,000). PMI will remain until the LTV reaches 78% through payments (automatic cancellation) or 80% (borrower-requested cancellation). At 90% LTV, the PMI rate is typically higher than at 85% LTV because the lender's risk is greater with less equity.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "LTV",
+        "PMI",
+        "calculation",
+        "down_payment"
+      ]
+    },
+    {
+      "key_topic_ref": "N-24.5",
+      "question_text": "PMI protects:",
+      "correct_answer": "The lender against borrower default",
+      "distractors": [
+        "The borrower by reducing payments when equity is below 20%",
+        "Both lender and borrower equally against property value declines",
+        "The agent by covering commission losses if the deal falls through"
+      ],
+      "explanation": "Despite being paid by the borrower, PMI protects only the lender. If the borrower defaults and the foreclosure sale doesn't recover the full loan balance, the PMI insurer pays the lender's loss (typically covering the top 20-30% of the loan). The borrower receives no benefit from PMI and has no claim against the insurer. This is an important distinction for buyers to understand — PMI is a cost they bear entirely for the lender's benefit. The only way to avoid PMI is to put 20% or more down or to use a different loan program (VA, piggyback loans).",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "PMI",
+        "lender_protection",
+        "borrower_cost"
+      ]
+    }
+  ]
+}

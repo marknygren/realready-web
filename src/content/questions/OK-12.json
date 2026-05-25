@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OK-12",
+  "scope": "state",
+  "state": "OK",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "OK-12.1",
+      "question_text": "How soon after the contract is signed must trust funds be deposited in Oklahoma?",
+      "correct_answer": "Within 3 business days",
+      "distractors": ["Within 24 hours", "Within 5 business days", "By the end of the next business day"],
+      "explanation": "Oklahoma requires all trust funds to be deposited no later than 3 business days after the contract is signed. Weekends and holidays do not count as business days.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "deposit", "3 days"]
+    },
+    {
+      "key_topic_ref": "OK-12.1",
+      "question_text": "A buyer signs a contract on Wednesday. By when must the earnest money be deposited?",
+      "correct_answer": "By the following Monday",
+      "distractors": ["By Thursday", "By the following Friday", "By the following Wednesday"],
+      "explanation": "Trust funds must be deposited within 3 business days. Counting from Wednesday: Thursday (1), Friday (2), Monday (3). The deposit must be made by Monday.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "deposit", "timing"]
+    },
+    {
+      "key_topic_ref": "OK-12.1",
+      "question_text": "An Oklahoma trust account must be maintained at what type of institution?",
+      "correct_answer": "A federally insured institution in Oklahoma",
+      "distractors": ["Any bank licensed in the United States", "A state-chartered Oklahoma bank only", "An FDIC-insured bank in any state"],
+      "explanation": "Trust accounts must be at a federally insured financial institution located in Oklahoma. Out-of-state banks are not permitted for trust accounts.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "institution", "Oklahoma"]
+    },
+    {
+      "key_topic_ref": "OK-12.1",
+      "question_text": "Whose name must appear on the trust account?",
+      "correct_answer": "The broker's licensed name or trade name",
+      "distractors": ["The sales associate handling the transaction", "The buyer and seller jointly", "The brokerage's corporate parent company"],
+      "explanation": "The trust account must be in the broker's licensed name or registered trade name. The broker must also be a signatory on all trust accounts.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "name", "broker"]
+    },
+    {
+      "key_topic_ref": "OK-12.1",
+      "question_text": "Who must be a signatory on an Oklahoma real estate trust account?",
+      "correct_answer": "The broker",
+      "distractors": ["Any licensed associate in the office", "The office manager", "The buyer and seller on each transaction"],
+      "explanation": "The broker must be a signatory on all trust accounts. This ensures the broker maintains direct control over and responsibility for client funds.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "signatory", "broker"]
+    },
+    {
+      "key_topic_ref": "OK-12.2",
+      "question_text": "A broker deposits their personal funds into the trust account to cover a shortfall. This is called:",
+      "correct_answer": "Commingling, which is prohibited",
+      "distractors": ["Proper fund management", "A permissible advance of funds", "An acceptable temporary measure"],
+      "explanation": "Broker personal funds and brokerage operating funds may NOT be in the trust account. The only exception is the minimum amount needed to cover bank service charges.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "prohibition", "personal funds"]
+    },
+    {
+      "key_topic_ref": "OK-12.2",
+      "question_text": "What is the ONLY reason a broker may place personal funds in a trust account?",
+      "correct_answer": "To cover bank service charges",
+      "distractors": ["To earn interest for the brokerage", "To maintain a minimum balance requirement", "To bridge a temporary cash flow gap"],
+      "explanation": "The sole exception to the commingling prohibition is a minimum amount to cover bank service charges. No other personal or operating funds may be in the trust account.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["commingling", "exception", "service charges"]
+    },
+    {
+      "key_topic_ref": "OK-12.2",
+      "question_text": "How long must trust account records be maintained in Oklahoma?",
+      "correct_answer": "5 years",
+      "distractors": ["3 years", "7 years", "10 years"],
+      "explanation": "Trust account records must be maintained for 5 years. OREC may audit these records at any time, and records must be individually identified per transaction.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "records", "5 years"]
+    },
+    {
+      "key_topic_ref": "OK-12.2",
+      "question_text": "Trust account records must identify funds in what manner?",
+      "correct_answer": "Individually per transaction",
+      "distractors": ["By monthly totals only", "By client name alphabetically", "By deposit date only"],
+      "explanation": "Records must be individually identified per transaction, allowing OREC auditors to track each deposit, disbursement, and balance for every transaction separately.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "records", "per transaction"]
+    },
+    {
+      "key_topic_ref": "OK-12.2",
+      "question_text": "OREC decides to audit a broker's trust accounts. When may this audit occur?",
+      "correct_answer": "At any time without advance notice",
+      "distractors": ["Only during annual OREC audits", "Only after a complaint is filed", "Only with 30 days written notice"],
+      "explanation": "OREC may audit trust accounts at any time. There is no requirement for a complaint to be filed first or for advance notice. Records must always be current and accessible.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "audit", "OREC"]
+    },
+    {
+      "key_topic_ref": "OK-12.3",
+      "question_text": "The buyer and seller disagree over who should receive the earnest money after a failed transaction. What must the broker do?",
+      "correct_answer": "Hold the funds and not release them to either party",
+      "distractors": ["Return the funds to the buyer immediately", "Split the funds equally between the parties", "Release the funds to whoever demands them first"],
+      "explanation": "When parties dispute earnest money, the broker must hold the funds and not release them to either party. The broker may interplead the funds with the court for resolution.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earned money", "dispute", "hold"]
+    },
+    {
+      "key_topic_ref": "OK-12.3",
+      "question_text": "What legal action may a broker take to resolve an earnest money dispute?",
+      "correct_answer": "Interplead the funds with the court",
+      "distractors": ["Arbitrate the dispute themselves", "Donate the funds to a charity", "Return the funds to the depositor after 30 days"],
+      "explanation": "Interpleading deposits the disputed funds with the court, which then decides the rightful recipient. This protects the broker from liability for disbursing to the wrong party.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earned money", "interplead", "court"]
+    },
+    {
+      "key_topic_ref": "OK-12.3",
+      "question_text": "When an earnest money dispute arises, the broker must notify which entity?",
+      "correct_answer": "OREC",
+      "distractors": ["The local Board of REALTORS", "The Oklahoma Attorney General", "The county district court only"],
+      "explanation": "Brokers must notify OREC of disputed trust funds. This is in addition to holding the funds and potentially interpleading them with the court.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earned money", "notification", "OREC"]
+    },
+    {
+      "key_topic_ref": "OK-12.3",
+      "question_text": "A transaction falls through and the seller demands the earnest money. The buyer also claims the funds. The broker releases the funds to the seller. What is wrong with this action?",
+      "correct_answer": "The broker should have held the funds during the dispute",
+      "distractors": ["Nothing, the seller is typically entitled to the funds", "The broker should have split the funds", "The broker should have released to the buyer instead"],
+      "explanation": "When both parties claim the funds, the broker must hold them and not release to either party. Releasing funds to one party during a dispute violates the broker's duty and could result in discipline.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earned money", "dispute", "violation"]
+    },
+    {
+      "key_topic_ref": "OK-12.3",
+      "question_text": "The proper sequence when handling an earnest money dispute in Oklahoma is:",
+      "correct_answer": "Hold funds, notify OREC, interplead if needed",
+      "distractors": ["Return to buyer, then notify OREC", "Release to seller, then file with court", "Split funds, then notify both parties"],
+      "explanation": "The broker must first hold the funds and not release them, then notify OREC of the dispute, and may interplead the funds with the court if the parties cannot resolve it.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["earned money", "dispute", "sequence"]
+    }
+  ]
+}

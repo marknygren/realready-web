@@ -1,0 +1,308 @@
+{
+  "standard_ref": "NJ-14",
+  "scope": "state",
+  "state": "NJ",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NJ-14.1",
+      "question_text": "What type of eviction state is New Jersey classified as?",
+      "correct_answer": "A just cause eviction state",
+      "distractors": [
+        "An at-will eviction state",
+        "A no-fault eviction state",
+        "A notice-only eviction state"
+      ],
+      "explanation": "New Jersey is a just cause eviction state under the Anti-Eviction Act. Landlords may only remove tenants for specific enumerated reasons, providing strong tenant protections compared to at-will eviction states.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["anti-eviction-act", "just-cause", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.1",
+      "question_text": "A tenant files a health code complaint. The landlord serves an eviction notice 45 days later. What is the likely legal outcome?",
+      "correct_answer": "Presumed retaliatory within 90 days",
+      "distractors": [
+        "Valid if proper notice was given",
+        "Retaliatory only if within 30 days",
+        "Automatically dismissed by the court"
+      ],
+      "explanation": "Under NJ law, an eviction filed within 90 days of a tenant's complaint is presumed retaliatory. The landlord bears the burden of proving a legitimate, non-retaliatory reason for the eviction action.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["retaliatory-eviction", "90-day-presumption", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.1",
+      "question_text": "Which of the following is a valid just cause for eviction under the NJ Anti-Eviction Act?",
+      "correct_answer": "Non-payment of rent by the tenant",
+      "distractors": [
+        "Landlord wants to increase the rent",
+        "Tenant declined to sign a longer lease",
+        "Landlord found a higher-paying tenant"
+      ],
+      "explanation": "Non-payment of rent is one of the specifically enumerated just causes for eviction in New Jersey. Other valid reasons include disorderly conduct, lease violations, owner personal use, and building demolition or conversion.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["just-cause", "non-payment", "anti-eviction-act", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.1",
+      "question_text": "A landlord wants to evict a tenant to personally occupy the unit. What restriction applies under NJ law?",
+      "correct_answer": "Owner personal use is allowed with restrictions",
+      "distractors": [
+        "Owner occupancy is never a valid cause",
+        "The unit must be vacant for five years",
+        "Only commercial units allow this cause"
+      ],
+      "explanation": "Owner personal use is a recognized just cause for eviction in New Jersey, but it comes with restrictions designed to prevent abuse. The landlord must demonstrate genuine intent to personally occupy the dwelling.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["owner-occupancy", "just-cause", "anti-eviction-act", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.1",
+      "question_text": "A tenant engages in repeated disorderly conduct that disturbs neighbors. What can the landlord do under NJ law?",
+      "correct_answer": "Pursue eviction for just cause",
+      "distractors": [
+        "Nothing unless the lease expired",
+        "Only issue a written warning",
+        "Immediately change the locks on the unit"
+      ],
+      "explanation": "Disorderly conduct is a valid just cause for eviction under the NJ Anti-Eviction Act. The landlord must follow proper legal eviction procedures through the court system and cannot resort to self-help measures like lock changes.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["disorderly-conduct", "just-cause", "eviction-process", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.2",
+      "question_text": "What is the maximum security deposit a NJ landlord may collect from a new tenant?",
+      "correct_answer": "One and one-half months' rent",
+      "distractors": [
+        "One month's rent maximum",
+        "Two months' rent maximum",
+        "Three months' rent maximum"
+      ],
+      "explanation": "New Jersey limits security deposits to 1.5 months' rent at the start of a tenancy. Annual increases to the deposit are further capped at 10% of the current deposit amount, providing additional tenant protection.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "deposit-limit", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.2",
+      "question_text": "A NJ landlord holds a $2,000 security deposit. How must the deposit be maintained?",
+      "correct_answer": "In a separate interest-bearing account",
+      "distractors": [
+        "In the landlord's personal checking account",
+        "In a non-interest escrow at a title company",
+        "In a trust account at any financial firm"
+      ],
+      "explanation": "NJ law requires landlords to hold security deposits in a separate interest-bearing account at a NJ banking institution. The interest earned or bank credit must be paid to the tenant annually.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "interest-bearing", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.2",
+      "question_text": "A tenant moves out of a NJ rental. Within how many days must the landlord return the security deposit?",
+      "correct_answer": "30 days after move-out",
+      "distractors": [
+        "14 days after move-out",
+        "45 days after move-out",
+        "60 days after move-out"
+      ],
+      "explanation": "NJ landlords must return the security deposit within 30 days of the tenant's move-out date. If deductions are made, the landlord must provide an itemized list of damages and their costs.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "return-deadline", "30-days", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.2",
+      "question_text": "A NJ landlord fails to notify a tenant where the security deposit is held. What remedy does the tenant have?",
+      "correct_answer": "Apply deposit plus 7% annually to rent",
+      "distractors": [
+        "Sue for triple the deposit amount",
+        "Withhold rent until notice is provided",
+        "File a complaint with the state treasurer"
+      ],
+      "explanation": "When a landlord fails to provide notice of the deposit location, the tenant may apply the full deposit amount plus 7% annual interest as a credit toward rent. This penalty incentivizes proper deposit handling.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["security-deposit", "notice-failure", "penalty", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.2",
+      "question_text": "A NJ landlord wants to raise the security deposit after the first year. What annual increase cap applies?",
+      "correct_answer": "10% of the current deposit amount",
+      "distractors": [
+        "5% of the current deposit amount",
+        "15% of the current deposit amount",
+        "No cap on annual deposit increases"
+      ],
+      "explanation": "NJ law caps annual security deposit increases at 10% of the current deposit amount. This prevents landlords from dramatically increasing deposits after initial tenancy and provides cost predictability for tenants.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["security-deposit", "annual-increase", "10-percent-cap", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.3",
+      "question_text": "Which landlords must provide the Truth in Renting booklet in New Jersey?",
+      "correct_answer": "Landlords of buildings with 3 or more units",
+      "distractors": [
+        "All landlords regardless of building size",
+        "Only landlords with 10 or more units",
+        "Only commercial property landlords"
+      ],
+      "explanation": "The NJ Truth in Renting Act requires landlords of buildings with three or more dwelling units to provide tenants with the Truth in Renting booklet. This booklet is published by the Department of Community Affairs.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["truth-in-renting", "3-units", "DCA", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.3",
+      "question_text": "A NJ lease contains a clause waiving the tenant's right to a habitable dwelling. Is this enforceable?",
+      "correct_answer": "No, it is void and unenforceable",
+      "distractors": [
+        "Yes, if the tenant signed voluntarily",
+        "Yes, if the rent was discounted accordingly",
+        "Only if witnessed by an attorney"
+      ],
+      "explanation": "Under the Truth in Renting Act, lease provisions that violate tenant rights are void and unenforceable. Tenants cannot waive protections guaranteed by NJ law, regardless of what the lease states.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["truth-in-renting", "void-provisions", "tenant-rights", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.3",
+      "question_text": "Which NJ state agency publishes the Truth in Renting booklet?",
+      "correct_answer": "Department of Community Affairs",
+      "distractors": [
+        "Department of Banking and Insurance",
+        "Real Estate Commission",
+        "Division of Consumer Affairs"
+      ],
+      "explanation": "The NJ Department of Community Affairs (DCA) publishes the Truth in Renting booklet. This publication informs tenants of their legal rights and protections under NJ landlord-tenant law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["truth-in-renting", "DCA", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.3",
+      "question_text": "A landlord of a duplex in NJ asks whether the Truth in Renting booklet must be provided. What is correct?",
+      "correct_answer": "Not required for buildings under 3 units",
+      "distractors": [
+        "Required for all residential rentals",
+        "Required only for month-to-month leases",
+        "Required if the rent exceeds $1,500"
+      ],
+      "explanation": "The Truth in Renting Act applies only to buildings with three or more dwelling units. A duplex has only two units, so the landlord is not required to provide the booklet, though doing so voluntarily is permissible.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["truth-in-renting", "unit-threshold", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.3",
+      "question_text": "A tenant discovers their lease prohibits calling code enforcement. Under the Truth in Renting Act, what is the status of that clause?",
+      "correct_answer": "The clause is void as a matter of law",
+      "distractors": [
+        "Enforceable if both parties agreed",
+        "Valid but subject to court review",
+        "Enforceable for the first lease year only"
+      ],
+      "explanation": "The Truth in Renting Act renders void any lease provision that violates tenant rights guaranteed by NJ law. A clause restricting a tenant's right to contact code enforcement directly conflicts with protected tenant rights.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["truth-in-renting", "void-clause", "tenant-protection", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.4",
+      "question_text": "Does New Jersey have statewide rent control?",
+      "correct_answer": "No, only local municipal ordinances exist",
+      "distractors": [
+        "Yes, a 5% annual cap applies statewide",
+        "Yes, controlled by the state housing agency",
+        "No, and local ordinances are prohibited"
+      ],
+      "explanation": "New Jersey does not have statewide rent control. However, many municipalities, especially in northern NJ, have enacted their own local rent control ordinances that limit allowable rent increases.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rent-control", "municipal-ordinance", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.4",
+      "question_text": "A NJ landlord plans to raise rent on an existing tenant. How much written notice is required?",
+      "correct_answer": "30 days written notice before the increase",
+      "distractors": [
+        "14 days written notice before the increase",
+        "60 days written notice before the increase",
+        "90 days written notice before the increase"
+      ],
+      "explanation": "NJ law requires landlords to provide 30 days written notice before implementing a rent increase. This applies regardless of whether the property is in a municipality with rent control.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["rent-increase", "30-day-notice", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.4",
+      "question_text": "A tenant complains about a broken heating system in January. The landlord refuses to repair it. What doctrine protects the tenant?",
+      "correct_answer": "Implied warranty of habitability",
+      "distractors": [
+        "Doctrine of constructive notice",
+        "Statute of frauds protection",
+        "Covenant of quiet enjoyment only"
+      ],
+      "explanation": "The implied warranty of habitability requires landlords to maintain rental premises in a livable condition. A broken heating system in winter is a clear habitability violation that the landlord is legally obligated to repair.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["habitability", "tenant-rights", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.4",
+      "question_text": "Under the 2024 NJ Flood Risk Notice requirement, what must landlords disclose to tenants?",
+      "correct_answer": "Whether the property is in a FEMA flood area",
+      "distractors": [
+        "The cost of flood insurance premiums",
+        "Historical flood damage repair records",
+        "Proximity to the nearest waterway"
+      ],
+      "explanation": "The 2024 Flood Risk Notice law requires NJ landlords to disclose whether the property is located in a FEMA-designated flood hazard area. This helps tenants make informed decisions and obtain renter's flood insurance if needed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["flood-risk-notice", "FEMA", "2024-law", "NJ"]
+    },
+    {
+      "key_topic_ref": "NJ-14.4",
+      "question_text": "A NJ municipality passes a rent control ordinance limiting annual increases to 4%. Which level of government authorized this?",
+      "correct_answer": "The municipality enacted it under local authority",
+      "distractors": [
+        "The state legislature passed a statewide cap",
+        "NJREC approved the rent restriction",
+        "The county board of commissioners set the rate"
+      ],
+      "explanation": "NJ has no statewide rent control. Individual municipalities may enact their own rent control ordinances under local authority. NJREC regulates licensees, not rental rates. County boards do not control municipal rent ordinances.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rent-control", "municipal-authority", "local-ordinance", "NJ"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "ID-13",
+  "scope": "state",
+  "state": "ID",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "ID-13.1",
+      "question_text": "Idaho primarily uses which instrument for real estate financing?",
+      "correct_answer": "Deed of trust",
+      "distractors": ["Traditional mortgage", "Contract for deed", "Land sale contract"],
+      "explanation": "Idaho is a deed of trust state, meaning the deed of trust is the primary security instrument for real estate financing. This enables non-judicial foreclosure as the primary foreclosure method.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["financing", "deed of trust", "instrument"]
+    },
+    {
+      "key_topic_ref": "ID-13.1",
+      "question_text": "In Idaho's non-judicial foreclosure process, what is the first step the trustee takes?",
+      "correct_answer": "Records a Notice of Default in the county recorder's office",
+      "distractors": ["Files a lawsuit in district court", "Publishes a notice in the newspaper", "Sends a certified letter to the borrower"],
+      "explanation": "The non-judicial foreclosure process begins when the trustee records a Notice of Default (NOD) in the county recorder's office and mails a copy to the borrower.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "non-judicial", "Notice of Default"]
+    },
+    {
+      "key_topic_ref": "ID-13.1",
+      "question_text": "How long is the reinstatement period after a Notice of Default is recorded in Idaho?",
+      "correct_answer": "115 days",
+      "distractors": ["90 days", "120 days", "150 days"],
+      "explanation": "The borrower has 115 days from the NOD recording date to reinstate the loan by paying all past-due amounts plus costs. After this period, the property proceeds to sale.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "reinstatement", "115 days"]
+    },
+    {
+      "key_topic_ref": "ID-13.1",
+      "question_text": "After a non-judicial foreclosure sale in Idaho, what redemption right does the borrower have?",
+      "correct_answer": "No right of redemption",
+      "distractors": ["6 months to redeem", "1 year to redeem", "90 days to redeem"],
+      "explanation": "There is no right of redemption after an Idaho non-judicial foreclosure sale. Once the trustee's sale is completed, the borrower has no further right to reclaim the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "non-judicial", "no redemption"]
+    },
+    {
+      "key_topic_ref": "ID-13.1",
+      "question_text": "The Notice of Sale in an Idaho non-judicial foreclosure must be mailed how many days before the sale?",
+      "correct_answer": "At least 120 days",
+      "distractors": ["At least 30 days", "At least 60 days", "At least 90 days"],
+      "explanation": "The Notice of Sale must be mailed at least 120 days before the sale date. The notice must also be published in a newspaper once a week for 4 consecutive weeks and personal service attempted.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "Notice of Sale", "120 days"]
+    },
+    {
+      "key_topic_ref": "ID-13.2",
+      "question_text": "In Idaho judicial foreclosure, what is the redemption period for a property of 15 acres?",
+      "correct_answer": "6 months",
+      "distractors": ["3 months", "1 year", "No redemption period"],
+      "explanation": "For judicial foreclosure of properties of 20 acres or less, the redemption period is 6 months. For properties over 20 acres, the redemption period is 1 year.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["foreclosure", "judicial", "redemption", "6 months"]
+    },
+    {
+      "key_topic_ref": "ID-13.2",
+      "question_text": "A lender forecloses judicially on a 40-acre ranch. How long does the borrower have to redeem?",
+      "correct_answer": "1 year",
+      "distractors": ["6 months", "3 months", "No redemption right"],
+      "explanation": "For judicial foreclosure of properties over 20 acres, the redemption period is 1 year. A 40-acre ranch exceeds the 20-acre threshold, so the longer redemption period applies.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["foreclosure", "judicial", "redemption", "1 year"]
+    },
+    {
+      "key_topic_ref": "ID-13.2",
+      "question_text": "Within what timeframe must a lender file for a deficiency judgment after an Idaho foreclosure?",
+      "correct_answer": "3 months after the sale",
+      "distractors": ["6 months after the sale", "1 year after the sale", "30 days after the sale"],
+      "explanation": "In both judicial and non-judicial foreclosure, the lender must file for a deficiency judgment within 3 months of the foreclosure sale. The deficiency is limited to the difference between the debt and fair market value.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "deficiency judgment", "3 months"]
+    },
+    {
+      "key_topic_ref": "ID-13.2",
+      "question_text": "What is the key difference between judicial and non-judicial foreclosure in Idaho regarding redemption?",
+      "correct_answer": "Judicial allows redemption; non-judicial does not",
+      "distractors": ["Non-judicial has longer redemption periods", "Both have 6-month redemption periods", "Neither provides redemption rights"],
+      "explanation": "The critical distinction: judicial foreclosure provides a redemption period (6 months or 1 year depending on acreage), while non-judicial foreclosure provides no redemption right after the trustee's sale.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["foreclosure", "redemption", "judicial vs non-judicial"]
+    },
+    {
+      "key_topic_ref": "ID-13.2",
+      "question_text": "How is an Idaho deficiency judgment calculated?",
+      "correct_answer": "Debt minus the property's fair market value",
+      "distractors": ["Debt minus the foreclosure sale price", "The full outstanding loan balance", "Debt minus the original purchase price"],
+      "explanation": "Idaho limits deficiency judgments to the difference between the outstanding debt and the property's fair market value — not the sale price. This protects borrowers from below-market foreclosure sales.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "deficiency", "fair market value"]
+    },
+    {
+      "key_topic_ref": "ID-13.3",
+      "question_text": "In a contract for deed arrangement, who retains legal title until the contract is fulfilled?",
+      "correct_answer": "The seller",
+      "distractors": ["The buyer", "A neutral third party", "The county recorder"],
+      "explanation": "In a contract for deed (also called a land contract), the seller retains legal title until the buyer fulfills all contract terms, typically full payment. The buyer receives equitable title and possession.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contract for deed", "legal title", "seller financing"]
+    },
+    {
+      "key_topic_ref": "ID-13.3",
+      "question_text": "What is the primary difference between a deed of trust and a mortgage in Idaho?",
+      "correct_answer": "A deed of trust involves three parties; a mortgage involves two",
+      "distractors": ["A mortgage has lower interest rates", "A deed of trust can only be used for commercial property", "A mortgage requires IREC approval"],
+      "explanation": "A deed of trust involves three parties (borrower/trustor, lender/beneficiary, trustee), while a mortgage involves only two (borrower/mortgagor, lender/mortgagee). The trustee in a deed of trust enables non-judicial foreclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deed of trust", "mortgage", "parties"]
+    },
+    {
+      "key_topic_ref": "ID-13.3",
+      "question_text": "A buyer and seller agree to seller financing using a contract for deed. What does the buyer receive during the contract term?",
+      "correct_answer": "Equitable title and possession",
+      "distractors": ["Full legal title immediately", "No interest in the property", "A rental agreement only"],
+      "explanation": "Under a contract for deed, the buyer receives equitable title (beneficial interest) and possession of the property. Legal title remains with the seller until the contract is fully performed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contract for deed", "equitable title", "possession"]
+    },
+    {
+      "key_topic_ref": "ID-13.3",
+      "question_text": "In a deed of trust, who holds the power of sale?",
+      "correct_answer": "The trustee",
+      "distractors": ["The borrower", "The lender", "The county recorder"],
+      "explanation": "The trustee holds the power of sale in a deed of trust. If the borrower defaults, the trustee can conduct a non-judicial foreclosure sale without going through the court system.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deed of trust", "trustee", "power of sale"]
+    },
+    {
+      "key_topic_ref": "ID-13.3",
+      "question_text": "What document accompanies a deed of trust to establish the borrower's repayment obligation?",
+      "correct_answer": "A promissory note",
+      "distractors": ["A listing agreement", "An escrow instruction", "A title insurance policy"],
+      "explanation": "A promissory note is the personal obligation to repay the loan and accompanies the deed of trust, which serves as the security instrument. Together they form the complete financing arrangement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["financing", "promissory note", "deed of trust"]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "standard_ref": "WY-11",
+  "scope": "state",
+  "state": "WY",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "WY-11.1",
+      "question_text": "How is Wyoming's real estate recovery account funded?",
+      "correct_answer": "A $20 fee from each license issuance or renewal",
+      "distractors": [
+        "A percentage of each commission earned",
+        "Annual appropriations from the general fund",
+        "A one-time $100 fee at initial licensure only"
+      ],
+      "explanation": "Wyoming funds its recovery account through a $20 fee collected every time a person obtains or renews a real estate license. The fee is not based on commissions, general fund appropriations, or a one-time charge.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery_account", "funding", "license_fee"]
+    },
+    {
+      "key_topic_ref": "WY-11.1",
+      "question_text": "The recovery account balance has reached $20,000. A licensee renews and pays the $20 fee. How is that fee allocated?",
+      "correct_answer": "$10 to recovery account and $10 to education fund",
+      "distractors": [
+        "The entire $20 goes to the recovery account",
+        "The entire $20 goes to the education fund",
+        "Collection of the fee stops at $20,000"
+      ],
+      "explanation": "When the recovery account balance reaches $20,000, the $20 fee is split equally: half goes to the recovery account and half to the Real Estate Education Fund. The fee does not stop being collected at that threshold.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery_account", "education_fund", "fee_split", "threshold"]
+    },
+    {
+      "key_topic_ref": "WY-11.1",
+      "question_text": "The recovery account balance has grown to $55,000. Where do newly collected license fees go?",
+      "correct_answer": "All fees go to the education fund",
+      "distractors": [
+        "Fees are split equally between both funds",
+        "All fees go to the recovery account",
+        "Fee collection is suspended entirely"
+      ],
+      "explanation": "Once the recovery account balance reaches $50,000, all license fees are directed entirely to the Real Estate Education Fund. The split allocation only applies when the balance is between $20,000 and $50,000.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery_account", "education_fund", "threshold", "50000"]
+    },
+    {
+      "key_topic_ref": "WY-11.1",
+      "question_text": "What is the purpose of Wyoming's Real Estate Education Fund?",
+      "correct_answer": "To support WREC educational programs",
+      "distractors": [
+        "To reimburse consumers harmed by licensees",
+        "To pay for licensee continuing education tuition",
+        "To fund real estate scholarship grants"
+      ],
+      "explanation": "The Real Estate Education Fund is used by the Wyoming Real Estate Commission to fund its educational programs. It is separate from the recovery account, which reimburses consumers. The fund does not pay individual licensee tuition or scholarships.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["education_fund", "WREC", "purpose"]
+    },
+    {
+      "key_topic_ref": "WY-11.1",
+      "question_text": "What is the primary purpose of Wyoming's Real Estate Recovery Account?",
+      "correct_answer": "Compensate consumers harmed by licensees",
+      "distractors": [
+        "Fund continuing education for licensees",
+        "Pay for WREC office operating expenses",
+        "Provide loans to first-time homebuyers"
+      ],
+      "explanation": "The Wyoming Real Estate Recovery Account exists to compensate victims of licensee fraud, misrepresentation, or conversion of trust funds. It is a consumer protection mechanism, separate from the Education Fund which supports WREC educational programs.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery_account", "consumer_protection", "purpose"]
+    },
+    {
+      "key_topic_ref": "WY-11.2",
+      "question_text": "What is the maximum amount a claimant can recover from Wyoming's recovery account for a single claim?",
+      "correct_answer": "$10,000 per claim",
+      "distractors": [
+        "$25,000 per claim",
+        "$50,000 per claim",
+        "$15,000 per claim"
+      ],
+      "explanation": "Wyoming limits recovery account payouts to $10,000 per claim, which is one of the lowest maximums in the nation. This relatively low cap reflects Wyoming's conservative approach to the fund.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery_account", "maximum_claim", "10000"]
+    },
+    {
+      "key_topic_ref": "WY-11.2",
+      "question_text": "A buyer suffers $8,000 in damages due to a licensee's misconduct. What must the buyer do BEFORE filing a claim against the recovery account?",
+      "correct_answer": "Obtain a court judgment and attempt to collect",
+      "distractors": [
+        "File a complaint directly with WREC",
+        "Submit a demand letter to the licensee's broker",
+        "Request mediation through the local board"
+      ],
+      "explanation": "Wyoming requires claimants to first obtain a court judgment against the licensee and then attempt to collect on that judgment before seeking payment from the recovery account. A WREC complaint alone is not sufficient.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery_account", "claim_process", "court_judgment"]
+    },
+    {
+      "key_topic_ref": "WY-11.2",
+      "question_text": "The recovery account pays $10,000 on a valid claim against licensee Martinez. What happens to Martinez's license?",
+      "correct_answer": "Automatically suspended until full repayment",
+      "distractors": [
+        "Remains active with a public notation added",
+        "Permanently revoked with no appeal available",
+        "Placed on probation for a two-year period"
+      ],
+      "explanation": "When the recovery account pays a claim, the licensee's license is automatically suspended. The suspension remains in effect until the licensee repays the full amount plus interest. The license is not permanently revoked.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery_account", "license_suspension", "repayment"]
+    },
+    {
+      "key_topic_ref": "WY-11.2",
+      "question_text": "Licensee Chen's misconduct caused $15,000 in damages. A court awards the full amount. How much can the claimant recover from the fund?",
+      "correct_answer": "$10,000, which is the per-claim maximum",
+      "distractors": [
+        "$15,000, the full judgment amount",
+        "$7,500, which is half the judgment",
+        "$5,000, the base recovery limit"
+      ],
+      "explanation": "Regardless of the court judgment amount, the recovery account maximum is $10,000 per claim. The claimant would need to pursue other collection methods for the remaining $5,000 owed beyond the fund's cap.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery_account", "maximum_claim", "court_judgment", "excess"]
+    },
+    {
+      "key_topic_ref": "WY-11.2",
+      "question_text": "A consumer files a claim against Wyoming's recovery account. Who bears liability if the fund has insufficient money to pay?",
+      "correct_answer": "The state has no liability for claims against the fund",
+      "distractors": [
+        "WREC must cover the shortfall from its budget",
+        "The state general fund covers remaining amounts",
+        "The claimant can sue the state for the balance"
+      ],
+      "explanation": "Wyoming law explicitly provides that the state has no liability for claims against the recovery account. If the fund lacks sufficient money, the claimant cannot compel the state to make up the difference from other sources.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["recovery_account", "state_liability", "insufficient_funds"]
+    }
+  ]
+}

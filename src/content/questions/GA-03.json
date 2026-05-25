@@ -1,0 +1,233 @@
+{
+  "standard_ref": "GA-03",
+  "scope": "state",
+  "state": "GA",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "GA-03.1",
+      "question_text": "Who may file a complaint against a Georgia real estate licensee with GREC?",
+      "correct_answer": "Any person may file a complaint",
+      "distractors": [
+        "Only other licensed agents",
+        "Only consumers involved in a transaction",
+        "Only the licensee's sponsoring broker"
+      ],
+      "explanation": "Georgia allows anyone to file a complaint with GREC, not just parties to a transaction. This broad standing ensures that violations can be reported by colleagues, consumers, or any member of the public.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["complaint", "filing", "public-access"]
+    },
+    {
+      "key_topic_ref": "GA-03.1",
+      "question_text": "A buyer suspects their agent mishandled earnest money. After filing a complaint, who conducts the initial investigation?",
+      "correct_answer": "GREC investigative staff",
+      "distractors": [
+        "The Commission members directly",
+        "The local district attorney",
+        "The Georgia Attorney General"
+      ],
+      "explanation": "GREC has dedicated investigative staff who handle initial investigations including document review, trust account audits, and witness interviews. Commission members review findings later but do not conduct investigations themselves.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["investigation", "GREC-staff", "complaint-process"]
+    },
+    {
+      "key_topic_ref": "GA-03.1",
+      "question_text": "During an investigation, GREC staff may perform which of the following?",
+      "correct_answer": "Trust account audits and witness interviews",
+      "distractors": [
+        "Criminal arrests and prosecutions",
+        "Civil lawsuits on behalf of consumers",
+        "Seizure of the broker's office equipment"
+      ],
+      "explanation": "GREC investigative tools include trust account audits, document review, and witness interviews. Criminal prosecution falls to law enforcement, and civil lawsuits are matters for the courts, not the Commission.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["investigation", "trust-account-audit", "enforcement-tools"]
+    },
+    {
+      "key_topic_ref": "GA-03.1",
+      "question_text": "A broker notices a salesperson in their office forging client signatures. Can the broker file a GREC complaint?",
+      "correct_answer": "Yes, any person including a broker may file",
+      "distractors": [
+        "No, brokers must handle it internally",
+        "Only after terminating the salesperson",
+        "Only the affected client may file"
+      ],
+      "explanation": "Any person, including a supervising broker, can file a GREC complaint. Brokers have a professional obligation to report known violations, and waiting to terminate the agent first is not required.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["complaint", "broker-responsibility", "fraud"]
+    },
+    {
+      "key_topic_ref": "GA-03.1",
+      "question_text": "GREC receives a complaint about a licensee but finds insufficient evidence after investigation. What is the most likely outcome?",
+      "correct_answer": "The complaint is dismissed",
+      "distractors": [
+        "The licensee receives a warning on their record",
+        "The case is automatically sent to a hearing",
+        "The licensee's license is suspended pending review"
+      ],
+      "explanation": "If GREC investigative staff find insufficient evidence to support the allegations, the complaint is dismissed. A formal hearing is only initiated when the investigation reveals enough evidence to warrant disciplinary action.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["complaint", "dismissal", "investigation-outcome"]
+    },
+    {
+      "key_topic_ref": "GA-03.2",
+      "question_text": "A licensee deposits a client's earnest money into their personal checking account. Which violation has occurred?",
+      "correct_answer": "Commingling of funds",
+      "distractors": [
+        "Misrepresentation of property value",
+        "Unauthorized practice of law",
+        "Breach of fiduciary duty only"
+      ],
+      "explanation": "Depositing client funds into a personal account constitutes commingling, which is a specific violation under O.C.G.A. Section 43-40-25. Client funds must be placed in a properly designated trust or escrow account.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "trust-account", "grounds-for-discipline"]
+    },
+    {
+      "key_topic_ref": "GA-03.2",
+      "question_text": "An agent represents both buyer and seller without disclosing this dual role. Under Georgia law, what is the primary violation?",
+      "correct_answer": "Undisclosed dual agency",
+      "distractors": [
+        "Practicing without a license",
+        "Failure to complete continuing education",
+        "Operating outside their market area"
+      ],
+      "explanation": "Undisclosed dual agency is a specific ground for discipline under O.C.G.A. Section 43-40-25. Georgia requires full disclosure when an agent represents both parties, and failure to disclose creates a serious conflict of interest.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["dual-agency", "disclosure", "grounds-for-discipline"]
+    },
+    {
+      "key_topic_ref": "GA-03.2",
+      "question_text": "A licensee is convicted of felony fraud unrelated to real estate. Can GREC take disciplinary action?",
+      "correct_answer": "Yes, certain criminal convictions are grounds for discipline",
+      "distractors": [
+        "No, only real estate practice violations apply",
+        "Only if the crime directly involved a client",
+        "Only after obtaining a separate civil judgment"
+      ],
+      "explanation": "O.C.G.A. Section 43-40-25 lists conviction of certain crimes as an independent ground for discipline, regardless of whether the crime involved real estate. Fraud convictions demonstrate unfitness to hold a license.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["criminal-conviction", "grounds-for-discipline", "fitness"]
+    },
+    {
+      "key_topic_ref": "GA-03.2",
+      "question_text": "Which of the following is NOT a listed ground for discipline under Georgia license law?",
+      "correct_answer": "Charging a commission above the market average",
+      "distractors": [
+        "Misrepresentation or fraud",
+        "Failure to account for or remit funds",
+        "Incompetence or negligence in practice"
+      ],
+      "explanation": "Commission rates are negotiable and not regulated by GREC. Misrepresentation, failure to remit funds, and incompetence are all specific grounds for discipline listed in O.C.G.A. Section 43-40-25.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["grounds-for-discipline", "commission-rates", "OCGA-43-40-25"]
+    },
+    {
+      "key_topic_ref": "GA-03.2",
+      "question_text": "A licensee lets their CE lapse and continues showing properties. What violation has occurred?",
+      "correct_answer": "Failure to complete continuing education",
+      "distractors": [
+        "Practicing with a suspended license",
+        "Engaging in unauthorized brokerage activity",
+        "Misrepresentation of professional credentials"
+      ],
+      "explanation": "Failure to complete continuing education is a specific ground for discipline under Georgia license law. Practicing without current CE violates the licensee's obligation to maintain their education requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["continuing-education", "grounds-for-discipline", "compliance"]
+    },
+    {
+      "key_topic_ref": "GA-03.3",
+      "question_text": "When a Georgia licensee faces a formal hearing, which entity serves as the hearing tribunal?",
+      "correct_answer": "An ALJ at State Administrative Hearings",
+      "distractors": [
+        "The GREC Commission members directly",
+        "A Georgia Superior Court judge",
+        "The Secretary of State's hearing panel"
+      ],
+      "explanation": "Formal disciplinary hearings are conducted before an Administrative Law Judge (ALJ) at the Office of State Administrative Hearings (OSAH). GREC then reviews the ALJ's decision and may adopt, modify, or reject it.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ALJ", "OSAH", "hearing-process"]
+    },
+    {
+      "key_topic_ref": "GA-03.3",
+      "question_text": "After an ALJ issues a decision in a GREC case, what authority does the Commission have?",
+      "correct_answer": "Adopt, modify, or reject the ALJ decision",
+      "distractors": [
+        "Must accept the ALJ decision as final",
+        "Can only accept or reject, not modify",
+        "Must send it to Superior Court for approval"
+      ],
+      "explanation": "GREC has broad authority to adopt, modify, or reject the ALJ's decision. This gives the Commission final say on disciplinary outcomes while still benefiting from the ALJ's independent fact-finding process.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ALJ", "GREC-authority", "decision-review"]
+    },
+    {
+      "key_topic_ref": "GA-03.3",
+      "question_text": "A licensee disagrees with GREC's final disciplinary order. Where can they file an appeal?",
+      "correct_answer": "Georgia Superior Court",
+      "distractors": [
+        "The Georgia Court of Appeals directly",
+        "The Secretary of State's office",
+        "A federal district court"
+      ],
+      "explanation": "Appeals of GREC disciplinary decisions go to Georgia Superior Court. This judicial review ensures licensees have access to the court system if they believe the Commission's decision was improper.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["appeal", "superior-court", "disciplinary-process"]
+    },
+    {
+      "key_topic_ref": "GA-03.3",
+      "question_text": "GREC finds a broker guilty of repeated trust account violations. Which of the following is a possible disciplinary action?",
+      "correct_answer": "Revocation, suspension, fine, or probation",
+      "distractors": [
+        "Criminal imprisonment ordered by GREC",
+        "Mandatory sale of the brokerage firm",
+        "Transfer of the broker's clients to another firm"
+      ],
+      "explanation": "GREC can impose revocation, suspension, reprimand, fine, cease and desist, probation, or denial. GREC cannot impose criminal penalties or order the sale of a business, as those are beyond the Commission's authority.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["disciplinary-actions", "penalties", "enforcement"]
+    },
+    {
+      "key_topic_ref": "GA-03.3",
+      "question_text": "A salesperson is found to have committed a minor first-time violation. Which disciplinary outcome is most proportionate?",
+      "correct_answer": "A formal reprimand",
+      "distractors": [
+        "Immediate license revocation",
+        "A five-year suspension",
+        "Payment into the Recovery Fund"
+      ],
+      "explanation": "A reprimand is the least severe formal disciplinary action and is appropriate for minor first offenses. Revocation and lengthy suspensions are reserved for serious or repeated violations. Payment into the Recovery Fund is not a disciplinary sanction.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["reprimand", "proportionate-discipline", "first-offense"]
+    }
+  ]
+}

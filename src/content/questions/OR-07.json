@@ -1,0 +1,173 @@
+{
+  "standard_ref": "OR-07",
+  "scope": "state",
+  "state": "OR",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "OR-07.1",
+      "question_text": "Who bears ultimate responsibility for all trust account activity in an Oregon brokerage?",
+      "correct_answer": "The principal broker",
+      "distractors": ["The listing broker", "The office manager", "Each individual broker"],
+      "explanation": "In Oregon, the principal broker (or managing principal broker) is responsible for establishing, maintaining, and overseeing all trust account activity. Individual brokers handle client funds but the PB bears ultimate accountability.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["trust account", "principal broker", "responsibility"]
+    },
+    {
+      "key_topic_ref": "OR-07.1",
+      "question_text": "A broker deposits a personal commission check into the brokerage trust account to cover a shortfall. What violation has occurred?",
+      "correct_answer": "Commingling of funds",
+      "distractors": ["Conversion of funds", "Misrepresentation", "Unauthorized practice"],
+      "explanation": "Commingling occurs when a broker's personal funds are placed into a client trust account. Oregon law strictly prohibits mixing personal and client funds in the same account, regardless of the broker's intent.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commingling", "trust account", "violation"]
+    },
+    {
+      "key_topic_ref": "OR-07.1",
+      "question_text": "An Oregon brokerage opens a trust account at an out-of-state online bank. Is this permissible?",
+      "correct_answer": "No, it must be an Oregon institution",
+      "distractors": ["Yes, any FDIC-insured bank qualifies", "Yes, if the PB notifies OREA", "Yes, with client written consent"],
+      "explanation": "Oregon requires that client trust accounts be maintained at an Oregon financial institution. An out-of-state bank, even if FDIC-insured, does not satisfy this requirement.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["trust account", "Oregon institution", "requirement"]
+    },
+    {
+      "key_topic_ref": "OR-07.1",
+      "question_text": "Under 2026 Oregon regulations, who is specifically responsible for trust account management in a brokerage with a managing principal broker?",
+      "correct_answer": "The managing principal broker",
+      "distractors": ["The designated broker", "The brokerage's accountant", "Any licensed broker on staff"],
+      "explanation": "As of 2026, Oregon regulations specifically assign trust account management responsibility to the managing principal broker. This clarifies the chain of accountability in larger brokerages.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["managing principal broker", "trust account", "2026 update"]
+    },
+    {
+      "key_topic_ref": "OR-07.1",
+      "question_text": "A principal broker asks a newly licensed broker to set up a separate trust account for a large transaction. Who must establish and maintain this account?",
+      "correct_answer": "The principal broker or managing PB",
+      "distractors": ["The newly licensed broker", "The transaction coordinator", "Either party to the transaction"],
+      "explanation": "Only the principal broker or managing principal broker may establish and maintain trust accounts. A newly licensed broker (entry-level) cannot independently open or manage trust accounts on behalf of the brokerage.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["trust account", "establishment", "principal broker"]
+    },
+    {
+      "key_topic_ref": "OR-07.2",
+      "question_text": "A buyer gives a broker an earnest money check on Thursday. The offer is accepted Friday. By when must the check be deposited into the trust account?",
+      "correct_answer": "By Wednesday (3 banking days)",
+      "distractors": ["By Monday (1 banking day)", "By the following Friday", "Within 24 hours of acceptance"],
+      "explanation": "After acceptance of an offer, Oregon requires that earnest money be deposited into a trust account or transmitted to a licensed neutral escrow depository within 3 banking days. Three banking days from Friday is Wednesday.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest money", "deposit deadline", "banking days"]
+    },
+    {
+      "key_topic_ref": "OR-07.2",
+      "question_text": "A sale agreement states the broker will hold an earnest money check and specifies deposit terms upon acceptance. Can the check remain un-deposited before acceptance?",
+      "correct_answer": "Yes, if the agreement says so explicitly",
+      "distractors": ["No, it must be deposited immediately", "Only with OREA written approval", "Only for checks under $5,000"],
+      "explanation": "Oregon permits a broker to hold an earnest money check un-deposited until the offer is accepted or rejected, provided the sale agreement states the broker is holding it and specifies where and when it will be deposited upon acceptance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest money", "un-deposited check", "sale agreement"]
+    },
+    {
+      "key_topic_ref": "OR-07.2",
+      "question_text": "A cooperating broker receives an earnest money check from a buyer on Monday. Within how many banking days must the broker transmit it to the principal broker?",
+      "correct_answer": "3 banking days",
+      "distractors": ["1 banking day", "5 banking days", "10 calendar days"],
+      "explanation": "When earnest money passes between brokers, the receiving broker must transmit the funds to the principal broker within 3 banking days of receipt. This ensures timely handling of client funds through proper channels.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest money", "broker to PB", "transmittal"]
+    },
+    {
+      "key_topic_ref": "OR-07.2",
+      "question_text": "A transaction terminates and the buyer forfeits the earnest money. How many calendar days does the principal broker have to disburse forfeited funds?",
+      "correct_answer": "10 calendar days",
+      "distractors": ["3 banking days", "5 calendar days", "30 calendar days"],
+      "explanation": "When earnest money is forfeited, the principal broker must disburse the funds within 10 calendar days of the transaction's completion or termination. This is measured in calendar days, not banking days.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["forfeited earnest money", "disbursement", "timeline"]
+    },
+    {
+      "key_topic_ref": "OR-07.2",
+      "question_text": "After offer acceptance, a broker transmits earnest money to a licensed neutral escrow depository instead of the brokerage trust account. Is this proper?",
+      "correct_answer": "Yes, this is an acceptable alternative",
+      "distractors": ["No, trust account deposit is mandatory", "Only if the buyer requests it", "Only for commercial transactions"],
+      "explanation": "Oregon allows earnest money to be either deposited into the trust account or transmitted to a licensed neutral escrow depository within 3 banking days of acceptance. Both options satisfy the requirement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest money", "escrow depository", "deposit options"]
+    },
+    {
+      "key_topic_ref": "OR-07.3",
+      "question_text": "What type of reconciliation does Oregon require for trust accounts?",
+      "correct_answer": "Three-way reconciliation",
+      "distractors": ["Two-way reconciliation", "Monthly bank statement review only", "Annual CPA audit"],
+      "explanation": "Oregon requires a three-way reconciliation that compares the bank statement balance, the trust account ledger balance, and the total of all individual client ledger balances. All three must agree.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["reconciliation", "three-way", "trust account"]
+    },
+    {
+      "key_topic_ref": "OR-07.3",
+      "question_text": "During a three-way reconciliation, a principal broker finds the trust ledger exceeds the bank statement by $500. Which component should be examined next?",
+      "correct_answer": "Individual client ledgers for errors",
+      "distractors": ["OREA compliance records", "The broker's personal account", "Previous year's tax returns"],
+      "explanation": "In a three-way reconciliation, discrepancies require checking all three components: the bank statement, the trust ledger, and individual client ledgers. When the ledger and bank disagree, reviewing individual client ledgers helps identify the source of the discrepancy.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["reconciliation", "discrepancy", "troubleshooting"]
+    },
+    {
+      "key_topic_ref": "OR-07.3",
+      "question_text": "A principal broker receives notice that OREA will audit the brokerage trust account next week. Can OREA do this without prior scheduling?",
+      "correct_answer": "Yes, OREA may audit at any time",
+      "distractors": ["No, 30-day notice is required", "Only after a complaint is filed", "Only during annual renewal periods"],
+      "explanation": "OREA has the authority to audit trust accounts at any time without advance notice or a pending complaint. Principal brokers must keep records current and accessible for potential unannounced audits.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["OREA", "audit", "trust account"]
+    },
+    {
+      "key_topic_ref": "OR-07.3",
+      "question_text": "A brokerage handles 40 active client escrows. Which records must be part of the three-way reconciliation process?",
+      "correct_answer": "Bank statement, trust ledger, all 40 client ledgers",
+      "distractors": ["Bank statement and trust ledger only", "Trust ledger and a random sample of clients", "Bank statement and quarterly summary"],
+      "explanation": "The three-way reconciliation requires matching the bank statement, the overall trust account ledger, and every individual client ledger. All 40 client ledgers must be included to verify the total matches.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["reconciliation", "client ledgers", "components"]
+    },
+    {
+      "key_topic_ref": "OR-07.3",
+      "question_text": "An OREA auditor discovers a brokerage has no documented reconciliation process. What requirement has the principal broker failed to meet?",
+      "correct_answer": "Proper trust account accounting",
+      "distractors": ["Annual license renewal filing", "Errors and omissions coverage", "Continuing education requirements"],
+      "explanation": "Oregon requires principal brokers to maintain proper accounting for trust accounts, including documented three-way reconciliation. Failure to maintain these records is a violation that can result in disciplinary action by OREA.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["accounting", "OREA audit", "compliance"]
+    }
+  ]
+}

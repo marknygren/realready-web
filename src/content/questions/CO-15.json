@@ -1,0 +1,283 @@
+{
+  "standard_ref": "CO-15",
+  "scope": "state",
+  "state": "CO",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "CO-15.1",
+      "question_text": "Colorado follows which water law doctrine?",
+      "correct_answer": "Prior appropriation",
+      "distractors": ["Riparian rights", "Reasonable use", "Correlative rights"],
+      "explanation": "Colorado follows the prior appropriation doctrine — 'first in time, first in right.' Water rights are separate from land ownership, unlike riparian rights states.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water-rights", "prior-appropriation", "doctrine"]
+    },
+    {
+      "key_topic_ref": "CO-15.1",
+      "question_text": "Under prior appropriation, a water right holder with an 1890 priority date compared to one with a 1950 date is:",
+      "correct_answer": "Senior and gets water first",
+      "distractors": ["Junior and waits for the 1950 user", "Equal in priority", "Required to share equally"],
+      "explanation": "Under prior appropriation, the earlier priority date makes a right senior. Senior rights holders get their full allocation before junior rights holders receive anything.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water-rights", "priority-date", "senior"]
+    },
+    {
+      "key_topic_ref": "CO-15.1",
+      "question_text": "Water rights in Colorado are adjudicated through the:",
+      "correct_answer": "Water Court system",
+      "distractors": ["Real Estate Commission", "County assessor's office", "Division of Real Estate"],
+      "explanation": "Colorado has 7 water divisions with Water Courts corresponding to major river basins. These courts adjudicate water rights disputes and claims.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water-rights", "water-court", "adjudication"]
+    },
+    {
+      "key_topic_ref": "CO-15.1",
+      "question_text": "A rancher sells their land but retains the water rights. Under Colorado law, this is:",
+      "correct_answer": "Permitted — water rights transfer separately",
+      "distractors": ["Not permitted — water goes with the land", "Permitted only for agricultural water", "Not permitted without court approval"],
+      "explanation": "In Colorado, water rights are separate from land ownership and can be bought, sold, and transferred independently of the land.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water-rights", "separate-from-land", "transfer"]
+    },
+    {
+      "key_topic_ref": "CO-15.1",
+      "question_text": "A developer wants to use stream water that would reduce flow to a senior rights holder. The developer must obtain:",
+      "correct_answer": "An augmentation plan",
+      "distractors": ["A building permit only", "Commission approval", "A federal water permit"],
+      "explanation": "Augmentation plans are required when new water use would deplete stream flow affecting senior rights. Junior users must replace water to protect senior rights holders.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water-rights", "augmentation-plan", "stream-flow"]
+    },
+    {
+      "key_topic_ref": "CO-15.2",
+      "question_text": "A seller whose property has a private well must disclose:",
+      "correct_answer": "The well's permit and legal status",
+      "distractors": ["Only the depth of the well", "Only the water quality test results", "Nothing — wells are not state-regulated"],
+      "explanation": "Sellers must disclose whether the well is a permitted well and its legal status. Change of ownership may also trigger reporting requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["well-disclosure", "permit-status", "seller-duty"]
+    },
+    {
+      "key_topic_ref": "CO-15.2",
+      "question_text": "An exempt well in Colorado typically serves:",
+      "correct_answer": "Fewer than 3 single-family dwellings",
+      "distractors": ["Any number of residential units", "Only agricultural operations", "Only commercial properties"],
+      "explanation": "Exempt wells (typically domestic) serve fewer than 3 single-family dwellings and have specific limitations on use compared to fully permitted wells.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["well-disclosure", "exempt-well", "limitations"]
+    },
+    {
+      "key_topic_ref": "CO-15.2",
+      "question_text": "The source of water disclosure is required for properties not served by:",
+      "correct_answer": "A municipal water system",
+      "distractors": ["A private water company", "Any water utility", "City or county government"],
+      "explanation": "The source of water disclosure is triggered when a property is not served by a municipal water system — covering wells, springs, cisterns, and water districts.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water-disclosure", "municipal", "trigger"]
+    },
+    {
+      "key_topic_ref": "CO-15.2",
+      "question_text": "When a property with a well changes ownership, this may trigger:",
+      "correct_answer": "Reporting requirements to the state",
+      "distractors": ["Automatic well closure", "A mandatory new well permit", "Transfer of water rights to the county"],
+      "explanation": "Change of ownership for a well may trigger reporting requirements to the state. The well itself does not close, and existing permits typically transfer with the property.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["well-disclosure", "change-of-ownership", "reporting"]
+    },
+    {
+      "key_topic_ref": "CO-15.2",
+      "question_text": "A property uses a spring as its sole water source. The seller must provide:",
+      "correct_answer": "A source of water disclosure",
+      "distractors": ["An EPA water quality certificate", "A well permit application", "A municipal connection plan"],
+      "explanation": "Any non-municipal water source — including springs, wells, cisterns, or water districts — requires the seller to provide a source of water disclosure.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["water-disclosure", "spring", "non-municipal"]
+    },
+    {
+      "key_topic_ref": "CO-15.3",
+      "question_text": "Who determines the value of real property for tax purposes in Colorado?",
+      "correct_answer": "The County Assessor",
+      "distractors": ["The Real Estate Commission", "The state legislature", "The property owner"],
+      "explanation": "The County Assessor determines property value. The mill levy (tax rate) is set by local taxing authorities, and the tax equals assessed value times mill levy.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "assessor", "valuation"]
+    },
+    {
+      "key_topic_ref": "CO-15.3",
+      "question_text": "The residential property tax assessment rate for local government in Colorado (2025) is:",
+      "correct_answer": "6.25% of actual value",
+      "distractors": ["6.765% of actual value", "10% of actual value", "29% of actual value"],
+      "explanation": "For tax year 2025, Colorado uses a split assessment: 6.25% for local government and 7.05% for school districts. These rates are subject to legislative adjustment.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "assessment-rate", "residential"]
+    },
+    {
+      "key_topic_ref": "CO-15.3",
+      "question_text": "Commercial property in Colorado is assessed at what percentage of actual value?",
+      "correct_answer": "27%",
+      "distractors": ["6.25%", "15%", "29%"],
+      "explanation": "Commercial property is assessed at 27% of actual value, significantly higher than the residential rate. This rate was reduced from the previous 29%.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "commercial", "assessment-rate"]
+    },
+    {
+      "key_topic_ref": "CO-15.3",
+      "question_text": "A qualifying senior (65+) who has lived in their Colorado home for 10+ years may receive:",
+      "correct_answer": "50% exemption on the first $200,000",
+      "distractors": ["A full property tax exemption", "A 25% reduction in the mill levy", "A freeze on assessed value increases"],
+      "explanation": "The Senior Homestead Exemption exempts 50% of the first $200,000 of actual value (up to $100,000 exemption) for qualifying seniors 65+ who have lived in the home 10+ years.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "senior-exemption", "homestead"]
+    },
+    {
+      "key_topic_ref": "CO-15.3",
+      "question_text": "Colorado property taxes are due in two installments. The second half is due by:",
+      "correct_answer": "June 15",
+      "distractors": ["April 15", "September 15", "December 31"],
+      "explanation": "First half is due by the last day of February. Second half is due June 15. Full payment can be made by April 30.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-tax", "payment", "deadlines"]
+    },
+    {
+      "key_topic_ref": "CO-15.4",
+      "question_text": "Managing rental property for others in Colorado requires:",
+      "correct_answer": "A real estate broker license",
+      "distractors": ["A property management certificate only", "No license for fewer than 10 units", "A separate PM license from DORA"],
+      "explanation": "A real estate license is required to manage property for others for compensation in Colorado. There is no separate property management license.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-management", "license", "requirement"]
+    },
+    {
+      "key_topic_ref": "CO-15.4",
+      "question_text": "As of 2026, the maximum security deposit a Colorado landlord can require is:",
+      "correct_answer": "One month's rent",
+      "distractors": ["Two months' rent", "Three months' rent", "No statutory maximum"],
+      "explanation": "HB25-1249 (effective January 1, 2026) caps security deposits at one month's rent, down from no statutory maximum previously.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "security-deposit", "cap"]
+    },
+    {
+      "key_topic_ref": "CO-15.4",
+      "question_text": "After a tenant moves out, the Colorado landlord must return the security deposit within:",
+      "correct_answer": "30 days with an itemized statement",
+      "distractors": ["14 days without documentation", "60 days if specified in the lease", "90 days regardless of circumstances"],
+      "explanation": "Under HB25-1249, the default return period is 30 days after lease termination with an itemized statement. The lease may extend this to up to 60 days.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "security-deposit", "return"]
+    },
+    {
+      "key_topic_ref": "CO-15.4",
+      "question_text": "Colorado's warranty of habitability for rental properties:",
+      "correct_answer": "Cannot be waived by the landlord or tenant",
+      "distractors": ["Can be waived in the lease agreement", "Applies only to buildings over 20 years old", "Is optional for commercial properties"],
+      "explanation": "The warranty of habitability was strengthened in 2008 and cannot be waived by either party. Landlords must maintain premises in habitable condition.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "habitability", "non-waivable"]
+    },
+    {
+      "key_topic_ref": "CO-15.4",
+      "question_text": "A Colorado landlord must provide how many days' notice to terminate a month-to-month tenancy?",
+      "correct_answer": "21 days",
+      "distractors": ["10 days", "30 days", "60 days"],
+      "explanation": "Colorado requires 21-day notice for month-to-month tenancy termination. Nonpayment of rent requires 10-day notice, and substantial lease violations require 10-day notice.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["landlord-tenant", "eviction", "notice"]
+    },
+    {
+      "key_topic_ref": "CO-15.5",
+      "question_text": "Colorado foreclosures are typically handled by the:",
+      "correct_answer": "Public trustee through non-judicial process",
+      "distractors": ["County court through judicial process", "Real Estate Commission", "Division of Real Estate"],
+      "explanation": "Colorado is a deed of trust state. Foreclosures are typically non-judicial, handled by the public trustee. Judicial foreclosure is available but rarely used.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "public-trustee", "non-judicial"]
+    },
+    {
+      "key_topic_ref": "CO-15.5",
+      "question_text": "The first step in a Colorado non-judicial foreclosure is filing a:",
+      "correct_answer": "Notice of Election and Demand",
+      "distractors": ["A lis pendens with the county", "Complaint with the district court", "Notice of default with the assessor"],
+      "explanation": "The lender files a Notice of Election and Demand (NED) with the Public Trustee, who then records it and notifies the borrower.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "NED", "process"]
+    },
+    {
+      "key_topic_ref": "CO-15.5",
+      "question_text": "In a Colorado foreclosure, the borrower can cure the default until:",
+      "correct_answer": "12 noon the day before the sale",
+      "distractors": ["5 calendar days before the sale", "The moment the sale officially begins", "30 days after the NED was filed"],
+      "explanation": "Colorado provides a cure period until 12 noon on the day before the foreclosure sale. The borrower can stop the process by paying all past-due amounts.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "cure-period", "deadline"]
+    },
+    {
+      "key_topic_ref": "CO-15.5",
+      "question_text": "Since 2008, a Colorado borrower's right to stop a foreclosure ends when?",
+      "correct_answer": "At the foreclosure sale — no post-sale redemption",
+      "distractors": ["75 days after the foreclosure sale", "6 months after the foreclosure sale", "One year after the foreclosure sale"],
+      "explanation": "Since 2008, Colorado borrowers no longer have post-sale redemption rights. Their only remedy is the pre-sale cure right (pay all arrears by noon the day before the sale). Junior lienholders retain limited post-sale redemption rights.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "redemption", "2008-change"]
+    },
+    {
+      "key_topic_ref": "CO-15.5",
+      "question_text": "After a Colorado foreclosure sale, if the proceeds are less than the debt, the lender may:",
+      "correct_answer": "Seek a deficiency judgment",
+      "distractors": ["Not pursue the borrower further", "Only recover from insurance", "File a new deed of trust"],
+      "explanation": "Colorado allows deficiency judgments. If the foreclosure sale proceeds are insufficient to cover the debt, the lender can pursue the borrower for the remaining balance.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "deficiency-judgment", "allowed"]
+    }
+  ]
+}

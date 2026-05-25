@@ -1,0 +1,173 @@
+{
+  "standard_ref": "HI-08",
+  "scope": "state",
+  "state": "HI",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "HI-08.1",
+      "question_text": "Hawaii's mandatory seller disclosure law, HRS Chapter 508D, applies to which type of residential property?",
+      "correct_answer": "Properties with 1 to 4 dwelling units",
+      "distractors": ["All commercial properties", "Properties with 5 or more units", "Only single-family detached homes"],
+      "explanation": "HRS Chapter 508D covers residential real property with 1 to 4 dwelling units, including residential condominiums and co-ops. Commercial properties and larger multifamily buildings are not covered.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["508D", "residential-property", "disclosure-scope"]
+    },
+    {
+      "key_topic_ref": "HI-08.1",
+      "question_text": "Under HRS 508D, a seller must disclose material facts. What standard determines whether a fact is 'material'?",
+      "correct_answer": "It would measurably affect value to a reasonable person",
+      "distractors": ["It involves any property defect over $500", "It was discovered within the last 5 years", "It relates only to structural components"],
+      "explanation": "A material fact is any fact that would measurably affect the value of the property to a reasonable person. This broad standard covers structural defects, environmental hazards, zoning issues, and more.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["material-fact", "508D", "disclosure-standard"]
+    },
+    {
+      "key_topic_ref": "HI-08.1",
+      "question_text": "Which disclosure form must a Hawaii seller complete to satisfy the requirements of HRS Chapter 508D?",
+      "correct_answer": "Seller's Real Property Disclosure Statement",
+      "distractors": ["Transfer Disclosure Statement", "Property Condition Report", "Real Estate Condition Affidavit"],
+      "explanation": "The SRPDS (Seller's Real Property Disclosure Statement) is the required form under HRS 508D. It covers structural defects, systems, pest damage, water intrusion, zoning, and environmental hazards.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["SRPDS", "disclosure-form", "508D"]
+    },
+    {
+      "key_topic_ref": "HI-08.1",
+      "question_text": "A seller is transferring a condo unit that was part of a developer's public report filing. Is the seller required to provide the SRPDS?",
+      "correct_answer": "No, this transfer is exempt from 508D",
+      "distractors": ["Yes, all condo sales require the SRPDS", "Only if the unit has been modified", "Only if the buyer requests it in writing"],
+      "explanation": "HRS 508D exempts several transfer types, including condos sold with a developer's public report, new construction with public offering statements, timeshares, leasehold-to-fee conversions, and family transfers.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["exemption", "developer-public-report", "condo"]
+    },
+    {
+      "key_topic_ref": "HI-08.1",
+      "question_text": "Under HRS 508D, which of the following is specifically excludable from mandatory seller disclosure?",
+      "correct_answer": "HIV status of a prior occupant",
+      "distractors": ["Known termite damage to the home", "Active water intrusion in the basement", "Presence of a cesspool on the property"],
+      "explanation": "The AIDS/HIV status of any current or prior occupant is specifically excludable from mandatory disclosure. Facts with no physical effect on the structure are also excludable. Defects and hazards must still be disclosed.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["excludable-facts", "HIV", "508D"]
+    },
+    {
+      "key_topic_ref": "HI-08.2",
+      "question_text": "After the seller delivers the SRPDS, how many calendar days does the buyer have to review it?",
+      "correct_answer": "15 calendar days",
+      "distractors": ["10 calendar days", "7 business days", "30 calendar days"],
+      "explanation": "The buyer has 15 calendar days after receiving the disclosure to review it. During this period, the buyer may rescind the contract. The parties may modify these time periods by written agreement.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["review-period", "15-days", "rescission"]
+    },
+    {
+      "key_topic_ref": "HI-08.2",
+      "question_text": "Seller Akiko delivers the SRPDS on day 8 after acceptance. The buyer discovers undisclosed flood damage on day 20. Can the buyer still rescind?",
+      "correct_answer": "Yes, the 15-day review period runs from delivery",
+      "distractors": ["No, rescission expired on day 10", "Only if the damage exceeds $5,000", "Only with HIREC approval"],
+      "explanation": "The 15-day review period starts when the buyer receives the disclosure, not from contract acceptance. Since Akiko delivered on day 8, the buyer's review period runs through day 23, so rescission on day 20 is within the window.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["rescission", "review-period", "timing"]
+    },
+    {
+      "key_topic_ref": "HI-08.2",
+      "question_text": "Within how many calendar days of contract acceptance must the seller deliver the disclosure statement to the buyer?",
+      "correct_answer": "10 calendar days",
+      "distractors": ["5 business days", "15 calendar days", "7 calendar days"],
+      "explanation": "The seller must deliver the SRPDS within 10 calendar days of acceptance of the contract. After delivery, the buyer then has 15 calendar days to review and potentially rescind.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["delivery-deadline", "10-days", "acceptance"]
+    },
+    {
+      "key_topic_ref": "HI-08.2",
+      "question_text": "A buyer discovers the seller intentionally concealed a major defect. Under HRS 508D, what is the maximum statute of limitations for a claim?",
+      "correct_answer": "4 years from the date of transfer",
+      "distractors": ["2 years from date of transfer", "6 years from discovery of the defect", "1 year from closing"],
+      "explanation": "Under HRS 508D, the statute of limitations is 2 years from discovery of the defect, but with an absolute maximum of 4 years from the date of transfer. No claim may be filed beyond 4 years after transfer regardless of discovery date.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute-of-limitations", "remedies", "508D"]
+    },
+    {
+      "key_topic_ref": "HI-08.2",
+      "question_text": "If a seller fails to provide required disclosures under HRS 508D, the purchase contract becomes:",
+      "correct_answer": "Voidable at the buyer's option",
+      "distractors": ["Automatically void", "Enforceable with a price reduction", "Subject to arbitration only"],
+      "explanation": "When a seller fails to meet disclosure obligations, the contract is voidable at the buyer's option. This means the buyer can choose to rescind the contract or proceed despite the disclosure failure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["voidable", "buyer-remedy", "non-disclosure"]
+    },
+    {
+      "key_topic_ref": "HI-08.3",
+      "question_text": "A coastal Oahu property sits within the 3.2-foot sea level rise exposure area. What disclosure obligation does this create?",
+      "correct_answer": "Seller must disclose the exposure area status",
+      "distractors": ["No disclosure unless flooding occurred", "Only disclose if buyer asks directly", "Disclosure only for commercial properties"],
+      "explanation": "Under Act 179 (effective May 2022), sellers must disclose if a property is within the sea level rise exposure area (up to 3.2 feet of rise). Hawaii was the first state to require this environmental disclosure.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["sea-level-rise", "Act-179", "environmental"]
+    },
+    {
+      "key_topic_ref": "HI-08.3",
+      "question_text": "A seller knows about volcanic smog (vog) regularly affecting air quality at the property. Must this be disclosed?",
+      "correct_answer": "Yes, as a material fact under HRS 508D",
+      "distractors": ["No, vog is not a disclosable condition", "Only if the buyer has respiratory issues", "Only for properties in Lava Zone 1"],
+      "explanation": "While vog is not separately addressed by statute, it constitutes a material fact under HRS 508D because it would measurably affect the property's value to a reasonable person. All material facts must be disclosed regardless of whether they have a specific statutory provision.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["lava-zone", "Big-Island", "USGS"]
+    },
+    {
+      "key_topic_ref": "HI-08.3",
+      "question_text": "A home has a cesspool. What must the seller disclose about it beyond its mere existence?",
+      "correct_answer": "Its priority level and conversion deadline",
+      "distractors": ["Only the most recent inspection date", "Only the cesspool's age and size", "Nothing beyond its existence"],
+      "explanation": "Under Act 125 (2017), sellers must disclose not only that a cesspool exists but also its priority level for conversion and the statutory deadline (January 1, 2050). Starting January 2027, a standardized wastewater disclosure form will also be required.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["cesspool", "Act-125", "conversion-deadline"]
+    },
+    {
+      "key_topic_ref": "HI-08.3",
+      "question_text": "Starting January 1, 2027, sellers in Hawaii must complete which new form related to wastewater?",
+      "correct_answer": "A wastewater system disclosure form",
+      "distractors": ["A septic tank inspection report", "A water quality certification", "A county sewer connection permit"],
+      "explanation": "HB 1749 requires a wastewater system disclosure form starting January 1, 2027. This is in addition to existing cesspool disclosure requirements under Act 125.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["wastewater-disclosure", "HB-1749", "2027"]
+    },
+    {
+      "key_topic_ref": "HI-08.3",
+      "question_text": "A property on Oahu sits within a FEMA Special Flood Hazard Area and a tsunami inundation zone. How many of these environmental factors must the seller disclose?",
+      "correct_answer": "Both must be disclosed",
+      "distractors": ["Only the flood zone", "Only the tsunami zone", "Neither, if insurance is available"],
+      "explanation": "Both the SFHA (flood zone) designation and tsunami inundation zone status are material facts that must be disclosed under HRS 508D. Environmental hazards affecting value must all be disclosed to the buyer.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["flood-zone", "tsunami", "multiple-hazards"]
+    }
+  ]
+}

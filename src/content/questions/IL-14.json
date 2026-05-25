@@ -1,0 +1,302 @@
+{
+  "standard_ref": "IL-14",
+  "scope": "state",
+  "state": "IL",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "IL-14.1",
+      "question_text": "A home in DuPage County has a fair market value of $300,000. What is the property's equalized assessed value (EAV)?",
+      "correct_answer": "$100,000",
+      "distractors": [
+        "$75,000 EAV",
+        "$150,000",
+        "$199,900"
+      ],
+      "explanation": "In most Illinois counties outside Cook County, property is assessed at 33.33% of fair market value. $300,000 x 0.3333 = $100,000 EAV. Cook County uses different assessment ratios for different property classes.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "assessment-ratio",
+        "EAV",
+        "calculation",
+        "non-cook-county"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.1",
+      "question_text": "A residential property in Cook County has a fair market value of $200,000. What is its assessed value under Cook County's classification system?",
+      "correct_answer": "$20,000",
+      "distractors": [
+        "$50,000",
+        "$66,660",
+        "$200,000"
+      ],
+      "explanation": "Cook County assesses residential property at 10% of fair market value, not the 33.33% used in other Illinois counties. $200,000 x 0.10 = $20,000. Commercial and industrial properties in Cook County are assessed at 25%.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "cook-county",
+        "assessment-ratio",
+        "residential",
+        "calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.1",
+      "question_text": "Who is responsible for providing initial property assessments at the local level in Illinois?",
+      "correct_answer": "Township assessors",
+      "distractors": [
+        "County board members",
+        "State revenue agents",
+        "Municipal building inspectors"
+      ],
+      "explanation": "In Illinois, township assessors provide the initial property assessments. The county assessor then reviews and determines final values. This two-tier local structure is a distinctive feature of the Illinois property tax system.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "township-assessor",
+        "assessment-process",
+        "local-government"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.1",
+      "question_text": "A commercial warehouse in Cook County has a fair market value of $800,000. How does its assessment ratio compare to a residence in the same county?",
+      "correct_answer": "25% for commercial versus 10% for residential",
+      "distractors": [
+        "Both property types are assessed at 33.33% uniformly",
+        "10% for commercial versus 25% for residential",
+        "Both property types are assessed at 25% of market value"
+      ],
+      "explanation": "Cook County uses a classification system with different rates by property type. Residential property is assessed at 10% of fair market value, while commercial and industrial property is assessed at 25%. Other Illinois counties assess all property uniformly at 33.33%.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "cook-county",
+        "commercial",
+        "classification",
+        "assessment-ratio"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.1",
+      "question_text": "A taxing district has a levy of $5,000,000 and the total EAV within the district is $250,000,000. What is the tax rate for this district?",
+      "correct_answer": "2%",
+      "distractors": [
+        "5%",
+        "0.5%",
+        "0.2%"
+      ],
+      "explanation": "The tax rate is calculated by dividing the levy by the total EAV of the district. $5,000,000 / $250,000,000 = 0.02, or 2%. Illinois effective property tax rates are among the highest in the nation, typically ranging from 2% to 3%.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "tax-rate",
+        "levy",
+        "EAV",
+        "calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.2",
+      "question_text": "A homeowner in Lake County (non-Cook) qualifies for the General Homestead Exemption. By how much is the EAV reduced?",
+      "correct_answer": "Up to $6,000",
+      "distractors": [
+        "Up to $10,000",
+        "Up to $8,000",
+        "Up to $5,000"
+      ],
+      "explanation": "The General Homestead Exemption reduces EAV by up to $6,000 in counties outside Cook County. In Cook County, the reduction is up to $10,000. This exemption is available to owner-occupied primary residences throughout Illinois.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "general-homestead",
+        "exemption",
+        "non-cook-county"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.2",
+      "question_text": "A 68-year-old homeowner in Cook County qualifies for both the General Homestead and Senior Citizens Homestead exemptions. What is the combined maximum EAV reduction?",
+      "correct_answer": "$18,000",
+      "distractors": [
+        "$16,000",
+        "$14,000",
+        "$10,000 total"
+      ],
+      "explanation": "In Cook County, the General Homestead Exemption provides up to $10,000 and the Senior Citizens Homestead Exemption provides an additional $8,000 for homeowners aged 65 and older. The combined maximum reduction is $10,000 + $8,000 = $18,000.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "senior-exemption",
+        "general-homestead",
+        "cook-county",
+        "calculation"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.2",
+      "question_text": "A qualifying low-income senior citizen applies for the Senior Assessment Freeze. What benefit does this exemption provide?",
+      "correct_answer": "It freezes the EAV at the base year level",
+      "distractors": [
+        "It eliminates all property taxes on the home",
+        "It reduces the applicable tax rate by half",
+        "It defers taxes until the property is eventually sold"
+      ],
+      "explanation": "The Senior Assessment Freeze exemption freezes the equalized assessed value at the level it was in the base year for qualifying low-income seniors aged 65 and older. The homeowner still pays taxes, but the EAV does not increase with rising property values.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "senior-freeze",
+        "assessment-freeze",
+        "low-income",
+        "exemption"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.2",
+      "question_text": "A veteran returning from active duty in Illinois applies for the Returning Veterans Homestead Exemption. What EAV reduction is available?",
+      "correct_answer": "$5,000 EAV reduction",
+      "distractors": [
+        "$2,000 EAV reduction",
+        "$8,000 EAV reduction",
+        "$10,000 EAV reduction"
+      ],
+      "explanation": "The Returning Veterans Homestead Exemption provides a $5,000 reduction in EAV for qualifying veterans returning from active duty. This is a one-time, two-year benefit separate from the Disabled Veterans Standard Homestead Exemption.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "veterans-exemption",
+        "returning-veterans",
+        "EAV-reduction"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.2",
+      "question_text": "A disabled homeowner in Will County applies for the Disabled Persons Homestead Exemption. How much will the EAV be reduced?",
+      "correct_answer": "$2,000",
+      "distractors": [
+        "$5,000",
+        "$6,000",
+        "$10,000"
+      ],
+      "explanation": "The Disabled Persons Homestead Exemption provides a $2,000 reduction in EAV for qualifying disabled homeowners. This is a smaller reduction than the General Homestead Exemption and can be claimed in addition to other exemptions for which the homeowner qualifies.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "disabled-persons",
+        "exemption",
+        "EAV-reduction"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.3",
+      "question_text": "A buyer closes on an Illinois property in March. Which year's property taxes will the seller be responsible for prorating at closing?",
+      "correct_answer": "Prior year's taxes, paid in arrears",
+      "distractors": [
+        "Current year's taxes paid in advance at closing",
+        "Only the specific month of the closing date",
+        "No proration is required under Illinois law"
+      ],
+      "explanation": "Illinois property taxes are paid in arrears, meaning current-year payments cover the prior year's assessment. At a March closing, the seller owes a proration for the prior year taxes not yet paid, plus a proration for January through March of the current year, often estimated from the prior year's bill.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": [
+        "arrears",
+        "proration",
+        "closing",
+        "tax-cycle"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.3",
+      "question_text": "An Illinois property owner disagrees with the assessed value. What is the first level of appeal for the property tax assessment?",
+      "correct_answer": "County Board of Review",
+      "distractors": [
+        "Illinois Property Tax Appeal Board",
+        "County circuit court",
+        "Township assessor's office"
+      ],
+      "explanation": "The first formal appeal of a property tax assessment in Illinois is filed with the county Board of Review. If the owner is dissatisfied with that decision, the next step is the Illinois Property Tax Appeal Board (PTAB) or the circuit court.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "appeals",
+        "board-of-review",
+        "assessment-dispute"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.3",
+      "question_text": "Illinois property taxes are typically due in two installments. When are these installments generally payable?",
+      "correct_answer": "June and September",
+      "distractors": [
+        "January and July each year",
+        "March and November",
+        "April and October"
+      ],
+      "explanation": "Illinois property taxes are generally paid in two installments, typically due in June and September. The first installment is usually an estimated amount based on 55% of the prior year's total tax bill, and the second installment reflects the actual assessed amount minus the first payment.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "installments",
+        "due-dates",
+        "tax-cycle"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.3",
+      "question_text": "A property owner loses an appeal before the county Board of Review. Which two options are available for the next level of appeal?",
+      "correct_answer": "PTAB or circuit court",
+      "distractors": [
+        "State legislature or governor's office",
+        "Township assessor or county clerk",
+        "Illinois Supreme Court or federal court"
+      ],
+      "explanation": "After an unsuccessful appeal at the county Board of Review, the property owner may appeal to the Illinois Property Tax Appeal Board (PTAB) or file a tax objection in circuit court. These are the two parallel paths for further review of assessment disputes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": [
+        "PTAB",
+        "circuit-court",
+        "appeals",
+        "assessment-dispute"
+      ]
+    },
+    {
+      "key_topic_ref": "IL-14.3",
+      "question_text": "A seller closes on a home in August. Because the current year's tax bill has not been finalized, how is the current year's proration typically handled?",
+      "correct_answer": "Estimated from the prior year's tax bill",
+      "distractors": [
+        "Skipped entirely until the final bill arrives",
+        "Calculated from the county's current proposed levy",
+        "Paid in full by the buyer alone at closing"
+      ],
+      "explanation": "Because Illinois taxes are paid in arrears and the current year's bill is not yet finalized at an August closing, the proration for the current year is typically estimated based on the prior year's tax bill. The parties may agree to a reproration clause if the actual bill differs significantly.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": [
+        "proration",
+        "estimated-taxes",
+        "arrears",
+        "closing"
+      ]
+    }
+  ]
+}

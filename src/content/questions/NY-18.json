@@ -1,0 +1,233 @@
+{
+  "standard_ref": "NY-18",
+  "scope": "state",
+  "state": "NY",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NY-18.1",
+      "question_text": "A co-op shareholder pays $2,400 per month in maintenance. The co-op's accountant reports that 40% is attributable to the building's property taxes and underlying mortgage interest. How much of the annual maintenance may be tax-deductible?",
+      "correct_answer": "$11,520",
+      "distractors": [
+        "$28,800",
+        "$17,280",
+        "$2,400"
+      ],
+      "explanation": "Co-op maintenance includes the building's property taxes, underlying mortgage interest, and operating expenses. Only the portions attributable to property taxes and mortgage interest are potentially deductible. Here: $2,400 x 12 = $28,800 annual maintenance x 40% = $11,520 deductible portion, subject to applicable tax limits.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["co-op", "maintenance", "tax-deductibility", "property-tax"]
+    },
+    {
+      "key_topic_ref": "NY-18.1",
+      "question_text": "A cooperative building earns 25% of its gross income from a ground-floor commercial tenant. Under IRC Section 216, what risk does this create for shareholders?",
+      "correct_answer": "Shareholders may lose their mortgage interest and property tax deductions",
+      "distractors": [
+        "The building must convert to condominium ownership",
+        "The commercial tenant must pay an additional surcharge",
+        "The co-op board must distribute commercial income to shareholders"
+      ],
+      "explanation": "IRC Section 216 requires that at least 80% of a cooperative corporation's gross income come from tenant-shareholders. If commercial rental income exceeds 20%, the co-op fails the 80/20 test and shareholders lose the ability to deduct their share of the building's property taxes and mortgage interest.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["co-op", "80-20-rule", "IRC-216", "tax-deductions"]
+    },
+    {
+      "key_topic_ref": "NY-18.1",
+      "question_text": "How does a condop structure help a cooperative corporation with significant commercial space pass the IRC Section 216 income test?",
+      "correct_answer": "Commercial space is separated into its own condominium unit",
+      "distractors": [
+        "The commercial income is reclassified as shareholder income",
+        "The co-op applies for a DFS waiver from the 80/20 rule",
+        "Commercial tenants are converted to tenant-shareholders"
+      ],
+      "explanation": "In a condop, the building is structured as a condominium with separate units: the residential portion operates as a cooperative and the commercial portion is a separate condo unit. By severing the commercial space, its income never enters the co-op's books, ensuring the 80/20 test is easily passed.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["condop", "80-20-rule", "IRC-216", "commercial-separation"]
+    },
+    {
+      "key_topic_ref": "NY-18.1",
+      "question_text": "Which portions of a co-op shareholder's monthly maintenance are potentially tax-deductible?",
+      "correct_answer": "The pro-rata share of building property taxes and mortgage interest",
+      "distractors": [
+        "The entire maintenance payment as a housing expense",
+        "Only the portion allocated to building insurance premiums",
+        "Only the portion covering common area utilities"
+      ],
+      "explanation": "Co-op shareholders may deduct their proportionate share of the building's real estate taxes and the interest on the building's underlying mortgage. The co-op's accountant calculates each shareholder's deductible amount based on their share allocation. Operating expenses like insurance, payroll, and repairs are not deductible.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["co-op", "tax-deductibility", "maintenance", "property-tax"]
+    },
+    {
+      "key_topic_ref": "NY-18.1",
+      "question_text": "A co-op building sits on land owned by a third party under a ground lease expiring in 15 years. What is the primary financial risk this creates for shareholders?",
+      "correct_answer": "The co-op must renegotiate or risk losing the building at lease end",
+      "distractors": [
+        "Shareholders cannot deduct mortgage interest",
+        "The building is exempt from rent stabilization",
+        "The co-op must pay double property taxes"
+      ],
+      "explanation": "Ground lease co-ops are common in New York. When the ground lease expires, the co-op must negotiate renewal, often at significantly higher rent. If renewal fails, the landowner could reclaim the building. A 2024 NY law now allows co-ops to renegotiate ground leases at any time rather than waiting until near expiration.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["ground-lease", "co-op", "lease-expiration", "shareholder-risk"]
+    },
+    {
+      "key_topic_ref": "NY-18.2",
+      "question_text": "How do NYC RPTT rates for commercial property sales over $500,000 compare to residential rates at the same price?",
+      "correct_answer": "Commercial is 2.625%, nearly double the residential 1.425%",
+      "distractors": [
+        "Commercial and residential rates are identical at 1.425%",
+        "Commercial is 1% lower than residential rates",
+        "Commercial is exempt from the NYC RPTT"
+      ],
+      "explanation": "NYC imposes different RPTT rates for residential and commercial property. For sales over $500,000, the commercial rate is 2.625% compared to the residential rate of 1.425%. This higher transfer tax is a significant cost consideration in commercial real estate transactions in New York City.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["NYC-RPTT", "commercial-rate", "transfer-tax", "residential-vs-commercial"]
+    },
+    {
+      "key_topic_ref": "NY-18.2",
+      "question_text": "A commercial lease in a New York City office building includes a Porter's Wage escalation clause. What does this clause tie rent increases to?",
+      "correct_answer": "Union building service worker wage rates",
+      "distractors": [
+        "The Consumer Price Index for the NYC metro area",
+        "The landlord's actual operating cost increases",
+        "The prime lending rate set by major banks"
+      ],
+      "explanation": "Porter's Wage escalation is a New York-specific clause that ties rent increases to changes in the wages of unionized building service workers (porters, doormen, maintenance staff). As union wages rise through collective bargaining, tenant rents increase proportionally.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Porters-Wage", "escalation-clause", "union-wages", "NYC-specific"]
+    },
+    {
+      "key_topic_ref": "NY-18.2",
+      "question_text": "A tax stop escalation clause in a NYC office lease sets the base year at 2024 with property taxes of $18 per square foot. In 2026, taxes rise to $22 per square foot. What additional amount does the tenant pay per square foot?",
+      "correct_answer": "$4 per square foot",
+      "distractors": [
+        "$22 per square foot",
+        "$18 per square foot",
+        "$40 per square foot"
+      ],
+      "explanation": "A tax stop (or base-year tax escalation) clause requires the tenant to pay property tax increases above the base year level. Here: $22 - $18 = $4 per square foot in additional escalation. Tax stop clauses are common in New York commercial leases alongside operating expense and Porter's Wage escalations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["tax-stop", "escalation", "property-tax", "office-lease"]
+    },
+    {
+      "key_topic_ref": "NY-18.2",
+      "question_text": "A landlord uses a base-year method for operating expense escalation in a Manhattan office lease. The base year is 2024 with expenses of $12 per square foot. In 2026, expenses rise to $15. What does the tenant pay per square foot in additional escalation?",
+      "correct_answer": "$3 per square foot",
+      "distractors": [
+        "$15 per square foot",
+        "$12 per square foot",
+        "$27 per square foot"
+      ],
+      "explanation": "Under the base-year method, the tenant pays the increase in operating expenses above the base year amount. Here: $15 - $12 = $3 per square foot. The base year establishes the landlord's cost benchmark, and tenants absorb increases beyond that level.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["base-year", "escalation", "operating-expense", "office-lease"]
+    },
+    {
+      "key_topic_ref": "NY-18.2",
+      "question_text": "Does the NYC mansion tax apply to commercial property purchases of $1 million or more?",
+      "correct_answer": "No, the mansion tax applies only to residential property",
+      "distractors": [
+        "Yes, at the same graduated rates as residential",
+        "Yes, but at a reduced flat rate of 0.5%",
+        "Only if the commercial property includes a residential unit"
+      ],
+      "explanation": "The NYC mansion tax applies exclusively to residential real property, defined as premises used or that may be used as a personal residence, including 1-3 family homes, condos, and co-op apartments. Commercial properties are not subject to the mansion tax regardless of sale price.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mansion-tax", "commercial-exemption", "residential-only", "NYC"]
+    },
+    {
+      "key_topic_ref": "NY-18.3",
+      "question_text": "An investor sells a NYC investment property for a $300,000 capital gain. The gain is excluded from federal tax under the primary residence exclusion. How does New York State treat capital gains?",
+      "correct_answer": "NY taxes capital gains as ordinary income with no separate rate",
+      "distractors": [
+        "NY exempts all capital gains from real estate sales",
+        "NY applies a flat 5% capital gains tax rate",
+        "NY matches the federal exclusion amount automatically"
+      ],
+      "explanation": "New York State does not have a separate capital gains tax rate. Capital gains are taxed as ordinary income under the NY personal income tax. The federal $250,000/$500,000 primary residence exclusion applies at the federal level, but gains on investment property are fully taxable at both federal and state levels.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["capital-gains", "NY-income-tax", "investment-property", "state-tax"]
+    },
+    {
+      "key_topic_ref": "NY-18.3",
+      "question_text": "An investor buying an NYC investment property must account for which NY-specific tax that significantly increases closing costs on financed purchases?",
+      "correct_answer": "Mortgage recording tax",
+      "distractors": [
+        "Unincorporated business tax",
+        "Commercial rent tax",
+        "State capital gains surcharge"
+      ],
+      "explanation": "The mortgage recording tax is unique to New York and represents a significant closing cost, especially in NYC where combined rates can exceed 2%. For investment property purchases, this tax is paid by the buyer on the full mortgage amount and must be factored into the investment analysis alongside transfer taxes.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["mortgage-recording-tax", "investment-property", "closing-costs", "NYC"]
+    },
+    {
+      "key_topic_ref": "NY-18.3",
+      "question_text": "An investor sells a NY rental property and completes a 1031 exchange, purchasing a replacement property in New Jersey. New York State treats the deferred gain in which way?",
+      "correct_answer": "NY recognizes the federal 1031 deferral",
+      "distractors": [
+        "NY taxes the gain immediately despite the federal deferral",
+        "NY requires the replacement property to be within the state",
+        "NY imposes a 5% surcharge on out-of-state exchanges"
+      ],
+      "explanation": "New York State conforms to the federal 1031 like-kind exchange provisions and allows the same deferral of capital gains. There is no requirement that the replacement property be located in New York. However, when the replacement property is eventually sold without another exchange, both federal and NY taxes become due.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["1031-exchange", "NY-conformity", "tax-deferral", "out-of-state"]
+    },
+    {
+      "key_topic_ref": "NY-18.3",
+      "question_text": "A seller of a $4,000,000 NYC commercial property must pay which combination of transfer taxes at closing?",
+      "correct_answer": "NYS transfer tax at 0.65% and NYC RPTT at 2.625%",
+      "distractors": [
+        "NYS transfer tax at 0.4% and NYC RPTT at 1.425%",
+        "NYS transfer tax at 0.65% and mansion tax at 1%",
+        "NYC RPTT at 1.425% and mortgage recording tax"
+      ],
+      "explanation": "For a $4M NYC commercial sale, the seller pays the NYS transfer tax at the higher 0.65% rate (triggered at $3M+) and the NYC RPTT commercial rate of 2.625% (for commercial sales over $500K). The mansion tax does not apply to commercial property, and mortgage recording tax is paid by the buyer.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["commercial-transfer-tax", "NYS-transfer-tax", "NYC-RPTT", "seller-costs"]
+    },
+    {
+      "key_topic_ref": "NY-18.3",
+      "question_text": "A co-op shareholder receives an annual statement from the co-op's accountant showing deductible amounts. What does this statement report?",
+      "correct_answer": "The shareholder's per-share portion of building taxes and mortgage interest",
+      "distractors": [
+        "The total maintenance paid by all shareholders combined",
+        "The shareholder's share of the building's depreciation",
+        "The co-op's total operating expenses for the fiscal year"
+      ],
+      "explanation": "Each year, the co-op's accountant calculates each shareholder's proportionate share of the building's deductible expenses — property taxes and underlying mortgage interest — based on their number of shares. This information, often provided on IRS Form 1098, allows shareholders to claim these deductions on their personal tax returns.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["co-op", "annual-statement", "tax-deduction", "Form-1098"]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "standard_ref": "NH-14",
+  "scope": "state",
+  "state": "NH",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NH-14.1",
+      "question_text": "Which NH statutes govern municipal planning and zoning authority?",
+      "correct_answer": "RSA 672 and RSA 674",
+      "distractors": ["RSA 482-A and RSA 483-B", "RSA 477 and RSA 478", "RSA 540 and RSA 540-A"],
+      "explanation": "RSA 672 and RSA 674 establish the framework for municipal planning, master plans, and zoning ordinances in New Hampshire. These statutes authorize local governments to regulate land use.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 672", "RSA 674", "planning", "zoning"]
+    },
+    {
+      "key_topic_ref": "NH-14.1",
+      "question_text": "A developer wants to divide a parcel into five lots. Under RSA 674:31-36, what must the developer obtain?",
+      "correct_answer": "Plat approval from the planning board",
+      "distractors": ["A special exception from the ZBA", "A wetlands permit from DES", "A building permit from the selectmen"],
+      "explanation": "RSA 674:31-36 governs subdivision in New Hampshire and requires plat approval from the local planning board before land can be subdivided into multiple lots.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 674", "subdivision", "plat approval"]
+    },
+    {
+      "key_topic_ref": "NH-14.1",
+      "question_text": "A property owner seeks relief from a zoning setback requirement. Which body grants variances?",
+      "correct_answer": "The Zoning Board of Adjustment",
+      "distractors": ["The Planning Board", "The Board of Selectmen", "The Department of Environmental Services"],
+      "explanation": "The Zoning Board of Adjustment (ZBA) is the local body authorized to grant variances and special exceptions from zoning ordinances under NH land use law.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["ZBA", "variance", "zoning"]
+    },
+    {
+      "key_topic_ref": "NH-14.1",
+      "question_text": "A homeowner wants to add a second story to their house. Under RSA 674:51, what permit is required?",
+      "correct_answer": "A building permit",
+      "distractors": ["A wetlands permit", "A subdivision approval", "A shoreland impact permit"],
+      "explanation": "RSA 674:51 establishes building permit requirements in New Hampshire. Construction, renovation, and structural additions require a building permit from the local building official.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 674:51", "building permit", "construction"]
+    },
+    {
+      "key_topic_ref": "NH-14.1",
+      "question_text": "A developer applies for both a subdivision plat and a variance for reduced lot sizes. Which bodies must each approve?",
+      "correct_answer": "Planning board for plat, ZBA for variance",
+      "distractors": ["ZBA for plat, planning board for variance", "Selectmen for both approvals", "DES for plat, planning board for variance"],
+      "explanation": "In NH, subdivision plat approval comes from the planning board (RSA 674:31-36), while variances from zoning requirements are granted by the Zoning Board of Adjustment. These are separate bodies with distinct authority.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["planning board", "ZBA", "subdivision", "variance"]
+    },
+    {
+      "key_topic_ref": "NH-14.2",
+      "question_text": "Under RSA 482-A, which state agency issues wetlands permits?",
+      "correct_answer": "NH Department of Environmental Services",
+      "distractors": ["NH Fish and Game Department", "Office of Strategic Initiatives", "NH Department of Transportation"],
+      "explanation": "RSA 482-A requires a wetlands permit from the NH Department of Environmental Services (DES) for any dredge, fill, or construction in or adjacent to wetlands.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 482-A", "wetlands", "DES"]
+    },
+    {
+      "key_topic_ref": "NH-14.2",
+      "question_text": "Under RSA 483-B, how far does the protected shoreland zone extend from public waters?",
+      "correct_answer": "250 feet from the reference line",
+      "distractors": ["150 feet from the reference line", "100 feet from the reference line", "500 feet from the reference line"],
+      "explanation": "The Shoreland Water Quality Protection Act (RSA 483-B) establishes a protected zone of 250 feet from public waters, 4th-order streams, designated rivers, and tidal waters.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["RSA 483-B", "shoreland", "protected zone"]
+    },
+    {
+      "key_topic_ref": "NH-14.2",
+      "question_text": "A buyer wants to build a shed 40 feet from a lake's natural high water mark. Is this allowed under RSA 483-B?",
+      "correct_answer": "No, new structures are prohibited within 50 feet",
+      "distractors": ["Yes, if a building permit is obtained", "Yes, sheds are exempt from the setback", "No, structures are prohibited within 100 feet"],
+      "explanation": "Under RSA 483-B, no new structures may be built within 50 feet of the reference line (natural high water mark). At 40 feet, the proposed shed falls within this prohibited zone.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 483-B", "50-foot setback", "reference line"]
+    },
+    {
+      "key_topic_ref": "NH-14.2",
+      "question_text": "A property owner on porous sand and gravel soil near a lake plans a new septic system. What is the minimum setback from the reference line?",
+      "correct_answer": "125 feet",
+      "distractors": ["75 feet", "100 feet", "250 feet"],
+      "explanation": "Septic setbacks under the Shoreland Act vary by soil type. Porous sand and gravel require 125 feet, restrictive layers require 100 feet, and other soils require 75 feet from the reference line. The 75-foot setback also applies from rivers.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["RSA 483-B", "septic setback", "porous soil"]
+    },
+    {
+      "key_topic_ref": "NH-14.2",
+      "question_text": "A landowner clears vegetation 120 feet from a designated river to improve the view. Which RSA 483-B restriction was violated?",
+      "correct_answer": "Vegetation clearing is restricted within 150 feet",
+      "distractors": ["Clearing is only restricted within 50 feet", "Clearing is restricted within 250 feet", "No clearing restrictions apply to rivers"],
+      "explanation": "Under RSA 483-B, vegetation clearing is restricted within 150 feet of the reference line for public waters. At 120 feet, the clearing violates this restriction. Impervious surfaces are limited within the full 250-foot zone.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["RSA 483-B", "vegetation clearing", "150-foot zone"]
+    }
+  ]
+}

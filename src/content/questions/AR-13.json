@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AR-13",
+  "scope": "state",
+  "state": "AR",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AR-13.1",
+      "question_text": "What type of license is required for property management in Arkansas?",
+      "correct_answer": "A broker's license",
+      "distractors": ["A salesperson's license", "A special property management license", "No license is required"],
+      "explanation": "A broker's license is required for anyone who, for compensation, engages in leasing, renting, collecting rent, listing property for rent, or negotiating lease transactions.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "licensing", "broker"]
+    },
+    {
+      "key_topic_ref": "AR-13.1",
+      "question_text": "Which of the following property management activities requires a broker's license?",
+      "correct_answer": "Collecting rent for compensation",
+      "distractors": ["Mowing the lawn for a property owner", "Scheduling maintenance for your own rental", "Painting a unit between tenants"],
+      "explanation": "Leasing, renting, collecting rent, listing property for rent, and negotiating leases for compensation all require a broker's license. Physical maintenance does not.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "activities", "licensing"]
+    },
+    {
+      "key_topic_ref": "AR-13.1",
+      "question_text": "A property management company negotiates lease terms between landlords and tenants. The company must hold:",
+      "correct_answer": "A broker's license through AREC",
+      "distractors": ["Only a general business license", "A federal property management certification", "A salesperson's license is sufficient"],
+      "explanation": "Negotiating lease transactions for compensation requires a broker's license. The same licensing requirements apply to property management as to sales brokerage.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "negotiation", "licensing"]
+    },
+    {
+      "key_topic_ref": "AR-13.1",
+      "question_text": "A salesperson wants to manage rental properties as a side business. Can they do this under their salesperson license?",
+      "correct_answer": "No, property management requires a broker's license",
+      "distractors": ["Yes, with their principal broker's written permission", "Yes, for fewer than 10 rental units", "Yes, if they complete 30 additional CE hours"],
+      "explanation": "Property management activities (collecting rent, leasing, negotiating) for compensation require a broker's license. A salesperson's license is not sufficient.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "salesperson", "limitations"]
+    },
+    {
+      "key_topic_ref": "AR-13.1",
+      "question_text": "The property management licensing requirement in Arkansas is the same as:",
+      "correct_answer": "Regular broker requirements (60 hrs, experience, exam)",
+      "distractors": ["A separate PM certification with fewer requirements", "Only completing a 30-hour PM course", "Passing a property management specialty exam"],
+      "explanation": "Arkansas does not have a separate property management license. Property managers must meet the same requirements as any broker: 60 hours education, 24 months experience, and the broker exam.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "licensing", "requirements"]
+    },
+    {
+      "key_topic_ref": "AR-13.2",
+      "question_text": "Which of the following persons is exempt from needing a PM license?",
+      "correct_answer": "An on-site manager who lives at the property",
+      "distractors": ["A friend collecting rent as a favor for pay", "A real estate salesperson managing rentals", "An investor managing others' rental properties"],
+      "explanation": "On-site residential managers who reside at the property and manage as part of their employment are exempt. Property owners managing their own properties are also exempt.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "exemptions", "on-site"]
+    },
+    {
+      "key_topic_ref": "AR-13.2",
+      "question_text": "A landlord manages their own 10-unit apartment building. Do they need a license?",
+      "correct_answer": "No, owners managing their own property are exempt",
+      "distractors": ["Yes, for any building over 4 units", "Yes, if they collect rent from tenants", "Only if they also list units for rent"],
+      "explanation": "Property owners managing their own properties are exempt from licensing requirements regardless of the number of units.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "exemptions", "owner"]
+    },
+    {
+      "key_topic_ref": "AR-13.2",
+      "question_text": "An on-site manager lives in Unit 1 and manages the other 11 units. They move to a different building but continue managing. Are they still exempt?",
+      "correct_answer": "No, the exemption requires residing at the property",
+      "distractors": ["Yes, once granted the exemption is permanent", "Yes, for up to 12 months after moving", "Yes, if they visit the property daily"],
+      "explanation": "The on-site manager exemption requires the manager to reside at the property. Once they no longer live on-site, the exemption no longer applies and a license is needed.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "exemptions", "residency"]
+    },
+    {
+      "key_topic_ref": "AR-13.2",
+      "question_text": "A retired real estate agent manages a friend's rental properties for a flat monthly fee. Does this require a license?",
+      "correct_answer": "Yes, managing for compensation requires a license",
+      "distractors": ["No, since they are managing for a friend", "No, for retired agents with 10+ years experience", "Only if they are listed as the property's agent"],
+      "explanation": "Managing rental properties for compensation (including a flat fee) requires a broker's license. Personal relationships do not create an exemption.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property management", "compensation", "licensing"]
+    },
+    {
+      "key_topic_ref": "AR-13.2",
+      "question_text": "Which statement about Arkansas PM exemptions is correct?",
+      "correct_answer": "Both owners and on-site resident managers are exempt",
+      "distractors": ["Only property owners are exempt", "Only licensed attorneys are exempt", "There are no exemptions for property management"],
+      "explanation": "Arkansas exempts two groups from PM licensing: property owners managing their own properties and on-site residential managers who reside at the property as part of their employment.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "exemptions", "summary"]
+    },
+    {
+      "key_topic_ref": "AR-13.3",
+      "question_text": "A property manager must maintain client rental income in:",
+      "correct_answer": "A separate trust account",
+      "distractors": ["Their personal checking account", "The property owner's bank account directly", "A general operating account"],
+      "explanation": "Property managers must maintain separate trust accounts for client funds, just like sales brokers. Commingling with personal or operating funds is prohibited.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "trust account", "funds"]
+    },
+    {
+      "key_topic_ref": "AR-13.3",
+      "question_text": "A property management agreement in Arkansas must include:",
+      "correct_answer": "A written agreement with an expiration date",
+      "distractors": ["A verbal handshake agreement is sufficient", "No written agreement is required", "Only a signed letter of intent"],
+      "explanation": "Property management agreements must be in writing and include an expiration date, consistent with the general requirement for all agency agreements in Arkansas.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "agreement", "written"]
+    },
+    {
+      "key_topic_ref": "AR-13.3",
+      "question_text": "A property manager's relationship to the property owner is BEST described as:",
+      "correct_answer": "A fiduciary relationship",
+      "distractors": ["An independent contractor relationship only", "A casual business arrangement", "A landlord-tenant relationship"],
+      "explanation": "Property managers must act as fiduciaries for property owners, meaning they must put the owner's interests first and handle funds with the highest standard of care.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "fiduciary", "relationship"]
+    },
+    {
+      "key_topic_ref": "AR-13.3",
+      "question_text": "A property manager must provide property owners with:",
+      "correct_answer": "Regular financial reports",
+      "distractors": ["Daily phone call updates", "Tenant credit reports upon request only", "Reports only at the end of the lease term"],
+      "explanation": "Property managers must provide regular financial reports to property owners as part of their fiduciary duties and the terms of the management agreement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "reporting", "fiduciary"]
+    },
+    {
+      "key_topic_ref": "AR-13.3",
+      "question_text": "Property managers in Arkansas must comply with which additional firm requirements?",
+      "correct_answer": "All advertising and supervision requirements",
+      "distractors": ["Only trust account requirements", "No requirements beyond their PM agreement", "Only the annual CE requirement"],
+      "explanation": "Property managers must comply with all licensing requirements including advertising rules, supervision requirements, trust account regulations, and CE — the same as sales brokers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property management", "compliance", "requirements"]
+    }
+  ]
+}

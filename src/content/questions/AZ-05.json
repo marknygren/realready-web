@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AZ-05",
+  "scope": "state",
+  "state": "AZ",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "AZ-05.1",
+      "question_text": "The 1967 Arizona Consumer Fraud Protection Act is primarily enforced by which official?",
+      "correct_answer": "The Attorney General",
+      "distractors": ["The Real Estate Commissioner", "The county district attorney", "The Department of Insurance"],
+      "explanation": "The Arizona Attorney General enforces the Consumer Fraud Protection Act. While ADRE handles licensee-specific discipline, the Consumer Fraud Act is a broader consumer protection law covering all goods and services.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Consumer Fraud Act", "Attorney General", "enforcement"]
+    },
+    {
+      "key_topic_ref": "AZ-05.1",
+      "question_text": "Under Arizona's statute of frauds, which agreement must be in writing to be enforceable?",
+      "correct_answer": "A lease exceeding one year",
+      "distractors": ["A month-to-month rental agreement", "A verbal offer to purchase land", "An oral property management contract"],
+      "explanation": "Arizona's statute of frauds requires that real estate contracts be in writing and signed, including purchase contracts, listing agreements, leases exceeding 1 year, and easements. Month-to-month leases are under 1 year and not covered.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute of frauds", "writing requirement", "leases"]
+    },
+    {
+      "key_topic_ref": "AZ-05.1",
+      "question_text": "A homebuyer verbally agrees to purchase a property for $350,000. Is this contract enforceable in Arizona?",
+      "correct_answer": "No, real estate contracts must be in writing",
+      "distractors": ["Yes, verbal contracts are valid if witnessed", "Yes, if both parties agree on the price", "Only if the amount is under $500,000"],
+      "explanation": "Under the Arizona statute of frauds, real estate contracts must be in writing and signed by the party to be charged. Oral real estate contracts are generally unenforceable regardless of the amount.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute of frauds", "oral contracts", "enforceability"]
+    },
+    {
+      "key_topic_ref": "AZ-05.1",
+      "question_text": "The Arizona Consumer Fraud Act applies to which types of real estate transactions?",
+      "correct_answer": "All transactions, not just those with licensees",
+      "distractors": ["Only transactions involving licensed agents", "Only new construction sales by builders", "Only residential sales over $100,000"],
+      "explanation": "The Consumer Fraud Protection Act applies broadly to all sales of goods and services, including all real estate transactions — whether or not a licensee is involved. It prohibits deception, fraud, and unfair practices.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Consumer Fraud Act", "scope", "applicability"]
+    },
+    {
+      "key_topic_ref": "AZ-05.1",
+      "question_text": "Under the Arizona Consumer Fraud Act, a consumer who proves fraud can recover which types of damages?",
+      "correct_answer": "Actual, punitive damages, and attorney fees",
+      "distractors": ["Only actual damages proven at trial", "Actual damages plus court costs only", "A fixed statutory penalty amount of $10,000"],
+      "explanation": "The Consumer Fraud Act allows consumers to seek actual damages, punitive damages, and attorney fees. This makes it a powerful consumer protection tool with significant financial consequences for violators.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Consumer Fraud Act", "damages", "remedies"]
+    },
+    {
+      "key_topic_ref": "AZ-05.2",
+      "question_text": "Arizona state fair housing law protects which classes beyond federal law?",
+      "correct_answer": "No additional classes at the state level",
+      "distractors": ["Sexual orientation and gender identity", "Source of income and veteran status", "Marital status and age as added classes"],
+      "explanation": "Arizona state law adds no protected classes beyond the 7 federal classes. However, 11 Arizona cities (including Phoenix, Tucson, Scottsdale) have local ordinances adding sexual orientation and gender identity.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "protected classes", "federal law"]
+    },
+    {
+      "key_topic_ref": "AZ-05.2",
+      "question_text": "Several Arizona cities have local ordinances adding which protected classes beyond federal law?",
+      "correct_answer": "Sexual orientation and gender identity",
+      "distractors": ["Source of income and veteran status", "Marital status and age as added classes", "Criminal history and immigration status"],
+      "explanation": "While Arizona state law adds no protected classes beyond federal law, 11 Arizona cities (including Phoenix, Tucson, and Scottsdale) have local non-discrimination ordinances adding sexual orientation and gender identity as protected classes.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "local ordinances", "SOGI", "protected classes"]
+    },
+    {
+      "key_topic_ref": "AZ-05.2",
+      "question_text": "Which agencies enforce fair housing laws in Arizona?",
+      "correct_answer": "The Arizona Attorney General and HUD",
+      "distractors": ["ADRE and the local MLS organization", "The county recorder and county assessor", "The Arizona Bar Association exclusively"],
+      "explanation": "Fair housing in Arizona is enforced by the Arizona Attorney General's Office and the U.S. Department of Housing and Urban Development (HUD). ADRE may also discipline licensees for fair housing violations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["fair housing", "enforcement", "HUD", "Attorney General"]
+    },
+    {
+      "key_topic_ref": "AZ-05.2",
+      "question_text": "A Phoenix landlord refuses to rent to a tenant based on sexual orientation. Under current law, this is:",
+      "correct_answer": "A violation of Phoenix's local ordinance",
+      "distractors": ["Legal since Arizona adds no state protections", "A federal Fair Housing Act violation", "Only actionable if the property has 4+ units"],
+      "explanation": "Phoenix is one of 11 Arizona cities with local non-discrimination ordinances that add sexual orientation as a protected class. While Arizona state law does not add protections beyond federal classes, local ordinances in Phoenix do cover this.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["fair housing", "Phoenix", "local ordinance", "sexual orientation"]
+    },
+    {
+      "key_topic_ref": "AZ-05.2",
+      "question_text": "Can an Arizona city pass a local ordinance adding protected classes beyond those in state fair housing law?",
+      "correct_answer": "Yes, and 11 Arizona cities have done so",
+      "distractors": ["No, state law preempts local fair housing rules", "Only with approval from the Attorney General", "Only for commercial properties, not residential"],
+      "explanation": "Unlike rent control (where state law preempts local action), Arizona cities can pass local fair housing ordinances. Eleven cities including Phoenix, Tucson, and Scottsdale have added sexual orientation and gender identity protections.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["fair housing", "local ordinances", "preemption", "cities"]
+    },
+    {
+      "key_topic_ref": "AZ-05.3",
+      "question_text": "What is the current Arizona homestead exemption amount?",
+      "correct_answer": "$425,200 as of 2025, adjusted annually",
+      "distractors": ["$250,000 fixed amount since 2020", "$150,000 with no annual adjustment", "$500,000 as of the 2023 increase"],
+      "explanation": "Arizona's homestead exemption was raised to $400,000 in 2022 and is now CPI-indexed annually starting January 2024. As of January 2025, the indexed amount is $425,200.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead", "exemption", "amount"]
+    },
+    {
+      "key_topic_ref": "AZ-05.3",
+      "question_text": "A creditor wins a $50,000 judgment against a homeowner. The home has $300,000 in equity. Can the creditor force a sale?",
+      "correct_answer": "No, the equity is within the homestead exemption",
+      "distractors": ["Yes, any court judgment can force a home sale", "Only if the judgment amount exceeds $100,000", "Yes, but only the equity above $250,000"],
+      "explanation": "The $425,200 homestead exemption protects the homeowner's equity from forced sale by general creditors. Since $300,000 is well under the exemption, the creditor cannot force a sale.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homestead", "creditor protection", "equity"]
+    },
+    {
+      "key_topic_ref": "AZ-05.3",
+      "question_text": "The Arizona homestead exemption does NOT protect against which type of claim?",
+      "correct_answer": "Mortgage foreclosure on the property",
+      "distractors": ["Credit card debt judgment actions", "Medical bill collection judgments", "Personal loan default proceedings"],
+      "explanation": "The homestead exemption does not protect against mortgage foreclosure, property tax liens, or mechanic's liens. It only protects against general unsecured creditors like credit card companies or medical debt collectors.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["homestead", "exceptions", "foreclosure"]
+    },
+    {
+      "key_topic_ref": "AZ-05.3",
+      "question_text": "Must an Arizona homeowner file any paperwork to claim the homestead exemption?",
+      "correct_answer": "No, it applies automatically to the primary residence",
+      "distractors": ["Yes, a homestead declaration must be filed formally", "Yes, an annual renewal filing is required", "Only when the home equity exceeds $100,000"],
+      "explanation": "Arizona's homestead exemption applies automatically to the owner's primary residence — no filing, recording, or declaration is required. This differs from some states that require a homestead declaration.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["homestead", "automatic", "filing"]
+    },
+    {
+      "key_topic_ref": "AZ-05.3",
+      "question_text": "A married couple owns two homes in Arizona. Can they claim a homestead exemption on both?",
+      "correct_answer": "No, only one homestead exemption per family",
+      "distractors": ["Yes, each spouse gets a separate exemption", "Yes, up to a combined amount of $800,000", "Only if both homes are in different counties"],
+      "explanation": "Arizona limits the homestead exemption to one per family. The exemption applies only to the owner's primary residence, so a second home or investment property is not protected.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["homestead", "one per family", "limitation"]
+    }
+  ]
+}

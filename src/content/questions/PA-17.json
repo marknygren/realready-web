@@ -1,0 +1,173 @@
+{
+  "standard_ref": "PA-17",
+  "scope": "state",
+  "state": "PA",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "PA-17.1",
+      "question_text": "The Pennsylvania state realty transfer tax rate is:",
+      "correct_answer": "1% of the sale price",
+      "distractors": ["2% of the sale price", "0.5% of the sale price", "1.5% of the sale price"],
+      "explanation": "The state transfer tax is 1%. Local municipalities and school districts typically add another 1%, bringing the standard total to 2%. Philadelphia has a higher local rate.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "state rate", "1%"]
+    },
+    {
+      "key_topic_ref": "PA-17.1",
+      "question_text": "In most Pennsylvania counties, the total realty transfer tax (state + local) is:",
+      "correct_answer": "2% (1% state + 1% local)",
+      "distractors": ["1% (state only)", "3% (1% state + 2% local)", "4% (2% state + 2% local)"],
+      "explanation": "The standard total is 2%: 1% state plus typically 1% local (split between municipality and school district). By custom, this is split equally between buyer and seller, though it's negotiable.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "total rate", "2%"]
+    },
+    {
+      "key_topic_ref": "PA-17.1",
+      "question_text": "A property in rural PA sells for $300,000. Assuming a 2% total transfer tax, the tax amount is:",
+      "correct_answer": "$6,000",
+      "distractors": ["$3,000", "$9,000", "$12,000"],
+      "explanation": "$300,000 × 2% = $6,000. By custom, this is typically split equally between buyer and seller ($3,000 each), though the split is negotiable.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["transfer tax", "calculation", "2%"]
+    },
+    {
+      "key_topic_ref": "PA-17.1",
+      "question_text": "Which transfer is exempt from Pennsylvania realty transfer tax?",
+      "correct_answer": "Transfer between parent and child",
+      "distractors": ["Transfer between business partners", "Sale to an unrelated first-time buyer", "Transfer to a real estate investor"],
+      "explanation": "Transfers between parent and child are exempt from PA transfer tax, along with spousal transfers, transfers by death, and transfers to government or religious entities.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "exemptions", "family"]
+    },
+    {
+      "key_topic_ref": "PA-17.1",
+      "question_text": "The combined realty transfer tax rate for property sold in Philadelphia is:",
+      "correct_answer": "4.578%",
+      "distractors": ["2.0%", "3.0%", "5.0%"],
+      "explanation": "Philadelphia has a combined rate of 4.578% (3.578% city + 1% state), significantly higher than the typical 2% in other PA counties. This rate took effect July 1, 2025.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["transfer tax", "Philadelphia", "4.578%"]
+    },
+    {
+      "key_topic_ref": "PA-17.2",
+      "question_text": "Pennsylvania is a ________ foreclosure state.",
+      "correct_answer": "Judicial",
+      "distractors": ["Non-judicial", "Hybrid", "Administrative"],
+      "explanation": "ALL foreclosures in Pennsylvania must proceed through the court system. There is no non-judicial (power of sale) foreclosure option in the state.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "judicial", "court"]
+    },
+    {
+      "key_topic_ref": "PA-17.2",
+      "question_text": "An Act 91 notice applies to which type of mortgage on a primary residence?",
+      "correct_answer": "Conventional mortgages",
+      "distractors": ["FHA loans only", "VA loans only", "All types of mortgages"],
+      "explanation": "Act 91 specifically covers conventional mortgages on primary residences. FHA and USDA loans are covered under Act 6, which has different notice requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "Act 91", "conventional"]
+    },
+    {
+      "key_topic_ref": "PA-17.2",
+      "question_text": "Under Act 91, a borrower who is 3+ months delinquent must be given how many days to schedule a housing counselor meeting?",
+      "correct_answer": "33 days",
+      "distractors": ["10 days", "60 days", "30 days"],
+      "explanation": "Act 91 requires lenders to give borrowers 33 days to schedule a meeting with a housing counselor. The lender cannot file foreclosure for 30 days after the counseling meeting takes place.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "Act 91", "33 days"]
+    },
+    {
+      "key_topic_ref": "PA-17.2",
+      "question_text": "Act 6 notice requirements apply to which types of loans?",
+      "correct_answer": "FHA and USDA loans",
+      "distractors": ["Conventional loans only", "VA loans only", "All government-insured loans including VA"],
+      "explanation": "Act 6 requires a 30-day Notice of Intent to Foreclose before filing suit, specifically for FHA and USDA loans. Conventional mortgages on primary residences fall under Act 91 instead.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "Act 6", "FHA", "USDA"]
+    },
+    {
+      "key_topic_ref": "PA-17.2",
+      "question_text": "A Pennsylvania foreclosure suit is filed in which court?",
+      "correct_answer": "Court of Common Pleas",
+      "distractors": ["Commonwealth Court", "Federal District Court", "Municipal Court"],
+      "explanation": "Foreclosure actions in Pennsylvania are filed in the Court of Common Pleas in the county where the property is located. This is part of the judicial foreclosure process.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "Court of Common Pleas", "judicial"]
+    },
+    {
+      "key_topic_ref": "PA-17.3",
+      "question_text": "In Pennsylvania, does a borrower have a right of redemption after the sheriff's sale?",
+      "correct_answer": "No, there is no post-sale redemption",
+      "distractors": ["Yes, for 6 months after the sale", "Yes, for 1 year after the sale", "Yes, if they can pay the full debt"],
+      "explanation": "Pennsylvania has NO post-sale right of redemption. The borrower may redeem by paying the full debt before the sheriff's sale, or reinstate by paying arrears up to 1 hour before bidding begins.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "redemption", "no post-sale"]
+    },
+    {
+      "key_topic_ref": "PA-17.3",
+      "question_text": "A borrower wants to reinstate their mortgage by paying arrears and fees. They may do so up to:",
+      "correct_answer": "1 hour before bidding begins",
+      "distractors": ["The day before the sheriff's sale", "3 days before the sale date", "The moment bidding starts"],
+      "explanation": "Pennsylvania allows borrowers to reinstate (pay arrears plus fees) up to 1 hour before bidding begins at the sheriff's sale. This right may be exercised up to 3 times per calendar year.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "reinstatement", "1 hour"]
+    },
+    {
+      "key_topic_ref": "PA-17.3",
+      "question_text": "How many times per calendar year can a PA borrower exercise the right to reinstate their mortgage?",
+      "correct_answer": "3 times",
+      "distractors": ["1 time", "2 times", "Unlimited"],
+      "explanation": "The reinstatement right may be exercised a maximum of 3 times per calendar year. This prevents borrowers from repeatedly entering and curing default without addressing the underlying financial issues.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["foreclosure", "reinstatement", "3 times"]
+    },
+    {
+      "key_topic_ref": "PA-17.3",
+      "question_text": "A lender obtains a sheriff's sale price below the debt owed. The lender may seek a deficiency judgment within:",
+      "correct_answer": "6 months of the sheriff's sale",
+      "distractors": ["1 year of the sheriff's sale", "30 days of the sheriff's sale", "3 months of the sheriff's sale"],
+      "explanation": "In Pennsylvania, deficiency judgments are permitted but must be filed within 6 months of the sheriff's sale. If the lender was the purchaser, the deficiency is limited by fair market value.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deficiency judgment", "6 months", "sheriff's sale"]
+    },
+    {
+      "key_topic_ref": "PA-17.3",
+      "question_text": "A borrower facing foreclosure applies to HEMAP. Filing the application has what effect on the foreclosure?",
+      "correct_answer": "Stays (freezes) the foreclosure action",
+      "distractors": ["No effect on the foreclosure timeline", "Delays the sale by exactly 30 days", "Automatically dismisses the case"],
+      "explanation": "HEMAP (Homeowner Emergency Mortgage Assistance Program) provides emergency loans to homeowners facing foreclosure. Filing a HEMAP application automatically stays (freezes) the foreclosure action while the application is pending.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HEMAP", "foreclosure", "stay"]
+    }
+  ]
+}

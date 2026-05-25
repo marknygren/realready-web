@@ -1,0 +1,158 @@
+{
+  "standard_ref": "TX-13",
+  "scope": "state",
+  "state": "TX",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "TX-13.1",
+      "question_text": "A buyer pays a $200 option fee and $5,000 earnest money. The buyer terminates during the option period. What happens to each payment?",
+      "correct_answer": "Seller keeps option fee; earnest money refunded",
+      "distractors": [
+        "Both payments are refunded to the buyer",
+        "Both payments are retained by the seller",
+        "Option fee refunded; earnest money is kept"
+      ],
+      "explanation": "The option fee is non-refundable and belongs to the seller regardless of the outcome. However, if the buyer terminates during the option period, the earnest money is refunded to the buyer. These two payments serve different contractual purposes.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["option_fee", "earnest_money", "termination"]
+    },
+    {
+      "key_topic_ref": "TX-13.1",
+      "question_text": "To whom is the option fee paid under the TREC contract?",
+      "correct_answer": "Directly to the seller",
+      "distractors": [
+        "To the title company escrow account",
+        "To the listing broker's trust account",
+        "To the buyer's agent for delivery"
+      ],
+      "explanation": "Under the TREC contract, the option fee is paid directly to the seller, not held in escrow. This distinguishes it from earnest money, which is typically deposited with a title company or escrow agent. The direct payment reflects its nature as consideration for the option right.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["option_fee", "payment", "seller"]
+    },
+    {
+      "key_topic_ref": "TX-13.1",
+      "question_text": "What right does the option period grant the buyer under the TREC contract?",
+      "correct_answer": "Unrestricted right to terminate for any reason",
+      "distractors": [
+        "Right to terminate only for inspection issues",
+        "Right to renegotiate the purchase price",
+        "Right to extend the closing date by 30 days"
+      ],
+      "explanation": "The option period grants the buyer an unrestricted right to terminate the contract for any reason during the specified time frame. Unlike inspection contingencies in other states, the Texas option period does not limit the grounds for termination. The buyer need not provide justification.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["option_period", "termination_right", "buyer"]
+    },
+    {
+      "key_topic_ref": "TX-13.1",
+      "question_text": "A buyer and seller negotiate a 10-day option period with a $500 fee. On day 8, the buyer discovers foundation issues and wants out. What is the buyer's best course of action?",
+      "correct_answer": "Terminate within the option period",
+      "distractors": [
+        "Request the seller repair the foundation first",
+        "File a complaint with TREC about non-disclosure",
+        "Wait for the inspection contingency to expire"
+      ],
+      "explanation": "Since the buyer is still within the 10-day option period, the simplest path is to exercise the unrestricted termination right. The buyer loses only the $500 option fee but receives the earnest money back. There is no need to invoke separate inspection provisions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["option_period", "termination", "foundation_issues"]
+    },
+    {
+      "key_topic_ref": "TX-13.1",
+      "question_text": "A buyer's option period expires on Friday at midnight. On Saturday morning, the buyer tries to terminate. What is the likely result?",
+      "correct_answer": "The termination right has expired",
+      "distractors": [
+        "The buyer has a 24-hour grace period",
+        "The buyer can still terminate with cause",
+        "TREC extends the period to Monday"
+      ],
+      "explanation": "The option period is a strict deadline. Once it expires, the buyer loses the unrestricted right to terminate the contract. There is no grace period, automatic extension, or ability to terminate for cause outside the option window without another contractual provision.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["option_period", "expiration", "termination_deadline"]
+    },
+    {
+      "key_topic_ref": "TX-13.2",
+      "question_text": "A buyer is obtaining a VA loan to purchase a home. Which TREC addendum specifies the financing terms?",
+      "correct_answer": "Third Party Financing Addendum",
+      "distractors": [
+        "Loan Assumption Addendum",
+        "Seller Financing Addendum",
+        "Property Condition Addendum"
+      ],
+      "explanation": "The Third Party Financing Addendum covers conventional, FHA, VA, and USDA loans. It sets the financing terms, approval deadlines, and buyer rights if financing fails. The Loan Assumption Addendum is for assuming an existing mortgage, not obtaining a new one.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["financing_addendum", "VA_loan", "third_party"]
+    },
+    {
+      "key_topic_ref": "TX-13.2",
+      "question_text": "What is the key distinction between an addendum and an amendment in TREC contracts?",
+      "correct_answer": "Addenda attach at formation; amendments change executed contracts",
+      "distractors": [
+        "Addenda are optional; amendments are mandatory",
+        "Addenda require attorney review; amendments do not",
+        "Addenda cover financing only; amendments cover all terms"
+      ],
+      "explanation": "Addenda are attached to the contract at the time of formation and become part of the original agreement. Amendments are used to modify terms after the contract has already been executed by both parties. This timing distinction is fundamental to TREC contract practice.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["addenda", "amendments", "contract_formation"]
+    },
+    {
+      "key_topic_ref": "TX-13.2",
+      "question_text": "A seller agrees to carry a note for 20% of the purchase price while the buyer finances the remainder through a bank. Which addenda are needed?",
+      "correct_answer": "Both Third Party Financing and Seller Financing",
+      "distractors": [
+        "Seller Financing Addendum only",
+        "Third Party Financing Addendum only",
+        "Loan Assumption Addendum and Seller Financing"
+      ],
+      "explanation": "When a transaction involves both bank financing and seller-carried financing, both the Third Party Financing Addendum and the Seller Financing Addendum must be attached. Each addendum addresses its respective financing component and associated terms.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller_financing", "third_party_financing", "addenda"]
+    },
+    {
+      "key_topic_ref": "TX-13.2",
+      "question_text": "A buyer assumes the seller's existing FHA mortgage. Which addendum governs this arrangement?",
+      "correct_answer": "Loan Assumption Addendum",
+      "distractors": [
+        "Third Party Financing Addendum",
+        "Seller Financing Addendum",
+        "Short Sale Addendum"
+      ],
+      "explanation": "The Loan Assumption Addendum is used when a buyer takes over the seller's existing mortgage. The Third Party Financing Addendum covers new loans, not assumptions. The Seller Financing Addendum is for when the seller carries the note directly.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["loan_assumption", "FHA", "addenda"]
+    },
+    {
+      "key_topic_ref": "TX-13.2",
+      "question_text": "After executing the contract, the buyer and seller agree to extend the closing date by two weeks. What document should be used?",
+      "correct_answer": "An amendment to the contract",
+      "distractors": [
+        "A new addendum to the contract",
+        "A revised Special Provisions paragraph",
+        "A verbal agreement confirmed by email"
+      ],
+      "explanation": "Changes to an already-executed contract require a formal amendment signed by both parties. Addenda are attached at the time of contract formation, not after execution. Verbal agreements to modify real estate contracts are generally unenforceable under the Statute of Frauds.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["amendment", "closing_date", "post_execution"]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "standard_ref": "AR-11",
+  "scope": "state",
+  "state": "AR",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "AR-11.1",
+      "question_text": "Under the Statute of Frauds, Arkansas real estate agreements must be:",
+      "correct_answer": "In writing to be enforceable",
+      "distractors": ["Notarized by a public official", "Filed with the county recorder", "Approved by AREC before signing"],
+      "explanation": "The Statute of Frauds requires all real estate agreements to be in writing to be enforceable. Oral real estate contracts are not enforceable in Arkansas.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "statute of frauds", "written"]
+    },
+    {
+      "key_topic_ref": "AR-11.1",
+      "question_text": "A buyer and seller verbally agree to a property sale at a specific price. Is this agreement enforceable?",
+      "correct_answer": "No, real estate contracts must be in writing",
+      "distractors": ["Yes, if both parties have witnesses", "Yes, for properties under $25,000", "Only if earnest money was exchanged"],
+      "explanation": "The Statute of Frauds requires real estate agreements to be in writing. A verbal agreement for the sale of real property is not enforceable in court.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contracts", "statute of frauds", "verbal"]
+    },
+    {
+      "key_topic_ref": "AR-11.1",
+      "question_text": "A valid Arkansas sales contract must include:",
+      "correct_answer": "All essential terms and contingencies",
+      "distractors": ["Only the purchase price and signatures", "A minimum 30-day inspection period", "Pre-approval from the buyer's lender"],
+      "explanation": "Sales contracts must contain all essential terms, and contingencies and provisions must be clearly stated. Both parties must receive copies of all signed documents.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "essential terms", "requirements"]
+    },
+    {
+      "key_topic_ref": "AR-11.1",
+      "question_text": "After a sales contract is signed by both parties, who must receive a copy?",
+      "correct_answer": "Both buyer and seller",
+      "distractors": ["Only the party who made the offer", "Only the broker holding the original", "Only AREC for its records"],
+      "explanation": "Both parties must receive copies of all signed documents. This ensures both buyer and seller have records of the agreed-upon terms.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "copies", "requirements"]
+    },
+    {
+      "key_topic_ref": "AR-11.1",
+      "question_text": "A contract has a financing contingency, but the terms are vague and unclear. This contract is MOST likely:",
+      "correct_answer": "Problematic because contingencies must be clear",
+      "distractors": ["Valid because any contingency language works", "Automatically void under Arkansas law", "Enforceable only for cash transactions"],
+      "explanation": "Contingencies and provisions must be clearly stated in the contract. Vague or ambiguous terms can lead to disputes and may render the contingency unenforceable.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["contracts", "contingencies", "clarity"]
+    },
+    {
+      "key_topic_ref": "AR-11.2",
+      "question_text": "Arkansas licensees may fill in blanks on which type of forms?",
+      "correct_answer": "Lawyer-approved standardized printed forms",
+      "distractors": ["Any contract form available online", "Custom forms they draft themselves", "Any form approved by their broker"],
+      "explanation": "Licensees may only fill in blanks of simple printed standardized forms that have been pre-approved by a lawyer. They cannot draft new contract language.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["UPL", "standardized forms", "restrictions"]
+    },
+    {
+      "key_topic_ref": "AR-11.2",
+      "question_text": "A 'simple real estate transaction' in Arkansas refers to:",
+      "correct_answer": "A direct fee simple conveyance effective immediately",
+      "distractors": ["Any residential sale under a certain price", "A transaction with zero contingencies", "Any deal using standard contract forms"],
+      "explanation": "A 'simple transaction' is defined as a direct, present conveyance of fee simple absolute that becomes effective immediately upon delivery. This is the only type where licensees may fill in forms.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["UPL", "simple transaction", "definition"]
+    },
+    {
+      "key_topic_ref": "AR-11.2",
+      "question_text": "A buyer wants to purchase property using a contract for deed. What must the licensee advise?",
+      "correct_answer": "An attorney should be involved",
+      "distractors": ["The licensee can prepare the contract", "Standard forms can be used for this", "AREC must approve the arrangement"],
+      "explanation": "Land contracts, contracts for deed, and installment sales contracts are NOT 'simple transactions' and require attorney involvement. Licensees cannot prepare these.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["UPL", "contract for deed", "attorney"]
+    },
+    {
+      "key_topic_ref": "AR-11.2",
+      "question_text": "A licensee drafts a custom addendum with new contract language for a client. This:",
+      "correct_answer": "Constitutes unauthorized practice of law",
+      "distractors": ["Is acceptable if the broker reviews it", "Is permitted for experienced licensees", "Is fine for addenda under one page"],
+      "explanation": "Licensees CANNOT draft new contract language or provisions. If unusual clauses are needed, an attorney must approve their use. Drafting custom language is unauthorized practice of law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["UPL", "drafting", "violations"]
+    },
+    {
+      "key_topic_ref": "AR-11.2",
+      "question_text": "Which of the following would require attorney involvement in Arkansas?",
+      "correct_answer": "An installment sales contract",
+      "distractors": ["A standard residential purchase agreement", "A listing agreement with an expiration date", "A buyer agency agreement"],
+      "explanation": "Installment sales contracts, land contracts, and contracts for deed are not 'simple transactions' and require attorney involvement. Standard purchase agreements using pre-approved forms do not.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["UPL", "attorney", "installment"]
+    },
+    {
+      "key_topic_ref": "AR-11.3",
+      "question_text": "A buyer and seller cannot agree on the final terms of a sale. Which option is available for resolution?",
+      "correct_answer": "Negotiation, mediation, arbitration, or litigation",
+      "distractors": ["Only AREC-supervised mandatory mediation", "Only direct litigation in circuit court", "Only binding arbitration through the NAR"],
+      "explanation": "Contractual disputes may be resolved through negotiation, mediation, arbitration, or litigation. Multiple resolution paths are available to the parties.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "disputes", "resolution"]
+    },
+    {
+      "key_topic_ref": "AR-11.3",
+      "question_text": "A sales contract in Arkansas should clearly state all of the following EXCEPT:",
+      "correct_answer": "The agent's commission split with the broker",
+      "distractors": ["The agreed-upon purchase price", "Any applicable financing contingencies", "The anticipated closing date"],
+      "explanation": "Sales contracts must include essential terms like price, contingencies, and closing date. The agent's commission split is an internal brokerage matter, not a contract term between buyer and seller.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["contracts", "provisions", "content"]
+    },
+    {
+      "key_topic_ref": "AR-11.3",
+      "question_text": "If a licensee encounters an unusual transaction that requires non-standard contract language, they should:",
+      "correct_answer": "Have an attorney draft or approve the clause",
+      "distractors": ["Use language from a similar past transaction", "Add a general disclaimer to the form", "Contact AREC for approved language"],
+      "explanation": "If any unusual clause is needed, an attorney must approve its use. Licensees cannot draft new contract provisions and must refer to legal counsel for non-standard situations.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contracts", "attorney", "unusual clause"]
+    },
+    {
+      "key_topic_ref": "AR-11.3",
+      "question_text": "A listing agent's commission agreement is verbal. Can the agent enforce this in court?",
+      "correct_answer": "No, commission agreements must be in writing",
+      "distractors": ["Yes, verbal agreements are binding for commissions", "Yes, if the agent can provide witnesses", "Only if the sale actually closed"],
+      "explanation": "Commission agreements must be in writing to be enforceable in Arkansas. This is consistent with the Statute of Frauds requirement for real estate agreements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["contracts", "commission", "written"]
+    },
+    {
+      "key_topic_ref": "AR-11.3",
+      "question_text": "After mediation fails to resolve a contract dispute, the parties may next pursue:",
+      "correct_answer": "Arbitration or litigation",
+      "distractors": ["AREC disciplinary action against both agents", "Automatic contract cancellation", "A mandatory second mediation session"],
+      "explanation": "If mediation fails, parties can pursue arbitration (if agreed) or litigation. AREC handles licensee discipline but does not resolve contractual disputes between buyers and sellers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contracts", "disputes", "escalation"]
+    }
+  ]
+}

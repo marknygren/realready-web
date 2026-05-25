@@ -1,0 +1,233 @@
+{
+  "standard_ref": "MN-08",
+  "scope": "state",
+  "state": "MN",
+  "category": "state_practice",
+  "questions": [
+    {
+      "key_topic_ref": "MN-08.1",
+      "question_text": "Which type of property requires a seller's property condition disclosure in Minnesota?",
+      "correct_answer": "Residential real property",
+      "distractors": [
+        "Commercial office buildings only",
+        "Vacant agricultural land only",
+        "Industrial warehouse properties only"
+      ],
+      "explanation": "Minnesota requires sellers to provide a property condition disclosure for residential real property. Commercial, industrial, and agricultural properties are generally not subject to the same residential disclosure requirements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property_disclosure", "residential", "mandatory"]
+    },
+    {
+      "key_topic_ref": "MN-08.1",
+      "question_text": "A seller knows the basement floods during heavy rain but does not include this on the disclosure form. What obligation has the seller violated?",
+      "correct_answer": "The duty to disclose known material defects",
+      "distractors": [
+        "The duty to repair all defects before listing",
+        "The duty to obtain a professional inspection",
+        "The duty to provide a home warranty"
+      ],
+      "explanation": "Sellers must disclose all known material defects on the property condition disclosure. Basement flooding during heavy rain is a material defect that affects habitability and value. The seller is not required to repair the issue, but must disclose it.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property_disclosure", "material_defects", "flooding"]
+    },
+    {
+      "key_topic_ref": "MN-08.1",
+      "question_text": "A buyer asks if anyone died in the home. Under Minnesota law, must the seller disclose this information?",
+      "correct_answer": "No, stigmatized events need not be disclosed",
+      "distractors": [
+        "Yes, all deaths must be disclosed by law",
+        "Only if the death was a violent homicide",
+        "Only if the death occurred within five years"
+      ],
+      "explanation": "Minnesota law does not require disclosure of stigmatized property events such as deaths, alleged hauntings, or that a previous occupant had HIV/AIDS. These are considered psychological impacts rather than physical property defects.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property_disclosure", "stigmatized_property", "deaths"]
+    },
+    {
+      "key_topic_ref": "MN-08.1",
+      "question_text": "A buyer's agent asks whether a previous resident had HIV/AIDS. How should the seller's agent respond?",
+      "correct_answer": "This is not a required disclosure in Minnesota",
+      "distractors": [
+        "Disclose it only with the seller's permission",
+        "Confirm or deny based on seller's knowledge",
+        "Refer the question to the health department"
+      ],
+      "explanation": "Minnesota law specifically protects against disclosure of a previous occupant's HIV/AIDS status as a stigmatized property characteristic. The seller's agent should inform the buyer's agent that this information is not subject to disclosure under Minnesota law.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property_disclosure", "stigmatized_property", "HIV_AIDS"]
+    },
+    {
+      "key_topic_ref": "MN-08.1",
+      "question_text": "A seller honestly does not know about any defects in the property. What should the seller indicate on the disclosure form?",
+      "correct_answer": "That no defects are known to the seller",
+      "distractors": [
+        "That the property is in perfect condition",
+        "That the buyer should waive inspection rights",
+        "That a professional inspection was completed"
+      ],
+      "explanation": "The disclosure covers known defects only. If the seller genuinely has no knowledge of defects, they should indicate that on the form. This is different from stating the property is in perfect condition, which would be a broader claim the seller may not be able to support.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["property_disclosure", "seller_knowledge", "known_defects"]
+    },
+    {
+      "key_topic_ref": "MN-08.2",
+      "question_text": "When selling property with a well in Minnesota, what document must be filed?",
+      "correct_answer": "A well disclosure certificate with the state",
+      "distractors": [
+        "A water quality report with the EPA",
+        "A well permit with the county recorder",
+        "A groundwater survey with the MPCA"
+      ],
+      "explanation": "Minnesota requires sellers to file a well disclosure certificate with the Minnesota Department of Health. This certificate identifies all wells on the property, their status, and whether they have been properly sealed. It is separate from water quality testing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["well_disclosure", "Department_of_Health", "certificate"]
+    },
+    {
+      "key_topic_ref": "MN-08.2",
+      "question_text": "A property has an old well that is no longer in use. What does Minnesota law require regarding this well?",
+      "correct_answer": "It must be sealed by a licensed well contractor",
+      "distractors": [
+        "It may remain as-is if covered with a cap",
+        "The buyer assumes responsibility after closing",
+        "Only active wells require any action"
+      ],
+      "explanation": "Minnesota requires that abandoned wells be properly sealed by a licensed well contractor to prevent groundwater contamination. Simply capping the well or leaving it alone is insufficient. All wells, active or abandoned, must be disclosed and abandoned ones must be sealed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["well_disclosure", "abandoned_wells", "sealing_requirement"]
+    },
+    {
+      "key_topic_ref": "MN-08.2",
+      "question_text": "A buyer is purchasing a rural property with a septic system. What is required before the sale closes?",
+      "correct_answer": "An ISTS compliance inspection before closing",
+      "distractors": [
+        "A complete new septic system installation",
+        "County approval for municipal sewer connection",
+        "A soil percolation test ordered by the buyer"
+      ],
+      "explanation": "Minnesota requires an Individual Sewage Treatment System (ISTS) compliance inspection before the sale of property with a septic system. If the inspection reveals non-compliance, the system must be brought into compliance. A new system is only needed if the existing one fails inspection.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["septic_disclosure", "ISTS_inspection", "compliance"]
+    },
+    {
+      "key_topic_ref": "MN-08.2",
+      "question_text": "A septic system inspection reveals the system is non-compliant with current standards. What must happen?",
+      "correct_answer": "The system must be repaired or replaced",
+      "distractors": [
+        "The sale must be cancelled immediately",
+        "The buyer may waive the compliance requirement",
+        "A variance is automatically granted for five years"
+      ],
+      "explanation": "When an ISTS compliance inspection reveals non-compliance, the septic system must be brought into compliance through repair or replacement. The sale does not have to be cancelled, but the non-compliant system must be fixed. Buyers cannot waive this health and safety requirement.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["septic_disclosure", "non_compliant", "repair_required"]
+    },
+    {
+      "key_topic_ref": "MN-08.2",
+      "question_text": "A property has three wells: one active, one used for irrigation, and one abandoned 10 years ago. How many must be disclosed on the well disclosure certificate?",
+      "correct_answer": "All three wells must be disclosed",
+      "distractors": [
+        "Only the active drinking water well",
+        "Only the two currently functioning wells",
+        "None, because the property has municipal water"
+      ],
+      "explanation": "Minnesota requires disclosure of ALL wells on the property, regardless of their current use or status. This includes active, inactive, irrigation, and abandoned wells. The well disclosure certificate must account for every well that exists or has existed on the property.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["well_disclosure", "all_wells", "disclosure_scope"]
+    },
+    {
+      "key_topic_ref": "MN-08.3",
+      "question_text": "Which Minnesota agency regulates underground storage tanks?",
+      "correct_answer": "The Minnesota Pollution Control Agency",
+      "distractors": [
+        "The Minnesota Department of Commerce",
+        "The Department of Natural Resources",
+        "The Minnesota Department of Health"
+      ],
+      "explanation": "Underground storage tanks (USTs) in Minnesota are regulated by the Minnesota Pollution Control Agency (MPCA). The MPCA oversees registration, monitoring, and cleanup requirements for USTs to prevent soil and groundwater contamination.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental", "UST", "MPCA"]
+    },
+    {
+      "key_topic_ref": "MN-08.3",
+      "question_text": "A gas station owner discovers a petroleum leak from an underground tank. Which Minnesota program provides financial assistance for cleanup?",
+      "correct_answer": "The Petrofund",
+      "distractors": [
+        "The Recovery Fund",
+        "The Environmental Trust Account",
+        "The Superfund Grant Program"
+      ],
+      "explanation": "Minnesota's Petrofund provides financial assistance for cleanup of petroleum releases from storage tanks. It is separate from the real estate Recovery Fund and federal Superfund programs. The Petrofund specifically addresses petroleum contamination cleanup costs.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["environmental", "Petrofund", "petroleum_cleanup"]
+    },
+    {
+      "key_topic_ref": "MN-08.3",
+      "question_text": "A seller is aware that a neighboring property had a petroleum spill that may have contaminated the soil on the seller's land. What must the seller do?",
+      "correct_answer": "Disclose the known or suspected contamination",
+      "distractors": [
+        "Nothing, since the spill was on another property",
+        "Order a Phase I environmental assessment first",
+        "Wait until contamination is officially confirmed"
+      ],
+      "explanation": "Minnesota sellers must disclose known or suspected contamination, even if it originated from a neighboring property. The obligation is to disclose what the seller knows or suspects, not to wait for official confirmation or conduct testing first.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["environmental", "contamination_disclosure", "neighboring_property"]
+    },
+    {
+      "key_topic_ref": "MN-08.3",
+      "question_text": "A commercial property buyer discovers an unregistered underground storage tank during due diligence. Who is responsible for addressing the tank?",
+      "correct_answer": "The current property owner must address it",
+      "distractors": [
+        "The original installer of the storage tank",
+        "The buyer assumes liability once purchase closes",
+        "The MPCA handles all removal at no cost"
+      ],
+      "explanation": "The current property owner is responsible for unregistered underground storage tanks on their property, including registration, testing, and potential removal or remediation. The MPCA does not perform removal at no cost, and liability cannot simply be passed to a previous owner or installer.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["environmental", "UST", "owner_responsibility"]
+    },
+    {
+      "key_topic_ref": "MN-08.3",
+      "question_text": "A homeowner suspects contamination from a former heating oil tank on the property. Which action is most appropriate?",
+      "correct_answer": "Report to the MPCA and apply for Petrofund aid",
+      "distractors": [
+        "Ignore it unless a buyer requests testing",
+        "Cover the area with concrete to contain it",
+        "File a claim with the real estate Recovery Fund"
+      ],
+      "explanation": "Suspected petroleum contamination from a heating oil tank should be reported to the MPCA, and the homeowner may apply for Petrofund assistance to help cover cleanup costs. Ignoring contamination or attempting to cover it creates liability. The Recovery Fund covers licensee misconduct, not environmental cleanup.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["environmental", "Petrofund", "heating_oil", "MPCA"]
+    }
+  ]
+}

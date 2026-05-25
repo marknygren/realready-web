@@ -1,0 +1,173 @@
+{
+  "standard_ref": "MO-11",
+  "scope": "state",
+  "state": "MO",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "MO-11.1",
+      "question_text": "Under RSMo 432.010, which requirement applies to real estate contracts in Missouri?",
+      "correct_answer": "Must be in writing and signed by the charged party",
+      "distractors": ["Must be notarized by a licensed notary public", "Must be prepared by a licensed attorney", "Must be filed with the county recorder within 30 days"],
+      "explanation": "Missouri's Statute of Frauds (RSMo 432.010) requires that real estate contracts be in writing and signed by the party to be charged. Oral agreements for real estate are unenforceable.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["statute-of-frauds", "RSMo-432.010", "written-contracts"]
+    },
+    {
+      "key_topic_ref": "MO-11.1",
+      "question_text": "A buyer and seller verbally agree to a home sale for $250,000 and shake hands. Is this agreement enforceable in Missouri?",
+      "correct_answer": "No, it violates the Statute of Frauds",
+      "distractors": ["Yes, if both parties agree to the terms", "Yes, if a witness was present during the agreement", "Yes, if partial performance has occurred"],
+      "explanation": "Under RSMo 432.010 (Missouri's Statute of Frauds), real estate contracts must be in writing and signed by the party to be charged. A verbal agreement to sell real estate is not enforceable regardless of witnesses or handshakes.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["statute-of-frauds", "oral-agreement", "enforceability"]
+    },
+    {
+      "key_topic_ref": "MO-11.1",
+      "question_text": "Who typically prepares real estate purchase contracts in Missouri?",
+      "correct_answer": "Licensed real estate agents using MAR forms",
+      "distractors": ["Only licensed attorneys may draft contracts", "The title company prepares all purchase contracts", "The county clerk provides mandatory state forms"],
+      "explanation": "Missouri is NOT an attorney-closing state. Licensed real estate agents routinely prepare purchase contracts using standardized forms provided by the Missouri Association of REALTORS (MAR). Attorney involvement is optional.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contract-preparation", "MAR-forms", "non-attorney-state"]
+    },
+    {
+      "key_topic_ref": "MO-11.1",
+      "question_text": "A Missouri agent drafts a purchase contract using a non-standard form they created. Which concern does this raise?",
+      "correct_answer": "Potential unauthorized practice of law",
+      "distractors": ["No concern since agents can draft any form", "A violation of the Statute of Frauds", "Automatic voiding of the real estate contract"],
+      "explanation": "While Missouri agents may prepare contracts using standardized MAR forms, drafting custom legal documents may constitute the unauthorized practice of law. Agents should use approved standardized forms and recommend attorney review for complex or non-standard provisions.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["unauthorized-practice", "contract-drafting", "agent-liability"]
+    },
+    {
+      "key_topic_ref": "MO-11.1",
+      "question_text": "The Missouri Association of REALTORS provides standardized contract forms primarily to ensure:",
+      "correct_answer": "Consistent terms and reduced legal risk",
+      "distractors": ["Compliance with federal housing regulations", "That attorneys review every real estate transaction", "That MREC approves each individual transaction"],
+      "explanation": "MAR provides standardized residential sale contracts to ensure consistent terms across transactions and reduce legal risk for agents and their clients. These forms address common contingencies and comply with Missouri law.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["MAR-forms", "standardized-contracts", "risk-reduction"]
+    },
+    {
+      "key_topic_ref": "MO-11.2",
+      "question_text": "A buyer signs a purchase contract on March 1. By what date must the earnest money typically be deposited in escrow?",
+      "correct_answer": "Within 10 banking days of final signatures",
+      "distractors": ["Within 3 calendar days of the offer", "Within 24 hours of contract acceptance", "Within 30 days of the inspection period"],
+      "explanation": "In Missouri, earnest money must typically be deposited in escrow within 10 banking days of final signatures on the contract. Banking days exclude weekends and holidays.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "deposit-timeline", "banking-days"]
+    },
+    {
+      "key_topic_ref": "MO-11.2",
+      "question_text": "What is the typical earnest money deposit range in Missouri residential transactions?",
+      "correct_answer": "1% to 3% of the purchase price",
+      "distractors": ["5% to 10% of the purchase price", "A flat fee of $500 regardless of price", "10% minimum required by state law"],
+      "explanation": "Typical earnest money deposits in Missouri range from 1% to 3% of the purchase price. There is no statutory minimum; the amount is negotiable between buyer and seller.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest-money", "deposit-amount", "typical-range"]
+    },
+    {
+      "key_topic_ref": "MO-11.2",
+      "question_text": "The buyer and seller disagree over who should receive the $8,000 earnest money deposit after a failed transaction. What must the broker do?",
+      "correct_answer": "Hold funds until mutual release or court order",
+      "distractors": ["Return funds to the buyer immediately", "Release funds to the seller after 30 days", "Split the funds equally between both parties"],
+      "explanation": "When an earnest money dispute arises in Missouri, the broker must hold the funds in escrow until the parties provide a mutual written release or a court issues an order directing disbursement. The broker cannot unilaterally decide who receives the deposit.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "dispute-resolution", "broker-duty"]
+    },
+    {
+      "key_topic_ref": "MO-11.2",
+      "question_text": "Which entities may hold earnest money deposits in Missouri?",
+      "correct_answer": "Title companies, law firms, or brokerages",
+      "distractors": ["Only the listing agent's personal account", "Only FDIC-insured bank trust departments", "Only the Missouri Real Estate Commission"],
+      "explanation": "In Missouri, earnest money may be held by a title company, law firm, or real estate brokerage in a designated escrow or trust account. Agents must never deposit earnest money into personal accounts.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["earnest-money", "escrow-holders", "trust-accounts"]
+    },
+    {
+      "key_topic_ref": "MO-11.2",
+      "question_text": "A buyer's agent collects a $5,000 earnest money check but waits 15 banking days to deposit it. This delay:",
+      "correct_answer": "Violates the 10-banking-day deposit rule",
+      "distractors": ["Is acceptable if the seller has not objected", "Is permitted for amounts under $10,000", "Only matters if the earnest check bounces"],
+      "explanation": "Missouri practice requires earnest money to be deposited in escrow within 10 banking days of final contract signatures. A 15-banking-day delay violates this standard and could expose the agent and brokerage to disciplinary action.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["earnest-money", "deposit-deadline", "agent-responsibility"]
+    },
+    {
+      "key_topic_ref": "MO-11.3",
+      "question_text": "A buyer submits a counteroffer verbally during negotiations. Under Missouri law, this counteroffer is:",
+      "correct_answer": "Unenforceable because it must be in writing",
+      "distractors": ["Valid if the seller accepts verbally", "Enforceable if witnessed by both agents", "Binding once the seller acknowledges receipt"],
+      "explanation": "Under Missouri's Statute of Frauds, all counteroffers for real estate must be in writing. A verbal counteroffer is unenforceable, regardless of whether it was witnessed or acknowledged by the other party.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["counteroffer", "written-requirement", "statute-of-frauds"]
+    },
+    {
+      "key_topic_ref": "MO-11.3",
+      "question_text": "Which contingencies are commonly included in Missouri MAR residential sale contracts?",
+      "correct_answer": "Inspection, financing, and appraisal",
+      "distractors": ["Only financing contingency is standard", "Attorney review and title search only", "Environmental assessment and survey only"],
+      "explanation": "Standard MAR residential sale contracts typically include inspection, financing, and appraisal contingencies. These protect the buyer's interests by allowing contract termination if specific conditions are not met.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["contingencies", "MAR-contract", "buyer-protection"]
+    },
+    {
+      "key_topic_ref": "MO-11.3",
+      "question_text": "A buyer's financing contingency deadline passes without the buyer securing a loan commitment. What is the seller's BEST course of action?",
+      "correct_answer": "Issue written notice to terminate the contract",
+      "distractors": ["Automatically keep the earnest money deposit", "Wait indefinitely for the buyer to obtain financing", "File a complaint with the Missouri Real Estate Commission"],
+      "explanation": "When a financing contingency deadline passes, the seller typically has the right to issue written notice to terminate the contract. The earnest money disposition depends on the specific contract terms and may require mutual release.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["financing-contingency", "deadline", "contract-termination"]
+    },
+    {
+      "key_topic_ref": "MO-11.3",
+      "question_text": "During a Missouri transaction, the home inspection reveals a cracked foundation. The buyer wants to negotiate repairs. What document formalizes this request?",
+      "correct_answer": "A written amendment or addendum to the contract",
+      "distractors": ["A verbal request to the listing agent", "A new purchase contract replacing the original", "A letter filed with the county recorder"],
+      "explanation": "Repair requests and negotiated changes to the contract must be documented through a written amendment or addendum. Under Missouri's Statute of Frauds, all modifications to real estate contracts must be in writing to be enforceable.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["inspection-contingency", "amendment", "written-modification"]
+    },
+    {
+      "key_topic_ref": "MO-11.3",
+      "question_text": "In a Missouri transaction, the appraisal comes in $15,000 below the contract price. Under a standard appraisal contingency, the buyer may:",
+      "correct_answer": "Terminate the contract and recover earnest money",
+      "distractors": ["Force the seller to reduce the price by $15,000", "Require the lender to waive the appraisal gap", "Automatically void the seller's counteroffer"],
+      "explanation": "A standard appraisal contingency allows the buyer to terminate the contract if the appraised value is below the purchase price. The buyer can recover their earnest money deposit. Alternatively, the parties may renegotiate the price or the buyer may cover the gap.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["appraisal-contingency", "low-appraisal", "buyer-options"]
+    }
+  ]
+}

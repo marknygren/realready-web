@@ -1,0 +1,158 @@
+{
+  "standard_ref": "TX-05",
+  "scope": "state",
+  "state": "TX",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "TX-05.1",
+      "question_text": "What is the primary purpose of the Texas Real Estate Recovery Trust Account?",
+      "correct_answer": "To compensate consumers harmed by licensee misconduct",
+      "distractors": [
+        "To fund TREC operations and salaries",
+        "To provide grants for first-time homebuyers",
+        "To reimburse brokers for uncollected commissions"
+      ],
+      "explanation": "The Recovery Trust Account exists to compensate members of the public who have been financially harmed by the misconduct of licensed real estate agents or brokers. It is not used for TREC operations, homebuyer grants, or broker reimbursement.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery_Trust_Account", "purpose", "consumer_protection"]
+    },
+    {
+      "key_topic_ref": "TX-05.1",
+      "question_text": "A consumer is defrauded by a licensed agent and wants to file a claim against the Recovery Trust Account. What must the consumer obtain first?",
+      "correct_answer": "A court judgment against the licensee",
+      "distractors": [
+        "A written complaint filed with TREC",
+        "An arbitration award from a mediator",
+        "A police report documenting the fraud"
+      ],
+      "explanation": "Before filing a claim against the Recovery Trust Account, the consumer must first obtain a court judgment against the licensee. A TREC complaint or police report alone is insufficient. The court judgment establishes the licensee's liability and the amount of damages owed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Recovery_Trust_Account", "court_judgment", "claims_process"]
+    },
+    {
+      "key_topic_ref": "TX-05.1",
+      "question_text": "Under SB 1577 (effective January 1, 2024), what is the maximum per-transaction payout from the Recovery Trust Account?",
+      "correct_answer": "$125,000",
+      "distractors": [
+        "$50,000",
+        "$100,000",
+        "$250,000"
+      ],
+      "explanation": "SB 1577, passed by the 88th Texas Legislature and effective January 1, 2024, raised the per-transaction limit from $50,000 to $125,000. The per-licensee cumulative cap was also raised from $100,000 to $250,000, providing greater protection for consumers.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery_Trust_Account", "SB_1577", "per_transaction_limit"]
+    },
+    {
+      "key_topic_ref": "TX-05.1",
+      "question_text": "An agent's misconduct results in three separate claims totaling $300,000. The cumulative per-licensee cap is $250,000. How much can be paid from the fund?",
+      "correct_answer": "$250,000 total across all claims",
+      "distractors": [
+        "$300,000 because each claim is valid",
+        "$125,000 per transaction only",
+        "$375,000 with a hardship exception"
+      ],
+      "explanation": "The per-licensee cumulative cap limits total payouts to $250,000 regardless of the number of claims. Even though the three claims total $300,000, the fund will pay no more than $250,000 combined for all claims against a single licensee. Consumers may pursue the licensee personally for the remaining $50,000.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["Recovery_Trust_Account", "cumulative_cap", "multiple_claims"]
+    },
+    {
+      "key_topic_ref": "TX-05.1",
+      "question_text": "How is the Texas Real Estate Recovery Trust Account funded?",
+      "correct_answer": "Through fees collected with license applications",
+      "distractors": [
+        "Through annual state tax appropriations",
+        "Through fines collected from disciplinary actions",
+        "Through voluntary broker contributions"
+      ],
+      "explanation": "The Recovery Trust Account is funded primarily through fees collected at the time of license applications and renewals. It is not funded by general tax revenue, disciplinary fines, or voluntary contributions. This ensures all licensees contribute to consumer protection.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["Recovery_Trust_Account", "funding", "license_fees"]
+    },
+    {
+      "key_topic_ref": "TX-05.2",
+      "question_text": "The Recovery Trust Account pays a $100,000 claim against a licensee. What happens to the licensee's license?",
+      "correct_answer": "The license is automatically revoked",
+      "distractors": [
+        "The license is suspended for one year",
+        "The licensee is placed on probation",
+        "No license action is taken"
+      ],
+      "explanation": "When the Recovery Trust Account pays a claim on behalf of a licensee, that licensee's license is automatically revoked by operation of law. This is not a discretionary decision by TREC. The automatic revocation protects the public from further harm by the licensee.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["automatic_revocation", "Recovery_Trust_Account", "license_consequence"]
+    },
+    {
+      "key_topic_ref": "TX-05.2",
+      "question_text": "A licensee whose license was revoked after a Recovery Trust Account payout wants reinstatement. What must the licensee do?",
+      "correct_answer": "Repay the fund in full plus interest",
+      "distractors": [
+        "Wait 5 years and reapply",
+        "Complete 180 hours of additional education",
+        "Obtain a letter of good standing from TREC"
+      ],
+      "explanation": "Reinstatement after a Recovery Trust Account revocation requires the licensee to repay the full amount paid from the fund plus interest. Until full repayment is made, the license cannot be reinstated regardless of time elapsed or additional education completed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["reinstatement", "repayment", "Recovery_Trust_Account"]
+    },
+    {
+      "key_topic_ref": "TX-05.2",
+      "question_text": "A licensee's misconduct resulted in a $100,000 payout from the Recovery Trust Account. The licensee later repays the $100,000. Can the license be reinstated?",
+      "correct_answer": "No, accrued interest must also be repaid",
+      "distractors": [
+        "Yes, returning the principal is sufficient",
+        "Yes, after a 5-year waiting period",
+        "No, revocation after a fund payout is permanent"
+      ],
+      "explanation": "Reinstatement requires repayment of both the full principal and all accrued interest. Paying back only the principal is insufficient. However, revocation is not permanent — the license can be reinstated once the full amount plus interest is repaid to the fund.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["Recovery_Trust_Account", "reinstatement", "interest", "repayment"]
+    },
+    {
+      "key_topic_ref": "TX-05.2",
+      "question_text": "A licensee's license was revoked after a $75,000 fund payout. The licensee repays $75,000 but not the accrued interest. Can the license be reinstated?",
+      "correct_answer": "No, full principal plus interest must be repaid",
+      "distractors": [
+        "Yes, returning the principal amount is sufficient",
+        "Yes, if TREC grants a partial repayment waiver",
+        "Yes, after completing a probationary period"
+      ],
+      "explanation": "Texas law requires repayment of both the full principal amount and all accrued interest before a revoked license can be reinstated. Paying back only the principal is insufficient. TREC does not have authority to waive the interest component of the repayment requirement.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["reinstatement", "interest", "repayment", "Recovery_Trust_Account"]
+    },
+    {
+      "key_topic_ref": "TX-05.2",
+      "question_text": "A consumer obtains a $150,000 judgment against a licensee for fraud. The per-transaction cap is $125,000. How much can the fund pay?",
+      "correct_answer": "$125,000",
+      "distractors": [
+        "$150,000 because a court ordered it",
+        "$50,000 under the old cap",
+        "$250,000 using the cumulative cap"
+      ],
+      "explanation": "The per-transaction cap of $125,000 limits the fund's payout regardless of the court judgment amount. The consumer receives $125,000 from the fund and must pursue the licensee personally for the remaining $25,000. The cumulative cap applies across multiple transactions, not to a single claim.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["per_transaction_cap", "court_judgment", "Recovery_Trust_Account"]
+    }
+  ]
+}

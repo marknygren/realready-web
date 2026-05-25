@@ -1,0 +1,173 @@
+{
+  "standard_ref": "KS-03",
+  "scope": "state",
+  "state": "KS",
+  "category": "state_licensing",
+  "questions": [
+    {
+      "key_topic_ref": "KS-03.1",
+      "question_text": "How many hours of continuing education must a Kansas salesperson complete each renewal period?",
+      "correct_answer": "12 hours every 2 years",
+      "distractors": ["8 hours every 2 years", "16 hours every 2 years", "12 hours every year"],
+      "explanation": "Kansas salespersons must complete 12 hours of CE every 2 years (biennial). This includes 3 hours of the Required Salesperson Core course and 9 hours of electives.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "hours", "renewal"]
+    },
+    {
+      "key_topic_ref": "KS-03.1",
+      "question_text": "A salesperson has completed 9 hours of elective CE but has not taken the Required Core course. Can they renew?",
+      "correct_answer": "No, the 3-hour Core course is mandatory",
+      "distractors": ["Yes, elective hours can substitute", "Yes, if they take Core within 30 days", "No, they need 15 total hours"],
+      "explanation": "The 3-hour Required Salesperson Core course is mandatory for every renewal period. The remaining 9 hours can be from KREC-approved elective courses, but Core cannot be substituted.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["CE", "Core course", "mandatory"]
+    },
+    {
+      "key_topic_ref": "KS-03.1",
+      "question_text": "When must a Kansas salesperson's continuing education be completed?",
+      "correct_answer": "Before their license renewal date",
+      "distractors": ["Within 30 days after renewal date", "By December 31 of the renewal year", "Within 6 months of the renewal date"],
+      "explanation": "All 12 hours of CE must be completed before the license renewal date. Kansas uses a biennial cycle based on the original license issue date, not a calendar year.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "deadline", "renewal"]
+    },
+    {
+      "key_topic_ref": "KS-03.1",
+      "question_text": "Of the 12 CE hours required for Kansas salesperson renewal, how many must come from the Required Core course?",
+      "correct_answer": "3 hours",
+      "distractors": ["4 hours", "6 hours", "2 hours"],
+      "explanation": "Kansas requires 3 hours in the Required Salesperson Core course, with the remaining 9 hours in KREC-approved elective topics of the licensee's choosing.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "Core course", "hours"]
+    },
+    {
+      "key_topic_ref": "KS-03.1",
+      "question_text": "A Kansas salesperson wants to take a continuing education course offered online. Is this permitted?",
+      "correct_answer": "Yes, if the course is KREC-approved",
+      "distractors": ["No, CE must be in-classroom only", "Only for the elective portion", "Only if taken at a Kansas institution"],
+      "explanation": "Kansas allows both classroom and online CE courses, provided they are approved by KREC. The approval ensures course content meets KREC standards regardless of delivery method.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["CE", "online", "approved"]
+    },
+    {
+      "key_topic_ref": "KS-03.2",
+      "question_text": "What is the biennial renewal fee for a Kansas salesperson license?",
+      "correct_answer": "$125",
+      "distractors": ["$75", "$150", "$200"],
+      "explanation": "Kansas salesperson license renewal costs $125 for the 2-year period. Broker renewal is $175 biennial. The renewal window opens 45 days before the expiration date.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["renewal", "fees", "salesperson"]
+    },
+    {
+      "key_topic_ref": "KS-03.2",
+      "question_text": "A salesperson's license expires on August 15. When does the renewal window open?",
+      "correct_answer": "July 1 (45 days before expiration)",
+      "distractors": ["August 1 (14 days before)", "June 15 (60 days before)", "July 15 (30 days before)"],
+      "explanation": "The Kansas license renewal window opens 45 days before the expiration date. For an August 15 expiration, the window opens approximately July 1.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["renewal", "window", "deadline"]
+    },
+    {
+      "key_topic_ref": "KS-03.2",
+      "question_text": "How does a Kansas salesperson's renewal cycle work?",
+      "correct_answer": "Biennial from the original license issue date",
+      "distractors": ["Every 2 years on December 31", "Annually on the license anniversary", "Every 3 years from first renewal"],
+      "explanation": "Kansas uses a biennial (2-year) renewal cycle that runs from the original license issue date. This means each licensee has their own unique renewal date.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["renewal", "cycle", "biennial"]
+    },
+    {
+      "key_topic_ref": "KS-03.2",
+      "question_text": "What is the biennial renewal fee for a Kansas broker license?",
+      "correct_answer": "$175",
+      "distractors": ["$125", "$200", "$250"],
+      "explanation": "Kansas broker license renewal costs $175 per 2-year period, while salesperson renewal is $125. Both follow the same biennial cycle from the original issue date.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["renewal", "fees", "broker"]
+    },
+    {
+      "key_topic_ref": "KS-03.2",
+      "question_text": "A salesperson fails to renew their license before the expiration date. What is the immediate consequence?",
+      "correct_answer": "The license expires and they cannot practice",
+      "distractors": ["A 30-day grace period begins automatically", "The license converts to inactive status", "KREC issues a warning with no penalty"],
+      "explanation": "If a Kansas salesperson does not renew before the expiration date, the license expires and they must stop all licensed activity immediately until reinstatement is completed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["renewal", "expiration", "consequence"]
+    },
+    {
+      "key_topic_ref": "KS-03.3",
+      "question_text": "A salesperson's license has been deactivated because they left their brokerage. What must they do to reactivate?",
+      "correct_answer": "Complete current CE and find a new broker",
+      "distractors": ["Retake the state licensing exam", "Complete 60 hours of pre-license education", "Wait one year before reapplying"],
+      "explanation": "To reinstate a deactivated Kansas license, the salesperson must have current CE completed and affiliate with a new sponsoring broker. Retaking the exam is not required for simple deactivation.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["deactivation", "reinstatement", "requirements"]
+    },
+    {
+      "key_topic_ref": "KS-03.3",
+      "question_text": "Under what circumstance would a Kansas salesperson's license be deactivated?",
+      "correct_answer": "The salesperson is no longer affiliated with a broker",
+      "distractors": ["The salesperson has not sold property in 6 months", "The salesperson moves to another state", "The salesperson changes their business address"],
+      "explanation": "Kansas salesperson licenses are deactivated when the licensee is no longer affiliated with a sponsoring broker. Simply not making sales or changing addresses does not trigger deactivation.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["deactivation", "broker", "affiliation"]
+    },
+    {
+      "key_topic_ref": "KS-03.3",
+      "question_text": "A military spouse moves to Kansas and wants to obtain a real estate license. What fee benefit is available?",
+      "correct_answer": "All licensure and renewal fees are waived",
+      "distractors": ["Fees are reduced by 50%", "Only the application fee is waived", "A one-time $50 credit is applied"],
+      "explanation": "Effective July 2025, Kansas waives all licensure-related fees (application, background check, original license, renewal, and late fees) for spouses of active military members stationed in Kansas.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["military spouse", "fee waiver", "special provision"]
+    },
+    {
+      "key_topic_ref": "KS-03.3",
+      "question_text": "Which statement about Kansas license deactivation is correct?",
+      "correct_answer": "A deactivated licensee cannot perform licensed activities",
+      "distractors": ["A deactivated license allows limited transactions", "Deactivation automatically expires after one year", "A deactivated licensee can still receive referral fees"],
+      "explanation": "A deactivated Kansas license means the licensee cannot engage in any licensed real estate activity. They must reactivate by affiliating with a broker and completing current CE before resuming practice.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["deactivation", "restrictions", "compliance"]
+    },
+    {
+      "key_topic_ref": "KS-03.3",
+      "question_text": "The military spouse fee waiver in Kansas applies to which fees?",
+      "correct_answer": "Application, licensure, renewal, and late fees",
+      "distractors": ["Only the initial application fee", "Only continuing education course fees", "Only the biennial renewal fee"],
+      "explanation": "The Kansas military spouse fee waiver is comprehensive, covering application, background check, original licensure, renewal, and renewal late fees for spouses of active military members.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["military spouse", "fees", "waiver scope"]
+    }
+  ]
+}

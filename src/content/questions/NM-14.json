@@ -1,0 +1,118 @@
+{
+  "standard_ref": "NM-14",
+  "scope": "state",
+  "state": "NM",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "NM-14.1",
+      "question_text": "A property is located within a Public Improvement District (PID). The owner's tax burden includes:",
+      "correct_answer": "Regular property taxes plus PID assessments",
+      "distractors": ["Only PID assessments replacing property taxes", "Regular property taxes with no additional cost", "A one-time PID fee at purchase only"],
+      "explanation": "PID assessments are in addition to regular property taxes. Property owners in PIDs pay both their normal property taxes and the special PID assessments for infrastructure improvements.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PID", "assessments", "property taxes"]
+    },
+    {
+      "key_topic_ref": "NM-14.1",
+      "question_text": "A seller is listing a property in a PID but does not mention the PID assessments to the buyer. This is:",
+      "correct_answer": "A failure to make required PID disclosures",
+      "distractors": ["Acceptable because PIDs are public record", "The buyer's responsibility to discover", "Only an issue if the assessment exceeds $500"],
+      "explanation": "Sellers must disclose PID assessments to buyers before closing. Failing to disclose ongoing special assessments is a violation of NM disclosure requirements.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["PID", "disclosure", "seller duty"]
+    },
+    {
+      "key_topic_ref": "NM-14.1",
+      "question_text": "When a property within a PID is sold, the PID assessment obligation:",
+      "correct_answer": "Transfers to the new owner with the property",
+      "distractors": ["Is paid off by the seller at closing", "Terminates upon sale of the property", "Becomes optional for the new owner"],
+      "explanation": "PID assessments run with the land, meaning they transfer to new owners when the property is sold. Buyers need to understand this ongoing financial obligation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PID", "runs with land", "transfer"]
+    },
+    {
+      "key_topic_ref": "NM-14.1",
+      "question_text": "PID assessments in NM are used to fund:",
+      "correct_answer": "Infrastructure improvements in the district",
+      "distractors": ["School district operating budgets", "Statewide road maintenance projects", "Individual property improvements only"],
+      "explanation": "Public Improvement Districts levy special assessments to fund infrastructure improvements such as roads, utilities, parks, and drainage systems within the district boundaries.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["PID", "infrastructure", "purpose"]
+    },
+    {
+      "key_topic_ref": "NM-14.1",
+      "question_text": "A buyer discovers after closing that the property has $3,000 in annual PID assessments that were never disclosed. The buyer may have a claim for:",
+      "correct_answer": "Failure to disclose a material financial burden",
+      "distractors": ["Property tax fraud committed by the county", "Breach of the homeowner association bylaws", "A zoning violation committed by the developer"],
+      "explanation": "Undisclosed PID assessments represent a failure to disclose a significant financial obligation. The buyer may have recourse against the seller and potentially the listing broker.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["PID", "non-disclosure", "buyer claim"]
+    },
+    {
+      "key_topic_ref": "NM-14.2",
+      "question_text": "When selling a property in an HOA community, the seller must provide the buyer with:",
+      "correct_answer": "CC&Rs, bylaws, and financial statements",
+      "distractors": ["Only the monthly dues amount", "Only a verbal description of the HOA rules", "Only the HOA president's contact information"],
+      "explanation": "NM requires sellers to provide HOA governing documents including CC&Rs (Covenants, Conditions & Restrictions), bylaws, and financial statements to prospective buyers.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HOA", "disclosure", "governing documents"]
+    },
+    {
+      "key_topic_ref": "NM-14.2",
+      "question_text": "A buyer asks about pending special assessments in the HOA. The seller must disclose:",
+      "correct_answer": "All known pending special assessments",
+      "distractors": ["Only assessments already approved and billed", "Nothing because the HOA manages assessments", "Only assessments exceeding $1,000"],
+      "explanation": "Buyers must be informed of HOA dues, regular assessments, and any pending special assessments. Sellers must disclose known pending assessments even if not yet officially billed.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HOA", "special assessments", "disclosure"]
+    },
+    {
+      "key_topic_ref": "NM-14.2",
+      "question_text": "The NM Homeowner Association Act provides:",
+      "correct_answer": "Consumer protections for homeowners in HOAs",
+      "distractors": ["Tax exemptions for HOA-managed properties", "Licensing requirements for HOA board members", "Mandatory state approval for HOA formation"],
+      "explanation": "The NM Homeowner Association Act provides consumer protections for homeowners living in HOA-governed communities, including disclosure requirements and governance standards.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HOA Act", "consumer protection", "legislation"]
+    },
+    {
+      "key_topic_ref": "NM-14.2",
+      "question_text": "HOA restrictions and obligations apply to a property. When the property is sold:",
+      "correct_answer": "The restrictions transfer with the property",
+      "distractors": ["The new owner can opt out of the HOA", "The restrictions expire at the sale", "The HOA must re-approve the new owner"],
+      "explanation": "HOA restrictions and obligations run with the land and transfer to new owners. Buyers cannot opt out of an existing HOA — the CC&Rs are binding on all property owners in the community.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HOA", "run with land", "binding"]
+    },
+    {
+      "key_topic_ref": "NM-14.2",
+      "question_text": "A listing broker in an HOA community should ensure the buyer receives which document before making an offer?",
+      "correct_answer": "The HOA financial statements and bylaws",
+      "distractors": ["A letter of approval from the HOA president", "The original developer's construction plans", "A survey of all common area boundaries"],
+      "explanation": "Sellers must provide HOA governing documents including financial statements and bylaws. This allows buyers to understand the financial health of the HOA and the community rules before committing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HOA", "documents", "buyer review"]
+    }
+  ]
+}

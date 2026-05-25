@@ -1,0 +1,63 @@
+{
+  "standard_ref": "SD-14",
+  "scope": "state",
+  "state": "SD",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "SD-14.1",
+      "question_text": "South Dakota water rights follow which legal doctrine?",
+      "correct_answer": "Prior appropriation",
+      "distractors": ["Riparian rights", "Correlative rights", "Reasonable use doctrine"],
+      "explanation": "South Dakota follows the prior appropriation doctrine ('first in time, first in right') for water rights. This means the first person to put water to beneficial use has priority over later users. This is particularly significant in agricultural and western SD areas.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["water-rights", "prior-appropriation", "doctrine"]
+    },
+    {
+      "key_topic_ref": "SD-14.1",
+      "question_text": "A buyer is purchasing farmland in western South Dakota. Why is it important to verify the mineral rights status?",
+      "correct_answer": "Mineral rights may be severed from surface rights",
+      "distractors": ["Mineral rights always transfer with the land", "Only the state government holds mineral rights", "Mineral rights expire after 20 years of non-use"],
+      "explanation": "In South Dakota, mineral rights can be severed from surface rights — meaning someone else may own the minerals beneath the land. This is particularly relevant in western SD where mineral extraction has historically occurred. Buyers should always verify mineral rights in land transactions.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["mineral-rights", "severance", "western-SD"]
+    },
+    {
+      "key_topic_ref": "SD-14.1",
+      "question_text": "In 2025, South Dakota passed significant legislation regarding eminent domain. What was prohibited?",
+      "correct_answer": "Eminent domain for CO2 pipeline projects",
+      "distractors": ["All private use of eminent domain power", "Eminent domain for highway construction", "Condemnation of any agricultural properties"],
+      "explanation": "In 2025, South Dakota prohibited the use of eminent domain for CO2 pipeline projects. This was a significant policy change affecting property rights and was driven by concerns about private companies using government power to acquire easements across private land.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eminent-domain", "CO2-pipeline", "2025-legislation"]
+    },
+    {
+      "key_topic_ref": "SD-14.1",
+      "question_text": "A rural SD property relies on well water. What concern should the buyer's agent raise?",
+      "correct_answer": "Potential well water quality and contamination issues",
+      "distractors": ["Wells are illegal on residential properties", "Municipal water must be connected within 1 year", "The seller must drill a new well before closing"],
+      "explanation": "Rural SD properties often rely on well water, and buyers should be concerned about water quality issues including agricultural chemical contamination. Agents should advise buyers to have well water tested as part of their due diligence.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["well-water", "rural", "contamination"]
+    },
+    {
+      "key_topic_ref": "SD-14.1",
+      "question_text": "Under prior appropriation, who has the superior right to use water from a shared source in South Dakota?",
+      "correct_answer": "The person who first put the water to beneficial use",
+      "distractors": ["The person whose property is closest to the source", "The person with the largest parcel of land", "All adjacent property owners have equal rights"],
+      "explanation": "Prior appropriation means 'first in time, first in right.' The person who first put water to beneficial use has priority over all later users. This contrasts with the riparian rights system used in eastern states, where all waterfront owners share equal rights.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["water-rights", "prior-appropriation", "priority"]
+    }
+  ]
+}

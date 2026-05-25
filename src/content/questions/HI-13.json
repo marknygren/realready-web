@@ -1,0 +1,173 @@
+{
+  "standard_ref": "HI-13",
+  "scope": "state",
+  "state": "HI",
+  "category": "state_transactions",
+  "questions": [
+    {
+      "key_topic_ref": "HI-13.1",
+      "question_text": "Hawaii uses a dual recording system. Which two systems operate simultaneously?",
+      "correct_answer": "Regular System (BOC) and Land Court (Torrens)",
+      "distractors": ["County recorder and state recorder", "Federal land registry and state registry", "Title insurance system and abstract system"],
+      "explanation": "Hawaii is unique among US states in having a dual recording system: the Regular System administered by the Bureau of Conveyances (BOC) under DLNR, and the Land Court (Torrens) system under the Judiciary. Some parcels are registered in both systems.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "dual-system", "BOC", "land-court"]
+    },
+    {
+      "key_topic_ref": "HI-13.1",
+      "question_text": "A buyer purchases a property recorded in the Regular System. Can someone acquire rights through adverse possession?",
+      "correct_answer": "Yes, adverse possession is possible",
+      "distractors": ["No, Hawaii prohibits adverse possession", "Only if the property is unimproved", "Only with Land Court approval"],
+      "explanation": "In the Regular System (BOC), adverse possession IS possible because there is no state-guaranteed Certificate of Title. This is one key difference from the Land Court system, where adverse possession is NOT possible because the state guarantees title through Certificates of Title.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["regular-system", "adverse-possession", "BOC"]
+    },
+    {
+      "key_topic_ref": "HI-13.1",
+      "question_text": "Under the Land Court (Torrens) system, when does title to real property officially transfer?",
+      "correct_answer": "When noted on the Certificate of Title",
+      "distractors": ["When the deed is signed by both parties", "When the deed is delivered to the buyer", "When the purchase price is fully paid"],
+      "explanation": "In Hawaii's Land Court system, title does not pass until the transfer is noted on the Certificate of Title. All documents affecting title must be noted on this state-issued certificate. The system operates on a pure race basis, where the first to file wins absent fraud.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["land-court", "torrens", "certificate-of-title"]
+    },
+    {
+      "key_topic_ref": "HI-13.1",
+      "question_text": "An agent discovers a property is registered in both the Regular System and Land Court. A lien is filed only at BOC. What is the lien's status in Land Court?",
+      "correct_answer": "The property is unencumbered in Land Court",
+      "distractors": ["The lien applies to both systems equally", "Land Court automatically adopts BOC filings", "The lien is void in both systems"],
+      "explanation": "For dual-system properties, documents must be filed in BOTH systems to be effective in both. A lien filed only at BOC does not encumber the Land Court interest. Failure to file in Land Court leaves that interest unencumbered, creating a significant risk for creditors.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["dual-system", "lien", "recording"]
+    },
+    {
+      "key_topic_ref": "HI-13.1",
+      "question_text": "Where are all real property documents recorded in Hawaii?",
+      "correct_answer": "Through the Bureau of Conveyances in Honolulu",
+      "distractors": ["At each county recorder's office", "At the county courthouse in each county", "At both state and county offices"],
+      "explanation": "Unlike most states where recording occurs at county offices, ALL recording in Hawaii is done statewide through the Bureau of Conveyances in Honolulu. There are no county recording offices. This applies to both the Regular System and Land Court recordings.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recording", "BOC", "statewide"]
+    },
+    {
+      "key_topic_ref": "HI-13.2",
+      "question_text": "Hawaii's conveyance tax is primarily the obligation of which party?",
+      "correct_answer": "The seller, though it is negotiable",
+      "distractors": ["The buyer exclusively", "Split equally by statute", "The listing broker"],
+      "explanation": "Under HRS 247, Hawaii's conveyance tax is the seller's obligation by default, though like many closing costs it is negotiable between the parties. The tax uses marginal tiered rates based on the property's sale price, with a minimum of $1.00.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-tax", "seller", "HRS-247"]
+    },
+    {
+      "key_topic_ref": "HI-13.2",
+      "question_text": "An owner-occupied home sells for $500,000. A non-owner-occupied investment property also sells for $500,000. How do their conveyance tax rates compare?",
+      "correct_answer": "The owner-occupied rate is lower",
+      "distractors": ["Both pay the same flat rate", "The investment property rate is lower", "Owner-occupied properties are exempt"],
+      "explanation": "Hawaii's conveyance tax uses a tiered system with lower rates for owner-occupied properties. For a $500,000 sale (in the first tier up to $600K), owner-occupied pays $0.10 per $100 while non-owner-occupied pays $0.15 per $100. The differential continues across all tiers.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["conveyance-tax", "owner-occupied", "rates"]
+    },
+    {
+      "key_topic_ref": "HI-13.2",
+      "question_text": "Which form is used to report and pay Hawaii's conveyance tax?",
+      "correct_answer": "Form P-64A or P-64B",
+      "distractors": ["Form N-289", "Form HRS-247", "Form HARPTA-1"],
+      "explanation": "Hawaii's conveyance tax is reported and paid using Form P-64A (for most transfers) or P-64B (for transfers involving multiple TMKs). The tax is filed at the time of recording the conveyance document with the Bureau of Conveyances.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-tax", "forms", "P-64"]
+    },
+    {
+      "key_topic_ref": "HI-13.2",
+      "question_text": "A luxury oceanfront property sells for $12 million. At the highest tier, what is the owner-occupied conveyance tax rate per $100?",
+      "correct_answer": "$1.20 per $100",
+      "distractors": ["$0.10 per $100", "$0.50 per $100", "$1.25 per $100"],
+      "explanation": "Hawaii's conveyance tax uses marginal tiered rates. For the highest tier ($10M+), the owner-occupied rate is $1.20 per $100, while the non-owner-occupied (standard) rate is $1.25 per $100. The tax is calculated on a marginal basis across seven tiers.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-tax", "luxury", "rates"]
+    },
+    {
+      "key_topic_ref": "HI-13.2",
+      "question_text": "Hawaii's conveyance tax uses what type of rate structure?",
+      "correct_answer": "Marginal tiered rates by sale price",
+      "distractors": ["A single flat rate on all sales", "County-set rates varying by island", "A percentage that decreases with price"],
+      "explanation": "Hawaii's conveyance tax uses a marginal tiered system with seven brackets. Each rate applies only to the portion of the sale price within that bracket, similar to income tax brackets. Rates range from $0.10/$100 (owner-occupied under $600K) to $1.25/$100 (standard over $10M).",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["conveyance-tax", "marginal-rates", "tiers"]
+    },
+    {
+      "key_topic_ref": "HI-13.3",
+      "question_text": "A mainland investor sells a Hawaii condo for $800,000. How much must the buyer withhold under HARPTA?",
+      "correct_answer": "$58,000 (7.25% of gross price)",
+      "distractors": ["$120,000 (15% of gross price)", "$40,000 (5% of gross price)", "$0 if proceeds cover the tax"],
+      "explanation": "Under HARPTA (HRS 235-68), the buyer must withhold 7.25% of the gross sales price when the seller is a non-resident of Hawaii. On an $800,000 sale, that equals $58,000. This must be remitted to the Hawaii Department of Taxation within 20 days of closing.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HARPTA", "withholding", "non-resident"]
+    },
+    {
+      "key_topic_ref": "HI-13.3",
+      "question_text": "A buyer fails to withhold HARPTA taxes from a non-resident seller. Who bears personal liability?",
+      "correct_answer": "The buyer",
+      "distractors": ["The seller only", "The escrow company", "The listing broker"],
+      "explanation": "Under HARPTA, the buyer is personally liable if they fail to withhold the required 7.25% from a non-resident seller's proceeds. This liability exists even if the buyer was unaware of the requirement, making it critical for agents and escrow to ensure compliance.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["HARPTA", "liability", "buyer"]
+    },
+    {
+      "key_topic_ref": "HI-13.3",
+      "question_text": "A seller claims Hawaii residency to avoid HARPTA withholding. Which form must the seller file?",
+      "correct_answer": "Form N-289",
+      "distractors": ["Form P-64A", "Form W-9", "Form HRS-516"],
+      "explanation": "A seller claiming Hawaii residency files Form N-289 (Hawaii Residency Certification) to claim exemption from HARPTA withholding. Without this form, the buyer must withhold 7.25% of the gross sales price and remit it to the Hawaii Department of Taxation.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["HARPTA", "residency", "N-289"]
+    },
+    {
+      "key_topic_ref": "HI-13.3",
+      "question_text": "A foreign national who lives in Japan sells a Hawaii investment property. Which withholding requirements apply?",
+      "correct_answer": "Both HARPTA (7.25%) and FIRPTA (15%)",
+      "distractors": ["FIRPTA (15%) only", "HARPTA (7.25%) only", "Neither applies to foreign nationals"],
+      "explanation": "Non-resident foreign nationals are subject to both HARPTA (Hawaii state withholding of 7.25%) and FIRPTA (federal withholding of 15%) cumulatively. The combined withholding totals 22.25% of the gross sales price, significantly impacting the seller's net proceeds.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["HARPTA", "FIRPTA", "foreign-seller"]
+    },
+    {
+      "key_topic_ref": "HI-13.3",
+      "question_text": "Hawaii's General Excise Tax (GET) applies to which real estate activity?",
+      "correct_answer": "Broker commissions and management fees",
+      "distractors": ["The sale price of all property transfers", "Only commercial property transactions", "Mortgage interest payments"],
+      "explanation": "Hawaii's GET (HRS 237) at 4% plus county surcharge applies to service income such as broker commissions and property management fees. It does not apply to the conveyance of real property itself, which is subject to the conveyance tax instead.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["GET", "commissions", "tax"]
+    }
+  ]
+}
