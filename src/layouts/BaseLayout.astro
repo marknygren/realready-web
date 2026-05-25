@@ -6,6 +6,9 @@ interface Props {
   description?: string;
   canonical?: string;
   ogImage?: string;
+  // Pre-launch: defaults to true so search engines ignore in-progress pages.
+  // Phase 1 (California pilot) flips the site to indexable; see docs/PLAN.md section 4.
+  noindex?: boolean;
 }
 
 const {
@@ -13,6 +16,7 @@ const {
   description = 'State-specific real estate exam practice. Free questions for all 50 states plus DC.',
   canonical,
   ogImage,
+  noindex = true,
 } = Astro.props;
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://realready.app';
@@ -30,6 +34,7 @@ const ogImageUrl = ogImage ?? `${siteUrl}/og-default.png`;
     <title>{title}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonicalUrl} />
+    {noindex && <meta name="robots" content="noindex, nofollow" />}
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content={title} />

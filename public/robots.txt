@@ -1,0 +1,4 @@
+# Pre-launch: block all crawlers until the California pilot is ready.
+# Phase 1 (see docs/PLAN.md) will replace this with crawler-friendly rules + sitemap.
+User-agent: *
+Disallow: /
