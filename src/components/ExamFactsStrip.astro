@@ -1,0 +1,118 @@
+---
+/**
+ * Four-tile strip showing the state's exam logistics (question count,
+ * time limit, passing score, registration fee).
+ */
+import type { ExamFacts } from '../lib/getStateData';
+
+interface Props {
+  facts: ExamFacts;
+  stateName: string;
+}
+
+const { facts, stateName } = Astro.props;
+
+function formatTime(minutes: number): { value: string; unit: string } {
+  if (minutes >= 60) {
+    const h = Math.floor(minutes / 60);
+    const m = minutes % 60;
+    if (m === 0) return { value: `${h}h`, unit: 'time limit' };
+    return { value: `${h}h ${m}m`, unit: 'time limit' };
+  }
+  return { value: `${minutes}m`, unit: 'time limit' };
+}
+
+const timeFormatted = formatTime(facts.timeLimitMinutes);
+
+const tiles = [
+  {
+    value: String(facts.questionCount),
+    label: 'questions on the exam',
+  },
+  {
+    value: timeFormatted.value,
+    label: timeFormatted.unit,
+  },
+  {
+    value: facts.passingScore,
+    label: 'to pass',
+  },
+  {
+    value: facts.registrationFee,
+    label: 'to register',
+  },
+];
+---
+
+<aside class="exam-facts" aria-label={`${stateName} real estate exam logistics`}>
+  <ul class="exam-facts__grid">
+    {
+      tiles.map((tile) => (
+        <li class="exam-facts__tile">
+          <p class="exam-facts__value">{tile.value}</p>
+          <p class="exam-facts__label">{tile.label}</p>
+        </li>
+      ))
+    }
+  </ul>
+  {
+    facts.notes && (
+      <p class="exam-facts__notes">{facts.notes}</p>
+    )
+  }
+</aside>
+
+<style>
+  .exam-facts {
+    max-width: 880px;
+    margin: 0 auto;
+  }
+  .exam-facts__grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+  }
+  .exam-facts__tile {
+    background: var(--rr-surface, #fff);
+    border: 1px solid var(--rr-border, #e2e8f0);
+    border-radius: 14px;
+    padding: 1.25rem 1rem;
+    text-align: center;
+    box-shadow: 0 1px 0 rgba(15, 23, 42, 0.02);
+  }
+  .exam-facts__value {
+    font-family: var(--font-display);
+    font-size: 2.1rem;
+    font-weight: 700;
+    color: var(--rr-navy);
+    margin: 0 0 0.3rem;
+    line-height: 1;
+    letter-spacing: -0.01em;
+  }
+  .exam-facts__label {
+    font-size: 0.82rem;
+    color: var(--rr-text-muted, #64748b);
+    margin: 0;
+    font-weight: 500;
+    line-height: 1.35;
+  }
+  .exam-facts__notes {
+    font-size: 0.82rem;
+    color: var(--rr-text-muted, #64748b);
+    text-align: center;
+    margin: 1rem 0 0;
+    font-style: italic;
+  }
+
+  @media (max-width: 720px) {
+    .exam-facts__grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .exam-facts__value {
+      font-size: 1.85rem;
+    }
+  }
+</style>

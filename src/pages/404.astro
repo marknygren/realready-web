@@ -1,0 +1,86 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Section from '../components/Section.astro';
+---
+
+<BaseLayout
+  title="Page not found — RealReady"
+  description="That page doesn't exist on realready.app. Find your state to start practicing, or head home."
+>
+  <Section variant="warm">
+    <div class="not-found">
+      <p class="rr-eyebrow">
+        <span class="rr-eyebrow__dot" aria-hidden="true"></span>404
+      </p>
+      <h1 class="rr-h1 not-found__title">
+        Hmm — that page <em>isn’t</em> here.
+      </h1>
+      <p class="not-found__body">
+        The URL you tried doesn’t match any page on realready.app. It may have
+        been moved, mistyped, or never existed. From here, you can:
+      </p>
+
+      <ul class="not-found__links">
+        <li>
+          <a class="rr-btn rr-btn--accent" href="/states/">
+            Find your state →
+          </a>
+        </li>
+        <li>
+          <a class="rr-btn rr-btn--ghost" href="/">
+            Back to the homepage
+          </a>
+        </li>
+      </ul>
+
+      <p class="not-found__support">
+        If you got here from a link inside the RealReady app or somewhere on
+        this site, that’s our bug — please email
+        <a href="mailto:support@nextchapterapps.com">support@nextchapterapps.com</a>
+        and we’ll fix it.
+      </p>
+    </div>
+  </Section>
+</BaseLayout>
+
+<style>
+  .not-found {
+    max-width: 680px;
+    margin: 3rem auto;
+    text-align: center;
+  }
+  .not-found .rr-eyebrow {
+    justify-content: center;
+  }
+  .not-found__title {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 5vw, 3rem);
+    color: var(--rr-navy);
+    margin: 1rem 0 1.5rem;
+    line-height: 1.15;
+  }
+  .not-found__title em {
+    font-style: normal;
+    color: var(--rr-orange-deep, #fb8500);
+  }
+  .not-found__body {
+    font-size: 1.1rem;
+    line-height: 1.55;
+    color: var(--rr-text-dark, #0f172a);
+    margin-bottom: 2rem;
+  }
+  .not-found__links {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 2rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .not-found__support {
+    font-size: 0.9rem;
+    color: var(--rr-text-muted, #64748b);
+    margin: 0;
+  }
+</style>

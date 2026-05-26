@@ -1,0 +1,101 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Section from '../components/Section.astro';
+import FaqAccordion, { type FaqItem } from '../components/FaqAccordion.astro';
+
+const faqItems: FaqItem[] = [
+  // About the app + content
+  {
+    q: 'Does RealReady cover my state?',
+    a: 'Yes. All 50 states plus Washington, D.C. You’ll get both the national real estate principles and the rules specific to the jurisdiction you’re licensing in.',
+  },
+  {
+    q: 'Is it really free to start?',
+    a: 'Yes. Every state page on this site has 20 free practice questions you can work through right now. The mobile app is free to download and includes the full national question bank free; the state-specific bank for your state is a one-time premium unlock.',
+    open: true,
+  },
+  {
+    q: 'How much does the app cost?',
+    a: 'RealReady Premium is a one-time $17.99 unlock for the full state-specific question bank, missed-question mode, and progress tracking. There’s no subscription and no recurring charge.',
+  },
+  {
+    q: 'Is RealReady on iOS?',
+    a: 'Yes — search for “RealReady real estate exam prep” on the App Store, or use the Download links on this page.',
+  },
+  {
+    q: 'Is RealReady on Android?',
+    a: 'Yes — search for “RealReady real estate exam prep” on Google Play, or use the Get-it-on-Google-Play links on this page.',
+  },
+  {
+    q: 'Can I use RealReady on the web?',
+    a: 'The free practice questions on this site are web-accessible. The full app experience — progress tracking, missed-question mode, the complete state bank — is iPhone, iPad, and Android only.',
+  },
+  // About the content
+  {
+    q: 'What topics are covered?',
+    a: 'The national content is organized into nine focused categories: National Overview, Property &amp; Land Use, Agency &amp; Fiduciary Duties, Contracts, Transfer of Title, Finance &amp; Lending, Practice of Real Estate, Real Estate Math, and State-Specific Rules. Each state’s bank adds laws and procedures unique to that jurisdiction.',
+  },
+  {
+    q: 'Is this the same as my pre-license course?',
+    a: 'No. RealReady is <strong>exam prep</strong>. It’s designed to be used after (or alongside) your required pre-license education to make sure you actually pass the state exam itself. Every state has its own pre-license course requirement; RealReady doesn’t replace it.',
+  },
+  {
+    q: 'Where do your practice questions come from?',
+    a: 'Every question is written by us specifically for the relevant state\'s licensing exam, anchored in the actual content outlines published by each state’s real estate commission. They’re not scraped from anywhere; they’re drafted to mirror the style, scope, and difficulty of the real test.',
+  },
+  // Practicalities
+  {
+    q: 'Does the app work offline?',
+    a: 'Yes. The mobile app caches questions locally so you can study without a signal — on the bus, on a plane, anywhere reception drops. Progress syncs the next time you’re online.',
+  },
+  {
+    q: 'Do you guarantee I’ll pass?',
+    a: 'No one can promise you a pass — including us. But the closest thing is honest, targeted practice on questions written for your state, with explanations that tell you <em>why</em> the answer is what it is. That’s what RealReady is built to give you.',
+  },
+  {
+    q: 'How do I contact support?',
+    a: 'Email <a href="mailto:support@nextchapterapps.com">support@nextchapterapps.com</a> and we’ll get back to you. The app also has feedback built in under Profile → Send feedback.',
+  },
+];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqItems.map((item) => ({
+    '@type': 'Question',
+    name: item.q,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: item.a,
+    },
+  })),
+};
+---
+
+<BaseLayout
+  title="RealReady FAQ — Real estate exam prep questions, answered"
+  description="Common questions about RealReady: pricing, app availability, state coverage, content sourcing, and how it differs from pre-license courses."
+  jsonLd={[faqSchema]}
+>
+  <section class="rr-hero rr-hero--state">
+    <div class="container rr-hero__inner rr-hero__inner--state">
+      <div class="rr-hero__copy rr-hero__copy--state">
+        <p class="rr-eyebrow rr-eyebrow--on-dark rise rise-1">
+          <span class="rr-eyebrow__dot" aria-hidden="true"></span>
+          FAQ
+        </p>
+        <h1 class="rr-hero__title rise rise-2">
+          Common questions, <em>answered</em>.
+        </h1>
+        <p class="rr-hero__subhead rise rise-3">
+          What RealReady covers, how it works, what it costs, and what it
+          isn’t. If your question isn’t here, email us.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <Section variant="warm" narrow>
+    <FaqAccordion items={faqItems} />
+  </Section>
+</BaseLayout>

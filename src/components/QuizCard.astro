@@ -1,0 +1,256 @@
+---
+/**
+ * Single practice question with click-to-reveal answer + explanation.
+ * Uses the native <details>/<summary> element so the explanation text is
+ * fully crawlable by Google but visually hidden until clicked.
+ */
+import type { Question } from '../lib/getStateData';
+
+interface Props {
+  question: Question;
+  /** 1-indexed position in the list of 20 (for the "Q1 of 20" badge). */
+  index: number;
+  /** Total in the set (for the "Q1 of 20" badge). */
+  total: number;
+}
+
+const { question, index, total } = Astro.props;
+
+const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
+---
+
+<article
+  class="quiz-card"
+  data-category={question.categorySlug}
+  data-category-label={question.categoryLabel}
+  aria-labelledby={`q-${question.id}-text`}
+>
+  <header class="quiz-card__meta">
+    <span class="quiz-card__num">
+      Q{index} <span class="quiz-card__of">of {total}</span>
+    </span>
+    <span class="quiz-card__cat">{question.categoryLabel}</span>
+  </header>
+
+  <h3 class="quiz-card__text" id={`q-${question.id}-text`}>
+    {question.text}
+  </h3>
+
+  <ol class="quiz-card__options" type="A">
+    {
+      question.options.map((opt, i) => (
+        <li class="quiz-card__option">
+          <span class="quiz-card__letter" aria-hidden="true">
+            {LETTERS[i]}
+          </span>
+          <span class="quiz-card__option-text">{opt}</span>
+        </li>
+      ))
+    }
+  </ol>
+
+  <details class="quiz-card__reveal">
+    <summary>
+      <span class="quiz-card__reveal-label">Show answer &amp; explanation</span>
+      <span class="quiz-card__reveal-icon" aria-hidden="true">+</span>
+    </summary>
+    <div class="quiz-card__answer">
+      <p class="quiz-card__correct">
+        <span class="quiz-card__correct-tag">Correct:</span>
+        <span class="quiz-card__correct-letter">
+          {LETTERS[question.correctIndex]}
+        </span>
+        <span class="quiz-card__correct-text">
+          {question.options[question.correctIndex]}
+        </span>
+      </p>
+      <p class="quiz-card__explanation">{question.explanation}</p>
+    </div>
+  </details>
+</article>
+
+<style>
+  .quiz-card {
+    background: var(--rr-surface, #fff);
+    border: 1px solid var(--rr-border, #e2e8f0);
+    border-radius: 16px;
+    padding: 1.5rem 1.75rem;
+    box-shadow: 0 1px 0 rgba(15, 23, 42, 0.02);
+    transition: box-shadow 200ms ease, transform 200ms ease;
+  }
+  .quiz-card:hover {
+    box-shadow: 0 6px 24px rgba(15, 23, 42, 0.06);
+  }
+
+  .quiz-card__meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 0.85rem;
+    flex-wrap: wrap;
+  }
+  .quiz-card__num {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--rr-navy);
+    letter-spacing: 0.02em;
+  }
+  .quiz-card__of {
+    color: var(--rr-text-muted, #64748b);
+    font-weight: 500;
+  }
+  .quiz-card__cat {
+    display: inline-block;
+    padding: 0.25rem 0.7rem;
+    background: var(--rr-bg-cool, #f0f4f8);
+    border: 1px solid var(--rr-border, #e2e8f0);
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--rr-teal-deep, #1b83a0);
+  }
+
+  .quiz-card__text {
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    font-weight: 500;
+    line-height: 1.45;
+    color: var(--rr-text-dark, #0f172a);
+    margin: 0 0 1.1rem;
+  }
+
+  .quiz-card__options {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+  .quiz-card__option {
+    display: flex;
+    gap: 0.75rem;
+    align-items: baseline;
+    padding: 0.65rem 0.9rem;
+    border: 1px solid var(--rr-border, #e2e8f0);
+    border-radius: 10px;
+    background: #fafbfc;
+    font-size: 1rem;
+    line-height: 1.4;
+    color: var(--rr-text-dark, #0f172a);
+  }
+  .quiz-card__letter {
+    flex-shrink: 0;
+    font-family: var(--font-display);
+    font-weight: 700;
+    color: var(--rr-teal);
+    width: 1.2em;
+  }
+  .quiz-card__option-text {
+    flex: 1;
+  }
+
+  .quiz-card__reveal {
+    border-top: 1px solid var(--rr-border, #e2e8f0);
+    margin-top: 1rem;
+    padding-top: 0.85rem;
+  }
+  .quiz-card__reveal > summary {
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    color: var(--rr-teal-deep, #1b83a0);
+    font-family: var(--font-body);
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding: 0.4rem 0;
+    user-select: none;
+  }
+  .quiz-card__reveal > summary::-webkit-details-marker {
+    display: none;
+  }
+  .quiz-card__reveal-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 22px;
+    height: 22px;
+    border-radius: 999px;
+    background: var(--rr-bg-cool, #f0f4f8);
+    color: var(--rr-teal-deep, #1b83a0);
+    font-weight: 700;
+    font-size: 1.1rem;
+    line-height: 1;
+    transition: transform 200ms ease;
+  }
+  .quiz-card__reveal[open] .quiz-card__reveal-icon {
+    transform: rotate(45deg);
+  }
+  .quiz-card__reveal[open] > summary .quiz-card__reveal-label::after {
+    content: '';
+  }
+
+  .quiz-card__answer {
+    margin-top: 0.85rem;
+    padding: 1rem 1.1rem;
+    background: linear-gradient(180deg, #f6fbf8 0%, #f0f7f3 100%);
+    border: 1px solid #d6e9dd;
+    border-left: 3px solid var(--rr-green, #059669);
+    border-radius: 0 10px 10px 0;
+  }
+  .quiz-card__correct {
+    margin: 0 0 0.6rem;
+    font-size: 0.97rem;
+    line-height: 1.45;
+    color: var(--rr-text-dark, #0f172a);
+  }
+  .quiz-card__correct-tag {
+    display: inline-block;
+    background: var(--rr-green, #059669);
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 0.2rem 0.55rem;
+    border-radius: 4px;
+    margin-right: 0.5rem;
+    vertical-align: middle;
+  }
+  .quiz-card__correct-letter {
+    font-family: var(--font-display);
+    font-weight: 700;
+    color: var(--rr-green, #059669);
+    margin-right: 0.4rem;
+  }
+  .quiz-card__correct-text {
+    font-weight: 500;
+  }
+  .quiz-card__explanation {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: var(--rr-text-dark, #0f172a);
+  }
+
+  @media (max-width: 600px) {
+    .quiz-card {
+      padding: 1.2rem 1.1rem;
+      border-radius: 12px;
+    }
+    .quiz-card__text {
+      font-size: 1.05rem;
+    }
+    .quiz-card__option {
+      padding: 0.55rem 0.7rem;
+      font-size: 0.95rem;
+    }
+  }
+</style>

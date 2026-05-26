@@ -1,0 +1,93 @@
+---
+/**
+ * Internal-linking band — chip grid of every other state RealReady covers.
+ * Used at the bottom of state pages to boost crawl depth and give visitors
+ * a path to their own state.
+ *
+ * In Phase 1 only California has a full content page, so other-state links
+ * point to the (eventually-built) /states/[slug]/ URL. Until those pages
+ * exist they 404 — acceptable for the pilot; Phase 3 fans them out.
+ */
+import { ALL_STATE_NAMES_BY_CODE, stateNameToSlug } from '../lib/getStateData';
+
+interface Props {
+  currentCode: string;
+  heading?: string;
+}
+
+const { currentCode, heading = 'Studying in another state? RealReady covers all 50.' } = Astro.props;
+
+const entries = Object.entries(ALL_STATE_NAMES_BY_CODE)
+  .filter(([code]) => code.toUpperCase() !== currentCode.toUpperCase())
+  .map(([code, name]) => ({
+    code,
+    name,
+    href: `/states/${stateNameToSlug(name)}/`,
+  }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+---
+
+<div class="other-states">
+  <h2 class="rr-h3 other-states__heading">{heading}</h2>
+  <ul class="other-states__grid">
+    {
+      entries.map((s) => (
+        <li>
+          <a class="other-states__chip" href={s.href}>
+            <span class="other-states__chip-name">{s.name}</span>
+            <span class="other-states__chip-code" aria-hidden="true">
+              {s.code}
+            </span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</div>
+
+<style>
+  .other-states__heading {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    color: var(--rr-navy);
+    margin: 0 0 1.5rem;
+    text-align: center;
+  }
+  .other-states__grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 0.5rem;
+  }
+  .other-states__chip {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding: 0.6rem 0.85rem;
+    background: var(--rr-surface, #fff);
+    border: 1px solid var(--rr-border, #e2e8f0);
+    border-radius: 10px;
+    color: var(--rr-text-dark, #0f172a);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: border-color 150ms ease, transform 150ms ease,
+      box-shadow 150ms ease;
+  }
+  .other-states__chip:hover {
+    border-color: var(--rr-teal);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(33, 158, 188, 0.08);
+  }
+  .other-states__chip-name {
+    font-weight: 500;
+  }
+  .other-states__chip-code {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--rr-text-muted, #64748b);
+  }
+</style>

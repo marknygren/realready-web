@@ -1,0 +1,295 @@
+---
+import type { GetStaticPaths } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Section from '../../components/Section.astro';
+import ExamFactsStrip from '../../components/ExamFactsStrip.astro';
+import QuizCard from '../../components/QuizCard.astro';
+import OtherStatesGrid from '../../components/OtherStatesGrid.astro';
+import FaqAccordion from '../../components/FaqAccordion.astro';
+import AppStoreBadges from '../../components/AppStoreBadges.astro';
+import {
+  getStateData,
+  getAllStateSummaries,
+  type StateData,
+} from '../../lib/getStateData';
+
+export const getStaticPaths = (() => {
+  const summaries = getAllStateSummaries().filter((s) => s.hasContent);
+  return summaries.map((s) => ({
+    params: { state: s.slug },
+    props: { code: s.code },
+  }));
+}) satisfies GetStaticPaths;
+
+interface Props {
+  code: string;
+}
+
+const { code } = Astro.props;
+const data: StateData = getStateData(code);
+
+const title = `${data.name} Real Estate Practice Questions — Free Practice Test | RealReady`;
+const description = `Free practice questions for the ${data.name} real estate salesperson exam. ${data.examFacts.questionCount} questions, ${data.examFacts.timeLimitMinutes >= 60 ? `${Math.floor(data.examFacts.timeLimitMinutes / 60)}h${data.examFacts.timeLimitMinutes % 60 ? ` ${data.examFacts.timeLimitMinutes % 60}m` : ''}` : `${data.examFacts.timeLimitMinutes}m`}, ${data.examFacts.passingScore} to pass. State-targeted content. Pass with confidence.`;
+const canonicalUrl = `https://realready.app/states/${data.slug}/`;
+
+// JSON-LD: one Question per practice question + a FAQPage for the state-specific FAQ.
+const questionSchemas = data.questions.map((q) => ({
+  '@context': 'https://schema.org',
+  '@type': 'Question',
+  name: q.text,
+  acceptedAnswer: {
+    '@type': 'Answer',
+    text: `${q.options[q.correctIndex]} — ${q.explanation}`,
+  },
+  suggestedAnswer: q.options
+    .filter((_, i) => i !== q.correctIndex)
+    .map((distractor) => ({
+      '@type': 'Answer',
+      text: distractor,
+    })),
+}));
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: data.faq.map((item) => ({
+    '@type': 'Question',
+    name: item.q,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: item.a,
+    },
+  })),
+};
+
+const jsonLd = [...questionSchemas, faqSchema];
+
+// Filter chip labels: All + each distinct category present in the 20 questions.
+const filters = [
+  { label: 'All', slug: 'all' },
+  ...data.categoryLabels.map((label) => {
+    const q = data.questions.find((qu) => qu.categoryLabel === label);
+    return { label, slug: q?.categorySlug ?? label };
+  }),
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonicalUrl}
+  jsonLd={jsonLd}
+>
+  {/* HERO */}
+  <section class="rr-hero rr-hero--state">
+    <div class="container rr-hero__inner rr-hero__inner--state">
+      <div class="rr-hero__copy rr-hero__copy--state">
+        <p class="rr-eyebrow rr-eyebrow--on-dark rise rise-1">
+          <span class="rr-eyebrow__dot" aria-hidden="true"></span>
+          {data.name} · Real estate exam prep
+        </p>
+        <h1 class="rr-hero__title rise rise-2">
+          {data.name} Real Estate <em>Practice Questions</em>
+        </h1>
+        <p class="rr-hero__subhead rise rise-3">
+          {data.examFacts.questionCount} questions on the {data.name} salesperson exam,
+          {' '}{data.examFacts.passingScore} to pass. Start with 20 free questions
+          below, then get the app for the full state-specific bank.
+        </p>
+        <div class="rr-hero__actions rise rise-4">
+          <a href="#practice" class="rr-btn rr-btn--accent">
+            Jump to practice questions ↓
+          </a>
+          <a href="#get-app" class="rr-btn rr-btn--ghost">
+            Get the app
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {/* EXAM FACTS STRIP */}
+  <Section variant="cool">
+    <ExamFactsStrip facts={data.examFacts} stateName={data.name} />
+  </Section>
+
+  {/* INTRO */}
+  <Section variant="warm" narrow>
+    <div class="state-intro" set:html={data.intro} />
+  </Section>
+
+  {/* 20 PRACTICE QUESTIONS */}
+  <Section id="practice">
+    <header class="practice-header">
+      <p class="rr-eyebrow">
+        <span class="rr-eyebrow__dot" aria-hidden="true"></span>Practice
+      </p>
+      <h2 class="rr-h2">Try 20 free {data.name} questions</h2>
+      <p class="rr-lead">
+        Tap to reveal the correct answer and a plain-English explanation. The
+        questions you miss are the ones that tell you where to focus.
+      </p>
+
+      {filters.length > 1 && (
+        <div class="practice-filters" role="tablist" aria-label="Filter by category">
+          {filters.map((f) => (
+            <button
+              type="button"
+              class:list={['cat-filter', f.slug === 'all' && 'cat-filter--active']}
+              data-cat={f.slug}
+              role="tab"
+              aria-selected={f.slug === 'all'}
+            >
+              {f.label}
+            </button>
+          ))}
+        </div>
+      )}
+    </header>
+
+    <div class="quiz-list">
+      {data.questions.map((q, i) => (
+        <QuizCard question={q} index={i + 1} total={data.questions.length} />
+      ))}
+    </div>
+  </Section>
+
+  {/* CTA BAND */}
+  <Section variant="dark" id="get-app">
+    <div class="state-cta">
+      <h2 class="rr-h2 rr-h2--on-dark rr-h2--centered">
+        Want the rest of {data.name}'s question bank?
+      </h2>
+      <p class="state-cta__body">
+        {data.totalQuestions
+          ? `${data.totalQuestions - 20}+ more ${data.name}-specific questions, plus progress tracking and missed-question mode, are inside the RealReady app.`
+          : `The rest of the ${data.name} question bank, plus progress tracking and missed-question mode, is inside the RealReady app.`}
+      </p>
+      <div class="state-cta__badges">
+        <AppStoreBadges align="center" />
+      </div>
+    </div>
+  </Section>
+
+  {/* STATE-SPECIFIC FAQ */}
+  <Section variant="warm" narrow>
+    <p class="rr-eyebrow">
+      <span class="rr-eyebrow__dot" aria-hidden="true"></span>FAQ
+    </p>
+    <h2 class="rr-h2">{data.name} real estate exam, answered</h2>
+    <FaqAccordion items={data.faq} />
+  </Section>
+
+  {/* OTHER STATES */}
+  <Section variant="cool">
+    <OtherStatesGrid currentCode={data.code} />
+  </Section>
+</BaseLayout>
+
+<style>
+  /* Hero variant for state pages — no phone mockup, copy-only */
+  .rr-hero--state {
+    /* Use the same dark hero styling */
+  }
+  .rr-hero__inner--state {
+    grid-template-columns: 1fr;
+    text-align: left;
+  }
+  .rr-hero__copy--state {
+    max-width: 760px;
+  }
+
+  .state-intro :global(p) {
+    font-size: 1.08rem;
+    line-height: 1.65;
+    color: var(--rr-text-dark, #0f172a);
+    margin: 0 0 1rem;
+  }
+  .state-intro :global(p:last-child) {
+    margin-bottom: 0;
+  }
+
+  .practice-header {
+    max-width: 880px;
+    margin: 0 auto 2rem;
+    text-align: left;
+  }
+  .practice-header .rr-h2 {
+    margin-top: 0.5rem;
+  }
+  .practice-header .rr-lead {
+    margin-bottom: 1.5rem;
+  }
+
+  .practice-filters {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+  .cat-filter {
+    background: var(--rr-surface, #fff);
+    border: 1px solid var(--rr-border, #e2e8f0);
+    color: var(--rr-text-dark, #0f172a);
+    padding: 0.45rem 0.95rem;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 150ms ease;
+    font-family: var(--font-body);
+  }
+  .cat-filter:hover {
+    border-color: var(--rr-teal);
+    color: var(--rr-teal-deep, #1b83a0);
+  }
+  .cat-filter--active {
+    background: var(--rr-navy);
+    border-color: var(--rr-navy);
+    color: #fff;
+  }
+
+  .quiz-list {
+    max-width: 880px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .state-cta {
+    text-align: center;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  .state-cta__body {
+    color: #cdd9e3;
+    font-size: 1.05rem;
+    line-height: 1.55;
+    margin: 1rem 0 1.75rem;
+  }
+  .state-cta__badges {
+    display: flex;
+    justify-content: center;
+  }
+</style>
+
+<script>
+  // Category filter — toggle visibility of QuizCards via the `hidden` attr.
+  document.querySelectorAll<HTMLButtonElement>('.cat-filter').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const cat = btn.dataset.cat ?? 'all';
+      document
+        .querySelectorAll<HTMLElement>('.quiz-card')
+        .forEach((card) => {
+          card.hidden =
+            cat !== 'all' && card.dataset.category !== cat;
+        });
+      document.querySelectorAll<HTMLButtonElement>('.cat-filter').forEach((b) => {
+        const active = b.dataset.cat === cat;
+        b.classList.toggle('cat-filter--active', active);
+        b.setAttribute('aria-selected', String(active));
+      });
+    });
+  });
+</script>

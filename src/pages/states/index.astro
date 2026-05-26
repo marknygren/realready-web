@@ -1,0 +1,185 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Section from '../../components/Section.astro';
+import { getAllStateSummaries } from '../../lib/getStateData';
+
+const summaries = getAllStateSummaries();
+---
+
+<BaseLayout
+  title="Real Estate Practice Tests by State — All 50 States + DC | RealReady"
+  description="Free real estate exam practice for all 50 states plus Washington, D.C. Pick your state to start studying with 20 free questions tailored to the test you're actually taking."
+>
+  {/* Hero */}
+  <section class="rr-hero rr-hero--state">
+    <div class="container rr-hero__inner rr-hero__inner--state">
+      <div class="rr-hero__copy rr-hero__copy--state">
+        <p class="rr-eyebrow rr-eyebrow--on-dark rise rise-1">
+          <span class="rr-eyebrow__dot" aria-hidden="true"></span>
+          State-specific exam prep
+        </p>
+        <h1 class="rr-hero__title rise rise-2">
+          Pick your state to <em>start</em> practicing.
+        </h1>
+        <p class="rr-hero__subhead rise rise-3">
+          RealReady covers all 50 states plus Washington, D.C. Each state has
+          its own bank of practice questions written for that exam — not
+          generic content with a state label slapped on.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <Section variant="warm">
+    <header class="states-intro">
+      <p class="rr-eyebrow">
+        <span class="rr-eyebrow__dot" aria-hidden="true"></span>50 states + DC
+      </p>
+      <h2 class="rr-h2">Find your state.</h2>
+      <p class="rr-lead">
+        We're rolling out full state pages one at a time, with 20 free practice
+        questions plus exam logistics and state-specific FAQs on each. The full
+        bank for every state is available in the app today.
+      </p>
+    </header>
+
+    <ul class="states-grid">
+      {
+        summaries.map((s) => (
+          <li class={`state-card ${s.hasContent ? 'state-card--ready' : 'state-card--soon'}`}>
+            {s.hasContent ? (
+              <a class="state-card__link" href={`/states/${s.slug}/`}>
+                <div class="state-card__head">
+                  <span class="state-card__name">{s.name}</span>
+                  <span class="state-card__code" aria-hidden="true">
+                    {s.code}
+                  </span>
+                </div>
+                <div class="state-card__meta">
+                  <span class="state-card__count">
+                    {s.questionBankCount.toLocaleString()} questions
+                  </span>
+                  <span class="state-card__cta">Practice now →</span>
+                </div>
+              </a>
+            ) : (
+              <div class="state-card__static" aria-label={`${s.name} — coming soon`}>
+                <div class="state-card__head">
+                  <span class="state-card__name">{s.name}</span>
+                  <span class="state-card__code" aria-hidden="true">
+                    {s.code}
+                  </span>
+                </div>
+                <div class="state-card__meta">
+                  <span class="state-card__count">
+                    {s.questionBankCount.toLocaleString()} questions in the app
+                  </span>
+                  <span class="state-card__cta state-card__cta--muted">
+                    Web page coming soon
+                  </span>
+                </div>
+              </div>
+            )}
+          </li>
+        ))
+      }
+    </ul>
+  </Section>
+</BaseLayout>
+
+<style>
+  .rr-hero--state .rr-hero__inner--state {
+    grid-template-columns: 1fr;
+  }
+
+  .states-intro {
+    max-width: 720px;
+    margin: 0 auto 2.5rem;
+    text-align: center;
+  }
+  .states-intro .rr-h2 {
+    margin: 0.5rem 0 1rem;
+  }
+  .states-intro .rr-eyebrow {
+    justify-content: center;
+  }
+
+  .states-grid {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+    max-width: 1080px;
+    margin-inline: auto;
+  }
+
+  .state-card {
+    background: var(--rr-surface, #fff);
+    border: 1px solid var(--rr-border, #e2e8f0);
+    border-radius: 14px;
+    overflow: hidden;
+    transition: border-color 150ms ease, transform 150ms ease,
+      box-shadow 150ms ease;
+  }
+  .state-card--ready:hover {
+    border-color: var(--rr-teal);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(33, 158, 188, 0.12);
+  }
+  .state-card--soon {
+    opacity: 0.78;
+  }
+
+  .state-card__link,
+  .state-card__static {
+    display: block;
+    padding: 1.1rem 1.25rem;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .state-card__head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 0.5rem;
+  }
+  .state-card__name {
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--rr-navy);
+  }
+  .state-card__code {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--rr-text-muted, #64748b);
+    background: var(--rr-bg-cool, #f0f4f8);
+    padding: 0.15rem 0.45rem;
+    border-radius: 4px;
+  }
+
+  .state-card__meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    font-size: 0.82rem;
+  }
+  .state-card__count {
+    color: var(--rr-text-muted, #64748b);
+  }
+  .state-card__cta {
+    color: var(--rr-teal-deep, #1b83a0);
+    font-weight: 600;
+  }
+  .state-card__cta--muted {
+    color: var(--rr-text-muted, #64748b);
+    font-weight: 500;
+    font-style: italic;
+  }
+</style>
