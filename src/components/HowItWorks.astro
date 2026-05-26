@@ -1,0 +1,76 @@
+---
+/**
+ * 3-step "How it works" section with phone mockups on a dark band.
+ * Ported from nextchapterapps RealReady page.
+ */
+import Section from './Section.astro';
+---
+
+<Section variant="dark" id="how-it-works">
+  <p class="rr-eyebrow rr-eyebrow--on-dark">
+    <span class="rr-eyebrow__dot" aria-hidden="true"></span>
+    How it works
+  </p>
+  <h2 class="rr-h2 rr-h2--on-dark">See your progress. Trust your prep.</h2>
+
+  <ol class="rr-steps">
+    <li class="rr-step">
+      <span class="rr-step__num">01</span>
+      <h3 class="rr-step__title">Pick your state.</h3>
+      <div class="rr-step__device" aria-hidden="true">
+        <div class="rr-phone rr-phone--sm">
+          <span class="rr-phone__notch"></span>
+          <div class="rr-phone__screen rr-phone__screen--step-state">
+            <img src="/images/step-state.png" alt="" loading="lazy" />
+          </div>
+        </div>
+      </div>
+      <p class="rr-step__body">
+        Pick from all 50 states plus Washington, D.C. Your questions and study
+        content tailor to the exam you&rsquo;ll actually sit.
+      </p>
+    </li>
+    <li class="rr-step">
+      <span class="rr-step__num">02</span>
+      <h3 class="rr-step__title">Practice, daily.</h3>
+      <div class="rr-step__device" aria-hidden="true">
+        <div class="rr-phone rr-phone--sm">
+          <span class="rr-phone__notch"></span>
+          <div class="rr-phone__screen rr-phone__screen--step-practice">
+            <img src="/images/step-practice.png" alt="" loading="lazy" />
+          </div>
+        </div>
+      </div>
+      <p class="rr-step__body">
+        Mix quick ten-question sessions, focused category drills, and
+        missed-question replays. Every minute of practice counts toward real
+        progress.
+      </p>
+    </li>
+    <li class="rr-step">
+      <span class="rr-step__num">03</span>
+      <h3 class="rr-step__title">Learn the concepts.</h3>
+      <div class="rr-step__device" aria-hidden="true">
+        <div class="rr-phone rr-phone--sm">
+          <span class="rr-phone__notch"></span>
+          <div class="rr-phone__screen rr-phone__screen--step-article">
+            <img src="/images/step-article.png" alt="" loading="lazy" />
+          </div>
+        </div>
+      </div>
+      <p class="rr-step__body">
+        Short articles walk through the <em>why</em> behind each category, so
+        you&rsquo;re not just memorizing answers. You&rsquo;re actually learning
+        the material.
+      </p>
+    </li>
+  </ol>
+
+  <div class="rr-payoff">
+    <h3 class="rr-payoff__title">And you&rsquo;ll know when you&rsquo;re ready.</h3>
+    <p class="rr-payoff__body">
+      Watch your accuracy climb and categories fill in. On exam day, you
+      won&rsquo;t be guessing whether you studied enough.
+    </p>
+  </div>
+</Section>

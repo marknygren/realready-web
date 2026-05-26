@@ -1,5 +1,7 @@
 ---
 import '../styles/global.css';
+import MastHead from '../components/MastHead.astro';
+import SiteFooter from '../components/SiteFooter.astro';
 
 interface Props {
   title: string;
@@ -9,6 +11,11 @@ interface Props {
   // Pre-launch: defaults to true so search engines ignore in-progress pages.
   // Phase 1 (California pilot) flips the site to indexable; see docs/PLAN.md section 4.
   noindex?: boolean;
+  // Suppress masthead + footer (e.g. for a special landing page). Defaults to false.
+  bare?: boolean;
+  // Inline JSON-LD payloads to inject in <head>. Each one becomes its own
+  // <script type="application/ld+json"> tag.
+  jsonLd?: unknown[];
 }
 
 const {
@@ -17,6 +24,8 @@ const {
   canonical,
   ogImage,
   noindex = true,
+  bare = false,
+  jsonLd = [],
 } = Astro.props;
 
 const siteUrl = Astro.site?.toString().replace(/\/$/, '') ?? 'https://realready.app';
@@ -51,8 +60,25 @@ const ogImageUrl = ogImage ?? `${siteUrl}/og-default.png`;
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap"
     />
+
+    {
+      jsonLd.map((payload) => (
+        <script type="application/ld+json" set:html={JSON.stringify(payload)} />
+      ))
+    }
   </head>
-  <body>
-    <slot />
+  <body class="rr-body">
+    <a class="skip-link" href="#main">Skip to content</a>
+    {bare ? (
+      <slot />
+    ) : (
+      <div class="page">
+        <MastHead />
+        <main class="main" id="main">
+          <slot />
+        </main>
+        <SiteFooter />
+      </div>
+    )}
   </body>
 </html>

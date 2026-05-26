@@ -1,0 +1,36 @@
+---
+/**
+ * Closing CTA band — replaces the original waitlist modal with App Store +
+ * Google Play badges.
+ */
+import Section from './Section.astro';
+import AppStoreBadges from './AppStoreBadges.astro';
+
+interface Props {
+  heading?: string;
+  body?: string;
+}
+
+const {
+  heading = 'Exam day is coming. Be ready.',
+  body = 'Download RealReady for iPhone, iPad, or Android. Free to start, with the full state-specific question bank available as a one-time unlock.',
+} = Astro.props;
+---
+
+<Section variant="dark" class="rr-closing">
+  <div class="rr-closing__inner">
+    <h2 class="rr-h2 rr-h2--on-dark rr-h2--centered">{heading}</h2>
+    <p class="rr-closing__body">{body}</p>
+    <div class="rr-closing__badges">
+      <AppStoreBadges align="center" />
+    </div>
+  </div>
+</Section>
+
+<style>
+  :global(.rr-closing__badges) {
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: center;
+  }
+</style>

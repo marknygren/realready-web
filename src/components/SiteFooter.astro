@@ -1,0 +1,91 @@
+---
+import AppStoreBadges from './AppStoreBadges.astro';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer rr-footer">
+  <div class="container rr-footer__inner">
+    <div class="rr-footer__badges">
+      <AppStoreBadges align="center" />
+    </div>
+
+    <nav class="site-footer__nav rr-footer__nav" aria-label="Secondary">
+      <a href="/states/">States</a>
+      <a href="/faq/">FAQ</a>
+      <a href="/privacy/">Privacy</a>
+      <a href="/terms/">Terms</a>
+      <a href="mailto:contact@nextchapterapps.com">Contact</a>
+    </nav>
+
+    <div class="rr-footer__meta">
+      <p class="site-footer__mark rr-footer__mark">
+        &copy; {year} Real<em>Ready</em>. Made by Next Chapter Education LLC.
+      </p>
+      <p class="rr-footer__disclaimer">
+        Not affiliated with any state real estate commission.
+      </p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  :global(.rr-footer) {
+    background: var(--rr-navy);
+    color: #e0e7ef;
+    border-top: 0;
+  }
+  :global(.rr-footer__inner) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    text-align: center;
+  }
+  :global(.rr-footer__badges) {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  :global(.rr-footer__nav) {
+    display: flex;
+    gap: 1.75rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: var(--text-xs);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    font-family: var(--font-body);
+  }
+  :global(.rr-footer__nav a) {
+    color: var(--rr-text-on-dark-muted, #94a3b8);
+    border-bottom: 1px solid transparent;
+    padding-bottom: 2px;
+  }
+  :global(.rr-footer__nav a:hover) {
+    color: #fff;
+    border-bottom-color: var(--rr-orange);
+  }
+  :global(.rr-footer__meta) {
+    text-align: center;
+  }
+  :global(.rr-footer__mark) {
+    font-family: var(--font-display);
+    font-size: 0.9rem;
+    color: #cdd9e3;
+    margin: 0;
+  }
+  :global(.rr-footer__mark em) {
+    font-style: normal;
+    color: var(--rr-orange);
+    font-weight: 700;
+  }
+  :global(.rr-footer__disclaimer) {
+    margin: 0.4rem 0 0;
+    font-size: 0.75rem;
+    color: #94a3b8;
+    font-style: italic;
+  }
+</style>

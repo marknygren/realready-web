@@ -1,0 +1,71 @@
+---
+/**
+ * Apple App Store + Google Play badges, side-by-side.
+ * Self-hosted assets in public/images/.
+ */
+interface Props {
+  align?: 'start' | 'center';
+}
+
+const { align = 'start' } = Astro.props;
+
+const APP_STORE_URL = 'https://apps.apple.com/app/id6767036698';
+const PLAY_STORE_URL =
+  'https://play.google.com/store/apps/details?id=com.realready.app';
+---
+
+<div class:list={['app-badges', `app-badges--${align}`]}>
+  <a
+    href={APP_STORE_URL}
+    class="app-badge"
+    aria-label="Download RealReady on the App Store"
+    rel="noopener"
+  >
+    <img
+      src="/images/app-store-badge.svg"
+      alt="Download on the App Store"
+      width="160"
+      height="54"
+      loading="lazy"
+    />
+  </a>
+  <a
+    href={PLAY_STORE_URL}
+    class="app-badge"
+    aria-label="Get RealReady on Google Play"
+    rel="noopener"
+  >
+    <img
+      src="/images/google-play-badge.png"
+      alt="Get it on Google Play"
+      width="180"
+      height="54"
+      loading="lazy"
+    />
+  </a>
+</div>
+
+<style>
+  .app-badges {
+    display: flex;
+    gap: 0.85rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .app-badges--center {
+    justify-content: center;
+  }
+  .app-badge {
+    display: inline-flex;
+    transition: transform 150ms ease;
+    border: 0;
+  }
+  .app-badge:hover {
+    transform: translateY(-2px);
+  }
+  .app-badge img {
+    height: 54px;
+    width: auto;
+    display: block;
+  }
+</style>

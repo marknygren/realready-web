@@ -1,0 +1,53 @@
+---
+/**
+ * Data-driven FAQ accordion.
+ *
+ * Used on:
+ *  - Homepage (global FAQ items)
+ *  - State pages (state-specific FAQ items, with FAQPage JSON-LD added by the page)
+ *
+ * If `eyebrow` and `heading` are passed the component renders its own section
+ * header. Otherwise it just renders the list — let the page provide chrome.
+ */
+export interface FaqItem {
+  q: string;
+  /** Plain text or pre-sanitized HTML — rendered with set:html. */
+  a: string;
+  /** Whether this item is expanded by default. */
+  open?: boolean;
+}
+
+interface Props {
+  items: FaqItem[];
+  eyebrow?: string;
+  heading?: string;
+  variant?: 'warm' | 'cool' | 'dark';
+}
+
+const { items, eyebrow, heading } = Astro.props;
+---
+
+{
+  (eyebrow || heading) && (
+    <>
+      {eyebrow && (
+        <p class="rr-eyebrow">
+          <span class="rr-eyebrow__dot" aria-hidden="true" />
+          {eyebrow}
+        </p>
+      )}
+      {heading && <h2 class="rr-h2">{heading}</h2>}
+    </>
+  )
+}
+
+<div class="rr-faq">
+  {
+    items.map((item) => (
+      <details class="rr-faq__item" open={item.open}>
+        <summary>{item.q}</summary>
+        <p set:html={item.a} />
+      </details>
+    ))
+  }
+</div>

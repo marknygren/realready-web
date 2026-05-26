@@ -1,0 +1,94 @@
+---
+/**
+ * Top nav — RealReady wordmark on the left, primary nav + "Get the App"
+ * CTA on the right. Replaces the original Next Chapter Education chrome.
+ */
+const pathname = Astro.url.pathname;
+
+const navItems: Array<{ href: string; label: string; match?: string }> = [
+  { href: '/#features', label: 'Features' },
+  { href: '/#how-it-works', label: 'How it works' },
+  { href: '/states/', label: 'States', match: '/states/' },
+  { href: '/faq/', label: 'FAQ', match: '/faq/' },
+];
+
+const isCurrent = (item: { href: string; match?: string }) => {
+  if (item.match) {
+    return pathname === item.match || pathname.startsWith(item.match);
+  }
+  return false;
+};
+
+// On non-homepage routes, anchor links need to point back to /
+const homeAnchor = (href: string) => {
+  if (!href.startsWith('/#')) return href;
+  return pathname === '/' ? href.slice(1) : href;
+};
+---
+
+<header class="masthead rr-masthead">
+  <div class="container masthead__inner">
+    <a href="/" class="wordmark rr-wordmark" aria-label="RealReady, home">
+      Real<em>Ready</em>
+    </a>
+    <nav class="nav rr-nav" aria-label="Primary">
+      {
+        navItems.map((item) => (
+          <a
+            href={homeAnchor(item.href)}
+            aria-current={isCurrent(item) ? 'page' : undefined}
+          >
+            {item.label}
+          </a>
+        ))
+      }
+      <a
+        href={pathname === '/' ? '#get-app' : '/#get-app'}
+        class="rr-btn rr-btn--accent rr-btn--nav"
+      >
+        Get the App
+      </a>
+    </nav>
+  </div>
+</header>
+
+<style>
+  /* RealReady-scoped wordmark — overrides the generic .wordmark em color */
+  :global(.rr-wordmark) {
+    font-size: 1.05rem;
+    letter-spacing: 0.04em;
+    color: var(--rr-navy);
+  }
+  :global(.rr-wordmark em) {
+    color: var(--rr-orange-deep, #fb8500);
+    font-weight: 800;
+  }
+  :global(.rr-wordmark:hover),
+  :global(.rr-wordmark:hover em) {
+    color: var(--rr-teal);
+  }
+
+  /* Compact button sized for the nav line */
+  :global(.rr-btn--nav) {
+    padding: 0.55rem 1.1rem;
+    font-size: var(--text-xs);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    border-radius: 999px;
+  }
+
+  /* Nav alignment + spacing tweaks */
+  :global(.rr-nav) {
+    align-items: center;
+  }
+
+  @media (max-width: 640px) {
+    :global(.rr-nav) {
+      gap: 1rem;
+      font-size: 0.7rem;
+    }
+    :global(.rr-btn--nav) {
+      padding: 0.5rem 0.9rem;
+    }
+  }
+</style>

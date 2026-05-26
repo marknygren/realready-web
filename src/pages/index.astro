@@ -1,37 +1,65 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/Hero.astro';
+import ValueProps from '../components/ValueProps.astro';
+import FeatureGrid from '../components/FeatureGrid.astro';
+import HowItWorks from '../components/HowItWorks.astro';
+import FaqAccordion, { type FaqItem } from '../components/FaqAccordion.astro';
+import ClosingCta from '../components/ClosingCta.astro';
+import Section from '../components/Section.astro';
+
+const homepageFaq: FaqItem[] = [
+  {
+    q: 'Does RealReady cover my state?',
+    a: 'Yes. All 50 states plus Washington, D.C. You’ll get both the national principles and the rules specific to the jurisdiction you’re licensing in.',
+  },
+  {
+    q: 'Is it really free to start?',
+    a: 'Yes. You can practice on the website right away for free. The app is a one-time unlock for the full state-specific question bank, progress tracking, and missed-question mode — no subscriptions.',
+    open: true,
+  },
+  {
+    q: 'What topics are covered?',
+    a: 'The national content is organized into nine focused categories, including Property & Land Use, Contracts, Agency, Finance, and Real Estate Math. State-specific rules are broken down by category inside each state’s content, so every topic is covered where it fits.',
+  },
+  {
+    q: 'Is this the same as my pre-license course?',
+    a: 'No. RealReady is <strong>exam prep</strong>. Use it after (or alongside) your required course to make sure you pass the state exam itself.',
+  },
+  {
+    q: 'Does it work offline?',
+    a: 'Yes. The app caches questions locally so you can study without a signal.',
+  },
+  {
+    q: 'Do you guarantee I’ll pass?',
+    a: 'No one can promise you a pass. But targeted practice and honest feedback on what you’re missing is the closest thing.',
+  },
+];
 ---
 
 <BaseLayout
-  title="RealReady — Real estate exam prep"
-  description="State-specific real estate exam practice. Free questions for all 50 states + DC."
+  title="RealReady — Real estate exam prep for all 50 states"
+  description="Free real estate practice tests for all 50 states + DC. State-targeted questions with honest feedback. Pass your salesperson or broker exam with confidence."
 >
-  <main class="placeholder">
-    <h1>realready.app</h1>
-    <p>Site coming soon.</p>
-  </main>
-</BaseLayout>
+  <Hero />
 
-<style>
-  .placeholder {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-    text-align: center;
-    gap: 1rem;
-    padding: 2rem;
-  }
-  .placeholder h1 {
-    font-family: var(--font-display, "Outfit", sans-serif);
-    font-size: 3rem;
-    color: var(--rr-navy, #023047);
-    margin: 0;
-  }
-  .placeholder p {
-    font-family: var(--font-body, "DM Sans", sans-serif);
-    color: var(--rr-text-muted, #64748b);
-    margin: 0;
-  }
-</style>
+  <ValueProps />
+
+  <div class="container" aria-hidden="true">
+    <div class="rule rule--with-mark rr-rule"></div>
+  </div>
+
+  <FeatureGrid />
+
+  <HowItWorks />
+
+  <Section variant="warm" id="faq" narrow>
+    <p class="rr-eyebrow">
+      <span class="rr-eyebrow__dot" aria-hidden="true"></span>FAQ
+    </p>
+    <h2 class="rr-h2">Common questions</h2>
+    <FaqAccordion items={homepageFaq} />
+  </Section>
+
+  <ClosingCta />
+</BaseLayout>

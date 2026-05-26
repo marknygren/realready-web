@@ -1,0 +1,36 @@
+---
+/**
+ * Section wrapper — handles the rr-section band variants (warm/cool/dark)
+ * and the container width.
+ */
+type Variant = 'default' | 'warm' | 'cool' | 'dark';
+
+interface Props {
+  variant?: Variant;
+  id?: string;
+  narrow?: boolean;
+  class?: string;
+  ariaLabelledby?: string;
+}
+
+const {
+  variant = 'default',
+  id,
+  narrow = false,
+  class: className = '',
+  ariaLabelledby,
+} = Astro.props;
+
+const variantClass = variant === 'default' ? '' : `rr-section--${variant}`;
+const containerClass = narrow ? 'container container--narrow' : 'container';
+---
+
+<section
+  class:list={['rr-section', variantClass, className]}
+  id={id}
+  aria-labelledby={ariaLabelledby}
+>
+  <div class={containerClass}>
+    <slot />
+  </div>
+</section>

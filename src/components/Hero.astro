@@ -1,0 +1,40 @@
+---
+/**
+ * Homepage hero — phone mockup with halos, eyebrow, H1, subhead, CTAs.
+ * Ported from nextchapterapps RealReady page with copy updated for live app.
+ */
+import AppStoreBadges from './AppStoreBadges.astro';
+---
+
+<section class="rr-hero">
+  <div class="container rr-hero__inner">
+    <div class="rr-hero__copy">
+      <p class="rr-eyebrow rr-eyebrow--on-dark rise rise-1">
+        <span class="rr-eyebrow__dot" aria-hidden="true"></span>
+        Real estate exam prep
+      </p>
+      <h1 class="rr-hero__title rise rise-2">
+        Pass your real estate exam with&nbsp;<em>confidence</em>.
+      </h1>
+      <p class="rr-hero__subhead rise rise-3">
+        Free practice for all 50 states. Get the app for the full state-specific
+        question bank, missed-question mode, and progress tracking.
+      </p>
+      <div class="rr-hero__actions rise rise-4" id="get-app">
+        <AppStoreBadges align="start" />
+      </div>
+      <p class="rr-hero__platforms rise rise-5">Now on iPhone, iPad, and Android.</p>
+    </div>
+
+    <div class="rr-hero__device rise rise-5" aria-hidden="true">
+      <div class="rr-halo rr-halo--teal"></div>
+      <div class="rr-halo rr-halo--orange"></div>
+      <div class="rr-phone">
+        <span class="rr-phone__notch"></span>
+        <div class="rr-phone__screen rr-phone__screen--hero">
+          <img src="/images/hero-home.png" alt="" loading="eager" />
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
