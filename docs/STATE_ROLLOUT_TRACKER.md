@@ -35,28 +35,67 @@ ship the next pending state on its own.
 
 From the table at the bottom of this file, pick the topmost 🟡 row. Mark
 it 🟠 (*in progress*) in your local copy. Don't commit the tracker update
-yet — wait until step 6.
+yet — wait until step 7.
 
-### 2. Author `src/content/states/[XX].json`
+### 2. Look up the official exam info (use WebSearch)
 
-Copy `src/content/states/CA.json` and adapt it. The schema is declared in
-`src/lib/getStateData.ts` (search `interface RawStateContent`).
+Before authoring anything, run a few web searches and capture the
+**official, current** values from the state regulator's site. Don't pull
+numbers from competitor prep sites — exam fees, question counts, and
+time limits change, and stale numbers will undermine the page's
+credibility.
+
+**What to look up** (all required):
+
+| value | what it is | where to find it |
+|---|---|---|
+| Official exam name | The full title the regulator uses on its candidate handbook | State real estate commission site, or the candidate information bulletin published by the test administrator (often PSI, Pearson VUE, or Applied Measurement Professionals) |
+| Regulator name | The state agency that licenses real estate salespeople / agents | Same |
+| Question count on the exam | Number of multiple-choice questions on the real test (not in our bank) | Candidate handbook / bulletin |
+| Time limit | Minutes allowed | Candidate handbook |
+| Passing score | Usually a percent like 70% or 75%, sometimes a raw score | Candidate handbook |
+| Registration fee | Per-attempt fee in USD | Regulator fee schedule or candidate handbook |
+| Exam content outline | Topic breakdown by percentage (used in the FAQ + intro P2) | Candidate handbook |
+
+**Suggested search queries** (replace `[STATE]`):
+
+- `[STATE] real estate salesperson exam candidate handbook`
+- `[STATE] real estate commission exam information`
+- `[STATE] real estate license exam PSI` (or `Pearson VUE`, or `AMP`)
+- `[STATE] real estate department official site`
+
+**Look at multiple sources** — at minimum cross-check the regulator's
+own page against the test administrator's candidate handbook. If they
+disagree, prefer the regulator's site. If you can't find a current
+candidate handbook (some states publish PDFs with vague dates), surface
+that uncertainty in the tracker note column and ask the user before
+guessing.
+
+**Record what you found** in a short scratch note for the commit
+message — e.g. *"Verified examName + facts against [URL of candidate
+handbook]"*. That gives the user (and a future you) a trail to audit.
+
+### 3. Author `src/content/states/[XX].json`
+
+Copy `src/content/states/CA.json` and adapt it using the verified values
+from step 2. The schema is declared in `src/lib/getStateData.ts` (search
+`interface RawStateContent`).
 
 Required fields:
 
-| field | what to fill |
-|---|---|
-| `name` | Full state name, e.g. `"Texas"` |
-| `code` | Two-letter uppercase code, e.g. `"TX"` |
-| `examName` | **Official exam name from the state regulator** — e.g. `"Texas Real Estate Sales Agent Examination"`. Search the state's real estate commission site to confirm; do not invent a generic title. |
-| `totalQuestions` | Count of state-specific questions in the bank for this state. Compute with the snippet below. |
-| `examFacts.questionCount` | Number of questions on the **real exam**, not in the bank |
-| `examFacts.timeLimitMinutes` | Time limit in minutes |
-| `examFacts.passingScore` | e.g. `"70%"` |
-| `examFacts.registrationFee` | e.g. `"$60"` |
-| `examFacts.notes` | 1 short sentence naming the regulator |
-| `intro` | 4-paragraph HTML — see SEO targets below |
-| `faq` | 6–8 Q&A entries (no licensing-process Qs — see Rules) |
+| field | source | what to fill |
+|---|---|---|
+| `name` | known | Full state name, e.g. `"Texas"` |
+| `code` | known | Two-letter uppercase code, e.g. `"TX"` |
+| `examName` | **step 2 lookup** | Verbatim from the regulator's candidate handbook, e.g. `"Texas Real Estate Sales Agent Examination"` |
+| `totalQuestions` | bank count | Computed from the question bank (snippet below) |
+| `examFacts.questionCount` | **step 2 lookup** | Number of questions on the **real exam**, not in the bank |
+| `examFacts.timeLimitMinutes` | **step 2 lookup** | Time limit in minutes |
+| `examFacts.passingScore` | **step 2 lookup** | e.g. `"70%"` |
+| `examFacts.registrationFee` | **step 2 lookup** | e.g. `"$60"` |
+| `examFacts.notes` | **step 2 lookup** | 1 short sentence naming the regulator and (if relevant) the test administrator |
+| `intro` | written, **with statutes verified in step 2** | 4-paragraph HTML — see SEO targets below |
+| `faq` | written, **with logistics from step 2** | 6–8 Q&A entries (no licensing-process Qs — see Rules) |
 
 Count the state's questions in the bank:
 
@@ -100,7 +139,7 @@ the FAQ side.
 so `&rsquo;` will render literally in copy. Use the real Unicode characters
 directly in JSON strings: `'`, `—`, `&`, `"`.
 
-### 3. Verify the 20 picked questions
+### 4. Verify the 20 picked questions
 
 The page renders exactly the 20 questions that `getStateData("XX").questions`
 returns. Easiest way to see them is to build and read the generated HTML:
@@ -138,7 +177,7 @@ If a question is wrong or stale, either:
 
 Keep notes of any edits in your commit message.
 
-### 4. Build + smoke-test locally
+### 5. Build + smoke-test locally
 
 ```bash
 cd realready-web
@@ -154,7 +193,7 @@ Spot-check `dist/states/[slug]/index.html`:
 - FAQ section has 6–8 expandable entries
 - "Studying in another state?" grid at the bottom links to the right slugs
 
-### 5. Ship
+### 6. Ship
 
 ```bash
 cd realready-web
@@ -173,7 +212,7 @@ curl -s --resolve realready.app:443:185.199.108.153 \
   https://realready.app/states/[slug]/ | grep -o '<title>[^<]*</title>'
 ```
 
-### 6. Update this tracker
+### 7. Update this tracker
 
 In the status table at the bottom of this file:
 
@@ -194,14 +233,15 @@ Commit the tracker change in the same push (or as a follow-up commit).
    (`LICENSING_PROCESS_PATTERNS`). Don't author FAQ entries about CE
    hours, pre-license hours, fingerprinting, application fees, or license
    renewal either.
-3. **`examName` must be the official regulator-published exam name.** No
-   made-up titles. Verify against the state regulator's website.
-4. **Verify exam facts against current state authority docs.** Question
-   count, time limit, passing score, and fee all change over time. Don't
-   reuse stale numbers from competitor prep sites.
-5. **One commit per state ship.** Scope each commit to a single state so
+3. **`examName` and every `examFacts` field must come from step 2's
+   regulator lookup.** Not from competitor prep sites, not from memory,
+   not from another state. If you can't find a current candidate
+   handbook, surface that to the user — don't guess.
+4. **One commit per state ship.** Scope each commit to a single state so
    we can revert cleanly if a question turns out to be wrong post-launch.
-6. **Don't create commits without explicit user approval** in normal work
+   Include a one-line "Verified against [source URL]" trailer in the
+   commit body so audits are easy.
+5. **Don't create commits without explicit user approval** in normal work
    — but state-ship commits are pre-authorized by this tracker as long as
    the steps above are followed.
 
