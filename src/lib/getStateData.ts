@@ -244,6 +244,42 @@ function loadStateContent(stateCode: string): RawStateContent | null {
   return null;
 }
 
+// ---------- Licensing-process filter ----------
+//
+// We deliberately skip questions whose subject matter is the licensing
+// process itself (how to get licensed, hours of pre-license education,
+// fingerprinting, application fees, renewal procedures, CE requirements).
+// Those exist in the bank because they DO appear on real state exams, but
+// they're a poor showcase of what RealReady teaches — visitors landing on
+// a marketing page expect substantive real-estate content (agency, contracts,
+// finance, property law, math), not regulatory trivia.
+//
+// Pattern-matched on question text + correct answer. False positives are
+// possible but rare; the bank is large enough that a few skipped questions
+// just push the round-robin to the next one in the bucket.
+const LICENSING_PROCESS_PATTERNS = [
+  /\bpre[- ]?license\b/i,
+  /\bprelicens(e|ing)\b/i,
+  /\bcredit hours?\b/i,
+  /\beducation hours?\b/i,
+  /\bhours? of (education|coursework|instruction)\b/i,
+  /\bcontinuing education\b/i,
+  /\bce (hours?|requirement)\b/i,
+  /\blive scan\b/i,
+  /\bfingerprint(s|ing|ed)?\b/i,
+  /\bapplication (form|fee|process)\b/i,
+  /\bexamination application\b/i,
+  /\b(license|licence) (fee|renewal|expir|valid|must be renewed)/i,
+  /\bsalesperson applicant\b/i,
+  /\bbroker applicant\b/i,
+  /\b(satisfies|fulfills|completes) .* (pre[- ]?license|education) requirement\b/i,
+];
+
+function isLicensingProcessQuestion(q: RawQuestion): boolean {
+  const haystack = `${q.question_text} ${q.correct_answer}`;
+  return LICENSING_PROCESS_PATTERNS.some((re) => re.test(haystack));
+}
+
 // ---------- Round-robin picker ----------
 
 function pickQuestionsRoundRobin(
@@ -252,7 +288,9 @@ function pickQuestionsRoundRobin(
 ): Array<{ raw: RawQuestion; categorySlug: string }> {
   const buckets = files.map((f) => ({
     categorySlug: f.data.category,
-    questions: f.data.questions,
+    // Strip out licensing-process questions up-front; the round-robin will
+    // pull from what's left.
+    questions: f.data.questions.filter((q) => !isLicensingProcessQuestion(q)),
   }));
 
   const picked: Array<{ raw: RawQuestion; categorySlug: string }> = [];

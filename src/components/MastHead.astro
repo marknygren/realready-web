@@ -53,15 +53,22 @@ const homeAnchor = (href: string) => {
 </header>
 
 <style>
-  /* RealReady-scoped wordmark — overrides the generic .wordmark em color */
+  /* RealReady-scoped wordmark — single-word brand, no uppercase, tight kerning.
+     Overrides .wordmark's uppercase + 0.02em letter-spacing inherited from
+     global.css, which was making the Real/Ready split read as two words. */
   :global(.rr-wordmark) {
-    font-size: 1.05rem;
-    letter-spacing: 0.04em;
+    font-size: 1.25rem;
+    font-weight: 700;
+    letter-spacing: -0.015em;
+    text-transform: none;
     color: var(--rr-navy);
+    gap: 0;
   }
   :global(.rr-wordmark em) {
     color: var(--rr-orange-deep, #fb8500);
-    font-weight: 800;
+    font-weight: 700;
+    font-style: normal;
+    margin-left: -0.02em;
   }
   :global(.rr-wordmark:hover),
   :global(.rr-wordmark:hover em) {

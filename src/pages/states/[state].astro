@@ -102,18 +102,14 @@ const filters = [
           {data.name} Real Estate <em>Practice Test</em>
         </h1>
         <p class="rr-hero__subhead rise rise-3">
-          20 free practice questions and answers for the {data.examName},
-          drawn from RealReady's bank of <strong>{totalBankPretty}+ questions</strong>{' '}
-          covering both national real estate principles and {data.name}-specific
-          law. Start free below.
+          Practice {data.name} real estate questions free below. RealReady
+          has <span class="rr-hero__highlight">{totalBankPretty} questions</span>{' '}
+          in the bank covering both national real estate principles and{' '}
+          {data.name} state law. Pay $17.99 once and own it forever. No
+          subscription like the other prep services.
         </p>
         <div class="rr-hero__actions rise rise-4">
-          <a href="#practice" class="rr-btn rr-btn--accent">
-            Jump to practice questions ↓
-          </a>
-          <a href="#get-app" class="rr-btn rr-btn--ghost">
-            Get the app
-          </a>
+          <AppStoreBadges align="start" />
         </div>
       </div>
     </div>
@@ -213,6 +209,21 @@ const filters = [
   }
   .rr-hero__copy--state {
     max-width: 760px;
+  }
+
+  /* The bank-size highlight inside the hero subhead. We need this scoped
+     class because the global `strong` rule sets color #0a0a0a which is
+     unreadable against the navy hero background. */
+  .rr-hero__subhead :global(.rr-hero__highlight) {
+    color: var(--rr-orange, #ffb703);
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  /* Hero action row on state pages — left-align store badges, give them
+     a bit more breathing room than the homepage. */
+  .rr-hero--state .rr-hero__actions {
+    margin-top: 1.5rem;
   }
 
   .state-intro :global(p) {
