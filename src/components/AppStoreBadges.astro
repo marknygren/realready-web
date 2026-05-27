@@ -17,35 +17,41 @@ const PLAY_STORE_URL =
 <div class:list={['app-badges', `app-badges--${align}`]}>
   <a
     href={APP_STORE_URL}
-    class="app-badge"
+    class="app-badge app-badge--apple"
     aria-label="Download RealReady on the App Store"
     rel="noopener"
   >
     <img
       src="/images/app-store-badge.svg"
       alt="Download on the App Store"
-      width="160"
-      height="54"
+      width="180"
+      height="60"
       loading="lazy"
     />
   </a>
   <a
     href={PLAY_STORE_URL}
-    class="app-badge"
+    class="app-badge app-badge--google"
     aria-label="Get RealReady on Google Play"
     rel="noopener"
   >
     <img
       src="/images/google-play-badge.png"
       alt="Get it on Google Play"
-      width="180"
-      height="54"
+      width="201"
+      height="60"
       loading="lazy"
     />
   </a>
 </div>
 
 <style>
+  /*
+   * Apple SVG aspect: 119.66 × 40 (≈3:1)
+   * Google PNG aspect (after trimming transparent padding): 564 × 168 (≈3.36:1)
+   * At a shared 60px display height the two render at very similar widths
+   * (~180 vs ~201), so they read as visually balanced side-by-side.
+   */
   .app-badges {
     display: flex;
     gap: 0.85rem;
@@ -64,7 +70,7 @@ const PLAY_STORE_URL =
     transform: translateY(-2px);
   }
   .app-badge img {
-    height: 54px;
+    height: 60px;
     width: auto;
     display: block;
   }

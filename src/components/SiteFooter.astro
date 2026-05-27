@@ -1,15 +1,9 @@
 ---
-import AppStoreBadges from './AppStoreBadges.astro';
-
 const year = new Date().getFullYear();
 ---
 
 <footer class="site-footer rr-footer">
   <div class="container rr-footer__inner">
-    <div class="rr-footer__badges">
-      <AppStoreBadges align="center" />
-    </div>
-
     <nav class="site-footer__nav rr-footer__nav" aria-label="Secondary">
       <a href="/states/">States</a>
       <a href="/faq/">FAQ</a>
@@ -39,15 +33,10 @@ const year = new Date().getFullYear();
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1.5rem;
-    padding-top: 3rem;
-    padding-bottom: 3rem;
+    gap: 1.25rem;
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
     text-align: center;
-  }
-  :global(.rr-footer__badges) {
-    width: 100%;
-    display: flex;
-    justify-content: center;
   }
   :global(.rr-footer__nav) {
     display: flex;

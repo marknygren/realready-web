@@ -24,6 +24,14 @@ const homeAnchor = (href: string) => {
   if (!href.startsWith('/#')) return href;
   return pathname === '/' ? href.slice(1) : href;
 };
+
+// "Get the App" anchor target:
+//   /                       → #get-app (the closing CTA on the homepage)
+//   /states/[slug]/         → #get-app (the bottom CTA band on the state page)
+//   anything else           → /#get-app (jump to homepage closing CTA)
+const isStatePage = /^\/states\/[^/]+\/?$/.test(pathname);
+const isHomepage = pathname === '/';
+const appHref = isStatePage || isHomepage ? '#get-app' : '/#get-app';
 ---
 
 <header class="masthead rr-masthead">
@@ -42,11 +50,8 @@ const homeAnchor = (href: string) => {
           </a>
         ))
       }
-      <a
-        href={pathname === '/' ? '#get-app' : '/#get-app'}
-        class="rr-btn rr-btn--accent rr-btn--nav"
-      >
-        Get the App
+      <a href={appHref} class="rr-btn rr-btn--accent rr-btn--nav">
+        Get the app
       </a>
     </nav>
   </div>
@@ -75,13 +80,22 @@ const homeAnchor = (href: string) => {
     color: var(--rr-teal);
   }
 
-  /* Compact button sized for the nav line */
+  /* Compact pill sized for the nav line. Type metrics match the nav links
+     (.rr-nav) so the button sits cleanly inline with the other items. */
   :global(.rr-btn--nav) {
-    padding: 0.55rem 1.1rem;
+    padding: 0.5rem 1.05rem;
     font-size: var(--text-xs);
-    letter-spacing: 0.12em;
+    font-weight: 700;
+    letter-spacing: 0.14em;
     text-transform: uppercase;
     border-radius: 999px;
+    line-height: 1;
+    /* Quieter than the standalone .rr-btn--accent shadow */
+    box-shadow: 0 2px 5px rgba(255, 183, 3, 0.22);
+  }
+  :global(.rr-btn--nav:hover) {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 9px rgba(255, 183, 3, 0.32);
   }
 
   /* Nav alignment + spacing tweaks */
@@ -95,7 +109,8 @@ const homeAnchor = (href: string) => {
       font-size: 0.7rem;
     }
     :global(.rr-btn--nav) {
-      padding: 0.5rem 0.9rem;
+      padding: 0.45rem 0.9rem;
+      letter-spacing: 0.12em;
     }
   }
 </style>

@@ -32,7 +32,7 @@ const entries = Object.entries(ALL_STATE_NAMES_BY_CODE)
   <ul class="other-states__grid">
     {
       entries.map((s) => (
-        <li>
+        <li class="other-states__cell">
           <a class="other-states__chip" href={s.href}>
             <span class="other-states__chip-name">{s.name}</span>
             <span class="other-states__chip-code" aria-hidden="true">
@@ -46,6 +46,10 @@ const entries = Object.entries(ALL_STATE_NAMES_BY_CODE)
 </div>
 
 <style>
+  .other-states {
+    max-width: 920px;
+    margin-inline: auto;
+  }
   .other-states__heading {
     font-family: var(--font-display);
     font-size: 1.5rem;
@@ -53,19 +57,29 @@ const entries = Object.entries(ALL_STATE_NAMES_BY_CODE)
     margin: 0 0 1.5rem;
     text-align: center;
   }
+  /* Flexbox (not grid) so the final partial row centers under the others
+     instead of leaving 1-2 chips lonely against the left edge. */
   .other-states__grid {
     list-style: none;
     padding: 0;
     margin: 0;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.55rem;
+  }
+  .other-states__cell {
+    /* Fixed-ish chip footprint — narrow enough that ~6 fit per row at
+       desktop widths, wide enough for full state names without wrap. */
+    flex: 0 1 168px;
+    min-width: 140px;
   }
   .other-states__chip {
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 0.5rem;
+    width: 100%;
     padding: 0.6rem 0.85rem;
     background: var(--rr-surface, #fff);
     border: 1px solid var(--rr-border, #e2e8f0);
