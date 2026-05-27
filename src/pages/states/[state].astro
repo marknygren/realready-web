@@ -28,8 +28,18 @@ interface Props {
 const { code } = Astro.props;
 const data: StateData = getStateData(code);
 
-const title = `${data.name} Real Estate Practice Questions — Free Practice Test | RealReady`;
-const description = `Free practice questions for the ${data.name} real estate salesperson exam. ${data.examFacts.questionCount} questions, ${data.examFacts.timeLimitMinutes >= 60 ? `${Math.floor(data.examFacts.timeLimitMinutes / 60)}h${data.examFacts.timeLimitMinutes % 60 ? ` ${data.examFacts.timeLimitMinutes % 60}m` : ''}` : `${data.examFacts.timeLimitMinutes}m`}, ${data.examFacts.passingScore} to pass. State-targeted content. Pass with confidence.`;
+const totalBank = data.totalQuestionsAvailable;
+const totalBankPretty = totalBank.toLocaleString();
+const extraInApp = (totalBank - 20).toLocaleString();
+
+// SEO-tuned title: leads with "Free", hits the primary keyword "Practice Test",
+// stays under 60 chars for SERP.
+const title = `Free ${data.name} Real Estate Practice Test | RealReady`;
+
+// Meta description weaves "Practice Test", "Questions and Answers", the state
+// exam name, and the total bank size — all things actual searchers type.
+const description = `20 free ${data.name} real estate practice test questions and answers. State-targeted prep for the ${data.examName} — ${totalBankPretty}+ questions in the bank. Pass with confidence.`;
+
 const canonicalUrl = `https://realready.app/states/${data.slug}/`;
 
 // JSON-LD: one Question per practice question + a FAQPage for the state-specific FAQ.
@@ -89,12 +99,13 @@ const filters = [
           {data.name} · Real estate exam prep
         </p>
         <h1 class="rr-hero__title rise rise-2">
-          {data.name} Real Estate <em>Practice Questions</em>
+          {data.name} Real Estate <em>Practice Test</em>
         </h1>
         <p class="rr-hero__subhead rise rise-3">
-          {data.examFacts.questionCount} questions on the {data.name} salesperson exam,
-          {' '}{data.examFacts.passingScore} to pass. Start with 20 free questions
-          below, then get the app for the full state-specific bank.
+          20 free practice questions and answers for the {data.examName},
+          drawn from RealReady's bank of <strong>{totalBankPretty}+ questions</strong>{' '}
+          covering both national real estate principles and {data.name}-specific
+          law. Start free below.
         </p>
         <div class="rr-hero__actions rise rise-4">
           <a href="#practice" class="rr-btn rr-btn--accent">
@@ -124,10 +135,14 @@ const filters = [
       <p class="rr-eyebrow">
         <span class="rr-eyebrow__dot" aria-hidden="true"></span>Practice
       </p>
-      <h2 class="rr-h2">Try 20 free {data.name} questions</h2>
+      <h2 class="rr-h2">
+        20 {data.name} Real Estate Test Questions &amp; Answers
+      </h2>
       <p class="rr-lead">
-        Tap to reveal the correct answer and a plain-English explanation. The
-        questions you miss are the ones that tell you where to focus.
+        Use this like a free {data.name} real estate practice test: read the
+        question, commit to an answer, then tap to reveal the correct answer
+        and a plain-English explanation. The ones you miss tell you where to
+        focus next.
       </p>
 
       {filters.length > 1 && (
@@ -158,12 +173,13 @@ const filters = [
   <Section variant="dark" id="get-app">
     <div class="state-cta">
       <h2 class="rr-h2 rr-h2--on-dark rr-h2--centered">
-        Want the rest of {data.name}'s question bank?
+        Want the rest of {data.name}'s {totalBankPretty}-question bank?
       </h2>
       <p class="state-cta__body">
-        {data.totalQuestions
-          ? `${data.totalQuestions - 20}+ more ${data.name}-specific questions, plus progress tracking and missed-question mode, are inside the RealReady app.`
-          : `The rest of the ${data.name} question bank, plus progress tracking and missed-question mode, is inside the RealReady app.`}
+        {extraInApp}+ more questions covering both national real estate
+        principles and {data.name}-specific law are inside the RealReady app,
+        with progress tracking and missed-question mode to drill what
+        you're weak on.
       </p>
       <div class="state-cta__badges">
         <AppStoreBadges align="center" />
@@ -176,7 +192,7 @@ const filters = [
     <p class="rr-eyebrow">
       <span class="rr-eyebrow__dot" aria-hidden="true"></span>FAQ
     </p>
-    <h2 class="rr-h2">{data.name} real estate exam, answered</h2>
+    <h2 class="rr-h2">{data.name} real estate exam — questions answered</h2>
     <FaqAccordion items={data.faq} />
   </Section>
 

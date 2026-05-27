@@ -55,8 +55,15 @@ interface RawStateContent {
   name: string;
   code: string;
   /**
-   * Optional: full national+state question count for marketing copy.
-   * If absent we just don't surface it.
+   * Official name of the licensing exam in this state — used in copy.
+   * Examples: "California Real Estate Salesperson Examination",
+   * "Texas Real Estate Sales Apprentice Education (SAE) Exam".
+   */
+  examName: string;
+  /**
+   * State-specific question count (the count of questions in
+   * src/content/questions/[STATE]-*.json synced from the mobile app).
+   * Optional — if absent we'll compute it at build time from the JSONs.
    */
   totalQuestions?: number;
   examFacts: {
@@ -108,7 +115,14 @@ export interface StateData {
   code: string;
   /** URL-safe slug, e.g. "california" or "new-york". */
   slug: string;
-  totalQuestions?: number;
+  /** Official licensing exam name, e.g. "California Real Estate Salesperson Examination". */
+  examName: string;
+  /** Count of state-specific questions in the mobile-app bank. */
+  stateQuestionCount: number;
+  /** Count of national/shared questions every user gets. */
+  nationalQuestionCount: number;
+  /** Total questions a user studying for this state has access to (national + state). */
+  totalQuestionsAvailable: number;
   examFacts: ExamFacts;
   intro: string;
   faq: FaqEntry[];
@@ -195,6 +209,28 @@ function questionFilesForState(stateCode: string): IndexedFiles[] {
   // Sort by file number so round-robin is deterministic.
   entries.sort((a, b) => a.filename.localeCompare(b.filename));
   return entries;
+}
+
+/**
+ * Count every question in the national bank — the N-NN.json files shared
+ * across all states. Memoized via const at module init.
+ */
+const NATIONAL_QUESTION_COUNT: number = (() => {
+  let total = 0;
+  for (const [path, data] of Object.entries(questionModules)) {
+    if (!data) continue;
+    if (/\/N-\d+\.json$/.test(path)) {
+      total += data.questions.length;
+    }
+  }
+  return total;
+})();
+
+function countStateQuestions(stateCode: string): number {
+  return questionFilesForState(stateCode).reduce(
+    (sum, f) => sum + f.data.questions.length,
+    0,
+  );
 }
 
 function loadStateContent(stateCode: string): RawStateContent | null {
@@ -298,11 +334,23 @@ export function getStateData(stateCode: string): StateData {
     new Set(questions.map((q) => q.categoryLabel)),
   );
 
+  const stateQuestionCount =
+    stateContent.totalQuestions ?? countStateQuestions(code);
+
+  if (!stateContent.examName) {
+    throw new Error(
+      `getStateData(${code}): src/content/states/${code}.json is missing examName.`,
+    );
+  }
+
   return {
     name: stateContent.name,
     code: stateContent.code,
     slug: stateNameToSlug(stateContent.name),
-    totalQuestions: stateContent.totalQuestions,
+    examName: stateContent.examName,
+    stateQuestionCount,
+    nationalQuestionCount: NATIONAL_QUESTION_COUNT,
+    totalQuestionsAvailable: stateQuestionCount + NATIONAL_QUESTION_COUNT,
     examFacts: stateContent.examFacts,
     intro: stateContent.intro,
     faq: stateContent.faq,

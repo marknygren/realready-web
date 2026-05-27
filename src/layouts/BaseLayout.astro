@@ -1,4 +1,11 @@
 ---
+// Self-host fonts via @fontsource-variable. Replaces the external Google
+// Fonts CSS link — eliminates a render-blocking third-party request and
+// lets Astro bundle the woff2 files into _astro/ with the standard
+// long-cache headers, which addresses Lighthouse's render-blocking +
+// efficient-cache warnings.
+import '@fontsource-variable/outfit';
+import '@fontsource-variable/dm-sans';
 import '../styles/global.css';
 import MastHead from '../components/MastHead.astro';
 import SiteFooter from '../components/SiteFooter.astro';
@@ -17,6 +24,10 @@ interface Props {
   // <script type="application/ld+json"> tag.
   jsonLd?: unknown[];
 }
+
+// Google Search Console verification token. Set via env var so it can be
+// updated without touching code once the user signs up at search.google.com.
+const GSC_VERIFICATION = import.meta.env.PUBLIC_GSC_VERIFICATION ?? '';
 
 const {
   title,
@@ -53,13 +64,13 @@ const ogImageUrl = ogImage ?? `${siteUrl}/og-default.png`;
     <meta name="twitter:card" content="summary_large_image" />
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400&display=swap"
-    />
+    {
+      GSC_VERIFICATION && (
+        <meta name="google-site-verification" content={GSC_VERIFICATION} />
+      )
+    }
 
     {
       jsonLd.map((payload) => (
