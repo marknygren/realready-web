@@ -22,9 +22,9 @@ const summaries = getAllStateSummaries();
           Pick your state to <em>start</em> practicing.
         </h1>
         <p class="rr-hero__subhead rise rise-3">
-          RealReady covers all 50 states plus Washington, D.C. Each state has
-          its own bank of practice questions written for that exam — not
-          generic content with a state label slapped on.
+          RealReady covers all 50 states plus Washington, D.C. Every state has
+          its own question bank written for that exam. No generic content with
+          a state label slapped on.
         </p>
       </div>
     </div>
@@ -96,9 +96,20 @@ const summaries = getAllStateSummaries();
     max-width: 720px;
     margin: 0 auto 2.5rem;
     text-align: center;
+    /* Use flex so the eyebrow / heading / lead each center as a block.
+       The .rr-h2 and .rr-lead carry their own max-width (22ch / 44ch)
+       which would otherwise sit flush-left inside this centered parent. */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
   .states-intro .rr-h2 {
     margin: 0.5rem 0 1rem;
+    max-width: 28ch;
+  }
+  .states-intro .rr-lead {
+    margin-left: auto;
+    margin-right: auto;
   }
   .states-intro .rr-eyebrow {
     justify-content: center;

@@ -102,26 +102,37 @@ const filters = [
           {data.name} Real Estate <em>Practice Test</em>
         </h1>
         <p class="rr-hero__subhead rise rise-3">
-          Practice {data.name} real estate questions free below. RealReady
+          Start practicing free below. RealReady's {data.name} question bank
           has <span class="rr-hero__highlight">{totalBankPretty} questions</span>{' '}
-          in the bank covering both national real estate principles and{' '}
-          {data.name} state law. Pay $17.99 once and own it forever. No
-          subscription like the other prep services.
+          covering both national real estate principles and {data.name} state
+          law. Pay $17.99 once to unlock the whole bank, plus progress tracking
+          and missed-question mode. Yours forever. No subscription.
         </p>
         <div class="rr-hero__actions rise rise-4">
           <AppStoreBadges align="start" />
+        </div>
+      </div>
+
+      <div class="rr-hero__device rise rise-5" aria-hidden="true">
+        <div class="rr-halo rr-halo--teal"></div>
+        <div class="rr-halo rr-halo--orange"></div>
+        <div class="rr-phone">
+          <span class="rr-phone__notch"></span>
+          <div class="rr-phone__screen rr-phone__screen--hero">
+            <img src="/images/hero-home.png" alt="" loading="eager" />
+          </div>
         </div>
       </div>
     </div>
   </section>
 
   {/* EXAM FACTS STRIP */}
-  <Section variant="cool">
+  <Section variant="cool" class="rr-section--tight-bottom">
     <ExamFactsStrip facts={data.examFacts} stateName={data.name} />
   </Section>
 
   {/* INTRO */}
-  <Section variant="warm" narrow>
+  <Section variant="warm" narrow class="rr-section--tight-top">
     <div class="state-intro" set:html={data.intro} />
   </Section>
 
@@ -199,16 +210,29 @@ const filters = [
 </BaseLayout>
 
 <style>
-  /* Hero variant for state pages — no phone mockup, copy-only */
+  /* Hero variant for state pages — same two-column layout as the homepage
+     so the phone mockup can sit on the right next to the copy. The default
+     .rr-hero__inner grid (1fr → 1.15fr/0.85fr at 52rem+) is what we want;
+     we just constrain the copy column width slightly. */
   .rr-hero--state {
     /* Use the same dark hero styling */
   }
   .rr-hero__inner--state {
-    grid-template-columns: 1fr;
     text-align: left;
   }
   .rr-hero__copy--state {
-    max-width: 760px;
+    max-width: 640px;
+  }
+
+  /* Compact-padding utility for adjacent sections — used to collapse the
+     gap between the exam-facts strip (cool) and the intro paragraphs
+     (warm/narrow). Both default to clamp(3rem, 7vw, 5.5rem) padding which
+     visually doubles up; this halves it on the inside edge. */
+  :global(.rr-section--tight-bottom) {
+    padding-bottom: clamp(1.25rem, 2.5vw, 2rem);
+  }
+  :global(.rr-section--tight-top) {
+    padding-top: clamp(1.25rem, 2.5vw, 2rem);
   }
 
   /* The bank-size highlight inside the hero subhead. We need this scoped

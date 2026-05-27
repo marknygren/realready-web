@@ -56,7 +56,10 @@ const PLAY_STORE_URL =
     display: flex;
     gap: 0.85rem;
     align-items: center;
-    flex-wrap: wrap;
+    /* No wrap — we shrink instead so the two badges stay on one row even on
+       narrow phones. The Apple SVG + Google PNG are aspect-fixed so they
+       scale cleanly via height. */
+    flex-wrap: nowrap;
   }
   .app-badges--center {
     justify-content: center;
@@ -65,6 +68,7 @@ const PLAY_STORE_URL =
     display: inline-flex;
     transition: transform 150ms ease;
     border: 0;
+    flex: 0 0 auto;
   }
   .app-badge:hover {
     transform: translateY(-2px);
@@ -73,5 +77,21 @@ const PLAY_STORE_URL =
     height: 60px;
     width: auto;
     display: block;
+  }
+
+  /* Mobile: shrink height + tighten gap so badges stay side-by-side
+     inside a 320–375px viewport with the container's padding. */
+  @media (max-width: 560px) {
+    .app-badges {
+      gap: 0.55rem;
+    }
+    .app-badge img {
+      height: 44px;
+    }
+  }
+  @media (max-width: 380px) {
+    .app-badge img {
+      height: 40px;
+    }
   }
 </style>
