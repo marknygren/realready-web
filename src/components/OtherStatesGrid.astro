@@ -47,7 +47,7 @@ const entries = Object.entries(ALL_STATE_NAMES_BY_CODE)
 
 <style>
   .other-states {
-    max-width: 920px;
+    max-width: 760px;
     margin-inline: auto;
   }
   .other-states__heading {
@@ -57,22 +57,22 @@ const entries = Object.entries(ALL_STATE_NAMES_BY_CODE)
     margin: 0 0 1.5rem;
     text-align: center;
   }
-  /* Flexbox (not grid) so the final partial row centers under the others
-     instead of leaving 1-2 chips lonely against the left edge. */
+  /* CSS Grid with fixed-width tracks (NOT minmax) so columns stay 168px
+     instead of stretching to fill. justify-content: center then centers
+     the entire track block within the wrapper — which, combined with the
+     760px wrapper cap, gives an obviously-centered chip block under the
+     heading instead of one that fills edge-to-edge and reads as left-aligned. */
   .other-states__grid {
     list-style: none;
     padding: 0;
     margin: 0;
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 168px);
     justify-content: center;
-    gap: 0.55rem;
+    gap: 0.6rem;
   }
   .other-states__cell {
-    /* Fixed-ish chip footprint — narrow enough that ~6 fit per row at
-       desktop widths, wide enough for full state names without wrap. */
-    flex: 0 1 168px;
-    min-width: 140px;
+    /* Grid handles sizing; the chip itself fills the cell via width: 100%. */
   }
   .other-states__chip {
     display: flex;

@@ -110,20 +110,22 @@ const appHref = isStatePage || isHomepage ? '#get-app' : '/#get-app';
     color: var(--rr-teal);
   }
 
-  /* Compact pill sized for the nav line. Type metrics match the nav links
-     (.rr-nav) so the button sits cleanly inline with the other items. */
-  :global(.rr-btn--nav) {
-    padding: 0.5rem 1.05rem;
-    font-size: var(--text-xs);
+  /* Compact pill sized for the nav line. Selector is .rr-nav .rr-btn--nav
+     (extra class) so it beats the base .rr-btn (var(--text-base) = 1rem)
+     by specificity instead of relying on cascade order. Type metrics match
+     the nav links so the button sits inline with the other items. */
+  :global(.rr-nav .rr-btn--nav) {
+    padding: 0.4rem 1.05rem;
+    font-size: 0.82rem;
     font-weight: 700;
-    letter-spacing: 0.14em;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
     border-radius: 999px;
     line-height: 1;
     /* Quieter than the standalone .rr-btn--accent shadow */
     box-shadow: 0 2px 5px rgba(255, 183, 3, 0.22);
   }
-  :global(.rr-btn--nav:hover) {
+  :global(.rr-nav .rr-btn--nav:hover) {
     transform: translateY(-1px);
     box-shadow: 0 4px 9px rgba(255, 183, 3, 0.32);
   }
@@ -143,9 +145,10 @@ const appHref = isStatePage || isHomepage ? '#get-app' : '/#get-app';
       gap: 0.9rem;
       font-size: 0.78rem;
     }
-    :global(.rr-btn--nav) {
-      padding: 0.45rem 0.9rem;
-      letter-spacing: 0.1em;
+    :global(.rr-nav .rr-btn--nav) {
+      padding: 0.4rem 0.85rem;
+      font-size: 0.74rem;
+      letter-spacing: 0.08em;
     }
     :global(.rr-wordmark) {
       font-size: 1.2rem;
