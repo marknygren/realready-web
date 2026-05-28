@@ -539,12 +539,12 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | # | Code | Jurisdiction | Bank size | Status | Notes |
 |---|---|---|---|---|---|
 | 1 | AL | Alabama | 205 | ✅ | shipped 2026-05-27. Audit: Q3 temp-license duration corrected to 1 year (active 6 mo + inactive 6 mo per Ala. Admin. Code 790-X-2-.03), Q11 "Substantial misrepresentation" → "Material misrepresentation" (§34-27-36(a)(3)), Q13 tax-year framework fixed to Oct 1–Sept 30. Re-seeded AL-03/11/13 to Supabase |
-| 2 | AK | Alaska | 180 | 🟡 | |
+| 2 | AK | Alaska | 180 | ✅ | shipped 2026-05-27. Verified against Pearson VUE Alaska Real Estate Candidate Handbook #092200 (rev 09/2025) + AS 08.88 statutes (Sept 2024) + AREC ExamInformation page (120 scored = 80 national + 40 state, 4h, scaled 75, $100 exam fee). Audit: Q5 (licensee relationships) wrong answer flipped from "Four types" to "Three types" per AS 08.88.600–.695 + AREC Consumer Disclosure 08-4145 (rev 04/2024); Q16 (Recovery Fund deadline) explanation tightened to cite AS 08.88.460(a)(3) — 2 years after judgment no longer subject to appeal. Re-seeded AK-02/05 to Supabase 2026-05-27 |
 | 3 | AZ | Arizona | 260 | ✅ | shipped 2026-05-27. New 2026 split-exam format (80 General + 60 State, $75 combo, 75% per portion). Verified against Pearson VUE candidate handbook Feb 2026 #090300 + content outlines #090301 + ADRE fee schedule. Audit found no question-bank errors; tightened picker filter to catch "pre-licensing" (hyphen+ing), broker/salesperson candidate, minimum-age, obtain/apply-for-license, license-applicant, Contract Writing Course, Broker Management Clinic |
 | 4 | AR | Arkansas | 210 | ✅ | shipped 2026-05-27. Verified facts against Pearson VUE Arkansas Real Estate Candidate Handbook #090400 (Jul 2024) + content outlines #090402 (Apr 2025) + AREC FAQs (exam $75, application $50, license $50 + Recovery Fund $25, scaled 70 each on 80 general + 30 state). Audit found no question-bank errors; CE-plurals filter expansion (`requirements?`, `courses?`, `electives?`, `deadlines?`) needed to drop a "Principal Broker's CE requirements" question that leaked past the singular pattern. Verified ACA §17-42-201 (5 commissioners), §17-42-316 (absolute fidelity), §17-42-103 (license required for compensation), AREC Reg 10.5 (advertising firm name), Title 18 Ch.14 (Time-Share Act registration), Arkansas caveat-emptor doctrine. |
 | 5 | CA | California | 260 | ✅ | shipped 2026-05-25, pilot. Audit 2026-05-27: fee $60→$100, Q7 answer flipped (Civil Code §2079.16), Q3 + Q6 tightened. Re-seeded CA-03/06/07 to Supabase 2026-05-27 |
-| 6 | CO | Colorado | 265 | 🟡 | |
-| 7 | CT | Connecticut | 210 | 🟡 | |
+| 6 | CO | Colorado | 265 | 🟠 | in progress |
+| 7 | CT | Connecticut | 210 | 🟠 | in progress |
 | 8 | DE | Delaware | 195 | 🟡 | |
 | 9 | DC | District of Columbia | 195 | 🟡 | |
 | 10 | FL | Florida | 205 | 🟡 | |
@@ -590,4 +590,4 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 50 | WI | Wisconsin | 261 | 🟡 | |
 | 51 | WY | Wyoming | 190 | 🟡 | |
 
-**Progress: 4 / 51 live.**
+**Progress: 5 / 51 live.**
