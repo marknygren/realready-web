@@ -51,24 +51,40 @@ curl -s --resolve realready.app:443:185.199.108.153 \
 The four GH Pages anycast IPs are `185.199.{108,109,110,111}.153` —
 any of them works for the resolve trick.
 
-## Question fixes — two-repo rule
+## Question fixes — four data layers
 
-The question bank is a sync from the mobile app's canonical source.
-**Fixing a question in only the web's copy is not enough.** The next
-sync overwrites it, the deploy regresses, and the mobile app keeps
-showing the wrong answer to paying users.
+The question bank lives in **four layers**, not one. A correction has
+to land in all the places that contain a copy or the fix silently
+regresses on the others. The layers, in order:
 
-Every question correction must land in BOTH:
+| layer | path / system | role |
+|---|---|---|
+| 2 | `src/content/questions/[XX]-NN.json` (here) | Web's synced copy. Astro reads this at build time. |
+| 3 | `../realready/data/questions/[XX]-NN.json` (outer repo) | Mobile-app canonical git source. Seed-script input. |
+| 4 | Supabase `questions` table (production) | Runtime data the iOS / Android RealReady app queries every quiz load. |
 
-1. `../realready/data/questions/[XX]-NN.json` (mobile app — canonical)
-2. `src/content/questions/[XX]-NN.json` (web — synced copy)
+(Layer 1 is `src/content/states/[XX].json` — per-state web content, web-only.)
 
-They're in **different git repos**. The mobile-app source lives in
-`marknygren/real-estate-app` (the outer folder); the web copy is here in
-`marknygren/realready-web`. Two commits, two pushes.
+**For a question fix to actually reach paying users:**
+
+1. Edit the JSON in both repos (layers 2 + 3) — two commits, two pushes
+2. Re-seed Supabase from `../realready/` so layer 4 picks up the change:
+   ```bash
+   cd ../realready
+   npx tsx scripts/seed-questions.ts [STANDARD_REF] --reseed
+   ```
+   The script needs `EXPO_PUBLIC_SUPABASE_URL` and
+   `SUPABASE_SERVICE_ROLE_KEY` in `../realready/.env`.
+
+Skipping any layer's update:
+
+- Skip layer 2 → realready.app visitors see the wrong answer
+- Skip layer 3 → next `npm run sync-questions` reverts layer 2
+- Skip layer 4 → paying mobile-app users keep getting wrong answers indefinitely
 
 See [docs/STATE_ROLLOUT_TRACKER.md](docs/STATE_ROLLOUT_TRACKER.md)
-section 6b for the exact commands.
+sections 6a / 6b / 6c for the exact commands, and the "Data layers"
+table at the top of that doc for the full picture.
 
 ## Pre-launch noindex
 

@@ -14,6 +14,38 @@
 
 ---
 
+## Data layers — where each kind of edit lives
+
+A state's content is spread across **four data layers**. Knowing which
+layer to touch is the difference between "fix shipped" and "fix
+silently reverted." Internalize this table before doing any work.
+
+| # | layer | what it holds | who reads it at runtime | how to update |
+|---|---|---|---|---|
+| 1 | `realready-web/src/content/states/[XX].json` | Per-state web content: exam facts, intro HTML, FAQ entries | Astro build → realready.app | Edit + commit + push **web repo** (`marknygren/realready-web`) |
+| 2 | `realready-web/src/content/questions/[XX]-NN.json` | Question bank, web's **synced copy** | Astro build → realready.app | Edit + commit + push **web repo**, OR run `npm run sync-questions` to overwrite from mobile-app source |
+| 3 | `realready/data/questions/[XX]-NN.json` | Question bank, mobile-app **canonical source** | Seed-script input (does NOT reach the app directly) | Edit + commit + push **outer repo** (`marknygren/real-estate-app`) |
+| 4 | Supabase `questions` table (production) | Question bank, **runtime data** the mobile app actually queries | iOS / Android RealReady app at every quiz load | `cd realready && npx tsx scripts/seed-questions.ts [STANDARD_REF] --reseed` |
+
+**Critical:** layer 3 (git) and layer 4 (Supabase) are NOT the same
+thing. The mobile app reads from layer 4 at runtime via Supabase
+queries (`lib/questions.ts`). Editing layer 3 changes the seed source
+for future re-seeds but does **not** by itself change what paying
+users see. The seed script in layer 4's update column is the bridge.
+
+**What touches what:**
+
+- **Shipping a NEW state's web page** → layer 1 only. Layers 2, 3, 4
+  are already populated from the initial bank sync + seed.
+- **Fixing a wrong question discovered in step 4b's audit** → layers
+  2, 3, **and 4**. Hit all three. Skipping layer 3 means the next
+  sync-questions reverts your web fix. Skipping layer 4 means paying
+  mobile-app users keep seeing the wrong answer indefinitely.
+- **Correcting an exam fee, FAQ entry, or intro paragraph** → layer 1
+  only. The mobile app doesn't show this content; it's web-only.
+
+---
+
 ## How to ship one state (read this first)
 
 A session with no context should be able to read **just this section** and
@@ -333,30 +365,32 @@ If a question is wrong or stale, you have two paths:
   available question from the same category bucket, so all 20 slots
   stay filled.
 
-#### Important — fix the question in BOTH places
+#### Important — fix the question in ALL THREE places
 
-> The question bank lives in **two repos**. The web's copy at
-> `src/content/questions/[XX]-NN.json` is a sync of the mobile app's
-> source at `../realready/data/questions/[XX]-NN.json` (produced by
-> `npm run sync-questions`). **Fixing the web's copy alone is not
-> enough** — the next time someone runs the sync, the mobile app's
-> version overwrites your fix, the deploy regresses, and the mobile
-> app keeps showing wrong answers to paying users.
+> The question bank lives in **three layers** (see the data-layer
+> table at the top of this doc). A question fix that only lands in
+> one or two of them silently regresses on the others.
 >
-> **The rule:** every question correction must be applied to **both**
-> files:
-> 1. `realready/data/questions/[XX]-NN.json` (mobile app source — the
->    canonical bank)
-> 2. `realready-web/src/content/questions/[XX]-NN.json` (web's synced
->    copy — what build-time `getStateData()` reads)
+> **The rule:** every question correction must be applied to **all
+> three** layers:
+> 1. `realready/data/questions/[XX]-NN.json` (layer 3 — mobile-app
+>    canonical source, outer repo `marknygren/real-estate-app`)
+> 2. `realready-web/src/content/questions/[XX]-NN.json` (layer 2 —
+>    web's synced copy, web repo `marknygren/realready-web`)
+> 3. Supabase `questions` table (layer 4 — what the mobile app reads
+>    at runtime; updated via `npx tsx scripts/seed-questions.ts
+>    [STANDARD_REF] --reseed` from `realready/`)
 >
-> They live in **separate git repos** — the outer
-> `marknygren/real-estate-app` repo owns the mobile app and its data,
-> and `marknygren/realready-web` owns the website. Commit + push to
-> both. Alternative: edit only the mobile app source, then run
-> `npm run sync-questions` from `realready-web/` to overwrite the
-> web's copy from source — that keeps the two trees identical by
-> construction.
+> **Skipping any layer's update:**
+> - Skip layer 2 → web visitors keep seeing the wrong answer on
+>   realready.app until next sync
+> - Skip layer 3 → next `npm run sync-questions` overwrites layer 2
+>   with the wrong answer, deploy regresses
+> - Skip layer 4 → paying mobile-app users keep seeing the wrong
+>   answer on every quiz load
+>
+> Layers 1/2/3 are handled by step 6a/6b (git pushes). Layer 4 is
+> step 6c (Supabase re-seed). Don't stop at "I committed the fix."
 
 Either way, capture the change in your commit message with a source
 URL on both repos: *"Verified Q7 against [Civil Code §2079.16 URL];
@@ -370,6 +404,7 @@ Don't mark a state ✅ on the status table unless:
 - [ ] All 20 questions' correct answers verified
 - [ ] All 20 questions' explanations checked for stale facts (statutes, agency names, percentages)
 - [ ] FAQ entries' dollar figures and percentages match the regulator's current page
+- [ ] If any questions were edited: changes pushed to **both git repos** AND Supabase re-seeded (see steps 6b + 6c)
 - [ ] Build succeeds, page renders, JSON-LD validates
 
 ### 5. Build + smoke-test locally
@@ -412,10 +447,9 @@ curl -s --resolve realready.app:443:185.199.108.153 \
 #### 6b. Mobile app repo (only if you fixed questions in step 4)
 
 If step 4 turned up wrong answers or stale explanations and you edited
-files in `../realready/data/questions/`, you must commit + push those
-to the outer mobile-app repo separately. Otherwise the mobile app
-keeps showing wrong answers to paying users, and the next
-`npm run sync-questions` will revert your web fixes.
+files in `../realready/data/questions/`, commit + push those to the
+outer mobile-app repo. This makes the git source canonically correct
+so future seeds and syncs work from the right baseline.
 
 ```bash
 cd ..   # back up to "Real Estate App/"
@@ -424,10 +458,44 @@ git commit -m "fix(questions): [Name] audit corrections — Q7 wrong answer, Q3 
 git push origin main
 ```
 
-The outer repo is `marknygren/real-estate-app`. The mobile app picks up
-new questions on the next app release / OTA update.
+The outer repo is `marknygren/real-estate-app`.
 
 Skip 6b entirely if you didn't touch any question JSONs.
+
+#### 6c. Supabase re-seed (only if you fixed questions in step 4)
+
+This is the step a session is most likely to miss. The mobile app
+reads questions from a Supabase `questions` table at runtime, **not**
+from the JSON files you just edited. Until you re-seed, paying
+mobile-app users keep getting the old (wrong) data on every quiz
+load, even though the git history looks fine.
+
+For each `standard_ref` you touched in step 4 (e.g. CA-03, CA-06,
+CA-07), run the seed script with `--reseed`:
+
+```bash
+cd realready
+npx tsx scripts/seed-questions.ts CA-03 --reseed
+npx tsx scripts/seed-questions.ts CA-06 --reseed
+npx tsx scripts/seed-questions.ts CA-07 --reseed
+```
+
+Each invocation:
+- Validates the JSON
+- Deletes existing Supabase rows for that `standard_id`
+- Re-inserts from the file
+
+The script needs `EXPO_PUBLIC_SUPABASE_URL` and
+`SUPABASE_SERVICE_ROLE_KEY` in `realready/.env`. If either is missing
+or stale, it fails loudly — fix the env first.
+
+**Why this is layer 4 and not just "another commit":** Supabase is a
+running production database, separate from git. Re-seeding is a
+direct write to production data. Treat it that way — verify each
+seed succeeds (look for `OK: Inserted N questions for [REF]`) before
+moving on.
+
+Skip 6c entirely if you didn't touch any question JSONs.
 
 ### 7. Update this tracker
 
@@ -474,7 +542,7 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 2 | AK | Alaska | 180 | 🟡 | |
 | 3 | AZ | Arizona | 260 | 🟡 | |
 | 4 | AR | Arkansas | 210 | 🟡 | |
-| 5 | CA | California | 260 | ✅ | shipped 2026-05-25, pilot. Audit 2026-05-27: fee $60→$100, Q7 answer flipped (Civil Code §2079.16), Q3 + Q6 tightened |
+| 5 | CA | California | 260 | ✅ | shipped 2026-05-25, pilot. Audit 2026-05-27: fee $60→$100, Q7 answer flipped (Civil Code §2079.16), Q3 + Q6 tightened. Re-seeded CA-03/06/07 to Supabase 2026-05-27 |
 | 6 | CO | Colorado | 265 | 🟡 | |
 | 7 | CT | Connecticut | 210 | 🟡 | |
 | 8 | DE | Delaware | 195 | 🟡 | |
