@@ -545,7 +545,7 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 5 | CA | California | 260 | ✅ | shipped 2026-05-25, pilot. Audit 2026-05-27: fee $60→$100, Q7 answer flipped (Civil Code §2079.16), Q3 + Q6 tightened. Re-seeded CA-03/06/07 to Supabase 2026-05-27 |
 | 6 | CO | Colorado | 265 | ✅ | shipped 2026-05-27. Verified facts against PSI Colorado Real Estate Candidate Information Bulletin (Updated 10/1/2023) + DRE Real Estate Broker Contracts and Forms page + C.R.S. §§ 12-10-204, 12-10-206, 12-10-407. Audit: Q10 CBS-versions answer corrected from "Three" → "Four: residential, income-residential, commercial, land" (CBS1/2/3/4); filter expanded with `annual commission update` pattern to drop two ACU CE-cycle questions (replacements are E&O-insurance content). Re-seeded CO-10 to Supabase. |
 | 7 | CT | Connecticut | 210 | 🟠 | in progress |
-| 8 | DE | Delaware | 195 | 🟡 | |
+| 8 | DE | Delaware | 195 | ✅ | shipped 2026-05-28. Verified facts against Pearson VUE Delaware Real Estate Candidate Handbook #090800 (January 2026) + state content outline effective June 1, 2020 + 24 Del. C. §§2903, 2922, 2938 (split exam: 80 general + 40 state, $88, scaled 70 each, 4h, administered by Pearson VUE for the Delaware Real Estate Commission). Audit: Q15 (DE-01.1) wrong answer flipped from "The Governor with Senate confirmation" → "The Governor alone" — 24 Del. C. §2903 requires no Senate consent; Q6 (DE-06.1) explanation rewritten — the three DREC seller's disclosure forms are standard Real Property Condition Report, New Construction Only, and Vacant Land (no separate condo/coop form; condos use the standard form per 6 Del. C. §2572); Q5 + Q19 (DE-05.1) CIS-timing explanations tightened to cite §2938's actual triggers (earliest of first scheduled appointment, first showing, or making an offer). Re-seeded DE-01/05/06 to Supabase. |
 | 9 | DC | District of Columbia | 195 | 🟡 | |
 | 10 | FL | Florida | 205 | 🟡 | |
 | 11 | GA | Georgia | 260 | 🟡 | |
@@ -590,4 +590,4 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 50 | WI | Wisconsin | 261 | 🟡 | |
 | 51 | WY | Wyoming | 190 | 🟡 | |
 
-**Progress: 6 / 51 live.**
+**Progress: 7 / 51 live.**
