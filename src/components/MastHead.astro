@@ -48,31 +48,109 @@ const appHref = isStatePage || isHomepage ? '#get-app' : '/#get-app';
       <span class="rr-wordmark__text">Real<em>Ready</em></span>
     </a>
     <nav class="nav rr-nav" aria-label="Primary">
-      {
-        navItems.map((item) => (
-          <a
-            href={homeAnchor(item.href)}
-            aria-current={isCurrent(item) ? 'page' : undefined}
-          >
-            {item.label}
-          </a>
-        ))
-      }
+      <div class="rr-nav__items" id="rr-nav-items">
+        {
+          navItems.map((item) => (
+            <a
+              href={homeAnchor(item.href)}
+              aria-current={isCurrent(item) ? 'page' : undefined}
+            >
+              {item.label}
+            </a>
+          ))
+        }
+      </div>
       <a href={appHref} class="rr-btn rr-btn--accent rr-btn--nav">
         Get the app
       </a>
+      <button
+        type="button"
+        class="rr-hamburger"
+        aria-label="Open menu"
+        aria-expanded="false"
+        aria-controls="rr-nav-items"
+      >
+        <svg
+          viewBox="0 0 24 24"
+          width="22"
+          height="22"
+          stroke="currentColor"
+          stroke-width="2"
+          fill="none"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          aria-hidden="true"
+        >
+          <line x1="4" y1="6" x2="20" y2="6" class="rr-hamburger__line rr-hamburger__line--top"></line>
+          <line x1="4" y1="12" x2="20" y2="12" class="rr-hamburger__line rr-hamburger__line--mid"></line>
+          <line x1="4" y1="18" x2="20" y2="18" class="rr-hamburger__line rr-hamburger__line--bot"></line>
+        </svg>
+      </button>
     </nav>
   </div>
 </header>
 
+<script>
+  // Mobile nav toggle. Hamburger flips the `is-open` class on .rr-masthead,
+  // which the scoped CSS uses to swap the nav-link group between hidden and
+  // a dropdown panel positioned under the masthead. Clicking a link closes
+  // the menu so users don't see it linger after navigating.
+  document.addEventListener('DOMContentLoaded', () => {
+    const header = document.querySelector<HTMLElement>('.rr-masthead');
+    const hamb = header?.querySelector<HTMLButtonElement>('.rr-hamburger');
+    if (!header || !hamb) return;
+
+    hamb.addEventListener('click', () => {
+      const isOpen = header.classList.toggle('is-open');
+      hamb.setAttribute('aria-expanded', String(isOpen));
+      hamb.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
+    });
+
+    header.querySelectorAll<HTMLAnchorElement>('.rr-nav__items a').forEach((a) => {
+      a.addEventListener('click', () => {
+        header.classList.remove('is-open');
+        hamb.setAttribute('aria-expanded', 'false');
+        hamb.setAttribute('aria-label', 'Open menu');
+      });
+    });
+  });
+</script>
+
 <style>
-  /* Masthead row breathes a little more now that the logo image is in it. */
+  /* Masthead row breathes a little more now that the logo image is in it.
+     position: relative anchors the mobile dropdown's absolute positioning
+     to the masthead. */
   :global(.rr-masthead) {
     padding-top: 0.85rem;
     padding-bottom: 0.85rem;
+    position: relative;
   }
   :global(.rr-masthead .masthead__inner) {
     align-items: center;
+  }
+
+  /* Desktop: nav-link group lays out inline, hamburger hidden. */
+  :global(.rr-nav__items) {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+  }
+  :global(.rr-hamburger) {
+    display: none;
+    background: transparent;
+    border: 0;
+    padding: 0.4rem;
+    color: var(--rr-navy);
+    cursor: pointer;
+    border-radius: 8px;
+    line-height: 0;
+  }
+  :global(.rr-hamburger:hover) {
+    background: rgba(2, 48, 71, 0.06);
+  }
+  :global(.rr-hamburger:focus-visible) {
+    outline: 2px solid var(--rr-orange);
+    outline-offset: 2px;
   }
 
   /* RealReady-scoped wordmark — single-word brand, no uppercase, tight kerning.
@@ -141,8 +219,17 @@ const appHref = isStatePage || isHomepage ? '#get-app' : '/#get-app';
   }
 
   @media (max-width: 640px) {
+    /* Force the masthead row to stay on one line at narrow widths.
+       Overrides the global .masthead__inner flex-wrap + the small-screens
+       column-direction rule in global.css that was stacking everything. */
+    :global(.rr-masthead .masthead__inner) {
+      flex-wrap: nowrap;
+      flex-direction: row;
+      align-items: center;
+      gap: 0.5rem;
+    }
     :global(.rr-nav) {
-      gap: 0.9rem;
+      gap: 0.6rem;
       font-size: 0.78rem;
     }
     :global(.rr-nav .rr-btn--nav) {
@@ -156,6 +243,44 @@ const appHref = isStatePage || isHomepage ? '#get-app' : '/#get-app';
     :global(.rr-wordmark__icon) {
       width: 34px;
       height: 34px;
+    }
+
+    /* Hide the inline nav-link group, show the hamburger button. */
+    :global(.rr-nav__items) {
+      display: none;
+    }
+    :global(.rr-hamburger) {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* When the hamburger is toggled, the nav-link group reappears as an
+       absolute-positioned dropdown panel underneath the masthead — full
+       width, vertically stacked, light card-like background. */
+    :global(.rr-masthead.is-open .rr-nav__items) {
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background: var(--color-bg, #fff);
+      padding: 0.5rem 1rem;
+      border-top: 1px solid var(--color-rule, #e2e8f0);
+      box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+      z-index: 100;
+    }
+    :global(.rr-masthead.is-open .rr-nav__items a) {
+      padding: 0.85rem 0.25rem;
+      border-bottom: 1px solid rgba(2, 48, 71, 0.06);
+      font-size: 0.85rem;
+      letter-spacing: 0.12em;
+    }
+    :global(.rr-masthead.is-open .rr-nav__items a:last-child) {
+      border-bottom: 0;
     }
   }
 </style>

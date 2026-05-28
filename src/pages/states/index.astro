@@ -37,18 +37,30 @@ const summaries = getAllStateSummaries();
       </p>
       <h2 class="rr-h2">Find your state.</h2>
       <p class="rr-lead">
-        We're rolling out full state pages one at a time, with 20 free practice
-        questions plus exam logistics and state-specific FAQs on each. The full
-        bank for every state is available in the app today.
+        RealReady covers all 50 states plus Washington, D.C. Each state page
+        has 20 free practice questions, exam logistics, and state-specific
+        FAQs.
       </p>
     </header>
 
+    {/*
+      Every state is in the RealReady app today; not every state has its
+      own web page yet. Built states link to their page; unbuilt ones link
+      to the homepage "get the app" CTA so the "we cover all 50" promise
+      still resolves to something useful. No question counts on the cards
+      anymore — the per-state count (e.g. CA's 260) sells short the real
+      bank (1,090 once national is included), and listing the total would
+      be misleadingly identical for every state.
+    */}
     <ul class="states-grid">
       {
-        summaries.map((s) => (
-          <li class={`state-card ${s.hasContent ? 'state-card--ready' : 'state-card--soon'}`}>
-            {s.hasContent ? (
-              <a class="state-card__link" href={`/states/${s.slug}/`}>
+        summaries.map((s) => {
+          const isBuilt = s.hasContent;
+          const href = isBuilt ? `/states/${s.slug}/` : '/#get-app';
+          const cta = isBuilt ? 'Practice now →' : 'Get the app →';
+          return (
+            <li class={`state-card ${isBuilt ? 'state-card--ready' : 'state-card--app-only'}`}>
+              <a class="state-card__link" href={href}>
                 <div class="state-card__head">
                   <span class="state-card__name">{s.name}</span>
                   <span class="state-card__code" aria-hidden="true">
@@ -56,32 +68,12 @@ const summaries = getAllStateSummaries();
                   </span>
                 </div>
                 <div class="state-card__meta">
-                  <span class="state-card__count">
-                    {s.questionBankCount.toLocaleString()} questions
-                  </span>
-                  <span class="state-card__cta">Practice now →</span>
+                  <span class="state-card__cta">{cta}</span>
                 </div>
               </a>
-            ) : (
-              <div class="state-card__static" aria-label={`${s.name} — coming soon`}>
-                <div class="state-card__head">
-                  <span class="state-card__name">{s.name}</span>
-                  <span class="state-card__code" aria-hidden="true">
-                    {s.code}
-                  </span>
-                </div>
-                <div class="state-card__meta">
-                  <span class="state-card__count">
-                    {s.questionBankCount.toLocaleString()} questions in the app
-                  </span>
-                  <span class="state-card__cta state-card__cta--muted">
-                    Web page coming soon
-                  </span>
-                </div>
-              </div>
-            )}
-          </li>
-        ))
+            </li>
+          );
+        })
       }
     </ul>
   </Section>
@@ -134,17 +126,13 @@ const summaries = getAllStateSummaries();
     transition: border-color 150ms ease, transform 150ms ease,
       box-shadow 150ms ease;
   }
-  .state-card--ready:hover {
+  .state-card:hover {
     border-color: var(--rr-teal);
     transform: translateY(-2px);
     box-shadow: 0 8px 20px rgba(33, 158, 188, 0.12);
   }
-  .state-card--soon {
-    opacity: 0.78;
-  }
 
-  .state-card__link,
-  .state-card__static {
+  .state-card__link {
     display: block;
     padding: 1.1rem 1.25rem;
     text-decoration: none;
@@ -177,20 +165,18 @@ const summaries = getAllStateSummaries();
   .state-card__meta {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-end;
     gap: 0.75rem;
     font-size: 0.82rem;
-  }
-  .state-card__count {
-    color: var(--rr-text-muted, #64748b);
   }
   .state-card__cta {
     color: var(--rr-teal-deep, #1b83a0);
     font-weight: 600;
   }
-  .state-card__cta--muted {
-    color: var(--rr-text-muted, #64748b);
-    font-weight: 500;
-    font-style: italic;
+  /* App-only cards (web page not built yet) get a slightly different CTA
+     color so the click affordance is still clear but it doesn't masquerade
+     as a "practice now" page link. */
+  .state-card--app-only .state-card__cta {
+    color: var(--rr-orange-deep, #fb8500);
   }
 </style>
