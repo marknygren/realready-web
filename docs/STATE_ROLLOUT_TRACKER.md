@@ -543,7 +543,7 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 3 | AZ | Arizona | 260 | ✅ | shipped 2026-05-27. New 2026 split-exam format (80 General + 60 State, $75 combo, 75% per portion). Verified against Pearson VUE candidate handbook Feb 2026 #090300 + content outlines #090301 + ADRE fee schedule. Audit found no question-bank errors; tightened picker filter to catch "pre-licensing" (hyphen+ing), broker/salesperson candidate, minimum-age, obtain/apply-for-license, license-applicant, Contract Writing Course, Broker Management Clinic |
 | 4 | AR | Arkansas | 210 | ✅ | shipped 2026-05-27. Verified facts against Pearson VUE Arkansas Real Estate Candidate Handbook #090400 (Jul 2024) + content outlines #090402 (Apr 2025) + AREC FAQs (exam $75, application $50, license $50 + Recovery Fund $25, scaled 70 each on 80 general + 30 state). Audit found no question-bank errors; CE-plurals filter expansion (`requirements?`, `courses?`, `electives?`, `deadlines?`) needed to drop a "Principal Broker's CE requirements" question that leaked past the singular pattern. Verified ACA §17-42-201 (5 commissioners), §17-42-316 (absolute fidelity), §17-42-103 (license required for compensation), AREC Reg 10.5 (advertising firm name), Title 18 Ch.14 (Time-Share Act registration), Arkansas caveat-emptor doctrine. |
 | 5 | CA | California | 260 | ✅ | shipped 2026-05-25, pilot. Audit 2026-05-27: fee $60→$100, Q7 answer flipped (Civil Code §2079.16), Q3 + Q6 tightened. Re-seeded CA-03/06/07 to Supabase 2026-05-27 |
-| 6 | CO | Colorado | 265 | 🟠 | in progress |
+| 6 | CO | Colorado | 265 | ✅ | shipped 2026-05-27. Verified facts against PSI Colorado Real Estate Candidate Information Bulletin (Updated 10/1/2023) + DRE Real Estate Broker Contracts and Forms page + C.R.S. §§ 12-10-204, 12-10-206, 12-10-407. Audit: Q10 CBS-versions answer corrected from "Three" → "Four: residential, income-residential, commercial, land" (CBS1/2/3/4); filter expanded with `annual commission update` pattern to drop two ACU CE-cycle questions (replacements are E&O-insurance content). Re-seeded CO-10 to Supabase. |
 | 7 | CT | Connecticut | 210 | 🟠 | in progress |
 | 8 | DE | Delaware | 195 | 🟡 | |
 | 9 | DC | District of Columbia | 195 | 🟡 | |
@@ -590,4 +590,4 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 50 | WI | Wisconsin | 261 | 🟡 | |
 | 51 | WY | Wyoming | 190 | 🟡 | |
 
-**Progress: 5 / 51 live.**
+**Progress: 6 / 51 live.**

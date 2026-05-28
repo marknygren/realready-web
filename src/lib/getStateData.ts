@@ -274,6 +274,7 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bbackground check\b/i,
   /\bcontract writing course\b/i,
   /\bbroker management clinic\b/i,
+  /\bannual commission update\b/i,
   /\bapplication (form|fee|process)\b/i,
   /\bexamination application\b/i,
   /\b(license|licence|licensing) (fee|renewal|expir|valid|must be renewed|applicant|application)/i,
