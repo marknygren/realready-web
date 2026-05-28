@@ -266,7 +266,7 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bhours? of pre[- ]?licens(e|ing|ure)\b/i,
   /\bhours? of post[- ]?licens(e|ing|ure)\b/i,
   /\bcontinuing education\b/i,
-  /\bce (hours?|requirement|curriculum|course|elective|deadline)\b/i,
+  /\bce (hours?|requirements?|curriculum|courses?|electives?|deadlines?)\b/i,
   /\binactive (status|license|licence)\b/i,
   /\blicens(e|es|ing) (is |are )?renewed\b/i,
   /\blive scan\b/i,
