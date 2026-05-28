@@ -554,7 +554,7 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 13 | ID | Idaho | 225 | 🟡 | |
 | 14 | IL | Illinois | 225 | 🟡 | |
 | 15 | IN | Indiana | 215 | ✅ | shipped 2026-05-28. Verified facts against Pearson VUE Indiana Real Estate Candidate Handbook #091500 (March 2025) + state content outline #091501 (effective March 1, 2025) + IC 25-34.1 + 876 IAC 7/8 + IN Professional Licensing Agency fee schedule (split exam: 80 national + 50 state, 240 min seat time, scaled 75 each portion, $55 Pearson VUE fee). IN uses "broker" as the entry-level license. Filter: added `/\brenewal cycle\b/i` to LICENSING_PROCESS_PATTERNS to drop CE-cycle questions (CO precedent). Audit: IN-06.1 + IN-06.3 "transaction broker" / "transaction brokerage" fiction removed across 4 questions — IN recognizes only seller/buyer/landlord/tenant agency and limited agency representing both sides under IC 25-34.1-10-12; no transaction broker category exists in Indiana statute (CT precedent for transaction-agent removal). Re-seeded IN-06 to Supabase. |
-| 16 | IA | Iowa | 200 | 🟡 | |
+| 16 | IA | Iowa | 200 | ✅ | shipped 2026-05-28. Verified facts against PSI Iowa Real Estate Commission Licensing Information Bulletin (effective 2/8/2024) + Iowa Code §543B.46 + IAC 193E—13.1 + IREC Application for an Individual License (split exam: 80 national + 40 state, 180 min = 120 + 60, 70% per portion, $95 PSI exam fee, $125 salesperson license fee, 3-year renewal, PSI test sites at West Des Moines/Cedar Rapids/Council Bluffs). Audit: IA-06.1 trust-account questions corrected — Q1 wrong answer flipped from "must be at an Iowa institution" to "Yes, if federally insured" (§543B.46(1) and IAC 193E—13.1 only require "federally insured depository institution," no in-Iowa location requirement); Q2 wrong answer flipped from "demand deposit (checking)" to "Interest-bearing federally insured account" (§543B.46(1) states "The account shall be an interest-bearing account," with interest going quarterly to the Iowa Finance Authority housing trust fund per §16.181). Filter expansion (`law update`, `elective credit`, `broker education`) added to LICENSING_PROCESS_PATTERNS to drop IA-04 questions that leaked past the existing CE/pre-license patterns. Re-seeded IA-06 to Supabase. |
 | 17 | KS | Kansas | 210 | 🟡 | |
 | 18 | KY | Kentucky | 215 | 🟡 | |
 | 19 | LA | Louisiana | 250 | 🟡 | |
@@ -591,4 +591,4 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 50 | WI | Wisconsin | 261 | 🟡 | |
 | 51 | WY | Wyoming | 190 | 🟡 | |
 
-**Progress: 11 / 51 live.**
+**Progress: 13 / 51 live.**

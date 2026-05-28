@@ -7,32 +7,32 @@
     {
       "key_topic_ref": "IA-06.1",
       "question_text": "An Iowa broker wants to open a trust account at an online-only bank headquartered in another state. Is this permitted?",
-      "correct_answer": "No, the account must be at an Iowa institution",
+      "correct_answer": "Yes, if the institution is federally insured",
       "distractors": [
-        "Yes, any FDIC-insured bank qualifies",
-        "Yes, if the bank has online Iowa access",
+        "No, the account must be at an Iowa institution",
+        "No, online-only banks are categorically prohibited",
         "Only if the Commission grants a waiver"
       ],
-      "explanation": "Iowa trust accounts must be maintained at a federally insured institution located in Iowa. An online-only bank headquartered out of state does not satisfy this requirement, regardless of FDIC insurance or online accessibility.",
+      "explanation": "Iowa Code §543B.46(1) requires the trust account to be maintained in a federally insured depository institution. Neither the statute nor IAC 193E—13.1 imposes an in-Iowa location requirement, so an online-only or out-of-state bank may be used as long as it carries federal deposit insurance (FDIC or NCUA) and the broker files the required Consent to Examine and Audit Trust Account form with the Commission.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["trust_account", "iowa_institution", "location_requirement"]
+      "tags": ["trust_account", "federally_insured", "location"]
     },
     {
       "key_topic_ref": "IA-06.1",
       "question_text": "What type of bank account must an Iowa broker use for a trust account?",
-      "correct_answer": "Demand deposit (checking) account",
+      "correct_answer": "Interest-bearing federally insured account",
       "distractors": [
+        "Non-interest demand deposit only",
         "Certificate of deposit",
-        "Money market savings account",
-        "Interest-bearing time deposit"
+        "Money market savings without check access"
       ],
-      "explanation": "Iowa requires trust accounts to be demand deposit accounts (checking accounts) so that funds are immediately accessible. CDs, money market accounts, and time deposits do not allow immediate withdrawal and therefore do not meet the requirement.",
+      "explanation": "Iowa Code §543B.46(1) requires the broker's trust account to be an interest-bearing account in a federally insured depository institution. Interest earned is transferred quarterly to the Iowa Finance Authority for the state housing trust fund (Iowa Code §16.181) unless the buyer and seller agree in writing to direct it elsewhere. Fixed-term accounts like CDs cannot be used without the written consent of the parties whose funds are deposited (IAC 193E—13.1(1)\"b\").",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["trust_account", "demand_deposit", "account_type"]
+      "tags": ["trust_account", "interest_bearing", "account_type"]
     },
     {
       "key_topic_ref": "IA-06.1",
