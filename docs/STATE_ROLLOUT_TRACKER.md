@@ -548,7 +548,7 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 7 | CT | Connecticut | 210 | ✅ | shipped 2026-05-28. Verified facts against CT DCP Real Estate Salesperson InitialExam page + PSI CT Real Estate Broker Candidate Information Bulletin (rev 10/1/2023) for state-portion outline structure + DCP PA 23-84 changes summary + CGS Chapter 392 (110 scored = 80 national + 30 state, 165 min = 120 + 45, 70% per portion, $59 PSI fee, $80 DCP application fee). Audit: CT-05 transaction-agent fiction removed across 3 questions — CT recognizes only seller's, buyer's, dual (CGS 20-325g), and designated (CGS 20-325i) agency; 3 CT-05.3 subagency questions updated for PA 23-84 (residential broker subagency strictly prohibited effective 4/1/2024, commercial still allowed with written agreement); CT-06 disclosure-timing wording tightened from informal "first meaningful contact" to statutory "the beginning of the first personal meeting" (CGS 20-325d, Reg 20-325d-2) across 3 questions. Re-seeded CT-05/06 to Supabase. |
 | 8 | DE | Delaware | 195 | ✅ | shipped 2026-05-28. Verified facts against Pearson VUE Delaware Real Estate Candidate Handbook #090800 (January 2026) + state content outline effective June 1, 2020 + 24 Del. C. §§2903, 2922, 2938 (split exam: 80 general + 40 state, $88, scaled 70 each, 4h, administered by Pearson VUE for the Delaware Real Estate Commission). Audit: Q15 (DE-01.1) wrong answer flipped from "The Governor with Senate confirmation" → "The Governor alone" — 24 Del. C. §2903 requires no Senate consent; Q6 (DE-06.1) explanation rewritten — the three DREC seller's disclosure forms are standard Real Property Condition Report, New Construction Only, and Vacant Land (no separate condo/coop form; condos use the standard form per 6 Del. C. §2572); Q5 + Q19 (DE-05.1) CIS-timing explanations tightened to cite §2938's actual triggers (earliest of first scheduled appointment, first showing, or making an offer). Re-seeded DE-01/05/06 to Supabase. |
 | 9 | DC | District of Columbia | 195 | 🟡 | |
-| 10 | FL | Florida | 205 | 🟡 | |
+| 10 | FL | Florida | 205 | ✅ | shipped 2026-05-28. Verified facts against DBPR Candidate Information Booklet "Real Estate Sales Associate Examination" (effective January 2025) + §475.02 / §475.278 / §404.056(5) / §161.053, F.S. + Florida Constitution Art. X §4 + Rule 61J2-14.008 F.A.C. + DBPR Jan 2024 Exam Performance Summary. Single 100-question test, 3.5h, 75%, $36.75 Pearson VUE fee. Audit found no question-bank errors across the 20 picked Qs (transaction-broker default, 1/2-acre municipal homestead, 3-business-day escrow, 2-witness deed, lien-theory mortgage state, FCHR fair-housing enforcement). |
 | 11 | GA | Georgia | 260 | 🟡 | |
 | 12 | HI | Hawaii | 210 | 🟡 | |
 | 13 | ID | Idaho | 225 | 🟡 | |
@@ -591,4 +591,4 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 50 | WI | Wisconsin | 261 | 🟡 | |
 | 51 | WY | Wyoming | 190 | 🟡 | |
 
-**Progress: 8 / 51 live.**
+**Progress: 9 / 51 live.**
