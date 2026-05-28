@@ -3,10 +3,14 @@
 > **Purpose.** Track the Phase 3 fan-out of `/states/[slug]/` pages for all 50
 > states + DC. **Delete this file** once every row in the status table is ✅.
 >
-> **Last updated:** 2026-05-27. California is live (pilot). Every other
-> jurisdiction is pending. The intent is to ship one state at a time so any
-> session — including one with no prior conversation context — can read this
-> doc and pick up the next state.
+> **Last updated:** 2026-05-27. California is live (pilot, audit-fixed).
+> Every other jurisdiction is pending. The intent is to ship one state at a
+> time so any session — including one with no prior conversation context —
+> can read this doc and pick up the next state.
+>
+> **If you're a fresh Claude Code session starting work on a state:** read
+> sections 0 through 7 below in order. Each step is concrete. Steps 2 and 4
+> require WebSearch / WebFetch — those are the verification gates.
 
 ---
 
@@ -183,21 +187,25 @@ section header, each page should hit:
 #### CTA band (bottom of page)
 
 The CTA section is rendered by `[state].astro` and is the **same for
-every state** — you don't author it per-state, but know what it says:
+every state** — you don't author it per-state, but know what it says
+so the FAQ and intro don't repeat the same claims:
 
 - H2: *"Want the rest of [State]'s {totalBankPretty}-question bank?"*
-- Body opens: *"The RealReady app has all {totalBankPretty} questions
-  covering both national real estate principles and [State]-specific
-  law, with topic articles, a missed-question drill mode, detailed
-  explanations on every question, and progress tracking that shows
-  your per-category accuracy."*
-- Body closes with the **no-subscription beat**: *"Unlike other real
+- **Lead paragraph:** *"The RealReady app has all {totalBankPretty}
+  questions covering both national real estate principles and
+  [State]-specific law. The full app also includes:"*
+- **Bulleted feature list** (orange ✓ on navy):
+  - Short articles that walk you through the why behind each topic
+  - A missed-question drill mode
+  - Detailed explanations on every question
+  - Progress tracking with per-category accuracy
+- **Closing paragraph** (no-subscription beat): *"Unlike other real
   estate prep apps, we don't cut off access or charge a monthly
   subscription fee. Once you buy, it's yours forever."*
 
-Both the H2 and the body reference the full `totalBankPretty` count
-(NOT `totalBank - 20`). If you find yourself touching this CTA, keep
-the count consistent.
+Both the H2 and the lead paragraph reference the full `totalBankPretty`
+count (NOT `totalBank - 20`). If you find yourself touching this CTA,
+keep the count consistent.
 
 #### FAQ targets
 
@@ -382,10 +390,12 @@ Spot-check `dist/states/[slug]/index.html`:
 
 ### 6. Ship
 
+#### 6a. Web repo (always)
+
 ```bash
 cd realready-web
 git add src/content/states/XX.json
-# If you edited any source questions:
+# If you edited any web-side question files in step 4:
 # git add src/content/questions/XX-*.json
 git commit -m "feat(states): [Name] state page goes live"
 git push origin main
@@ -398,6 +408,26 @@ The GitHub Actions deploy takes ~25–30 seconds. Verify live:
 curl -s --resolve realready.app:443:185.199.108.153 \
   https://realready.app/states/[slug]/ | grep -o '<title>[^<]*</title>'
 ```
+
+#### 6b. Mobile app repo (only if you fixed questions in step 4)
+
+If step 4 turned up wrong answers or stale explanations and you edited
+files in `../realready/data/questions/`, you must commit + push those
+to the outer mobile-app repo separately. Otherwise the mobile app
+keeps showing wrong answers to paying users, and the next
+`npm run sync-questions` will revert your web fixes.
+
+```bash
+cd ..   # back up to "Real Estate App/"
+git add realready/data/questions/XX-*.json
+git commit -m "fix(questions): [Name] audit corrections — Q7 wrong answer, Q3 imprecise"
+git push origin main
+```
+
+The outer repo is `marknygren/real-estate-app`. The mobile app picks up
+new questions on the next app release / OTA update.
+
+Skip 6b entirely if you didn't touch any question JSONs.
 
 ### 7. Update this tracker
 
