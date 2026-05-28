@@ -30,7 +30,6 @@ const data: StateData = getStateData(code);
 
 const totalBank = data.totalQuestionsAvailable;
 const totalBankPretty = totalBank.toLocaleString();
-const extraInApp = (totalBank - 20).toLocaleString();
 
 // SEO-tuned title: leads with "Free", hits the primary keyword "Practice Test",
 // stays under 60 chars for SERP.
@@ -183,10 +182,13 @@ const filters = [
         Want the rest of {data.name}'s {totalBankPretty}-question bank?
       </h2>
       <p class="state-cta__body">
-        {extraInApp}+ more questions covering both national real estate
-        principles and {data.name}-specific law are inside the RealReady app,
-        with progress tracking and missed-question mode to drill what
-        you're weak on.
+        The RealReady app has all {totalBankPretty} questions covering both
+        national real estate principles and {data.name}-specific law, with
+        topic articles, a missed-question drill mode, detailed explanations
+        on every question, and progress tracking that shows your
+        per-category accuracy. Unlike other real estate prep apps, we don't
+        cut off access or charge a monthly subscription fee. Once you buy,
+        it's yours forever.
       </p>
       <div class="state-cta__badges">
         <AppStoreBadges align="center" />

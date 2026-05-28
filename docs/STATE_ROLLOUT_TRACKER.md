@@ -106,38 +106,115 @@ python3 -c "import os, json; XX='TX'; print(sum(len(json.load(open(f'src/content
 
 (Replace `XX='TX'` with the state you're shipping.)
 
-**SEO targets for the intro** (4 paragraphs, in this order):
+**Copy guidance** — patterns we landed on after several iterations on
+California. Follow these closely; they save a lot of back-and-forth.
 
-1. **P1** — what's distinctive about this state's exam. Name it, give
-   question count + time limit, hook why state-specific prep matters here.
-2. **P2** — 3–4 state-specific topics that show up on the exam (cite real
-   statutes / agencies / disclosures — verify against the regulator's
-   candidate handbook).
-3. **P3** — introduce the 20 free practice questions on the page. Use the
-   phrases *"real estate practice test"*, *"questions and answers"*, and
-   *"practice exam"* naturally.
-4. **P4** — pitch the app: full bank, progress tracking, missed-question
-   mode. Repeat the state name + *"practice test"* once more.
+#### General rules
 
-**FAQ targets.** Each Q&A should answer something a real candidate would
-Google. Suggested set:
+- **No em dashes** (—) in body copy. Replace with periods, commas, or a
+  connector like "and" / "so".
+- **No colons** in body copy. Break into separate sentences instead.
+- **Don't sound like AI.** Vary sentence length. Don't end a paragraph
+  with three short fragments in a row.
+- **Don't close P4 with "It's the same study guide thousands of
+  licensees use..."** That generic-sounding wraparound is out. P4 ends
+  at the feature list.
+- **HTML-entity gotcha.** Astro's `{}` interpolation escapes HTML
+  entities, so `&rsquo;` would render literally in copy. Use the real
+  Unicode characters directly in JSON strings: `'`, `—`, `&`, `"`.
 
-- How many questions are on the [state] real estate exam?
+#### Intro paragraph template (4 `<p>` blocks inside the `intro` field)
+
+**P1 — Exam intro (~3 sentences)**
+
+- Open with a hook like *"The [State] real estate salesperson exam is
+  one of the toughest in the country."*
+- Name the regulator (DRE, TREC, REBA, REC, etc.) **in P1** — not later.
+- Give the question count + time limit + unified-vs-split exam
+  structure.
+- Close with one sentence on why state-specific prep matters here.
+
+**P2 — State-specific topics + practice-questions hook (~4 sentences)**
+
+- Open: *"State-specific prep matters more here than almost anywhere
+  else."*
+- One sentence listing 4–6 state-specific topics (statutes, disclosures,
+  agency rules, regulator powers) verified in step 2.
+- One sentence: *"None of that looks like the material a candidate in a
+  neighboring state studies."*
+- *"A generic real estate practice test won't cut it."*
+- Close: **"You need [State]-specific practice questions."**
+  → uses the *practice questions* keyword, **NOT** *practice exam*.
+
+**P3 — 20-question hook (~4 sentences, ~70 words target)**
+
+- *"Below are 20 free [State] real estate test questions and answers
+  from RealReady's full [State] bank."*
+- *"Each tests a specific topic with the correct answer and a
+  plain-English explanation under the card."*
+- *"Read each one, commit to an answer, then reveal."*
+- *"Treat it like a real [REGULATOR-ACRONYM] practice test, and the
+  ones you miss show you what to focus on next."*
+
+**P4 — App pitch with specific features (~2 sentences)**
+
+- Open: *"Get the RealReady app on iPhone, iPad, or Android for the
+  rest of the [State] question bank."*
+- Then: *"The full app includes short articles that walk you through
+  the why behind each topic, detailed explanations on every question,
+  a missed-question drill mode, and progress tracking that shows your
+  per-category accuracy."*
+- **Do NOT mention Quick 10** / daily practice sessions in P4.
+- **Do NOT close with a "thousands of licensees use this study guide"
+  line.** End at the feature list.
+
+#### SEO keyword targets
+
+After the template renders title + H1 + meta-description + practice
+section header, each page should hit:
+
+- *practice test* — 5+ instances page-wide
+- *practice questions* — at least once (P2 closing line)
+- *questions and answers* — in title or meta + once in P3
+- *[Regulator] practice test* — e.g. "DRE practice test", "TREC
+  practice test" — in P3
+- *[State]-specific* — in P1 and P2
+
+#### CTA band (bottom of page)
+
+The CTA section is rendered by `[state].astro` and is the **same for
+every state** — you don't author it per-state, but know what it says:
+
+- H2: *"Want the rest of [State]'s {totalBankPretty}-question bank?"*
+- Body opens: *"The RealReady app has all {totalBankPretty} questions
+  covering both national real estate principles and [State]-specific
+  law, with topic articles, a missed-question drill mode, detailed
+  explanations on every question, and progress tracking that shows
+  your per-category accuracy."*
+- Body closes with the **no-subscription beat**: *"Unlike other real
+  estate prep apps, we don't cut off access or charge a monthly
+  subscription fee. Once you buy, it's yours forever."*
+
+Both the H2 and the body reference the full `totalBankPretty` count
+(NOT `totalBank - 20`). If you find yourself touching this CTA, keep
+the count consistent.
+
+#### FAQ targets
+
+6–8 entries. Each Q&A answers something a real candidate would Google:
+
+- How many questions are on the [State] real estate exam?
 - What's the passing score?
 - How much does the exam cost?
 - How long is the exam?
-- Is the [state] real estate exam hard?
+- Is the [State] real estate exam hard?
 - What's on the exam? (cover sections + state-specific weighting)
 - What's the best way to prepare?
 
 **Do NOT include licensing-process FAQs** (CE hours, fingerprinting,
-application form, license renewal). These are filtered from the question
-side by `LICENSING_PROCESS_PATTERNS` in `getStateData.ts`; mirror that on
-the FAQ side.
-
-**HTML-entity gotcha.** Astro's `{}` interpolation escapes HTML entities,
-so `&rsquo;` will render literally in copy. Use the real Unicode characters
-directly in JSON strings: `'`, `—`, `&`, `"`.
+application form, license renewal). These are filtered out of the
+question bank by `LICENSING_PROCESS_PATTERNS` in `getStateData.ts`;
+mirror that on the FAQ side.
 
 ### 4. Verify the 20 picked questions
 
