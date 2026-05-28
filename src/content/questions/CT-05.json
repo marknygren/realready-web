@@ -7,13 +7,13 @@
     {
       "key_topic_ref": "CT-05.1",
       "question_text": "Which of the following is a recognized form of agency in Connecticut?",
-      "correct_answer": "Transaction agent",
-      "distractors": ["Intermediary agent", "Facilitator agent", "Non-agent broker"],
-      "explanation": "Connecticut recognizes five agency types: seller's agent, buyer's agent, dual agent, designated agent, and transaction agent. Transaction agents facilitate without representing either party. 'Intermediary' and 'facilitator' are terms used in other states.",
+      "correct_answer": "Designated agent",
+      "distractors": ["Transaction agent", "Intermediary agent", "Facilitator agent"],
+      "explanation": "Connecticut recognizes four agency types under Chapter 392 of the General Statutes: seller's agent, buyer's agent, dual agent (CGS 20-325g), and designated agent (CGS 20-325i). 'Transaction agent,' 'intermediary,' and 'facilitator' are terms used in other states (Florida, Colorado, Texas) and are not statutorily recognized in Connecticut.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["agency-types", "transaction-agent"]
+      "tags": ["agency-types", "designated-agency"]
     },
     {
       "key_topic_ref": "CT-05.1",
@@ -39,21 +39,21 @@
     },
     {
       "key_topic_ref": "CT-05.1",
-      "question_text": "A transaction agent in Connecticut differs from a buyer's agent because the transaction agent:",
-      "correct_answer": "Does not represent either party",
-      "distractors": ["Represents both parties equally", "Only handles the paperwork", "Cannot attend property showings"],
-      "explanation": "A transaction agent facilitates the transaction without representing either party. They owe honesty to both but do not have a fiduciary relationship with either the buyer or seller.",
+      "question_text": "Designated agency in Connecticut differs from dual agency because designated agency:",
+      "correct_answer": "Uses separate licensees within one brokerage to represent each party",
+      "distractors": ["Uses one agent to represent both parties at once", "Is only allowed in commercial transactions", "Requires Real Estate Commission pre-approval"],
+      "explanation": "Under CGS 20-325i, the broker appoints separate licensees within the brokerage to solely represent the buyer and the seller, so each party gets dedicated representation. In dual agency (CGS 20-325g), by contrast, a single licensee represents both parties at once and must obtain informed written consent from both.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["transaction-agent", "agency-types"]
+      "tags": ["designated-agency", "dual-agency", "comparison"]
     },
     {
       "key_topic_ref": "CT-05.1",
-      "question_text": "How many types of agency relationships does Connecticut recognize?",
-      "correct_answer": "Five",
-      "distractors": ["Three", "Four", "Six"],
-      "explanation": "Connecticut recognizes five types: seller's agent, buyer's agent, dual agent, designated agent, and transaction agent. This gives consumers and agents flexibility in structuring their working relationships.",
+      "question_text": "How many types of agency relationships are statutorily recognized in Connecticut's Chapter 392?",
+      "correct_answer": "Four",
+      "distractors": ["Three", "Five", "Six"],
+      "explanation": "Chapter 392 of the Connecticut General Statutes recognizes four agency types: seller's agent, buyer's agent, dual agent (CGS 20-325g), and designated agent (CGS 20-325i). 'Transaction agent' is a Florida and Colorado concept and is not part of Connecticut law.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -116,14 +116,14 @@
     },
     {
       "key_topic_ref": "CT-05.3",
-      "question_text": "In Connecticut, subagency is:",
-      "correct_answer": "Not presumed and must be agreed in writing",
-      "distractors": ["Automatically created in all MLS transactions", "Presumed unless specifically rejected", "Prohibited by state law"],
-      "explanation": "Connecticut does not presume subagency. It must be specifically agreed upon in writing. Cooperating agents are generally treated as buyer's agents unless otherwise disclosed.",
+      "question_text": "In Connecticut residential real estate transactions, broker subagency is:",
+      "correct_answer": "Strictly prohibited regardless of consent",
+      "distractors": ["Automatically created in all MLS transactions", "Presumed unless specifically rejected", "Allowed with verbal authorization"],
+      "explanation": "Public Act 23-84, effective April 1, 2024, strictly prohibits broker subagency in residential real estate transactions in Connecticut, regardless of any informed written consent. Subagency arrangements that were previously allowed are no longer permitted in residential deals. Cooperating agents in residential transactions are treated as buyer's agents.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["subagency", "written-agreement"]
+      "tags": ["subagency", "PA-23-84", "residential-prohibition"]
     },
     {
       "key_topic_ref": "CT-05.3",
@@ -138,14 +138,14 @@
     },
     {
       "key_topic_ref": "CT-05.3",
-      "question_text": "A listing broker wants a cooperating agent to act as the seller's subagent. What is required?",
-      "correct_answer": "A specific written agreement between brokers",
-      "distractors": ["Verbal authorization from the seller", "MLS participation automatically creates it", "Nothing, subagency is the default in CT"],
-      "explanation": "Subagency must be specifically agreed upon in writing in Connecticut. MLS participation alone does not create subagency, and verbal authorization is insufficient.",
+      "question_text": "Under current Connecticut law, can a listing broker designate a cooperating agent as the seller's subagent in a residential transaction?",
+      "correct_answer": "No, residential broker subagency is prohibited by PA 23-84",
+      "distractors": ["Yes, with a written subagency agreement", "Yes, if the seller verbally consents", "Yes, automatically via MLS participation"],
+      "explanation": "PA 23-84, effective April 1, 2024, strictly prohibits broker subagency in residential real estate transactions in Connecticut. The cooperating agent is treated as the buyer's agent in residential deals. Subagency remains permissible in commercial transactions with a written agreement.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["subagency", "written-agreement", "listing"]
+      "tags": ["subagency", "PA-23-84", "residential-prohibition"]
     },
     {
       "key_topic_ref": "CT-05.3",
@@ -160,14 +160,14 @@
     },
     {
       "key_topic_ref": "CT-05.3",
-      "question_text": "A cooperating agent who is a subagent of the listing broker owes fiduciary duties to:",
+      "question_text": "In a commercial Connecticut transaction with a written subagency agreement, a cooperating agent who is the seller's subagent owes fiduciary duties to:",
       "correct_answer": "The seller",
       "distractors": ["The buyer they are working with", "Both the buyer and seller equally", "Only the listing broker"],
-      "explanation": "A subagent represents the seller through the listing broker. Their fiduciary duties run to the seller, even though they may be working directly with the buyer. This is why Connecticut does not presume subagency.",
+      "explanation": "Subagency remains permissible in commercial real estate transactions in Connecticut with a written agreement between brokers. The subagent's fiduciary duties run to the seller through the listing broker, even while working directly with the buyer. PA 23-84 (effective April 1, 2024) prohibits broker subagency in residential transactions only.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["subagency", "fiduciary", "seller"]
+      "tags": ["subagency", "fiduciary", "commercial"]
     }
   ]
 }
