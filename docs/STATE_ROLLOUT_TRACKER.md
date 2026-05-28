@@ -591,4 +591,4 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 50 | WI | Wisconsin | 261 | 🟡 | |
 | 51 | WY | Wyoming | 190 | 🟡 | |
 
-**Progress: 9 / 51 live.**
+**Progress: 10 / 51 live.**
