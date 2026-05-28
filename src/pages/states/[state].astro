@@ -181,14 +181,20 @@ const filters = [
       <h2 class="rr-h2 rr-h2--on-dark rr-h2--centered">
         Want the rest of {data.name}'s {totalBankPretty}-question bank?
       </h2>
-      <p class="state-cta__body">
+      <p class="state-cta__body state-cta__body--lead">
         The RealReady app has all {totalBankPretty} questions covering both
-        national real estate principles and {data.name}-specific law, with
-        topic articles, a missed-question drill mode, detailed explanations
-        on every question, and progress tracking that shows your
-        per-category accuracy. Unlike other real estate prep apps, we don't
-        cut off access or charge a monthly subscription fee. Once you buy,
-        it's yours forever.
+        national real estate principles and {data.name}-specific law. The full
+        app also includes:
+      </p>
+      <ul class="state-cta__features">
+        <li>Short articles that walk you through the why behind each topic</li>
+        <li>A missed-question drill mode</li>
+        <li>Detailed explanations on every question</li>
+        <li>Progress tracking with per-category accuracy</li>
+      </ul>
+      <p class="state-cta__body state-cta__body--close">
+        Unlike other real estate prep apps, we don't cut off access or
+        charge a monthly subscription fee. Once you buy, it's yours forever.
       </p>
       <div class="state-cta__badges">
         <AppStoreBadges align="center" />
@@ -319,7 +325,44 @@ const filters = [
     color: #cdd9e3;
     font-size: 1.05rem;
     line-height: 1.55;
-    margin: 1rem 0 1.75rem;
+    margin: 1rem 0;
+  }
+  .state-cta__body--lead {
+    margin-bottom: 1.25rem;
+  }
+  .state-cta__body--close {
+    margin-top: 1.25rem;
+    margin-bottom: 1.75rem;
+  }
+  /* Checkmark bullet list, sized to read as a feature snippet between the
+     lead and the no-subscription closer. Left-aligned + max-width so the
+     bullets don't span the full 720px when the screen is wide. */
+  .state-cta__features {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    max-width: 460px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+  }
+  .state-cta__features li {
+    position: relative;
+    padding-left: 1.6rem;
+    color: #e0e7ef;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  .state-cta__features li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: var(--rr-orange, #ffb703);
+    font-weight: 700;
+    font-size: 1.05rem;
+    line-height: 1.4;
   }
   .state-cta__badges {
     display: flex;

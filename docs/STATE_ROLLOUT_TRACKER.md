@@ -317,18 +317,42 @@ For each of Q1–Q20, do a web search and confirm:
 
 If a question is wrong or stale, you have two paths:
 
-- **Fix it** in the source bank JSON
-  (`src/content/questions/XX-NN.json`) — edit `correct_answer`,
-  `distractors`, `explanation`, or `question_text` as needed and
-  re-build. The deterministic option shuffle keeps display order
-  stable as long as `question_text + key_topic_ref` doesn't change.
-- **Remove it** from the source JSON if it can't be fixed. The picker
-  will pull the next available question from the same category
-  bucket, so all 20 slots stay filled.
+- **Fix it** — edit `correct_answer`, `distractors`, `explanation`, or
+  `question_text` as needed and re-build. The deterministic option
+  shuffle keeps display order stable as long as `question_text +
+  key_topic_ref` doesn't change.
+- **Remove it** if it can't be fixed. The picker will pull the next
+  available question from the same category bucket, so all 20 slots
+  stay filled.
+
+#### Important — fix the question in BOTH places
+
+> The question bank lives in **two repos**. The web's copy at
+> `src/content/questions/[XX]-NN.json` is a sync of the mobile app's
+> source at `../realready/data/questions/[XX]-NN.json` (produced by
+> `npm run sync-questions`). **Fixing the web's copy alone is not
+> enough** — the next time someone runs the sync, the mobile app's
+> version overwrites your fix, the deploy regresses, and the mobile
+> app keeps showing wrong answers to paying users.
+>
+> **The rule:** every question correction must be applied to **both**
+> files:
+> 1. `realready/data/questions/[XX]-NN.json` (mobile app source — the
+>    canonical bank)
+> 2. `realready-web/src/content/questions/[XX]-NN.json` (web's synced
+>    copy — what build-time `getStateData()` reads)
+>
+> They live in **separate git repos** — the outer
+> `marknygren/real-estate-app` repo owns the mobile app and its data,
+> and `marknygren/realready-web` owns the website. Commit + push to
+> both. Alternative: edit only the mobile app source, then run
+> `npm run sync-questions` from `realready-web/` to overwrite the
+> web's copy from source — that keeps the two trees identical by
+> construction.
 
 Either way, capture the change in your commit message with a source
-URL: *"Verified Q7 against [Civil Code §2079.16 URL]; flipped marked
-answer."*
+URL on both repos: *"Verified Q7 against [Civil Code §2079.16 URL];
+flipped marked answer."*
 
 #### 4c. Mini-rubric before flipping the row to ✅
 
