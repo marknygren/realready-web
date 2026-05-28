@@ -3,7 +3,7 @@
 > **Purpose.** Track the Phase 3 fan-out of `/states/[slug]/` pages for all 50
 > states + DC. **Delete this file** once every row in the status table is ✅.
 >
-> **Last updated:** 2026-05-27. California is live (pilot, audit-fixed).
+> **Last updated:** 2026-05-27. California and Alabama are live (audit-fixed).
 > Every other jurisdiction is pending. The intent is to ship one state at a
 > time so any session — including one with no prior conversation context —
 > can read this doc and pick up the next state.
@@ -538,7 +538,7 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 
 | # | Code | Jurisdiction | Bank size | Status | Notes |
 |---|---|---|---|---|---|
-| 1 | AL | Alabama | 205 | 🟡 | |
+| 1 | AL | Alabama | 205 | ✅ | shipped 2026-05-27. Audit: Q3 temp-license duration corrected to 1 year (active 6 mo + inactive 6 mo per Ala. Admin. Code 790-X-2-.03), Q11 "Substantial misrepresentation" → "Material misrepresentation" (§34-27-36(a)(3)), Q13 tax-year framework fixed to Oct 1–Sept 30. Re-seeded AL-03/11/13 to Supabase |
 | 2 | AK | Alaska | 180 | 🟡 | |
 | 3 | AZ | Arizona | 260 | 🟡 | |
 | 4 | AR | Arkansas | 210 | 🟡 | |
@@ -590,4 +590,4 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 50 | WI | Wisconsin | 261 | 🟡 | |
 | 51 | WY | Wyoming | 190 | 🟡 | |
 
-**Progress: 1 / 51 live.**
+**Progress: 2 / 51 live.**
