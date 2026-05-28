@@ -15,8 +15,10 @@ interface Props {
   description?: string;
   canonical?: string;
   ogImage?: string;
-  // Pre-launch: defaults to true so search engines ignore in-progress pages.
-  // Phase 1 (California pilot) flips the site to indexable; see docs/PLAN.md section 4.
+  // Search-engine indexable by default. Pages that should stay out of Google
+  // (e.g. 404.astro) pass `noindex={true}` explicitly. The site went indexable
+  // on 2026-05-27 after the California/Alabama/Arizona/Arkansas state pages
+  // shipped; see docs/PLAN.md section 4.
   noindex?: boolean;
   // Suppress masthead + footer (e.g. for a special landing page). Defaults to false.
   bare?: boolean;
@@ -34,7 +36,7 @@ const {
   description = 'State-specific real estate exam practice. Free questions for all 50 states plus DC.',
   canonical,
   ogImage,
-  noindex = true,
+  noindex = false,
   bare = false,
   jsonLd = [],
 } = Astro.props;

@@ -510,10 +510,11 @@ Commit the tracker change in the same push (or as a follow-up commit).
 
 ## Rules to follow (don't break these)
 
-1. **Pre-launch noindex stays on.** Don't touch the `noindex` default in
-   `src/layouts/BaseLayout.astro` or the `Disallow: /` line in
-   `public/robots.txt` until the user explicitly says we're launching the
-   site to search engines. (User memory `feedback_noindex_prelaunch`.)
+1. **Site is indexable as of 2026-05-27.** `BaseLayout.astro` defaults
+   `noindex` to `false` and `robots.txt` is `Allow: /` + sitemap. If you
+   need to keep a specific page out of Google, pass `noindex={true}` to
+   BaseLayout on that page (as `404.astro` does). Don't broadly revert
+   to the pre-launch noindex defaults without explicit instruction.
 2. **No licensing-process questions.** The filter is in `getStateData.ts`
    (`LICENSING_PROCESS_PATTERNS`). Don't author FAQ entries about CE
    hours, pre-license hours, fingerprinting, application fees, or license
