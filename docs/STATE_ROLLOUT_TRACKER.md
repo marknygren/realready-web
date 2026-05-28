@@ -216,43 +216,129 @@ application form, license renewal). These are filtered out of the
 question bank by `LICENSING_PROCESS_PATTERNS` in `getStateData.ts`;
 mirror that on the FAQ side.
 
-### 4. Verify the 20 picked questions
+### 4. Pre-ship verification gate (every fact + every question)
 
-The page renders exactly the 20 questions that `getStateData("XX").questions`
-returns. Easiest way to see them is to build and read the generated HTML:
+> **This step is a hard gate, not optional polish.** A state page does
+> not go live until every fact on the page has been verified against a
+> current authoritative source. Stale exam fees, renamed agencies, and
+> wrong "correct" answers undermine the page's authority faster than
+> any SEO mistake. We caught a wrong-answer question (CA Q7) and a
+> stale exam fee (CA: $60 → $100) on California after authoring —
+> assume every other state has similar drift, and re-verify everything.
+
+**Build the page first** so you're verifying what users will actually
+see, not what the JSON says in isolation:
 
 ```bash
 cd realready-web
 npx astro build
-# Look at the rendered quiz cards:
-python3 -c "
-import re, sys
-html = open('dist/states/[slug]/index.html').read()  # <-- replace [slug]
-for m in re.finditer(r'class=\"quiz-card__q\">([^<]+)<', html):
-    print('Q:', m.group(1))
-"
 ```
 
-Or build and open `dist/states/[slug]/index.html` in a browser.
+Then read the generated HTML to dump the exam-facts strip and all 20
+question cards:
 
-**For each of the 20 questions, do a web search to verify:**
+```bash
+python3 <<'PY'
+import re
+SLUG = 'texas'  # <-- replace with the state you're shipping
+html = open(f'dist/states/{SLUG}/index.html').read()
 
-1. The marked correct answer is **still legally correct** for that state.
-2. The fact the *explanation* cites is still accurate (statutes get
-   amended, agency names change, fees change, etc.).
-3. The question is **not** about the licensing process itself (hours,
-   fees, fingerprinting, application). If one slipped past the filter,
-   flag it.
+# Exam facts strip (top of page)
+print("EXAM FACTS")
+facts = re.findall(r'class="exam-facts__value[^"]*"[^>]*>([^<]+)</p>\s*<p class="exam-facts__label[^"]*"[^>]*>([^<]+)</p>', html)
+for v, l in facts:
+    print(f"  {v.strip()} — {l.strip()}")
 
-If a question is wrong or stale, either:
+# 20 question cards
+print("\nQUESTIONS")
+cards = re.findall(r'<article class="quiz-card.*?</article>', html, re.DOTALL)
+for i, card in enumerate(cards, 1):
+    q = re.search(r'class="quiz-card__text[^"]*"[^>]*>([^<]+)<', card)
+    correct = re.search(r'class="quiz-card__correct-text[^"]*"[^>]*>([^<]+)<', card)
+    expl = re.search(r'class="quiz-card__explanation[^"]*"[^>]*>([^<]+)<', card)
+    print(f"Q{i}: {q.group(1).strip() if q else '?'}")
+    print(f"  ✓ {correct.group(1).strip() if correct else '?'}")
+    print(f"  → {expl.group(1).strip()[:200] if expl else '?'}")
+PY
+```
+
+#### 4a. Re-verify the exam facts
+
+Re-check every field, even if you just looked them up in step 2. Step 2
+gathered data from the regulator's site; step 4a confirms that data is
+still current at ship time (a few weeks may pass while you author the
+intro and FAQ).
+
+For each of these, do at least one web search and link to the source in
+your commit message:
+
+- [ ] Official exam name still matches the regulator's wording
+- [ ] Question count on the real exam
+- [ ] Time limit
+- [ ] Passing score
+- [ ] **Registration fee** — fees change. Recent example: California's
+      exam fee went from $60 → $100 effective July 1, 2024, the first
+      hike since 1997. Always check the regulator's current fee page.
+- [ ] Regulator name in the notes line
+- [ ] Any fee figure mentioned in the FAQ entries (license fee,
+      renewal fee, retake fee)
+
+#### 4b. Verify every one of the 20 questions
+
+For each of Q1–Q20, do a web search and confirm:
+
+1. **The marked correct answer is still legally correct** for that
+   state today. Don't take the question bank at face value — questions
+   were authored at a specific date and laws change.
+2. **Every factual claim in the explanation is still accurate.** Watch
+   in particular for:
+   - Statute / code section numbers (renumbering happens)
+   - Agency names (California's DFEH became CRD in 2022; DBO became
+     DFPI in 2020 — similar renames happen in other states)
+   - Percentages, dollar caps, time windows
+   - Statutes cited by year or proposition number
+3. **The question is not about the licensing process itself** (hours,
+   fees, fingerprinting, application). The bank filter
+   (`LICENSING_PROCESS_PATTERNS` in `getStateData.ts`) catches most,
+   but skim for anything that slipped through.
+
+**California examples of what to look for** (from the May 2026 audit):
+
+- Q7 had "Disclose the seller's underwater status to buyers" marked
+  correct. **Wrong.** A seller's loan balance is confidential
+  financial information under Civil Code §2079.16, not a material
+  property fact. Flipped to the confidentiality answer.
+- Q3 cited "§10176" for undisclosed dual agency. Imprecise — the
+  specific subsection is §10176(d). Tightened explanation.
+- Q6 claimed "California abolished subagency by statute." Imprecise —
+  the agency-disclosure law (Civil Code §§2079.13–2079.24) effectively
+  ended subagency in 1-4 unit sales without literally "abolishing" it.
+  Softened.
+
+If a question is wrong or stale, you have two paths:
 
 - **Fix it** in the source bank JSON
-  (`src/content/questions/XX-NN.json`) and re-build. The deterministic
-  shuffle keeps selection stable for unchanged questions.
+  (`src/content/questions/XX-NN.json`) — edit `correct_answer`,
+  `distractors`, `explanation`, or `question_text` as needed and
+  re-build. The deterministic option shuffle keeps display order
+  stable as long as `question_text + key_topic_ref` doesn't change.
 - **Remove it** from the source JSON if it can't be fixed. The picker
-  will pull the next available question from the same category bucket.
+  will pull the next available question from the same category
+  bucket, so all 20 slots stay filled.
 
-Keep notes of any edits in your commit message.
+Either way, capture the change in your commit message with a source
+URL: *"Verified Q7 against [Civil Code §2079.16 URL]; flipped marked
+answer."*
+
+#### 4c. Mini-rubric before flipping the row to ✅
+
+Don't mark a state ✅ on the status table unless:
+
+- [ ] All 6 exam-facts fields verified against a current regulator source (URLs captured in commit)
+- [ ] All 20 questions' correct answers verified
+- [ ] All 20 questions' explanations checked for stale facts (statutes, agency names, percentages)
+- [ ] FAQ entries' dollar figures and percentages match the regulator's current page
+- [ ] Build succeeds, page renders, JSON-LD validates
 
 ### 5. Build + smoke-test locally
 
@@ -334,7 +420,7 @@ Legend: 🟡 pending · 🟠 in progress · ✅ live
 | 2 | AK | Alaska | 180 | 🟡 | |
 | 3 | AZ | Arizona | 260 | 🟡 | |
 | 4 | AR | Arkansas | 210 | 🟡 | |
-| 5 | CA | California | 260 | ✅ | shipped 2026-05-25, Phase 1 pilot |
+| 5 | CA | California | 260 | ✅ | shipped 2026-05-25, pilot. Audit 2026-05-27: fee $60→$100, Q7 answer flipped (Civil Code §2079.16), Q3 + Q6 tightened |
 | 6 | CO | Colorado | 265 | 🟡 | |
 | 7 | CT | Connecticut | 210 | 🟡 | |
 | 8 | DE | Delaware | 195 | 🟡 | |
