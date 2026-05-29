@@ -6,78 +6,78 @@
   "questions": [
     {
       "key_topic_ref": "ME-11.1",
-      "question_text": "In Maine, who is required to supervise a residential real estate closing?",
-      "correct_answer": "A licensed attorney",
+      "question_text": "In Maine, who is legally required to conduct a residential real estate closing?",
+      "correct_answer": "No one; Maine mandates no specific closing agent",
       "distractors": [
+        "A licensed attorney",
         "A title insurance company",
-        "The buyer's real estate agent",
         "A licensed escrow officer"
       ],
-      "explanation": "Maine is an attorney state for real estate closings. A licensed attorney must examine title, prepare closing documents, and supervise the transaction. Unlike many states that allow title companies or escrow agents to handle closings, Maine requires attorney involvement by law.",
+      "explanation": "Maine does not require an attorney or any particular person to conduct a residential closing. In practice, closings are handled by attorneys or by title companies and their title agents, and the parties may choose. Under Title 9-A, Section 3-311, if a lender requires an attorney for the title search, the buyer gets to select that attorney.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["attorney_closing", "closing_supervision", "maine_requirement"]
+      "tags": ["closing", "closing_agent", "maine_requirement"]
     },
     {
       "key_topic_ref": "ME-11.1",
-      "question_text": "A buyer relocating from Nevada asks her agent why she needs to hire an attorney for her Maine closing. What is the most accurate explanation?",
-      "correct_answer": "Maine law requires attorney supervision",
+      "question_text": "A buyer relocating from Nevada asks whether Maine law forces her to hire an attorney for her closing. What is the most accurate answer?",
+      "correct_answer": "No, Maine does not require an attorney at closing",
       "distractors": [
-        "Attorneys are optional but recommended",
-        "Only commercial closings need attorneys",
-        "Title companies can substitute for attorneys"
+        "Yes, Maine law mandates attorney supervision",
+        "Only commercial closings need an attorney",
+        "Only cash purchases need an attorney"
       ],
-      "explanation": "Maine mandates attorney involvement in real estate closings. The attorney examines title, prepares documents, and supervises the closing. This differs from states like Nevada where title companies or escrow agents routinely handle closings without attorney involvement.",
+      "explanation": "Maine does not legally require an attorney at a residential closing. Attorneys and title companies both handle Maine closings, much as they do in Nevada. If her lender requires an attorney for the title search, Title 9-A, Section 3-311 lets her choose that attorney.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["attorney_closing", "out_of_state_buyer", "legal_requirement"]
+      "tags": ["closing", "out_of_state_buyer", "attorney_choice"]
     },
     {
       "key_topic_ref": "ME-11.1",
-      "question_text": "Which task does the closing attorney typically perform in a Maine transaction?",
-      "correct_answer": "Examining the title chain for defects",
+      "question_text": "In a Maine closing handled by a title company, who is responsible for examining the title chain for defects?",
+      "correct_answer": "The title company or its closing attorney",
       "distractors": [
-        "Negotiating the purchase price",
-        "Showing the property to the buyer",
-        "Marketing the property for the seller"
+        "The buyer's real estate agent",
+        "The municipal tax assessor",
+        "The Maine Real Estate Commission"
       ],
-      "explanation": "The closing attorney in Maine examines the title to identify any defects, liens, or encumbrances. The attorney also prepares the deed and other closing documents and supervises the settlement. Real estate agents handle marketing, showings, and negotiations, not the attorney.",
+      "explanation": "Whoever conducts the closing, a title company or an attorney, is responsible for examining the title to find defects, liens, or encumbrances and for preparing the closing documents. Real estate agents handle marketing, showings, and negotiations, not title work.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["title_examination", "closing_attorney", "attorney_duties"]
+      "tags": ["title_examination", "closing_agent", "title_company"]
     },
     {
       "key_topic_ref": "ME-11.1",
-      "question_text": "A title company from another state offers to handle a Maine closing without an attorney to save the buyer money. Should the buyer accept?",
-      "correct_answer": "No, an attorney is legally required",
+      "question_text": "A title company offers to handle a Maine closing without involving an attorney to save the buyer money. Is this permitted?",
+      "correct_answer": "Yes, Maine allows title companies to conduct closings",
       "distractors": [
-        "Yes, if both parties agree in writing",
-        "Yes, for transactions under $200,000",
-        "Only if the title company is insured"
+        "No, an attorney is legally required",
+        "Yes, but only for transactions under $200,000",
+        "Only if both parties waive an attorney in writing"
       ],
-      "explanation": "Maine law requires attorney supervision at closing regardless of the transaction amount or party preferences. A title company from another state cannot substitute for a Maine attorney. Accepting this arrangement would not comply with Maine's closing requirements.",
+      "explanation": "Maine permits title companies to conduct residential closings, and an attorney is not legally required. Many Maine closings are handled by title agents who may work for title companies or for law firms. The buyer is free to use an attorney but is not obligated to.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["attorney_closing", "title_company", "compliance"]
+      "tags": ["closing", "title_company", "no_attorney_requirement"]
     },
     {
       "key_topic_ref": "ME-11.1",
-      "question_text": "A buyer's agent in Maine tells a first-time buyer that the closing attorney 'works for the bank.' What is the most accurate description of the attorney's role?",
-      "correct_answer": "The attorney supervises for all parties",
+      "question_text": "A lender selects and pays the closing agent for a Maine purchase, and requires an attorney for the title search. Does the buyer have any say in choosing that attorney?",
+      "correct_answer": "Yes, when an attorney is required, the buyer chooses",
       "distractors": [
-        "The attorney represents only the lender",
-        "The attorney represents only the buyer",
-        "The attorney represents only the seller"
+        "No, the lender's choice is final",
+        "No, the seller selects the attorney",
+        "Only the real estate agent may select the attorney"
       ],
-      "explanation": "While the lender may select and pay the closing attorney, the attorney's role is to supervise the entire closing process, examine title, and ensure proper document execution. The closing attorney has duties to ensure the transaction is handled properly for all parties involved.",
+      "explanation": "Under Title 9-A, Section 3-311, if a lender requires an attorney to conduct the title search in a residential mortgage transaction, the consumer must be allowed to select that attorney. Maine protects the buyer's right to choose rather than forcing the lender's pick.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["closing_attorney", "attorney_role", "first_time_buyer"]
+      "tags": ["closing", "attorney_choice", "consumer_protection"]
     },
     {
       "key_topic_ref": "ME-11.2",
