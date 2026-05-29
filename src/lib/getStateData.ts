@@ -282,6 +282,7 @@ const LICENSING_PROCESS_PATTERNS = [
   /\brequired (salesperson |broker )?core\b/i,
   /\brenewal fee\b/i,
   /\brenewal cycle\b/i,
+  /\bce cycle\b/i,
   /\brenewal (start|starting|begin|begins|period|deadline)\b/i,
   /\btimely renewal\b/i,
   /\bdelinquent renewal\b/i,
