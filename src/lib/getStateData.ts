@@ -322,6 +322,14 @@ const LICENSING_PROCESS_PATTERNS = [
   /\brenew (their |a )?licens/i,
   /\b(passes?|passed|fails?|failed) (the )?(national|state) portion\b/i,
   /\b(satisfies|fulfills|completes) .* (pre[- ]?licens(e|ing|ure)|education) requirement\b/i,
+  /\bMREP\b/i,
+  /\bMREC-approved\b/i,
+  /\bMissouri real estate licensing examination\b/i,
+  /\bpre[- ]?exam\b/i,
+  /\b48-hour\b/i,
+  /\bout-of-state experience\b/i,
+  /\blicens(e|es) expir/i,
+  /\blate penalty\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
