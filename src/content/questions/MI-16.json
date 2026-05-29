@@ -28,14 +28,14 @@
     },
     {
       "key_topic_ref": "MI-16.1",
-      "question_text": "A Michigan landowner divided property into 3 parcels in 2020. In 2025, she wants to create 2 more parcels from the remaining land without platting. Can she do this?",
-      "correct_answer": "No, only 1 division remains until 2030",
-      "distractors": ["Yes, a new 10-year period started in January 2025", "Yes, there is no time-based limit on land divisions", "No, the land can never be lawfully divided again"],
-      "explanation": "The Michigan Land Division Act limits divisions to 4 within a 10-year period. Having used 3 divisions in 2020, only 1 remains until the 10-year period expires in 2030.",
+      "question_text": "A Michigan owner of a 20-acre parent parcel has already split it into 3 parcels. Under the Land Division Act, how many more parcels may be created without platting?",
+      "correct_answer": "2 more (a 20-acre parcel allows 5 in total)",
+      "distractors": ["1 more, for a flat limit of 4", "4 more, since each division resets the count", "None, the parcel can never be divided again"],
+      "explanation": "Michigan's Land Division Act (MCL 560.108) gives a parent parcel an allotment that scales with acreage: 4 parcels for the first 10 acres plus 1 for each additional whole 10 acres. A 20-acre parcel is allowed 5 parcels (4 + 1), so after 3 are created, 2 of the allotment remain. The separate 10-year rule governs when a newly created parcel may itself become a parent parcel for further division, not a rolling reset of the original allotment.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["land-division", "10-year-limit", "calculation"]
+      "tags": ["land-division", "acreage-formula", "calculation"]
     },
     {
       "key_topic_ref": "MI-16.1",
@@ -50,10 +50,10 @@
     },
     {
       "key_topic_ref": "MI-16.1",
-      "question_text": "A developer wants to create 8 residential lots from a single Michigan parcel in one year. What is required?",
+      "question_text": "A developer wants to split a 10-acre Michigan parcel into 15 residential lots. What is required?",
       "correct_answer": "The developer must record a subdivision plat",
-      "distractors": ["File two separate division applications", "Obtain a variance from the 4-lot limit", "Wait until the second 10-year period"],
-      "explanation": "Since the Land Division Act limits unplatted divisions to 4 in a 10-year period, creating 8 lots requires the developer to go through the formal platting process and record a subdivision plat.",
+      "distractors": ["Nothing, 15 lots is within the unplatted division limit", "Only local zoning board approval", "A separate division application for each lot"],
+      "explanation": "The Land Division Act (MCL 560.108) lets a 10-acre parent parcel be split into only a few parcels without platting (4 for the first 10 acres, rising to 10 on March 24, 2027). Creating 15 lots far exceeds that allotment, so the developer must use the formal platting process and record a subdivision plat. The unplatted limit scales with acreage rather than being a flat number.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

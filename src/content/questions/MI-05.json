@@ -18,13 +18,13 @@
     {
       "key_topic_ref": "MI-05.1",
       "question_text": "Which requirement applies to a Michigan real estate trust account?",
-      "correct_answer": "It must be held at a Michigan financial institution",
-      "distractors": ["It may be held at any FDIC-insured bank nationwide", "It must be a non-interest-bearing account", "The salesperson who collected funds must control it"],
-      "explanation": "Michigan requires trust accounts to be maintained at a Michigan financial institution with a trust or escrow designation. The broker, not the salesperson, is responsible for the account.",
+      "correct_answer": "It must be a separate trust or escrow account, kept apart from the broker's own funds",
+      "distractors": ["It must be held at a Michigan-based financial institution", "It must be controlled by the salesperson who collected the funds", "It may double as the broker's operating account"],
+      "explanation": "Michigan requires client money to be held in a separate custodial trust or escrow account, apart from the broker's personal or operating funds (MCL 339.2512(1)(k)). The account may be at any state- or federally-chartered bank, savings and loan, or credit union, so it need not be a Michigan institution, and the broker, not the salesperson, is responsible for it.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["trust-account", "financial-institution", "requirements"]
+      "tags": ["trust-account", "segregation", "requirements"]
     },
     {
       "key_topic_ref": "MI-05.1",
@@ -83,14 +83,14 @@
     },
     {
       "key_topic_ref": "MI-05.2",
-      "question_text": "A seller asks the broker to place earnest money in an interest-bearing trust account. What must the broker obtain first?",
-      "correct_answer": "Written agreement from all parties",
-      "distractors": ["Verbal consent from the buyer only", "Approval from the Michigan licensing board", "A separate escrow officer certification"],
-      "explanation": "Michigan permits interest-bearing trust accounts, but only with written agreement from all parties whose funds are held. The broker must obtain this before placing funds in such an account.",
+      "question_text": "A seller asks whether the earnest money on her Michigan transaction can be placed in an interest-bearing account. What is correct?",
+      "correct_answer": "No, earnest money is held in a non-interest-bearing trust account",
+      "distractors": ["Yes, if all parties agree in writing", "Yes, with the interest paid to the broker", "Yes, the account must be interest-bearing to protect the buyer"],
+      "explanation": "Michigan brokers hold earnest money and other escrow funds in a separate, non-interest-bearing custodial trust account (MCL 339.2512(1)(k); Mich. Admin. Code R 339.22313). The statute provides for interest-bearing accounts only for property management funds (MCL 339.2512c), not earnest money.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["interest-bearing", "trust-account", "written-agreement"]
+      "tags": ["interest-bearing", "trust-account", "non-interest-bearing"]
     },
     {
       "key_topic_ref": "MI-05.2",
