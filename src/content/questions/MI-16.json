@@ -6,14 +6,14 @@
   "questions": [
     {
       "key_topic_ref": "MI-16.1",
-      "question_text": "A Michigan landowner wants to split a 40-acre parcel without recording a plat. What is the maximum number of divisions allowed in a 10-year period?",
-      "correct_answer": "4 divisions",
-      "distractors": ["2 divisions", "6 divisions", "10 divisions"],
-      "explanation": "The Michigan Land Division Act allows a maximum of 4 divisions from a parent parcel within any 10-year period without the requirement to plat the property.",
-      "difficulty": "easy",
-      "cognitive_level": "knowledge",
+      "question_text": "A Michigan landowner wants to split a 40-acre parcel without recording a plat. Under the Land Division Act, what is the maximum number of parcels it can be divided into?",
+      "correct_answer": "7 parcels",
+      "distractors": ["4 parcels", "2 parcels", "10 parcels"],
+      "explanation": "Michigan's Land Division Act (MCL 560.108) scales the limit with acreage. The first 10 acres allow 4 parcels, plus 1 more for each additional whole 10 acres. A 40-acre parcel gives 4 for the first 10 acres plus 3 for the remaining 30, so 7 parcels. The flat figure of 4 covers only the first 10 acres.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
       "is_free": false,
-      "tags": ["land-division", "4-parts", "10-year"]
+      "tags": ["land-division", "parcel-limit", "acreage-formula"]
     },
     {
       "key_topic_ref": "MI-16.1",
