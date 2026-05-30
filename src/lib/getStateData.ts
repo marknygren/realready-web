@@ -335,6 +335,8 @@ const LICENSING_PROCESS_PATTERNS = [
   /\brenewal application\b/i,
   /\bfails? to renew\b/i,
   /\b\d+ additional hours\b/i,
+  /\bpermanently resigned\b/i,
+  /\binactive [a-z]+ real estate licen[sc]e\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
