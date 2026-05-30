@@ -292,6 +292,7 @@ const LICENSING_PROCESS_PATTERNS = [
   /\belective ce\b/i,
   /\brequired ce\b/i,
   /\bcore course\b/i,
+  /\bcourse #\d{3,4}\b/i,
   /\blicen[sc]es? must be renewed\b/i,
   /\blicense in escrow\b/i,
   /\bexam consists of\b/i,
