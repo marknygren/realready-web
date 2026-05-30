@@ -346,6 +346,16 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bOklahoma (broker|salesperson) state exam\b/i,
   /\bexam authorization\b/i,
   /\bper portion\b/i,
+  // Rhode Island: the RI-02 bucket is wholly licensing/exam-process
+  // (pre-license + lead-paint course hours, application validity, exam
+  // passing score, renewal date). These RI-specific phrases drain the
+  // process leaks without touching any other state's bank (grep-verified:
+  // each matches only RI-02, except the lead-paint phrase which also
+  // catches one non-displayed RI-12 process question).
+  /\blead paint (course|module)\b/i,
+  /\bapproved application\b/i,
+  /\beach section of the Rhode Island\b/i,
+  /\bRhode Island real estate licenses be renewed\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
