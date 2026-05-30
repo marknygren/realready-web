@@ -337,6 +337,15 @@ const LICENSING_PROCESS_PATTERNS = [
   /\b\d+ additional hours\b/i,
   /\bpermanently resigned\b/i,
   /\binactive [a-z]+ real estate licen[sc]e\b/i,
+  // Oklahoma: the OK-02 bucket is wholly licensing/exam-process (broker
+  // experience + Broker-in-Charge course, state-exam format/fee/passing
+  // score/authorization). These OK-specific phrases drain it without
+  // touching any other state's bank (verified: matches only OK-02).
+  /\bactive sales associate experience\b/i,
+  /\bbroker[- ]in[- ]charge course\b/i,
+  /\bOklahoma (broker|salesperson) state exam\b/i,
+  /\bexam authorization\b/i,
+  /\bper portion\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
