@@ -332,6 +332,9 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bout-of-state experience\b/i,
   /\blicens(e|es) expir/i,
   /\blate penalty\b/i,
+  /\brenewal application\b/i,
+  /\bfails? to renew\b/i,
+  /\b\d+ additional hours\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
