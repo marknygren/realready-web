@@ -356,6 +356,19 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bapproved application\b/i,
   /\beach section of the Rhode Island\b/i,
   /\bRhode Island real estate licenses be renewed\b/i,
+  // South Carolina: the SC-02 bucket is wholly licensing/education process
+  // (pre-license Unit I/II hours, broker/PM qualification + experience,
+  // CE core hours, renewal). The already-listed pre-license/CE/renewal
+  // patterns drop most of it; these SC-specific phrases drain the remaining
+  // leaks (Unit I before exam, broker active-associate-experience, separate
+  // PM license category, manage-rental-for-compensation, SC CE core hours).
+  // Each phrase is grep-verified to appear only in SC-02, so no other state's
+  // bank is touched.
+  /\bUnit I{1,3}\b/i,
+  /\bactive associate licensure\b/i,
+  /\bproperty manager licensing\b/i,
+  /\bmanage rental properties in SC\b/i,
+  /\bSC CE\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
