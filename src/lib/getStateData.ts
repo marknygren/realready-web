@@ -296,6 +296,7 @@ const LICENSING_PROCESS_PATTERNS = [
   /\blicen[sc]es? must be renewed\b/i,
   /\blicense in escrow\b/i,
   /\bexam consists of\b/i,
+  /\b\d+ questions with a \d+% passing score\b/i,
   /\b(deactivat|reactivat)/i,
   /\bfee waiver\b/i,
   /\bmilitary spouse\b/i,
