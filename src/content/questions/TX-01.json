@@ -21,18 +21,18 @@
     },
     {
       "key_topic_ref": "TX-01.1",
-      "question_text": "A TREC member has served two consecutive 6-year terms. The Governor wants to reappoint this person. What is the outcome?",
-      "correct_answer": "The member cannot be reappointed",
+      "question_text": "A TREC member has completed two full 6-year terms. The Governor wants to reappoint the member to another term. Is this allowed?",
+      "correct_answer": "Yes, Texas law sets no limit on the number of terms",
       "distractors": [
-        "The member may serve one more term",
-        "The Senate must grant a special waiver",
-        "The member can serve if no replacement is found"
+        "No, members are limited to two consecutive terms",
+        "No, members may serve only one 6-year term",
+        "Only if the Texas Senate grants a special waiver"
       ],
-      "explanation": "Texas law limits TREC members to a maximum of two consecutive terms. After serving two full 6-year terms, a member is ineligible for reappointment regardless of the Governor's preference. This ensures regular turnover on the commission.",
+      "explanation": "Texas Occupations Code Section 1101.055 gives the nine TREC members staggered six-year terms but places no cap on how many terms a member may serve. The Governor may reappoint a member to another term, subject to Senate confirmation. Unlike some state boards, TREC has no two-term limit, so prior service does not bar reappointment.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["TREC", "term_limits", "appointment"]
+      "tags": ["TREC", "terms", "reappointment", "appointment"]
     },
     {
       "key_topic_ref": "TX-01.1",

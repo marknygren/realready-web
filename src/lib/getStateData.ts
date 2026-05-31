@@ -384,6 +384,20 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bNotify TREC of the address change\b/i,
   /\bRegister with TREC as a licensed firm\b/i,
   /\bTennessee real estate license be displayed\b/i,
+  // Texas: the TX-03 (state_licensing) bucket's first surviving questions are
+  // wholly education/CE process (Sales Apprentice Education hours before first
+  // renewal, the $200 CE deferral-fee extension, SAE-plus-Legal-Update hours).
+  // The existing CE/continuing-education patterns catch the two that spell out
+  // "continuing education" / "CE requirements", but the SAE and deferral-fee
+  // questions leak past them. These TX-specific phrases drain the remaining
+  // leaks so a substantive question (broker-sponsorship change) represents the
+  // bucket. Grep-verified: "SAE" / "Sales Apprentice Education" / "deferral
+  // fee" appear only in TX question files (and only in a TX-02 distractor for
+  // SAE, which the question_text+correct_answer filter never inspects), so no
+  // other state's bank is touched.
+  /\bsales apprentice education\b/i,
+  /\bSAE\b/,
+  /\bdeferral fee\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
