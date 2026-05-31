@@ -81,7 +81,15 @@ interface RawStateContent {
 // ---------- Public types (what pages consume) ----------
 
 export interface Question {
-  /** Stable id for use as React/Astro key + JSON-LD @id (e.g. "CA-01.1"). */
+  /**
+   * Page-unique, stable id used for the DOM id + aria-labelledby on each
+   * QuizCard. Derived from the source key_topic_ref plus the question's
+   * 1-based display position (e.g. "CA-01.1-q3"), because key_topic_ref is a
+   * topic-grouping ref that repeats across questions in a file — two questions
+   * sharing a ref can both land in the displayed 20, and a bare ref would then
+   * emit duplicate element ids (invalid HTML, broken aria reference). The
+   * position suffix is stable across rebuilds since the picker is deterministic.
+   */
   id: string;
   text: string;
   /** The four answer options in deterministic-shuffled order. */
@@ -472,14 +480,22 @@ function pickQuestionsRoundRobin(
   return picked;
 }
 
-function buildQuestion(raw: RawQuestion, categorySlug: string): Question {
+function buildQuestion(
+  raw: RawQuestion,
+  categorySlug: string,
+  displayIndex: number,
+): Question {
   const rawOptions = [raw.correct_answer, ...raw.distractors];
+  // Shuffle seed intentionally uses key_topic_ref (NOT the page-unique id) so
+  // option order stays stable even though the id now carries a position suffix.
   const seed = raw.question_text + '|' + raw.key_topic_ref;
   const options = deterministicShuffle(rawOptions, seed);
   const correctIndex = options.indexOf(raw.correct_answer);
 
   return {
-    id: raw.key_topic_ref,
+    // key_topic_ref repeats across questions in a file, so suffix with the
+    // 1-based display position to guarantee a page-unique id for the DOM.
+    id: `${raw.key_topic_ref}-q${displayIndex + 1}`,
     text: raw.question_text,
     options,
     correctIndex,
@@ -523,8 +539,8 @@ export function getStateData(stateCode: string): StateData {
     );
   }
 
-  const questions = picked.map(({ raw, categorySlug }) =>
-    buildQuestion(raw, categorySlug),
+  const questions = picked.map(({ raw, categorySlug }, i) =>
+    buildQuestion(raw, categorySlug, i),
   );
 
   const categoryLabels = Array.from(
