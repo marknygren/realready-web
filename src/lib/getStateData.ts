@@ -461,17 +461,16 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bWV salesperson exam\b/i,
   /\bnational section with \d+%/i,
   /\bWV real estate licenses\b/i,
-  /\bWV license renewals\b/i,
   /\bWV licensee is no longer associated\b/i,
   /\ballows a WV licensee to actively practice\b/i,
-  /\bexempt from CE for the first renewal\b/i,
+  /'canceled' and 'expired' license/i,
+  /\brecognized WV license status\b/i,
+  /\bfirst renewal is due June 30\b/i,
   /\bWV salesperson changes employing brokers\b/i,
-  /\bWVREC of the association\b/i,
+  /\bwhat must happen with WVREC\b/i,
   /\bbetween leaving one broker and joining another\b/i,
   /\bWV salesperson be associated with more than one\b/i,
-  /\btransfer the license through WVREC\b/i,
-  /\bWV.?s lice\w*se status\b/i,
-  /\bsalesperson fails to renew by December 31\b/i,
+  /\bto effect the transfer\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
