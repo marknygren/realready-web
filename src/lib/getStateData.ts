@@ -450,27 +450,28 @@ const LICENSING_PROCESS_PATTERNS = [
   // and results-timing questions, and WV-06's renewal-frequency, license-status
   // and broker-transfer questions. Draining both buckets promotes substantive
   // WV law questions (commission powers, trust accounts, UPL, advertising,
-  // agency disclosure, dual agency, fair housing) into the displayed 20. Each
-  // phrase below is sim-verified to match only WV-04/WV-06 and no other WV or
-  // non-WV question, so no other state's bank is touched.
-  /\btesting provider\b/i,
-  /\bscored items?\b/i,
-  /\bpassing score is required\b/i,
-  /\blicensing exam results\b/i,
-  /\bnational section\b/i,
-  /\bstate section\b/i,
-  /\blicenses be renewed\b/i,
-  /\bhow often must .*licens/i,
-  /\blicense status\b/i,
-  /\bchanges employing brokers\b/i,
-  /\bmore than one employing broker\b/i,
-  /\bno longer associated with (a |an )?broker\b/i,
-  /\bleaves Broker\b/i,
-  /\bleaving one broker\b/i,
-  /\btransfers from one brokerage\b/i,
-  /\bfirst renewal\b/i,
-  /\bcanceled.{0,8}expired\b/i,
-  /\brecognized WV license\b/i,
+  // agency disclosure, dual agency, fair housing) into the displayed 20.
+  // EVERY phrase below is anchored to "WV"/"WVREC" or to wording unique to the
+  // WV bank, and is verified to match ONLY WV-04/WV-06 — a full scan of all
+  // non-WV question files returns zero matches, and a before/after build diff
+  // of all state pages changes only west-virginia. (Generic phrasings like
+  // "license status", "first renewal", "national section" were deliberately
+  // rejected because they match dozens of other states' questions.)
+  /\bWV (real estate |salesperson )?licensing exam\b/i,
+  /\bWV salesperson exam\b/i,
+  /\bnational section with \d+%/i,
+  /\bWV real estate licenses\b/i,
+  /\bWV license renewals\b/i,
+  /\bWV licensee is no longer associated\b/i,
+  /\ballows a WV licensee to actively practice\b/i,
+  /\bexempt from CE for the first renewal\b/i,
+  /\bWV salesperson changes employing brokers\b/i,
+  /\bWVREC of the association\b/i,
+  /\bbetween leaving one broker and joining another\b/i,
+  /\bWV salesperson be associated with more than one\b/i,
+  /\btransfer the license through WVREC\b/i,
+  /\bWV.?s lice\w*se status\b/i,
+  /\bsalesperson fails to renew by December 31\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
