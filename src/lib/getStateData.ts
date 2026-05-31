@@ -412,6 +412,26 @@ const LICENSING_PROCESS_PATTERNS = [
   /\btotal time allowed for both sections\b/i,
   /\bpassing score is required on both portions\b/i,
   /\bfinish the entire licensing process\b/i,
+  // Washington: the WA-01..04 "state_licensing" buckets are dense with
+  // licensing/CE/eligibility process content. The existing CE / continuing-
+  // education / renewal-cycle / inactive-status / required-CE patterns drop
+  // most of WA-03 and WA-04, but seven process questions leak past them and
+  // would otherwise occupy displayed slots: WA-03's application-deadline,
+  // managing-broker-experience, active-license-maintenance and obtain-a-firm-
+  // license questions, and WA-04's "3-hour WA Core" CE course, Fair Housing CE
+  // hours, and name/address-change-notice questions. Draining them promotes
+  // substantive WA law questions (designated-broker supervision and firm
+  // operations, the prohibition on paying unlicensed referral fees, agency-
+  // pamphlet timing) into the displayed 20. Each phrase is grep-verified to
+  // match exactly one WA question and no non-WA question, so no other state's
+  // bank is touched.
+  /\bapply for her broker license\b/i,
+  /\bqualify for a managing broker license\b/i,
+  /\bmaintain an active real estate license\b/i,
+  /\bfirm license with themselves as designated broker\b/i,
+  /\bWA Core\b/i,
+  /\bFair Housing CE\b/i,
+  /\bname or address change\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
