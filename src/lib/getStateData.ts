@@ -501,6 +501,33 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bopen their own real estate firm\b/i,
   /\b2 years within the prior 5 years\b/i,
   /\bDecember 14 deadline\b/i,
+  // Wyoming: WY-02 (state_licensing) is a MIXED bucket — it holds both
+  // substantive licensee-activity questions (which license operates without a
+  // supervising broker, leasing-for-compensation requires a license, the
+  // responsible-broker role, supervision, activities requiring a license) and
+  // a cluster of pure licensing/exam-process questions. The existing pre-license
+  // / age / fingerprint / background-check patterns drop several WY-02 process
+  // questions, but four exam-format / pre-license-sequence leaks slip past them
+  // and would otherwise occupy displayed slots: the "scores 68% on the state
+  // portion" and "which testing vendor" and "exam is structured as" questions
+  // (all three of which assert a WRONG 70% passing standard — Wyoming's exam is
+  // scored on a 0-100 scale with a passing SCALED score of 75, explicitly "not
+  // the number nor the percentage of questions answered correctly" per the
+  // Pearson VUE Wyoming Real Estate Candidate Handbook), and the Salesperson
+  // I/II course-sequence pre-license question. WY-03 (renewal / CE / license
+  // status) leaks one CE-renewal question ("renewed on time but forgot CE") past
+  // the existing CE/renewal patterns. Draining these five promotes substantive
+  // WY law into the displayed 20 (broker-license independence, leasing requires
+  // a license, termination → inactive license, broker-affiliation-change
+  // notification). EVERY phrase below is anchored to wording unique to the WY
+  // bank and is grep-verified to match ONLY WY-02 / WY-03 — a full scan of all
+  // non-WY question files (and the national N-* bank) returns zero matches, and
+  // a before/after build diff of all 51 state pages changes only wyoming.
+  /\bstate portion of the Wyoming licensing exam\b/i,
+  /\btesting vendor administers the Wyoming\b/i,
+  /\bSalesperson I but not Salesperson II\b/,
+  /\bWyoming licensing exam is structured\b/i,
+  /\bforgot to complete CE\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
