@@ -369,6 +369,21 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bproperty manager licensing\b/i,
   /\bmanage rental properties in SC\b/i,
   /\bSC CE\b/i,
+  // Tennessee: the TN-02 (state_licensing) bucket is wholly licensing /
+  // education / administrative process (pre-license course sequence, exam
+  // eligibility, application timeline, address-change notice, firm
+  // registration, license display, CE, post-license). The existing
+  // pre-license/age/fingerprint/CE patterns drop most of it; these
+  // TN-specific phrases drain the remaining leaks so only the substantive
+  // supervision question ("under whom must an affiliate broker work") is
+  // left to represent the bucket. Each phrase is grep-verified to appear
+  // only in TN-02, so no other state's bank is touched.
+  /\bCourse for New Affiliates\b/i,
+  /\btake the exam now\b/i,
+  /\bapply for a Tennessee license\b/i,
+  /\bNotify TREC of the address change\b/i,
+  /\bRegister with TREC as a licensed firm\b/i,
+  /\bTennessee real estate license be displayed\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {

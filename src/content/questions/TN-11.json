@@ -6,14 +6,14 @@
   "questions": [
     {
       "key_topic_ref": "TN-11.1",
-      "question_text": "Where must a Tennessee principal broker maintain the firm's trust account?",
-      "correct_answer": "A federally insured institution in Tennessee",
-      "distractors": ["Any bank located in the United States", "A TREC-operated state escrow account", "The principal broker's personal bank account"],
-      "explanation": "Trust accounts must be in a federally insured financial institution located in Tennessee and properly designated as a 'trust' or 'escrow' account.",
+      "question_text": "Where must a Tennessee principal broker hold trust money received in a transaction?",
+      "correct_answer": "In a separate, federally insured escrow or trust account",
+      "distractors": ["In any account, as long as the broker keeps accurate records", "In a TREC-operated state escrow account", "In the principal broker's personal bank account"],
+      "explanation": "Under TREC Rule 1260-02-.09, each principal broker must hold trust money in a separate escrow or trustee account, in the name of the firm, at a federally insured institution. Tennessee does not require the bank to be located in Tennessee. What matters is that the account is separate and the funds are never commingled with personal or business funds.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["trust account", "bank requirement", "federally insured"]
+      "tags": ["trust account", "escrow", "federally insured"]
     },
     {
       "key_topic_ref": "TN-11.1",
@@ -50,14 +50,14 @@
     },
     {
       "key_topic_ref": "TN-11.1",
-      "question_text": "A principal broker opens a trust account at an out-of-state online bank. Is this compliant with Tennessee law?",
-      "correct_answer": "No, the institution must be in Tennessee",
-      "distractors": ["Yes, if it is FDIC insured", "Yes, if TREC approves the bank", "Yes, for online-only transactions"],
-      "explanation": "Tennessee requires trust accounts to be in a federally insured financial institution in Tennessee. An out-of-state bank, even if FDIC insured, does not meet this requirement.",
+      "question_text": "A principal broker opens the firm's trust account at an out-of-state, federally insured online bank. Is this compliant with Tennessee law?",
+      "correct_answer": "Yes, as long as the account is federally insured and properly designated",
+      "distractors": ["No, the institution must be located in Tennessee", "No, online banks may not hold escrow funds", "Only if TREC approves the specific bank"],
+      "explanation": "Tennessee's escrow rule (TREC Rule 1260-02-.09) does not require the trust account to be at a Tennessee institution. An out-of-state or online bank is acceptable as long as the account is federally insured, kept separate in the firm's name, and properly designated as an escrow or trust account.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["trust account", "Tennessee institution", "compliance"]
+      "tags": ["trust account", "out-of-state", "federally insured"]
     },
     {
       "key_topic_ref": "TN-11.2",
