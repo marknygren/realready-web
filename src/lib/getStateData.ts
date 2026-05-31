@@ -471,6 +471,36 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bbetween leaving one broker and joining another\b/i,
   /\bWV salesperson be associated with more than one\b/i,
   /\bto effect the transfer\b/i,
+  // Wisconsin: the WI-02 (state_licensing) bucket is wholly licensing /
+  // education / exam-process content (pre-license hours, the semester-credit
+  // alternative + its completion window, minimum age, the exam itself,
+  // criminal-record eligibility, CE hours, biennial renewal date/fee, broker
+  // experience). The existing pre-license / age / CE / renewal patterns drop
+  // most of WI-02, but eight questions leak past them and would otherwise
+  // occupy displayed slots: the semester-credit completion window, the
+  // criminal-record eligibility question, the "75% on each portion" exam-format
+  // question (which is itself wrong — WI is a single combined 140-q exam scored
+  // on a 0-100 scale, not split national+state portions), the high-school-
+  // diploma requirement, the CE-biennium-exemption question, and three license-
+  // type/experience/late-renewal questions. Draining the whole WI-02 bucket
+  // promotes substantive WI law questions (discipline grounds under § 452.14,
+  // 2023 Act 208 forfeitures + wholesaler disclosure, and WI Open Housing Law
+  // fair-housing content) into the displayed 20. EVERY phrase below is anchored
+  // to wording unique to the WI bank and is verified to match ONLY WI-02 in the
+  // question_text+correct_answer haystack — a full scan of all non-WI question
+  // files returns zero haystack matches, WI-01/03/04 survivor counts are
+  // unchanged, and a before/after build diff of all state pages changes only
+  // wisconsin. ("December 14 deadline" is the WI biennial renewal date; the
+  // generic biennial pattern already in this list misses "biennium", so the CE-
+  // exemption question is caught by its WI-specific answer wording instead.)
+  /\bcredits must be completed within\b/i,
+  /\bapplicant with a criminal record\b/i,
+  /\bportion of the Wisconsin salesperson exam\b/i,
+  /\brequired for a Wisconsin salesperson license\b/i,
+  /\bexempt for that biennium\b/i,
+  /\bopen their own real estate firm\b/i,
+  /\b2 years within the prior 5 years\b/i,
+  /\bDecember 14 deadline\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
