@@ -440,6 +440,37 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bWA Core\b/i,
   /\bFair Housing CE\b/i,
   /\bname or address change\b/i,
+  // West Virginia: the WV-04 (pre-license education + exam process) and WV-06
+  // (renewal / CE / license-status / broker-transfer) "state_licensing"
+  // buckets are wholly licensing/exam-process. The existing pre-license / age /
+  // fingerprint / background-check / CE / renewal patterns drop most of WV-04
+  // and much of WV-06, but several exam-format and license-administration
+  // questions leak past them and would otherwise occupy displayed slots:
+  // WV-04's passing-score, testing-provider, scored-item-count, section-split
+  // and results-timing questions, and WV-06's renewal-frequency, license-status
+  // and broker-transfer questions. Draining both buckets promotes substantive
+  // WV law questions (commission powers, trust accounts, UPL, advertising,
+  // agency disclosure, dual agency, fair housing) into the displayed 20. Each
+  // phrase below is sim-verified to match only WV-04/WV-06 and no other WV or
+  // non-WV question, so no other state's bank is touched.
+  /\btesting provider\b/i,
+  /\bscored items?\b/i,
+  /\bpassing score is required\b/i,
+  /\blicensing exam results\b/i,
+  /\bnational section\b/i,
+  /\bstate section\b/i,
+  /\blicenses be renewed\b/i,
+  /\bhow often must .*licens/i,
+  /\blicense status\b/i,
+  /\bchanges employing brokers\b/i,
+  /\bmore than one employing broker\b/i,
+  /\bno longer associated with (a |an )?broker\b/i,
+  /\bleaves Broker\b/i,
+  /\bleaving one broker\b/i,
+  /\btransfers from one brokerage\b/i,
+  /\bfirst renewal\b/i,
+  /\bcanceled.{0,8}expired\b/i,
+  /\brecognized WV license\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
