@@ -6,25 +6,25 @@
   "questions": [
     {
       "key_topic_ref": "VA-09.1",
-      "question_text": "Under Virginia's Residential Property Disclosure Act, a seller may check one of how many disclosure options?",
-      "correct_answer": "Two options",
-      "distractors": ["Three options", "Four options", "One mandatory option"],
-      "explanation": "Virginia uses a disclaimer-based system where the seller checks one of two boxes: (1) making no representations about the property, or (2) making specific representations about known conditions.",
+      "question_text": "Under Virginia's Residential Property Disclosure Act, what must the seller of residential property provide to the buyer?",
+      "correct_answer": "A buyer-beware statement saying the owner makes no representations about the property",
+      "distractors": ["A detailed written list of all known material defects", "A one-year warranty covering the property's condition", "A certified appraisal of the property's market value"],
+      "explanation": "Virginia uses a buyer-beware approach under the Residential Property Disclosure Act (Va. Code § 55.1-703). The seller furnishes a single standardized disclosure statement saying the owner makes no representations or warranties about the property's condition and that the buyer should exercise due diligence, such as a home inspection, before settlement. It is not a defect-disclosure form like those required in many other states.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["disclosure", "RPDA", "disclaimer"]
+      "tags": ["disclosure", "RPDA", "buyer-beware"]
     },
     {
       "key_topic_ref": "VA-09.1",
-      "question_text": "A Virginia seller selects the 'no representations' option on the disclosure form. The seller knows the basement floods regularly. What is the seller's obligation?",
-      "correct_answer": "Must still disclose known material adverse facts",
-      "distractors": ["No further disclosure is required", "Only disclose if the buyer asks directly", "Disclose only latent structural defects"],
-      "explanation": "Even when a seller opts for the disclaimer (no representations), Virginia law requires disclosure of known material adverse facts. The disclaimer does not eliminate the duty to disclose significant known problems.",
+      "question_text": "A Virginia seller knows the basement floods but provides the standard buyer-beware disclosure statement. Under Virginia's caveat emptor approach, what is the seller's duty regarding the flooding?",
+      "correct_answer": "The seller need not volunteer it but cannot conceal it or lie if asked",
+      "distractors": ["The seller must affirmatively disclose it in the statement", "The seller has no duty even if the buyer asks directly", "The seller must disclose it only after the home inspection"],
+      "explanation": "Virginia follows caveat emptor (Va. Code § 55.1-703). A seller using the buyer-beware disclosure statement is generally not required to volunteer known defects, but the seller may not actively conceal a defect, divert the buyer from discovering it, or lie in response to a direct question. So the seller need not list the flooding but cannot hide it or misrepresent it if asked.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["disclosure", "material-adverse-facts", "disclaimer"]
+      "tags": ["disclosure", "caveat-emptor", "concealment"]
     },
     {
       "key_topic_ref": "VA-09.1",
@@ -50,14 +50,14 @@
     },
     {
       "key_topic_ref": "VA-09.1",
-      "question_text": "Which option on the Virginia disclosure form is most commonly selected by sellers?",
-      "correct_answer": "The owner makes no representations or warranties",
-      "distractors": ["The owner provides specific property condition details", "The owner certifies all systems are functional", "The owner warrants the property is defect-free"],
-      "explanation": "Virginia's disclaimer-based system allows sellers to choose between making no representations or providing specific representations. Most sellers select the disclaimer option, though they must still disclose known material adverse facts regardless.",
+      "question_text": "What does the standard Virginia residential property disclosure statement tell buyers about the property's condition?",
+      "correct_answer": "The owner makes no representations and the buyer should exercise due diligence",
+      "distractors": ["The owner certifies all major systems are functional", "The owner warrants the property is free of defects", "The owner guarantees clear title to the property"],
+      "explanation": "Virginia's Residential Property Disclosure Act (Va. Code § 55.1-703) uses a single buyer-beware statement. It tells the purchaser that the owner makes no representations or warranties about the condition of the property and that the buyer should exercise whatever due diligence they deem necessary, such as obtaining a home inspection, before settlement.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["disclosure", "RPDA", "disclaimer-option"]
+      "tags": ["disclosure", "RPDA", "buyer-beware"]
     },
     {
       "key_topic_ref": "VA-09.2",

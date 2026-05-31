@@ -6,14 +6,14 @@
   "questions": [
     {
       "key_topic_ref": "VA-12.1",
-      "question_text": "In Virginia, who typically oversees the real estate settlement process?",
-      "correct_answer": "An attorney acting as settlement agent",
-      "distractors": ["A title company representative only", "The buyer's real estate agent", "An escrow officer from a bank"],
-      "explanation": "Virginia is an attorney state where an attorney typically oversees settlements, unlike states such as California where escrow companies handle closings.",
+      "question_text": "Under Virginia's Real Estate Settlement Agents Act, who may serve as the settlement agent for a closing?",
+      "correct_answer": "A registered attorney, title company, real estate broker, or financial institution",
+      "distractors": ["Only a licensed Virginia attorney", "Only the lender's loan officer", "Only the buyer's real estate agent"],
+      "explanation": "Virginia is not an attorney-only closing state. Under the Real Estate Settlement Agents Act (formerly CRESPA, Va. Code § 55.1-1000 et seq.), settlement services may be provided by a registered attorney, a title insurance company or agent, a real estate broker, or a financial institution. Non-attorney settlement companies handle many Virginia closings, though only an attorney may give legal advice.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["attorney-state", "settlement-agent", "closing"]
+      "tags": ["RESA", "settlement-agent", "closing"]
     },
     {
       "key_topic_ref": "VA-12.1",
@@ -39,21 +39,21 @@
     },
     {
       "key_topic_ref": "VA-12.1",
-      "question_text": "A buyer relocating from California to Virginia expects an escrow company to handle closing. The agent should explain that Virginia uses:",
-      "correct_answer": "Attorney-supervised settlement instead",
-      "distractors": ["The same escrow process as California", "A title company without attorney oversight", "A county government closing officer"],
-      "explanation": "Virginia is an attorney state where settlements are typically overseen by attorneys, unlike California where independent escrow companies commonly handle closings.",
+      "question_text": "A buyer relocating from California to Virginia expects an escrow company to handle closing. The agent should explain that Virginia closings are handled by:",
+      "correct_answer": "Registered settlement agents such as title companies or attorneys",
+      "distractors": ["Attorneys only, as required by state law", "The county government closing office", "The real estate agent who wrote the contract"],
+      "explanation": "Virginia does not use California's independent-escrow model. Under the Real Estate Settlement Agents Act (Va. Code § 55.1-1000 et seq.), closings are conducted by registered settlement agents, which may be title companies, attorneys, real estate brokers, or financial institutions. Virginia is not an attorney-only closing state.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["attorney-state", "escrow-comparison", "California-vs-Virginia"]
+      "tags": ["RESA", "settlement-agent", "California-vs-Virginia"]
     },
     {
       "key_topic_ref": "VA-12.1",
       "question_text": "In Virginia, who ensures all closing conditions are met and funds are properly distributed at settlement?",
       "correct_answer": "The settlement agent",
       "distractors": ["The buyer's real estate agent", "The listing agent for the seller", "The mortgage lender's processor"],
-      "explanation": "In Virginia, the settlement agent (typically an attorney or title company with attorney supervision) verifies all closing conditions, prepares documents, and handles proper disbursement of funds to all parties.",
+      "explanation": "In Virginia, the settlement agent (which may be a title company, attorney, real estate broker, or financial institution registered under the Real Estate Settlement Agents Act) verifies all closing conditions, prepares documents, and handles proper disbursement of funds to all parties.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
