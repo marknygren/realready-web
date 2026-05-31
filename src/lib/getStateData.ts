@@ -398,6 +398,20 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bsales apprentice education\b/i,
   /\bSAE\b/,
   /\bdeferral fee\b/i,
+  // Utah: the UT-02 (state_licensing) bucket is dominated by licensing /
+  // exam-process content (pre-license hours, age, background check,
+  // application deadlines), most of which the existing pre-license/age/
+  // background-check/apply-for-license patterns already drop. Three
+  // exam-format / education-deadline questions leak past them and would
+  // otherwise occupy a displayed slot: the total-exam-time trivia, the
+  // passing-score trivia (both duplicate the FAQ), and the 1-year
+  // education-completion deadline. Draining them promotes the substantive
+  // attorney-licensing-exemption question (Utah Code 61-2f-202) into the
+  // displayed 20. Each phrase is grep-verified to appear only in UT-02, so
+  // no other state's bank is touched.
+  /\btotal time allowed for both sections\b/i,
+  /\bpassing score is required on both portions\b/i,
+  /\bfinish the entire licensing process\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
