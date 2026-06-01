@@ -528,6 +528,135 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bSalesperson I but not Salesperson II\b/,
   /\bWyoming licensing exam is structured\b/i,
   /\bforgot to complete CE\b/i,
+
+  // ----------------------------------------------------------------------
+  // 2026-05-31 quality audit — drain (a) exam format/procedure leaks and
+  // (b) the commission "org-chart" cluster from the displayed showcase.
+  //
+  // Context: the per-state `state_licensing` files (XX-01/02/03) LEAD with
+  // exam-mechanics and commission-structure questions, so the displayed-20
+  // round-robin kept surfacing them — e.g. "How many members serve on the
+  // [State] Commission?" was literally the first question on 25/51 pages,
+  // and several pages showed testing-vendor / passing-score / score-validity
+  // trivia. These appear on real exams (so the MOBILE bank keeps them) but
+  // they're a weak showcase of what RealReady teaches. Draining them promotes
+  // the SUBSTANTIVE questions sitting deeper in the same buckets (enforcement
+  // powers, cease-and-desist authority, license types/status, disclosure,
+  // trust accounts, antitrust). Every pattern below was grep-verified against
+  // the full bank to match ONLY org-chart / exam-procedure questions (never a
+  // substantive enforcement/license-law question — e.g. /political party/ was
+  // rejected because it hit a DC fair-housing question, /felony/ because it
+  // hit ~20 substantive discipline questions, /headquartered/ because it hit
+  // trust-account questions, /force of law/ because it hit admin-law
+  // questions). All 51 states still yield ≥20, and every newly-surfaced
+  // replacement was fact-checked for a correct keyed answer before shipping
+  // (this is how we caught and also drained NJ's nonexistent "Residential
+  // Property Wholesaler license" question and OH's cease-and-desist question,
+  // which ORC ch. 4735 does not actually authorize).
+
+  // -- Exam format / testing-vendor / test-procedure leaks (surgical) --
+  /\bhow long is the .*exam score valid\b/i,
+  /\bpassing score is required on each portion of the DC\b/i,
+  /\bsales associate licensing exam contains how many questions\b/i,
+  /\bpassing threshold for the Illinois broker licensing\b/i,
+  /\bMississippi state exam portion contains\b/i,
+  /\b180-day eligibility\b/i,
+  /\bbut 65% on the state portion\b/i,
+  /\bpassed the licensing exam \d+ months ago\b/i,
+  /\btesting vendor administers the Georgia\b/i,
+  /\bwho administers the Mississippi real estate licensing exam\b/i,
+  /\btesting vendor administers the New Jersey\b/i,
+  /\bpasses the PSI exam and wants to apply\b/i,
+  /\bPearson VUE test center for the Utah\b/i,
+  /\bcontracts with PSI\b/i,
+  /\bwholesale residential contracts in New Jersey\b/i, // NJ: teaches a license that was never enacted
+  /\breal estate business without a license in Ohio\b/i, // OH: keyed C&D answer not authorized by ORC 4735
+
+  // -- Commission composition / seats --
+  /\bhow many (members|commissioners) serve\b/i,
+  /\bhow many must be (licensed|public|brokers|consumer)\b/i,
+  /\bminimum number of (licensed )?brokers\b/i,
+  /\bmust be public\b/i,
+  /\bpublic members\b/i,
+  /\bpublic \(non-licensee\) members\b/i,
+  /\bnon-licensee (members|positions)\b/i,
+  /\bpublic member seat\b/i,
+  /\bwhich seat could this person fill\b/i,
+  /\bcongressional districts?\b/i,
+  /\bpolitical party membership of\b/i,
+  /\bsame political party as three sitting\b/i,
+  /\b(Supreme Court districts|geographic divisions)\b/i,
+  /\bcommissioners must hold active\b/i,
+  /\bbroker seats\b/i,
+  /\bbroker members? (need|require|must)\b/i,
+  /\bremaining (four|three|five) seats\b/i,
+  /\bprofessional members of the Commission\b/i,
+  /\bcomposition is TRUE\b/i,
+  /\bcorrectly describes .{0,15}composition\b/i,
+  /\bex officio member\b/i,
+
+  // -- Commission appointment --
+  /\bwho appoints (the )?(members|commissioners)\b/i,
+  /\bwho appoints members\b/i,
+  /\bwho appoints the .{0,30}members\b/i,
+  /\bmakes these appointments\b/i,
+  /\bappointed from a list\b/i,
+  /\bnominated by which\b/i,
+  /\bconsent to the Governor'?s appointments\b/i,
+  /\bdesignates the chair\b/i,
+  /\bselects the replacement\b/i,
+  /\badvice and consent\b/i,
+  /\bwho confirms appointments\b/i,
+  /\bmust confirm the appointment\b/i,
+  /\blist of nominees\b/i,
+  /\bbefore appointment\b/i,
+
+  // -- Commissioner terms --
+  /\bhow long do .{0,30}(commissioners|members) serve\b/i,
+  /\bterm length for a member of the\b/i,
+  /\blength of each term on the\b/i,
+  /\bhow long is a term for\b/i,
+  /\b(two|three) (consecutive|full) .{0,20}terms\b/i,
+  /\beligib\w+ for (another term|reappointment)\b/i,
+  /\bhow long did (she|he) serve\b/i,
+  /\bterms of what (length|duration)\b/i,
+  /\bhow long was (her|his) (term|appointment)\b/i,
+  /\bhow long was the original appointment\b/i,
+  /\bterms are staggered\b/i,
+  /\bseats come up for appointment\b/i,
+
+  // -- Commissioner qualifications / membership rules --
+  /\bminimum (licensure period|broker experience)\b/i,
+  /\bprospective .{0,20}commissioner\b/i,
+  /\bto serve as a professional member\b/i,
+  /\blicensed for at least how many years\b/i,
+  /\bserve without an active license\b/i,
+  /\bhow are they compensated\b/i,
+
+  // -- Agency structure / who-runs-it / bare statute-citation trivia --
+  /\boperates (under|within) which .{0,20}(government entity|cabinet|department|agency|division)\b/i,
+  /\b(administrative umbrella|umbrella over the)\b/i,
+  /\b(Education Council|which body (sets|develops) education)\b/i,
+  /\bmanag\w+ the .{0,20}daily operations\b/i,
+  /\bday-to-day administrative functions\b/i,
+  /\brole of .{0,14}Executive Director\b/i,
+  /\bCommission headquartered\b/i,
+  /\bhouses the .{0,30}Real Estate Commission\b/i,
+  /\bwhich division within DCCA\b/i,
+  /\bderives from which .{0,15}(statute|source|title|chapter)\b/i,
+  /\bstatute establishes the\b/i,
+  /\bwhich title and chapter\b/i,
+  /\breceives the complaint on behalf\b/i,
+
+  // -- Licensing/exam procedure leaks (retake fee, CE hours, app dates,
+  //    pre-license experience-months, felony pre-determination) --
+  /\bretake fee\b/i,
+  /\bhours of Florida CE\b/i,
+  /\bemployment date\b/i,
+  /\bpre-?determination petition\b/i,
+  /\bmonths of active (salesperson )?experience\b/i,
+  /\bconsecutive months of licensed experience\b/i,
+  /\bactive months exceeds the minimum\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
