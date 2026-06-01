@@ -242,20 +242,50 @@ keep the count consistent.
 
 #### FAQ targets
 
-6–8 entries. Each Q&A answers something a real candidate would Google:
+**11 entries** (12 if you add an extra exam Q like LA). Each Q&A answers
+something a real candidate would Google. Order matters: logistics first,
+prep in the middle, RealReady product Qs at the end.
+
+Exam-logistics block:
 
 - How many questions are on the [State] real estate exam?
 - What's the passing score?
 - How much does the exam cost?
 - How long is the exam?
+- Who administers the [State] real estate exam? *(state-differentiating —
+  built from `examFacts.notes`: administrator (PSI / Pearson VUE / self) +
+  the most real-estate-specific regulator. No result-timing / proctoring /
+  split-scoring claims here; those vary and live in other answers.)*
 - Is the [State] real estate exam hard?
 - What's on the exam? (cover sections + state-specific weighting)
 - What's the best way to prepare?
 
+RealReady product block (added 2026-05-31 across all states):
+
+- **Is RealReady free?** — templated product fact. State by nature; reword
+  so it does NOT parrot the CTA band's "one-time purchase / no subscription /
+  yours forever".
+- **Does RealReady cover the [State] real estate exam?** — state-anchored.
+  Name 2–3 of that state's **real tested topics pulled verbatim from intro P2**
+  (do NOT introduce new facts, and do NOT re-list the app feature set — that's
+  in intro P4 + the CTA band). Say "built for the [State] real estate exam",
+  never "salesperson exam" (14 states are broker / sales-associate / affiliate
+  entry).
+- **Is RealReady a real estate license course?** — templated. Answers the
+  "is this a course?" confusion: no, it's exam practice, doesn't count toward
+  pre-license education hours.
+
+Of these, **"Who administers" and "Does RealReady cover" genuinely vary per
+state** (they carry the SEO de-dup value); the other two product Qs are
+deliberately templated and that repetition is fine for product-fact FAQs.
+Design rationale: `docs/superpowers/specs/2026-05-31-faq-improvements-design.md`.
+
 **Do NOT include licensing-process FAQs** (CE hours, fingerprinting,
 application form, license renewal). These are filtered out of the
 question bank by `LICENSING_PROCESS_PATTERNS` in `getStateData.ts`;
-mirror that on the FAQ side.
+mirror that on the FAQ side. (The "is it a course?" answer *referencing*
+pre-license hours to clarify what RealReady is NOT is fine — it's not a
+how-to-get-licensed FAQ.)
 
 ### 4. Pre-ship verification gate (every fact + every question)
 
