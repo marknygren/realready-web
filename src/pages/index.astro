@@ -35,11 +35,24 @@ const homepageFaq: FaqItem[] = [
     a: 'No one can promise you a pass. But targeted practice and honest feedback on what you’re missing is the closest thing.',
   },
 ];
+
+// WebSite structured data — this is what makes Google show "RealReady" as the
+// site name (the bold line above the title in search results) instead of
+// falling back to the bare domain "realready.app". Google reads this from the
+// homepage and applies the name across the whole domain, so it fixes every
+// page at once. Pairs with the og:site_name meta tag in BaseLayout.
+const websiteSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  name: 'RealReady',
+  url: 'https://realready.app/',
+};
 ---
 
 <BaseLayout
-  title="RealReady — Real estate exam prep for all 50 states"
+  title="Free Real Estate Practice Exam, All 50 States | RealReady"
   description="Free real estate practice tests for all 50 states + DC. State-targeted questions with honest feedback. Pass your salesperson or broker exam with confidence."
+  jsonLd={[websiteSchema]}
 >
   <Hero />
 
