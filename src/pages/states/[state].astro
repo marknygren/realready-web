@@ -118,7 +118,7 @@ const filters = [
         <div class="rr-phone">
           <span class="rr-phone__notch"></span>
           <div class="rr-phone__screen rr-phone__screen--hero">
-            <img src="/images/hero-home.png" alt="" loading="eager" />
+            <img src="/images/hero-home.png" alt="" loading="lazy" />
           </div>
         </div>
       </div>
@@ -130,13 +130,9 @@ const filters = [
     <ExamFactsStrip facts={data.examFacts} stateName={data.name} />
   </Section>
 
-  {/* INTRO */}
-  <Section variant="warm" narrow class="rr-section--tight-top">
-    <div class="state-intro" set:html={data.intro} />
-  </Section>
-
-  {/* 20 PRACTICE QUESTIONS */}
-  <Section id="practice">
+  {/* 20 PRACTICE QUESTIONS — the page leads with the test; the intro prose
+      now lives below the CTA (see "MORE ABOUT THE EXAM"). */}
+  <Section id="practice" class="rr-section--tight-top">
     <header class="practice-header">
       <p class="rr-eyebrow">
         <span class="rr-eyebrow__dot" aria-hidden="true"></span>Practice
@@ -202,12 +198,23 @@ const filters = [
     </div>
   </Section>
 
+  {/* MORE ABOUT THE EXAM: the former top intro, moved below the questions and
+      CTA so the page leads with the practice test. This is where the unique,
+      state-specific statute content lives. */}
+  <Section variant="warm" narrow>
+    <p class="rr-eyebrow">
+      <span class="rr-eyebrow__dot" aria-hidden="true"></span>About the exam
+    </p>
+    <h2 class="rr-h2">More about the {data.name} real estate exam</h2>
+    <div class="state-intro" set:html={data.intro} />
+  </Section>
+
   {/* STATE-SPECIFIC FAQ */}
   <Section variant="warm" narrow>
     <p class="rr-eyebrow">
       <span class="rr-eyebrow__dot" aria-hidden="true"></span>FAQ
     </p>
-    <h2 class="rr-h2">{data.name} real estate exam — questions answered</h2>
+    <h2 class="rr-h2">{data.name} real estate exam: your questions answered</h2>
     <FaqAccordion items={data.faq} />
   </Section>
 
@@ -256,6 +263,15 @@ const filters = [
      a bit more breathing room than the homepage. */
   .rr-hero--state .rr-hero__actions {
     margin-top: 1.5rem;
+  }
+
+  /* Mobile: drop the decorative phone mockup so it stops adding ~400px of
+     scroll before the questions. Paired with loading="lazy" on the image, a
+     hidden mockup is never fetched on phones. Desktop (≥52rem) still shows it. */
+  @media (max-width: 52rem) {
+    .rr-hero--state .rr-hero__device {
+      display: none;
+    }
   }
 
   .state-intro :global(p) {

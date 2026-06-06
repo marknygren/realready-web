@@ -118,12 +118,18 @@ const appHref = isStatePage || isHomepage ? '#get-app' : '/#get-app';
 
 <style>
   /* Masthead row breathes a little more now that the logo image is in it.
-     position: relative anchors the mobile dropdown's absolute positioning
-     to the masthead. */
+     position: sticky keeps the "Get the app" CTA reachable at any scroll depth
+     and still establishes the containing block the mobile dropdown anchors to
+     (sticky is a positioned value, same as relative for that purpose).
+     .masthead (global.css) already supplies the opaque background + bottom
+     border; the shadow adds depth once the header is pinned over content. */
   :global(.rr-masthead) {
     padding-top: 0.85rem;
     padding-bottom: 0.85rem;
-    position: relative;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 4px 16px rgba(15, 23, 42, 0.05);
   }
   :global(.rr-masthead .masthead__inner) {
     align-items: center;
