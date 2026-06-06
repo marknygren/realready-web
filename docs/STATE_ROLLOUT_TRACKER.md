@@ -13,6 +13,21 @@
 > sections 0 through 7 below in order. Each step is concrete. Steps 2 and 4
 > require WebSearch / WebFetch — those are the verification gates.
 
+> **⚠️ SUPERSEDED IN PART — state-page layout + copy redesigned 2026-06-06.**
+> The template now **leads with the 20 questions**. The intro prose moved into a
+> "More about the [State] real estate exam" section **below the CTA** and was
+> trimmed to a **2-paragraph, statute-only block**: the old 4-paragraph template,
+> the "Below are 20 free…" P3, and the "Get the RealReady app…" P4 were removed.
+> The hero subhead was rewritten ("Practice 20 [State] questions free below, no
+> signup…"), the masthead is now sticky site-wide, and the hero phone mockup is
+> hidden on mobile. So the **"Intro paragraph template", "Hero", and "CTA band"**
+> copy sections below are no longer current — treat the live
+> `src/pages/states/[state].astro` and the per-state `src/content/states/[XX].json`
+> intros as the source of truth. (The "no colons in body copy" rule below is also
+> superseded: the user's standing preference allows colons; only em dashes stay
+> banned in web copy.) The exam-info lookup, the data-layer table, and the pre-ship
+> verification gate all remain valid.
+
 ---
 
 ## Data layers — where each kind of edit lives
@@ -131,7 +146,7 @@ Required fields:
 | `examFacts.passingScore` | **step 2 lookup** | e.g. `"70%"` |
 | `examFacts.registrationFee` | **step 2 lookup** | e.g. `"$60"` |
 | `examFacts.notes` | **step 2 lookup** | 1 short sentence naming the regulator and (if relevant) the test administrator |
-| `intro` | written, **with statutes verified in step 2** | 4-paragraph HTML — see SEO targets below |
+| `intro` | written, **with statutes verified in step 2** | 2-paragraph statute-only HTML, rendered below the CTA (redesigned 2026-06-06; see the SUPERSEDED banner at top) |
 | `faq` | written, **with logistics from step 2** | 6–8 Q&A entries (no licensing-process Qs — see Rules) |
 
 Count the state's questions in the bank:
@@ -160,7 +175,12 @@ California. Follow these closely; they save a lot of back-and-forth.
   entities, so `&rsquo;` would render literally in copy. Use the real
   Unicode characters directly in JSON strings: `'`, `—`, `&`, `"`.
 
-#### Intro paragraph template (4 `<p>` blocks inside the `intro` field)
+#### Intro paragraph template (4 `<p>` blocks inside the `intro` field) — ⚠️ SUPERSEDED 2026-06-06
+
+> The 4-paragraph structure below is **no longer used**. Intros are now 2
+> statute-only paragraphs rendered in a "More about the [State] real estate exam"
+> section below the CTA (P3 and P4 deleted; exam-logistics trimmed from the
+> opener). Kept here only as historical record. See the live template + state JSONs.
 
 **P1 — Exam intro (~3 sentences)**
 

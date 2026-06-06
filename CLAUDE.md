@@ -9,9 +9,11 @@ git repo from the mobile app: `marknygren/realready-web`.
 **Read [docs/STATE_ROLLOUT_TRACKER.md](docs/STATE_ROLLOUT_TRACKER.md)
 end-to-end before touching anything.** It's the canonical, self-contained
 playbook for shipping a `/states/[slug]/` page — exam-info lookup, the
-4-paragraph intro template, the FAQ rules, the pre-ship verification gate
-(this is where we caught CA Q7 having the wrong correct answer), and the
-ship-to-both-repos step when questions get edited.
+intro/copy template (note: layout + copy redesigned 2026-06-06, see the
+tracker's "SUPERSEDED" banner at top for the current structure), the FAQ
+rules, the pre-ship verification gate (this is where we caught CA Q7 having
+the wrong correct answer), and the ship-to-both-repos step when questions
+get edited.
 
 Status table at the bottom of that doc tracks which states are 🟡 pending
 vs ✅ live. California is the pilot reference; copy its `src/content/states/CA.json`
