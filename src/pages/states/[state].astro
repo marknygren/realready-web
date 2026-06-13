@@ -35,6 +35,10 @@ const totalBankPretty = totalBank.toLocaleString();
 // stays under 60 chars for SERP.
 const title = `Free ${data.name} Real Estate Practice Test | RealReady`;
 
+// Build year, stamped into the hero subhead ("for the 2026 exam"). Rolls over
+// automatically on the first deploy of each new year.
+const examYear = new Date().getFullYear();
+
 // Meta description weaves "Practice Test", "Questions and Answers", the state
 // exam name, and the total bank size — all things actual searchers type.
 const description = `20 free ${data.name} real estate practice questions with answers and explanations. Unlock ${totalBankPretty}+ more in the RealReady app. Pass your ${data.name} real estate exam with confidence.`;
@@ -101,10 +105,11 @@ const filters = [
           {data.name} Real Estate <em>Practice Test</em>
         </h1>
         <p class="rr-hero__subhead rise rise-3">
-          Practice 20 {data.name} questions free below, no signup. The full
-          RealReady bank has <span class="rr-hero__highlight">{totalBankPretty} questions</span>{' '}
-          covering national principles and {data.name} law, yours for a
-          one-time $17.99 with no subscription.
+          20 free {data.name} practice questions with no signup required.
+          When you're ready for more, the full RealReady bank has{' '}
+          <span class="rr-hero__highlight">{totalBankPretty} questions</span>{' '}
+          for the {examYear} exam that cover both national principles and{' '}
+          {data.name} law.
         </p>
         <div class="rr-hero__actions rise rise-4">
           <AppStoreBadges align="start" />
@@ -189,7 +194,8 @@ const filters = [
       </ul>
       <p class="state-cta__body state-cta__body--close">
         Unlike other real estate prep apps, we don't cut off access or
-        charge a monthly subscription fee. Once you buy, it's yours forever.
+        charge a monthly subscription fee. It's a one-time $17.99, and
+        it's yours forever.
       </p>
       <div class="state-cta__badges">
         <AppStoreBadges align="center" />
