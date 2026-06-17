@@ -257,10 +257,22 @@ const filters = [
      we just constrain the copy column width slightly. */
   .rr-hero--state {
     /* The scroll cue is the hero's last element, so trim the default bottom
-       padding (clamp(3rem,8vw,6rem)) right down — otherwise a tall navy band
-       sits below the arrow before the next (light) section. The cue's own
-       margin-top handles the gap above it. */
-    padding-bottom: clamp(1.5rem, 3vw, 2.25rem);
+       padding (clamp(3rem,8vw,6rem)) right down so "Practice below" sits at
+       the bottom edge of the navy with no leftover strip beneath it. The
+       cue's own margin-top handles the gap above it. */
+    padding-bottom: clamp(1rem, 2vw, 1.5rem);
+  }
+
+  /* Drop the hero's bottom-left teal radial glow on state pages. Its lower
+     edge (centered at 90% height) faded out into a hard horizontal "line"
+     across the navy just above the scroll cue, with untinted navy below it
+     reading as a separate strip. Keep the top-right glow for depth. */
+  .rr-hero--state::before {
+    background: radial-gradient(
+      ellipse at 85% 20%,
+      rgba(142, 202, 230, 0.16) 0%,
+      transparent 55%
+    );
   }
   .rr-hero__inner--state {
     text-align: left;
