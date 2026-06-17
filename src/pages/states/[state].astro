@@ -256,7 +256,11 @@ const filters = [
      .rr-hero__inner grid (1fr → 1.15fr/0.85fr at 52rem+) is what we want;
      we just constrain the copy column width slightly. */
   .rr-hero--state {
-    /* Use the same dark hero styling */
+    /* The scroll cue is the hero's last element, so trim the default bottom
+       padding (clamp(3rem,8vw,6rem)) right down — otherwise a tall navy band
+       sits below the arrow before the next (light) section. The cue's own
+       margin-top handles the gap above it. */
+    padding-bottom: clamp(1.5rem, 3vw, 2.25rem);
   }
   .rr-hero__inner--state {
     text-align: left;
