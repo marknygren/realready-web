@@ -263,16 +263,14 @@ const filters = [
     padding-bottom: clamp(1rem, 2vw, 1.5rem);
   }
 
-  /* Drop the hero's bottom-left teal radial glow on state pages. Its lower
-     edge (centered at 90% height) faded out into a hard horizontal "line"
-     across the navy just above the scroll cue, with untinted navy below it
-     reading as a separate strip. Keep the top-right glow for depth. */
+  /* Remove the hero's decorative radial glows on state pages entirely.
+     Both gradients end in a `transparent` falloff stop, and that stop
+     renders as a faint horizontal "line" across the navy near the scroll
+     cue — the bottom-left glow's edge most obviously, but the top-right
+     glow's 55% falloff reaches the lower hero too at wide viewports. A flat
+     navy keeps the cue-to-next-section transition clean with no line. */
   .rr-hero--state::before {
-    background: radial-gradient(
-      ellipse at 85% 20%,
-      rgba(142, 202, 230, 0.16) 0%,
-      transparent 55%
-    );
+    display: none;
   }
   .rr-hero__inner--state {
     text-align: left;
