@@ -127,6 +127,27 @@ const filters = [
         </div>
       </div>
     </div>
+
+    {/* Scroll cue: nudges visitors down to the 20 free questions, which are
+        the whole point of the page. Plain anchor link — global scroll-behavior
+        + scroll-padding-top handle the smooth jump past the sticky masthead. */}
+    <a href="#practice" class="rr-hero__scrollcue rise rise-6">
+      <span class="rr-hero__scrollcue-label">Practice below</span>
+      <svg
+        class="rr-hero__scrollcue-arrow"
+        width="20"
+        height="20"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        aria-hidden="true"
+      >
+        <polyline points="6 9 12 15 18 9"></polyline>
+      </svg>
+    </a>
   </section>
 
   {/* EXAM FACTS STRIP */}
@@ -268,6 +289,41 @@ const filters = [
      a bit more breathing room than the homepage. */
   .rr-hero--state .rr-hero__actions {
     margin-top: 1.5rem;
+  }
+
+  /* Scroll cue at the bottom of the hero — orange "Practice below" with a
+     bouncing chevron that jumps to the #practice section. Centered across
+     the full hero width so it reads as a classic scroll indicator. */
+  .rr-hero__scrollcue {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.15rem;
+    margin-top: clamp(2rem, 5vw, 3rem);
+    color: var(--rr-orange, #ffb703);
+    font-family: var(--font-display);
+    font-size: 0.95rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    transition: color 150ms ease;
+  }
+  .rr-hero__scrollcue:hover {
+    color: var(--rr-orange-deep, #fb8500);
+  }
+  .rr-hero__scrollcue:focus-visible {
+    outline: 2px solid var(--rr-orange, #ffb703);
+    outline-offset: 6px;
+    border-radius: 4px;
+  }
+  .rr-hero__scrollcue-arrow {
+    animation: rr-scrollcue-bounce 1.6s ease-in-out infinite;
+  }
+  @keyframes rr-scrollcue-bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(5px); }
   }
 
   /* Mobile: drop the decorative phone mockup so it stops adding ~400px of
