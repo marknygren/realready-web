@@ -262,16 +262,6 @@ const filters = [
        cue's own margin-top handles the gap above it. */
     padding-bottom: clamp(1rem, 2vw, 1.5rem);
   }
-
-  /* Remove the hero's decorative radial glows on state pages entirely.
-     Both gradients end in a `transparent` falloff stop, and that stop
-     renders as a faint horizontal "line" across the navy near the scroll
-     cue — the bottom-left glow's edge most obviously, but the top-right
-     glow's 55% falloff reaches the lower hero too at wide viewports. A flat
-     navy keeps the cue-to-next-section transition clean with no line. */
-  .rr-hero--state::before {
-    display: none;
-  }
   .rr-hero__inner--state {
     text-align: left;
   }
@@ -322,6 +312,11 @@ const filters = [
     font-weight: 600;
     letter-spacing: 0.02em;
     text-decoration: none;
+    /* Links site-wide use `border-bottom: 1px solid var(--color-fg)` as their
+       underline (global.css `a`). This cue is a flex container, so its <a> is
+       full-width and that border would draw a 1px line clear across the navy
+       hero, right below the arrow. Remove it. */
+    border-bottom: 0;
     transition: color 150ms ease;
   }
   .rr-hero__scrollcue:hover {
