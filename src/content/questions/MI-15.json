@@ -75,7 +75,7 @@
       "question_text": "A Michigan condo owner fails to pay assessments. The association files an assessment lien. How does this lien rank against an existing first mortgage?",
       "correct_answer": "It is subordinate to the first mortgage",
       "distractors": ["It takes priority over all liens", "It eliminates the first mortgage", "It has equal priority with the mortgage"],
-      "explanation": "Michigan condominium assessment liens have super-priority over most liens but remain subordinate to property tax liens and prior recorded first mortgages.",
+      "explanation": "Michigan condominium assessment liens are subordinate to property tax liens and to a first mortgage recorded before the assessments became delinquent (MCL 559.208). They generally take priority over liens recorded later.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -83,21 +83,21 @@
     },
     {
       "key_topic_ref": "MI-15.2",
-      "question_text": "A buyer is purchasing a resale condo in Michigan. What document should the buyer request from the association?",
-      "correct_answer": "A resale certificate",
-      "distractors": ["A new master deed", "A developer disclosure packet", "A title commitment only"],
-      "explanation": "Michigan law requires a resale certificate for condominium resales, which includes financial information, rules, pending litigation, insurance details, and current assessments.",
+      "question_text": "A buyer is purchasing a resale condo in Michigan and is worried about unpaid association assessments. What protection does Michigan law provide?",
+      "correct_answer": "On request, the association must provide a written statement of unpaid assessments",
+      "distractors": ["The association must issue a state-approved resale certificate", "The buyer automatically takes the unit free of all past-due assessments", "The seller must escrow one year of assessments with the association"],
+      "explanation": "Under MCL 559.211, a purchaser who requests it at least 5 days before closing is entitled to a written statement from the association of unpaid assessments, interest, late charges, fines, and costs, and is not liable for amounts beyond what the statement shows. Michigan does not use a formal 'resale certificate' like some other states.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["condominium", "resale-certificate", "disclosure"]
+      "tags": ["condominium", "assessments", "resale"]
     },
     {
       "key_topic_ref": "MI-15.2",
       "question_text": "A Michigan condo association has an unpaid assessment lien and the unit also has delinquent property taxes. Which lien takes priority?",
       "correct_answer": "The property tax lien",
       "distractors": ["The assessment lien", "They share equal priority", "Whichever was recorded first"],
-      "explanation": "Property tax liens take priority over condominium assessment liens in Michigan. Assessment liens have super-priority over most other liens, but not over tax liens or prior first mortgages.",
+      "explanation": "Property tax liens take priority over condominium assessment liens in Michigan. Assessment liens also rank behind a first mortgage recorded before the delinquency (MCL 559.208), though they generally beat later-recorded liens.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -105,14 +105,14 @@
     },
     {
       "key_topic_ref": "MI-15.2",
-      "question_text": "What type of information is typically included in a Michigan condominium resale certificate?",
-      "correct_answer": "Assessments, rules, litigation, and insurance",
-      "distractors": ["Only the original unit sale price", "The developer's construction warranty only", "The unit's property tax history records only"],
-      "explanation": "A Michigan resale certificate provides prospective buyers with critical information including current assessments, association rules, any pending litigation, insurance coverage, and financial statements.",
+      "question_text": "A buyer purchasing a resale condominium unit in Michigan wants to understand the project's rules and finances before closing. Which documents should the buyer review?",
+      "correct_answer": "The master deed, bylaws, and a statement of unpaid assessments",
+      "distractors": ["A resale certificate issued by LARA", "Only the Seller's Disclosure Statement", "The developer's original construction permits"],
+      "explanation": "Michigan has no statutory resale certificate. A resale buyer learns the project's rules from the recorded master deed and bylaws, and can request a written statement of unpaid assessments from the association (MCL 559.211). The Seller's Disclosure Statement covers the unit's condition, not the association's rules or finances.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["condominium", "resale-certificate", "contents"]
+      "tags": ["condominium", "resale", "documents"]
     }
   ]
 }
