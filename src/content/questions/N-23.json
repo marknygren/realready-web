@@ -13,7 +13,7 @@
         "Requires a minimum 20% down payment with no mortgage insurance",
         "Has a fixed interest rate for the entire loan term"
       ],
-      "explanation": "A conforming loan meets the purchase guidelines of Fannie Mae and Freddie Mac — including maximum loan limits (adjusted annually; approximately $766,550 for single-family homes in most areas for 2024), minimum credit scores, and debt-to-income ratios. Conforming loans can be sold on the secondary market, which provides lenders with liquidity to make more loans. A non-conforming (jumbo) loan exceeds these limits. Neither requires government insurance — that is the defining feature of FHA/VA/USDA loans. Conforming loans may allow as little as 3% down.",
+      "explanation": "A conforming loan meets the purchase guidelines of Fannie Mae and Freddie Mac — including maximum loan limits (adjusted annually by FHFA — for example, the baseline was $806,500 for 2025; always check the current limit), minimum credit scores, and debt-to-income ratios. Conforming loans can be sold on the secondary market, which provides lenders with liquidity to make more loans. A non-conforming (jumbo) loan exceeds these limits. Neither requires government insurance — that is the defining feature of FHA/VA/USDA loans. Conforming loans may allow as little as 3% down.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": true,
@@ -53,7 +53,7 @@
         "Title is held by a neutral trustee until the debt is satisfied",
         "Both borrower and lender share title as co-owners"
       ],
-      "explanation": "In lien theory states (the majority of U.S. states), the mortgage is treated as a lien — a security interest — against the borrower's property. The borrower retains title and can sell, refinance, or will the property. If the borrower defaults, the lender must go through a judicial foreclosure (court proceeding) to enforce the lien. In title theory states, the borrower conveys title to the lender (or a trustee) via a deed of trust, and the lender (or trustee) can conduct a non-judicial foreclosure (trustee's sale) upon default — typically faster than judicial foreclosure.",
+      "explanation": "In lien theory states (the majority of U.S. states), the mortgage is treated as a lien — a security interest — against the borrower's property. The borrower retains title and can sell, refinance, or will the property. If the borrower defaults, the lender typically enforces the lien through judicial foreclosure (a court proceeding), though some lien-theory states permit non-judicial foreclosure when the mortgage contains a power of sale. In title theory states, the borrower conveys title to the lender (or a trustee) via a deed of trust, and the lender (or trustee) can conduct a non-judicial foreclosure (trustee's sale) upon default — typically faster than judicial foreclosure.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -95,7 +95,7 @@
         "Guaranteeing all mortgage loans against borrower default",
         "Setting the maximum interest rates lenders may charge"
       ],
-      "explanation": "Without the secondary market, a lender's ability to make new loans would be limited to their own capital. By selling loans to Fannie Mae, Freddie Mac, or private investors, lenders replenish their capital and can immediately make more loans. This creates a continuous flow of mortgage credit at competitive rates. The secondary market does not guarantee loans against default (that is Ginnie Mae's role for government-backed loans), set interest rates (those are market-determined), or pay origination costs. Its core function is providing lenders with liquidity.",
+      "explanation": "Without the secondary market, a lender's ability to make new loans would be limited to their own capital. By selling loans to Fannie Mae, Freddie Mac, or private investors, lenders replenish their capital and can immediately make more loans. This creates a continuous flow of mortgage credit at competitive rates. The secondary market does not guarantee loans against default (Ginnie Mae guarantees timely payment of principal and interest on mortgage-backed securities; loan-level protection against borrower default comes from FHA insurance or the VA guaranty), set interest rates (those are market-determined), or pay origination costs. Its core function is providing lenders with liquidity.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -154,7 +154,7 @@
         "Has an adjustable rate that resets annually after a fixed period",
         "Requires the borrower to be a first-time homebuyer"
       ],
-      "explanation": "A jumbo loan is a non-conforming conventional loan that exceeds the maximum loan amount Fannie Mae and Freddie Mac will purchase (approximately $766,550 in most areas for 2024, higher in designated high-cost areas). Because jumbo loans cannot be sold to the GSEs, lenders typically require higher credit scores, larger down payments, and charge slightly higher interest rates. Jumbo loans are common in expensive markets where home prices routinely exceed conforming limits.",
+      "explanation": "A jumbo loan is a non-conforming conventional loan that exceeds the maximum loan amount Fannie Mae and Freddie Mac will purchase (a baseline limit adjusted annually by FHFA — for example, $806,500 for 2025 — with higher limits in designated high-cost areas; always check the current limit). Because jumbo loans cannot be sold to the GSEs, lenders typically require higher credit scores, larger down payments, and charge slightly higher interest rates. Jumbo loans are common in expensive markets where home prices routinely exceed conforming limits.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -226,7 +226,7 @@
       "question_text": "A purchase money mortgage is one where:",
       "correct_answer": "The seller provides financing to the buyer as part of the sale",
       "distractors": [
-        "The buyer obtains a new mortgage from a bank to purchase the property",
+        "A loan used to finance renovations after the purchase closes",
         "The buyer assumes the seller's existing mortgage in the transaction",
         "The government provides subsidized financing for first-time buyers"
       ],
@@ -299,7 +299,7 @@
     },
     {
       "key_topic_ref": "N-23.3",
-      "question_text": "In a title theory state, a borrower conveys title to the lender through a:",
+      "question_text": "In a title theory state, a borrower conveys bare legal title to a third party as security through a:",
       "correct_answer": "Deed of trust",
       "distractors": [
         "Standard two-party mortgage",
@@ -325,7 +325,7 @@
         "Property taxes are assessed",
         "Down payments are determined"
       ],
-      "explanation": "The main practical difference is foreclosure procedure. In lien theory states (most states), the lender must go through a judicial foreclosure — filing a lawsuit, obtaining a court order, and conducting a court-supervised sale. This process is slower but provides the borrower with more protections (right to cure, redemption period). In title theory states, the trustee can conduct a non-judicial (power of sale) foreclosure, which is typically faster and less expensive. Some states follow an intermediary theory combining elements of both.",
+      "explanation": "The main practical difference is foreclosure procedure. In lien theory states (most states), the lender typically enforces the lien through judicial foreclosure — filing a lawsuit, obtaining a court order, and conducting a court-supervised sale — though some lien-theory states permit non-judicial foreclosure when the mortgage contains a power of sale. Judicial foreclosure is slower but provides the borrower with more protections (right to cure, redemption period). In title theory states, the trustee can conduct a non-judicial (power of sale) foreclosure, which is typically faster and less expensive. Some states follow an intermediary theory combining elements of both.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,

@@ -46,14 +46,14 @@
     },
     {
       "key_topic_ref": "N-31.3",
-      "question_text": "A rental property closes on March 10. The seller collected the full March rent of $1,500 from the tenant on March 1. Using a 30-day month, what is the rent proration credit to the buyer?",
+      "question_text": "A rental property closes on March 10. The seller collected the full March rent of $1,500 from the tenant on March 1. Using a 30-day month (the day of closing belongs to the seller), what is the rent proration credit to the buyer?",
       "correct_answer": "$1,000",
       "distractors": [
         "$500",
         "$1,500",
         "$750"
       ],
-      "explanation": "When rent is paid in advance and closing occurs mid-month, the seller has collected rent for days the buyer will own the property. The seller owes the buyer a credit for the buyer's portion. Buyer's days: March 10 closing = buyer owns March 10 through March 30 = 21 days (the closing day typically belongs to the buyer). Daily rent = $1,500 ÷ 30 = $50/day. Buyer's credit = 21 × $50 = $1,000. This appears as a debit to the seller and a credit to the buyer on the closing statement.",
+      "explanation": "When rent is paid in advance and closing occurs mid-month, the seller has collected rent for days the buyer will own the property. The seller owes the buyer a credit for the buyer's portion. Daily rent: $1,500 ÷ 30 = $50/day. The day of closing belongs to the seller, so the buyer's share runs March 11–30 = 20 days. Buyer's credit: 20 × $50 = $1,000. This appears as a debit to the seller and a credit to the buyer on the closing statement.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -265,7 +265,7 @@
         "$2,400",
         "$1,200"
       ],
-      "explanation": "Daily rent: $2,400 ÷ 30 = $80/day. Buyer owns June 20-30 = 11 days (if closing day counts as buyer's). Wait — actually June 20 through June 30 = 11 days. $80 × 11 = $880. Hmm, let me recalculate. Buyer gets 10 remaining days (June 21-30). $80 × 10 = $800. The seller collected rent for the full month but only owned through June 20. The buyer is credited for the remaining days. The $1,600 credits the seller's portion. The $2,400 credits the full month.",
+      "explanation": "Daily rent: $2,400 ÷ 30 = $80/day. The seller owned the property through June 20 (the day of closing belongs to the seller), so the buyer is credited for June 21–30 = 10 days. Buyer’s credit: 10 × $80 = $800. The $1,600 is the seller’s 20-day portion. The $2,400 incorrectly credits the full month to the buyer.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -277,7 +277,7 @@
     },
     {
       "key_topic_ref": "N-31.3",
-      "question_text": "A commercial property has a tenant paying $3,000 monthly rent. Rent for April was collected by the seller on April 1. Closing is April 10 (30-day month). How much rent does the seller keep?",
+      "question_text": "A commercial property has a tenant paying $3,000 monthly rent. Rent for April was collected by the seller on April 1. Closing is April 10 (30-day month; the day of closing belongs to the seller). How much rent does the seller keep?",
       "correct_answer": "$1,000",
       "distractors": [
         "$2,000",
@@ -341,7 +341,7 @@
         "$19,250",
         "$1,750"
       ],
-      "explanation": "$275,000 ÷ $100 = 2,750 units. 2,750 × $0.70 = $1,925. The $192.50 divides by $1,000 instead of $100. The $19,250 multiplies by $7.00 instead of $0.70. The $1,750 uses $275,000 × 0.7% but drops a digit. Always check the unit basis — some states tax per $100, others per $500 or per $1,000. Apply the rate to the correct unit.",
+      "explanation": "$275,000 ÷ $100 = 2,750 units. 2,750 × $0.70 = $1,925. The $192.50 divides by $1,000 instead of $100. The $19,250 multiplies by $7.00 instead of $0.70. The $1,750 results from using $250,000 instead of $275,000. Always check the unit basis — some states tax per $100, others per $500 or per $1,000. Apply the rate to the correct unit.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -417,7 +417,7 @@
         "$123,350",
         "$81,650"
       ],
-      "explanation": "Commission: $325,000 × 0.06 = $19,500. Total deductions: $200,000 + $19,500 + $1,500 + $650 + $1,200 = $222,850. Net proceeds: $325,000 - $222,850 = $102,150. The $122,150 omits the commission. The $123,350 omits commission and adds back tax proration. The $81,650 uses an 8% commission. Always list every seller debit and subtract the total from the sale price.",
+      "explanation": "Commission: $325,000 × 0.06 = $19,500. Total deductions: $200,000 + $19,500 + $1,500 + $650 + $1,200 = $222,850. Net proceeds: $325,000 - $222,850 = $102,150. The $122,150 and $123,350 distractors result from omitting the $19,500 commission while mishandling the smaller closing costs. The $81,650 deducts too much — roughly an extra commission's worth. Always double-check that every deduction is counted exactly once. Always list every seller debit and subtract the total from the sale price.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -455,7 +455,7 @@
         "$294,000",
         "$300,000"
       ],
-      "explanation": "The seller needs sale price minus 5% commission minus $180,000 mortgage = $100,000. So: 0.95 × Sale Price = $100,000 + $180,000 = $280,000. Sale Price = $280,000 ÷ 0.95 = $294,736.84 ≈ $294,737. The $280,000 ignores the commission. The $300,000 adds commission as 5% of $280,000 ($14,000) but 5% of $294,737 is actually $14,737. Always divide by (1 - commission rate), not add the commission to the desired net.",
+      "explanation": "The seller needs sale price minus 5% commission minus $180,000 mortgage = $100,000. So: 0.95 × Sale Price = $100,000 + $180,000 = $280,000. Sale Price = $280,000 ÷ 0.95 = $294,736.84 ≈ $294,737. The $280,000 ignores the commission. The $294,000 adds 5% of $280,000 ($14,000) instead of dividing by 0.95 — but 5% of $294,737 is actually $14,737, so adding leaves the seller short of the target net. The $300,000 is a rough overestimate. Always divide by (1 - commission rate), not add the commission to the desired net.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,

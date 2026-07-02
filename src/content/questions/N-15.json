@@ -32,7 +32,7 @@
         "Ratification",
         "No agency is possible without a written agreement"
       ],
-      "explanation": "Implied agency arises from the parties' conduct rather than an explicit agreement. When a buyer shares confidential information (budget, motivation, timeline) with an agent who acts in an advisory capacity without clarifying their role, an implied agency relationship may be created. This is why disclosure of agency relationships is critical — the agent should clarify who they represent before the buyer shares anything confidential. Without clarity, the buyer may reasonably believe they are being represented, creating unintended fiduciary obligations for the agent.",
+      "explanation": "Implied agency arises from the parties' conduct rather than an explicit agreement. When a buyer shares confidential information (budget, motivation, timeline) with an agent who acts in an advisory capacity without clarifying their role, an implied agency relationship may be created. This is why disclosure of agency relationships is critical — the agent should clarify who they represent before the buyer shares anything confidential. Without clarity, the buyer may reasonably believe they are being represented, creating unintended fiduciary obligations for the agent. In addition, since the August 2024 NAR settlement, MLS participants generally must have a written buyer representation agreement in place before touring homes with a buyer — so an informal arrangement like this is both an implied-agency risk and a compliance problem.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": true,
@@ -129,7 +129,7 @@
         "Notarized and recorded at the county recorder's office",
         "Approved by the state real estate commission before marketing"
       ],
-      "explanation": "While express agency can theoretically be created orally, most states require listing agreements to be in writing under the Statute of Frauds (because they involve the sale of real property or a brokerage service agreement lasting beyond one year in some cases). A written listing agreement protects both the seller and the broker by clearly defining the terms: listing price, commission rate, duration, marketing authority, and the agent's duties. Oral listings, even if made, are generally unenforceable.",
+      "explanation": "While express agency can theoretically be created orally, most states require listing agreements to be in writing under their real estate license laws or commission rules. A listing is a personal-services (brokerage) contract, not a contract for the sale of land, so the traditional Statute of Frauds does not apply to it; only a minority of states have added brokerage agreements to their statute of frauds. A written listing agreement protects both the seller and the broker by clearly defining the terms: listing price, commission rate, duration, marketing authority, and the agent's duties. Where a writing is required, an oral listing is generally unenforceable — and the broker may be unable to collect a commission.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -199,14 +199,14 @@
     },
     {
       "key_topic_ref": "N-15.2",
-      "question_text": "An agent who has been showing properties to a buyer for weeks without a written agreement may have created:",
+      "question_text": "A licensee regularly gives a for-sale-by-owner (FSBO) seller pricing advice and negotiating guidance, and the owner follows the licensee's recommendations. No listing agreement exists. The licensee may have created:",
       "correct_answer": "An implied agency",
       "distractors": [
         "No relationship",
         "A transaction brokerage",
         "An express agency"
       ],
-      "explanation": "Implied agency arises from the conduct of the parties. When an agent consistently acts in an advisory capacity — showing properties, providing market analysis, counseling on offers — the buyer may reasonably believe they are being represented, creating an implied agency. This is a significant risk for agents who fail to clarify their role. The remedy is to always establish the relationship in writing at the outset. Not all states default to transaction brokerage for unwritten relationships.",
+      "explanation": "Implied agency arises from the conduct of the parties rather than from a written or verbal agreement. When a licensee acts in an advisory capacity — recommending a price, coaching the owner through negotiations — and the owner relies on that advice, the owner may reasonably believe the licensee represents them, creating an implied agency with full fiduciary obligations and no agreed compensation. This is a real risk for licensees who 'help' FSBO sellers while hoping to earn the listing or bring a buyer. The remedy is to clarify the relationship (or non-relationship) in writing before giving advice. Express agency requires an explicit agreement, and not all states default to transaction brokerage for undefined relationships.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -294,14 +294,14 @@
     },
     {
       "key_topic_ref": "N-15.3",
-      "question_text": "A property manager collects rent on behalf of an owner without a formal property management agreement. The owner accepts the rent checks each month. This is agency by:",
+      "question_text": "A property manager, without any authority from the owner, signs a one-year lease with a tenant on the owner's behalf. After reviewing all of the lease terms, the owner accepts the tenant's first rent check. This is agency by:",
       "correct_answer": "Ratification",
       "distractors": [
         "Express agreement",
         "Estoppel",
         "Implication"
       ],
-      "explanation": "The owner's repeated acceptance of rent collected by the manager constitutes ratification of the manager's authority to collect on the owner's behalf. Each acceptance is an approval of the unauthorized act. While this could also involve elements of implied agency (the owner's conduct suggests acceptance), the clearest classification is ratification because the owner has actual knowledge and accepts the specific benefits. Express agency would require a written or explicit verbal agreement, not just passive acceptance.",
+      "explanation": "By accepting the benefit of the lease after learning all of its material terms, the owner ratified the manager's single unauthorized act. Ratification requires that the agent purported to act on the principal's behalf, that the principal have full knowledge of the material facts, and that the principal affirm the entire transaction — all satisfied here by the owner's informed acceptance of rent under the lease. Express agency would require an explicit written or verbal agreement made in advance. Implied agency arises from an ongoing course of conduct before the act occurs, and estoppel protects a third party who relied on an appearance of authority the principal created — neither fits a one-time, after-the-fact approval.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -314,11 +314,11 @@
     {
       "key_topic_ref": "N-15.3",
       "question_text": "A principal can ratify only the favorable parts of an unauthorized transaction and reject the rest. This statement is:",
-      "correct_answer": "False",
+      "correct_answer": "False — ratification must adopt the entire transaction or none of it",
       "distractors": [
-        "True",
-        "True",
-        "False"
+        "True — a principal may accept the benefits and reject the burdens",
+        "True — partial ratification is valid if confirmed in writing",
+        "False — because an unauthorized act can never be ratified"
       ],
       "explanation": "Ratification is an all-or-nothing proposition. The principal must accept the entire unauthorized act — they cannot cherry-pick favorable terms while rejecting unfavorable ones. If an agent negotiated a $300,000 sale with a 60-day closing and the seller only wanted a 30-day closing, the seller must either ratify the entire deal (including the 60-day close) or reject it entirely. This prevents principals from unfairly taking only the benefits of unauthorized acts while avoiding the burdens.",
       "difficulty": "medium",

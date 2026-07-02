@@ -65,7 +65,7 @@
     },
     {
       "key_topic_ref": "N-11.4",
-      "question_text": "A broker's listing agreement specifies that the broker will be paid a commission only if the property sells to a buyer who is an undocumented immigrant. This contract is:",
+      "question_text": "A broker's listing agreement specifies that the broker will be paid a commission only if the property sells to a buyer of a particular race. This contract is:",
       "correct_answer": "Void",
       "distractors": [
         "Voidable",
@@ -108,11 +108,11 @@
       "question_text": "Under the Statute of Frauds, which of the following real estate agreements is ENFORCEABLE even without being in writing?",
       "correct_answer": "A short-term lease for one year or less in most states",
       "distractors": [
-        "A buyer representation agreement lasting six months",
+        "An option to purchase a commercial building",
         "A purchase contract for a vacant lot",
-        "A listing agreement to sell a single-family home"
+        "A five-year lease of retail space"
       ],
-      "explanation": "The Statute of Frauds requires certain contracts to be in writing to be enforceable — including contracts for the sale or transfer of real property, real estate listing agreements, leases for more than one year, and buyer representation agreements. Most states exempt short-term leases (one year or less) from the writing requirement as a practical exception for common residential arrangements. The three incorrect options are all agreements that must be in writing: purchase contracts involve the transfer of real property; buyer rep agreements and listing agreements are real estate brokerage contracts.",
+      "explanation": "The Statute of Frauds requires contracts that create or transfer an interest in real property to be in writing to be enforceable — including purchase contracts, options to purchase, and leases for more than one year. Most states exempt short-term leases (one year or less) from the writing requirement as a practical exception for common residential arrangements, so an oral one-year lease is generally enforceable. The other three options fall squarely within the statute: a purchase contract transfers title, an option creates an enforceable interest in land, and a five-year lease far exceeds the one-year threshold.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -149,7 +149,7 @@
       "distractors": [
         "A valid contract",
         "A voidable contract",
-        "A binding contract"
+        "An option contract"
       ],
       "explanation": "An offer can only be accepted while it is still open. When an offer specifies an expiration time, it automatically terminates at that time if not accepted. The seller's late signing is not an acceptance — it is a new offer from the seller to the buyer, which the buyer can accept or reject. If no expiration time is stated, the offer remains open for a 'reasonable time,' which varies by circumstance. The offeror can also revoke an offer at any time before acceptance (unless consideration was paid to keep it open, as in an option).",
       "difficulty": "medium",
@@ -358,14 +358,14 @@
     },
     {
       "key_topic_ref": "N-11.4",
-      "question_text": "A contract for the sale of a property that will be used as a drug manufacturing facility is:",
+      "question_text": "A property owner signs a lease agreement that expressly states the premises will be used to manufacture illegal drugs and sets the rent as a percentage of the proceeds from that operation. This contract is:",
       "correct_answer": "Void",
       "distractors": [
         "Voidable",
         "Valid",
         "Enforceable"
       ],
-      "explanation": "One of the essential elements of a valid contract is lawful purpose (legality of object). If the contract itself requires or is designed to facilitate an illegal act, it is void from inception — neither party can enforce it. However, a standard purchase contract is not void merely because the buyer secretly plans illegal use — the contract's stated purpose (buying property) is legal. The contract would be void if the illegal purpose is integral to the agreement's terms, such as 'purchase price includes equipment for illegal manufacturing.'",
+      "explanation": "One of the essential elements of a valid contract is lawful purpose (legality of object). Here the illegality is integral to the agreement itself — the contract's stated purpose and its payment terms are built around the illegal operation — so the contract is void from inception, and neither party can enforce it. By contrast, a standard sale or lease is not void merely because one party secretly intends an illegal use; in that case the agreement's stated purpose (transferring or leasing property) remains legal. It is illegality written into the contract's own terms that destroys lawful purpose and renders it void.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -519,7 +519,7 @@
         "Prohibit oral agreements between real estate licensees and clients",
         "Require contracts be filed with the county recorder to be enforceable"
       ],
-      "explanation": "The Statute of Frauds (dating back to English common law in 1677) requires written evidence of certain important agreements to prevent people from falsely claiming that oral agreements exist. For real estate, this includes contracts for the sale of land, leases over one year, and listing/buyer representation agreements. The statute does not require attorneys, does not prohibit all oral agreements, and does not require recording. An oral real estate contract may be valid between the parties but unenforceable in court.",
+      "explanation": "The Statute of Frauds (dating back to English common law in 1677) requires written evidence of certain important agreements to prevent people from falsely claiming that oral agreements exist. For real estate, this includes contracts for the sale of land and leases for more than one year. (Written listing and buyer-representation agreements are typically required by state license law, not the Statute of Frauds.) The statute does not require attorneys, does not prohibit all oral agreements, and does not require recording. An oral real estate contract may be valid between the parties but unenforceable in court.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -535,10 +535,10 @@
       "correct_answer": "A two-year residential lease agreement between a landlord and tenant",
       "distractors": [
         "A month-to-month rental agreement with no fixed term specified",
-        "An oral agreement between neighbors about a shared driveway use",
+        "A verbal agreement to shovel a neighbor's walk for the winter",
         "A verbal promise to mow a neighbor's lawn in exchange for $50"
       ],
-      "explanation": "The Statute of Frauds requires writing for leases exceeding one year. A two-year lease must be in writing to be enforceable. A month-to-month agreement is typically for less than one year and does not require writing. An oral agreement about driveway use and a verbal lawn-mowing promise are not the types of contracts the Statute of Frauds addresses — they do not involve the sale or long-term leasing of real property. The Statute applies to: land sales, leases over one year, and other specified categories.",
+      "explanation": "The Statute of Frauds requires writing for leases exceeding one year. A two-year lease must be in writing to be enforceable. A month-to-month agreement is typically for less than one year and does not require writing. Short-term service promises like snow shoveling or lawn mowing are not the types of contracts the Statute of Frauds addresses — they do not involve the sale or long-term leasing of real property and can be performed within one year. The Statute applies to: land sales, leases over one year, and other specified categories.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -551,11 +551,11 @@
     {
       "key_topic_ref": "N-11.6",
       "question_text": "A buyer and seller have an oral agreement for the sale of a house. The buyer moves in, pays the full price, and the seller delivers the deed. Can the Statute of Frauds void this sale?",
-      "correct_answer": "No",
+      "correct_answer": "No — full performance takes the contract outside the Statute of Frauds",
       "distractors": [
-        "Yes",
-        "Yes",
-        "No"
+        "Yes — an oral contract for the sale of land is always void",
+        "Yes — unless the parties re-execute the agreement in writing",
+        "No — but only if the buyer records the deed within 30 days"
       ],
       "explanation": "The doctrine of part performance (or full performance) is an exception to the Statute of Frauds. When parties have fully performed an oral real estate contract — payment made, deed delivered, possession transferred — courts generally will not allow either party to undo the transaction by invoking the Statute of Frauds. The purpose of the statute is to prevent fraud, and allowing a party to take back a fully performed deal would itself be fraudulent. Part performance (partial payment, possession, improvements) can also satisfy the statute in many jurisdictions.",
       "difficulty": "hard",

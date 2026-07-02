@@ -53,7 +53,7 @@
         "A zoning variance to offset the diminished property value",
         "A county tax abatement equal to the lost value"
       ],
-      "explanation": "Inverse condemnation (also called a regulatory taking) occurs when government action substantially diminishes a property's value without physically taking it. The property owner can sue the government for compensation. While the legal standards are complex, courts have recognized inverse condemnation claims when government projects deprive owners of most or all economic use of their property. This doctrine protects owners from the government achieving a de facto taking without paying for it.",
+      "explanation": "Inverse condemnation is an action initiated by the property owner to recover just compensation when government action effectively takes or damages property — here, the physical impacts of a public project (noise and lost access) — even though the government never filed a formal condemnation proceeding. While the legal standards are complex, courts have recognized inverse condemnation claims when government projects substantially interfere with the use and value of neighboring property. This doctrine protects owners from the government achieving a de facto taking without paying for it.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -204,14 +204,14 @@
     },
     {
       "key_topic_ref": "N-04.9",
-      "question_text": "After closing on a home, the buyer discovers that a neighbor's storage shed extends 2 feet onto the newly purchased property. This is called:",
-      "correct_answer": "An encroachment",
+      "question_text": "After closing on a home, the buyer discovers that a neighbor's storage shed extends 2 feet onto the newly purchased property. What is the MOST likely consequence of this encroachment for the buyer?",
+      "correct_answer": "It clouds the title and can make it unmarketable until resolved",
       "distractors": [
-        "An easement by necessity",
-        "A license",
-        "A deed restriction"
+        "It automatically voids the deed the buyer received at closing",
+        "It has no legal effect because the transaction has already closed",
+        "It makes the shed the buyer's personal property as a fixture"
       ],
-      "explanation": "An encroachment is the unauthorized intrusion of a structure, improvement, or object from one property onto another's property without permission. Common examples include fences, sheds, driveways, and building overhangs. Encroachments are different from easements (which are authorized rights to use another's land). They can cloud title, create disputes, and complicate real estate sales. This is one reason why surveys are important — they identify encroachments that title searches miss.",
+      "explanation": "An unresolved encroachment burdens the buyer's ownership: it creates a cloud on the title and can render the title unmarketable, complicating any future sale or refinance until the issue is resolved — by removal of the shed, a negotiated easement or sale of the affected strip, or a court action. It does not void the deed, and closing does not erase the problem; the shed remains the neighbor's improvement, not the buyer's fixture. Because title searches do not reveal physical intrusions, a survey before closing is the standard way to catch encroachments.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -262,14 +262,14 @@
     },
     {
       "key_topic_ref": "N-04.1",
-      "question_text": "Which government power does NOT typically require compensation to the property owner?",
+      "question_text": "A new zoning ordinance reduces a property's value, yet the owner is entitled to no compensation. Which government power is being exercised?",
       "correct_answer": "Police power",
       "distractors": [
         "Eminent domain",
         "Taxation",
         "Escheat"
       ],
-      "explanation": "Police power allows the government to regulate property use without compensating owners, because it restricts use rather than taking ownership. Zoning, building codes, and environmental regulations are all police power actions. Eminent domain does require just compensation under the Fifth Amendment. Taxation requires payment from the owner (not to them). Escheat does not involve compensation because the owner is deceased without heirs.",
+      "explanation": "Police power allows the government to regulate property use — through zoning, building codes, and environmental regulations — without compensating owners, because it restricts how property may be used rather than taking ownership of it. Eminent domain, by contrast, takes title or possession for public use and requires just compensation under the Fifth Amendment. Taxation is the power to raise revenue from property owners, and escheat passes ownerless property to the state when someone dies without a will or heirs — neither fits a zoning regulation that merely reduces value.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": true,
@@ -479,14 +479,14 @@
     },
     {
       "key_topic_ref": "N-04.4",
-      "question_text": "Which government power serves as the 'ultimate heir' when property has no identifiable owner?",
-      "correct_answer": "Escheat",
+      "question_text": "A property owner dies intestate with no locatable heirs. The owner lived in State A but owned a lakeside cabin in State B. Under escheat, the cabin passes to:",
+      "correct_answer": "State B, because real property escheats to the state where it is located",
       "distractors": [
-        "Eminent domain",
-        "Police power",
-        "Taxation"
+        "State A, because escheat follows the decedent's state of residence",
+        "The federal government, because no single state has a superior claim",
+        "Both states equally, because each has a partial claim to the property"
       ],
-      "explanation": "Escheat gives the government the role of ultimate heir — ensuring all property has a legal owner. If a person dies without a will and without any heirs who can be identified or located, the property escheats (reverts) to the state. Eminent domain takes property for public use with compensation. Police power regulates use. Taxation collects revenue. Escheat is the least commonly exercised of the four government powers.",
+      "explanation": "Real property escheats under the law of the state where the land is located (its situs) — here, State B. Escheat is a state power, not a federal one, and for real estate it does not follow the decedent's residence: the decedent's home state may claim other assets, such as personal property, but not land situated in another state. Escheat ensures that real property never becomes ownerless.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": true,
@@ -506,7 +506,7 @@
         "Is exercised federally, while eminent domain is only by states",
         "Applies to personal property; eminent domain applies to real property"
       ],
-      "explanation": "The key distinction is the circumstance: escheat occurs when property has no identifiable owner (the owner died without a will and without heirs), while eminent domain involves the government taking property from a living owner for public use. Eminent domain requires just compensation; escheat does not because there is no owner to compensate. Both powers can be exercised by federal and state governments, and both apply to real property.",
+      "explanation": "The key distinction is the circumstance: escheat occurs when property has no identifiable owner (the owner died without a will and without heirs), while eminent domain involves the government taking property from a living owner for public use. Eminent domain requires just compensation; escheat does not because there is no owner to compensate. Eminent domain may be exercised by federal, state, and local governments; escheat operates under state law — ownerless property passes to the state. Both powers apply to real property.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": true,
@@ -818,14 +818,14 @@
     },
     {
       "key_topic_ref": "N-04.9",
-      "question_text": "A homeowner builds a new deck that extends 3 feet beyond the property line onto the neighbor's land. The neighbor can seek which of the following remedies?",
-      "correct_answer": "A court order for removal or a compensation agreement",
+      "question_text": "A homeowner builds a new deck that extends 3 feet beyond the property line onto the neighbor's land. If the neighbor knowingly allows the encroachment to remain unchallenged for many years, what is the PRIMARY legal risk?",
+      "correct_answer": "The deck owner may acquire a prescriptive easement over the strip",
       "distractors": [
-        "An automatic transfer of ownership of the encroached strip",
-        "A building department fine for code violations only",
-        "No legal remedy exists for encroachments in most states"
+        "The neighbor loses fee title to the strip after one year",
+        "There is no risk, because an encroachment never matures into a legal right",
+        "The neighbor becomes legally responsible for maintaining the deck"
       ],
-      "explanation": "The encroached-upon neighbor can seek a court injunction requiring removal of the encroaching structure, sue for monetary damages, or negotiate an easement or sale of the encroached strip. Encroachments do not automatically transfer ownership of the affected land. Building code violations are separate from property boundary disputes. Encroachments are not automatically legalized by completion of construction.",
+      "explanation": "An encroachment that continues openly, continuously, and without permission for the statutory period can ripen into a prescriptive easement — a permanent legal right to keep using the strip (and in some cases it can even support a claim of title by adverse possession). That is why an encroached-upon owner should act promptly: demand removal, seek a court injunction or damages, or grant written permission, which defeats the 'hostile' element of a prescriptive claim. Title does not shift after any fixed one-year period, and the neighbor takes on no duty to maintain the encroaching structure.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": true,

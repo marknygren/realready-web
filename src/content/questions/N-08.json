@@ -110,7 +110,7 @@
         "Only commercial transactions valued over $1 million",
         "Only residential transactions using FHA or VA financing"
       ],
-      "explanation": "FIRREA's appraisal requirements apply to 'federally related transactions' — real estate loans made, insured, or guaranteed by federally regulated financial institutions (banks, S&Ls, credit unions). Transactions below the de minimis threshold (currently $500,000 for most residential transactions, subject to change) may use a written evaluation instead of a full appraisal. Private cash transactions between private parties with no federally regulated lender involved are not technically required to use a FIRREA-compliant appraisal — though lenders almost always require one anyway for risk management.",
+      "explanation": "FIRREA's appraisal requirements apply to 'federally related transactions' — real estate loans made, insured, or guaranteed by federally regulated financial institutions (banks, S&Ls, credit unions). Transactions below the de minimis threshold — $400,000 for most residential transactions ($500,000 for commercial), subject to periodic adjustment — may use a written evaluation instead of a full appraisal. Private cash transactions between private parties with no federally regulated lender involved are not technically required to use a FIRREA-compliant appraisal — though lenders almost always require one anyway for risk management.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -300,7 +300,7 @@
       "correct_answer": "No",
       "distractors": [
         "Yes",
-        "Yes",
+        "Yes, but only if the sale price exceeds $400,000",
         "No, but the buyer must obtain a written evaluation from a licensed appraiser"
       ],
       "explanation": "FIRREA's appraisal requirements are triggered only when a federally regulated financial institution is involved in the transaction (making, insuring, or guaranteeing a real estate loan). A private cash sale between individuals with no federally regulated lender involvement does not trigger FIRREA requirements. The buyer may choose to obtain an appraisal for their own protection, but it is not legally required. Tax basis is established by the purchase price, not by an appraisal.",
@@ -342,7 +342,7 @@
         "RESPA Good Faith Estimate Form 2530",
         "FHA Property Inspection Report Form 92051"
       ],
-      "explanation": "The URAR is the standardized appraisal form required by Fannie Mae (Form 1004) and Freddie Mac (Form 70) for single-family residential appraisals. It is the most commonly used appraisal form for conventional residential mortgage lending. The form includes sections for property description, neighborhood analysis, comparable sales, reconciliation, and the appraiser's opinion of value. HUD-1 is a settlement statement. The other form numbers are fabricated distractors.",
+      "explanation": "The URAR is the standardized appraisal form required by Fannie Mae (Form 1004) and Freddie Mac (Form 70) for single-family residential appraisals. It is the most commonly used appraisal form for conventional residential mortgage lending. The form includes sections for property description, neighborhood analysis, comparable sales, reconciliation, and the appraiser's opinion of value. HUD-1 is a settlement statement. The other form numbers are fabricated distractors. Note: the GSEs are transitioning to a redesigned URAR under the Uniform Appraisal Dataset (UAD) 3.6 initiative, a single dynamic report that retires the legacy form numbers (1004/70).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,

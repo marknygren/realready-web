@@ -27,14 +27,14 @@
     },
     {
       "key_topic_ref": "N-12.1",
-      "question_text": "An oral agreement to purchase a home is:",
-      "correct_answer": "Unenforceable",
+      "question_text": "A buyer and seller make an oral agreement for the sale of a home. With the seller's consent, the buyer takes possession, pays a substantial portion of the purchase price, and builds a large addition. The seller then refuses to convey, arguing the agreement was never put in writing. In many states, a court will MOST likely:",
+      "correct_answer": "Enforce the agreement, because the buyer's part performance takes it outside the Statute of Frauds",
       "distractors": [
-        "Void",
-        "Voidable",
-        "Valid and enforceable if both parties can prove the terms in court"
+        "Refuse to enforce the agreement, because an oral real estate contract can never be enforced",
+        "Declare the contract void from inception and treat the buyer as a trespasser",
+        "Require the buyer to vacate but reimburse the cost of the improvements"
       ],
-      "explanation": "An unenforceable contract is one that is otherwise valid but cannot be enforced in court due to a procedural defect — most commonly, failure to satisfy the Statute of Frauds' writing requirement. The agreement itself is not void (it reflects genuine intent) and it is not voidable (no party's personal right to cancel it). The parties simply cannot get a court to enforce it. This means if one party voluntarily performs, the other cannot be forced to reciprocate through the courts. The Statute of Frauds writing requirement applies to real estate sales contracts, leases over one year, and listing agreements.",
+      "explanation": "The Statute of Frauds normally makes an oral contract for the sale of real estate unenforceable. Under the doctrine of part performance, however, many courts will enforce an oral real estate contract when the buyer's actions unequivocally point to the contract's existence — classically, taking possession, paying part or all of the purchase price, and making substantial improvements. Because these acts make little sense except in reliance on a genuine sale agreement, equity will not allow the seller to use the statute to work a fraud. Note that an oral real estate contract is unenforceable rather than void — the defect is procedural (no writing), which is why doctrines like part performance can cure it; a void contract could never be enforced.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": true,
@@ -184,14 +184,14 @@
     },
     {
       "key_topic_ref": "N-12.1",
-      "question_text": "A contract between two competent adults for the sale of a vacant lot at an agreed price, signed by both parties, is BEST classified as:",
+      "question_text": "A contract between two competent adults for the sale of a vacant lot at an agreed price is signed by both parties. With respect to its enforceability, this contract is BEST classified as:",
       "correct_answer": "Valid",
       "distractors": [
-        "Executory",
-        "Bilateral",
-        "Express"
+        "Void",
+        "Voidable",
+        "Unenforceable"
       ],
-      "explanation": "While this contract is also executory, bilateral, and express, the question asks for the BEST classification regarding enforceability. A valid contract has all four essential elements: competent parties, mutual assent, consideration, and lawful purpose. It is binding and enforceable. The other classifications describe the contract's characteristics (how formed, performance status, communication method) but do not address its legal standing. Valid, void, voidable, and unenforceable are the four categories of contract enforceability status.",
+      "explanation": "Valid, void, voidable, and unenforceable are the four enforceability classifications of a contract. This contract has all four essential elements — competent parties, mutual assent, consideration, and lawful purpose — and it is in writing and signed, satisfying the Statute of Frauds. It is therefore valid and fully enforceable. A void contract lacks an essential element and has no legal effect; a voidable contract allows one party to cancel (for example, a minor's contract or one induced by fraud or duress); an unenforceable contract is otherwise valid but cannot be enforced in court, most commonly for failure to meet the writing requirement.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -223,13 +223,13 @@
     {
       "key_topic_ref": "N-12.1",
       "question_text": "Which of the following correctly ranks contract status from strongest to weakest enforceability?",
-      "correct_answer": "Valid, unenforceable, voidable, void",
+      "correct_answer": "Valid, voidable, unenforceable, void",
       "distractors": [
         "Void, voidable, unenforceable, valid",
-        "Valid, voidable, void, unenforceable",
-        "Unenforceable, valid, void, voidable"
+        "Valid, unenforceable, voidable, void",
+        "Valid, voidable, void, unenforceable"
       ],
-      "explanation": "Valid contracts are fully enforceable. Unenforceable contracts have all elements but a procedural defect prevents court enforcement (though parties can voluntarily perform). Voidable contracts can be canceled by the protected party — they have a potential fatal flaw. Void contracts have no legal effect at all. Understanding this hierarchy helps students distinguish between these commonly tested categories and select the most precise classification on the exam.",
+      "explanation": "Valid contracts are fully enforceable. Voidable contracts are enforceable unless and until the protected party elects to rescind, so they rank just below valid. Unenforceable contracts contain all the required elements, but a procedural defect (such as failing to satisfy the Statute of Frauds) means a court will not enforce them — although the parties may still perform voluntarily. Void contracts have no legal effect at all. The ranking is: valid, then voidable, then unenforceable, then void.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -279,14 +279,14 @@
     },
     {
       "key_topic_ref": "N-12.2",
-      "question_text": "A contract is terminated because a new law makes the subject transaction illegal. This discharge is by:",
+      "question_text": "A party breached a real estate contract several years ago, but the injured party never filed suit. The statute of limitations on the claim has now expired, so the obligation can no longer be enforced. This discharge is by:",
       "correct_answer": "Operation of law",
       "distractors": [
         "Mutual rescission",
         "Impossibility",
         "Anticipatory breach"
       ],
-      "explanation": "Discharge by operation of law occurs when external legal events terminate a contract without either party's action — a new law prohibiting the transaction, bankruptcy, expiration of the statute of limitations, or a court judgment. This differs from impossibility (which typically involves destruction of subject matter or death of a party), mutual rescission (which requires both parties' agreement), and anticipatory breach (where one party voluntarily refuses to perform).",
+      "explanation": "Discharge by operation of law occurs when a legal rule or event terminates contractual obligations automatically, without either party's agreement or performance — for example, expiration of the statute of limitations, discharge in bankruptcy, or a court judgment. Here the limitations period has run, so the law itself extinguishes the ability to enforce the obligation. This differs from impossibility (destruction of the subject matter, death in a personal-services contract, or similar events that prevent performance), mutual rescission (which requires both parties' agreement), and anticipatory breach (where one party declares in advance that they will not perform).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -494,7 +494,7 @@
     {
       "key_topic_ref": "N-12.5",
       "question_text": "In a novation, which of the following must occur for the original party to be released?",
-      "correct_answer": "All parties",
+      "correct_answer": "All parties must consent to substituting the new party and releasing the original",
       "distractors": [
         "Only the departing and replacement parties must sign a transfer agreement",
         "The original party must pay a release fee based on contract value",

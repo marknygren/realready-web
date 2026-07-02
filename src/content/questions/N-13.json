@@ -28,9 +28,9 @@
       "question_text": "A buyer submits an offer to purchase at 9:00 AM. At 11:00 AM, before the seller has responded, the buyer calls to withdraw the offer. The buyer:",
       "correct_answer": "May revoke the offer",
       "distractors": [
-        "Cannot revoke",
-        "May revoke only if no option consideration was paid",
-        "Cannot revoke"
+        "Cannot revoke, because an offer is binding once submitted",
+        "Cannot revoke until the seller formally rejects the offer",
+        "May revoke only with the listing broker’s consent"
       ],
       "explanation": "An offer is freely revocable at any time before acceptance, even if the offer states it will remain open for a set period. This is the general rule under contract law: without consideration to keep the offer open (an option), the offeror can revoke at will. The offer must still be communicated to the offeree before revocation — if the seller has already mailed or communicated their acceptance before receiving the revocation, a contract may have formed under the 'mailbox rule.' An option (paid consideration to hold an offer open) is the exception that makes an offer irrevocable for the option period.",
       "difficulty": "medium",
@@ -142,7 +142,7 @@
     },
     {
       "key_topic_ref": "N-13.6",
-      "question_text": "A buyer's purchase contract includes an inspection contingency. The inspection reveals a cracked foundation. The buyer has three options EXCEPT:",
+      "question_text": "A buyer's purchase contract includes an inspection contingency. The inspection reveals a cracked foundation. The buyer may do any of the following EXCEPT:",
       "correct_answer": "Demand the seller reduce the price by the exact repair cost",
       "distractors": [
         "Cancel under the contingency and recover the earnest money",
@@ -508,14 +508,14 @@
     },
     {
       "key_topic_ref": "N-13.5",
-      "question_text": "An option to purchase is classified as what type of contract?",
-      "correct_answer": "A unilateral contract",
+      "question_text": "A buyer holds a valid option to purchase a property. Which statement correctly describes the parties' obligations during the option period?",
+      "correct_answer": "The optionor must sell if the option is exercised, but the optionee has no obligation to buy",
       "distractors": [
-        "A bilateral contract",
-        "An executory contract",
-        "A void contract"
+        "Both parties are bound to complete the sale as soon as the option is signed",
+        "The optionee must purchase the property before the option period expires",
+        "Neither party is bound until the option is exercised"
       ],
-      "explanation": "An option is a unilateral contract because only the seller (optionor) is obligated — they must sell at the agreed price if the buyer (optionee) exercises the option. The buyer has a right but no obligation to purchase. The option consideration makes it binding. Once the buyer exercises the option, a bilateral purchase contract is created, and both parties become obligated. Options are fully enforceable contracts, not void. The option itself is executory (not yet performed) until either exercised or expired.",
+      "explanation": "An option creates a one-sided set of obligations: the optionor (owner) is bound to sell at the agreed price if the option is exercised and cannot revoke during the option period, while the optionee (buyer) holds a right but no obligation — they may exercise the option or simply let it expire, forfeiting only the option consideration. If the optionee exercises the option, a bilateral purchase contract arises on the stated terms and both parties become obligated to close. This asymmetry — only one party bound from the outset — is why an unexercised option is classified as a unilateral contract.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,

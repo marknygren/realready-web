@@ -71,7 +71,7 @@
       "distractors": [
         "Physical deterioration",
         "External obsolescence",
-        "Economic obsolescence"
+        "Curable physical deterioration"
       ],
       "explanation": "Functional obsolescence results from design features that are deficient or superadequate relative to current market standards. A bedroom only accessible through another bedroom is a classic design deficiency — it reduces utility and marketability compared to homes with proper hallway access. Other examples include: one bathroom in a four-bedroom home, outdated galley kitchen, inadequate electrical service, or excessive square footage for the neighborhood (over-improvement). This differs from physical deterioration (actual physical decline) and external obsolescence (outside factors).",
       "difficulty": "medium",
@@ -147,14 +147,14 @@
     },
     {
       "key_topic_ref": "N-09.4",
-      "question_text": "In reconciliation, an appraiser has three value indicators: Sales Comparison = $485,000; Cost Approach = $510,000; Income Approach = $470,000. The appraiser's final value conclusion should be:",
-      "correct_answer": "A value weighted toward the most reliable approach for this property",
+      "question_text": "An appraiser is reconciling three value indications for a two-year-old church building in a small town. No comparable churches have sold in the region, and there is no rental market for such properties. In reconciliation, the appraiser should give the MOST weight to:",
+      "correct_answer": "The cost approach",
       "distractors": [
-        "The arithmetic average of the three approaches",
-        "The highest value ($510,000) because it represents maximum potential",
-        "The lowest value ($470,000) because appraisers must be conservative"
+        "The sales comparison approach",
+        "The income approach",
+        "An equal average of the three value indications"
       ],
-      "explanation": "Reconciliation is not a mathematical average — it is a professional judgment about which approach is most credible given the property type, data quality, and intended use. The appraiser weighs each approach based on its reliability in the specific assignment. For a single-family home with abundant comp sales, the sales comparison approach would receive the most weight. The cost and income approaches provide supporting context. The final value may or may not fall exactly on any single approach's indication — it reflects the appraiser's reasoned judgment about what the market evidence supports.",
+      "explanation": "Reconciliation weights each approach according to its reliability for the specific property and market — it is never a mechanical average. A special-purpose property like a church rarely sells and generates no rental income, so the sales comparison and income approaches rest on thin or nonexistent data. The cost approach — site value plus the depreciated cost of the improvements — is the most credible indicator here, especially for a nearly new building where depreciation is minimal. The appraiser's final value conclusion reflects reasoned professional judgment about which market evidence is most reliable, which is why an equal average of the three indications is wrong.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -446,13 +446,13 @@
     {
       "key_topic_ref": "N-09.4",
       "question_text": "Which statement about reconciliation is TRUE?",
-      "correct_answer": "The final value may fall outside the range of the three approaches if supported",
+      "correct_answer": "Reconciliation relies on the appraiser’s judgment of each approach’s reliability, not a formula",
       "distractors": [
-        "The appraiser must select a value between the highest and lowest indication",
-        "Reconciliation requires a mathematical formula to weight approaches equally",
+        "The final value is the arithmetic average of the three approach values",
+        "Each approach must always be weighted equally in the final opinion",
         "Only one approach may be considered in reconciliation"
       ],
-      "explanation": "While the reconciled value usually falls within the range of the three approaches, this is not an absolute rule. If the appraiser determines that one approach has a data error or is inappropriate for the assignment, the final opinion may fall outside the initial range after adjustments. Reconciliation is professional judgment, not a formula. All applicable approaches should be considered (not discarded), and they are not weighted equally — weighting depends on the reliability of each approach for the specific property and assignment.",
+      "explanation": "Reconciliation is the appraiser’s reasoned, professional judgment about how much weight each applicable approach deserves for the specific property and assignment — it is not an averaging exercise or a fixed formula. The approach most reliable for the property type (for example, sales comparison for single-family homes, income capitalization for rental property) receives the most weight. All applicable approaches should be considered, but they are never weighted mechanically or equally.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

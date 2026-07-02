@@ -94,7 +94,7 @@
         "Asbestos",
         "Lead-based paint"
       ],
-      "explanation": "Underground storage tanks (USTs) containing petroleum products are the primary environmental concern for former gas stations, dry cleaners, and industrial sites. Leaking USTs contaminate soil and groundwater with petroleum hydrocarbons and other chemicals. A Phase I Environmental Site Assessment would identify historical UST records, and a Phase II would involve soil and groundwater sampling if contamination is suspected. Purchasing a contaminated site without proper due diligence can expose the buyer to CERCLA liability as the current owner — even if someone else caused the contamination.",
+      "explanation": "Underground storage tanks (USTs) containing petroleum products are the primary environmental concern for former gas stations, dry cleaners, and industrial sites. Leaking USTs contaminate soil and groundwater with petroleum hydrocarbons and other chemicals. A Phase I Environmental Site Assessment would identify historical UST records, and a Phase II would involve soil and groundwater sampling if contamination is suspected. Purchasing a contaminated site without proper due diligence can expose the buyer, as the current owner, to cleanup liability — even if someone else caused the contamination. Because CERCLA contains a petroleum exclusion, liability for leaking petroleum USTs arises under RCRA Subtitle I and state UST/LUST programs rather than CERCLA, which is reserved for non-petroleum hazardous substances.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -197,7 +197,7 @@
         "5 business days",
         "No inspection right"
       ],
-      "explanation": "Federal law gives buyers of pre-1978 housing a 10-day window to conduct a lead-based paint inspection or risk assessment at their own expense. This period can be lengthened by agreement but cannot be shortened below 10 days. The buyer may waive this right in writing, and many buyers do. The seller is not required to pay for the inspection or to remediate any lead found — only to disclose known lead hazards and provide the EPA pamphlet.",
+      "explanation": "Federal law gives buyers of pre-1978 housing a 10-day window to conduct a lead-based paint inspection or risk assessment at their own expense. This period may be lengthened, shortened, or waived entirely by written mutual agreement of the parties. The seller is not required to pay for the inspection or to remediate any lead found — only to disclose known lead hazards and provide the EPA pamphlet.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -390,7 +390,7 @@
         "A visual inspection of the foundation for entry cracks",
         "A single water sample from the well tested for radon"
       ],
-      "explanation": "Long-term radon tests (90 days to one year) provide the most accurate average reading because radon levels fluctuate with weather, ventilation, and season. Short-term tests (2-7 days) are used for initial screening and real estate transactions but are less precise. Tests should be placed in the lowest livable level (where people spend time), with doors and windows closed for 12 hours before and during testing. Radon cannot be seen or smelled — only detected by specialized testing devices. Visual inspection and water testing alone are insufficient.",
+      "explanation": "Long-term radon tests (90 days to one year) provide the most accurate average reading because radon levels fluctuate with weather, ventilation, and season. Long-term tests are conducted under normal living conditions — that is precisely their accuracy advantage, since they capture the home's true average exposure. Short-term tests (2-7 days) are used for initial screening and real estate transactions but are less precise, and they require closed-house conditions: doors and windows kept closed for 12 hours before and throughout the test. Tests should be placed in the lowest livable level (where people spend time). Radon cannot be seen or smelled — only detected by specialized testing devices. Visual inspection and water testing alone are insufficient.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -462,7 +462,7 @@
       "question_text": "Unlike lead paint and asbestos, there is currently no federal regulation specifically governing:",
       "correct_answer": "Mold disclosure in residential real estate transactions",
       "distractors": [
-        "Radon testing in EPA-designated high-risk zones",
+        "Lead-safe work practices for renovations disturbing paint in pre-1978 housing (EPA RRP rule)",
         "Underground storage tank monitoring at former fuel sites",
         "Asbestos abatement in commercial buildings under renovation"
       ],
@@ -524,7 +524,7 @@
         "The cost of pumping out remaining fuel, typically under $1,000",
         "Annual property tax increases for hazardous materials storage"
       ],
-      "explanation": "The cost of remediating soil and groundwater contamination from leaking USTs can be enormous — ranging from tens of thousands to millions of dollars depending on the extent of contamination. Under CERCLA, the current property owner can be held strictly liable for cleanup costs regardless of who caused the contamination. This is why Phase I Environmental Site Assessments are critical for commercial property purchases — they identify UST history before closing. The EPA fine alone is minor compared to cleanup costs.",
+      "explanation": "The cost of remediating soil and groundwater contamination from leaking USTs can be enormous — ranging from tens of thousands to millions of dollars depending on the extent of contamination. Because CERCLA contains a petroleum exclusion, petroleum UST cleanups are governed by RCRA Subtitle I and state UST/LUST programs — and under those programs the current property owner can be held responsible for cleanup costs regardless of who caused the contamination (CERCLA is reserved for non-petroleum hazardous substances). This is why Phase I Environmental Site Assessments are critical for commercial property purchases — they identify UST history before closing. The EPA fine alone is minor compared to cleanup costs.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -768,14 +768,14 @@
     },
     {
       "key_topic_ref": "N-21.10",
-      "question_text": "The ASTM E1527 standard for Phase I ESAs requires all of the following EXCEPT:",
-      "correct_answer": "Collection and lab testing of soil or groundwater samples",
+      "question_text": "Under the ASTM E1527 standard, a Phase I ESA used to qualify for CERCLA landowner liability protections has a shelf life of:",
+      "correct_answer": "One year, with certain components requiring updates if more than 180 days old",
       "distractors": [
-        "A review of historical records including aerial photos and fire insurance maps",
-        "A physical site inspection to observe conditions and contamination indicators",
-        "Interviews with owners, occupants, and officials about past property use"
+        "Five years from the date of the report",
+        "No expiration — a Phase I remains valid indefinitely",
+        "30 days, after which the entire assessment must be repeated"
       ],
-      "explanation": "The ASTM E1527 standard (most recently updated in 2021) defines the scope of a Phase I ESA as four components: (1) records review (historical use records, regulatory databases, aerial photos, Sanborn maps), (2) site reconnaissance (physical inspection), (3) interviews (with owners, occupants, local officials), and (4) report preparation. It explicitly does NOT include physical sampling — that is a Phase II activity. This distinction is critical: a Phase I is a desktop and visual investigation; a Phase II is a hands-on sampling investigation.",
+      "explanation": "A Phase I ESA has a limited shelf life when used to establish CERCLA landowner liability protections (the innocent landowner, bona fide prospective purchaser, and contiguous property owner defenses). The report is valid for up to one year before the property acquisition. However, five components must be updated if they are more than 180 days old at acquisition: the regulatory records review, the site reconnaissance, interviews, the search for environmental liens and activity/use limitations, and the environmental professional's declaration. After one year, a new Phase I is required. The shelf life exists because site conditions and regulatory records change — a stale report cannot demonstrate that 'all appropriate inquiries' were current at the time of purchase.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,

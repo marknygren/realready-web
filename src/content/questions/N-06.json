@@ -26,11 +26,11 @@
     {
       "key_topic_ref": "N-06.1",
       "question_text": "A deed has been signed by the grantor and is properly notarized, but the grantor dies before handing it to the grantee. Has title transferred?",
-      "correct_answer": "No",
+      "correct_answer": "No — delivery and acceptance never occurred, so title did not pass",
       "distractors": [
-        "Yes",
-        "Yes",
-        "No"
+        "Yes — signing plus notarization completes a transfer",
+        "Yes — the grantor’s signed intent to convey is sufficient",
+        "No — but only because the deed was never recorded"
       ],
       "explanation": "Delivery and acceptance are essential elements of a valid deed transfer. Delivery means the grantor must voluntarily and unconditionally deliver the deed with the intent to immediately pass title. Acceptance means the grantee (or their agent) must accept it. If the grantor dies before delivering the deed, there has been no legal transfer — the property passes instead through the grantor's estate via will or intestacy. The signed deed alone proves intent, but intent without delivery is not sufficient to transfer title.",
       "difficulty": "hard",
@@ -128,7 +128,7 @@
         "Payment of property taxes throughout the statutory period",
         "The true owner's absence from the property for the statutory period"
       ],
-      "explanation": "Adverse possession (involuntary alienation) requires the claimant's use to satisfy all five elements — remembered as OCEAN: Open and notorious (visible, not hidden), Continuous (uninterrupted for the statutory period), Exclusive (not shared with the true owner), Actual (physical use, not just a claim), and Notorious/Hostile (without the owner's permission). Some states also require payment of property taxes. Permissive use (with the owner's consent) cannot ripen into adverse possession because it lacks the 'hostile' element.",
+      "explanation": "Adverse possession (involuntary alienation) requires the claimant's use to be open, notorious, hostile, exclusive, actual, and continuous. The mnemonic OCEAN covers five of these elements: Open (visible, not hidden), Continuous (uninterrupted for the statutory period), Exclusive (not shared with the true owner), Actual (physical use, not just a claim), and Notorious (obvious enough that a diligent owner would notice). In addition, the possession must be hostile — without the owner's permission. Some states also require payment of property taxes. Permissive use (with the owner's consent) cannot ripen into adverse possession because it lacks the 'hostile' element.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -259,11 +259,11 @@
     {
       "key_topic_ref": "N-06.1",
       "question_text": "A grantor places a signed deed in their safe deposit box with instructions for the deed to be given to the grantee after the grantor's death. Has there been a valid delivery?",
-      "correct_answer": "No",
+      "correct_answer": "No — the grantor retained control, so there was no present intent to pass title",
       "distractors": [
-        "Yes",
-        "Yes",
-        "No"
+        "Yes — signing and notarizing the deed completed delivery",
+        "Yes — the written instructions constitute constructive delivery",
+        "No — because a deed can never be delivered through a third party"
       ],
       "explanation": "For valid delivery, the grantor must relinquish control of the deed with the intent to immediately and unconditionally pass title. Retaining the deed in a personal safe deposit box — even with instructions — shows the grantor kept control and could have changed their mind. This is a testamentary transfer attempt (like a will), not a present conveyance. To pass property at death, the grantor should use a will or a transfer-on-death deed (where available). A deed placed in escrow with a third party can constitute valid conditional delivery.",
       "difficulty": "hard",
@@ -414,7 +414,7 @@
     },
     {
       "key_topic_ref": "N-06.4",
-      "question_text": "The mnemonic OCEAN helps remember the requirements for adverse possession. The 'H' in hostile means:",
+      "question_text": "For purposes of adverse possession, the requirement that the claimant's possession be 'hostile' means:",
       "correct_answer": "Use without the owner's permission, not necessarily hostile intent",
       "distractors": [
         "The possessor must demonstrate anger or animosity toward the owner",

@@ -89,7 +89,7 @@
       "correct_answer": "Owes the agent a commission",
       "distractors": [
         "Owes nothing",
-        "Owes nothing",
+        "Owes nothing because FSBO properties are excluded from buyer representation agreements",
         "Owes a reduced commission since the agent did not locate the property"
       ],
       "explanation": "An exclusive buyer representation agreement obligates the buyer to work exclusively with that agent and, typically, to compensate the agent if they purchase any property during the agreement period — regardless of how the property was found or whether it was listed on the MLS. FSBO properties are not exempt. The buyer agreed to these terms when signing. This is why buyers should understand buyer representation agreements before signing and should negotiate appropriate carve-outs (e.g., specific properties already known to the buyer) before executing. The agreement terms govern whether compensation is owed.",
@@ -124,14 +124,14 @@
     },
     {
       "key_topic_ref": "N-18.7",
-      "question_text": "When a listing broker offers compensation to cooperating brokers through the MLS, this offer of compensation is BEST understood as:",
+      "question_text": "Before the 2024 NAR settlement, a listing broker's offer of compensation to cooperating brokers through the MLS was BEST understood as:",
       "correct_answer": "A unilateral offer accepted by performance",
       "distractors": [
-        "A mandatory fee set by the MLS that all brokers must accept",
+        "A mandatory fee set by the MLS that all member brokers had to accept",
         "A negotiated split agreed upon between both brokers before listing",
-        "A government-regulated commission that cannot be changed once published"
+        "A government-regulated commission that could not be changed once published"
       ],
-      "explanation": "MLS cooperation works on a unilateral offer / acceptance model. The listing broker makes a unilateral offer of compensation to any MLS member who procures a buyer. A cooperating broker accepts this offer by performing — bringing a ready, willing, and able buyer. At that point, a bilateral contract (the co-op agreement) is formed between the two brokers. Real estate commissions are always negotiable — neither the MLS nor any government body sets commission rates. Following the 2024 NAR settlement, buyer compensation arrangements have shifted further toward direct buyer-broker agreements rather than seller-funded co-op offers.",
+      "explanation": "Under the pre-2024 MLS model, cooperation worked on a unilateral offer / acceptance basis: the listing broker published a unilateral offer of compensation to any MLS member who procured a buyer, and a cooperating broker accepted that offer by performance — producing a ready, willing, and able buyer — at which point a bilateral co-op agreement was formed between the two brokers. Commissions were never set by the MLS or by any government body; they have always been negotiable. The practice ended with the 2024 NAR settlement, which prohibits offers of compensation from being communicated through the MLS — broker compensation is now handled through written buyer agreements and off-MLS negotiation.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -246,7 +246,7 @@
         "Must split the commission equally with the cooperating broker",
         "Earns commission only if the cooperating broker was authorized by the seller"
       ],
-      "explanation": "Under an exclusive agency listing, the seller's right to sell without paying commission applies only to buyers the seller personally finds. If any broker — the listing broker or a cooperating broker — procures the buyer, the listing broker's commission is earned. The listing broker then typically pays a co-op commission to the cooperating broker per the MLS offering. The seller's exemption is narrow: only their own, personal, broker-free sale efforts.",
+      "explanation": "Under an exclusive agency listing, the seller's right to sell without paying commission applies only to buyers the seller personally finds. If any broker — the listing broker or a cooperating broker — procures the buyer, the listing broker's commission is earned. The listing broker then typically pays a co-op commission to the cooperating broker per whatever cooperation/compensation agreement exists between the brokers. The seller's exemption is narrow: only their own, personal, broker-free sale efforts.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -296,7 +296,7 @@
     },
     {
       "key_topic_ref": "N-18.3",
-      "question_text": "A seller has open listings with three different brokers. Broker B brings a buyer who makes an offer. The commission is owed to:",
+      "question_text": "A seller has open listings with three different brokers. Broker B brings a buyer whose offer the seller accepts. The commission is owed to:",
       "correct_answer": "Broker B only",
       "distractors": [
         "All three brokers equally since each had a valid listing agreement",
@@ -620,14 +620,14 @@
     },
     {
       "key_topic_ref": "N-18.7",
-      "question_text": "A cooperating broker who finds a buyer for an MLS-listed property is compensated by:",
-      "correct_answer": "The listing broker",
+      "question_text": "Following the 2024 NAR settlement, a cooperating broker who finds a buyer for an MLS-listed property is typically compensated by:",
+      "correct_answer": "Whatever source the parties' written agreements provide — the buyer directly, seller concessions, or the listing broker off-MLS",
       "distractors": [
-        "The MLS directly",
-        "The buyer",
-        "The state real estate commission"
+        "Always the listing broker via the MLS compensation field",
+        "Always the buyer in cash at closing",
+        "The MLS itself from membership dues"
       ],
-      "explanation": "In the traditional MLS model, the listing broker offers a share of their commission to cooperating brokers through the MLS. When a cooperating broker produces the buyer, they earn this share — paid by the listing broker (from the commission received from the seller). Following the 2024 NAR settlement, the way compensation is communicated has changed, but the fundamental concept of broker-to-broker compensation sharing continues in practice through various arrangements.",
+      "explanation": "Since the 2024 NAR settlement, offers of compensation can no longer be communicated through the MLS. A cooperating (buyer's) broker's compensation now comes from whatever the transaction's written agreements provide: the buyer may pay their broker directly under a written buyer representation agreement, the seller may agree to a concession that covers the fee, or the listing broker may still agree to share compensation — but any such sharing must be negotiated off-MLS. There is no longer a single default payor. The MLS itself never pays brokers, and buyers are not automatically responsible in cash at closing.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,

@@ -125,7 +125,7 @@
     },
     {
       "key_topic_ref": "N-30.1",
-      "question_text": "A property is valued at $250,000 and the buyer's loan is $225,000. At what LTV does PMI become required on a conventional loan?",
+      "question_text": "A property is valued at $250,000 and the buyer's conventional loan is $225,000. Is PMI likely to be required?",
       "correct_answer": "Yes, PMI is required because the LTV is 90%",
       "distractors": [
         "No, PMI is not required because the loan is under $300,000",
@@ -192,7 +192,7 @@
         "$50.00",
         "$1,250.00"
       ],
-      "explanation": "Per diem interest = Loan amount × Annual rate ÷ 365. $300,000 × 0.05 ÷ 365 = $15,000 ÷ 365 = $41.10 per day. The $41.67 distractor uses a 360-day year ($15,000 ÷ 360). The $1,250 is monthly interest ($15,000 ÷ 12). Per diem interest at closing covers the days from closing through the end of the month. For a March 15 closing, the borrower would pay 16 days of per diem interest (March 15-31): 16 × $41.10 = $657.60.",
+      "explanation": "Per diem interest = Loan amount × Annual rate ÷ 365. $300,000 × 0.05 ÷ 365 = $15,000 ÷ 365 = $41.10 per day. The $41.67 distractor uses a 360-day year ($15,000 ÷ 360). The $1,250 is monthly interest ($15,000 ÷ 12). Per diem interest at closing covers the days from closing through the end of the month. For a March 15 closing, the borrower would pay 17 days of per diem interest (March 15–31, inclusive): 17 × $41.10 = $698.70.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -212,7 +212,7 @@
         "$120,000",
         "$18,750"
       ],
-      "explanation": "Annual interest = Loan amount × Annual rate = $150,000 × 0.08 = $12,000. This is simple interest for one year. The $1,000 divides by 12 (monthly). The $120,000 multiplies by 0.80 instead of 0.08. The $18,750 divides by 0.08 instead of multiplying. Note that with an amortizing loan, the actual interest paid during the first year would be slightly less than $12,000 because the principal balance decreases with each payment.",
+      "explanation": "Annual interest = Loan amount × Annual rate = $150,000 × 0.08 = $12,000. This is simple interest for one year. The $1,000 divides by 12 (monthly). The $120,000 multiplies by 0.80 instead of 0.08. The $18,750 divides by 8 instead of multiplying by 0.08. Note that with an amortizing loan, the actual interest paid during the first year would be slightly less than $12,000 because the principal balance decreases with each payment.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -358,13 +358,13 @@
     {
       "key_topic_ref": "N-30.4",
       "question_text": "A buyer wants to purchase a $200,000 home using an FHA loan with 3.5% down. The FHA upfront MIP is 1.75% of the loan amount. If the buyer finances the MIP, what is the total financed amount?",
-      "correct_answer": "$196,375",
+      "correct_answer": "$196,377.50",
       "distractors": [
         "$193,000",
         "$200,000",
         "$203,500"
       ],
-      "explanation": "Step 1: Down payment = $200,000 × 0.035 = $7,000. Step 2: Base loan = $200,000 - $7,000 = $193,000. Step 3: Upfront MIP = $193,000 × 0.0175 = $3,377.50. Step 4: Total financed = $193,000 + $3,377.50 = $196,377.50 ≈ $196,375 (rounded). The $193,000 is the base loan without MIP. The $203,500 incorrectly adds MIP to the purchase price. FHA allows the upfront MIP to be financed into the loan, increasing the total amount borrowed.",
+      "explanation": "Step 1: Down payment = $200,000 × 0.035 = $7,000. Step 2: Base loan = $200,000 - $7,000 = $193,000. Step 3: Upfront MIP = $193,000 × 0.0175 = $3,377.50. Step 4: Total financed = $193,000 + $3,377.50 = $196,377.50. The $193,000 is the base loan without MIP. The $203,500 incorrectly adds MIP to the purchase price. FHA allows the upfront MIP to be financed into the loan, increasing the total amount borrowed.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
