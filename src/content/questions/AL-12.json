@@ -30,8 +30,8 @@
       "key_topic_ref": "AL-12.1",
       "question_text": "Which scenario violates Alabama's rules on compensation to unlicensed persons?",
       "correct_answer": "A broker splitting a fee with an unlicensed assistant",
-      "distractors": ["A broker paying a licensed agent in another state", "A broker compensating a licensed associate broker", "A broker paying a referral to a licensed broker"],
-      "explanation": "Splitting fees or commissions with unlicensed persons is a violation under Alabama law. Paying licensed agents in other states through cooperative agreements, compensating licensed associates, and paying referral fees to licensed brokers are all permissible activities.",
+      "distractors": ["A broker paying a licensed out-of-state principal broker under a co-brokerage agreement", "A broker compensating a licensed associate broker", "A broker paying a referral to a licensed broker"],
+      "explanation": "Splitting fees or commissions with unlicensed persons is a violation under Alabama law. Paying a licensed out-of-state principal broker under a co-brokerage agreement is permitted -- Act 2025-380 caps these at three agreements per out-of-state broker per calendar year and $50 million in annual volume, with the Alabama broker supervising. Compensating licensed associates and paying referral fees to licensed brokers are likewise permissible.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -72,14 +72,14 @@
     },
     {
       "key_topic_ref": "AL-12.2",
-      "question_text": "A licensee offers a buyer a $1,000 cash rebate at closing without broker authorization. What rule is violated?",
-      "correct_answer": "Prohibition on improper rebates",
-      "distractors": ["Anti-steering regulations", "Fair housing advertising rules", "Mortgage fraud statutes"],
-      "explanation": "Alabama law prohibits improper rebates in real estate transactions. Any rebate or inducement offered to a party must comply with AREC rules and be authorized by the qualifying broker. Unauthorized cash rebates at closing are a specific violation subject to discipline.",
+      "question_text": "A licensee gives a buyer a $1,000 cash rebate at closing. What is the result under Alabama license law?",
+      "correct_answer": "It is a violation because rebates are flatly prohibited",
+      "distractors": ["It is permitted if the qualifying broker authorizes it", "It is permitted if disclosed in writing to all parties", "It is permitted as a bona fide gift to the buyer"],
+      "explanation": "Under Section 34-27-36(b)(12), paying or receiving any rebate in a real estate transaction is a violation, so neither broker authorization nor disclosure makes it lawful. Alabama draws a sharp line here: rebates are flatly prohibited, while bona fide gifts are permitted. A cash payment tied to the closing is a rebate, not a bona fide gift.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["rebates", "prohibited conduct", "broker authorization"]
+      "tags": ["rebates", "prohibited conduct", "bona fide gifts"]
     },
     {
       "key_topic_ref": "AL-12.2",

@@ -62,24 +62,24 @@
     {
       "key_topic_ref": "AL-14.2",
       "question_text": "Alabama is classified as what type of state regarding mortgage security instruments?",
-      "correct_answer": "A lien theory state using mortgages",
-      "distractors": ["A title theory state using deeds of trust", "An intermediate theory state", "A trust deed state with power of sale"],
-      "explanation": "Alabama is a lien theory state that uses mortgages rather than deeds of trust. Under lien theory, the borrower retains title to the property while the lender holds a lien as security for the loan. The lender does not hold title during the loan term.",
+      "correct_answer": "A title theory state using mortgages (with power of sale)",
+      "distractors": ["A lien theory state where the borrower keeps legal title", "A deed of trust state where a trustee holds title", "An intermediate theory state where title passes only on default"],
+      "explanation": "Alabama is a title theory state that uses mortgages, typically containing a power of sale clause. Under §35-10-26, legal title passes to the mortgagee (lender) when the mortgage is executed, while the mortgagor keeps the equity of redemption and possession. Title revests in the borrower when the loan is paid off.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["lien theory", "mortgage", "security instrument"]
+      "tags": ["title theory", "mortgage", "security instrument"]
     },
     {
       "key_topic_ref": "AL-14.2",
-      "question_text": "In Alabama, who holds title to the property during the mortgage term?",
-      "correct_answer": "The borrower retains title",
-      "distractors": ["The lender holds title", "A neutral third-party trustee", "Title is split between borrower and lender"],
-      "explanation": "As a lien theory state, Alabama allows the borrower to retain title to the property throughout the mortgage term. The lender holds only a lien against the property as security for the debt. If the borrower defaults, the lender must foreclose to obtain title.",
+      "question_text": "In Alabama, who holds legal title to the property during the mortgage term?",
+      "correct_answer": "The lender holds legal title",
+      "distractors": ["The borrower retains legal title", "A neutral third-party trustee holds title", "The title insurance company holds title"],
+      "explanation": "Because Alabama is a title theory state, the lender holds legal title as security for the debt during the mortgage term. The borrower retains the equity of redemption and possession of the property. Legal title revests in the borrower once the loan is paid in full.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["lien theory", "title", "borrower rights"]
+      "tags": ["title theory", "legal title", "equity of redemption"]
     },
     {
       "key_topic_ref": "AL-14.2",
@@ -94,14 +94,14 @@
     },
     {
       "key_topic_ref": "AL-14.2",
-      "question_text": "After a foreclosure sale in Alabama, how long does the borrower have to redeem the property?",
-      "correct_answer": "12 months",
-      "distractors": ["6 months", "90 days", "No redemption period exists"],
-      "explanation": "Alabama provides a 12-month statutory redemption period after a foreclosure sale. During this time, the former owner may redeem the property by paying the sale price plus costs and interest. This is one of the longer redemption periods among U.S. states.",
+      "question_text": "An owner-occupied Alabama residence on which a homestead exemption was claimed is foreclosed in 2026 under a mortgage signed in 2020. How long is the statutory redemption period?",
+      "correct_answer": "180 days",
+      "distractors": ["1 year", "90 days", "2 years"],
+      "explanation": "Under §6-5-248, Alabama has a two-tier redemption rule: 180 days for residential property on which a homestead exemption was claimed, and 1 year for all other property. This owner-occupied homestead residence under a 2020 mortgage falls in the 180-day tier. If the lender fails to give the required notice the 180-day period is tolled, but redemption is capped at 1 year after the sale.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["statutory redemption", "12 months", "foreclosure"]
+      "tags": ["statutory redemption", "180 days", "foreclosure"]
     },
     {
       "key_topic_ref": "AL-14.2",
@@ -116,10 +116,10 @@
     },
     {
       "key_topic_ref": "AL-14.3",
-      "question_text": "A residential property in Alabama is assessed at what percentage of fair market value?",
+      "question_text": "An owner-occupied single-family residential property in Alabama is assessed at what percentage of fair market value?",
       "correct_answer": "10% under Class III",
       "distractors": ["20% under Class II", "30% under Class I", "15% under Class IV"],
-      "explanation": "Alabama uses a 4-class property assessment system. Residential and agricultural property falls under Class III and is assessed at 10% of fair market value. Class I (Utility) is 30%, Class II (Commercial/Industrial) is 20%, and Class IV (Vehicles) is 15%.",
+      "explanation": "Alabama uses a 4-class property assessment system. Owner-occupied single-family residential property, along with agricultural, forest, and historic property, falls under Class III and is assessed at 10% of fair market value. Non-owner-occupied residential property is Class II at 20%, like other commercial/industrial property; Class I (Utility) is 30% and Class IV (Vehicles) is 15%.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -149,10 +149,10 @@
     },
     {
       "key_topic_ref": "AL-14.3",
-      "question_text": "A 72-year-old Alabama homeowner earns $10,000 annually. Which homestead exemption applies?",
+      "question_text": "A 72-year-old Alabama homeowner has net taxable income of $10,000 on the combined federal return. Which homestead exemption applies?",
       "correct_answer": "H3 exemption from all property taxes",
-      "distractors": ["H1 standard exemption of $4,000 state", "H2 partial state exemption only", "H4 disabled veteran full exemption"],
-      "explanation": "The H3 homestead exemption applies to homeowners age 65 or older with annual income of $12,000 or less, as well as totally disabled homeowners. H3 provides complete exemption from all property taxes. Since this homeowner is over 65 with income under $12,000, H3 applies.",
+      "distractors": ["H1 standard exemption of $4,000 state", "H2 partial state exemption only", "H4 exemption for those 65+ with income over $12,000"],
+      "explanation": "The H3 homestead exemption applies to homeowners age 65 or older with net taxable income of $12,000 or less on the combined federal return, as well as totally disabled homeowners. H3 provides complete exemption from all property taxes, so this homeowner qualifies. H2, by contrast, is measured by adjusted gross income on the state return, and H4 covers homeowners 65 or older whose income exceeds $12,000.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

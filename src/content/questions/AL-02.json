@@ -105,14 +105,14 @@
     },
     {
       "key_topic_ref": "AL-02.2",
-      "question_text": "Which conviction would automatically disqualify a person from obtaining an Alabama real estate license?",
+      "question_text": "Which conviction could be grounds for the Alabama Real Estate Commission to reject a real estate license application?",
       "correct_answer": "Felony involving moral turpitude",
       "distractors": ["Any misdemeanor offense", "A minor traffic violation", "A civil judgment for debt"],
-      "explanation": "Alabama prohibits licensing for anyone convicted of a felony or a crime involving moral turpitude (dishonesty, fraud, deceit). Traffic violations and civil matters do not affect license eligibility. The background check via Fieldprint Alabama screens for these disqualifying offenses.",
+      "explanation": "Under § 34-27-32(b), the Commission may reject an applicant convicted of a felony or a crime involving moral turpitude (dishonesty, fraud, deceit) — rejection is discretionary, not automatic. AREC decides eligibility case by case based on the applicant's record. Minor traffic violations and civil judgments for debt are not grounds for rejection.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["eligibility", "background check", "disqualification"]
+      "tags": ["eligibility", "moral turpitude", "application rejection"]
     },
     {
       "key_topic_ref": "AL-02.3",
@@ -151,8 +151,8 @@
       "key_topic_ref": "AL-02.3",
       "question_text": "Which type of Alabama licensee has NO post-license education requirement?",
       "correct_answer": "Brokers",
-      "distractors": ["Salespersons", "Associate brokers", "All licensees must complete it"],
-      "explanation": "In Alabama, only salespersons have a 30-hour post-license education requirement. Brokers are exempt from post-license education, though they must still meet continuing education requirements for renewal.",
+      "distractors": ["Salespersons", "Temporary salesperson licensees", "All licensees must complete it"],
+      "explanation": "In Alabama, the 30-hour post-license requirement falls on temporary salesperson licensees — new salespersons must complete it while holding a temporary license. Brokers have no post-license education requirement, though they must still meet continuing education requirements for renewal.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -196,7 +196,7 @@
       "question_text": "A licensee misses the August 31 renewal deadline but renews on September 15. What additional cost do they face?",
       "correct_answer": "$150 late fee",
       "distractors": ["$50 late fee", "$250 late fee", "No additional cost until October 1"],
-      "explanation": "Licensees who renew after August 31 but before September 30 must pay a $150 late fee in addition to the standard renewal fee. After October 1, the license automatically becomes inactive.",
+      "explanation": "Licensees who renew between September 1 and September 30 must pay a $150 late fee in addition to the standard renewal fee. On October 1, an unrenewed license automatically becomes inactive.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

@@ -73,7 +73,7 @@
         "Yes, verbal complaints carry equal legal weight",
         "Only if the consumer later confirms by email"
       ],
-      "explanation": "Formal complaints must be in writing to officially trigger the complaint process. However, if the Commission becomes aware of potential violations through a verbal report, it retains the authority to self-initiate an investigation. The two mechanisms work together to ensure enforcement even when a complainant will not submit a written complaint.",
+      "explanation": "A member of the public triggers the complaint process by filing a verified complaint in writing; a \"formal complaint\" is the charging document Commission staff files after probable cause is found. If the Commission becomes aware of potential violations through a verbal report, it retains the authority to self-initiate an investigation. The two mechanisms work together to ensure enforcement even when a complainant will not submit a written complaint.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -88,7 +88,7 @@
         "$10,000 per violation",
         "$1,000 per violation"
       ],
-      "explanation": "As of October 2025, the Alabama Real Estate Commission increased the maximum fine from $2,500 to $5,000 per violation. This increase gives the Commission stronger enforcement authority to deter violations of real estate license law.",
+      "explanation": "The Alabama Legislature raised the maximum fine from $2,500 to $5,000 per violation through Act 2025-380 (HB382), effective October 1, 2025. The increase was made by the Legislature, not the Commission itself, and gives stronger enforcement authority to deter violations of real estate license law.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -96,18 +96,18 @@
     },
     {
       "key_topic_ref": "AL-06.2",
-      "question_text": "A licensee earned $15,000 in commissions from transactions involving fraudulent misrepresentation. Beyond revoking the license, what additional financial penalty may the Commission impose?",
-      "correct_answer": "A fine based on the gains from the violations",
+      "question_text": "A person who has never held a real estate license collects $15,000 in fees for brokering Alabama property sales. After a hearing on a cease-and-desist order, which financial penalties may the Commission impose?",
+      "correct_answer": "Per-violation fines plus fines equal to the gain and the Commission's costs",
       "distractors": [
-        "Only the standard maximum fine of $5,000",
-        "Treble damages paid directly to the consumer",
-        "A flat penalty equal to the annual license fee"
+        "A per-violation fine only, with no fine based on the gain",
+        "No monetary penalty, because unlicensed persons are outside the Commission's reach",
+        "Treble damages payable directly to the injured consumers"
       ],
-      "explanation": "Alabama law authorizes the Commission to impose gain-based fines, meaning the penalty can be calculated based on the financial gains the licensee obtained through the violation. This goes beyond the standard per-violation fine cap and is designed to ensure violators do not profit from misconduct.",
+      "explanation": "Gain-based and cost-recovery fines apply only to respondents who are not licensed under the license law. After a cease-and-desist hearing, the Commission may impose per-violation fines plus a fine in the amount of the person's gain and a fine in the amount of the Commission's costs. Licensees instead face the standard penalty menu: a $100 to $5,000 fine per violation, education, public reprimand, or suspension or revocation.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["gain_based_fines", "penalties", "enforcement"]
+      "tags": ["gain_based_fines", "unlicensed_activity", "penalties"]
     },
     {
       "key_topic_ref": "AL-06.2",
@@ -126,14 +126,14 @@
     },
     {
       "key_topic_ref": "AL-06.2",
-      "question_text": "The Commission investigates a licensee and incurs $3,200 in investigation costs. The licensee is found to have violated the license law. Can the Commission recover these costs?",
-      "correct_answer": "Yes, investigation costs may be assessed to violators",
+      "question_text": "The Commission investigates a licensee and incurs $3,200 in investigation costs. The licensee is found to have violated the license law. Can the Commission recover these costs from the licensee?",
+      "correct_answer": "No, cost-recovery fines apply only against unlicensed respondents",
       "distractors": [
-        "No, investigation costs are funded only by fees",
-        "Only if the violator agrees in a settlement",
-        "Only if the costs exceed $5,000"
+        "Yes, investigation costs may be assessed against any violator",
+        "Yes, but only if the costs exceed $5,000",
+        "Yes, the costs are automatically added to the per-violation fine"
       ],
-      "explanation": "Alabama law authorizes the Commission to recover investigation costs from licensees found to have violated the license law. This cost-recovery mechanism helps ensure that the expense of enforcing the law is borne by violators rather than by licensees who comply with the law.",
+      "explanation": "Cost-recovery fines exist only in proceedings against unlicensed respondents, so the Commission cannot assess its investigation costs against a disciplined licensee. In a licensee hearing, only witness fees are taxed, and those are charged to the party who requested the subpoena. The licensee still faces the standard penalties, such as per-violation fines.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -148,7 +148,7 @@
         "Only the most serious violation can be fined",
         "Multiple violations cap at $10,000 total"
       ],
-      "explanation": "Alabama's fine structure is per violation, not per transaction. Each separate violation may be fined up to $5,000. Three violations could result in up to $15,000 in fines plus any gain-based fines and investigation cost recovery. The Commission may also impose other penalties such as suspension or revocation.",
+      "explanation": "Alabama's fine structure is per violation, not per transaction. Each separate violation may be fined up to $5,000, so three violations could result in up to $15,000 in fines. The Commission may also impose other penalties such as suspension or revocation.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -193,7 +193,7 @@
         "The Commission chairperson alone",
         "The state Attorney General"
       ],
-      "explanation": "Disciplinary hearings before the Alabama Real Estate Commission are presided over by a hearing officer. The hearing officer manages the proceedings and prepares findings of fact for the Commission's review. Circuit court judges are involved only at the appeal stage.",
+      "explanation": "Disciplinary hearings before the Alabama Real Estate Commission are presided over by a hearing officer. The hearing officer manages the conduct of the proceedings, while the Commission itself renders the written order within 30 days of the hearing. Circuit court judges are involved only at the appeal stage.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -201,33 +201,33 @@
     },
     {
       "key_topic_ref": "AL-06.3",
-      "question_text": "After a disciplinary hearing, the hearing officer issues findings of fact. A licensee believes a critical factual error was made. What remedy should the licensee pursue first?",
-      "correct_answer": "File a petition for rehearing with the Commission",
+      "question_text": "A licensee believes the Commission's disciplinary order contains a critical factual error. What may the licensee do?",
+      "correct_answer": "Apply for rehearing within 30 days or appeal directly to circuit court",
       "distractors": [
+        "Petition for rehearing, which is required before any court appeal",
         "File a new complaint against the hearing officer",
-        "Immediately appeal to circuit court",
         "Request the Governor intervene in the matter"
       ],
-      "explanation": "When a licensee believes the findings of fact contain errors, the proper first step is to petition the Commission for rehearing. This allows the Commission to correct any mistakes before the matter proceeds to circuit court appeal. Exhausting administrative remedies is typically required before seeking judicial review.",
+      "explanation": "A rehearing is optional, not a prerequisite to court review: the licensee may apply to the Commission for rehearing within 30 days. Alternatively, the licensee may appeal directly to circuit court within 30 days of the final order. Either route allows the licensee to challenge a factual error in the Commission's order.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["rehearing", "findings_of_fact", "appeal_process"]
+      "tags": ["rehearing", "direct_appeal", "appeal_process"]
     },
     {
       "key_topic_ref": "AL-06.3",
-      "question_text": "At a Commission disciplinary hearing, the hearing officer must produce which of the following?",
-      "correct_answer": "Written findings of fact",
+      "question_text": "After a Commission disciplinary hearing, who renders the written order deciding the case?",
+      "correct_answer": "The Commission itself, within 30 days of the hearing",
       "distractors": [
-        "A jury verdict on the charges",
-        "A criminal sentencing recommendation",
-        "A binding arbitration award"
+        "The hearing officer who presided at the hearing",
+        "The circuit court after reviewing the hearing record",
+        "An outside arbitrator selected by the parties"
       ],
-      "explanation": "The hearing officer is required to prepare written findings of fact based on the evidence presented at the hearing. These findings form the basis for the Commission's disciplinary decision and are subject to review on appeal. Commission hearings are administrative, not criminal or arbitration proceedings.",
+      "explanation": "The Commission renders the written order within 30 days of the hearing. The hearing officer's authority covers only the conduct of the hearing itself. The circuit court becomes involved only if the Commission's order is appealed, and Commission hearings are administrative, not arbitration proceedings.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["findings_of_fact", "hearing_officer", "disciplinary_hearing"]
+      "tags": ["written_order", "commission", "disciplinary_hearing"]
     }
   ]
 }

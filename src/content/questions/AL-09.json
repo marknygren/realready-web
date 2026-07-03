@@ -21,18 +21,18 @@
     },
     {
       "key_topic_ref": "AL-09.1",
-      "question_text": "A qualifying broker opens a new trust account labeled 'Business Operating Account' at an Alabama bank. A buyer later deposits earnest money into it. What violation has occurred?",
-      "correct_answer": "The account lacks a trust or escrow designation",
+      "question_text": "A qualifying broker deposits a buyer's earnest money into the firm's business operating account at a federally insured Alabama bank. What violation has occurred?",
+      "correct_answer": "Holding client funds in the operating account instead of a separate trust account",
       "distractors": [
-        "Earnest money cannot go to a broker account",
-        "Only sellers may deposit earnest money",
-        "The bank must be federally chartered"
+        "Failing to title the account with the word 'trust' or 'escrow'",
+        "Accepting earnest money without AREC's prior written approval",
+        "Using a bank that is federally insured but state-chartered"
       ],
-      "explanation": "Alabama requires that trust accounts be specifically designated as 'trust' or 'escrow' accounts. A general business operating account does not meet this requirement, even if it is at a federally insured Alabama institution and used solely for client funds.",
+      "explanation": "Alabama law requires client funds to be held in a separate, federally insured account at an Alabama institution with the qualifying broker as a signatory (Section 34-27-36(b)(8), formerly (a)(8), and Rule 790-X-3-.03(1)). Placing client money in the firm's operating account violates that separate-account requirement and is commingling. There is no requirement that the account be titled 'trust' or 'escrow.'",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["trust_account", "designation", "escrow"]
+      "tags": ["trust_account", "separate_account", "commingling"]
     },
     {
       "key_topic_ref": "AL-09.1",
@@ -51,18 +51,18 @@
     },
     {
       "key_topic_ref": "AL-09.1",
-      "question_text": "A broker deposits a $200 personal check into the trust account to cover a bank service fee, planning to remove it next week. Which rule does this violate?",
-      "correct_answer": "The prohibition against commingling funds",
+      "question_text": "A broker deposits a $200 company check into the firm's trust account to cover the bank's service charges on the account. Has the broker violated Alabama's trust account rules?",
+      "correct_answer": "No, a small amount of company funds to cover bank charges is permitted",
       "distractors": [
-        "The immediate deposit requirement",
-        "The 7-day disbursement rule",
-        "The 3-year record retention rule"
+        "Yes, this is commingling regardless of the purpose",
+        "Yes, unless AREC grants written approval in advance",
+        "No, because trust account rules apply only to earnest money"
       ],
-      "explanation": "Commingling occurs when personal funds are mixed with client trust funds. Even if the broker intends the deposit to be temporary, placing personal money into the trust account violates Alabama's strict prohibition against commingling.",
+      "explanation": "AREC guidance expressly permits a broker to keep up to $1,000 of company funds in the trust account to cover bank service charges or maintain a minimum balance. A $200 deposit for that purpose falls within the allowance and is not a commingling violation.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["trust_account", "commingling", "prohibited"]
+      "tags": ["trust_account", "company_funds", "bank_charges"]
     },
     {
       "key_topic_ref": "AL-09.1",
@@ -81,33 +81,33 @@
     },
     {
       "key_topic_ref": "AL-09.2",
-      "question_text": "When must a licensee deposit earnest money into the trust account under Alabama law?",
-      "correct_answer": "Immediately upon receipt",
+      "question_text": "When must earnest money received with an offer be deposited into the trust account under Alabama law?",
+      "correct_answer": "Cash immediately; a check within the contract's stated time or when the offer becomes a contract",
       "distractors": [
-        "Within 3 business days of receipt",
-        "Within 7 days of contract acceptance",
-        "By the next scheduled closing date"
+        "Immediately upon receipt, whether cash or check",
+        "Within 3 business days of receipt in all cases",
+        "Within 7 business days of contract acceptance"
       ],
-      "explanation": "Alabama requires that earnest money be deposited into the trust account immediately upon receipt. There is no grace period of business days. Delays in depositing client funds can result in disciplinary action by AREC.",
+      "explanation": "Rule 790-X-3-.03(3) sets a two-track rule: cash must be deposited immediately, while a check is deposited within the time stated in the contract or, if no time is stated, when the offer becomes a contract. The separate duty to act 'immediately upon receipt' belongs to the salesperson, who must pay funds over to the qualifying broker under Rule .03(2).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["earnest_money", "deposit", "immediate"]
+      "tags": ["earnest_money", "deposit_timing", "cash_vs_check"]
     },
     {
       "key_topic_ref": "AL-09.2",
-      "question_text": "A closing occurs on March 1. The broker still holds trust funds related to the transaction on March 10. Has the broker violated Alabama law?",
-      "correct_answer": "Yes, funds must be disbursed within 7 days",
+      "question_text": "A transaction closes on March 1. On March 20, the broker still holds trust funds from that transaction that were due to the parties. Has the broker violated Alabama law?",
+      "correct_answer": "Yes, funds must be disbursed within 7 business days of consummation",
       "distractors": [
-        "No, the broker has 14 days after closing",
+        "No, the broker has 30 days after closing",
         "No, funds may be held until all parties agree",
-        "Yes, funds must be disbursed at closing"
+        "Yes, funds had to be disbursed at the closing itself"
       ],
-      "explanation": "Alabama requires brokers to disburse trust funds within 7 days of closing. Since the closing was March 1, the deadline was March 8. Holding trust funds through March 10 exceeds the 7-day window and constitutes a violation.",
+      "explanation": "Rule 790-X-3-.03, as amended effective April 14, 2025, requires trust funds to be disbursed within 7 business days of consummation of the transaction. Counting business days from a March 1 closing, the deadline falls well before March 20, so continuing to hold the funds is a violation.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["trust_funds", "disbursement", "7_days", "closing"]
+      "tags": ["trust_funds", "disbursement", "7_business_days", "closing"]
     },
     {
       "key_topic_ref": "AL-09.2",
@@ -127,32 +127,32 @@
     {
       "key_topic_ref": "AL-09.2",
       "question_text": "A buyer gives earnest money to a licensee on Friday evening after banking hours. The licensee deposits it Monday morning when the bank opens. Has the licensee violated the deposit requirement?",
-      "correct_answer": "Likely no, if deposited at first opportunity",
+      "correct_answer": "Likely no, next-business-day handling is acceptable",
       "distractors": [
         "Yes, deposit was required Friday evening",
         "Yes, a Saturday deposit was required",
         "No, there is a 5-business-day window"
       ],
-      "explanation": "While Alabama requires immediate deposit, regulators generally interpret this as the first reasonable opportunity when banking services are available. Depositing Monday morning after receiving funds Friday evening when the bank was closed is typically considered compliant.",
+      "explanation": "The deposit rule is two-track: cash goes in immediately, while a check is deposited within the time the contract states or, if none, when the offer becomes a contract (Rule 790-X-3-.03(3)), so a weekend delay in banking the funds is not itself a violation. The licensee's own duty is to pay funds over to the qualifying broker immediately upon receipt, and the next business day is acceptable for funds received after banking hours (Rule .03(2)).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["earnest_money", "immediate_deposit", "banking_hours"]
+      "tags": ["earnest_money", "deposit_timing", "banking_hours"]
     },
     {
       "key_topic_ref": "AL-09.2",
-      "question_text": "A broker receives two earnest money checks on the same day for different transactions. One check is deposited immediately; the other is placed in a desk drawer for three days. Which statement is accurate?",
-      "correct_answer": "The delayed deposit violates Alabama law",
+      "question_text": "A broker receives earnest money checks with two offers, and both offers are accepted the same day. Neither contract states a time for depositing the earnest money. One check is deposited promptly; the other is still in a desk drawer a week after its offer became a contract. Which statement is accurate?",
+      "correct_answer": "Holding the second check a week after contract formation is a violation",
       "distractors": [
-        "Both deposits satisfy the timing rule",
-        "Only one deposit per day is required",
-        "The broker has 7 days for multiple checks"
+        "Both checks were handled lawfully",
+        "Checks may be held until closing unless a party objects",
+        "The broker had 7 business days after acceptance to deposit each check"
       ],
-      "explanation": "Each earnest money check must be deposited immediately upon receipt under Alabama law. The requirement applies per check, not per day. Holding any earnest money check for three days violates the immediate deposit rule regardless of whether other checks were properly handled.",
+      "explanation": "Under Rule 790-X-3-.03(3), a check is deposited within the time stated in the contract or, if no time is stated, when the offer becomes a contract. Both offers here were accepted and the contracts are silent on timing, so a check still undeposited a week after contract formation violates the rule.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["earnest_money", "immediate_deposit", "multiple_checks"]
+      "tags": ["earnest_money", "deposit_timing", "multiple_checks"]
     },
     {
       "key_topic_ref": "AL-09.3",
@@ -178,7 +178,7 @@
         "Both equally in all circumstances",
         "Neither if theft is proven"
       ],
-      "explanation": "The qualifying broker is responsible for the trust account unless expressly relieved in writing by AREC. Delegating tasks to an office manager does not transfer legal responsibility. AREC will hold the qualifying broker accountable for any trust account shortages or violations.",
+      "explanation": "The qualifying broker is responsible for the trust account; the only relief comes when the parties to the transaction agree in writing to designate someone else to hold the funds (Rule 790-X-3-.03(3)). Delegating day-to-day tasks to an office manager does not transfer that responsibility, and the qualifying broker must also remain an authorized signatory on the account.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -208,7 +208,7 @@
         "Both share equal regulatory liability",
         "Neither if the signed agreement is on file"
       ],
-      "explanation": "Only AREC can expressly relieve a qualifying broker of trust account responsibility in writing. A private agreement between the qualifying broker and an associate broker does not shift the qualifying broker's regulatory obligation. The qualifying broker remains answerable to AREC.",
+      "explanation": "Associate licensees never bear the deposit responsibility to begin with — their duty is to pay trust funds over to the qualifying broker immediately upon receipt (Rule 790-X-3-.03(2)). The qualifying broker is relieved of responsibility for holding funds only by the transaction parties' written agreement designating another fund-holder, so a private agreement with an associate broker shifts nothing.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

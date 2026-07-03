@@ -21,18 +21,18 @@
     },
     {
       "key_topic_ref": "AL-08.1",
-      "question_text": "A listing broker's client has a property listed for sale. Another brokerage's licensee agrees to act on behalf of the listing broker's client. What role does this licensee serve?",
-      "correct_answer": "Subagent of the listing broker",
+      "question_text": "A licensee begins showing properties to a buyer who has not signed a brokerage services agreement. Under Alabama's RECAD, what relationship exists between the licensee and the buyer?",
+      "correct_answer": "Transaction facilitator, the default relationship",
       "distractors": [
-        "Dual agent for both parties",
-        "Transaction broker for the buyer",
-        "Designated agent for the seller"
+        "Single agent for the buyer",
+        "Dual agent for the buyer and the seller",
+        "Subagent of the listing broker"
       ],
-      "explanation": "Subagency occurs when a licensee from another brokerage acts on behalf of the listing broker's client (the seller). The subagent owes fiduciary duties to the listing broker's client, not to the buyer. This is distinct from dual agency, transaction brokerage, or designated agency.",
+      "explanation": "Act 2025-380, effective October 1, 2025, removed subagency from RECAD, leaving single agent, dual agent, and transaction facilitator as the permissible relationships. In the absence of a signed brokerage agreement, the transaction facilitator relationship remains in effect by default.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["subagency", "listing_broker", "agency_relationships"]
+      "tags": ["transaction_facilitator", "default_relationship", "agency_relationships"]
     },
     {
       "key_topic_ref": "AL-08.1",
@@ -66,18 +66,18 @@
     },
     {
       "key_topic_ref": "AL-08.1",
-      "question_text": "A subagent discovers that the buyer is willing to pay more than the listed price. To whom does the subagent owe the duty to disclose this information?",
-      "correct_answer": "The listing broker's client, the seller",
+      "question_text": "A seller's single agent learns that the buyer would be willing to pay more than the listed price. What must the agent do with this information?",
+      "correct_answer": "Disclose it to the seller, the agent's client",
       "distractors": [
-        "The buyer who shared the information",
-        "Both the buyer and the seller equally",
-        "Only the subagent's own qualifying broker"
+        "Keep it confidential to be fair to the buyer",
+        "Share it with the buyer and the seller equally",
+        "Use it only with the buyer's written permission"
       ],
-      "explanation": "A subagent acts on behalf of the listing broker's client (the seller) and owes fiduciary duties to that client. Information about the buyer's willingness to pay more is material to the seller and must be disclosed. The subagent does not owe fiduciary duties to the buyer, only honesty and fair dealing.",
+      "explanation": "A single agent owes fiduciary duties to the client and must disclose material information, and the buyer's willingness to pay more than the listed price is material to the seller. A dual agent, by contrast, could not reveal this, because a dual agent must keep each party's confidences. The single agent's loyalty runs to the client alone.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["subagency", "disclosure", "fiduciary_duties"]
+      "tags": ["single_agency", "disclosure", "fiduciary_duties"]
     },
     {
       "key_topic_ref": "AL-08.2",
@@ -88,7 +88,7 @@
         "Commission approval on a case-by-case basis",
         "Only the qualifying broker's written permission"
       ],
-      "explanation": "Limited consensual dual agency in Alabama requires written consent from ALL parties to the transaction. Verbal agreements are insufficient. The consent must be documented in writing before the licensee can represent both the buyer and the seller in the same transaction.",
+      "explanation": "Dual agency in Alabama requires informed written consent from ALL parties to the transaction. Verbal agreements are insufficient. The consent must be documented in writing before the licensee can represent both the buyer and the seller in the same transaction.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -96,14 +96,14 @@
     },
     {
       "key_topic_ref": "AL-08.2",
-      "question_text": "Under 2025 changes, when does dual agency apply in Alabama?",
+      "question_text": "Under Act 2025-380, effective October 1, 2025, when does dual agency apply in Alabama?",
       "correct_answer": "When one agent represents both buyer and seller",
       "distractors": [
         "When two agents in the same firm represent each side",
         "Whenever buyer and seller use the same brokerage",
         "Only in commercial transactions over $500,000"
       ],
-      "explanation": "Under the 2025 changes, dual agency in Alabama is now limited to situations where ONE agent represents both the buyer and the seller. When two different licensees within the same brokerage each represent one party, that is designated single agency, not dual agency. This is a significant clarification from prior practice.",
+      "explanation": "Under Act 2025-380, effective October 1, 2025, dual agency in Alabama means ONE agent representing both the buyer and the seller in the same transaction. The qualifying broker may designate licensees in writing as designated single agents, and when two designated licensees each represent one party, that is designated single agency, not dual agency. The designation is permissive and must be in writing; it is not automatic.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -111,14 +111,14 @@
     },
     {
       "key_topic_ref": "AL-08.2",
-      "question_text": "Two licensees work under the same qualifying broker. One represents the seller and the other represents the buyer in the same transaction. What type of agency relationship exists?",
+      "question_text": "Two licensees work under the same qualifying broker, who has designated each of them in writing as a designated single agent. One represents the seller and the other represents the buyer in the same transaction. What type of agency relationship exists?",
       "correct_answer": "Designated single agency",
       "distractors": [
         "Dual agency requiring consent from both parties",
-        "Transaction brokerage for both parties",
+        "Transaction facilitator relationship for both parties",
         "Subagency on behalf of the seller"
       ],
-      "explanation": "When two licensees under the same qualifying broker each represent one side of a transaction, this is designated single agency. Each licensee owes full fiduciary duties to their own client. Under the 2025 changes, this is NOT dual agency because two different agents are involved, each exclusively representing one party.",
+      "explanation": "Because the qualifying broker has designated each licensee in writing as a designated single agent, this is designated single agency. Each licensee owes full fiduciary duties to their own client. Under Act 2025-380, this is NOT dual agency because two different agents are involved, each exclusively representing one party.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -133,7 +133,7 @@
         "Only if the seller specifically requests it in writing",
         "Yes, both parties consented to full information sharing"
       ],
-      "explanation": "A dual agent in Alabama operates under limited consensual dual agency, meaning the agent cannot advocate for one party over the other. Sharing the buyer's confidential offer strategy would give the seller an unfair advantage. The agent must maintain neutrality between both parties despite representing both.",
+      "explanation": "A dual agent in Alabama, acting with the informed written consent of both parties, cannot advocate for one party over the other and must keep each party's confidences. Sharing the buyer's confidential offer strategy would give the seller an unfair advantage. The agent must maintain neutrality between both parties despite representing both.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -144,7 +144,7 @@
       "question_text": "In designated single agency, what level of duty does each designated licensee owe to their assigned client?",
       "correct_answer": "Full fiduciary duties to their own client",
       "distractors": [
-        "Limited duties similar to transaction brokerage",
+        "Limited duties similar to a transaction facilitator relationship",
         "Shared fiduciary duties with the other designated agent",
         "Only honesty and good faith to both parties"
       ],
@@ -156,44 +156,44 @@
     },
     {
       "key_topic_ref": "AL-08.3",
-      "question_text": "In transaction brokerage, what is the relationship between the licensee and the parties?",
+      "question_text": "When a licensee acts as a transaction facilitator, what is the relationship between the licensee and the parties?",
       "correct_answer": "The parties are customers, not clients",
       "distractors": [
         "Both parties are clients with full fiduciary rights",
         "The buyer is a client and the seller is a customer",
         "The relationship depends on who pays the commission"
       ],
-      "explanation": "In transaction brokerage, the licensee assists both parties as customers, not clients. There is no fiduciary relationship with either party. The transaction broker must treat all parties honestly, in good faith, and without favoritism, but does not owe the elevated fiduciary duties that come with a client relationship.",
+      "explanation": "In a transaction facilitator relationship (formerly called transaction brokerage), the licensee assists both parties as customers, not clients. There is no fiduciary relationship with either party. The transaction facilitator must treat all parties honestly, in good faith, and without favoritism, but does not owe the elevated fiduciary duties that come with a client relationship.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["transaction_brokerage", "customers", "no_fiduciary"]
+      "tags": ["transaction_facilitator", "customers", "no_fiduciary"]
     },
     {
       "key_topic_ref": "AL-08.3",
-      "question_text": "A transaction broker learns that a buyer is desperate to close quickly and would accept unfavorable terms. What obligation does the broker have regarding this information?",
-      "correct_answer": "The broker must not share it or favor either party",
+      "question_text": "A transaction facilitator learns that a buyer is desperate to close quickly and would accept unfavorable terms. What obligation does the facilitator have regarding this information?",
+      "correct_answer": "The facilitator must not share it or favor either party",
       "distractors": [
         "Disclose it to the seller as a material fact",
         "Share it with both parties for full transparency",
         "Report it to the qualifying broker for guidance"
       ],
-      "explanation": "A transaction broker must treat all parties honestly, in good faith, and without favoritism. Sharing one party's vulnerabilities with the other would constitute favoritism. Since there is no fiduciary relationship, there is no duty to disclose a party's negotiating weaknesses to the other side.",
+      "explanation": "A transaction facilitator (formerly transaction broker) must treat all parties honestly, in good faith, and without favoritism. Sharing one party's vulnerabilities with the other would constitute favoritism. Since there is no fiduciary relationship, there is no duty to disclose a party's negotiating weaknesses to the other side.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["transaction_brokerage", "fairness", "no_favoritism"]
+      "tags": ["transaction_facilitator", "fairness", "no_favoritism"]
     },
     {
       "key_topic_ref": "AL-08.3",
       "question_text": "What is the key distinction between a client and a customer in Alabama real estate?",
-      "correct_answer": "Clients receive fiduciary duties; customers get honesty only",
+      "correct_answer": "Clients are owed fiduciary duties; customers receive the statutory duties owed to all parties",
       "distractors": [
         "Clients pay commission; customers do not",
         "Clients sign contracts; customers use verbal agreements",
         "Clients are buyers; customers are sellers"
       ],
-      "explanation": "The fundamental distinction in Alabama real estate is the level of duty owed. Clients are owed full fiduciary duties (loyalty, confidentiality, obedience, disclosure, accounting, reasonable care) through a single agency or designated agency relationship. Customers are owed only honesty and good faith, as in transaction brokerage.",
+      "explanation": "The fundamental distinction in Alabama real estate is the level of duty owed. Clients are owed full fiduciary duties (loyalty, confidentiality, obedience, disclosure, accounting, reasonable care) through a single agency or designated agency relationship. Customers, such as parties assisted by a transaction facilitator (formerly transaction broker), still receive the statutory duties owed to all parties: honesty and good faith, reasonable care, confidentiality, accounting, timely presentation of offers, and disclosure of the licensee's personal interest.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -201,33 +201,33 @@
     },
     {
       "key_topic_ref": "AL-08.3",
-      "question_text": "A seller asks a transaction broker to recommend a listing price that will outperform competing properties. How should the broker respond?",
+      "question_text": "A seller asks a transaction facilitator to recommend a listing price that will outperform competing properties. How should the facilitator respond?",
       "correct_answer": "Decline, as advocating for one party is not permitted",
       "distractors": [
         "Provide the advice as part of standard brokerage services",
         "Offer the advice only with the buyer's written consent",
         "Provide the advice but also help the buyer negotiate down"
       ],
-      "explanation": "A transaction broker cannot advocate for one party over the other. Providing strategic pricing advice designed to give the seller a competitive advantage goes beyond the transaction broker's role of treating all parties without favoritism. This type of advocacy is reserved for agents in a fiduciary client relationship.",
+      "explanation": "A transaction facilitator (formerly transaction broker) cannot advocate for one party over the other. Providing strategic pricing advice designed to give the seller a competitive advantage goes beyond the facilitator's role of treating all parties without favoritism. This type of advocacy is reserved for agents in a fiduciary client relationship.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["transaction_brokerage", "advocacy", "neutrality"]
+      "tags": ["transaction_facilitator", "advocacy", "neutrality"]
     },
     {
       "key_topic_ref": "AL-08.3",
-      "question_text": "A transaction broker discovers a known roof leak during a property showing. Must the broker disclose this to the buyer?",
+      "question_text": "A transaction facilitator discovers a known roof leak during a property showing. Must the facilitator disclose this to the buyer?",
       "correct_answer": "Yes, honesty requires disclosing known defects",
       "distractors": [
-        "No, the broker has no fiduciary duty to the buyer",
+        "No, the facilitator has no fiduciary duty to the buyer",
         "Only if the seller authorizes the disclosure",
         "Only if the buyer asks about the roof condition"
       ],
-      "explanation": "Although a transaction broker does not owe fiduciary duties, the obligation to treat parties honestly and in good faith requires disclosure of known material defects like a roof leak. Honesty and good faith are baseline duties in all Alabama real estate relationships, regardless of the agency type.",
+      "explanation": "Although a transaction facilitator (formerly transaction broker) does not owe fiduciary duties, the obligation to treat parties honestly and in good faith requires disclosure of known material defects like a roof leak. Honesty and good faith are baseline duties owed in all Alabama real estate relationships, regardless of the relationship type.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["transaction_brokerage", "honesty", "material_defects"]
+      "tags": ["transaction_facilitator", "honesty", "material_defects"]
     }
   ]
 }

@@ -8,8 +8,8 @@
       "key_topic_ref": "AL-04.1",
       "question_text": "Which statement about an Alabama qualifying broker is correct?",
       "correct_answer": "They supervise all licensees in the company",
-      "distractors": ["They can serve as QB for multiple companies", "They need 12 months of salesperson experience", "They are appointed by AREC directly"],
-      "explanation": "The qualifying broker is responsible for supervising ALL licensees in the company. They cannot serve as qualifying broker for more than one company simultaneously and must have at least 24 of the 36 months preceding their application as an active salesperson.",
+      "distractors": ["They may delegate their supervisory duties to a team leader", "They need 12 months of salesperson experience", "They are appointed by AREC directly"],
+      "explanation": "The qualifying broker is responsible for supervising ALL licensees in the company and may not delegate that supervisory duty to a team leader. A broker may serve as qualifying broker for more than one company, but only if every company consents in writing, the consent is filed with AREC, and all the companies share the same company address. The 24-of-36-months experience rule is the requirement for obtaining a broker license, not a separate qualifying broker rule.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -17,10 +17,10 @@
     },
     {
       "key_topic_ref": "AL-04.1",
-      "question_text": "A qualifying broker in Alabama must distribute which document to every licensee at least annually?",
+      "question_text": "At least annually, an Alabama qualifying broker must explain which document to every licensee in the company?",
       "correct_answer": "Agency Disclosure Office Policy (ADOP)",
       "distractors": ["RECAD Brokerage Services Form", "Company trust account statement", "Annual license renewal reminder"],
-      "explanation": "The qualifying broker must create and distribute the ADOP to every licensee at least once per year. Licensees must sign acknowledging receipt, and the broker keeps signed copies on file. This is separate from the state-mandated RECAD form.",
+      "explanation": "The qualifying broker must explain the ADOP to every licensee at least once per year, and each licensee signs an acknowledgment that the broker keeps on file for three years. The ADOP is itself a RECAD mandate, though it is a different document from the RECAD Brokerage Services Form.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -28,14 +28,14 @@
     },
     {
       "key_topic_ref": "AL-04.1",
-      "question_text": "A broker wants to serve as qualifying broker for two separate real estate companies. Is this permitted in Alabama?",
-      "correct_answer": "No, only one company at a time",
-      "distractors": ["Yes, for up to two companies", "Yes, with AREC approval", "Yes, if both offices are in the same county"],
-      "explanation": "Alabama law prohibits a broker from serving as qualifying broker for more than one company simultaneously. This ensures adequate supervision of all licensees, which is the qualifying broker's primary responsibility.",
+      "question_text": "Under what conditions may a broker serve as qualifying broker for more than one Alabama real estate company?",
+      "correct_answer": "All companies consent in writing, the consent is filed with AREC, and all companies share the same company address",
+      "distractors": ["It is never permitted; a broker may serve only one company at a time", "Only if AREC issues a separate qualifying broker license for each company", "Only if the companies are located in different counties"],
+      "explanation": "Alabama law allows a broker to serve as qualifying broker for more than one company when all of the companies consent in writing, the consent is filed with AREC, and all of the companies share the same company address. A blanket one-company-only rule is not Alabama law.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["qualifying broker", "restrictions", "multiple companies"]
+      "tags": ["qualifying broker", "multiple companies", "conditions"]
     },
     {
       "key_topic_ref": "AL-04.1",
@@ -74,8 +74,8 @@
       "key_topic_ref": "AL-04.2",
       "question_text": "A brokerage opens a second office in a different city. What does Alabama law require?",
       "correct_answer": "Separate branch office registration",
-      "distractors": ["No additional registration is needed", "A second qualifying broker license", "Approval from the local real estate board"],
-      "explanation": "Each branch office requires separate registration with AREC. As of the 2025 law changes, agents may now use any office of their brokerage to meet clients, removing the previous restriction that limited agents to their designated office.",
+      "distractors": ["No additional registration is needed", "A majority vote of the AREC commissioners", "Approval from the local real estate board"],
+      "explanation": "Each branch office requires separate registration with AREC, and each branch must operate under a qualifying broker licensed at that address — no person may serve as qualifying broker at more than one location. As of the 2025 law changes, agents may now use any office of their brokerage to meet clients.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -160,14 +160,14 @@
     },
     {
       "key_topic_ref": "AL-04.3",
-      "question_text": "A licensee wants to operate their real estate business from home. Under Alabama law, this is:",
-      "correct_answer": "Permitted if home meets AREC standards",
-      "distractors": ["Prohibited under all circumstances", "Permitted only for licensed brokers", "Permitted only in rural Alabama areas"],
-      "explanation": "Operating from a home office is permitted in Alabama as long as the home office meets AREC requirements for a place of business. This applies to qualifying brokers establishing their designated office. The space must meet applicable standards for a business location.",
+      "question_text": "Under Alabama law, which licensee may operate a real estate office out of their home?",
+      "correct_answer": "A licensed broker in a rural area",
+      "distractors": ["Any licensee whose qualifying broker approves in writing", "Any salesperson who registers the home office with AREC", "Any licensee living within city limits"],
+      "explanation": "Alabama law permits a home office only for a licensed broker in a rural area, and only if it has a separate entrance and a separate business phone, is not used for living purposes, is used only by the broker, and is identified as a real estate office. Licensees in a city must maintain a separate office within the city limits, though a hardship waiver is possible.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["home office", "place of business", "requirements"]
+      "tags": ["home office", "rural area", "place of business"]
     }
   ]
 }
