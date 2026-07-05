@@ -26,7 +26,7 @@
     },
     {
       "key_topic_ref": "CA-11.1",
-      "question_text": "A landlord owns a single-family home and rents it to a tenant. The tenant has lived there for 18 months. The landlord wants to terminate the tenancy for no specific reason. Under AB 1482, the landlord:",
+      "question_text": "A landlord owns a single-family home and rents it to a tenant, but never served the AB 1482 exemption notice. The tenant has lived there for 18 months. The landlord wants to terminate the tenancy for no specific reason. Under AB 1482, the landlord:",
       "correct_answer": "Must provide just cause for termination after 12 months",
       "distractors": [
         "May terminate at any time with 60 days' written notice",
@@ -112,7 +112,7 @@
         "3 months' rent",
         "6 weeks' rent"
       ],
-      "explanation": "AB 12, effective July 1, 2024, reduced the maximum security deposit for most residential rentals to 1 month's rent, down from the prior 2-month limit.",
+      "explanation": "AB 12, effective July 1, 2024, reduced the maximum security deposit for most residential rentals to 1 month's rent — down from the prior limits of 2 months' rent for unfurnished units and 3 months' for furnished units.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -170,7 +170,7 @@
         "Permitted only if the tenant gave 60 days' written notice first",
         "Prohibited because pest control is the tenant's responsibility"
       ],
-      "explanation": "California Civil Code §1941 establishes habitability standards. When a landlord fails to maintain habitable conditions, tenants may use the repair-and-deduct remedy to fix the problem and deduct the cost from rent, up to the amount of one month's rent.",
+      "explanation": "Civil Code §1941 sets the landlord's habitability standards; the repair-and-deduct remedy itself comes from §1942. After reasonable notice goes unaddressed, the tenant may repair and deduct up to one month's rent, usable at most twice in any 12-month period.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -262,20 +262,20 @@
     {
       "key_topic_ref": "CA-11.3",
       "question_text": "A property management company wants to use an unlicensed employee to show vacant apartments to prospective tenants. This is:",
-      "correct_answer": "Not permitted because showing property is a licensed activity",
+      "correct_answer": "Permitted — unlicensed employees may show residential apartments under supervision",
       "distractors": [
-        "Permitted if the employee only shows units and does not negotiate",
-        "Permitted if the employee is supervised by a licensed manager",
-        "Permitted for residential showings but not commercial properties"
+        "Not permitted because showing property always requires a real estate license",
+        "Permitted only if the employee holds a property management certificate",
+        "Permitted for commercial properties but not residential"
       ],
-      "explanation": "Showing property is considered a real estate activity requiring licensure. Unlicensed personnel may only perform clerical duties. Conducting showings — even without negotiating — requires a real estate license.",
+      "explanation": "B&P Code §10131.01 exempts unlicensed employees of a landlord or property management broker from licensing for limited residential apartment activities: showing units, providing factual information from written statements, handing out and accepting applications, and accepting deposits or rent — under the broker's supervision and without negotiating lease terms. Contrast sales: showing a home listed for sale still requires a license.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "unlicensed-assistants",
         "property-management",
-        "licensing"
+        "10131.01"
       ]
     },
     {

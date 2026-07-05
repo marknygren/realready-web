@@ -44,14 +44,14 @@
     },
     {
       "key_topic_ref": "CA-08.1",
-      "question_text": "A broker wants to earn interest on client funds held in the trust account. What is required?",
-      "correct_answer": "Written consent of all parties whose funds are in the account",
+      "question_text": "At a buyer's request, a broker deposits the buyer's earnest money into an interest-bearing trust account. Who may receive the interest earned?",
+      "correct_answer": "Only the owner of the funds — never the broker",
       "distractors": [
-        "Interest accounts are prohibited for trust funds",
-        "Written consent of the broker's designated officer only",
-        "DRE approval on a per-account basis"
+        "The broker, if all parties consent in writing",
+        "The broker and the owner split the interest equally",
+        "The listing broker, as compensation for administering the account"
       ],
-      "explanation": "A trust account may be interest-bearing only if all parties whose funds are deposited have given written consent. Without universal written consent, the account must be non-interest-bearing.",
+      "explanation": "Under B&P Code §10145(d), a broker may place trust funds in an interest-bearing account only at the request of the funds' owner, with the account held in the broker's name as trustee for that beneficiary. Interest may never inure to the broker's benefit, directly or indirectly — even with the owner's written consent.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -83,13 +83,13 @@
     {
       "key_topic_ref": "CA-08.1",
       "question_text": "A broker deposits client funds into a personal checking account labeled 'Real Estate Account.' Does this satisfy California trust account requirements?",
-      "correct_answer": "No, the account must be at a California-chartered bank and designated as a trust account",
+      "correct_answer": "No, trust funds require an account designated as a trust account at a bank or recognized depository in California",
       "distractors": [
         "Yes, any account labeled for real estate is sufficient",
         "Yes, if the broker maintains a separate ledger",
         "No, but only because the account is not at a federally insured institution"
       ],
-      "explanation": "California law requires trust funds to be deposited in an account at a California bank (or qualified institution) that is specifically designated as a 'trust account.' A personal checking account, regardless of its label, does not qualify.",
+      "explanation": "B&P Code §10145 requires trust funds to be deposited into an account designated as a trust account, in the broker's name as trustee, at a bank or other recognized depository located in California. The bank's charter — state or federal — does not matter. A personal checking account does not qualify no matter how it is labeled.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -198,20 +198,20 @@
     },
     {
       "key_topic_ref": "CA-08.3",
-      "question_text": "A broker's written office policy does not address agency relationships or disclosure procedures. The DRE audits and cites the broker. Why is the broker subject to discipline?",
-      "correct_answer": "California requires brokers to maintain written office policies covering agency",
+      "question_text": "A DRE audit finds a broker has no policies, procedures, or systems for reviewing transaction documents or overseeing salesperson activities. Why is the broker subject to discipline?",
+      "correct_answer": "Regulation 2725 requires supervision systems covering transactions, documents, trust funds, and advertising",
       "distractors": [
         "Brokers must have policies but their content is not regulated",
         "The broker is cited only if a client complaint was also filed",
-        "Office policies are optional for brokers with fewer than five agents"
+        "Supervision policies are optional for brokers with fewer than five agents"
       ],
-      "explanation": "California law requires brokers to maintain written office policies addressing agency relationships and disclosure procedures. Absence of such policies is itself a violation subject to DRE discipline.",
+      "explanation": "Commissioner's Regulation 2725 defines reasonable supervision to include establishing policies, rules, procedures, and systems to review and manage licensed transactions, documents with a material effect on the parties, trust fund handling, advertising, and regular reports of salesperson activity — plus a system for monitoring compliance. A broker with no such systems has failed the supervision duty regardless of whether a client was harmed.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": [
         "broker-supervision",
-        "agency",
+        "Regulation-2725",
         "DRE",
         "office-policies"
       ]

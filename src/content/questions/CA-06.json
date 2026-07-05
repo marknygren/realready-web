@@ -13,7 +13,7 @@
         "Seller's subagent",
         "Transaction coordinator"
       ],
-      "explanation": "A buyer's agent represents solely the buyer's interests. California's agency-disclosure law (Civil Code §§2079.13–2079.24) effectively ended subagency in 1-4 unit residential sales, so cooperating agents today work as direct buyer's agents rather than subagents of the listing broker.",
+      "explanation": "A buyer's agent represents solely the buyer's interests. California's agency-disclosure law (Civil Code §§2079.13–2079.24) requires cooperating agents to disclose and confirm which party they represent; in modern practice cooperating agents nearly always act as buyer's agents rather than as subagents of the listing broker, though the confirmation still permits a selling agent to act for the seller.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -25,21 +25,21 @@
     },
     {
       "key_topic_ref": "CA-06.1",
-      "question_text": "Under California's residential agency-disclosure law (Civil Code §§2079.13–2079.24), which form of representation is no longer recognized in 1-4 unit transactions?",
-      "correct_answer": "Subagency",
+      "question_text": "Under California's agency disclosure law, which roles may a selling agent occupy in a residential transaction, subject to disclosure and confirmation?",
+      "correct_answer": "Buyer's agent, seller's agent, or dual agent",
       "distractors": [
-        "Dual agency",
-        "Buyer's agency",
-        "Non-agent transaction coordination"
+        "Buyer's agent only — a selling agent may never represent the seller",
+        "Transaction coordinator with no agency role",
+        "Dual agent only, since the selling agent works with both sides"
       ],
-      "explanation": "Civil Code §§2079.13–2079.24 require explicit disclosure of which party (or parties) a real estate licensee represents in a 1-4 unit residential transaction. Cooperating brokers in those transactions act as direct buyer's agents, not as subagents of the listing broker.",
+      "explanation": "The agency confirmation under Civil Code §2079.17 allows the selling agent to act as the buyer's agent exclusively, the seller's agent exclusively, or a dual agent. Subagency is not presumed in modern practice — cooperating agents almost always represent the buyer — but the law requires disclosing and confirming whichever role the agent actually occupies.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
-        "subagency",
-        "abolition",
-        "California-agency-law"
+        "agency-confirmation",
+        "selling-agent",
+        "agency-types"
       ]
     },
     {
@@ -63,52 +63,52 @@
     },
     {
       "key_topic_ref": "CA-06.1",
-      "question_text": "An agent facilitates a transaction without representing either party's interests, handling paperwork and coordination only. What best describes this role in California?",
-      "correct_answer": "Non-agent or transaction coordinator",
+      "question_text": "Under AB 2992, what is the maximum term of a buyer-broker representation agreement with an individual homebuyer, and how may it be renewed?",
+      "correct_answer": "Three months, renewable only in writing — automatic renewal is prohibited",
       "distractors": [
-        "Seller's agent acting in a limited capacity",
-        "Dual agent with reduced fiduciary duties",
-        "Broker associate acting independently"
+        "Six months, with automatic renewal unless the buyer cancels",
+        "One year, renewable verbally at the parties' option",
+        "No limit — the term is fully negotiable like a listing"
       ],
-      "explanation": "California recognizes a non-agent or transaction coordinator role in which the licensee facilitates the transaction without representing either party. This person does not owe full fiduciary duties to either side.",
+      "explanation": "AB 2992 (effective January 1, 2025) caps buyer-broker representation agreements with individual buyers at three months from execution. Automatic renewal clauses are prohibited; each renewal must be a new signed writing, itself capped at three months. Agreements with corporations, LLCs, and partnerships are exempt from these limits.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
-        "non-agent",
-        "transaction-coordinator",
-        "agency-types"
+        "AB-2992",
+        "buyer-broker-agreement",
+        "term-limit"
       ]
     },
     {
       "key_topic_ref": "CA-06.1",
-      "question_text": "A California buyer's agent has been showing homes to a client for three weeks without signing any representation agreement. Which best describes the risk of this arrangement?",
-      "correct_answer": "The agency relationship and its protections may be unclear or disputed",
+      "question_text": "A California buyer's agent has been showing homes to a client for three weeks without a signed representation agreement. The buyer is now ready to write an offer. Under current law:",
+      "correct_answer": "A written buyer-broker representation agreement must be signed no later than the offer",
       "distractors": [
+        "No agreement is required as long as agency is disclosed at closing",
         "The agent automatically becomes a dual agent after 30 days",
-        "The agent is presumed to be a seller's subagent under state law",
-        "The buyer forfeits the right to an agency disclosure form"
+        "A verbal representation agreement is sufficient if both parties agree"
       ],
-      "explanation": "Without a written agreement, the agency relationship and each party's duties are undefined. California's agency statutes contemplate clear written disclosure and confirmation; an undocumented relationship creates legal ambiguity that can harm both agent and client.",
+      "explanation": "Since January 1, 2025 (AB 2992), brokers must enter a written buyer-broker representation agreement as soon as practicable — and no later than the execution of the buyer's offer. Working without one also leaves the agency relationship and the agent's compensation terms undocumented.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": [
+        "AB-2992",
         "buyers-agent",
-        "representation-agreement",
-        "agency-clarity"
+        "representation-agreement"
       ]
     },
     {
       "key_topic_ref": "CA-06.2",
       "question_text": "For which transactions is a California Agency Disclosure (AD) form required?",
-      "correct_answer": "Sales, exchanges, or leases over one year for 1-4 unit residential properties",
+      "correct_answer": "Sales, exchanges, and leases over one year of residential, commercial, and vacant-land properties",
       "distractors": [
-        "All residential and commercial real estate sales",
+        "Sales of 1-4 unit residential properties only",
         "Residential sales only, regardless of lease term or unit count",
         "Any transaction where a broker represents both parties"
       ],
-      "explanation": "Under Civil Code §2079 et seq., the AD form is required for sales, exchanges, or leases of more than one year involving 1-4 unit residential properties. Commercial and multi-unit transactions have different rules.",
+      "explanation": "Since January 1, 2015, Civil Code §2079.13 defines 'real property' for agency-disclosure purposes to include 1-4 unit residential property, larger multiunit residential property, commercial real property, vacant land, ground leases, and manufactured homes. The AD form is required for sales, exchanges, and leases longer than one year of those properties — no longer just 1-4 unit residential sales.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -159,13 +159,13 @@
     {
       "key_topic_ref": "CA-06.2",
       "question_text": "Where must the agency confirmation appear in a California residential transaction?",
-      "correct_answer": "In the purchase agreement itself, as required by CC §2079.17",
+      "correct_answer": "In the purchase agreement or in a separate writing signed by the parties",
       "distractors": [
-        "In a separate standalone document signed by both parties",
+        "Only in the purchase agreement itself — a separate document never suffices",
         "In the escrow instructions prepared by the escrow officer",
         "In the listing agreement, acknowledged by both buyer and seller"
       ],
-      "explanation": "Civil Code §2079.17 requires agency confirmation to appear within the purchase agreement. This ensures both buyer and seller formally acknowledge each agent's role in the specific transaction.",
+      "explanation": "Civil Code §2079.17 requires the agency confirmation to appear 'in the contract to purchase and sell real property or in a separate writing executed or acknowledged by the seller and the buyer.' In practice it is usually part of the purchase agreement, but a separate signed confirmation also satisfies the statute.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -203,7 +203,7 @@
         "Withdraw from dual agency and represent the seller only",
         "Obtain written consent from both parties before disclosing"
       ],
-      "explanation": "A dual agent may not disclose one party's confidential financial information — including the buyer's willingness to pay more — to the other party. This is a key limitation of dual agency that both parties must understand.",
+      "explanation": "A dual agent may not disclose one party's confidential pricing information — including the buyer's willingness to pay more — to the other party. Under Civil Code §2079.21, such information may be shared only with the express written consent of the party it concerns.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

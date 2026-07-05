@@ -33,7 +33,7 @@
         "Release of lien",
         "Substitution of trustee"
       ],
-      "explanation": "When a trust deed loan is fully repaid, the trustee records a deed of reconveyance (reconveyance deed) to transfer legal title back to the trustor and release the lien. California uses trust deeds rather than mortgages, so there is no 'satisfaction of mortgage.'",
+      "explanation": "When a trust deed loan is fully repaid, the trustee records a deed of reconveyance to return legal title to the trustor and release the lien. California overwhelmingly uses trust deeds rather than mortgages — mortgages remain legal but are rare — so lien releases arrive as reconveyance deeds rather than satisfactions of mortgage.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -51,9 +51,9 @@
       "distractors": [
         "The junior trust deed survives and transfers with the property",
         "The junior lienholder can block the senior foreclosure",
-        "The junior lienholder receives proceeds after the senior is paid"
+        "The junior lien transfers to the winning bidder, who must pay it off"
       ],
-      "explanation": "In a non-judicial (trustee's sale) foreclosure by the senior lienholder, all junior liens are extinguished. The junior lienholder loses the security interest in the property. This is why junior lienholders monitor senior loan defaults closely.",
+      "explanation": "In a trustee's sale by the senior lienholder, junior liens are extinguished — the winning bidder takes title free of them. If the sale brings more than the senior debt plus costs, any surplus is distributed to junior lienholders in priority order, but the junior's security interest in the property itself is wiped out.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -146,21 +146,21 @@
     },
     {
       "key_topic_ref": "CA-14.2",
-      "question_text": "A Notice of Sale is posted in California. A borrower wants to redeem the property before the auction. Which statement is accurate?",
-      "correct_answer": "Borrower can redeem up to the day before the trustee's sale by paying arrears",
+      "question_text": "A Notice of Sale is posted in California. A borrower wants to save the property before the auction. Which statement is accurate?",
+      "correct_answer": "She may reinstate by paying arrears until 5 business days before the sale; after that, only full payoff stops it",
       "distractors": [
-        "No redemption is possible after the Notice of Sale is recorded",
-        "Redemption requires full payoff only during the 21-day notice period",
-        "Court approval is needed to redeem during the notice period"
+        "No reinstatement is possible once the Notice of Sale is recorded",
+        "She may reinstate by paying arrears up to the moment of the auction",
+        "Court approval is required to reinstate during the notice period"
       ],
-      "explanation": "After the Notice of Sale is posted, the right to reinstate by paying arrears typically expires 5 business days before the sale date. Before that cutoff, the borrower can still stop the sale by paying the full balance or reinstating — the exact right depends on timing, but options remain until very close to the sale.",
+      "explanation": "Civil Code §2924c gives the borrower the right to reinstate — pay the missed payments plus allowable costs — until five business days before the scheduled trustee's sale. During the final five business days, reinstatement is no longer a matter of right; the borrower must exercise the equity of redemption by paying the entire loan balance to stop the sale.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": [
         "foreclosure",
-        "redemption",
-        "notice-of-sale",
+        "reinstatement",
+        "2924c",
         "trustee-sale"
       ]
     },
@@ -213,7 +213,7 @@
         "Protection from all deficiency judgments",
         "Automatic stay for 6 months during court proceedings"
       ],
-      "explanation": "When a lender uses judicial foreclosure instead of a trustee's sale, the borrower gains a 1-year statutory right of redemption after the sale. However, the lender also gains the ability to pursue a deficiency judgment — a significant trade-off.",
+      "explanation": "When a lender uses judicial foreclosure instead of a trustee's sale, the borrower gains a statutory right of redemption after the sale — one year where a deficiency remains possible, three months if the sale proceeds fully cover the debt. The lender in turn gains the ability to pursue a deficiency judgment (where not barred), a significant trade-off.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -253,7 +253,7 @@
         "Deficiency is automatically forgiven after 2 years",
         "Borrower owes the difference unless it was a jumbo loan"
       ],
-      "explanation": "In a short sale, the lender agrees to accept less than the amount owed as full satisfaction of the debt. By approving the short sale and accepting proceeds, the lender typically waives the right to pursue a deficiency judgment.",
+      "explanation": "In a short sale, the lender agrees to accept less than the amount owed. For a lender-approved short sale of a 1-4 unit residential property, CCP §580e goes further: the remaining deficiency is barred by statute, not merely waived by agreement.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

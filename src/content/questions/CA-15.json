@@ -107,13 +107,13 @@
     {
       "key_topic_ref": "CA-15.2",
       "question_text": "A private individual in California wants to lend money at 15% interest on a personal note, not arranged through a broker. Is this permitted under California usury law?",
-      "correct_answer": "No, California caps all non-exempt loans at 10% per year",
+      "correct_answer": "No, the rate exceeds California's constitutional usury limit for non-exempt lenders",
       "distractors": [
         "Yes, private parties can charge any interest rate they agree to",
         "Yes, but only on loans secured by real property",
-        "No, the maximum is 5% plus the Federal Reserve discount rate"
+        "No, the limit for all private loans is 7% per year"
       ],
-      "explanation": "California's constitutional usury limit caps non-exempt loans at the greater of 10% per year OR 5% plus the Federal Reserve discount rate. A private individual charging 15% on a non-exempt loan would violate usury law unless the higher formula exceeded 15%.",
+      "explanation": "For loans used primarily for personal, family, or household purposes, the California Constitution caps interest at 10% per year for non-exempt lenders; other loans get the greater of 10% or 5% plus the Federal Reserve Bank of San Francisco's discount rate. A 15% personal note from a private individual exceeds the cap either way. (7% is only the default rate when no rate is agreed.)",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -129,11 +129,11 @@
       "question_text": "Which of the following lenders is EXEMPT from California's usury interest rate limits?",
       "correct_answer": "A licensed California real estate broker arranging a loan",
       "distractors": [
-        "A private hard money lender operating without a broker license",
-        "A personal finance company making consumer loans",
-        "A seller carrying back a purchase-money note at any rate"
+        "A private individual making a direct loan without a broker involved",
+        "An unlicensed hard money lender lending its own funds",
+        "A family trust lending directly to an unrelated borrower"
       ],
-      "explanation": "Licensed real estate brokers are exempt from California usury limits when arranging loans. Banks, savings associations, and credit unions are also exempt. This is why broker-arranged hard money loans can carry higher interest rates without violating usury law.",
+      "explanation": "Licensed real estate brokers who make or arrange loans secured by real property are exempt from California's constitutional usury limits, as are banks, savings institutions, credit unions, and licensed finance lenders. Private parties lending directly — with no licensed broker arranging the loan — remain subject to the cap. (Seller carryback financing sits outside the usury law entirely: a credit sale is not a 'loan' under the time-price doctrine.)",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,

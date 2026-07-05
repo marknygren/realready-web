@@ -396,9 +396,16 @@ For each of Q1–Q20, do a web search and confirm:
 **California examples of what to look for** (from the May 2026 audit):
 
 - Q7 had "Disclose the seller's underwater status to buyers" marked
-  correct. **Wrong.** A seller's loan balance is confidential
-  financial information under Civil Code §2079.16, not a material
-  property fact. Flipped to the confidentiality answer.
+  correct. The May 2026 audit flipped it to the confidentiality answer,
+  reasoning a loan balance is confidential under Civil Code §2079.16.
+  **That flip was itself wrong** — *Holmes v. Summer* (2010) 188
+  Cal.App.4th 1510 holds a listing agent must disclose to the buyer
+  that liens exceed the sale price, because it threatens the buyer's
+  ability to close. Corrected back to a disclosure answer in the
+  2026-07-05 CA question review (see
+  `realready/docs/CA_QUESTION_REVIEW_2026-07-05.md`). Lesson for
+  audits: verify a "fix" against case law before flipping a key —
+  and don't re-flip this one.
 - Q3 cited "§10176" for undisclosed dual agency. Imprecise — the
   specific subsection is §10176(d). Tightened explanation.
 - Q6 claimed "California abolished subagency by statute." Imprecise —
