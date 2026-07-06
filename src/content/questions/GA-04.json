@@ -81,18 +81,18 @@
     },
     {
       "key_topic_ref": "GA-04.2",
-      "question_text": "What is the maximum Recovery Fund payment per individual claimant in Georgia?",
-      "correct_answer": "$15,000 per claimant",
+      "question_text": "What is the most the Georgia Real Estate Recovery Fund will pay a single claimant whose loss arises from one transaction?",
+      "correct_answer": "$25,000",
       "distractors": [
-        "$25,000 per claimant",
-        "$10,000 per claimant",
-        "$45,000 per claimant"
+        "$15,000",
+        "$45,000",
+        "$75,000"
       ],
-      "explanation": "Georgia caps Recovery Fund payments at $15,000 per individual claimant. Even if a judgment exceeds this amount, the claimant can only recover up to $15,000 from the Fund.",
+      "explanation": "O.C.G.A. 43-40-22 caps Fund liability at $25,000 per transaction regardless of the number of persons aggrieved, and no claimant may ever collect more than $25,000 total from the Fund. So the most one claimant can receive for a single transaction is $25,000 — the old $15,000 per-claimant figure is not current law. Aggregate liability for any one licensee's acts is capped at $75,000.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["recovery-fund", "per-claimant-limit", "15000"]
+      "tags": ["recovery-fund", "per-transaction-limit", "25000"]
     },
     {
       "key_topic_ref": "GA-04.2",
@@ -103,7 +103,7 @@
         "$15,000 total shared between them",
         "$45,000 combined for both claimants"
       ],
-      "explanation": "The per-transaction cap is $25,000 regardless of how many claimants are involved. While each individual claimant is limited to $15,000, the total for one transaction cannot exceed $25,000.",
+      "explanation": "O.C.G.A. 43-40-22 caps Fund liability at $25,000 per transaction regardless of how many persons were aggrieved, so the two buyers' combined recovery for this transaction cannot exceed $25,000. Total payouts for any one licensee's acts are further capped at $75,000, and no single claimant may ever collect more than $25,000 from the Fund.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -111,48 +111,48 @@
     },
     {
       "key_topic_ref": "GA-04.2",
-      "question_text": "A licensee has already caused $40,000 in Recovery Fund payouts over several transactions. A new valid claim for $10,000 is filed. How much can be paid?",
-      "correct_answer": "$5,000, reaching the $45,000 lifetime cap",
+      "question_text": "A licensee has already caused $70,000 in Recovery Fund payouts over several transactions. A new valid claim for $10,000 from a separate transaction is filed. How much can be paid?",
+      "correct_answer": "$5,000, reaching the $75,000 aggregate cap",
       "distractors": [
         "$10,000, the full claim amount",
-        "Nothing, the licensee's Fund is exhausted",
-        "$15,000, the per-claimant maximum"
+        "Nothing, the licensee's Fund coverage is exhausted",
+        "$25,000, the per-transaction maximum"
       ],
-      "explanation": "Georgia imposes a $45,000 aggregate lifetime cap per licensee. With $40,000 already paid, only $5,000 remains available regardless of the individual claim amount or per-claimant limit.",
+      "explanation": "O.C.G.A. 43-40-22 terminates the Fund's liability for any single licensee once court-ordered payments total $75,000. With $70,000 already paid, only $5,000 remains available, regardless of the size of the new claim.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["recovery-fund", "aggregate-cap", "45000"]
+      "tags": ["recovery-fund", "aggregate-cap", "75000"]
     },
     {
       "key_topic_ref": "GA-04.2",
       "question_text": "What is the aggregate lifetime maximum the Recovery Fund will pay for claims against any single Georgia licensee?",
-      "correct_answer": "$45,000 per licensee lifetime",
+      "correct_answer": "$75,000 per licensee lifetime",
       "distractors": [
+        "$45,000 per licensee lifetime",
         "$25,000 per licensee lifetime",
-        "$75,000 per licensee lifetime",
         "$100,000 per licensee lifetime"
       ],
-      "explanation": "Georgia limits total Recovery Fund exposure to $45,000 per licensee over their entire career. Once this cap is reached, no further Fund payments will be made for claims against that licensee.",
+      "explanation": "O.C.G.A. 43-40-22 limits total Fund liability for the acts of any single licensee to $75,000. Once court orders authorizing payments reach that total, the Fund's liability for that licensee is terminated and no further payments are made.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["recovery-fund", "aggregate-cap", "45000"]
+      "tags": ["recovery-fund", "aggregate-cap", "75000"]
     },
     {
       "key_topic_ref": "GA-04.2",
       "question_text": "A claimant has a $20,000 judgment from a single transaction. What is the maximum they can recover from the Fund?",
-      "correct_answer": "$15,000, the per-claimant maximum",
+      "correct_answer": "$20,000, the full judgment amount",
       "distractors": [
-        "$20,000, the full judgment amount",
+        "$15,000, the per-claimant maximum",
         "$25,000, the per-transaction limit",
         "$10,000, half the judgment"
       ],
-      "explanation": "Even though the judgment is $20,000 and the per-transaction limit is $25,000, the per-claimant cap of $15,000 applies. The claimant would need to pursue the remaining $5,000 through other means.",
+      "explanation": "The Fund pays actual or compensatory damages (not interest or costs) up to $25,000 per transaction, and no claimant may ever collect more than $25,000 total from the Fund. A $20,000 judgment falls within those caps, so the claimant can recover the full $20,000. The $15,000 'per-claimant maximum' is not current Georgia law.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["recovery-fund", "per-claimant-limit", "calculation"]
+      "tags": ["recovery-fund", "per-transaction-limit", "calculation"]
     },
     {
       "key_topic_ref": "GA-04.3",

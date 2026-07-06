@@ -21,14 +21,14 @@
     },
     {
       "key_topic_ref": "GA-07.1",
-      "question_text": "A purchase agreement becomes binding on Thursday. The contract does not specify a different deposit timeline. By when must the broker deposit the earnest money?",
+      "question_text": "A standard GAR purchase and sale agreement becomes binding on Thursday. The parties did not modify the form's default earnest money deposit deadline. By when must the holder deposit the earnest money?",
       "correct_answer": "By the end of the following Thursday",
       "distractors": [
         "By the end of the following Monday",
         "Within 72 hours of the binding agreement",
         "By the end of the current business week"
       ],
-      "explanation": "The five-banking-day requirement starts from the binding agreement date. Counting five banking days from Thursday (Friday, Monday, Tuesday, Wednesday, Thursday), the deposit must be made by the end of the following Thursday, excluding weekends and holidays.",
+      "explanation": "The GAR contract's default requires deposit within five banking days of the Binding Agreement Date. Counting five banking days from Thursday (Friday, Monday, Tuesday, Wednesday, Thursday), the deposit is due by the end of the following Thursday, excluding weekends and bank holidays. Absent such a contract provision, GREC Rule 520-1-.08 simply requires deposit as soon after receipt as is practicably possible.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -66,14 +66,14 @@
     },
     {
       "key_topic_ref": "GA-07.1",
-      "question_text": "A purchase contract specifies that earnest money will be deposited within ten days of the binding agreement. The standard rule requires five banking days. Which deadline controls?",
+      "question_text": "A purchase contract specifies that earnest money will be deposited within ten days of the binding agreement. The standard GAR form's default is five banking days. Which deadline controls?",
       "correct_answer": "The contract's ten-day provision controls",
       "distractors": [
         "The five-banking-day rule always overrides",
         "The shorter of the two deadlines applies",
         "GREC must approve any extension beyond five days"
       ],
-      "explanation": "Georgia's five-banking-day deposit rule applies unless the contract specifies otherwise. When the purchase contract includes a different timeline, the contractual provision controls. The parties may agree to a longer or shorter period.",
+      "explanation": "The parties' contract controls the deposit deadline. The five-banking-day figure is only the GAR form's default, and the parties may agree to a longer or shorter period. GREC Rule 520-1-.08 itself requires deposit as soon after receipt as is practicably possible when the contract is silent; it imposes no fixed banking-day count and GREC approval is never required.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -88,7 +88,7 @@
         "Only with prior written approval from GREC",
         "Yes, up to $500 is permitted in the trust account"
       ],
-      "explanation": "Georgia allows a broker to maintain a reasonable amount of personal funds (approximately $100) in the trust account solely to cover bank service charges. This exception prevents accounts from incurring fees that would reduce client funds.",
+      "explanation": "GREC Rule 520-1-.08 lets a broker keep personal funds in the trust account only when clearly identified as the broker's deposit and only to meet the bank's minimum balance requirement or a reasonable amount to cover service and other bank charges. The rule sets no dollar cap — $100 is merely a common practice figure — and any broker funds beyond what is needed must be removed.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -178,7 +178,7 @@
         "Return the funds to the buyer who made the deposit",
         "Deduct the commission and split the remainder"
       ],
-      "explanation": "A broker cannot unilaterally disburse disputed earnest money to one party. The funds must be held until both parties reach an agreement, a court orders disbursement, or the funds are tendered to GREC for safekeeping.",
+      "explanation": "A broker may not simply hand disputed earnest money to the demanding party. Under GREC Rule 520-1-.08, the broker holds the funds until all parties sign a written agreement or a court orders disbursement, files an interpleader action, or disburses based upon a reasonable interpretation of the contract — in which case the broker must promptly notify all parties in writing (the GAR forms give the parties a 10-day objection period first). GREC itself never holds disputed funds.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -186,33 +186,33 @@
     },
     {
       "key_topic_ref": "GA-07.3",
-      "question_text": "A Georgia broker holds disputed earnest money and does not want the liability of choosing a recipient. Besides interpleader or holding funds, what third option exists?",
-      "correct_answer": "Tender the funds to GREC for safekeeping",
+      "question_text": "A Georgia broker holds disputed earnest money. Besides filing an interpleader action or holding the funds until the parties agree or a court orders, what third option does Georgia law give the broker?",
+      "correct_answer": "Disburse the funds based on a reasonable interpretation of the contract",
       "distractors": [
         "Deposit the funds into a personal savings account",
         "Transfer the funds to the listing agent's trust account",
         "Donate the funds to a state housing charity"
       ],
-      "explanation": "Georgia provides three options for disputed earnest money: interpleader action, holding funds until agreement or court order, or tendering the funds to GREC for safekeeping. This third option relieves the broker of holding disputed funds.",
+      "explanation": "GREC Rule 520-1-.08(3) permits a broker to disburse disputed trust funds upon a reasonable interpretation of the contract that directed the deposit. The broker must promptly notify all parties in writing of the disbursal, and the GAR forms require prior written notice with a 10-day objection period. GREC does not hold or escrow disputed funds — the other choices would all be conversion or commingling violations.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["earnest-money-dispute", "GREC-safekeeping", "broker-options"]
+      "tags": ["earnest-money-dispute", "reasonable-interpretation", "broker-options"]
     },
     {
       "key_topic_ref": "GA-07.3",
-      "question_text": "A transaction falls through and both the buyer and seller claim the $10,000 earnest money. The broker decides to give it all to the buyer without the seller's consent. What is the consequence?",
-      "correct_answer": "The broker violated the prohibition on unilateral disbursement",
+      "question_text": "A transaction falls through and both the buyer and seller claim the $10,000 earnest money. With no supporting basis in the contract and without giving the parties any written notice, the broker gives it all to the buyer. What is the consequence?",
+      "correct_answer": "The broker made an improper disbursement of disputed trust funds",
       "distractors": [
         "No violation since the buyer originally deposited the funds",
         "A violation only if the broker failed to notify GREC",
         "No violation if done within five banking days of the dispute"
       ],
-      "explanation": "A broker cannot unilaterally disburse disputed funds to one party. Even though the buyer deposited the money, the broker must either hold the funds, file interpleader, or tender to GREC. Unilateral disbursement exposes the broker to disciplinary action.",
+      "explanation": "A broker may disburse disputed earnest money only on the grounds in GREC Rule 520-1-.08(3): a signed agreement of all parties, court order, interpleader, or a reasonable interpretation of the contract followed by prompt written notice to all parties. Paying one claimant with no contractual basis and no notice is an improper disbursement that exposes the broker to disciplinary action. GREC does not hold disputed funds, and the depositor has no automatic right to their return.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["earnest-money-dispute", "unilateral-disbursement", "violation"]
+      "tags": ["earnest-money-dispute", "improper-disbursement", "violation"]
     },
     {
       "key_topic_ref": "GA-07.3",

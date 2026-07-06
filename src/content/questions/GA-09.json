@@ -96,14 +96,14 @@
     },
     {
       "key_topic_ref": "GA-09.2",
-      "question_text": "A listing agent in Georgia personally observes a large crack in the foundation during a property tour. What is the agent's disclosure obligation?",
+      "question_text": "A Georgia listing agent learns from the seller that the home's foundation was repaired after significant settling, but the repair is not visible on inspection. What is the agent's disclosure obligation?",
       "correct_answer": "Disclose the adverse material fact to buyers",
       "distractors": [
         "No obligation unless the seller authorizes disclosure",
         "Only disclose if the buyer requests an inspection",
         "Report the condition to GREC but not to buyers"
       ],
-      "explanation": "Georgia agents must disclose adverse material facts about the physical condition of property that they actually know about. A visible foundation crack observed personally is a known material fact. The agent cannot wait for seller authorization or buyer requests before disclosing.",
+      "explanation": "Under BRRETA (O.C.G.A. 10-6A-5(b)), a broker engaged by the seller must disclose adverse material facts about the property's physical condition that the broker actually knows and that a buyer could not discover through a reasonably diligent inspection. Known hidden foundation problems are a classic example. The agent cannot wait for seller authorization or a buyer request before disclosing.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -141,18 +141,18 @@
     },
     {
       "key_topic_ref": "GA-09.2",
-      "question_text": "A Georgia seller completes a GAR disclosure form but deliberately omits a known plumbing defect. What is the seller's legal exposure?",
-      "correct_answer": "Liability for misrepresentation through omission",
+      "question_text": "A Georgia seller knows the home's basement floods in heavy rain. No buyer ever asks about water issues, no disclosure form is used, and the defect is not discoverable on ordinary inspection. Under the Wilhite v. Mays line of cases, what is the seller's exposure?",
+      "correct_answer": "Liability for passive concealment of a known latent defect",
       "distractors": [
-        "No liability since the form is voluntary",
-        "Liability only if the agent also knew about it",
-        "Protection under the caveat emptor doctrine"
+        "None, because the seller made no false statement",
+        "None, because caveat emptor bars all nondisclosure claims",
+        "Liability only if the seller actively hid the water damage"
       ],
-      "explanation": "Once a seller begins completing a disclosure form, all answers must be truthful. Deliberately omitting a known defect constitutes misrepresentation. The voluntary nature of the form does not shield a seller who chooses to fill it out dishonestly.",
+      "explanation": "Georgia's passive concealment exception (Wilhite v. Mays) modifies caveat emptor: a seller who knows of a latent defect the buyer cannot discover through due diligence, and knows the buyer is unaware of it, has a duty to disclose — even without a lie or active steps to hide it. Fraud in Georgia realty sales can be willful misrepresentation, active concealment, or passive concealment.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["GAR-disclosure", "misrepresentation", "omission"]
+      "tags": ["passive-concealment", "latent-defect", "Wilhite-v-Mays"]
     },
     {
       "key_topic_ref": "GA-09.3",

@@ -13,7 +13,7 @@
         "90 hours",
         "100 hours"
       ],
-      "explanation": "Georgia requires 75 total hours of pre-license education divided into three 25-hour courses: Principles, Practice, and Legal Issues. All courses must be taken at GREC-approved schools.",
+      "explanation": "Georgia requires 75 instructional hours of pre-license education — a single GREC-approved Salesperson Prelicense Course (Rule 520-2-.04), not separate named courses. Alternatives: 10 quarter hours or 6 semester hours of eligible college coursework, or 75 prelicense hours approved by another state's real estate regulator.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -21,29 +21,29 @@
     },
     {
       "key_topic_ref": "GA-02.1",
-      "question_text": "A prospective salesperson has completed Principles and Practice courses. Which remaining course must they complete before taking the exam?",
-      "correct_answer": "25-hour Legal Issues course",
+      "question_text": "An applicant wants to qualify for the Georgia salesperson exam through education at a GREC-approved school. What must they complete?",
+      "correct_answer": "The single 75-hour Salesperson Prelicense Course",
       "distractors": [
-        "25-hour Post-License course",
-        "25-hour Broker Management course",
-        "36-hour Continuing Education course"
+        "Three 25-hour courses: Principles, Practice, and Legal Issues",
+        "A 60-hour course plus a 15-hour Georgia supplement",
+        "A 25-hour course followed by a 50-hour internship"
       ],
-      "explanation": "Georgia's 75-hour pre-license curriculum consists of three 25-hour courses: Principles, Practice, and Legal Issues. The post-license course is separate and required after obtaining the license, not before.",
+      "explanation": "GREC Rule 520-2-.04 defines one integrated 75-hour Salesperson Prelicense Course covering 16 required content areas, including Georgia license law. Georgia does not break prelicense education into separately named courses. College coursework (10 quarter/6 semester hours) or another state's approved 75-hour course can substitute.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["pre-license", "legal-issues", "curriculum"]
+      "tags": ["pre-license", "75-hour-course", "curriculum"]
     },
     {
       "key_topic_ref": "GA-02.1",
-      "question_text": "A candidate completed pre-license education at an online school not approved by GREC. Can they sit for the licensing exam?",
-      "correct_answer": "No, only GREC-approved schools qualify",
+      "question_text": "A candidate completed 75 hours at an online school that is not approved by GREC or by any other state's real estate regulator. Can they sit for the Georgia salesperson exam?",
+      "correct_answer": "No, the coursework does not satisfy any qualifying route",
       "distractors": [
-        "Yes, if the school is accredited by any state",
+        "Yes, any 75 hours of real estate coursework qualifies",
         "Yes, if they pass a preliminary assessment",
         "Only if they complete extra supervised hours"
       ],
-      "explanation": "Georgia requires all pre-license education to come from GREC-approved schools. Coursework from non-approved schools, even if the content is similar, does not satisfy Georgia's education requirements.",
+      "explanation": "Georgia accepts three education routes: the 75-hour prelicense course from a GREC-approved school, 10 quarter hours or 6 semester hours of eligible college coursework, or 75 prelicense hours approved by another state's or Canadian province's real estate regulator. A course from a school holding none of these approvals does not qualify.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -51,29 +51,29 @@
     },
     {
       "key_topic_ref": "GA-02.1",
-      "question_text": "Georgia's three required pre-license courses are Principles, Practice, and what?",
-      "correct_answer": "Legal Issues",
+      "question_text": "Georgia's required pre-license education for a salesperson consists of what?",
+      "correct_answer": "One 75-hour prelicense course of study",
       "distractors": [
-        "Ethics and Standards",
-        "Contracts and Closings",
-        "Broker Management"
+        "Three 25-hour courses: Principles, Practice, and Legal Issues",
+        "A 45-hour national course and a 30-hour Georgia course",
+        "A 75-hour course plus a mandatory 25-hour exam prep course"
       ],
-      "explanation": "The three 25-hour pre-license courses are Principles, Practice, and Legal Issues. This trio covers foundational knowledge, practical skills, and the legal framework specific to Georgia real estate.",
+      "explanation": "O.C.G.A. Section 43-40-8 requires at least 75 instructional hours in a salesperson's course of study approved by the Commission, and Rule 520-2-.04 defines it as a single course spanning 16 content areas from contracts and agency to Georgia license law.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["pre-license", "curriculum", "legal-issues"]
+      "tags": ["pre-license", "75-hour-course", "curriculum"]
     },
     {
       "key_topic_ref": "GA-02.1",
-      "question_text": "An applicant completed 50 hours of pre-license education at one approved school and wants to finish at another. Is this permitted?",
-      "correct_answer": "Yes, if both schools are GREC-approved",
+      "question_text": "A student partially completed a GREC-approved school's salesperson prelicense program, which is offered as a series of shorter courses, and wants to finish at a different school. When may the second school credit the completed courses?",
+      "correct_answer": "Only if the new school offers the identical series of courses",
       "distractors": [
-        "No, all hours must come from one school",
-        "Only with written GREC approval first",
-        "Only if the second school re-tests them"
+        "Whenever both schools are GREC-approved",
+        "Never — all 75 hours must be completed at one school",
+        "Only after GREC issues a written transfer waiver"
       ],
-      "explanation": "Georgia allows candidates to split coursework across multiple GREC-approved schools. The key requirement is that each school holds GREC approval, not that all education comes from a single provider.",
+      "explanation": "Under Rule 520-2-.02, credit for courses completed in a series that adds up to the 75-hour requirement may not be transferred to another school unless the new school offers the identical series. Being GREC-approved alone does not make partial credit transferable.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -171,14 +171,14 @@
     },
     {
       "key_topic_ref": "GA-02.3",
-      "question_text": "A military veteran recently discharged wants to apply for a Georgia license. What document must they provide within 60 days?",
-      "correct_answer": "DD-214 discharge form",
+      "question_text": "A veteran fails the Georgia salesperson exam and wants veteran's preference points applied. What must they mail to PSI within 60 days?",
+      "correct_answer": "Their original score report and a copy of their DD-214",
       "distractors": [
         "Military service contract",
         "VA benefits letter",
         "Certificate of completion from MOS training"
       ],
-      "explanation": "Georgia offers veteran preference for applicants who submit their DD-214 (Certificate of Release or Discharge from Active Duty) within 60 days. This facilitates licensing for veterans transitioning to civilian careers.",
+      "explanation": "Honorably discharged veterans with at least one year of active duty including at least 90 days during wartime may claim preference points, but only after failing to achieve a passing score. The candidate mails the original score report and a copy of DD Form 214 to PSI within 60 days (Rule 520-1-.04(3)).",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -217,17 +217,17 @@
     {
       "key_topic_ref": "GA-02.3",
       "question_text": "As part of the Georgia licensing process, applicants must complete which security step?",
-      "correct_answer": "Fingerprinting and a background check",
+      "correct_answer": "A certified criminal history (GCIC) background report",
       "distractors": [
-        "A personal reference check only",
+        "Fingerprint submission through the state's fingerprinting vendor",
         "A financial credit review",
         "A polygraph examination"
       ],
-      "explanation": "Georgia requires fingerprinting and a criminal background check for all license applicants. This screening protects the public by identifying applicants with disqualifying criminal histories before granting a license.",
+      "explanation": "Each applicant must obtain a certified Georgia Crime Information Center (GCIC) criminal history report, issued no more than 60 days before applying, available at most sheriff's offices or police stations (non-residents submit an equivalent report from their state). Georgia does not require fingerprinting for a real estate license; any conviction on the report triggers a background investigation.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["background-check", "fingerprinting", "eligibility"]
+      "tags": ["background-check", "GCIC-report", "eligibility"]
     },
     {
       "key_topic_ref": "GA-02.4",
@@ -249,11 +249,11 @@
       "question_text": "What distinguishes an associate broker from a salesperson in Georgia?",
       "correct_answer": "An associate broker holds a broker license under another broker",
       "distractors": [
-        "An associate broker can supervise other agents",
+        "An associate broker may operate an independent brokerage in their own name",
         "An associate broker needs fewer education hours",
-        "An associate broker works without supervision"
+        "An associate broker works without any broker affiliation"
       ],
-      "explanation": "An associate broker has qualified for a broker license but chooses to work under another broker rather than operating independently. Unlike a managing broker, they typically do not supervise other licensees.",
+      "explanation": "An associate broker has met all broker qualifications and holds a broker-level license but practices under another broker's firm rather than operating independently. A salesperson holds only the salesperson license. Operating one's own firm requires licensure as the firm's broker/qualifying broker.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,

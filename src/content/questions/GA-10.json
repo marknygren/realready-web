@@ -37,17 +37,17 @@
     {
       "key_topic_ref": "GA-10.1",
       "question_text": "Which GAR form is most commonly used for residential home purchases in Georgia?",
-      "correct_answer": "GAR F20 Purchase and Sale Agreement",
+      "correct_answer": "GAR F201 Purchase and Sale Agreement",
       "distractors": [
         "GAR F100 Commercial Lease Agreement",
         "GAR F50 Listing Agreement",
         "GAR F75 Property Management Contract"
       ],
-      "explanation": "The GAR F20 Purchase and Sale Agreement is the most commonly used form for residential transactions in Georgia. It provides standardized terms covering price, financing, inspections, and closing procedures that both parties and their agents recognize.",
+      "explanation": "The GAR F201 Purchase and Sale Agreement (renumbered from F20 in 2019) is the most commonly used form for residential transactions in Georgia. It provides standardized terms covering price, financing, inspections, and closing procedures that both parties and their agents recognize.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["GAR-F20", "purchase-agreement", "residential"]
+      "tags": ["GAR-F201", "purchase-agreement", "residential"]
     },
     {
       "key_topic_ref": "GA-10.1",
@@ -82,13 +82,13 @@
     {
       "key_topic_ref": "GA-10.2",
       "question_text": "In a GAR contract, what event establishes the binding agreement date?",
-      "correct_answer": "The last party signs the agreement",
+      "correct_answer": "Notice of acceptance is delivered to the party who made the last offer",
       "distractors": [
+        "The last party signs the agreement",
         "The buyer submits the initial offer",
-        "Earnest money is deposited in escrow",
-        "The listing agent delivers the signed contract"
+        "Earnest money is deposited in escrow"
       ],
-      "explanation": "The binding agreement date is established when the last party signs the contract. This date is critical because it triggers all contractual deadlines, including due diligence periods and financing contingency timelines.",
+      "explanation": "Under the GAR contract, the Binding Agreement Date is the date the party who accepted the offer or counteroffer delivers notice of that acceptance back to the party who made it, per the contract's notice provisions. Signing alone does not create a binding agreement — acceptance must be communicated. This date triggers all contractual deadlines, including the due diligence period and financing contingency timelines.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -141,7 +141,7 @@
     },
     {
       "key_topic_ref": "GA-10.2",
-      "question_text": "Which GAR contract provision allows a buyer to terminate if the property does not appraise at the purchase price?",
+      "question_text": "Which GAR contract provision specifically gives a buyer the right to terminate because the property appraised for less than the purchase price?",
       "correct_answer": "Appraisal contingency",
       "distractors": [
         "Due diligence period",
@@ -193,7 +193,7 @@
         "The amount must equal at least 5% of the price",
         "The closing attorney must hold the funds in escrow"
       ],
-      "explanation": "Liquidated damages clauses must be explicitly agreed to by both parties in the contract. There is no minimum percentage requirement set by law, and GREC approval is not needed. The key is mutual agreement that earnest money serves as the exclusive remedy for buyer default.",
+      "explanation": "Both parties must explicitly agree in the contract that the earnest money serves as liquidated damages. To be enforceable in Georgia, the clause must also satisfy the Southeastern Land Fund test: the injury must be difficult to estimate, the parties must intend damages rather than a penalty, and the amount must be a reasonable pre-estimate of probable loss — and it generally must be the seller's sole remedy, since reserving additional damages makes it an unenforceable penalty. There is no statutory minimum percentage, and GREC approval is not required.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,

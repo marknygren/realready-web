@@ -43,7 +43,7 @@
         "The listing must be notarized by a public notary",
         "The listing must be approved by GREC in advance"
       ],
-      "explanation": "BRRETA requires listing agreements to be in writing to be enforceable. While verbal listings may exist in practice, they cannot be enforced in court. Written agreements protect both the broker and the seller by clearly defining the terms.",
+      "explanation": "BRRETA defines a brokerage engagement as a written contract — without one, the broker works with the party as a customer rather than a client. GREC Rule 520-1-.06 additionally requires every exclusive brokerage agreement to fully set forth its terms and carry a definite expiration date, with a copy furnished to each signer. MLS filing, notarization, and GREC pre-approval are never required.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -96,18 +96,18 @@
     },
     {
       "key_topic_ref": "GA-08.2",
-      "question_text": "A Georgia brokerage opens a second office location in another city. What must the broker do regarding this new office?",
-      "correct_answer": "Register the branch office with GREC",
+      "question_text": "A Georgia brokerage opens a second office location in another city. What does Georgia license law require for this additional location?",
+      "correct_answer": "Compliance with local business ordinances — GREC does not register branch offices",
       "distractors": [
-        "Obtain a separate broker license for each location",
-        "Hire a second qualifying broker for the branch",
-        "File a new firm application with the Secretary of State"
+        "Registration of the branch office with GREC",
+        "A separate broker license for each location",
+        "A second qualifying broker for the branch office"
       ],
-      "explanation": "Branch offices must be registered with GREC. The qualifying broker does not need a separate license for each location but must ensure each branch is properly registered and supervised.",
+      "explanation": "Georgia license law imposes no GREC branch-office registration or licensing. O.C.G.A. 43-40-18(a) requires only that licensees operating from more than one place of business comply with all local business ordinances. One firm license and one qualifying broker cover all of a firm's locations, and the qualifying broker remains responsible for supervision at each.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["qualifying-broker", "branch-office", "GREC-registration"]
+      "tags": ["qualifying-broker", "branch-office", "local-ordinances"]
     },
     {
       "key_topic_ref": "GA-08.2",
@@ -126,18 +126,18 @@
     },
     {
       "key_topic_ref": "GA-08.2",
-      "question_text": "A qualifying broker in Georgia operates entirely from a home office with no signage or public access. Does this meet Georgia requirements?",
-      "correct_answer": "No, a definite place of business in Georgia is required",
+      "question_text": "A qualifying broker in Georgia runs the firm entirely from a home office with no commercial signage. Does this meet Georgia license law requirements?",
+      "correct_answer": "Yes, if the home address is on file with GREC as the firm's business address",
       "distractors": [
-        "Yes, home offices are permitted without restrictions",
-        "Yes, if the broker registers the home address with GREC",
-        "Only if the broker has fewer than three licensees"
+        "No, Georgia requires a commercial office that is open to the public",
+        "No, Georgia requires an office sign identifying the brokerage",
+        "Only if the broker supervises fewer than three licensees"
       ],
-      "explanation": "Georgia requires every brokerage to maintain a definite place of business. While some flexibility may exist, the qualifying broker must have an identifiable business location registered with GREC to ensure public accessibility and regulatory compliance.",
+      "explanation": "Current Georgia license law contains no definite-place-of-business, office, or signage requirement. A firm must have a business address on file with GREC and must notify the commission in writing within 30 days of any address change (O.C.G.A. 43-40-19(a)); brokers operating from any location must also comply with local business ordinances (43-40-18(a)). A home-based brokerage is fully permissible.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["qualifying-broker", "place-of-business", "GREC"]
+      "tags": ["qualifying-broker", "home-office", "business-address"]
     },
     {
       "key_topic_ref": "GA-08.2",
@@ -178,7 +178,7 @@
         "Yes, if the salesperson reports it as income",
         "Only with written approval from both parties"
       ],
-      "explanation": "Georgia law requires that salespersons and associate brokers receive all compensation only through their qualifying broker. Accepting payment directly from a client, even as a bonus, violates this requirement regardless of the circumstances.",
+      "explanation": "Under O.C.G.A. 43-40-25(b)(8), a licensee commits an unfair trade practice by accepting a commission or other valuable consideration from anyone other than the broker holding the licensee's license without that broker's consent. The proper course is for the bonus to be paid to the brokerage and passed to the salesperson through the broker. Accepting the seller's check directly, as presented here, violates the statute.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -201,14 +201,14 @@
     },
     {
       "key_topic_ref": "GA-08.3",
-      "question_text": "When is a real estate commission typically considered earned in Georgia?",
+      "question_text": "Under a typical Georgia listing agreement, when does the broker's commission become payable?",
       "correct_answer": "At closing of the transaction",
       "distractors": [
         "When the listing agreement is signed",
         "When the buyer's offer is accepted",
         "When the earnest money is deposited"
       ],
-      "explanation": "In Georgia, commissions are typically earned at closing when the transaction is completed. While the listing agreement establishes the right to a commission, the commission is generally not payable until the sale closes and funds are disbursed.",
+      "explanation": "Georgia listing agreements typically make the commission payable at closing, and O.C.G.A. 43-40-20(e) bars a broker from claiming trust funds as commission until the transaction is consummated or terminated. Note the distinction: absent contrary contract terms, O.C.G.A. 10-6-32 says a commission is 'earned' when the broker procures a ready, able, and willing buyer who offers on the seller's terms — but payment is conventionally due at closing.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,

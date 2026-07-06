@@ -73,7 +73,7 @@
         "No service at all to avoid a conflict of interest",
         "Confidential advisory services as a sub-agent"
       ],
-      "explanation": "The buyer is a customer of Broker A since no written engagement exists. The agent may provide ministerial services like sharing publicly available information but owes fiduciary duties only to the seller client.",
+      "explanation": "The buyer is not Broker A's client — he is represented by Broker B. Broker A's agent may still perform ministerial acts such as providing publicly available statistics and information (O.C.G.A. 10-6A-14), but owes client-level duties only to the seller under the seller's brokerage engagement.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -81,14 +81,14 @@
     },
     {
       "key_topic_ref": "GA-06.2",
-      "question_text": "Which type of agency relationship does Georgia NOT recognize under BRRETA?",
-      "correct_answer": "Transaction broker",
+      "question_text": "Under BRRETA, a Georgia broker who has no brokerage engagement with any party to a transaction but assists both buyer and seller for compensation is acting as which of the following?",
+      "correct_answer": "A transaction broker",
       "distractors": [
-        "Designated agent",
-        "Dual agent",
-        "Buyer's agent"
+        "A dual agent",
+        "A designated agent",
+        "A subagent of the seller"
       ],
-      "explanation": "Georgia does not recognize the transaction broker concept under BRRETA. The recognized agency types are seller's agent, buyer's agent, dual agent, and designated agent. A transaction broker, common in some other states, is not part of Georgia's framework.",
+      "explanation": "BRRETA expressly recognizes transaction brokerage. A transaction broker has no client relationship with any party, treats all parties as customers, and performs only ministerial acts, yet may be compensated by one or more parties (O.C.G.A. 10-6A-3, 10-6A-14). Dual and designated agency both require client relationships, and compensation alone never creates an agency relationship (10-6A-11).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -156,14 +156,14 @@
     },
     {
       "key_topic_ref": "GA-06.3",
-      "question_text": "After a brokerage engagement terminates, which fiduciary duty continues to apply to the Georgia licensee?",
+      "question_text": "After a brokerage engagement terminates, which duty continues to apply to the Georgia licensee?",
       "correct_answer": "Confidentiality of client information",
       "distractors": [
         "Obedience to client instructions",
-        "Duty to account for all funds",
+        "Duty to continue marketing the property",
         "Loyalty in future transactions"
       ],
-      "explanation": "Under BRRETA, confidentiality survives the termination of the brokerage relationship. Even after the engagement ends, the licensee may not disclose confidential client information obtained during the relationship.",
+      "explanation": "Under O.C.G.A. 10-6A-9(b), once the engagement terminates the broker owes no further duties except two: accounting for all money and property received during the engagement, and keeping confidential the information a client made confidential by request or instruction (unless disclosure is authorized, required by law, or the information becomes public). Marketing, obedience, and ongoing loyalty end with the engagement.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -186,26 +186,26 @@
     },
     {
       "key_topic_ref": "GA-06.3",
-      "question_text": "Which set of fiduciary duties does a Georgia licensee owe to a client under BRRETA?",
-      "correct_answer": "Loyalty, obedience, disclosure, confidentiality, accounting, and care",
+      "question_text": "Under BRRETA, which statement best describes the duties a Georgia broker owes a client?",
+      "correct_answer": "Only the duties stated in the statute and the brokerage engagement, exercised with reasonable care",
       "distractors": [
-        "Honesty, fair dealing, and timely presentation of offers",
-        "Disclosure, accounting, and reasonable skill or care",
-        "Loyalty, confidentiality, and property advertising duties"
+        "The full set of common law fiduciary duties, including obedience to all client instructions",
+        "Honesty and disclosure of adverse material facts only, the same as owed to customers",
+        "Whatever duties the client verbally requests at the time of engagement"
       ],
-      "explanation": "A Georgia licensee owes clients the full range of fiduciary duties: loyalty, obedience, disclosure, confidentiality, accounting, and reasonable skill and care. The shorter list of honesty, fair dealing, and presenting offers applies to all parties including customers.",
+      "explanation": "BRRETA replaced common law agency duties: a broker 'shall not be deemed to have a fiduciary relationship with any party' and owes only the duties set forth in the chapter and the brokerage engagement, exercised with reasonable care (O.C.G.A. 10-6A-4). For clients these statutory duties include performing the engagement, promoting the client's interests (including timely presenting all offers), disclosing known adverse material facts, timely accounting, confidentiality, and ordinary skill and care (10-6A-5, 10-6A-7). Customers receive a narrower set: ministerial acts, honest information, and disclosure of known adverse material facts.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["fiduciary-duties", "BRRETA", "client-duties"]
+      "tags": ["statutory-duties", "BRRETA", "client-duties"]
     },
     {
       "key_topic_ref": "GA-06.3",
-      "question_text": "A buyer's agent receives two competing offers on a property she listed with another firm. She presents the higher offer first and delays the second. Has a duty been violated?",
+      "question_text": "A listing agent receives two competing offers on her listing. She presents the higher offer to the seller immediately and holds the second offer back for several days. Has a duty been violated?",
       "correct_answer": "Yes, agents must present all offers promptly",
       "distractors": [
         "No, presenting the best offer first is standard practice",
-        "No, only listing agents must present multiple offers",
+        "No, only the offer most favorable to the seller must be presented",
         "Yes, but only if both buyers are the agent's clients"
       ],
       "explanation": "Georgia licensees have a duty to present all offers to the appropriate parties. Selectively presenting or delaying offers violates this obligation owed to all parties, not just clients.",
@@ -223,7 +223,7 @@
         "Share it only if the buyer signs a confidentiality agreement",
         "Reveal the information since honesty is owed to all parties"
       ],
-      "explanation": "The seller's minimum acceptable price is confidential information. While the agent owes honesty to all parties, confidentiality to the client takes priority. Sharing the seller's bottom line would violate the duty of confidentiality owed to the client.",
+      "explanation": "The seller's bottom line is confidential client information, and the agent must not reveal it. The agent also may not lie — under O.C.G.A. 10-6A-9(c), if confidentiality ever conflicts with the duty not to give customers false information, the duty not to give false information prevails. Here there is no conflict: the agent simply declines to disclose, which is neither a breach of confidence nor a false statement.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -292,13 +292,13 @@
     {
       "key_topic_ref": "GA-06.4",
       "question_text": "Why might a buyer prefer designated agency over dual agency when using the same firm as the seller?",
-      "correct_answer": "The buyer receives full fiduciary representation",
+      "correct_answer": "The buyer receives exclusive, undivided representation from her own agent",
       "distractors": [
         "The buyer pays a lower commission rate",
         "The buyer can bypass the seller's agent entirely",
         "The buyer avoids signing a brokerage engagement"
       ],
-      "explanation": "In designated agency, the buyer's designated agent owes full fiduciary duties exclusively to the buyer. In dual agency, the single agent's duties to both parties are limited, so the buyer does not receive the same level of advocacy.",
+      "explanation": "In designated agency, the buyer's designated agent represents solely the buyer, with no imputation of knowledge to or from the seller's designated agent, and the arrangement is expressly not dual agency (O.C.G.A. 10-6A-13). A single dual agent serves two clients whose interests may be adverse, so neither client gets undivided advocacy.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -306,18 +306,18 @@
     },
     {
       "key_topic_ref": "GA-06.5",
-      "question_text": "Under BRRETA, when must a Georgia licensee first disclose the brokerage relationship in writing?",
-      "correct_answer": "At first substantive contact with the party",
+      "question_text": "Under BRRETA, where must a Georgia broker disclose the types of agency relationships the broker offers, any known conflicting brokerage relationships, and the broker's compensation arrangements?",
+      "correct_answer": "In the brokerage engagement agreement",
       "distractors": [
-        "At the time the purchase offer is presented",
-        "Within five days of the first property showing",
-        "At the closing of the real estate transaction"
+        "In a state-issued agency brochure given at first contact",
+        "In the purchase and sale agreement only",
+        "Verbally at the first property showing"
       ],
-      "explanation": "BRRETA requires that brokerage relationships be disclosed in writing, typically at first substantive contact. This ensures that all parties understand the nature of the relationship early in the process before meaningful negotiations begin.",
+      "explanation": "O.C.G.A. 10-6A-10 requires every brokerage engagement to advise the prospective client of the types of agency relationships available through the broker, known conflicting brokerage relationships, the broker's compensation and any sharing of it, and the broker's confidentiality obligations. Separately, license law makes it an unfair trade practice to fail to disclose any agency relationship to all parties in a timely manner (O.C.G.A. 43-40-25(b)(30)). Unlike some states, Georgia has no 'first substantive contact' disclosure form requirement.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["agency-disclosure", "first-substantive-contact", "BRRETA"]
+      "tags": ["agency-disclosure", "brokerage-engagement", "BRRETA"]
     },
     {
       "key_topic_ref": "GA-06.5",
@@ -336,48 +336,48 @@
     },
     {
       "key_topic_ref": "GA-06.5",
-      "question_text": "An agent meets a prospective buyer at an open house and begins discussing financing options and negotiation strategy. The agent has not yet provided any agency disclosure. What should the agent do immediately?",
-      "correct_answer": "Provide written disclosure of the brokerage relationship",
+      "question_text": "A listing agent begins discussing offer strategy with an unrepresented buyer at an open house, and the buyer appears to assume the agent is working for her. What should the agent do?",
+      "correct_answer": "Timely disclose that the agent represents the seller, not the buyer",
       "distractors": [
-        "Continue the conversation and disclose at closing",
-        "Ask the buyer to sign a purchase agreement first",
-        "Refer the buyer to another agent in the firm"
+        "Nothing, since agency disclosure is only required at closing",
+        "Have the buyer sign a dual agency consent form",
+        "Stop communicating with the buyer entirely"
       ],
-      "explanation": "Discussing financing and negotiation strategy constitutes substantive contact. BRRETA requires written disclosure at first substantive contact. The agent should provide the disclosure immediately before continuing the discussion.",
+      "explanation": "Georgia license law makes it an unfair trade practice to fail to disclose in a timely manner to all parties any agency relationship the licensee has with any party (O.C.G.A. 43-40-25(b)(30)). The agent should promptly clarify that she represents the seller and that the buyer is a customer owed ministerial acts, honest information, and disclosure of known adverse material facts — not client-level duties.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["agency-disclosure", "first-substantive-contact", "open-house"]
+      "tags": ["agency-disclosure", "timely-disclosure", "open-house"]
     },
     {
       "key_topic_ref": "GA-06.5",
-      "question_text": "A listing agent at a property showing provides general information about the neighborhood to a walk-in visitor but does not discuss the transaction. Must the agent disclose the agency relationship at this point?",
-      "correct_answer": "Not yet, since no substantive contact has occurred",
+      "question_text": "A walk-in visitor at an open house asks the listing agent about area schools and shopping. May the agent answer without creating a brokerage relationship with the visitor?",
+      "correct_answer": "Yes, identifying schools and similar facilities is a ministerial act",
       "distractors": [
-        "Yes, disclosure is required at every property showing",
-        "Yes, providing any information triggers disclosure",
-        "Only if the visitor asks about the listing price"
+        "No, answering the questions creates an implied buyer agency",
+        "Only if the visitor first signs a customer acknowledgment form",
+        "No, a listing agent may respond only to the seller's questions"
       ],
-      "explanation": "Providing general neighborhood information without discussing the transaction does not rise to the level of substantive contact. Disclosure is required at first substantive contact, which involves discussion of specific property details, terms, or client motivations.",
+      "explanation": "O.C.G.A. 10-6A-14 lists 'identifying schools, shopping facilities, places of worship, and other similar facilities' among the ministerial acts a broker may perform for any party. Ministerial acts do not create a client relationship — that requires a written brokerage engagement (10-6A-3) — and compensation alone does not create one either (10-6A-11).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["agency-disclosure", "substantive-contact", "general-information"]
+      "tags": ["ministerial-acts", "agency-creation", "open-house"]
     },
     {
       "key_topic_ref": "GA-06.5",
-      "question_text": "A Georgia agent fails to provide written agency disclosure before negotiating an offer on behalf of a buyer. What is the primary consequence under BRRETA?",
-      "correct_answer": "The agent has violated BRRETA disclosure requirements",
+      "question_text": "While negotiating an offer for a buyer client, a Georgia agent never discloses to the seller's side that she represents the buyer. What is the primary consequence?",
+      "correct_answer": "She has committed an unfair trade practice subject to GREC discipline",
       "distractors": [
         "The purchase contract becomes automatically void",
         "The buyer is entitled to triple damages by statute",
         "The seller may withdraw without any liability"
       ],
-      "explanation": "Failure to provide timely written disclosure of the brokerage relationship violates BRRETA requirements and can result in disciplinary action by GREC. However, it does not automatically void the underlying purchase contract.",
+      "explanation": "Failing to disclose in a timely manner to all parties any agency relationship the licensee has with any party is an unfair trade practice under O.C.G.A. 43-40-25(b)(30), exposing the licensee to Georgia Real Estate Commission sanctions. It does not automatically void the underlying purchase contract or create statutory treble damages.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["agency-disclosure", "BRRETA-violation", "consequences"]
+      "tags": ["agency-disclosure", "unfair-practice", "consequences"]
     }
   ]
 }

@@ -107,19 +107,19 @@
     {
       "key_topic_ref": "GA-14.2",
       "question_text": "What is the standard Georgia state homestead exemption amount deducted from assessed value?",
-      "correct_answer": "$2,000 from assessed value for state tax",
+      "correct_answer": "$2,000 from assessed value for county and school taxes",
       "distractors": [
         "$5,000 from assessed value for state tax",
         "$10,000 from fair market value for all taxes",
         "$50,000 from fair market value for county tax"
       ],
-      "explanation": "The basic Georgia homestead exemption deducts $2,000 from the assessed value for state property tax purposes. Counties may offer additional local exemptions. This exemption must be applied for and is not automatic.",
+      "explanation": "The basic Georgia homestead exemption (O.C.G.A. 48-5-44) deducts $2,000 from the assessed value for county and school tax purposes (it does not apply to municipal school taxes or bond levies). Counties may offer additional local exemptions. The exemption must be applied for and is not automatic.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
         "homestead-exemption",
-        "state-tax",
+        "county-school-tax",
         "assessed-value",
         "Georgia"
       ]
@@ -193,7 +193,7 @@
         "A full waiver of intangible recording tax only",
         "Exemption from transfer tax but not property tax"
       ],
-      "explanation": "Disabled veterans in Georgia receive substantial additional homestead exemptions that go well beyond the standard $2,000 deduction. The exact amount depends on the degree of disability and the specific county's local exemption schedule.",
+      "explanation": "Under O.C.G.A. 48-5-48, a qualifying disabled veteran (or un-remarried surviving spouse) receives a homestead exemption equal to the greater of $32,500 or the amount set under federal law (38 U.S.C. 2102), indexed annually — $126,526 for tax year 2026 — applied to state, county, municipal, and school taxes. This far exceeds the standard $2,000 exemption; counties may add further local exemptions.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -206,42 +206,42 @@
     },
     {
       "key_topic_ref": "GA-14.3",
-      "question_text": "A buyer's agent searches public records but cannot find the sale price of a comparable property. Why is this expected in Georgia?",
-      "correct_answer": "Georgia is a non-disclosure state for sale prices",
+      "question_text": "A buyer's agent wants to verify the sale price of a comparable property in Georgia. Where can this information be found?",
+      "correct_answer": "In public PT-61 transfer tax records searchable through the GSCCCA",
       "distractors": [
-        "Sale prices are sealed for 5 years after closing",
-        "Only commercial prices are public record in Georgia",
-        "The MLS restricts public access to sold data"
+        "Nowhere - Georgia is a non-disclosure state for sale prices",
+        "Only in the closing attorney's private transaction file",
+        "Only in the MLS, which is closed to the public"
       ],
-      "explanation": "Georgia is a non-disclosure state, meaning the actual sale price does not appear on the recorded deed or in public records. A Transfer Tax Return is filed, but the price is not made publicly available.",
+      "explanation": "Georgia is a disclosure state. Every recorded deed requires a PT-61 Real Estate Transfer Tax form showing the consideration, and that data is publicly searchable statewide through the Georgia Superior Court Clerks' Cooperative Authority (GSCCCA). The transfer tax recited on the deed ($1.00 for the first $1,000 plus $0.10 per additional $100) also lets anyone back into the price.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
-        "non-disclosure",
+        "disclosure-state",
         "sale-price",
         "public-records",
-        "Georgia"
+        "PT-61"
       ]
     },
     {
       "key_topic_ref": "GA-14.3",
       "question_text": "A Georgia seller completes the sale and a Transfer Tax Return is filed. Is the purchase price now part of the public record?",
-      "correct_answer": "No, the price remains confidential despite the filing",
+      "correct_answer": "Yes, the PT-61 filing makes the price part of the public record",
       "distractors": [
-        "Yes, all Transfer Tax Returns are public documents",
+        "No, the price remains confidential despite the filing",
         "Yes, but only after a 30-day waiting period",
         "Only if the buyer consents to public disclosure"
       ],
-      "explanation": "Although a Transfer Tax Return is filed with the sale, Georgia's non-disclosure policy means the actual purchase price is not made part of the public record. Appraisers and assessors must use other methods to determine property values.",
+      "explanation": "The PT-61 Real Estate Transfer Tax form filed with every Georgia deed discloses the consideration, and that data is publicly available through the GSCCCA. Appraisers and county assessors routinely use PT-61 data for comparable sales. Georgia is a disclosure state.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
-        "non-disclosure",
+        "disclosure-state",
         "transfer-tax-return",
         "public-records",
-        "confidential"
+        "PT-61"
       ]
     },
     {
@@ -286,21 +286,21 @@
     },
     {
       "key_topic_ref": "GA-14.3",
-      "question_text": "An appraiser in Georgia needs to determine a property's value but public records do not show comparable sale prices. What is the underlying cause?",
-      "correct_answer": "Georgia's non-disclosure policy hides sale prices",
+      "question_text": "Georgia's real estate transfer tax on a recorded deed is calculated at what rate?",
+      "correct_answer": "$1.00 for the first $1,000 of consideration plus $0.10 per additional $100",
       "distractors": [
-        "Georgia banned the recording of deeds in 2020",
-        "The county clerk redacts prices after 12 months",
-        "Federal privacy law overrides state recording rules"
+        "$1.50 per $500 of the consideration",
+        "$3.00 per $1,000 with a $25,000 cap",
+        "A flat 0.5% of the sale price"
       ],
-      "explanation": "Georgia's non-disclosure status means sale prices are not available in public records. Appraisers must rely on MLS data, broker interviews, and other sources to gather comparable sales information for property valuation.",
+      "explanation": "O.C.G.A. 48-6-1 sets the real estate transfer tax at $1.00 for the first $1,000 of consideration plus 10 cents for each additional $100 (about 0.1% of the price). It is paid by the seller when the deed is recorded along with the PT-61 form, whose data - including the sale price - is public through the GSCCCA. Do not confuse it with the intangible recording tax of $1.50 per $500, which applies to security deeds.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": [
-        "non-disclosure",
-        "appraisal",
-        "comparable-sales",
+        "transfer-tax",
+        "PT-61",
+        "recording",
         "Georgia"
       ]
     }
