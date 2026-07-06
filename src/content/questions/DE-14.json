@@ -29,13 +29,13 @@
     {
       "key_topic_ref": "DE-14.1",
       "question_text": "A homeowner discovers her septic system is failing and leaking into the yard. What is the homeowner's legal obligation?",
-      "correct_answer": "Report the failing system to DNREC",
+      "correct_answer": "Have it repaired immediately under a DNREC permit",
       "distractors": ["Repair it privately without notification", "Notify only the nearest neighbor", "Wait until the annual inspection cycle"],
-      "explanation": "Delaware law requires homeowners to report failing septic systems to DNREC. A failing system poses environmental and public health risks including groundwater contamination. DNREC will then oversee the repair or replacement to ensure compliance with current standards.",
+      "explanation": "Under DNREC's on-site wastewater regulations (7 DE Admin. Code 7101), repair or replacement of a malfunctioning septic system must be initiated immediately, and no one may repair a malfunctioning system without first obtaining a Repair or Component Replacement Permit from DNREC — typically arranged through a licensed system contractor. A failing system poses groundwater contamination risks, and fixing it quietly without DNREC permitting is illegal.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["septic failure", "DNREC", "reporting requirement"]
+      "tags": ["septic failure", "DNREC", "repair permit"]
     },
     {
       "key_topic_ref": "DE-14.1",
@@ -64,11 +64,11 @@
       "question_text": "A manufactured housing community owner receives a purchase offer from a developer. Who has the right to make the first offer on the community?",
       "correct_answer": "The community's residents",
       "distractors": ["The local municipality government", "The state housing authority", "Adjacent commercial property owners"],
-      "explanation": "Delaware law grants manufactured housing community residents a right of first offer and first refusal when the community is being sold. This protection helps prevent displacement of residents and gives them the opportunity to collectively purchase the community before outside buyers.",
+      "explanation": "Delaware's Manufactured Home Owners and Community Owners Act gives the residents, through their homeowners' association, a right of first offer when a community owner decides to sell (25 Del. C. §§7030-7036). The owner must send the required notice to the association, and if the owner later would sell to a third party at a lower price, the association gets 30 days to match it. This protects residents from displacement and gives them a chance to purchase the community.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["manufactured housing", "right of first refusal", "community sale"]
+      "tags": ["manufactured housing", "right of first offer", "community sale"]
     },
     {
       "key_topic_ref": "DE-14.2",
@@ -97,7 +97,7 @@
       "question_text": "A homeowner with a solar lease sells her Delaware property. What happens to the solar lease?",
       "correct_answer": "The lease transfers with the property",
       "distractors": ["The lease is automatically terminated", "The seller must buy out the lease first", "The buyer must negotiate a new lease"],
-      "explanation": "In Delaware, solar leases transfer with the property upon sale. The new owner assumes the existing lease terms. Sellers should disclose the solar lease as part of the transaction, and buyers should review the lease obligations before closing.",
+      "explanation": "A solar lease is a contract with the solar company, and in a typical Delaware sale it is transferred to the buyer by assumption: the buyer agrees to take over the existing lease terms, usually subject to the solar company's approval. The alternative is for the seller to buy out or prepay the lease. The lease is not automatically terminated, and the buyer does not sign a brand-new lease. Sellers must disclose the lease, and buyers should review its terms before closing.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -105,14 +105,14 @@
     },
     {
       "key_topic_ref": "DE-14.2",
-      "question_text": "A manufactured home in a Delaware community is not permanently attached to the land. How is this home titled?",
-      "correct_answer": "Through the DMV as personal property",
-      "distractors": ["Through the county recorder as real property", "Through DNREC as a mobile structure", "Through the Division of Revenue only"],
-      "explanation": "Manufactured homes not permanently affixed to land in Delaware are classified as personal property and titled through the Division of Motor Vehicles. Once permanently affixed to owned land, the home converts to real property and is conveyed by deed rather than title certificate.",
-      "difficulty": "easy",
-      "cognitive_level": "knowledge",
+      "question_text": "A lender takes a security interest in a Delaware manufactured home that has not been affixed to land. Where is the lien recorded?",
+      "correct_answer": "Noted on the DMV certificate of title",
+      "distractors": ["In the county recorder of deeds' land records", "With the Delaware Manufactured Home Relocation Authority", "No recording is possible for manufactured homes"],
+      "explanation": "A manufactured home that is not permanently affixed to land is personal property titled through the Delaware Division of Motor Vehicles, so a lender's security interest is noted on the DMV certificate of title (21 Del. C. Ch. 23) — not in the county land records. Once the home is permanently affixed to owned land and converted to real property, liens attach through the land records like any other mortgage.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
       "is_free": false,
-      "tags": ["manufactured housing", "DMV title", "personal property"]
+      "tags": ["manufactured housing", "DMV title", "lien recording"]
     },
     {
       "key_topic_ref": "DE-14.3",
@@ -141,7 +141,7 @@
       "question_text": "A seller-financed note in Delaware includes a balloon payment due in five years. What must the seller disclose about this payment?",
       "correct_answer": "The balloon payment must be clearly disclosed",
       "distractors": ["Balloon payments are prohibited in Delaware", "Disclosure is optional for private sales", "Only the interest rate needs disclosure"],
-      "explanation": "Delaware requires clear disclosure of balloon payments in seller-financed transactions. Buyers must understand exactly when the large lump-sum payment comes due and the amount owed. This transparency helps buyers plan for refinancing or payoff and prevents surprise defaults.",
+      "explanation": "Balloon payments in seller-financed deals must be clearly disclosed to the buyer. Where federal Truth in Lending rules apply, the amount and due date of the balloon must appear in the loan disclosures, and under the Dodd-Frank seller-financing rules the ability to include a balloon depends on which exclusion the seller qualifies for. Clear disclosure lets the buyer plan for refinancing or payoff and prevents surprise defaults.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -171,10 +171,10 @@
     },
     {
       "key_topic_ref": "DE-14.4",
-      "question_text": "A Delaware property owner receives a separate tax bill from a drainage district. What are these assessments called?",
+      "question_text": "A Delaware property owner notices a separate drainage assessment collected with the county property tax bill. What are these assessments called?",
       "correct_answer": "Tax ditch assessments",
       "distractors": ["Stormwater utility surcharges", "Municipal improvement bonds", "County flood mitigation fees"],
-      "explanation": "Tax ditch assessments are charges levied by Delaware's unique drainage districts for maintaining ditches and drainage infrastructure. These assessments run with the land and are separate from regular property taxes. Buyers should be informed that these obligations transfer with ownership.",
+      "explanation": "Tax ditch assessments are levied by Delaware's tax ditch organizations — governmental subdivisions created under 7 Del. C. Ch. 41 — to maintain drainage infrastructure. They are collected by the county along with county property taxes but are a distinct assessment that runs with the land, so buyers should be informed the obligation transfers with ownership.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -194,13 +194,13 @@
     {
       "key_topic_ref": "DE-14.4",
       "question_text": "A real estate brokerage places a large advertising sign at a busy Delaware intersection that partially blocks drivers' view of oncoming traffic. Which law addresses this situation?",
-      "correct_answer": "The Clear Zone Safety Law",
+      "correct_answer": "The Clear Zone law",
       "distractors": ["The Delaware Billboard Regulation Act", "The Highway Beautification Act", "The Commercial Signage Ordinance"],
-      "explanation": "Delaware's Clear Zone Safety Law prohibits signs and other obstructions from blocking driver visibility at intersections and along roadways. Real estate professionals must ensure their signs comply with sight-line requirements to avoid citations and potential liability for accidents.",
+      "explanation": "Delaware's Clear Zone law (17 Del. C. §§524-527) lets DelDOT maintain clear zones within highway rights-of-way and immediately remove nonofficial signs, poles, and other obstructions that create hazards — including signs that interfere with driver visibility at intersections. Real estate professionals must keep signs out of the right-of-way clear zone to avoid removal, citations, and potential liability.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["Clear Zone Safety Law", "sign placement", "visibility"]
+      "tags": ["Clear Zone law", "sign placement", "visibility"]
     },
     {
       "key_topic_ref": "DE-14.4",

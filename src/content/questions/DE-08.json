@@ -51,14 +51,14 @@
     },
     {
       "key_topic_ref": "DE-08.1",
-      "question_text": "A salesperson at XYZ Realty makes misleading statements to a buyer during a showing. Under Delaware law, who bears primary responsibility for this conduct?",
-      "correct_answer": "The firm's qualifying broker",
+      "question_text": "A salesperson at XYZ Realty makes misleading statements to a buyer during a showing. Under Delaware law, when may the salesperson's broker also face discipline for this conduct?",
+      "correct_answer": "If the broker knew of the conduct or failed to supervise",
       "distractors": [
-        "Only the individual salesperson involved",
-        "The buyer for not verifying claims",
-        "The listing agent for the property"
+        "Always, because brokers are strictly liable for licensee acts",
+        "Never, because each licensee answers only for personal acts",
+        "Only if the buyer first wins a civil lawsuit"
       ],
-      "explanation": "In Delaware, the broker is responsible for all activities conducted by licensees within the firm. While the salesperson may also face disciplinary action, the broker bears primary responsibility because they are obligated to supervise all licensees and ensure compliance with real estate law.",
+      "explanation": "The salesperson is directly subject to discipline for misrepresentation under 24 Del. C. §2912(a)(1). The broker is responsible for day-to-day supervision of the firm (§2902), and a supervision failure can itself support discipline, but §2912(b) provides that a broker's license may not be revoked for another licensee's unlawful act unless the Commission finds the broker had knowledge of it.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -73,7 +73,7 @@
         "Brokers supervise salespersons but not associates",
         "Supervision is optional for experienced agents"
       ],
-      "explanation": "Delaware law requires the broker to supervise all licensees within the firm, regardless of their experience level or license type. This includes salespersons and associate brokers alike. The broker cannot delegate this responsibility or exempt certain licensees from oversight.",
+      "explanation": "Delaware law requires the broker to supervise all licensees within the firm, regardless of their experience level or license type. This includes salespersons and associate brokers alike. A branch office must have a designated on-site supervisor with at least five years' experience, but the branch, its licensees, and the on-site supervisor all remain under the broker's direction and supervision (24 Del. C. §§2902(a)(11), 2919(d)).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -88,7 +88,7 @@
         "To submit quarterly reports to the state",
         "To satisfy federal tax reporting mandates"
       ],
-      "explanation": "Delaware requires brokers to maintain copies of all transaction documents for the period specified by the Real Estate Commission. These records must be available for Commission inspection upon request. This is a state licensing requirement, not a federal tax obligation.",
+      "explanation": "Delaware brokers must keep, in the office or electronically available there, a complete record of all moneys received or escrowed on real estate transactions, retained for at least 3 years (Commission Rule 6.3), and all books, records, and written agreements must be accessible for Commission inspection (24 Del. C. §2923(e)). This is a state licensing requirement, not a federal tax obligation.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -103,7 +103,7 @@
         "Provide only the settlement statement",
         "Refer the investigator to the title company"
       ],
-      "explanation": "Delaware brokers must make all transaction documents available for Commission inspection at any time. The Commission does not need a court order to review a licensee's records. Refusing to provide documents or providing only partial records can result in disciplinary action.",
+      "explanation": "Delaware brokers must keep escrow-related books, records, and written agreements accessible at the approved place of business, open to Commission inspection or audit during regular business hours (24 Del. C. §2923(e)). No court order is required, and refusing or producing only partial records can result in disciplinary action.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -111,14 +111,14 @@
     },
     {
       "key_topic_ref": "DE-08.2",
-      "question_text": "A Delaware salesperson negotiates a purchase agreement and both parties sign. When should original documents be delivered to the parties?",
+      "question_text": "A Delaware salesperson negotiates a purchase agreement and both parties sign. When must executed copies of the agreement be delivered to the parties?",
       "correct_answer": "Promptly after execution by all parties",
       "distractors": [
         "Within 30 days of the closing date",
         "Only after the inspection period expires",
         "At the final settlement meeting only"
       ],
-      "explanation": "Delaware law requires that original executed documents be delivered to the parties promptly. Waiting until closing or until contingency periods expire is not acceptable. Timely delivery ensures all parties have access to the terms they agreed to and can act on any deadlines in the contract.",
+      "explanation": "Commission Rule 8.4.1 requires that each party receive a copy of the agreement when they sign or initial it, and a fully executed copy within a reasonable time after all parties have signed. Copies may be paper or electronic. Waiting until closing or the end of a contingency period is not acceptable.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -133,7 +133,7 @@
         "Automatic license suspension for one year",
         "Mandatory reimbursement to all past clients"
       ],
-      "explanation": "Brokers are required to maintain copies of all transaction documents and make them available for Commission inspection. Missing documents represent a failure to meet this obligation and can result in disciplinary action, which may include fines, license suspension, or other penalties depending on the severity.",
+      "explanation": "Brokers are required to maintain copies of all transaction documents and make them available for Commission inspection. Missing documents represent a failure to meet this obligation and can result in disciplinary action, which may include fines, license suspension, or other penalties depending on the severity. Note that escrow and money records specifically must be kept in the broker's office or be electronically available there (Rule 6.3), and escrow-related records must be accessible at the approved place of business for Commission inspection (§2923(e)).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -148,7 +148,7 @@
         "Only documents signed by the broker",
         "Only the settlement statement and contract"
       ],
-      "explanation": "Delaware requires brokers to maintain copies of all transaction documents, not just selected items. This includes listing agreements, purchase contracts, addenda, disclosures, correspondence, and settlement statements. Keeping only partial records does not satisfy the Commission's requirements.",
+      "explanation": "Delaware requires brokers to keep all books, records, written agreements, and other necessary documents accessible for Commission inspection (24 Del. C. §2923(e)), and complete money/escrow records for at least 3 years (Rule 6.3). This includes listing agreements, purchase contracts, addenda, disclosures, and settlement statements. Keeping only selected documents, such as the listing agreement and deed, does not satisfy these obligations.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -208,7 +208,7 @@
         "The Commission must give 60 days notice",
         "Only the state attorney general can audit"
       ],
-      "explanation": "The Delaware Real Estate Commission has the authority to audit a broker's trust account at any time without prior notice or a court order. This power ensures that client funds are being properly maintained and that brokers are complying with trust account regulations.",
+      "explanation": "The Commission and its authorized agents may inspect or audit a broker's escrow accounts and records without a court order or advance-notice requirement; the statute provides for inspection at the broker's approved place of business during regular business hours (24 Del. C. §2923(e)). This power ensures that client funds are being properly maintained and that brokers are complying with trust account regulations.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,

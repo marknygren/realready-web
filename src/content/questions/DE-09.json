@@ -9,11 +9,11 @@
       "question_text": "In addition to the seven federal protected classes, which class is specifically protected under Delaware fair housing law?",
       "correct_answer": "Sexual orientation",
       "distractors": [
-        "Veteran status",
+        "Criminal conviction history",
         "Political affiliation",
         "Immigration status"
       ],
-      "explanation": "Delaware's fair housing law extends protections beyond the seven federal classes to include sexual orientation, gender identity, marital status, age, source of income, and creed. Veteran status, political affiliation, and immigration status are not among Delaware's additional protected classes.",
+      "explanation": "Delaware's Fair Housing Act protects, beyond the seven federal classes: creed, marital status, age, source of income, sexual orientation, gender identity, housing status, and military status (which includes veterans and service members' dependents). Political affiliation, immigration status, and criminal history are not protected classes under 6 Del. C. §4603.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -82,13 +82,13 @@
     {
       "key_topic_ref": "DE-09.2",
       "question_text": "A tenant believes they experienced housing discrimination in Delaware. Where should they file a state-level complaint?",
-      "correct_answer": "The Division of Human Relations",
+      "correct_answer": "The Division of Human and Civil Rights",
       "distractors": [
         "The Real Estate Commission office",
         "The Department of Natural Resources",
         "The Office of the State Treasurer"
       ],
-      "explanation": "Fair housing complaints in Delaware are filed with the Division of Human Relations, which investigates allegations of discrimination. While the Real Estate Commission handles licensing issues, fair housing enforcement at the state level falls under the Division of Human Relations.",
+      "explanation": "Fair housing complaints are filed with Delaware's Division of Human and Civil Rights (formerly the Division of Human Relations, renamed in 2022), which investigates complaints under 6 Del. C. §4610; the Delaware Human and Civil Rights Commission conducts hearings and orders relief. The Real Estate Commission handles licensing matters, not fair housing enforcement.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -96,14 +96,14 @@
     },
     {
       "key_topic_ref": "DE-09.2",
-      "question_text": "How long does a complainant have to file a fair housing complaint with Delaware's Division of Human Relations?",
+      "question_text": "How long does a complainant have to file a fair housing complaint with Delaware's Division of Human and Civil Rights?",
       "correct_answer": "One year from the alleged violation",
       "distractors": [
         "Six months from the alleged violation",
         "Two years from the alleged violation",
         "Thirty days from the alleged violation"
       ],
-      "explanation": "Delaware law provides a one-year deadline for filing fair housing complaints with the Division of Human Relations. Missing this deadline may bar the state-level complaint, though other remedies such as filing with HUD or pursuing a private lawsuit may have different timelines.",
+      "explanation": "Under 6 Del. C. §4610(a)(1), a complaint must be filed with the Division of Human and Civil Rights not later than 1 year after the discriminatory practice occurred or terminated — or 1 year after it was or reasonably should have been discovered. Missing the deadline may bar the state administrative complaint, though a private civil action (2-year limit under §4613) or a HUD complaint may still be available.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -111,18 +111,18 @@
     },
     {
       "key_topic_ref": "DE-09.2",
-      "question_text": "A homeowner rents out a room in her owner-occupied duplex and refuses a tenant based on marital status. She claims the Mrs. Murphy exemption. A licensee assisted with the rental. Does the exemption apply?",
-      "correct_answer": "No, licensee involvement removes the exemption",
+      "question_text": "A homeowner rents out a room in her owner-occupied duplex and refuses a tenant based on marital status, claiming Delaware's owner-occupant ('Mrs. Murphy') exemption. Which statement is correct?",
+      "correct_answer": "The exemption can apply, but discriminatory advertising is still prohibited",
       "distractors": [
-        "Yes, the owner-occupant exemption always applies",
-        "Yes, duplexes always qualify for this exemption",
-        "No, but only because it is a duplex rental"
+        "The exemption never applies to duplex rentals",
+        "The exemption also permits discriminatory advertising",
+        "The exemption applies only to buildings of five or more units"
       ],
-      "explanation": "The Mrs. Murphy exemption may shield certain owner-occupied small properties from fair housing requirements. However, when a licensed real estate professional is involved in the transaction, the exemption does not apply. The licensee's participation subjects the transaction to full fair housing compliance.",
+      "explanation": "Under 6 Del. C. §4607(e), rentals of rooms or units in a dwelling for no more than 4 families are exempt from most Fair Housing Act prohibitions when the owner occupies one of the units — but the ban on discriminatory notices, statements, and advertising (§4603(b)(3)) always still applies. Delaware's statute contains no provision voiding this exemption when a licensee assists, although a participating licensee can still face professional consequences; the broker-involvement limitation in federal law attaches to the federal single-family sale exemption, not to the Mrs. Murphy exemption.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["mrs_murphy_exemption", "licensee_involvement", "marital_status"]
+      "tags": ["mrs_murphy_exemption", "owner_occupant", "advertising_ban"]
     },
     {
       "key_topic_ref": "DE-09.2",
@@ -141,14 +141,14 @@
     },
     {
       "key_topic_ref": "DE-09.2",
-      "question_text": "A Delaware resident files a housing discrimination complaint with the Division of Human Relations but is unsatisfied with the process. What additional option is available?",
+      "question_text": "A Delaware resident files a housing discrimination complaint with the Division of Human and Civil Rights but is unsatisfied with the process. What additional option is available?",
       "correct_answer": "File a private lawsuit in court",
       "distractors": [
         "Appeal directly to the state governor",
         "Request arbitration through the MLS",
         "File a second complaint with the same agency"
       ],
-      "explanation": "Delaware residents who experience housing discrimination have multiple avenues for relief. In addition to filing with the Division of Human Relations, they can file a complaint with HUD or pursue a private lawsuit in court. These options provide flexibility in seeking justice for discriminatory housing practices.",
+      "explanation": "In addition to the state administrative process, an aggrieved person may file with HUD or commence a private civil action under 6 Del. C. §4613 within 2 years of the discriminatory practice (or its discovery), whether or not an administrative complaint was filed — unless a conciliation agreement was reached or an administrative hearing has begun.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
