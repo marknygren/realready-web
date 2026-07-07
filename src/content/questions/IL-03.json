@@ -44,14 +44,14 @@
     },
     {
       "key_topic_ref": "IL-03.1",
-      "question_text": "What additional pre-license education must a managing broker candidate complete beyond the standard broker requirements?",
+      "question_text": "Beyond the 75-hour broker pre-license requirement, how many additional education hours in total must a managing broker applicant have completed?",
       "correct_answer": "90 hours of additional coursework",
       "distractors": [
         "75 hours of additional coursework",
         "60 hours of additional coursework",
         "45 hours of additional coursework"
       ],
-      "explanation": "A managing broker candidate must complete 90 additional hours beyond broker pre-license education. This includes 45 hours of post-license education and 45 hours of managing broker pre-license courses.",
+      "explanation": "Under 225 ILCS 454/5-28, a managing broker applicant must show at least 165 total hours of education: the 120 hours required for a broker license (75 pre-license plus 45 post-license) plus 45 additional hours focused on brokerage administration and management, completed within the year before applying, at least 15 of which must be interactive. That totals 90 hours beyond the 75-hour broker pre-license course.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -121,19 +121,19 @@
     {
       "key_topic_ref": "IL-03.2",
       "question_text": "A newly licensed broker closes several transactions during her first two years but does not complete any post-license education before the renewal deadline. What happens to her license?",
-      "correct_answer": "The license becomes inactive",
+      "correct_answer": "The license expires and cannot be renewed until the education is completed",
       "distractors": [
         "The license is automatically revoked",
         "She receives a one-year extension to finish",
         "She may renew by paying a double fee instead"
       ],
-      "explanation": "New brokers must complete 45 hours of post-license education during their first renewal period. Failure to do so results in the license becoming inactive. The broker cannot practice until the education is completed and the license is restored.",
+      "explanation": "New brokers must complete 45 hours of post-license education before their first renewal. Under 225 ILCS 454/5-70, no license may be renewed without completing the required education, so her license expires at the renewal deadline. Under Section 5-50 she may still renew within 2 years of expiration by completing the education and paying the required fees, but she may not practice on an expired license. In Illinois, 'inactive' is a distinct status for a licensee who lacks a sponsoring broker.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "post-license",
-        "inactive-license",
+        "expired-license",
         "renewal-compliance"
       ]
     },
@@ -159,19 +159,19 @@
     {
       "key_topic_ref": "IL-03.2",
       "question_text": "An Illinois broker completed only elective CE courses but skipped the core requirement including Fair Housing hours. What is the consequence?",
-      "correct_answer": "The license becomes inactive",
+      "correct_answer": "The license cannot be renewed and expires",
       "distractors": [
         "The broker receives a 90-day grace period",
         "The broker pays a late fee only",
         "IDFPR issues a formal reprimand"
       ],
-      "explanation": "Failure to complete all required continuing education, including core hours with Fair Housing content, results in the license becoming inactive. The broker cannot practice until the deficiency is corrected and the license is restored.",
+      "explanation": "All 12 CE hours, the 6-hour core course (which includes 2 hours of fair housing) and 6 elective hours, must be completed before renewal. Under 225 ILCS 454/5-70, no license may be renewed except upon successful completion of the required courses, so the license expires at the renewal deadline. The broker may not practice until the deficiency is corrected and the license is renewed (within 2 years of expiration) or restored.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "CE-compliance",
-        "inactive-license",
+        "expired-license",
         "fair-housing"
       ]
     },
@@ -216,75 +216,75 @@
     {
       "key_topic_ref": "IL-03.3",
       "question_text": "An Illinois broker lets her renewal deadline pass without submitting a renewal application or completing CE. What is the status of her license?",
-      "correct_answer": "The license is placed on inactive status",
+      "correct_answer": "The license expires (it is not renewed)",
       "distractors": [
         "The license is permanently revoked by IDFPR",
         "The license remains active for a 90-day grace period",
         "The license converts to a leasing agent license"
       ],
-      "explanation": "When an Illinois broker fails to renew by the deadline, the license is placed on inactive status. The broker cannot practice real estate until CE requirements are met and the renewal application is submitted. The license is not permanently revoked, but the broker must satisfy all outstanding requirements to reactivate.",
+      "explanation": "A broker who does not renew by the April 30 deadline holds an expired license and must stop practicing. Under 225 ILCS 454/5-50, she may renew within 2 years after expiration by completing the required CE and paying the prescribed fees; between 2 and 5 years she must apply for restoration with proof of fitness; after 5 years she must meet the requirements for a new license. Expiration is not revocation, and Illinois reserves 'inactive' status for licensees without a sponsoring broker.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "renewal",
-        "inactive-license",
+        "expired-license",
         "IDFPR"
       ]
     },
     {
       "key_topic_ref": "IL-03.3",
-      "question_text": "A broker changes sponsoring managing brokers. Who must notify IDFPR of the change?",
-      "correct_answer": "Both old and new managing brokers",
+      "question_text": "A broker resigns from her sponsoring broker and joins a new firm. Under current Illinois law, how is IDFPR notified?",
+      "correct_answer": "The terminating party and the new sponsoring broker each notify IDFPR within 24 hours",
       "distractors": [
-        "Only the broker who is changing sponsors",
-        "Only the new sponsoring managing broker",
-        "Only the departing managing broker"
+        "Both managing brokers must jointly file a transfer form within 15 days",
+        "Only the broker must notify IDFPR, within 30 days of the change",
+        "No notification is required until the broker's next renewal"
       ],
-      "explanation": "When an Illinois broker changes sponsoring managing brokers, both the departing and receiving managing brokers must notify IDFPR. This dual notification ensures accurate records of which managing broker currently supervises each licensee.",
+      "explanation": "225 ILCS 454/5-40 requires the person or entity initiating the termination of a sponsorship to notify the Department within 24 hours, and requires a sponsoring broker to notify the Department within 24 hours after establishing a new sponsorship. The broker's license automatically becomes inactive upon termination, and she may not practice until the new sponsorship is registered with IDFPR.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
-        "sponsor-card",
-        "managing-broker",
+        "sponsorship",
+        "24-hour-notice",
         "IDFPR-notification"
       ]
     },
     {
       "key_topic_ref": "IL-03.3",
       "question_text": "An Illinois broker moves to a new address but waits 60 days to notify IDFPR. Has the broker complied with state requirements?",
-      "correct_answer": "No, changes must be reported within 14 days",
+      "correct_answer": "No, changes must be reported within 24 hours",
       "distractors": [
         "Yes, 60 days is within the allowed timeframe",
         "Yes, address changes only apply at renewal",
-        "No, changes must be reported within 24 hours"
+        "No, changes must be reported within 14 days"
       ],
-      "explanation": "Illinois Administrative Code Section 1450.150(a)(1)(B) requires licensees to inform the Division of any change of address within 14 days of the change. Waiting 60 days exceeds this deadline and constitutes a violation. The separate 24-hour rule in Section 1450.150(c) applies only to changes in office location for managing brokers, not to a licensee's individual address.",
+      "explanation": "225 ILCS 454/5-41 and 68 Ill. Adm. Code 1450.150(a)(2) require a licensee to inform IDFPR of any change of address, email address, phone, or office location within 24 hours after the change, so waiting 60 days is a violation. The separate 14-day deadline in Section 1450.150(b) applies to name changes, not address changes.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "address-change",
-        "14-day-rule",
+        "24-hour-rule",
         "IDFPR-reporting"
       ]
     },
     {
       "key_topic_ref": "IL-03.3",
-      "question_text": "What document must an Illinois broker obtain from a managing broker in order to lawfully practice real estate?",
-      "correct_answer": "A sponsor card",
+      "question_text": "Before a licensed Illinois broker may begin practicing, what must be on file with IDFPR?",
+      "correct_answer": "A registered sponsorship with a sponsoring broker",
       "distractors": [
         "A brokerage agreement",
         "A certificate of good standing",
         "An independent contractor license"
       ],
-      "explanation": "Illinois requires every broker to hold a sponsor card from a sponsoring managing broker before engaging in licensed real estate activities. Without an active sponsor card on file with IDFPR, the broker cannot legally practice.",
+      "explanation": "A broker may practice only while sponsored. Under 225 ILCS 454/5-40, the sponsoring broker must notify IDFPR within 24 hours after establishing the sponsorship, and an unsponsored broker's license is inactive. Sponsorship was historically documented with a 'sponsor card,' a term still seen on IDFPR's paper form, but the 2022 amendments to the License Act replaced the sponsor-card process with sponsorship registration.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
-        "sponsor-card",
+        "sponsorship",
         "managing-broker",
         "practice-requirement"
       ]

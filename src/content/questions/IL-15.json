@@ -67,13 +67,13 @@
     {
       "key_topic_ref": "IL-15.1",
       "question_text": "A veteran received a general discharge under honorable conditions from the military. A landlord refuses to rent to him based on that discharge status. Is this legal under the Illinois Human Rights Act?",
-      "correct_answer": "No, only dishonorable discharge may be considered",
+      "correct_answer": "No, this discharge status is protected by the Act",
       "distractors": [
         "Yes, any non-honorable discharge may justify denial",
         "Yes, military discharge is not a protected class",
         "No, but only if the veteran is currently active duty"
       ],
-      "explanation": "The Illinois Human Rights Act protects individuals with unfavorable military discharges other than dishonorable. A general discharge under honorable conditions is protected, and landlords cannot use it as a basis for denial. Only a dishonorable discharge falls outside this protection.",
+      "explanation": "The Illinois Human Rights Act makes unfavorable discharge from military service a protected class. The Act's definition covers discharges classified as RE-3 or the equivalent; only discharges classified RE-4 or characterized as dishonorable fall outside the protection. A general discharge under honorable conditions therefore cannot be used as a basis for denying housing.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -213,7 +213,7 @@
         "A 30-day notice to pay or vacate",
         "A 3-day notice to pay or vacate"
       ],
-      "explanation": "In Illinois, when a tenant fails to pay rent, the landlord must serve a 5-day notice demanding payment. If the tenant does not pay within the 5-day period, the landlord may then file a forcible entry and detainer action in circuit court.",
+      "explanation": "In Illinois, when a tenant fails to pay rent, the landlord must serve a 5-day notice demanding payment. If the tenant does not pay the full amount demanded within the 5-day period, the landlord may then file an eviction action in circuit court.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -227,13 +227,13 @@
     {
       "key_topic_ref": "IL-15.3",
       "question_text": "An Illinois landlord discovers a tenant is violating the lease by keeping unauthorized pets. What notice period must the landlord provide before pursuing eviction?",
-      "correct_answer": "A 10-day notice to cure the violation",
+      "correct_answer": "A 10-day notice to quit",
       "distractors": [
-        "A 5-day notice to cure the violation",
-        "A 30-day notice to cure or vacate the unit",
-        "A 14-day notice to cure the violation"
+        "A 5-day notice to quit",
+        "A 30-day notice to quit",
+        "A 14-day notice to quit"
       ],
-      "explanation": "Illinois law requires a 10-day notice for lease violations other than nonpayment of rent. The notice gives the tenant an opportunity to cure the violation. If the tenant fails to comply within 10 days, the landlord can file a forcible entry and detainer action.",
+      "explanation": "Under 735 ILCS 5/9-210, a landlord may terminate the lease for a violation other than nonpayment of rent by serving a 10-day notice to quit. The statute itself gives the tenant no right to cure, although some local ordinances, including the Chicago RLTO, do provide a 10-day opportunity to cure. If the tenant does not vacate within the 10 days, the landlord may file an eviction action in circuit court.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -253,7 +253,7 @@
         "A warning for the first offense with no damages",
         "Criminal trespass charges against the tenant instead"
       ],
-      "explanation": "Illinois law strictly prohibits self-help evictions. Landlords cannot change locks, shut off utilities, or remove a tenant's belongings to force a tenant out. The landlord must follow the legal eviction process through a forcible entry and detainer action filed in circuit court.",
+      "explanation": "Illinois law strictly prohibits self-help evictions. Landlords cannot change locks, shut off utilities, or remove a tenant's belongings to force a tenant out. The landlord must instead follow the judicial eviction process by filing an eviction action in circuit court.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

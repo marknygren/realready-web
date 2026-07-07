@@ -13,7 +13,7 @@
         "The following Monday after a weekend pause",
         "Five calendar days from the listing date"
       ],
-      "explanation": "In Illinois, the attorney review period begins the day after both parties have signed the contract. Since both signed on Monday, the five-business-day clock starts on Tuesday.",
+      "explanation": "Under the attorney review provision in standard Illinois contracts such as the Multi-Board Residential Real Estate Contract, the five-business-day period runs from the Date of Acceptance, with Day 1 being the first business day after both parties have signed. Since both signed on Monday, the clock starts on Tuesday.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -86,10 +86,10 @@
       "correct_answer": "No, disapproval must be in writing to be valid",
       "distractors": [
         "Yes, verbal notice between attorneys is sufficient",
-        "Yes, if confirmed by email within 24 hours",
+        "Yes, if the call is made during business hours on a business day",
         "No, only the parties themselves can disapprove"
       ],
-      "explanation": "Illinois attorney review disapproval must be delivered in writing. A verbal phone call, even between the attorneys, does not satisfy the written notice requirement and the contract would remain in force.",
+      "explanation": "Under the contract's notice provisions, attorney review disapproval must be delivered in writing. A verbal phone call, even between the attorneys, does not satisfy the written notice requirement, and the contract would remain in force.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -140,13 +140,13 @@
     {
       "key_topic_ref": "IL-10.2",
       "question_text": "Which of the following is a typical contingency found in an Illinois residential purchase contract?",
-      "correct_answer": "A five-day inspection contingency",
+      "correct_answer": "A five-business-day inspection contingency",
       "distractors": [
         "A mandatory 30-day appraisal review period",
         "A seller-funded home warranty contingency",
         "A 14-day radon testing exclusivity clause"
       ],
-      "explanation": "Illinois residential contracts commonly include a professional inspection contingency, typically allowing the buyer five days to conduct inspections. This is one of several standard contingencies alongside financing, attorney review, and closing date provisions.",
+      "explanation": "Illinois residential contracts commonly include a professional inspection contingency; under the Multi-Board contract the buyer typically has five business days after the Date of Acceptance to inspect and serve notice. This is one of several standard contingencies alongside financing, attorney review, and closing date provisions.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -177,14 +177,14 @@
     },
     {
       "key_topic_ref": "IL-10.2",
-      "question_text": "A buyer submits an offer with no earnest money deposit. How does this affect the contract under Illinois practice?",
-      "correct_answer": "The contract may lack adequate consideration",
+      "question_text": "A buyer submits an offer with no earnest money deposit. How does this affect the contract's validity under Illinois practice?",
+      "correct_answer": "The contract can still be valid; earnest money is not legally required",
       "distractors": [
         "The contract is automatically void under state statute",
-        "The buyer forfeits the right to attorney review",
-        "The seller must counter with a minimum deposit amount"
+        "The contract lacks consideration and is unenforceable",
+        "The buyer forfeits the right to attorney review"
       ],
-      "explanation": "Earnest money serves as evidence of the buyer's good faith and contributes to contract consideration. While Illinois does not set a statutory minimum, a contract without earnest money may be challenged for lacking adequate consideration.",
+      "explanation": "Earnest money is customary evidence of the buyer's good faith, but it is not legally required for a valid contract. The parties' mutual promises, the buyer's promise to pay and the seller's promise to convey, supply the consideration. Illinois sets no statutory minimum deposit, and a contract without earnest money remains enforceable, though sellers rarely accept such offers.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -203,7 +203,7 @@
         "The agreement is binding once the buyer tenders earnest money",
         "The agreement is valid for 30 days pending confirmation"
       ],
-      "explanation": "Under the Illinois Statute of Frauds, real estate sales contracts must be in writing and signed by the party to be charged. An oral agreement to sell real property is unenforceable regardless of witnesses or partial performance.",
+      "explanation": "Under the Illinois Statute of Frauds (740 ILCS 80/2), a contract for the sale of real estate must be in writing and signed by the party to be charged, so this oral agreement is unenforceable. Illinois recognizes only a narrow equitable exception for part performance (possession plus payment plus improvements), and no such acts occurred here; the presence of a witness makes no difference.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,

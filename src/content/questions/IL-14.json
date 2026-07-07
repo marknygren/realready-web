@@ -53,7 +53,7 @@
         "State revenue agents",
         "Municipal building inspectors"
       ],
-      "explanation": "In Illinois, township assessors provide the initial property assessments. The county assessor then reviews and determines final values. This two-tier local structure is a distinctive feature of the Illinois property tax system.",
+      "explanation": "In most Illinois counties, township assessors provide the initial property assessments. The chief county assessment officer (supervisor of assessments) then reviews and equalizes those values, and the county Board of Review finalizes them. In Cook County, the elected County Assessor values all property directly. This two-tier local structure is a distinctive feature of the Illinois property tax system.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -106,20 +106,20 @@
     {
       "key_topic_ref": "IL-14.2",
       "question_text": "A homeowner in Lake County (non-Cook) qualifies for the General Homestead Exemption. By how much is the EAV reduced?",
-      "correct_answer": "Up to $6,000",
+      "correct_answer": "Up to $8,000",
       "distractors": [
         "Up to $10,000",
-        "Up to $8,000",
+        "Up to $6,000",
         "Up to $5,000"
       ],
-      "explanation": "The General Homestead Exemption reduces EAV by up to $6,000 in counties outside Cook County. In Cook County, the reduction is up to $10,000. This exemption is available to owner-occupied primary residences throughout Illinois.",
+      "explanation": "For tax year 2023 and later, the General Homestead Exemption reduces EAV by up to $8,000 in counties contiguous to Cook County, the collar counties, including Lake County. The maximum is $10,000 in Cook County and $6,000 in all other Illinois counties. This exemption is available to owner-occupied primary residences throughout Illinois.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
         "general-homestead",
         "exemption",
-        "non-cook-county"
+        "collar-county"
       ]
     },
     {
@@ -171,7 +171,7 @@
         "$8,000 EAV reduction",
         "$10,000 EAV reduction"
       ],
-      "explanation": "The Returning Veterans Homestead Exemption provides a $5,000 reduction in EAV for qualifying veterans returning from active duty. This is a one-time, two-year benefit separate from the Disabled Veterans Standard Homestead Exemption.",
+      "explanation": "The Returning Veterans' Homestead Exemption provides a $5,000 reduction in EAV for the taxable year in which the veteran returns from active duty in an armed conflict and the following taxable year. It can be claimed again after a subsequent qualifying return, and it is separate from the Standard Homestead Exemption for Veterans with Disabilities.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -241,14 +241,14 @@
     },
     {
       "key_topic_ref": "IL-14.3",
-      "question_text": "Illinois property taxes are typically due in two installments. When are these installments generally payable?",
+      "question_text": "Outside Cook County, Illinois property taxes are typically due in two installments. When are these installments generally payable?",
       "correct_answer": "June and September",
       "distractors": [
         "January and July each year",
         "March and November",
         "April and October"
       ],
-      "explanation": "Illinois property taxes are generally paid in two installments, typically due in June and September. The first installment is usually an estimated amount based on 55% of the prior year's total tax bill, and the second installment reflects the actual assessed amount minus the first payment.",
+      "explanation": "In counties other than Cook, property taxes are generally paid in two equal installments of the actual bill, due June 1 and September 1. Cook County uses accelerated billing instead: a first installment equal to 55% of the prior year's total bill is due in early spring, with the second installment for the balance due in the fall.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,

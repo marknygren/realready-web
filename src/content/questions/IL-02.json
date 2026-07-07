@@ -7,32 +7,32 @@
     {
       "key_topic_ref": "IL-02.1",
       "question_text": "Marcus, age 20, has completed 75 hours of pre-license education and passed the broker exam. Can he receive his Illinois broker license?",
-      "correct_answer": "No, he must be at least 21 years old",
+      "correct_answer": "Yes, at 20 he exceeds the minimum age of 18",
       "distractors": [
-        "Yes, if he affiliates with a managing broker",
-        "Yes, once his background check clears",
-        "No, he needs 120 hours of pre-license education"
+        "No, he must be at least 21 years old",
+        "No, applicants must be 20 with two years of experience",
+        "Yes, but only for a residential leasing agent license"
       ],
-      "explanation": "Illinois requires broker license applicants to be at least 21 years old, which is one of the highest age requirements among all states. Marcus must wait until his 21st birthday to receive his license.",
+      "explanation": "Illinois requires broker license applicants to be at least 18 years old (225 ILCS 454/5-27). The former 21-year minimum was eliminated when the Act was rewritten in 2019, making 'must be 21' a common trap answer. At 20, Marcus qualifies for the broker license; to practice, he must also have a sponsoring broker registered with IDFPR. Managing broker applicants must be at least 20.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "broker-license",
         "age-requirement",
-        "eligibility"
+        "18-years"
       ]
     },
     {
       "key_topic_ref": "IL-02.1",
       "question_text": "What is the passing threshold for the Illinois broker licensing examination?",
-      "correct_answer": "75% on each section, 140 questions total",
+      "correct_answer": "Pass each section separately on the 140-question exam",
       "distractors": [
         "70% overall on a combined 100-question exam",
         "80% on each section of a 150-question exam",
         "75% overall on a single 120-question format"
       ],
-      "explanation": "The Illinois broker exam consists of 140 questions, and candidates must achieve at least 75% on each section. A passing score on one section does not offset a failing score on another.",
+      "explanation": "The Illinois broker exam has 140 scored questions, 100 national and 40 state, and each section must be passed separately; passing one section does not offset failing the other. PSI currently reports the passing standard as 70% on the national portion (equivalent to the former scaled score of 75) and 75% (30 of 40) on the state portion.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -63,7 +63,7 @@
     },
     {
       "key_topic_ref": "IL-02.1",
-      "question_text": "After passing the Illinois broker exam and clearing a background check, what must a new broker do before engaging in licensed activity?",
+      "question_text": "After passing the Illinois broker exam, what must a new broker do before engaging in licensed activity?",
       "correct_answer": "Affiliate with a sponsoring managing broker",
       "distractors": [
         "Open a personal escrow account at a local bank",
@@ -108,7 +108,7 @@
         "30 post-license plus 30 managing broker course hours",
         "60 hours of advanced brokerage and supervision courses"
       ],
-      "explanation": "To qualify as a managing broker in Illinois, a broker must hold a broker license for at least 2 years, complete 45 hours of post-license education, and then complete an additional 45 hours of managing broker pre-license education before sitting for the managing broker exam.",
+      "explanation": "To qualify as a managing broker in Illinois, a broker must have held an active broker license for at least 2 consecutive years out of the preceding 3, complete 45 hours of post-license education, and complete an additional 45 hours of managing broker pre-license education (165 total career hours) before sitting for the managing broker exam.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -127,7 +127,7 @@
         "Assist if the building contains fewer than four units",
         "Handle the sale for properties she currently leases"
       ],
-      "explanation": "An Illinois leasing agent license is limited to residential leasing activities only. Leasing agents cannot negotiate sales, handle trust funds, or engage in commercial transactions. Sandra would need a broker license to perform those activities.",
+      "explanation": "An Illinois residential leasing agent license is limited to licensed activities related to leasing residential real property (68 Ill. Adm. Code 1450.200). Leasing agents may not negotiate sales or work on commercial transactions. Sandra would need a broker license to handle the sale.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -158,21 +158,21 @@
     },
     {
       "key_topic_ref": "IL-02.2",
-      "question_text": "A tenant asks an Illinois leasing agent to collect a security deposit and place it in the brokerage trust account. What should the leasing agent do?",
-      "correct_answer": "Refer the task to the managing broker for handling",
+      "question_text": "An Illinois leasing agent collects a security deposit when a tenant signs a residential lease. What must happen to those funds?",
+      "correct_answer": "They must be placed in the sponsoring broker's escrow account",
       "distractors": [
-        "Collect the deposit and issue a personal receipt",
-        "Accept the funds and deposit them the next business day",
-        "Hold the funds until the lease is fully executed"
+        "The leasing agent holds them in a personal account until move-in",
+        "The leasing agent may retain them as an advance on commission",
+        "They must be deposited with IDFPR within five business days"
       ],
-      "explanation": "Illinois leasing agents are prohibited from handling trust funds. Security deposits must be managed by the managing broker or a licensed broker with proper authority. The leasing agent should direct this task accordingly.",
+      "explanation": "Security deposits received by a brokerage are escrow moneys under 68 Ill. Adm. Code 1450.750. Only the sponsoring broker maintains escrow accounts, so a leasing agent who receives a deposit must promptly turn it over for deposit into the sponsoring broker's escrow account, generally no later than the next business day. No licensee may hold client funds personally or commingle them.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "leasing-agent",
-        "trust-funds",
-        "scope-limitation"
+        "security-deposit",
+        "escrow-account"
       ]
     },
     {
@@ -254,13 +254,13 @@
     {
       "key_topic_ref": "IL-02.3",
       "question_text": "An unlicensed personal assistant at an Illinois brokerage tells a walk-in client that a listed home is priced below market value and a great deal. What rule has been violated?",
-      "correct_answer": "Assistants cannot discuss pricing with clients",
+      "correct_answer": "Assistants may not give opinions of price or value",
       "distractors": [
         "Assistants may not communicate with clients in person",
         "Only managing brokers may comment on property market value",
         "Price opinions require a separate appraisal license in Illinois"
       ],
-      "explanation": "Illinois law prohibits unlicensed personal assistants from discussing pricing, negotiating terms, or performing any activity that requires a license. Commenting on whether a property is priced below market value crosses into licensed activity.",
+      "explanation": "Unlicensed assistants may answer questions only by quoting directly from published information, such as the advertised list price. Interpreting listing information or opining that a home is priced below market value is a licensed activity (68 Ill. Adm. Code 1450.740), so the assistant crossed into conduct requiring a license.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -279,7 +279,7 @@
         "Retake the full 75-hour Illinois pre-license course only",
         "Obtain a temporary practice permit valid for one year"
       ],
-      "explanation": "Illinois is ending reciprocity on January 1, 2026, and replacing it with an endorsement process. Out-of-state brokers seeking licensure in Illinois after that date must apply through this new endorsement pathway rather than using the former reciprocity agreement.",
+      "explanation": "Illinois ended reciprocity on January 1, 2026, replacing it with an endorsement process. Out-of-state brokers seeking Illinois licensure now apply through endorsement, providing official certification of their license, passing the Illinois-specific exam portion, and completing a 30-hour endorsement course, rather than relying on the former reciprocity agreements.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

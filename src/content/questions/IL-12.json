@@ -47,13 +47,13 @@
     {
       "key_topic_ref": "IL-12.1",
       "question_text": "Four friends want to create a joint tenancy in Illinois. Three contribute equally, but one contributes nothing. They all receive title at the same time via one deed. Is joint tenancy created?",
-      "correct_answer": "Yes, if all four unities of TTIP are satisfied in the deed",
+      "correct_answer": "Yes, if the four TTIP unities are met and the deed expressly declares joint tenancy",
       "distractors": [
         "No, because contributions must be equal for joint tenancy",
         "No, joint tenancy requires a blood or marriage relationship",
         "Yes, but only if they file a separate survivorship affidavit"
       ],
-      "explanation": "Joint tenancy requires the four unities of Time, Title, Interest, and Possession (TTIP). Equal financial contribution is not one of the requirements. If all owners receive equal interests from the same deed at the same time with equal possession rights, joint tenancy is valid.",
+      "explanation": "Joint tenancy requires the four unities of Time, Title, Interest, and Possession (TTIP), plus deed language expressly declaring the estate is held 'not in tenancy in common but in joint tenancy' as Illinois law requires (765 ILCS 1005/1). Equal financial contribution is not a requirement. Because all four receive equal interests from the same deed at the same time with equal possession rights, a properly declared joint tenancy is valid.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -133,7 +133,7 @@
         "No, the trustee must reconvey title first",
         "Yes, but only after one year in the trust"
       ],
-      "explanation": "One of the key advantages of an Illinois land trust is that the beneficial interest is classified as personal property. It can be transferred by assigning the beneficial interest without recording a new deed, simplifying the transfer process and potentially reducing transfer tax exposure.",
+      "explanation": "One of the key advantages of an Illinois land trust is that the beneficial interest is classified as personal property. It can be transferred by assigning the beneficial interest without recording a new deed, simplifying the transfer process. Note that Illinois transfer tax still applies: the Real Estate Transfer Tax Law expressly taxes transfers of a beneficial interest in real property.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -206,14 +206,14 @@
     },
     {
       "key_topic_ref": "IL-12.3",
-      "question_text": "An Illinois homeowner has $40,000 in equity in their primary residence. A creditor with a $30,000 judgment attempts to force a sale. How much equity is protected by the homestead exemption?",
-      "correct_answer": "$15,000 is protected from the judgment creditor",
+      "question_text": "An Illinois homeowner has $80,000 in equity in their primary residence. A creditor with a $40,000 judgment attempts to force a sale. How much equity is protected by the homestead exemption?",
+      "correct_answer": "$50,000 is protected from the judgment creditor",
       "distractors": [
-        "The full $40,000 because the home is owner-occupied",
-        "$25,000 under the revised Illinois homestead statute",
-        "$30,000 matching the amount of the judgment"
+        "The full $80,000 because the home is owner-occupied",
+        "$15,000 under the former exemption amount",
+        "$40,000 matching the amount of the judgment"
       ],
-      "explanation": "The Illinois homestead exemption protects $15,000 of a homeowner's equity from forced sale by judgment creditors. The remaining $25,000 in equity above the exemption is potentially available to satisfy the creditor's claim.",
+      "explanation": "Effective January 1, 2026, the Illinois homestead exemption protects $50,000 of an individual homeowner's equity ($100,000 total when two or more owners occupy the homestead) from forced sale by judgment creditors (735 ILCS 5/12-901). The remaining $30,000 in equity above the exemption is potentially available to satisfy the creditor's claim.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -229,7 +229,7 @@
       "question_text": "A bank holds a mortgage on an Illinois homeowner's primary residence. The homeowner falls behind on payments. Can the homestead exemption prevent the bank from foreclosing?",
       "correct_answer": "No, the homestead exemption does not protect against mortgage liens",
       "distractors": [
-        "Yes, the $15,000 exemption applies to all creditors equally",
+        "Yes, the $50,000 exemption applies to all creditors equally",
         "Yes, but only if the homeowner has children under 18",
         "No, unless the homeowner files a homestead declaration first"
       ],

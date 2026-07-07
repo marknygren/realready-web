@@ -28,7 +28,7 @@
         "Liability only if the agent also knew about leaks",
         "No liability because the sale already closed"
       ],
-      "explanation": "While the disclosure report is based on the seller's actual knowledge and is not a warranty, the seller can be held liable for negligent or intentional misrepresentation. Repair receipts in the seller's name indicate the seller had actual knowledge of the roof problem and misrepresented the condition.",
+      "explanation": "The disclosure report reflects the seller's actual knowledge and is not a warranty, but that does not shield a seller who lies. Under 765 ILCS 77/25 the seller must disclose material defects actually known, and under 765 ILCS 77/55 a seller who discloses information on the report that the seller knows to be false is liable for actual damages and court costs, and the court may award attorney's fees. Repair receipts in the seller's name show the seller had actual knowledge of the roof problem and misrepresented it.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -36,18 +36,18 @@
     },
     {
       "key_topic_ref": "IL-11.1",
-      "question_text": "When must a seller provide the Residential Real Property Disclosure Report to the buyer under Illinois best practices?",
-      "correct_answer": "Before the attorney review period expires",
+      "question_text": "Under the Residential Real Property Disclosure Act, when must the seller deliver the Residential Real Property Disclosure Report to a prospective buyer?",
+      "correct_answer": "Before the buyer and seller sign the purchase contract",
       "distractors": [
         "Within five days after the closing date",
         "At the final walkthrough before closing",
         "Only when the buyer's lender requests it"
       ],
-      "explanation": "Under the Act, the disclosure must be provided before or at the time the contract is entered. Illinois best practice is to deliver it before the attorney review period expires, giving the buyer time to evaluate the information during that review window.",
+      "explanation": "Section 20 of the Act (765 ILCS 77/20) requires the seller to deliver the completed disclosure report to the prospective buyer before the signing of the contract. If a report disclosing a material defect is instead delivered after the parties have signed, the buyer may terminate the contract within 5 business days after receipt (765 ILCS 77/40). In practice, Illinois attorneys also evaluate the report during attorney review.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["timing", "attorney-review", "best-practice", "disclosure-report"]
+      "tags": ["timing", "before-contract-signing", "disclosure-report"]
     },
     {
       "key_topic_ref": "IL-11.1",
@@ -171,14 +171,14 @@
     },
     {
       "key_topic_ref": "IL-11.3",
-      "question_text": "A buyer's agent is handling a transaction in central Illinois and wants to advise the client about radon. Under the Radon Awareness Act, the agent must:",
-      "correct_answer": "Provide the buyer with a radon informational pamphlet",
+      "question_text": "A home in central Illinois is under contract negotiations. Under the Illinois Radon Awareness Act, before the buyer is obligated under the contract, the seller must:",
+      "correct_answer": "Provide the buyer with the IEMA radon pamphlet and radon disclosure form",
       "distractors": [
         "Order a radon test before the contract is signed",
         "Certify that radon levels are below 4 pCi/L",
         "Include radon test results in the listing data"
       ],
-      "explanation": "The Illinois Radon Awareness Act requires that buyers receive an informational pamphlet about radon. Much of central and northern Illinois falls within EPA Zone 1, the highest risk category. However, the Act requires the pamphlet, not a mandatory test or certification.",
+      "explanation": "The Illinois Radon Awareness Act (420 ILCS 46/10) requires the seller, not the licensee, to give the buyer the IEMA pamphlet 'Radon Testing Guidelines for Real Estate Transactions' and the Illinois Disclosure of Information on Radon Hazards form before the buyer is obligated under the contract. Much of central and northern Illinois is in EPA Zone 1, the highest radon-potential category, but the Act requires disclosure only; it does not require the seller to test, mitigate, or certify radon levels.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -193,7 +193,7 @@
         "The foreclosing court must order a property inspection",
         "Standard residential disclosure rules apply to the lender"
       ],
-      "explanation": "Foreclosure sales are among the exempt transfers under the Residential Real Property Disclosure Act. Other exemptions include bankruptcy, probate, transfers between family members or co-owners, new construction, government transfers, and first condominium sales.",
+      "explanation": "Foreclosure-related transfers, such as a judicial deed issued pursuant to a foreclosure sale or a deed in lieu of foreclosure, are exempt under 765 ILCS 77/15. Other exemptions include court-ordered transfers (including by a bankruptcy trustee), transfers by fiduciaries administering an estate, guardianship, or trust, transfers between co-owners, transfers to a spouse or lineal relatives, transfers to or from governmental entities, and newly constructed homes that have never been occupied.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -208,7 +208,7 @@
         "Recommend the seller amend the report after closing",
         "Ignore the crack unless a home inspector flags it"
       ],
-      "explanation": "Illinois agents have an independent duty to disclose material facts they know or reasonably should know. A visible structural crack is a material defect that the agent must disclose regardless of what the seller's report states. The agent cannot simply rely on the seller's disclosure.",
+      "explanation": "Under Article 15 of the Real Estate License Act (225 ILCS 454/15-25), a licensee must treat customers honestly, must not knowingly or negligently give false information, and must timely disclose latent material adverse facts about the property's physical condition that the licensee actually knows. Having personally observed the crack, the agent has actual knowledge of a material defect and cannot rely on, or continue distributing, a seller disclosure report the agent knows is inaccurate.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

@@ -26,51 +26,51 @@
     {
       "key_topic_ref": "IL-08.1",
       "question_text": "A sponsored licensee opens a personal trust account at a local bank to hold client escrow funds. Under Illinois law, this arrangement is:",
-      "correct_answer": "Prohibited because only the managing broker controls trust accounts",
+      "correct_answer": "Prohibited because escrow accounts must be maintained by the sponsoring broker",
       "distractors": [
         "Permitted if the licensee notifies IDFPR within 10 days",
         "Permitted as long as the account is at an Illinois bank",
         "Allowed if the managing broker cosigns the account"
       ],
-      "explanation": "In Illinois, trust accounts must be maintained under the control of the managing broker, not individual sponsored licensees. A sponsored licensee cannot independently open or manage a trust account for client funds.",
+      "explanation": "In Illinois, escrow (trust) accounts must be maintained under the control of the sponsoring broker (68 Ill. Adm. Code 1450.750). A sponsored licensee cannot independently open or manage an escrow account for client funds; all escrow moneys the licensee accepts must be placed in the sponsoring broker's escrow account.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "trust-account",
-        "managing-broker",
+        "sponsoring-broker",
         "escrow"
       ]
     },
     {
       "key_topic_ref": "IL-08.1",
       "question_text": "Which requirement applies to all real estate trust (escrow) accounts in Illinois?",
-      "correct_answer": "They must be maintained at an Illinois financial institution",
+      "correct_answer": "They must be maintained at a federally insured depository",
       "distractors": [
-        "They must be opened at a federally chartered bank only",
+        "They must be held at a financial institution located in Illinois",
         "They must hold funds from only one transaction at a time",
         "They require IDFPR pre-approval before opening"
       ],
-      "explanation": "Illinois law requires that trust accounts used to hold client funds be maintained at a financial institution located in Illinois. There is no requirement for federal charter status or IDFPR pre-approval to open the account.",
+      "explanation": "Under 68 Ill. Adm. Code 1450.750, every escrow account, whether interest-bearing or non-interest-bearing, must be maintained at a federally insured depository. There is no requirement that the institution be located in Illinois, no one-transaction-per-account rule, and no IDFPR pre-approval requirement.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
         "trust-account",
-        "Illinois-bank",
+        "federally-insured",
         "IDFPR"
       ]
     },
     {
       "key_topic_ref": "IL-08.1",
       "question_text": "A buyer's contract states that the earnest money deposit is due within 5 days of acceptance. The managing broker receives the check on day 2. When must the deposit occur?",
-      "correct_answer": "Per the contract terms, within 5 days of acceptance",
+      "correct_answer": "No later than the next business day after receipt",
       "distractors": [
+        "Per the contract terms, any time within 5 days of acceptance",
         "Immediately upon receipt of the check",
-        "No later than the next business day after receipt",
         "Within 3 business days of the contract date"
       ],
-      "explanation": "When the purchase contract specifies a deposit timeline, the managing broker must follow those contract terms. Illinois law requires deposit by the next business day after acceptance, but contract terms that specify a timeline govern the deposit deadline.",
+      "explanation": "The contract controls when the buyer must deliver the earnest money, but once the sponsoring broker receives it, 68 Ill. Adm. Code 1450.750(d) requires deposit into the escrow account no later than the next business day after receipt. The broker may not hold a received check until the contract's day-5 deadline.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -83,32 +83,32 @@
     {
       "key_topic_ref": "IL-08.1",
       "question_text": "A managing broker operates two offices and wants to maintain a single trust account for both locations. Under Illinois law, this practice is:",
-      "correct_answer": "Permitted because the managing broker controls all trust funds",
+      "correct_answer": "Permitted because the sponsoring broker controls all trust funds",
       "distractors": [
         "Prohibited unless each office has its own trust account",
         "Allowed only with written IDFPR approval",
         "Permitted only if both offices are in the same county"
       ],
-      "explanation": "Illinois law places trust account responsibility on the managing broker, not on individual office locations. A managing broker may use a single trust account for multiple offices as long as proper records are maintained for all transactions.",
+      "explanation": "Illinois places escrow-account responsibility on the sponsoring broker, not on individual office locations (68 Ill. Adm. Code 1450.750). A sponsoring broker may maintain one escrow account serving multiple offices, or more than one account, as long as proper records are maintained for all transactions.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": [
         "trust-account",
-        "managing-broker",
+        "sponsoring-broker",
         "multi-office"
       ]
     },
     {
       "key_topic_ref": "IL-08.2",
-      "question_text": "A managing broker deposits $600 of personal funds into the trust account to cover monthly bank service charges. This practice is:",
-      "correct_answer": "A violation because the personal funds exceed the $500 limit",
+      "question_text": "A managing broker keeps personal funds in the sponsoring broker's escrow account well in excess of the minimum balance the bank requires to avoid service charges. This practice is:",
+      "correct_answer": "A violation because personal funds may not exceed the amount needed to avoid service charges",
       "distractors": [
-        "Permitted if the broker documents the purpose in writing",
-        "Prohibited because no personal funds may be in a trust account",
+        "Permitted because Illinois allows a flat $500 of personal funds",
+        "Prohibited because no personal funds may ever be kept in an escrow account",
         "Allowed as long as the funds are withdrawn within 30 days"
       ],
-      "explanation": "Illinois allows a managing broker to keep up to $500 of personal funds in the trust account to cover bank fees. The $600 deposit exceeds that threshold and constitutes impermissible commingling.",
+      "explanation": "68 Ill. Adm. Code 1450.750 bars personal funds in an escrow account with one exception: an amount sufficient to avoid incurring service charges, documented as not exceeding the minimum the depository requires. Illinois sets no fixed dollar allowance (such as $500); anything beyond what the bank requires is impermissible commingling.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -178,13 +178,13 @@
     {
       "key_topic_ref": "IL-08.2",
       "question_text": "A managing broker keeps $400 of personal funds in the trust account for bank charges and maintains separate ledgers for each client. This arrangement is:",
-      "correct_answer": "Permitted under the $500 personal funds exception",
+      "correct_answer": "Permitted if the bank requires that amount to avoid service charges",
       "distractors": [
         "Prohibited because any personal funds constitute commingling",
         "Permitted only with annual IDFPR approval",
         "Allowed only if the broker has fewer than 10 active clients"
       ],
-      "explanation": "Illinois allows managing brokers to maintain up to $500 of personal funds in the trust account specifically to cover bank fees. Since $400 is within the allowed threshold, this arrangement is compliant with Illinois commingling rules.",
+      "explanation": "68 Ill. Adm. Code 1450.750 lets the sponsoring broker keep personal funds in the escrow account only in an amount sufficient to avoid incurring bank service charges, documented as not exceeding the minimum the depository requires. There is no fixed $500 allowance; the $400 here is compliant only because it is what the bank requires to avoid charges.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -197,13 +197,13 @@
     {
       "key_topic_ref": "IL-08.3",
       "question_text": "A tenant moves out and the landlord has no damage claims. Under the Illinois Security Deposit Return Act, when must the landlord return the full security deposit?",
-      "correct_answer": "Within 30 days after the tenant vacates",
+      "correct_answer": "Within 45 days after the tenant vacates",
       "distractors": [
+        "Within 30 days after the tenant vacates",
         "Within 14 days after the tenant vacates",
-        "Within 45 days after the lease expires",
         "Within 60 days after the tenant vacates"
       ],
-      "explanation": "The Illinois Security Deposit Return Act requires landlords to return the full security deposit within 30 days after the tenant vacates, when no deductions are being made. If the landlord claims deductions, the timeline extends to 45 days with an itemized statement.",
+      "explanation": "Under the Security Deposit Return Act (765 ILCS 710/1), a landlord making no deductions must return the deposit in full within 45 days after the tenant vacates. The 30-day deadline applies only to furnishing an itemized statement of damages when the landlord withholds part of the deposit. Since January 1, 2024 (P.A. 103-224), the Act applies to all residential rental property, not just buildings with 5 or more units.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -222,7 +222,7 @@
         "Three times the security deposit amount",
         "One and one-half times the deposit amount"
       ],
-      "explanation": "Under the Illinois Security Deposit Return Act, a landlord who willfully fails to comply with the return or itemization requirements may be liable for up to two times the amount of the security deposit. The tenant must show the violation was willful.",
+      "explanation": "Under the Security Deposit Return Act (765 ILCS 710/1), a landlord who refuses to supply the required itemized statement (or supplies it in bad faith) and fails to return the deposit due within the statutory time limits is liable for twice the amount of the security deposit due, plus court costs and reasonable attorney's fees. Since 2024 the Act covers all residential rental property.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -241,7 +241,7 @@
         "Allowed only for commercial leases",
         "Permitted only if the tenant has poor credit history"
       ],
-      "explanation": "Illinois does not impose a statewide cap on the amount a landlord may charge for a security deposit. However, municipalities such as Chicago may impose their own limits under local ordinances like the RLTO.",
+      "explanation": "Illinois imposes no statewide cap on the amount a landlord may charge as a security deposit. Local law can be stricter: the Cook County RTLO caps security deposits at one and one-half months' rent in suburban Cook County. The Chicago RLTO strictly regulates how deposits are held and returned but does not cap the amount.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -279,7 +279,7 @@
         "Three times the deposit without any fees",
         "One full month of rent as a flat penalty"
       ],
-      "explanation": "The Chicago RLTO imposes stricter penalties than statewide law. A landlord who violates the ordinance's security deposit provisions may owe the tenant up to two times the deposit amount plus reasonable attorney fees.",
+      "explanation": "The Chicago RLTO imposes stricter penalties than statewide law. A landlord who violates the ordinance's security deposit provisions (Section 5-12-080(a)-(e)) is liable for damages equal to two times the security deposit plus interest, and the prevailing tenant also recovers reasonable attorney's fees under Section 5-12-180.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

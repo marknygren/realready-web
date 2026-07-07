@@ -142,19 +142,19 @@
     {
       "key_topic_ref": "IL-04.2",
       "question_text": "A licensee's conduct poses imminent danger to the public. What expedited action can IDFPR take?",
-      "correct_answer": "Issue a summary suspension of the license",
+      "correct_answer": "Temporarily suspend the license without a prior hearing",
       "distractors": [
         "Place the licensee on mandatory probation only",
         "Refer the case directly to a circuit court",
         "Order the licensee to complete remedial education"
       ],
-      "explanation": "When a licensee's continued practice poses an imminent danger to the public, IDFPR has the authority to issue a summary suspension. This immediately halts the licensee's ability to practice while the full disciplinary process continues.",
+      "explanation": "Under 225 ILCS 454/20-65, the Secretary may temporarily suspend a license without a hearing, simultaneously with instituting disciplinary proceedings, when the evidence indicates the public interest, safety, or welfare imperatively requires emergency action. A hearing must then commence within 30 days after the suspension.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "disciplinary-process",
-        "summary-suspension",
+        "temporary-suspension",
         "imminent-danger"
       ]
     },
@@ -217,52 +217,52 @@
     },
     {
       "key_topic_ref": "IL-04.3",
-      "question_text": "Multiple consumers file Recovery Fund claims against the same licensee over several years. What is the total lifetime payout the Fund will make for one licensee?",
-      "correct_answer": "A maximum of $300,000 per licensee",
+      "question_text": "Three buyers are defrauded by the same licensee in a single investment scheme, and each obtains a judgment and files a Recovery Fund claim. What is the maximum total the Fund will pay out for claims arising from that one transaction or set of facts?",
+      "correct_answer": "A maximum of $300,000 in the aggregate for that transaction or set of facts",
       "distractors": [
-        "A maximum of $50,000 per licensee",
-        "A maximum of $500,000 per licensee",
-        "There is no lifetime cap per licensee"
+        "A maximum of $50,000 total, no matter how many claimants there are",
+        "A maximum of $500,000 in the aggregate for that transaction or set of facts",
+        "There is no aggregate cap as long as each individual claim is under $50,000"
       ],
-      "explanation": "The Illinois Recovery Fund imposes a lifetime aggregate cap of $300,000 per licensee. Once claims against a single licensee reach this total, no further payments will be made from the Fund regardless of additional valid judgments.",
+      "explanation": "Under 68 Ill. Adm. Code 1450.945, each aggrieved person may recover up to $50,000, but the Fund's maximum liability arising out of the activities of any one licensee in any one transaction or set of facts is $300,000, including costs of suit and attorney's fees, spread equitably among all aggrieved persons. Note this cap applies per transaction or set of facts; Illinois law does not impose a lifetime per-licensee cap.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
         "Recovery-Fund",
-        "lifetime-cap",
+        "aggregate-cap",
         "licensee-limit"
       ]
     },
     {
       "key_topic_ref": "IL-04.3",
       "question_text": "The Recovery Fund pays $40,000 on a claim against a licensee. What happens to that licensee's license?",
-      "correct_answer": "It is automatically suspended until repayment with interest",
+      "correct_answer": "It is automatically revoked until the Fund is repaid in full with interest",
       "distractors": [
         "It remains active with no additional conditions",
         "It is permanently revoked without any reinstatement option",
         "It is placed on probation for five years"
       ],
-      "explanation": "When the Recovery Fund pays a claim on behalf of a licensee, that licensee's license is automatically suspended. To regain licensure, the licensee must repay the full amount to the Fund plus interest.",
+      "explanation": "Under 225 ILCS 454/20-90(i), when the Department pays any amount from the Recovery Fund on a claim against a licensee, the license is automatically revoked upon issuance of the post-judgment order authorizing payment. No petition to restore the license may be heard until the licensee has repaid the Fund in full, plus interest at the statutory judgment rate, and a discharge in bankruptcy does not lift this repayment requirement.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "Recovery-Fund",
-        "automatic-suspension",
+        "automatic-revocation",
         "repayment"
       ]
     },
     {
       "key_topic_ref": "IL-04.3",
-      "question_text": "A broker defrauds another broker in a commercial deal. Can the defrauded broker recover from the Recovery Fund?",
-      "correct_answer": "No, claims between licensees are not covered",
+      "question_text": "A broker acting as the cooperating broker in a commercial sale is defrauded of money by the listing broker. Can the defrauded broker recover from the Real Estate Recovery Fund?",
+      "correct_answer": "No, because the defrauded broker was providing licensed activities in the transaction",
       "distractors": [
-        "Yes, if the claim is under $50,000",
-        "Yes, but only after a criminal conviction",
-        "Yes, if both brokers are licensed in Illinois"
+        "Yes, any person defrauded by a licensee may recover from the Fund",
+        "Yes, but only after the listing broker is criminally convicted",
+        "No, because commercial transactions are never covered by the Fund"
       ],
-      "explanation": "The Recovery Fund is designed to protect the public, not licensees. Claims arising from disputes between licensees are excluded from Fund coverage. The defrauded broker would need to pursue recovery through civil litigation.",
+      "explanation": "The Recovery Fund compensates 'aggrieved persons.' Under 68 Ill. Adm. Code 1450.945(b), a licensee qualifies as an aggrieved person only when the licensee was a principal to the transaction and was not providing licensed activities in it. A broker performing licensed brokerage services in the deal cannot recover from the Fund, but a licensee who was merely buying or selling for their own account could. The wrongdoing licensee must also have been acting, or apparently acting, in a licensed capacity (225 ILCS 454/20-85).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
