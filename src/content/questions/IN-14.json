@@ -88,7 +88,7 @@
         "Converted client funds by placing them in a non-client account",
         "Violated escrow rules by accepting a check rather than wire transfer"
       ],
-      "explanation": "Client funds such as earnest money must be placed in the trust account immediately upon receipt — not held in the operating account pending review. Even briefly depositing client funds in a business account constitutes commingling. The managing broker's review process must not delay proper deposit.",
+      "explanation": "Earnest money must be deposited into the trust account (or delivered to the party designated in the purchase agreement) within two banking days after acceptance (876 IAC 8-2-2(a)). Placing client funds in the operating account — even briefly, pending review — is commingling (IC 25-34.1-4-5).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -148,7 +148,7 @@
         "Release to the seller as the principal party to the transaction",
         "Donate the funds to an escrow reserve if no resolution is reached in 60 days"
       ],
-      "explanation": "Even when the purchase agreement specifies that earnest money is refundable, the broker cannot disburse unilaterally if the seller refuses to authorize release. Without mutual written authorization or a court order, the broker must hold the funds to avoid liability. Releasing to the buyer without seller consent could expose the broker to a claim from the seller.",
+      "explanation": "Even when the purchase agreement specifies that earnest money is refundable, the broker cannot disburse unilaterally if the seller refuses to authorize release. Without mutual written authorization or a court order, the broker must hold the funds to avoid liability. Releasing to the buyer without seller consent could expose the broker to a claim from the seller. Indiana also allows the broker to send all parties certified-mail notice of intended disbursement; if no mutual release is signed and no lawsuit is filed within 60 days, the broker may disburse as noticed (876 IAC 8-2-2(d)).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -193,7 +193,7 @@
         "Exposure only if the managing broker personally knew of the error",
         "Exposure only if the client files a complaint within 30 days"
       ],
-      "explanation": "Training responsibilities are part of the managing broker's supervisory obligations. Failing to establish adequate training procedures — and having that failure result in a broker error — can expose the managing broker to regulatory discipline for inadequate supervision. The absence of a formal complaint does not eliminate the risk.",
+      "explanation": "The broker company and managing broker are responsible for the actions of their associated brokers and for directing the company's business (IC 25-34.1-4-1, IC 25-34.1-4-2; 876 IAC 8-1-1), so an associated broker's disclosure error can expose the managing broker to discipline for inadequate supervision regardless of personal knowledge or whether a complaint is filed. A written training program is risk-management best practice rather than a statutory requirement, but its absence makes a supervision failure harder to defend.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -246,14 +246,14 @@
     },
     {
       "key_topic_ref": "IN-14.4",
-      "question_text": "A buyer's broker from Firm A closes a transaction with the listing broker from Firm B. The seller wants to pay the buyer's broker directly at closing. Is this permissible in Indiana?",
+      "question_text": "A buyer's broker from Firm A closes a transaction with the listing broker from Firm B. At closing, the seller wants to hand the buyer's individual broker a personal commission check, bypassing Firm A entirely. Is this permissible in Indiana?",
       "correct_answer": "No, all commissions must flow through the managing broker and firm",
       "distractors": [
         "Yes, the seller may pay any party directly with written consent",
         "Yes, if the buyer's broker's firm provides written authorization",
         "No, unless both brokers are independently licensed as managing brokers"
       ],
-      "explanation": "Indiana requires all commissions to be paid through the managing broker and firm — not directly to individual brokers. This ensures proper accounting and supervision of compensation. The seller cannot bypass this requirement by paying a broker directly, even with the firm's consent.",
+      "explanation": "Compensation for an associated broker's licensed activity is paid to the broker's company, which pays the broker under their private split agreement; a fee may never be paid directly to a broker associated with another firm (876 IAC 8-1-9). A seller may agree to compensate the buyer's brokerage, but the payment runs to the firm, not the individual licensee.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -298,7 +298,7 @@
         "The MLS offer of cooperation automatically creates a binding written agreement",
         "Indiana requires the seller to approve all cooperation agreements in writing"
       ],
-      "explanation": "While an MLS offer of cooperation provides some basis for cooperation, relying solely on verbal agreements for commission splits creates enforcement problems. Indiana recommends that inter-firm cooperation arrangements be documented in writing to avoid disputes. A verbal agreement is not automatically void, but it is hard to enforce when terms are disputed.",
+      "explanation": "MLSs no longer carry offers of compensation (since August 2024), so inter-firm compensation should be set out in a separate written agreement. A verbal split is not automatically void — the writing requirement of IC 32-21-1-10 applies to owner-signed commission contracts, not agreements between firms — but a verbal agreement is difficult to prove and enforce when the terms are disputed.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

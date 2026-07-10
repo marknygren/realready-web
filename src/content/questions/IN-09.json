@@ -28,7 +28,7 @@
         "Acceptable if the brokerage name appears on the broker's website",
         "A violation only in print media, not digital advertising"
       ],
-      "explanation": "An ad that identifies only the individual broker without disclosing the brokerage firm is a blind ad, which is prohibited in Indiana. The prohibition applies to all advertising media, including digital platforms. A separate website disclosing the firm name does not cure the deficiency in the individual ad.",
+      "explanation": "An ad that identifies only the individual broker without disclosing the brokerage firm is a blind ad, which is prohibited in Indiana (876 IAC 8-1-8). The rule applies to all media, including digital platforms. A full online listing ad must carry the firm name itself; only limited-information electronic displays (such as thumbnails, texts, and tweets) may omit it, and even then only when linked directly to a display that includes the firm name.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -70,10 +70,10 @@
       "correct_answer": "Prohibited blind ads — the firm name must appear",
       "distractors": [
         "Permitted since the managing broker IS the firm",
-        "Permitted on social media due to character limitations",
+        "Permitted if the ad includes the office street address and phone number",
         "Permitted if the broker's license number is included instead"
       ],
-      "explanation": "Even ads featuring the managing broker's personal name must include the brokerage firm name. The managing broker is not the same legal entity as the brokerage firm. Social media character limits do not exempt ads from Indiana's firm name requirement, and a license number does not substitute for the firm name.",
+      "explanation": "Even ads featuring the managing broker's personal name must include the brokerage firm name — the managing broker is not the same legal entity as the firm. An address or license number does not substitute for the firm name. Indiana's only accommodation is 876 IAC 8-1-8(c): limited-information electronic displays (thumbnails, texts, tweets) may omit the firm name if linked to a display that includes it — a standard social media ad does not qualify.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -172,13 +172,13 @@
     {
       "key_topic_ref": "IN-09.3",
       "question_text": "An Indiana seller asks their broker to accept a net listing where the broker keeps everything above $300,000. The broker should:",
-      "correct_answer": "Decline — net listings create a conflict of interest and are discouraged in Indiana",
+      "correct_answer": "Decline — Indiana rules prohibit accepting a net listing unless it states a maximum commission",
       "distractors": [
         "Accept — net listings are standard practice in Indiana",
         "Accept — net listings are only prohibited in commercial transactions",
         "Accept — the seller's right to set the price controls"
       ],
-      "explanation": "Net listings are discouraged in Indiana because they create a direct conflict of interest — the broker profits more by obtaining the highest price while negotiating the seller's baseline down. Indiana does not categorically ban net listings by statute but strongly discourages them through professional conduct standards. Seller preference does not override ethical concerns.",
+      "explanation": "Under 876 IAC 8-2-1(b), no listing providing a net return to the seller may be accepted by a broker company or an associated broker unless the agreement states a maximum commission payable to the broker company. A pure net listing with no cap — the broker keeping everything above $300,000 — cannot be accepted. The rule exists because net listings pit the broker's profit motive against the client's interest. Seller preference does not override the rule.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -193,7 +193,7 @@
         "Prohibited — referral fees must be disclosed to the referred client",
         "Permissible only if the out-of-state broker is licensed in Indiana"
       ],
-      "explanation": "Indiana allows referral fees between licensed brokers, including those licensed in other states, when the compensation flows through the managing broker. The out-of-state broker need not hold an Indiana license to receive a referral fee — they are not practicing Indiana real estate by accepting a referral. Client disclosure of the fee is not required by Indiana law.",
+      "explanation": "Indiana allows referral fees between licensed brokers, including those licensed in other states, when the compensation flows through the managing broker. The out-of-state broker need not hold an Indiana license to receive a referral fee — they are not practicing Indiana real estate by accepting a referral. Indiana imposes no general duty to disclose a broker-to-broker referral fee to the referred client, though a broker company that participates in a formal referral service must have a written agreement with the client and a written fee agreement with the cooperating brokers (876 IAC 8-1-10).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -201,14 +201,14 @@
     },
     {
       "key_topic_ref": "IN-09.3",
-      "question_text": "Why does Indiana discourage net listings as a matter of professional standards?",
+      "question_text": "Why does Indiana restrict net listings, prohibiting brokers from accepting them unless a maximum commission is stated?",
       "correct_answer": "The broker's profit motive conflicts directly with the fiduciary duty to the seller",
       "distractors": [
         "Net listings are prohibited under federal antitrust law",
         "Net listings create problems with MLS cooperation requirements",
         "Net listings are banned because they circumvent escrow requirements"
       ],
-      "explanation": "Net listings pit the broker's financial self-interest directly against the client's interest. The broker benefits by keeping everything above the net amount, creating an incentive to obtain a higher price — but paradoxically, this depends on negotiating the seller's net price low. This conflict undermines the fiduciary duty of loyalty. Federal antitrust law, MLS rules, and escrow requirements are separate topics unrelated to why net listings are discouraged.",
+      "explanation": "876 IAC 8-2-1(b) bars broker companies from accepting net listings unless the agreement caps the commission, because net listings pit the broker's financial self-interest directly against the client's interest. The broker benefits by keeping everything above the net amount, creating an incentive to obtain a higher price — but paradoxically, this depends on negotiating the seller's net price low. This conflict undermines the fiduciary duty of loyalty. Federal antitrust law, MLS rules, and escrow requirements are separate topics unrelated to why net listings are restricted.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -223,7 +223,7 @@
         "Permitted if the broker files a self-employment tax return with IREC",
         "Permitted if the compensation amount is disclosed to all parties"
       ],
-      "explanation": "Indiana requires all brokers (other than managing brokers) to be affiliated with a managing broker, and all compensation must flow through that managing broker. An unaffiliated broker-level licensee accepting direct compensation — including referral fees — is operating outside the statutory framework regardless of tax filing status or disclosure.",
+      "explanation": "An Indiana broker may hold a license unassigned to any broker company, but an unassigned broker may not perform acts requiring a license — including compensated referrals — or receive compensation for them. Practicing brokers act under the auspices of a managing broker and broker company (IC 25-34.1-1-2), and compensation flows through that company. Tax filing status and disclosure do not cure acting outside this framework.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

@@ -6,14 +6,14 @@
   "questions": [
     {
       "key_topic_ref": "IN-06.1",
-      "question_text": "Under Indiana law, the agency disclosure form provided to a consumer must include which of the following?",
+      "question_text": "Under Indiana law, the written agency disclosure a licensee must give a consumer at the beginning of an agency relationship must identify which of the following?",
       "correct_answer": "The type of agency relationship being offered",
       "distractors": [
         "The broker's commission rate",
         "A list of the broker's recent sales",
         "The broker's errors and omissions insurance carrier"
       ],
-      "explanation": "Indiana's agency disclosure form must identify the type of agency relationship being offered to the consumer — seller agency, buyer agency, landlord or tenant agency, or limited agency representing both sides with written consent under IC 25-34.1-10-12. Commission rates, sales history, and insurance information are not required elements of the agency disclosure form.",
+      "explanation": "At the beginning of an agency relationship, a licensee must disclose in writing the broker company's written office policy, which identifies and describes the agency relationships a licensee may have — seller, landlord, buyer, or tenant agency — and whether the firm permits or rejects disclosed limited agency (IC 25-34.1-10-13(a)-(b)). Commission rates, sales history, and insurance carriers are not required elements; separately, parties must be advised whether compensation will be shared with other broker companies (IC 25-34.1-10-13(c)).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -28,7 +28,7 @@
         "When the buyer submits a written offer",
         "At or before the signing of a buyer agency agreement"
       ],
-      "explanation": "Indiana requires agency disclosure before substantive discussions about a specific property — including the buyer's financial situation, which directly relates to the transaction. Waiting until the showing or the offer is too late. The disclosure must occur before the conversation moves beyond general inquiry.",
+      "explanation": "Indiana requires the written office-policy disclosure at the beginning of an agency relationship and before the potential client discloses any confidential information specific to them (IC 25-34.1-10-13(b)). A buyer's budget and financing are exactly that kind of confidential information, so disclosure must come before that discussion begins — waiting until a showing or an offer is too late.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -43,7 +43,7 @@
         "A violation only if no agency agreement is later signed",
         "Acceptable because the discussion was general in nature"
       ],
-      "explanation": "Discussing a buyer's desired features and price range for a specific property qualifies as substantive discussion requiring prior agency disclosure. Indiana's requirement applies regardless of whether the buyer later objects or signs an agreement. The broker must provide the written disclosure form before that conversation.",
+      "explanation": "A buyer's price range is confidential information specific to that buyer. IC 25-34.1-10-13(b) requires the licensee to disclose the broker company's written office policy in writing before the potential client reveals any such confidential information. The requirement applies regardless of whether the buyer later objects or signs an agency agreement.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -58,7 +58,7 @@
         "Change the agency type to whatever the consumer prefers",
         "Terminate the interaction and report the refusal to the IPLA"
       ],
-      "explanation": "Indiana requires that the broker provide and present the agency disclosure form, but the consumer's signature is not mandatory. If the consumer refuses to sign, the broker should document the refusal and may still proceed. The disclosed agency relationship type does not change based on the consumer's willingness to sign.",
+      "explanation": "IC 25-34.1-10-13(b) requires the licensee to disclose the written office policy in writing — it does not require the consumer's signature. If the consumer refuses to sign an acknowledgment, the broker should document the refusal and may continue the conversation. Note, however, that to actually represent the buyer, the broker must have a signed written buyer agency agreement with a definite expiration date (IC 25-34.1-12-2).",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -82,13 +82,13 @@
     {
       "key_topic_ref": "IN-06.2",
       "question_text": "In Indiana, when must a listing broker provide the agency disclosure form to the seller?",
-      "correct_answer": "At or before the time of listing the property",
+      "correct_answer": "At the beginning of the agency relationship, before the seller shares confidential information",
       "distractors": [
         "At the first open house after listing",
         "When the first offer is received",
         "Before the closing date is set"
       ],
-      "explanation": "For sellers, Indiana requires the agency disclosure form to be provided at or before the time the property is listed. Waiting until an open house, offer, or closing would be far too late — the seller must understand the broker's role before entering into the agency relationship.",
+      "explanation": "IC 25-34.1-10-13(b) requires the written office-policy disclosure at the beginning of an agency relationship and before the potential seller discloses any confidential information — in practice, at or before the listing appointment, since sellers typically reveal motivation and pricing then. An open house, offer, or closing would be far too late.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -103,7 +103,7 @@
         "After the showing if the buyer is interested",
         "Only if a buyer agency agreement will be signed"
       ],
-      "explanation": "Indiana requires agency disclosure to buyers before showing a property. Waiting until the buyer arrives or until after the showing is a violation. Disclosure is required regardless of whether a buyer agency agreement is ultimately signed — the requirement applies to the showing itself.",
+      "explanation": "Once the broker begins working with the buyer, an agency relationship exists by default (IC 25-34.1-10-9.5(a)), so the written office-policy disclosure is due at the beginning of that relationship and before the buyer reveals confidential information (IC 25-34.1-10-13(b)) — which means before the showing, where the buyer's budget and intentions will inevitably come up. The requirement does not depend on whether a buyer agency agreement is ultimately signed.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -111,14 +111,14 @@
     },
     {
       "key_topic_ref": "IN-06.2",
-      "question_text": "A buyer is working with an Indiana broker and has already signed a buyer agency agreement. The broker then shows the buyer a property listed by the same firm. What agency disclosure obligation exists at this point?",
-      "correct_answer": "Disclose the potential limited agency relationship before showing the in-house listing",
+      "question_text": "A buyer has signed a buyer agency agreement with an Indiana broker. The broker then wants to show the buyer a home where that same broker is also the listing agent. What must be true before the broker proceeds?",
+      "correct_answer": "Both buyer and seller must have consented in writing to the broker acting as a limited agent",
       "distractors": [
-        "No further disclosure — the buyer agency agreement already covers this",
-        "Provide a new buyer agency agreement replacing the original",
-        "Withdraw from buyer representation before showing the listing"
+        "Nothing further — in-house showings never require limited agency consent",
+        "The broker must withdraw from representing the buyer",
+        "The managing broker must take over one side of the transaction"
       ],
-      "explanation": "When a buyer's broker wants to show an in-house listing, a limited agency situation arises that requires its own disclosure and consent. The original buyer agency agreement does not cover this scenario. Both parties must be informed of the potential conflict before the broker can proceed.",
+      "explanation": "A licensee who personally represents both the seller and the buyer in the same transaction is a limited agent (IC 25-34.1-10-12.5(b)) and may act only with the written consent of all parties (IC 25-34.1-10-12(a)). Consent is presumed if each party signed a writing containing the statutory limited-agency elements when entering the agency relationship — language typically included in Indiana listing and buyer agency contracts. By contrast, if a different licensee at the same firm held the listing, it would be an in-house agency relationship and each client would remain represented only by their own licensee (IC 25-34.1-10-12.5(a)).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -133,7 +133,7 @@
         "When the buyer submits a written offer",
         "Only if the buyer later signs a buyer agency agreement"
       ],
-      "explanation": "Discussing a buyer's intent to make an offer is a substantive discussion about the specific property, triggering Indiana's agency disclosure requirement. The broker must provide the disclosure before that conversation. Open houses do not exempt a broker from disclosure obligations when the discussion becomes substantive.",
+      "explanation": "A buyer's interest in making an offer — and the price thinking that goes with it — is confidential information specific to that buyer. IC 25-34.1-10-13(b) requires the written office-policy disclosure before the potential client discloses such information, and meeting at an open house does not exempt the licensee from that requirement.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -142,13 +142,13 @@
     {
       "key_topic_ref": "IN-06.2",
       "question_text": "Under Indiana's agency disclosure timing rules, which event triggers the requirement for a seller's broker to provide the disclosure form?",
-      "correct_answer": "At or before signing the listing agreement",
+      "correct_answer": "The beginning of the agency relationship, before the seller discloses confidential information",
       "distractors": [
         "At the first buyer showing of the listed property",
         "When the seller receives the first offer",
         "When the listing is entered into the MLS"
       ],
-      "explanation": "The disclosure timing for sellers is tied to the listing relationship itself — the form must be provided at or before the listing agreement is signed. By the time the property is shown or an offer arrives, the seller and broker are already in an agency relationship and the disclosure would be untimely.",
+      "explanation": "IC 25-34.1-10-13(b) ties the written disclosure to the beginning of the agency relationship — it must precede the potential seller's disclosure of any confidential information, which in practice means at or before the listing discussion. By the first showing or first offer, the agency relationship is long since underway and the disclosure would be untimely.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -163,7 +163,7 @@
         "The Indiana Professional Licensing Agency",
         "The Indiana Association of REALTORS"
       ],
-      "explanation": "Indiana law requires the managing broker (principal broker) to maintain a written office policy on agency, not individual brokers or state agencies. This policy is the managing broker's responsibility as part of their supervisory and compliance obligations for the firm.",
+      "explanation": "Indiana law requires the managing broker to maintain a written office policy on agency (IC 25-34.1-10-13(a)), not individual brokers or state agencies. This policy is the managing broker's responsibility as part of their supervisory and compliance obligations for the firm.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -178,7 +178,7 @@
         "Post the policy only in the managing broker's office",
         "Register the policy with the IPLA before hiring"
       ],
-      "explanation": "Indiana law requires managing brokers to provide their written agency policy to all affiliated brokers, including new hires. This ensures all brokers operating under the firm understand the agency types offered and the firm's procedures. Simply posting the policy is insufficient — it must be provided directly to each broker.",
+      "explanation": "IC 25-34.1-10-13(a) makes the managing broker responsible for developing AND enforcing the broker company's written office policy on agency. A managing broker cannot enforce a policy the firm's licensees have never received, so distributing it to every affiliated broker — including new hires — is part of that duty. Individual brokers may not substitute their own agency approach, and the IPLA neither registers nor approves office policies.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -223,7 +223,7 @@
         "Only newly hired brokers need the updated policy",
         "The policy update takes effect automatically upon signing"
       ],
-      "explanation": "When an Indiana managing broker updates the office agency policy, all affiliated brokers must receive the updated version. This ensures everyone practicing under the firm is aware of authorized agency types. IPLA approval is not required for office policy changes, and limiting distribution to new hires would leave existing brokers uninformed.",
+      "explanation": "The managing broker's statutory duty is to develop and enforce the written office policy (IC 25-34.1-10-13(a)); enforcing an updated policy requires communicating it to all affiliated brokers, not just new hires. The IPLA does not review or approve office policies, and licensees also disclose the policy in writing to consumers at the beginning of each agency relationship (IC 25-34.1-10-13(b)).",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,

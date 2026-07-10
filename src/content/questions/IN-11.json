@@ -28,7 +28,7 @@
         "Reject the lower offer and notify only that buyer's broker",
         "Ask the seller's attorney to review both and advise which to see"
       ],
-      "explanation": "All offers must be presented to the seller, even when the seller has expressed a price preference. A seller's verbal instruction to filter offers does not authorize the broker to withhold offers. Written seller instructions limiting what is presented may be an exception, but a verbal preference is not.",
+      "explanation": "All offers must be presented to the seller immediately upon receipt unless the seller has explicitly directed the broker otherwise (IC 25-34.1-10-10). A verbal price preference is not a direction to withhold offers, so the broker must present both. Brokers who do accept a seller's instruction to screen offers should document it in writing for their own protection.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -36,7 +36,7 @@
     },
     {
       "key_topic_ref": "IN-11.1",
-      "question_text": "A seller accepts an offer and the listing broker sends a counteroffer to the buyer's broker. Three days pass without any response from the buyer's broker. What is the buyer's broker's obligation?",
+      "question_text": "A seller responds to a buyer's offer with a counteroffer, which the listing broker sends to the buyer's broker. Three days pass without any response from the buyer's broker. What is the buyer's broker's obligation?",
       "correct_answer": "Communicate the counteroffer to the buyer promptly and relay the response",
       "distractors": [
         "Wait for the buyer to contact the broker before conveying the counteroffer",
@@ -82,13 +82,13 @@
     {
       "key_topic_ref": "IN-11.2",
       "question_text": "A purchase agreement is accepted on Monday. When must the broker deposit the buyer's earnest money check?",
-      "correct_answer": "Within a reasonable time after acceptance of the agreement",
+      "correct_answer": "On or before the second banking day after final acceptance, unless the purchase agreement names another holder",
       "distractors": [
-        "Immediately upon receipt, before the agreement is accepted",
-        "Within exactly 24 hours of acceptance by law",
+        "Within a reasonable time, with no specific deadline",
+        "Within exactly 24 hours of acceptance",
         "On the closing date specified in the purchase agreement"
       ],
-      "explanation": "Indiana requires earnest money to be deposited within a reasonable time after the purchase agreement is accepted. The law does not specify a rigid 24-hour deadline but requires prompt handling. Holding the check until closing would be improper.",
+      "explanation": "Indiana sets a concrete deadline: under 876 IAC 8-2-2(a), earnest money must be deposited into the trust account — or delivered to the party the purchase agreement designates as holder — on or before the second banking day after final acceptance of the offer. 'Reasonable time' is not the standard, and waiting until closing would be a serious trust-account violation.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -103,7 +103,7 @@
         "The seller is entitled to the earnest money as liquidated damages by default",
         "IREC will determine disbursement through mandatory arbitration"
       ],
-      "explanation": "Indiana expects the purchase agreement to specify who holds the earnest money and the conditions under which it will be disbursed. When those terms are absent, a dispute becomes much harder to resolve and may require litigation. The broker should not disburse without clear agreement or court order.",
+      "explanation": "Indiana expects the purchase agreement to specify who holds the earnest money and the conditions under which it will be disbursed. When those terms are absent, a dispute becomes much harder to resolve and may require litigation. Absent agreement terms, the broker may hold the funds pending a mutual release or court order, or use Indiana's release process: notify all parties by certified mail of the intended distribution; if no mutual release or lawsuit within 60 days of mailing, the broker may release the funds as stated in the letter (876 IAC 8-2-2).",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -118,7 +118,7 @@
         "Return funds to the buyer because the transaction did not close",
         "Transfer funds to IREC pending resolution of the dispute"
       ],
-      "explanation": "When both parties claim earnest money, the broker must not disburse to either party without mutual written authorization or a court order. Interpleader — depositing the funds with the court — is appropriate when the parties cannot agree. Releasing to either party unilaterally exposes the broker to liability.",
+      "explanation": "When both parties claim earnest money, the broker must not disburse to either party without mutual authorization, a court order, or use of Indiana's regulatory release process — certified-mail notice to all parties, with release permitted if no mutual release or litigation occurs within 60 days of mailing (876 IAC 8-2-2). Interpleader remains an option when the parties cannot agree. Releasing to either party unilaterally exposes the broker to liability.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -148,7 +148,7 @@
         "Hold the money indefinitely until a court issues an order",
         "Split the money equally between buyer and seller to avoid dispute"
       ],
-      "explanation": "When the purchase agreement clearly specifies disbursement conditions — including that earnest money is forfeited upon buyer default — the broker may release the funds to the seller once the default is confirmed and both parties acknowledge it. The agreement's terms govern, and the broker should not deviate from them absent a dispute.",
+      "explanation": "When the purchase agreement clearly specifies disbursement on buyer default, the broker may release the funds to the seller as the agreement provides (876 IAC 8-2-2). If the buyer actively disputes the release, the broker may use the certified-mail release process: funds may be distributed as stated in the notice unless a mutual release or litigation occurs within 60 days of mailing.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -171,14 +171,14 @@
     },
     {
       "key_topic_ref": "IN-11.3",
-      "question_text": "A managing broker wants to earn interest on the firm's trust account holding buyer earnest money. What does Indiana law require before interest can accrue?",
-      "correct_answer": "Written consent from all parties whose funds are in the account",
+      "question_text": "A managing broker's firm holds buyer earnest money in an interest-bearing trust account. Under Indiana law, what happens to the interest earned?",
+      "correct_answer": "It must be held for the beneficiary whose funds are in the account — the firm cannot keep it",
       "distractors": [
-        "Approval from IREC before opening an interest-bearing trust account",
-        "Interest is never permitted on real estate trust accounts in Indiana",
-        "Notification to IREC within 30 days of establishing an interest-bearing account"
+        "The firm may keep the interest as compensation for administering the account",
+        "Interest-bearing trust accounts are prohibited in Indiana",
+        "The interest must be remitted to IREC"
       ],
-      "explanation": "Indiana permits trust accounts to be interest-bearing, but only with written consent from the clients whose funds are being held. Without that written consent, the broker cannot retain interest earned on client funds. IREC approval is not required, but client consent is mandatory.",
+      "explanation": "IC 25-34.1-4-5 permits trust accounts to be interest-bearing or noninterest-bearing, with no party-consent requirement — but any interest earned must be held for the beneficiary whose funds are in the account; the broker company can never keep it. Only with the beneficiary's written agreement may the interest instead be donated to an Indiana affordable-housing 501(c)(3) fund (876 IAC 8-2-2).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,

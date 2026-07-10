@@ -43,7 +43,7 @@
         "She may renew at reduced active status until the hours are complete",
         "Her license automatically converts to inactive status for one year"
       ],
-      "explanation": "Post-licensing education is a prerequisite for license renewal in Indiana. Failing to complete the full 30 hours means the broker cannot renew until the requirement is satisfied. There is no grace period or reduced-status option described in Indiana law for this specific deficiency.",
+      "explanation": "Post-licensing education is a prerequisite for license renewal in Indiana. Failing to complete the full 30 hours means the broker cannot renew until the requirement is satisfied. There is no grace period or reduced-status option described in Indiana law for this specific deficiency. Failure to complete postlicensing education also subjects the broker to action under IC 25-1-4. Because the 30 hours substitute for CE during the first two years, the broker cannot attest to education compliance at renewal until the hours are done.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -51,14 +51,14 @@
     },
     {
       "key_topic_ref": "IN-04.1",
-      "question_text": "A broker who held an Indiana license years ago allowed it to lapse and is now relicensing. Does she need to complete the post-licensing education requirement again?",
-      "correct_answer": "Yes, post-licensing education applies to newly licensed brokers, including those relicensing",
+      "question_text": "An Indiana broker went inactive before finishing the required 30 hours of post-licensing education. What must she do before her license can be reactivated?",
+      "correct_answer": "Complete the full 30 hours of post-licensing education before reactivation",
       "distractors": [
-        "No, post-licensing is only required the first time a license is issued",
-        "No, because she already completed it during her original licensure period",
-        "Only if her original license was inactive for more than 5 years"
+        "Complete only the 12 CE hours for the current year",
+        "Retake the state licensing examination",
+        "Nothing — post-licensing obligations end when a license goes inactive"
       ],
-      "explanation": "A broker who relicenses is treated as a new licensee for post-licensing education purposes. Prior completion during a lapsed license period does not carry forward. The requirement applies to any newly issued license, not just first-time licenses.",
+      "explanation": "Under IC 25-34.1-3-10(f), a broker who becomes inactive before completing the 30-hour post-licensing requirement must complete those hours before the license can be reactivated. The same rule applies to referral status (IC 25-34.1-3-10.5). No exam retake is required.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -178,7 +178,7 @@
         "Referral status",
         "Suspended status"
       ],
-      "explanation": "An Indiana broker who holds an active license but is not affiliated with a managing broker is in unassigned status. Inactive status means the broker has affirmatively chosen not to practice. Referral status is a separate category allowing limited referral activity. Unassigned and inactive are distinct classifications.",
+      "explanation": "An Indiana broker who holds a current license but is not affiliated with a broker company is in unassigned status. Inactive status means the broker has affirmatively chosen not to practice. Referral status is a separate category allowing limited referral activity. Unassigned and inactive are distinct classifications.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -193,7 +193,7 @@
         "Referral status",
         "Suspended status"
       ],
-      "explanation": "Inactive status allows a broker to maintain a valid license without engaging in brokerage activities. It is the appropriate choice for someone who wants to preserve future re-activation options. Unassigned means no current managing broker affiliation but the broker may still be active. Referral status allows limited referral activity.",
+      "explanation": "Inactive status allows a broker to maintain a valid license without engaging in brokerage activities. It is the appropriate choice for someone who wants to preserve future re-activation options. Unassigned means no current broker-company affiliation — the broker cannot practice and, unlike an inactive broker, must still complete CE. Referral status allows limited referral activity only.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -217,13 +217,13 @@
     {
       "key_topic_ref": "IN-04.3",
       "question_text": "An Indiana broker on inactive status wants to reactivate. Which of the following conditions must typically be met?",
-      "correct_answer": "Complete any CE hours required since going inactive and affiliate with a managing broker",
+      "correct_answer": "Complete the CE required for the current licensing period and affiliate with a broker company to resume practice",
       "distractors": [
         "Retake the state licensing examination and reapply for licensure",
         "Complete 90 hours of pre-license education and pass the exam again",
         "Obtain IREC approval at a formal hearing before reactivating the license"
       ],
-      "explanation": "To reactivate an inactive license, a broker generally must satisfy any outstanding CE requirements and affiliate with a managing broker to become active. Retaking the licensing exam or pre-license education is not required for reactivation of a lapsed-inactive license (as opposed to a fully expired one). No formal hearing is required for a routine reactivation.",
+      "explanation": "IC 25-34.1-3-10 requires an inactive broker to fulfill the CE requirements for the current licensing period (or any outstanding post-licensing hours) before applying for reactivation; back-years of CE are not owed. On reactivation the broker elects to be assigned to a broker company or unassigned; assignment is required to actually practice. No exam retake, repeat pre-license education, or hearing is required.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -292,13 +292,13 @@
     {
       "key_topic_ref": "IN-04.4",
       "question_text": "A broker affiliated with a managing broker's firm becomes a managing broker herself and opens her own company. What steps must she take regarding her license?",
-      "correct_answer": "Upgrade to managing broker license, register an organizational license, and notify IREC",
+      "correct_answer": "Upgrade to managing broker, obtain a broker company license for the new entity, and notify IREC",
       "distractors": [
         "Apply for a branch office permit under her current managing broker's license",
         "Transfer her existing broker license to managing broker status with no additional steps",
         "Notify only her clients of the firm change; IREC notification is optional"
       ],
-      "explanation": "Opening a new brokerage requires: (1) upgrading to a managing broker license, (2) registering an organizational license for the new entity, and (3) notifying IREC of leaving the prior managing broker's firm. A broker cannot simply transfer a license or operate a separate entity under another managing broker's license.",
+      "explanation": "Opening a new brokerage requires that she: (1) qualify as a managing broker (3 years of active licensure, a 24-hour management course, and the managing broker exam under IC 25-34.1-4-0.5), (2) obtain a broker company license for the new entity with herself designated as managing broker, and (3) notify the Commission of the association change (IC 25-34.1-3-6; 876 IAC 8-1-4). A broker cannot simply transfer a license or operate a separate entity under another managing broker's license.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

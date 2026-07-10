@@ -28,7 +28,7 @@
         "Yes, unless the auction is conducted on the property itself",
         "No, but only if the auctioneer does not advertise the property beforehand"
       ],
-      "explanation": "Indiana's licensing statute (IC 25-34.1-3-2) explicitly exempts licensed auctioneers conducting sales at public auction under IC 25-6.1. This is one of several statutory exemptions from the real estate licensing requirement, alongside exemptions for attorneys, government employees, and court-appointed fiduciaries.",
+      "explanation": "Indiana's licensing statute (IC 25-34.1-3-2) explicitly exempts licensed auctioneers conducting sales at public auction under IC 25-6.1. This is one of several statutory exemptions, alongside exemptions for attorneys (for acts constituting the practice of law), public officials performing acts authorized by law, and court-appointed fiduciaries.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -43,7 +43,7 @@
         "Only the individual collecting rent needs a license, not the company",
         "The company needs a license only if it also sells properties"
       ],
-      "explanation": "Property management for compensation — including advertising, renting, and managing property owned by others — is a licensed activity in Indiana. Licensing applies to the company (organizational license) and its managing broker. The scope of services does not need to include sales to trigger the requirement.",
+      "explanation": "Property management for compensation — including advertising, renting, and managing property owned by others — is a licensed activity in Indiana. Licensing applies to the company (a broker company license) and its managing broker. The scope of services does not need to include sales to trigger the requirement.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -82,13 +82,13 @@
     {
       "key_topic_ref": "IN-03.2",
       "question_text": "Which of the following individuals is exempt from Indiana's real estate licensing requirement?",
-      "correct_answer": "An attorney-in-fact acting under a power of attorney for a family member",
+      "correct_answer": "A person selling or transferring interests in cemetery lots",
       "distractors": [
         "A friend who negotiates a lease for a neighbor and accepts a gift card",
-        "A retired broker who provides unpaid advice on property values",
+        "A retired broker paid a fee to advise a neighbor on pricing her home",
         "A property manager paid to lease units in a building she does not own"
       ],
-      "explanation": "Attorneys and persons acting under a power of attorney (attorney-in-fact) on behalf of a principal are exempt from licensing for those specific acts. Receiving any form of compensation — even a gift card — for negotiating on behalf of another triggers the licensing requirement. A paid property manager for property she does not own is not exempt.",
+      "explanation": "IC 25-34.1-3-2(b) expressly exempts transfers of cemetery lots from licensure. There is no power-of-attorney exemption in Indiana, and any person who, for consideration, negotiates or advises on real estate transactions for others needs a license — so the paid advisor and the compensated helper both violate the statute, and a property manager collecting fees performs licensed activity.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -112,13 +112,13 @@
     {
       "key_topic_ref": "IN-03.2",
       "question_text": "A government employee is assigned to acquire property for a public works project through eminent domain negotiations. Does this employee need a real estate license?",
-      "correct_answer": "No, government employees acting in their official capacity are exempt",
+      "correct_answer": "No, the performance by a public official of acts authorized by law is exempt",
       "distractors": [
         "Yes, all property negotiations for compensation require a license",
         "Yes, unless the employee holds an appraisal license instead",
         "No, but only if the government agency holds an organizational license"
       ],
-      "explanation": "Government employees performing real estate activities within the scope of their official duties are exempt from Indiana's licensing requirement. The exemption is based on their governmental role, not on any separate licensing held by the agency. Appraisal licensing is a separate credential entirely.",
+      "explanation": "IC 25-34.1-3-2(b) exempts the performance by a public official of acts authorized by law. An employee acquiring property for a public works project through eminent domain negotiations is performing acts authorized by law, so no real estate license is required. The exemption rests on the official's legal authority, not on any separate licensing held by the agency. Appraisal licensing is a separate credential entirely.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -133,7 +133,7 @@
         "Yes, unless the employer holds an organizational real estate license",
         "No, but only if the manager's salary is unrelated to lease performance"
       ],
-      "explanation": "Salaried employees managing property owned by their employer are exempt from Indiana's licensing requirements. The exemption applies because the manager is not representing a third party for compensation — they are acting within an employment relationship for the property owner. The exemption is not contingent on salary structure.",
+      "explanation": "Salaried employees managing property owned by their employer are exempt from Indiana's licensing requirements. The exemption applies because the manager is not representing a third party for compensation — they are acting within an employment relationship for the property owner. The exemption requires a regular, full-time, salaried employment relationship — commission-based pay would fall outside it — but it does not additionally require the salary to be unrelated to lease performance.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -142,13 +142,13 @@
     {
       "key_topic_ref": "IN-03.2",
       "question_text": "A licensed attorney in Indiana is retained to negotiate the purchase of a commercial property for a client and is paid an attorney's fee. Does this require a real estate license in addition to the law license?",
-      "correct_answer": "No, licensed attorneys are exempt when performing real estate services for clients",
+      "correct_answer": "No, an attorney's acts that constitute the practice of law are exempt from licensure",
       "distractors": [
         "Yes, attorneys must hold both a law license and a real estate license",
         "Yes, the exemption only applies if the attorney is not compensated",
         "No, but only if the attorney co-brokers with a licensed real estate broker"
       ],
-      "explanation": "Indiana exempts licensed attorneys from the real estate licensing requirement when performing real estate activities as part of their legal practice. The exemption applies regardless of compensation. Attorneys do not need a real estate license nor must they co-broker with a licensee to qualify for the exemption.",
+      "explanation": "Indiana exempts acts of an attorney which constitute the practice of law (IC 25-34.1-3-2). Negotiating the purchase as part of legal representation falls within the exemption regardless of compensation, but an attorney who acts as a broker outside the practice of law would need a license.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -187,13 +187,13 @@
     {
       "key_topic_ref": "IN-03.3",
       "question_text": "A broker wants to become a managing broker in Indiana. What are the experience and education requirements beyond the individual broker license?",
-      "correct_answer": "2 years of active experience and 24 additional pre-license hours",
+      "correct_answer": "3 years holding an active broker license, 24 hours of broker management courses, and passing the managing broker examination",
       "distractors": [
-        "3 years of active experience and 30 additional CE hours",
+        "2 years of active experience and 24 hours of coursework, with no exam required",
         "1 year of active experience and 12 additional hours",
-        "2 years of active experience with no additional education required"
+        "3 years of active experience with no additional education or exam"
       ],
-      "explanation": "To qualify for an Indiana managing broker license, a broker must have at least 2 years of active experience and complete 24 additional hours of pre-license education specifically covering managing broker duties. Both requirements must be met — experience alone or education alone is not sufficient.",
+      "explanation": "IC 25-34.1-4-0.5, as amended effective July 1, 2025 (HB 1347), requires an active broker license held for at least 3 years, at least 24 hours of commission-approved broker management courses, and a passing score on a written managing broker examination. All three must be met.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -202,13 +202,13 @@
     {
       "key_topic_ref": "IN-03.3",
       "question_text": "A brokerage firm wants to operate as a real estate company in Indiana under a corporate name. What type of license must the company hold?",
-      "correct_answer": "Organizational license",
+      "correct_answer": "A broker company license",
       "distractors": [
         "A broker license held in the company owner's name",
         "A managing broker license registered to the company",
         "No separate license — the managing broker's license covers the company"
       ],
-      "explanation": "In Indiana, a real estate company operating under an entity name must obtain an organizational license. The individual managing broker's license does not automatically cover the business entity. Both the organization and its managing broker must be properly licensed.",
+      "explanation": "A partnership, LLC, or corporation must be licensed as a broker company and must designate a managing broker to the Commission (IC 25-34.1-3-4.3; 876 IAC 8-1). The individual managing broker's license does not cover the business entity.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

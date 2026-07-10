@@ -37,13 +37,13 @@
     {
       "key_topic_ref": "IN-12.1",
       "question_text": "A builder sells a new home directly to the buyer and provides a comprehensive builder warranty. Must the builder provide Indiana's standard Seller Disclosure form?",
-      "correct_answer": "No, new construction with a builder warranty is exempt from the disclosure requirement",
+      "correct_answer": "No — the first sale of a dwelling that has never been inhabited is exempt, regardless of warranty",
       "distractors": [
         "Yes, even new construction requires the standard disclosure form",
         "Yes, but the builder may mark all items as 'not applicable'",
         "No, but only if the warranty covers all structural components for 10 years"
       ],
-      "explanation": "New construction sold directly by a builder who provides a builder's warranty is exempt from the Indiana Seller Disclosure Act. The warranty serves as the buyer's protection in lieu of the disclosure form. The exemption applies to the builder, not to a subsequent resale of the same property.",
+      "explanation": "IC 32-21-5-1(b)(8) exempts the first sale of a never-inhabited dwelling. The builder's warranty is irrelevant to the exemption. A subsequent resale of the same home is not exempt because it is no longer a first sale of an uninhabited dwelling.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -66,14 +66,14 @@
     },
     {
       "key_topic_ref": "IN-12.1",
-      "question_text": "A seller's brother purchases the family home from her estate at below-market value. Is a Seller Disclosure form required for this family transfer?",
-      "correct_answer": "No, transfers between family members are exempt from the disclosure requirement",
+      "question_text": "A seller conveys the family home to her daughter at below-market value. Is a Seller's Residential Real Estate Sales Disclosure form required?",
+      "correct_answer": "No, transfers to a spouse or to an individual in the seller's lineal line of consanguinity are exempt",
       "distractors": [
         "Yes, family transfers require disclosure to protect the buying family member",
         "No, but only if the sale price is within 20% of appraised value",
         "Yes, the exemption applies only to court-ordered sales, not family transfers"
       ],
-      "explanation": "Indiana's Seller Disclosure Act exempts transfers between family members. The legislature recognized that family transactions often involve informal knowledge-sharing that makes the formal disclosure form less necessary. Foreclosure, probate, and new construction with warranty are other recognized exemptions.",
+      "explanation": "IC 32-21-5-1(b)(5) exempts transfers made solely to any combination of a spouse or an individual in the transferor's lineal line of consanguinity — parents, children, grandchildren. A sibling is a collateral relative, not lineal, so a sale to a brother would NOT qualify for this exemption. Price is irrelevant to the exemption, and no waiver mechanism exists.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -96,14 +96,14 @@
     },
     {
       "key_topic_ref": "IN-12.2",
-      "question_text": "A former occupant of a home had HIV/AIDS. A buyer asks the broker directly whether any prior occupants had a communicable disease. What must the broker do under Indiana law?",
-      "correct_answer": "The broker is not required to disclose and is not liable for non-disclosure",
+      "question_text": "A buyer asks a broker whether a listed home was ever the site of illegal drug manufacturing. Under Indiana law, which is true?",
+      "correct_answer": "It is a psychologically affected property fact the broker may decline to disclose — but known meth contamination must be disclosed on the seller's disclosure form",
       "distractors": [
-        "Disclose the medical history because the buyer asked directly",
-        "Provide the medical records to the buyer upon written request",
-        "Disclose only if the disease is considered a material physical defect"
+        "The broker must always volunteer all crime history of the property",
+        "The broker may deny the history even if it is true",
+        "Drug-related history may never be discussed with buyers"
       ],
-      "explanation": "IC 32-21-6 specifically provides that a property is not defective because a prior occupant had a communicable disease such as HIV/AIDS. Brokers are explicitly shielded from any obligation to disclose and from liability for not disclosing. This protection exists even when the buyer asks directly.",
+      "explanation": "IC 32-21-6-3 includes sites of illegal manufacture or distribution of a controlled substance among psychologically affected property facts: there is no duty to disclose and no liability for refusing (IC 32-21-6-5, -6), but a broker may not intentionally misrepresent the history in response to a direct inquiry. Separately, the seller's disclosure form requires disclosure of known methamphetamine manufacture/contamination that has not been certified as decontaminated (IC 32-21-5-7).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -118,7 +118,7 @@
         "Decline to answer and refer the buyer to the listing broker",
         "Note the belief as a stigma on the Seller Disclosure form"
       ],
-      "explanation": "Indiana law (IC 32-21-6) states that a property is not defective because it is believed to be haunted. Like deaths and communicable diseases, this is a psychologically affected property issue. The broker is not required to disclose and faces no liability for non-disclosure, but should advise the buyer to investigate if they want more information.",
+      "explanation": "IC 32-21-6-3's definition of psychologically affected property is non-exhaustive ('includes') and enumerates deaths on the property and crime-related events — rumored hauntings are a psychological stigma, not a physical defect. The broker is not required to disclose (IC 32-21-6-5) and is not liable for refusing (IC 32-21-6-6), but may not intentionally misrepresent facts in response to a direct inquiry. Advising the buyer to investigate is appropriate.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -148,7 +148,7 @@
         "IREC discipline for over-disclosure beyond the required minimum",
         "Civil liability to the seller for breach of confidentiality only"
       ],
-      "explanation": "IC 32-21-6 shields brokers from liability for NOT disclosing a prior occupant's communicable disease. However, voluntarily disclosing HIV/AIDS status could raise disability discrimination concerns or violate professional conduct standards. The statutory protection runs in one direction — brokers need not disclose, and volunteering such information without cause can create legal exposure.",
+      "explanation": "A prior occupant's HIV status is not a property defect, and no Indiana statute requires or protects its disclosure — Indiana removed HIV from the psychologically-affected-property statute in 2018. HIV/AIDS is a disability under the federal Fair Housing Act, so a broker who volunteers a prior occupant's status invites disability-discrimination claims and professional conduct discipline. The safe course is never to disclose occupant health information.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

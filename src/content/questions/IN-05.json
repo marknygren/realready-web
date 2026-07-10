@@ -9,7 +9,7 @@
       "question_text": "A seller's broker in Indiana owes which fiduciary duty that requires placing the client's interests above all others?",
       "correct_answer": "Loyalty",
       "distractors": ["Disclosure", "Fairness", "Accountability"],
-      "explanation": "Loyalty is the core fiduciary duty requiring a broker to place the client's interests above their own and all others. Disclosure, fairness, and accountability are duties owed to all parties, not exclusive fiduciary obligations to the client.",
+      "explanation": "Loyalty is the fiduciary duty that places the client's interests above the broker's own and all others; in Indiana it is expressed statutorily as the duty to promote the client's interests (IC 25-34.1-10-10(a)(3)). Disclosure and accounting are also duties owed to the client, but they do not by themselves require elevating the client's interests above all others; fairness/honesty is the duty owed to all parties (IC 25-34.1-10-10(c)).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -69,7 +69,7 @@
         "Duties to facilitate the transaction for all parties",
         "Disclosure duties only, no loyalty requirement"
       ],
-      "explanation": "Exclusive buyer representation in Indiana creates a full fiduciary relationship with duties of loyalty, confidentiality, disclosure, obedience, reasonable care, and accounting owed solely to the buyer. Equal duties to both parties describes dual agency or transaction broker, which are different relationships.",
+      "explanation": "Exclusive buyer representation in Indiana creates a full fiduciary relationship with duties of loyalty, confidentiality, disclosure, obedience, reasonable care, and accounting owed solely to the buyer. Equal or facilitative duties to both parties describes limited (dual) agency under IC 25-34.1-10-12 — a different relationship requiring written consent of all parties.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -152,14 +152,14 @@
     },
     {
       "key_topic_ref": "IN-05.3",
-      "question_text": "A transaction broker in Indiana owes which of the following duties to the parties?",
-      "correct_answer": "Honesty, material fact disclosure, and accounting for funds",
+      "question_text": "Under IC 25-34.1-10-9.5, an Indiana licensee working with a buyer — with no written agreement stating otherwise and not merely assisting as an unpaid customer — has what relationship with that buyer?",
+      "correct_answer": "An agency relationship — the licensee represents the buyer by default",
       "distractors": [
-        "Full fiduciary duties to both buyer and seller",
-        "Loyalty and confidentiality to the buyer only",
-        "Loyalty and confidentiality to the seller only"
+        "A transaction-broker relationship with no representation",
+        "A subagency relationship with the listing broker",
+        "No relationship until a purchase agreement is signed"
       ],
-      "explanation": "A transaction broker in Indiana does not owe fiduciary duties to either party. Instead, the transaction broker must be honest, disclose material facts affecting the property, and properly account for any funds received. This is a non-agency relationship that facilitates the transaction for both parties.",
+      "explanation": "Indiana is an agency-by-default state: under IC 25-34.1-10-9.5(a), a licensee has an agency relationship with, and represents, the individual the licensee is working with unless there is a written agreement to the contrary or the licensee is merely assisting the person as a customer without compensation. Indiana statute does not recognize 'transaction broker' status, and offers of subagency are prohibited (IC 25-34.1-10-17).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -167,14 +167,14 @@
     },
     {
       "key_topic_ref": "IN-05.3",
-      "question_text": "A buyer asks an Indiana transaction broker whether the seller is motivated to accept a low offer. The transaction broker should:",
-      "correct_answer": "Decline — the broker facilitates but does not advocate for either party",
+      "question_text": "An unrepresented buyer (a customer) asks an Indiana seller's broker whether the seller is motivated to accept a low offer. The broker should:",
+      "correct_answer": "Decline — seller motivation may not be disclosed without the seller's informed written consent",
       "distractors": [
         "Share it — the broker must be honest with all parties",
-        "Share it — no confidentiality applies in transaction brokerage",
-        "Refer the buyer to a buyer's broker for that information"
+        "Share it — customers are owed full disclosure of the seller's position",
+        "Refer the buyer to the managing broker for that information"
       ],
-      "explanation": "A transaction broker facilitates the transaction without advocating for either party's interests. While honesty is required, that duty does not include volunteering information about one party's negotiating position to the other. Transaction brokers have no fiduciary duty of loyalty but still should not actively work against either party.",
+      "explanation": "A seller's broker may not disclose what motivates the seller to sell without the seller's informed written consent (IC 25-34.1-10-10(b)(2)). The duty owed to a non-client buyer is honest treatment and not knowingly giving false information (IC 25-34.1-10-10(c)) — honesty does not require volunteering the client's confidential negotiating position.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -182,14 +182,14 @@
     },
     {
       "key_topic_ref": "IN-05.3",
-      "question_text": "Which scenario BEST illustrates appropriate conduct for an Indiana transaction broker?",
-      "correct_answer": "Disclosing a cracked foundation to the buyer without advising on how it affects price",
+      "question_text": "Which scenario BEST illustrates an Indiana seller's broker's duty to a prospective buyer who is NOT the broker's client?",
+      "correct_answer": "Disclosing a known cracked foundation to the buyer without advising the buyer on price",
       "distractors": [
         "Advising the buyer to offer below list price based on defects found",
-        "Advising the seller to reject low offers to maximize proceeds",
-        "Keeping seller's disclosures confidential from the buyer"
+        "Telling the buyer the seller will take less than the asking price",
+        "Keeping the known foundation defect confidential for the seller"
       ],
-      "explanation": "A transaction broker must disclose known material facts — like a cracked foundation — but does not advise either party on strategy or pricing. Advising either party on offer strategy crosses into agency representation. Withholding material defects from the buyer would violate the transaction broker's duty of honesty.",
+      "explanation": "A licensee representing a seller owes no duties to the buyer except honest treatment (IC 25-34.1-10-10(c)) and must disclose adverse material facts actually known about the property's physical condition that the buyer could not discover through a reasonable and timely inspection (IC 25-34.1-10-10(d)). Advising the buyer on offer strategy would breach the duty to promote the seller's interests, and revealing the seller's bottom line without written consent violates IC 25-34.1-10-10(b)(1).",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -197,14 +197,14 @@
     },
     {
       "key_topic_ref": "IN-05.3",
-      "question_text": "An Indiana transaction broker discovers during a showing that the property has unpermitted additions. The broker's duty requires:",
+      "question_text": "An Indiana seller's broker learns during the listing that the property has unpermitted additions the buyer could not discover through a reasonable and timely inspection. The broker's duty requires:",
       "correct_answer": "Disclosing the unpermitted additions to the buyer",
       "distractors": [
         "Keeping the information confidential for the seller",
         "Disclosing only if the buyer asks about permits",
         "Referring the issue to the managing broker to decide"
       ],
-      "explanation": "Despite having no fiduciary duty to either party, a transaction broker must disclose known material facts affecting the property's value or desirability. Unpermitted additions are a material fact that could affect financing, insurance, and value. The duty to disclose exists regardless of who the information might benefit.",
+      "explanation": "Even though the broker represents the seller, IC 25-34.1-10-10(d) requires a licensee to disclose to a prospective buyer adverse material facts actually known concerning the physical condition of the property that could not be discovered by a reasonable and timely inspection. Unpermitted additions can affect value, financing, and insurability. This statutory disclosure duty applies regardless of which party it benefits.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -212,14 +212,14 @@
     },
     {
       "key_topic_ref": "IN-05.3",
-      "question_text": "How does a transaction broker relationship in Indiana differ from a limited agency relationship?",
-      "correct_answer": "Transaction brokerage is non-agency; limited agency is a reduced fiduciary relationship",
+      "question_text": "How does an in-house agency relationship differ from limited agency under Indiana law?",
+      "correct_answer": "In-house agency: two licensees at the same firm each represent only their own client; limited agency: one licensee represents both parties with written consent of all parties",
       "distractors": [
-        "They are the same — both require written consent from both parties",
-        "Transaction brokerage requires more disclosure than limited agency",
-        "Limited agency is non-agency; transaction brokerage has full fiduciary duties"
+        "They are the same — both make the managing broker a dual agent",
+        "In-house agency requires written consent; limited agency does not",
+        "Limited agency is a non-agency facilitator status with no client duties"
       ],
-      "explanation": "A transaction broker operates in a non-agency capacity with statutory duties of honesty and disclosure, but no fiduciary duties. Limited agency (dual agency) is still an agency relationship — just a reduced one — where the broker owes modified fiduciary duties to both parties with required written consent from each.",
+      "explanation": "Under IC 25-34.1-10-12.5(a), when different licensees within the same broker company represent the buyer and the seller, each client is represented only by their own licensee — the managing broker represents no party unless personally in an agency relationship. Only when the same licensee personally represents both sides does the licensee become a limited agent (IC 25-34.1-10-12.5(b)), which requires the written consent of all parties (IC 25-34.1-10-12(a)).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

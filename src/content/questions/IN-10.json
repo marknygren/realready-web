@@ -10,10 +10,10 @@
       "correct_answer": "Written agreement signed by both parties",
       "distractors": [
         "Oral agreement confirmed by email",
-        "Written agreement signed by seller only",
+        "An implied agreement based on the broker's marketing efforts",
         "Verbal agreement with written follow-up within 30 days"
       ],
-      "explanation": "Indiana requires all listing agreements to be in writing and signed by both the seller and the broker to be enforceable. An oral listing agreement or one lacking the broker's signature does not satisfy the statutory requirement.",
+      "explanation": "Indiana requires listing agreements to be in writing with a definite expiration date (IC 25-34.1-12-1), and under the statute of frauds a commission contract is not valid unless it is in writing and signed by the owner (IC 32-21-1-10). In practice both parties sign the listing. An oral or implied agreement gives the broker no enforceable right to a commission.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -37,13 +37,13 @@
     {
       "key_topic_ref": "IN-10.1",
       "question_text": "A broker presents a listing agreement that contains an automatic renewal clause extending the listing indefinitely unless cancelled. How does Indiana law treat this provision?",
-      "correct_answer": "Auto-renewal clauses in listings are disfavored and should not be used",
+      "correct_answer": "Impermissible — a listing must show a definite expiration date, which an indefinite auto-renewal defeats",
       "distractors": [
         "Auto-renewal clauses are required for listings over 90 days",
         "Auto-renewal clauses are permissible with 30-day cancellation notice",
         "Auto-renewal clauses are enforceable only if initialed by both parties"
       ],
-      "explanation": "Indiana disfavors automatic renewal provisions in listing agreements because they can trap sellers in perpetual obligations without clear consent. Listings must contain a definite expiration date, and any extension should require a new signed agreement.",
+      "explanation": "Indiana law requires every listing agreement to show a definite date of expiration (IC 25-34.1-12-1; 876 IAC 8-2-1(a)). A provision extending the listing indefinitely unless cancelled leaves the agreement without a definite expiration and therefore cannot be used; any extension should be a new signed agreement with its own expiration date.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -88,7 +88,7 @@
         "Before the first showing of a property",
         "Within three business days of first contact with the buyer"
       ],
-      "explanation": "HEA 1068, effective July 1, 2024, requires brokers to have a written buyer agency agreement in place before they provide any agency services to a buyer client. This is earlier than simply before an offer — it applies as soon as the broker begins acting in an agency capacity.",
+      "explanation": "HEA 1068 (IC 25-34.1-12-2), effective July 1, 2024, requires any authority to represent a buyer to be in writing with a definite expiration date. The act sets no explicit signing deadline, but because a broker cannot lawfully represent a buyer without written authority — and Indiana treats a licensee as the agent of the person the licensee is working with (IC 25-34.1-10-9.5) — the agreement must be in place before the broker provides agency services, not merely before an offer is written.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -148,7 +148,7 @@
         "Show the home and disclose verbally that an agreement is needed",
         "Refer the buyer to another broker until an agreement is signed"
       ],
-      "explanation": "Showing a property is an agency service under HEA 1068. Indiana law requires the written buyer agency agreement to be signed before the broker provides any agency service, so the agreement must be executed before the showing occurs.",
+      "explanation": "Because the buyer is a client, the broker's authority to represent must already be in writing with a definite expiration date (IC 25-34.1-12-2), and Indiana law makes a licensee the agent of the person the licensee is working with (IC 25-34.1-10-9.5). In addition, under the MLS policy adopted after the 2024 NAR settlement, a buyer's agent must have a signed written buyer agreement before touring a home. The agreement should therefore be executed before the showing occurs.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -216,14 +216,14 @@
     },
     {
       "key_topic_ref": "IN-10.3",
-      "question_text": "A property manager collects rent and pays maintenance expenses from the same account that holds security deposits. A broker auditor notes this practice. What violation has occurred?",
+      "question_text": "A property management brokerage deposits its own earned management fees and pays the firm's office expenses from the same account that holds tenant security deposits. An auditor notes this practice. What violation has occurred?",
       "correct_answer": "Commingling — operating funds mixed with client trust funds",
       "distractors": [
         "No violation if the account is reconciled monthly",
         "Conversion — funds were used for unauthorized purposes",
         "No violation if the management agreement permits it"
       ],
-      "explanation": "Holding security deposits (client funds) in the same account as operating funds such as maintenance expenses constitutes commingling, which is prohibited. Even if no funds are misused, maintaining separate accounts is required. Conversion would occur only if client funds were actually misappropriated.",
+      "explanation": "Tenant security deposits held by a managing broker are client funds that must stay in a trust account, and IC 25-34.1-4-5(b) prohibits using a trust account for the broker company's personal or business funds. Keeping the firm's earned fees and paying firm expenses from the deposit-holding account is commingling even if no funds are misused. Conversion would occur only if client funds were actually misappropriated. (Disbursing an owner's rental income for authorized property expenses from a trust account is not commingling.)",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
