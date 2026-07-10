@@ -61,14 +61,14 @@
     },
     {
       "key_topic_ref": "KS-13.2",
-      "question_text": "A Kansas broker receives an earnest money check on Friday afternoon. By when must the deposit typically be made?",
-      "correct_answer": "The next business day",
-      "distractors": ["Within 5 business days", "Within 30 calendar days", "Before the closing date"],
-      "explanation": "Kansas requires prompt deposit of trust funds, typically by the next business day after receipt. Holding funds longer than necessary exposes the broker to discipline for improper handling of trust funds.",
+      "question_text": "A Kansas purchase agreement is signed by all parties on Monday. Absent a written agreement stating otherwise, when must the broker deposit the earnest money check?",
+      "correct_answer": "Within 5 business days after signing",
+      "distractors": ["By the next business day after receipt", "Within 30 calendar days of receipt", "Any time before the closing date"],
+      "explanation": "K.S.A. 58-3062(a)(19) makes it a prohibited act to fail to deposit an earnest money check within five business days after the purchase agreement is signed by all parties. A written agreement of all parties may set a different deposit date.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["deposit timing", "earnest money", "prompt deposit"]
+      "tags": ["deposit timing", "earnest money", "five business days"]
     },
     {
       "key_topic_ref": "KS-13.2",
@@ -97,7 +97,7 @@
       "question_text": "A broker receives earnest money but waits 10 days to deposit it because the buyer asked to delay. No written agreement exists. What is the consequence?",
       "correct_answer": "The broker violated prompt deposit requirements",
       "distractors": ["The delay is acceptable if buyer requested it", "No violation occurs until 30 days pass", "Only a violation if the seller complains"],
-      "explanation": "Without a written agreement from all parties for alternative fund handling, the broker must deposit trust funds promptly. A verbal request from the buyer alone does not authorize delayed deposit and the broker faces potential discipline.",
+      "explanation": "K.S.A. 58-3062(a)(19) requires earnest money to be deposited within five business days after the purchase agreement is signed by all parties, unless a written agreement of all parties sets a different date. The buyer's verbal request does not satisfy the written-agreement exception, so the broker faces discipline.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
