@@ -7,13 +7,13 @@
     {
       "key_topic_ref": "LA-12.1",
       "question_text": "Under Louisiana law, what is a servitude?",
-      "correct_answer": "A charge on one estate for another's benefit",
+      "correct_answer": "A charge on property benefiting an estate or person",
       "distractors": [
         "A tax lien recorded by the parish clerk",
         "A lease agreement between neighboring owners",
         "A building restriction imposed by local zoning"
       ],
-      "explanation": "A servitude in Louisiana civil law is a charge imposed on a servient estate for the benefit of a dominant estate or a person. This concept corresponds to what common-law states call an easement.",
+      "explanation": "A servitude in Louisiana civil law is a charge on property for the benefit of another. A predial servitude is a charge on a servient estate for the benefit of a dominant estate (Civil Code article 646); a personal servitude, such as usufruct, habitation, or a right of use, is a charge on a thing for the benefit of a person (article 534). Predial servitudes correspond to what common-law states call easements.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -58,7 +58,7 @@
         "Only a court order after a lawsuit",
         "Only a parish zoning ordinance"
       ],
-      "explanation": "Louisiana recognizes three ways to establish a servitude: by law (such as natural drainage rights), by agreement between parties, or by prescription (long, continuous use over a statutory period). This provides multiple paths for servitude creation.",
+      "explanation": "Under Civil Code article 654, predial servitudes may be natural (arising from the natural situation of estates, such as drainage), legal (imposed by law), or voluntary/conventional. Conventional servitudes are established by juridical act (agreement), by acquisitive prescription, or by destination of the owner. So law, agreement, and prescription are all valid paths to a servitude.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -103,7 +103,7 @@
         "Perfect lasts forever, imperfect is temporary",
         "Perfect is granted by court, imperfect by will"
       ],
-      "explanation": "A perfect usufruct involves nonconsumable things that can be used without being destroyed (like a house). An imperfect usufruct involves consumable things (like money or crops) that are consumed by use. The usufructuary of consumables must return equivalent value.",
+      "explanation": "A perfect usufruct covers nonconsumable things that can be used without destroying them, such as a house or land; an imperfect (or quasi) usufruct covers consumable things such as money or harvested crops. The current Civil Code (articles 535-538) uses the terms usufruct of nonconsumables and usufruct of consumables: the usufructuary of consumables becomes their owner and must, at termination, return things of the same quantity and quality or pay their value.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -111,14 +111,14 @@
     },
     {
       "key_topic_ref": "LA-12.2",
-      "question_text": "A husband dies, leaving his wife a usufruct over the family home. When does the usufruct terminate?",
-      "correct_answer": "At the surviving spouse's death",
+      "question_text": "A husband dies intestate, survived by his wife and their children. By law, the wife receives a usufruct over his share of the community property, including the family home. When does this legal usufruct terminate?",
+      "correct_answer": "When she dies or remarries, whichever occurs first",
       "distractors": [
         "When the children reach age 18",
-        "After 10 years from the date of death",
-        "When the mortgage is fully paid off"
+        "Ten years after the husband's death",
+        "When the mortgage on the home is paid off"
       ],
-      "explanation": "A usufruct granted to a natural person terminates at the death of the usufructuary. The surviving spouse's usufruct over the family home ends at her death, at which point full ownership consolidates in the naked owners, typically the children.",
+      "explanation": "Under Civil Code article 890, when a spouse dies survived by descendants, the surviving spouse has a legal usufruct over the decedent's share of the community property to the extent it was not disposed of by testament. This legal usufruct terminates when the surviving spouse dies or remarries, whichever occurs first. By contrast, a usufruct left to the spouse by testament lasts for life unless the will provides a shorter term (article 1499), and any usufruct in favor of a natural person ends no later than the usufructuary's death (article 607).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -187,17 +187,17 @@
     {
       "key_topic_ref": "LA-12.3",
       "question_text": "How does a right of use differ from a right of habitation in Louisiana?",
-      "correct_answer": "Right of use is broader but limited to personal needs",
+      "correct_answer": "A right of use can benefit a legal entity and is transferable",
       "distractors": [
-        "Right of use allows for commercial exploitation",
-        "Right of use is transferable to the holder's heirs",
+        "A right of use is limited to dwelling in another's house",
+        "A right of habitation may be freely leased to third parties",
         "There is no legal difference between the two rights"
       ],
-      "explanation": "The right of use is broader than habitation because it extends to property other than dwellings, but it is still limited to the personal needs of the holder and the holder's family. Neither right is transferable.",
+      "explanation": "A right of use confers a specified use of an estate less than full enjoyment (Civil Code article 639). Unlike habitation, it may be established in favor of a natural person or a legal entity (article 641), it is transferable unless prohibited by law or contract (article 643), and it is heritable unless the contrary is provided (article 644). Habitation, by contrast, is the nontransferable real right of a natural person to dwell in the house of another and may not be alienated, let, or encumbered (articles 630 and 637).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["right_of_use", "habitation", "personal_needs"]
+      "tags": ["right_of_use", "habitation", "transferable"]
     },
     {
       "key_topic_ref": "LA-12.3",
@@ -217,13 +217,13 @@
     {
       "key_topic_ref": "LA-12.3",
       "question_text": "A subdivision's building restrictions were recorded 30 years ago but have not been re-recorded or enforced. A new lot owner wants to build a structure that violates the original restrictions. Can the other owners enforce them?",
-      "correct_answer": "Possibly not, if the restrictions have prescribed",
+      "correct_answer": "Possibly not, if the restrictions prescribed or were abandoned",
       "distractors": [
         "Yes, recorded restrictions never expire",
         "Yes, any owner can enforce at any time",
         "No, restrictions expire after 10 years"
       ],
-      "explanation": "Louisiana building restrictions can prescribe (expire) after a set period if they are not enforced or re-recorded. Whether the restrictions are still enforceable depends on the specific prescriptive period and whether any actions interrupted prescription.",
+      "explanation": "Louisiana building restrictions do not lapse merely from age, and there is no re-recording requirement. But under Civil Code article 781, no enforcement action may be brought more than two years after a noticeable violation begins — the immovable involved is then freed of the violated restriction — and under article 782, restrictions terminate by abandonment of the whole plan or general abandonment of a particular restriction. If past violations went unchallenged, the owners may no longer be able to enforce the restrictions.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

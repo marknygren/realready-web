@@ -9,11 +9,11 @@
       "question_text": "What form is required for a valid sale of an immovable in Louisiana?",
       "correct_answer": "Authentic act or act under private signature",
       "distractors": [
-        "Any written agreement signed by both parties",
+        "An unsigned memorandum recorded in the conveyance records",
         "An oral agreement before two witnesses",
-        "A notarized act without acknowledgment"
+        "A handshake agreement confirmed by the listing broker"
       ],
-      "explanation": "Louisiana law requires that a sale of an immovable be made by authentic act or by act under private signature that is duly acknowledged. The act must be recorded in the parish conveyance records to affect third parties.",
+      "explanation": "Civil Code article 2440 requires that a sale of an immovable be made by authentic act or by act under private signature. (Exceptionally, under article 1839 an oral transfer is valid between the parties only if the property has actually been delivered and the transferor admits the transfer under oath.) Recording in the parish conveyance records is not required for validity between the parties, but the sale is without effect against third persons until recorded (articles 1839, 2442, 3338).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -43,7 +43,7 @@
         "Only a claim for price reduction from the parish",
         "A negligence suit against the home inspector"
       ],
-      "explanation": "Louisiana's redhibition warranty protects buyers against hidden defects. The buyer may bring a redhibition action within 1 year of discovery of the defect (and within 4 years of the sale for residential property). A seller who knew of the defect cannot contractually waive this warranty.",
+      "explanation": "Louisiana's warranty against redhibitory defects protects buyers against hidden defects that existed at the time of sale. Because this seller knew of the defect (bad faith), the buyer's redhibition action prescribes one year from the day the defect was discovered, but no later than ten years from the sale (Civil Code article 2534(B), as revised by Act 414 of 2021). A seller who knows of a defect and fails to disclose it cannot rely on a waiver or 'as is' clause to escape liability (article 2548).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -51,18 +51,18 @@
     },
     {
       "key_topic_ref": "LA-16.1",
-      "question_text": "What is the prescriptive period for a redhibition claim on a residential immovable in Louisiana?",
-      "correct_answer": "1 year from discovery, 4-year maximum",
+      "question_text": "Under Civil Code article 2534, when does a redhibition action against a seller who did NOT know of the defect prescribe?",
+      "correct_answer": "2 years from delivery or 1 year from discovery, whichever occurs first",
       "distractors": [
-        "6 months from discovery, 2-year maximum",
-        "2 years from the date of sale",
-        "3 years from discovery, 5-year maximum"
+        "4 years from delivery or 1 year from discovery, whichever occurs first",
+        "1 year from the date of the act of sale in all cases",
+        "10 years from the perfection of the contract of sale"
       ],
-      "explanation": "For residential immovable property, a redhibition action must be brought within 1 year of discovery of the defect but no later than 4 years from the date of sale. A seller who knew of the defect cannot limit or waive the warranty.",
+      "explanation": "Act 414 of 2021 rewrote Civil Code article 2534 to create uniform prescriptive periods for movables and immovables. Against a good-faith seller, a redhibition action prescribes in two years from the day of delivery or one year from the day the buyer discovered the defect, whichever occurs first (article 2534(A)). Against a seller who knew or is presumed to have known of the defect, it prescribes in one year from discovery, but never more than ten years from perfection of the sale (article 2534(B)). The former 4-year rule and the special one-year-from-delivery rule for residential immovables were repealed.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["redhibition", "prescriptive_period", "residential"]
+      "tags": ["redhibition", "prescriptive_period", "good_faith_seller"]
     },
     {
       "key_topic_ref": "LA-16.1",
@@ -133,7 +133,7 @@
         "Neither party until a court decides",
         "The seller retains ownership"
       ],
-      "explanation": "Louisiana's public records doctrine protects third parties who rely on the public records. Because the bond for deed was not recorded, the third-party purchaser who recorded in good faith prevails over the unrecorded bond for deed buyer.",
+      "explanation": "Louisiana's public records doctrine (Civil Code article 3338) makes an unrecorded instrument affecting an immovable without effect as to third persons. Because the bond for deed was not recorded, the third-party purchaser who recorded prevails — and under McDuffie v. Walker (1909), it does not matter whether the third party knew about the unrecorded contract; knowledge is not the equivalent of registry. Recording the bond for deed (R.S. 9:2941.1) would have protected the buyer.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -201,29 +201,29 @@
     },
     {
       "key_topic_ref": "LA-16.3",
-      "question_text": "What is the maximum conventional interest rate permitted for consumer loans in Louisiana?",
+      "question_text": "Under Louisiana law (R.S. 9:3500), what is the maximum rate of conventional (contract) interest that parties may generally agree to?",
       "correct_answer": "12% per annum",
       "distractors": [
         "8% per annum",
         "10% per annum",
         "15% per annum"
       ],
-      "explanation": "Louisiana's usury law limits conventional interest on consumer loans to a maximum of 12% per annum. Rates exceeding this limit may be deemed usurious, and the lender may forfeit the right to collect interest.",
+      "explanation": "R.S. 9:3500(C)(1) caps conventional interest at 12 percent per annum, and the rate must be fixed in writing. The cap is riddled with exceptions: it does not apply to consumer credit transactions as defined by the Louisiana Consumer Credit Law, which permits higher, tiered finance charges (R.S. 9:3500(C)(3)(b), (C)(4)(b)), to loans for commercial or business purposes (R.S. 9:3500(D)), or to many licensed and federally regulated lenders.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["usury", "interest_rate", "consumer_loans"]
+      "tags": ["usury", "interest_rate", "conventional_interest"]
     },
     {
       "key_topic_ref": "LA-16.3",
       "question_text": "A contractor completes major renovations on an immovable but is not paid. The contractor files a privilege. A bank holds a prior-recorded mortgage. Who has priority for the value of the improvements?",
-      "correct_answer": "The contractor's builder's privilege on improvements",
+      "correct_answer": "The bank's prior-recorded mortgage on the entire property",
       "distractors": [
-        "The bank's mortgage on the entire property",
-        "They share equally in all proceeds",
+        "The contractor's privilege, but only up to the value added by the improvements",
+        "They share pro rata in all sale proceeds",
         "The parish tax collector takes all proceeds"
       ],
-      "explanation": "A builder's privilege in Louisiana primes a prior-recorded mortgage to the extent of the enhanced value attributable to the improvements. The bank's mortgage retains priority on the pre-improvement value, but the contractor's privilege has priority on the added value.",
+      "explanation": "Under the Private Works Act (R.S. 9:4821(A)(2)), a contractor's privilege is inferior to bona fide mortgages that were effective as to third persons before the privilege arose. Because the bank's mortgage was recorded before the work began, it primes the contractor's privilege in full — current law contains no 'enhanced value' carve-out for contractors. Only privileges for ad valorem taxes and the wage privileges of laborers and employees (R.S. 9:4801(2), 9:4802(A)(2)) outrank such a prior mortgage.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -253,7 +253,7 @@
         "25% of fair market value",
         "100% of fair market value"
       ],
-      "explanation": "Louisiana assesses residential immovable property at 10% of fair market value for property tax purposes. Commercial property is assessed at 15% of fair market value. These rates are set by the Louisiana Constitution.",
+      "explanation": "The Louisiana Constitution (article VII, section 18(B)) sets assessment ratios: land and residential improvements are assessed at 10 percent of fair market value, 'other property' such as commercial buildings at 15 percent, and public service property (excluding land) at 25 percent. So an owner-occupied home is assessed at 10 percent, while a commercial building is assessed at 15 percent (its land still at 10 percent).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -261,29 +261,29 @@
     },
     {
       "key_topic_ref": "LA-16.4",
-      "question_text": "A property is sold at a tax sale in Louisiana. How long does the former owner have to redeem the property?",
+      "question_text": "Since January 1, 2026, delinquent Louisiana property taxes result in a tax lien certificate auctioned to investors. How long after the certificate is recorded does the owner have to redeem before the lienholder may sue to enforce the lien?",
       "correct_answer": "3 years from the date of recording",
       "distractors": [
-        "1 year from the date of sale",
-        "5 years from the date of sale",
-        "6 months from the date of notice"
+        "1 year from the date of the auction",
+        "5 years from the date of the auction",
+        "6 months from the delinquency notice"
       ],
-      "explanation": "Louisiana provides a 3-year redemptive period after a tax sale, running from the date the tax sale deed is recorded. During this period, the former owner may redeem the property by paying the tax sale price plus statutory penalties and interest.",
+      "explanation": "Act 774 of 2024 and Act 411 of 2025, with constitutional Amendment 4 (approved December 2024), replaced Louisiana's tax sales with tax lien certificate auctions effective January 1, 2026 — bidders now bid down the monthly interest rate (1 percent per month maximum) rather than acquiring an interest in the property. The certificate holder may sue to enforce the lien only after the later of 3 years from recordation of the certificate or 6 months after the notices required by R.S. 47:2156, and the action must be brought within 7 years of recordation (R.S. 47:2155(C)). Even after suit is filed, the owner may still extinguish the lien by paying the termination price until 30 days after being served (R.S. 47:2266.1(D)(1)), and by contradictory motion up until the judicial sale. Tax sales conducted before 2026 remain subject to the former 3-year redemptive period running from recordation of the tax sale certificate.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["tax_sale", "redemption", "property_taxes"]
+      "tags": ["tax_lien_certificate", "redemption", "property_taxes"]
     },
     {
       "key_topic_ref": "LA-16.4",
-      "question_text": "A residential lease expires and neither party gives notice. What occurs under Louisiana law?",
+      "question_text": "A residential lease with a one-year term expires, neither party gives notice, and the tenant remains in possession. What occurs under Louisiana law?",
       "correct_answer": "The lease renews month-to-month by reconduction",
       "distractors": [
         "The tenant must vacate immediately",
         "The lease renews for one full year",
         "The landlord may change terms without notice"
       ],
-      "explanation": "Louisiana law provides for tacit reconduction, which is the automatic renewal of a lease on a month-to-month basis when neither party gives notice of termination before expiration. The same terms and conditions continue.",
+      "explanation": "Under Civil Code article 2721, a fixed-term lease is reconducted when, after the term expires, the lessee remains in possession for one week without notice to vacate or other opposition from either party. Under article 2723, the reconducted lease of a residential term of a month or longer continues from month to month on the same terms and conditions — tacit reconduction is a continuation of the existing lease, not a new one-year renewal.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

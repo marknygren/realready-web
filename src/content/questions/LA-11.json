@@ -13,7 +13,7 @@
         "Immovables by declaration",
         "Incorporeal immovables"
       ],
-      "explanation": "Louisiana civil law classifies land, buildings, standing timber, and unharvested crops as immovables by nature. This is distinct from the common-law term 'real property' used in most other states.",
+      "explanation": "Land and buildings are immovables — the civil-law counterpart of common-law 'real property.' Under Civil Code articles 462 and 463, tracts of land with their component parts (buildings, other constructions permanently attached to the ground, standing timber, and unharvested crops belonging to the landowner) are immovables. 'Immovables by nature' is the traditional Louisiana label for this category.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -28,7 +28,7 @@
         "An incorporeal movable",
         "An immovable by declaration"
       ],
-      "explanation": "Under Louisiana civil law, standing timber is classified as an immovable by nature along with land, buildings, and unharvested crops. Once the timber is cut, it becomes a corporeal movable.",
+      "explanation": "Standing timber is an immovable. Under Civil Code article 463 it is a component part of the tract when it belongs to the landowner, and under article 464 it is a separate immovable when it belongs to someone else — traditionally grouped as 'immovables by nature.' Once the timber is cut, it becomes a corporeal movable.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -36,14 +36,14 @@
     },
     {
       "key_topic_ref": "LA-11.1",
-      "question_text": "An owner declares certain equipment as part of the immovable for mortgage purposes. What classification does this equipment receive?",
+      "question_text": "An owner files a declaration in the parish conveyance records that machinery and equipment placed on his commercial property are part of the immovable. What classification does this equipment receive?",
       "correct_answer": "Immovable by declaration",
       "distractors": [
         "Immovable by nature",
         "Corporeal movable with a lien",
-        "Component part of the building"
+        "Movable by anticipation"
       ],
-      "explanation": "Louisiana law allows owners to declare certain items as immovables by declaration for mortgage purposes. This classification allows movable items to be included in the mortgage on the immovable property.",
+      "explanation": "Under Civil Code article 467, the owner of an immovable (other than a private residence) may declare that machinery, appliances, and equipment placed on it for its service and improvement are deemed component parts. The declaration must be filed for registry in the parish conveyance records. Items so declared are traditionally called immovables by declaration, and they pass with any transfer or mortgage of the immovable (article 469).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -52,13 +52,13 @@
     {
       "key_topic_ref": "LA-11.1",
       "question_text": "A farmer sells a tract with a mature sugarcane crop still in the field. Under Louisiana law, who owns the unharvested crop?",
-      "correct_answer": "The buyer, as it is an immovable by nature",
+      "correct_answer": "The buyer, because the crop passes with the land",
       "distractors": [
         "The seller, who planted the crop",
         "Ownership depends on the harvest date",
         "The parish agricultural board decides"
       ],
-      "explanation": "Unharvested crops are immovables by nature under Louisiana law. When the tract is sold, the unharvested crop transfers with the land to the buyer unless the parties agree otherwise in the act of sale.",
+      "explanation": "Under Civil Code article 463, unharvested crops that belong to the landowner are component parts of the tract, and under article 469 the transfer of an immovable includes its component parts. The unharvested sugarcane therefore passes to the buyer unless the act of sale reserves it. By contrast, crops owned by someone other than the landowner — such as a farming tenant — are movables by anticipation under article 474.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -73,7 +73,7 @@
         "The seller, who retains ownership of movables",
         "The parish recorder based on filing date"
       ],
-      "explanation": "When an owner formally declares items as immovables by declaration for mortgage purposes, that classification controls. The declaration makes the generators part of the immovable for purposes of the mortgage, protecting the lender's security interest.",
+      "explanation": "Under Civil Code article 467, an owner may declare that machinery, appliances, and equipment placed on an immovable other than his private residence, for its service and improvement, are deemed its component parts; the declaration must be filed for registry in the parish conveyance records. Once filed, the generators are component parts of the immovable, and under article 469 an encumbrance of an immovable includes its component parts — so the mortgage covers them and the lender's security interest prevails.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -111,18 +111,18 @@
     },
     {
       "key_topic_ref": "LA-11.2",
-      "question_text": "What test does Louisiana law use to determine if an item is a component part of an immovable?",
-      "correct_answer": "Owner intent and whether removal causes damage",
+      "question_text": "What test does Louisiana law use to determine if an item is a component part of a building?",
+      "correct_answer": "Prevailing usage and whether removal causes substantial damage",
       "distractors": [
         "The item's original purchase price at acquisition",
         "Whether the item is listed in the MLS records",
         "The overall weight and physical size of the item"
       ],
-      "explanation": "Louisiana law considers the owner's intent regarding permanent attachment and whether removing the item would cause substantial damage to itself or the immovable. Both factors help determine if an item has become a component part.",
+      "explanation": "Under Civil Code article 466, things attached to a building are component parts if, according to prevailing usages, they serve to complete a building of the same general type — such as doors, shutters, gutters, cabinetry, and plumbing, heating, cooling, or electrical systems. Other attached things are component parts only if they cannot be removed without substantial damage to themselves or to the building. The test is objective; the owner's subjective intent is not part of it.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["component_parts", "damage_test", "owner_intent"]
+      "tags": ["component_parts", "damage_test", "prevailing_usage"]
     },
     {
       "key_topic_ref": "LA-11.2",
@@ -202,13 +202,13 @@
     {
       "key_topic_ref": "LA-11.3",
       "question_text": "The government survey system is used in which parts of Louisiana?",
-      "correct_answer": "Parts of the state, mainly northern areas",
+      "correct_answer": "Most of the state, outside old French and Spanish grants",
       "distractors": [
         "All 64 parishes use it uniformly",
         "Only the city of New Orleans uses it",
         "It is not used anywhere in Louisiana"
       ],
-      "explanation": "The government (rectangular) survey system is used in parts of Louisiana, primarily in the northern regions. Southern Louisiana, including New Orleans, relies more heavily on metes and bounds and the French arpent system.",
+      "explanation": "Louisiana is a public-land survey state. The rectangular (government) survey grid runs from the Louisiana Meridian (1807) for lands west of the Mississippi River and the St. Helena Meridian (1819) for the southeastern parishes. The grid covers most of the state but was laid around pre-existing French and Spanish colonial grants — the long, narrow arpent lots fronting the rivers and bayous of south Louisiana — which remain outside the section grid and are described by arpent or metes-and-bounds descriptions.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,

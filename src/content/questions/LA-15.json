@@ -81,14 +81,14 @@
     },
     {
       "key_topic_ref": "LA-15.2",
-      "question_text": "Under Louisiana law, when may an offeror revoke an offer?",
+      "question_text": "Under Louisiana law, when may an offeror revoke an offer that is not irrevocable?",
       "correct_answer": "At any time before acceptance",
       "distractors": [
         "Only after a 72-hour waiting period",
         "Never once communicated to the offeree",
         "Only with written notice to the offeree"
       ],
-      "explanation": "In Louisiana, an offer is generally revocable at any time before it is accepted. This differs from common law jurisdictions that may apply a mailbox rule. An offer becomes irrevocable only if supported by consideration or a declaration of irrevocability.",
+      "explanation": "Under Civil Code article 1930, an offer that is not irrevocable may be revoked any time before it is accepted; the revocation is effective when received by the offeree (article 1937), and acceptance of a revocable offer is effective when transmitted (article 1935). Unlike the common law, Louisiana makes an offer irrevocable simply because the offeror specifies a period of time for acceptance (article 1928) — no option payment or consideration is required.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -97,17 +97,17 @@
     {
       "key_topic_ref": "LA-15.2",
       "question_text": "What makes an offer irrevocable under Louisiana law?",
-      "correct_answer": "Consideration or a declaration of irrevocability",
+      "correct_answer": "The offeror specifies a period of time for acceptance",
       "distractors": [
+        "The offeree pays consideration to hold the offer open",
         "Putting the offer in writing and signing it",
-        "Communicating the offer to multiple parties",
         "Having a licensed notary witness the offer"
       ],
-      "explanation": "An offer becomes irrevocable when it is supported by consideration from the offeree or when the offeror includes an express declaration of irrevocability for a specified period. A mere written offer without these elements remains revocable.",
+      "explanation": "Under Civil Code article 1928, an offer that specifies a period of time for acceptance is irrevocable during that time. If the offeror manifests an intent to give the offeree a delay to accept without specifying a time, the offer is irrevocable for a reasonable time. Unlike the common-law option rule, no consideration is required — Louisiana contract law does not use consideration; obligations rest instead on lawful cause (articles 1966–1967).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["offers", "irrevocable", "consideration"]
+      "tags": ["offers", "irrevocable", "acceptance_period"]
     },
     {
       "key_topic_ref": "LA-15.2",
@@ -163,7 +163,7 @@
         "A unilateral cancellation of a contract",
         "A judicial modification of contract price"
       ],
-      "explanation": "Novation is the extinguishment of an existing obligation by the substitution of a new obligation. It requires the consent of all parties and the intent to extinguish the old obligation. The prior obligation is no longer enforceable.",
+      "explanation": "Novation is the extinguishment of an existing obligation by the substitution of a new one (Civil Code article 1879). The intention to extinguish the original obligation must be clear and unequivocal — novation is never presumed (article 1880). Where a new obligor is substituted, the novation may even be accomplished without the consent of the prior obligor (article 1882). Once novation occurs, the prior obligation is no longer enforceable.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -223,7 +223,7 @@
         "A conditional delegation of duties",
         "A bilateral modification of terms"
       ],
-      "explanation": "When a new obligor replaces the original obligor with the consent of all parties and the intent to release the original obligor, it is novation by substitution of the obligor. The original obligation is extinguished and replaced by the new one between A and C.",
+      "explanation": "This is novation by substitution of a new obligor — subjective novation (Civil Code article 1882). C is substituted for B, and B is discharged by the obligee. The obligee's clear intent to discharge the original obligor is essential (article 1880), but the prior obligor's own consent is not legally required (article 1882). The original obligation between A and B is extinguished and replaced by the new obligation between A and C.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

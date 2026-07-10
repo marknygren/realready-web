@@ -43,7 +43,7 @@
         "Only if LREC grants written authorization",
         "Yes, up to 10% of the account balance"
       ],
-      "explanation": "Louisiana permits a broker to keep a minimal amount of personal funds in the trust account solely to cover bank service charges and prevent the account from being closed. This limited exception does not constitute commingling when the amount is truly minimal.",
+      "explanation": "LREC rules allow a broker to keep a sum not exceeding $2,500 in each escrow or trust account, specifically identified and deposited to cover bank service charges, and usable for no other purpose (LAC 46:LXVII Section 2713). A $50 deposit to cover bank fees falls within this exception and does not constitute commingling.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -51,14 +51,14 @@
     },
     {
       "key_topic_ref": "LA-07.1",
-      "question_text": "A broker opens a trust account at a bank in Mississippi because it offers better interest rates. Is this compliant with Louisiana law?",
+      "question_text": "A broker licensed and residing in Louisiana opens a trust account at a bank in Mississippi because it offers better interest rates. Is this compliant with Louisiana law?",
       "correct_answer": "No, the trust account must be in Louisiana",
       "distractors": [
         "Yes, if the bank is FDIC-insured",
         "Yes, if within 50 miles of the Louisiana border",
         "Only if LREC approves the out-of-state bank"
       ],
-      "explanation": "Louisiana law requires trust accounts to be maintained at financial institutions within the state. There is no exception for proximity to the state border, FDIC insurance, or LREC approval. The requirement ensures the account is subject to Louisiana jurisdiction.",
+      "explanation": "LREC rules require resident brokers to maintain sales escrow, rental trust, and security deposit trust accounts in financial institutions located in Louisiana (LAC 46:LXVII Section 2701). Better rates, border proximity, and FDIC insurance make no difference. The only exception applies to non-resident brokers, who may maintain these accounts either in a Louisiana institution or in one located in their own resident state (Section 2703).",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -81,33 +81,33 @@
     },
     {
       "key_topic_ref": "LA-07.2",
-      "question_text": "By when must a Louisiana broker deposit earnest money into the trust account after receiving it?",
-      "correct_answer": "Within 24 hours or the next banking day",
+      "question_text": "Under LREC rules, when must funds received by a broker in a real estate sales transaction be deposited into the sales escrow account?",
+      "correct_answer": "When a written purchase contract has been fully executed and accepted by both parties",
       "distractors": [
-        "Within 72 hours of receiving the funds",
-        "Within 5 business days of contract execution",
-        "Before the property inspection is completed"
+        "Within 24 hours of receipt, regardless of contract status",
+        "Within 10 business days after the offer is presented",
+        "Not until the act of sale is passed"
       ],
-      "explanation": "Louisiana requires brokers to deposit earnest money and other trust funds within 24 hours of receipt or by the close of the next banking day. This strict timeline protects the funds and ensures prompt accounting.",
+      "explanation": "Louisiana sets no hour-or-day deposit deadline. LREC rules require that funds received in connection with a sale be deposited in the broker's sales escrow account when there is a written contract to buy and sell that has been fully executed and accepted by both buyer and seller (LAC 46:LXVII Section 2701). Salespersons and associate brokers must turn any funds over to their sponsoring broker as soon after receipt as practicable under R.S. 37:1455(A)(17).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["deposit_timeline", "earnest_money", "24_hours"]
+      "tags": ["deposit_trigger", "earnest_money", "escrow_account"]
     },
     {
       "key_topic_ref": "LA-07.2",
-      "question_text": "A salesperson receives a $10,000 earnest money check on Friday evening. The bank is closed Saturday and Sunday. When must the deposit be made?",
-      "correct_answer": "By close of business on Monday",
+      "question_text": "A salesperson receives a $10,000 earnest money check from a buyer. What must the salesperson do with the check?",
+      "correct_answer": "Place it in the custody of the sponsoring broker as soon as practicable",
       "distractors": [
-        "Within 24 hours regardless of bank hours",
-        "By the following Friday at the latest",
-        "Before the next scheduled property showing"
+        "Deposit it into the salesperson's own escrow account within 24 hours",
+        "Hold it personally until the act of sale",
+        "Endorse it over to the seller immediately"
       ],
-      "explanation": "The 24-hour deposit rule extends to the next banking day when the funds are received outside banking hours or on a non-banking day. Since the check was received Friday evening, the broker must deposit by close of business on Monday, the next banking day.",
+      "explanation": "R.S. 37:1455(A)(17) makes it a disciplinary violation for an associate broker or salesperson to fail to place, as soon after receipt as practicable, any deposit money entrusted to them in the custody of their licensed broker. Associate brokers are prohibited from opening and maintaining escrow or trust accounts (LAC 46:LXVII Section 2705), and salespersons must place all funds with their sponsoring broker under R.S. 37:1455(A)(17); only the sponsoring broker maintains the sales escrow account.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["deposit_timeline", "banking_day", "earnest_money"]
+      "tags": ["earnest_money", "salesperson_duties", "sponsoring_broker"]
     },
     {
       "key_topic_ref": "LA-07.2",
@@ -141,18 +141,18 @@
     },
     {
       "key_topic_ref": "LA-07.2",
-      "question_text": "A broker receives earnest money on Wednesday morning but does not deposit it until the following Monday. What is the status of this deposit?",
-      "correct_answer": "The deposit violates the 24-hour rule",
+      "question_text": "After a failed sale, the buyer and seller sign a written agreement that the earnest money deposit will go to the seller. Within how many days of that agreement must the broker disburse the funds?",
+      "correct_answer": "Within 30 days",
       "distractors": [
-        "The deposit is timely within the 5-day window",
-        "The delay is acceptable if under $5,000",
-        "The deposit is timely if a holiday fell that week"
+        "Within 24 hours",
+        "Within 10 business days",
+        "Within 60 days"
       ],
-      "explanation": "Unless a holiday or non-banking day intervened, holding the deposit from Wednesday to Monday exceeds the 24-hour/next banking day requirement. The broker has violated the deposit timeline rule and may face disciplinary action from the LREC.",
+      "explanation": "LREC rules require deposits to be disbursed within 30 days of an agreement between the principals to a transaction (LAC 46:LXVII Section 2715). The 60-day period applies to a different situation: when a dispute exists, the broker must act within 60 days of the scheduled closing or knowledge of the dispute — for example, disbursing on mutual written consent or depositing the funds into the registry of the court through a concursus proceeding (Section 2901).",
       "difficulty": "hard",
-      "cognitive_level": "analysis",
+      "cognitive_level": "application",
       "is_free": false,
-      "tags": ["deposit_timeline", "violation", "24_hour_rule"]
+      "tags": ["deposit_disbursement", "30_day_rule", "earnest_money"]
     },
     {
       "key_topic_ref": "LA-07.3",
@@ -171,18 +171,18 @@
     },
     {
       "key_topic_ref": "LA-07.3",
-      "question_text": "What is the potential consequence of conversion of trust funds in Louisiana?",
-      "correct_answer": "Immediate license revocation",
+      "question_text": "A Louisiana broker is found to have converted client trust funds to business use. What disciplinary action may the LREC take?",
+      "correct_answer": "Censure, suspension, or revocation, or a civil penalty of up to $5,000",
       "distractors": [
-        "A written warning for the first offense",
-        "A mandatory continuing education course",
-        "A 30-day suspension with probation"
+        "Only a written warning for a first offense",
+        "A criminal sentence imposed directly by the commission",
+        "Nothing, if the broker repays the funds before the hearing"
       ],
-      "explanation": "Conversion, the personal use of trust funds, is one of the most serious violations in Louisiana real estate law. It is grounds for immediate revocation of the broker's license. Unlike lesser violations, conversion typically does not result in merely a warning or suspension.",
+      "explanation": "R.S. 37:1455(A) authorizes the commission to censure a licensee, conditionally or unconditionally suspend or revoke the license, levy fines or civil penalties up to $5,000, or impose continuing education requirements for violations, including failing to account for or disburse money belonging to others and commingling. Revocation is a realistic outcome for conversion, but sanctions are discretionary — repayment does not erase the violation, and the LREC cannot impose criminal sentences.",
       "difficulty": "medium",
-      "cognitive_level": "knowledge",
+      "cognitive_level": "application",
       "is_free": false,
-      "tags": ["conversion", "revocation", "trust_funds"]
+      "tags": ["conversion", "disciplinary_action", "trust_funds"]
     },
     {
       "key_topic_ref": "LA-07.3",
@@ -193,7 +193,7 @@
         "Yes, if the amount is under $5,000",
         "Only if no client transactions are pending"
       ],
-      "explanation": "Using trust funds for any personal or business purpose, even temporarily, constitutes conversion under Louisiana law. The broker's intent to repay the funds does not matter. Conversion is grounds for immediate license revocation regardless of the amount or duration.",
+      "explanation": "Using trust funds for any personal or business purpose, even temporarily, is a violation regardless of the intent to repay. Trust account withdrawals are limited to specific enumerated purposes (LAC 46:LXVII Section 2715), and failing to account for, properly disburse, or keep separate money belonging to others is grounds for censure, suspension, or revocation and civil penalties up to $5,000 under R.S. 37:1455(A).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

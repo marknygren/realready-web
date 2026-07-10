@@ -13,7 +13,7 @@
         "Executing a listing contract",
         "Accepting a dual agency consent form"
       ],
-      "explanation": "Louisiana Section 3892 specifically provides that ministerial acts, such as showing a property or presenting an offer, do not by themselves create an agency relationship. A written agreement is required to establish agency.",
+      "explanation": "Under La. R.S. 9:3892, a licensee is presumed to be the designated agent of the person with whom he is working unless a written agreement provides for a different relationship or the licensee performs only ministerial acts. Ministerial acts are informative in nature — for example, responding to pricing inquiries, conducting an open house, or setting an appointment to view a property (R.S. 9:3891(12)) — and do not by themselves create an agency relationship. Signing a buyer agreement or listing contract creates a brokerage engagement, and a dual agency consent form establishes dual representation.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -22,17 +22,17 @@
     {
       "key_topic_ref": "LA-09.1",
       "question_text": "A licensee helps a buyer find properties and negotiates on the buyer's behalf but never signs a written agreement. What is the buyer's status?",
-      "correct_answer": "The buyer is a customer, not a client",
+      "correct_answer": "The buyer is presumed to be the licensee's client",
       "distractors": [
-        "The buyer is an implied client",
-        "The buyer is an undisclosed principal",
-        "The buyer becomes a client after negotiation"
+        "The buyer is merely a customer receiving ministerial acts",
+        "The buyer is the listing broker's client",
+        "The buyer has no status until an agreement is signed"
       ],
-      "explanation": "Under Louisiana law, a written agreement is required to establish an agency relationship. Without one, the buyer is a customer regardless of the services provided. Negotiating on someone's behalf does not automatically create agency.",
+      "explanation": "Under La. R.S. 9:3892, a licensee engaged in a real estate transaction 'shall be considered to be representing the person with whom he is working as a designated agent' unless a written agreement provides for a different relationship or the licensee performs only ministerial acts. Finding properties and negotiating go well beyond ministerial acts, so the buyer is presumed to be a client. Separately, since August 19, 2024, R.S. 37:1448.4 (Act 690 of 2024) requires a written buyer agreement when a licensee assists a buyer with the purchase of a home, so working without one also violates the license law.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["agency", "client_vs_customer", "written_agreement"]
+      "tags": ["agency", "client_vs_customer", "designated_agency"]
     },
     {
       "key_topic_ref": "LA-09.1",
@@ -43,7 +43,7 @@
         "An email confirming property showings",
         "A handshake at the first meeting"
       ],
-      "explanation": "Louisiana law requires a written agreement to establish any agency relationship. Verbal promises, emails about showings, or informal agreements are insufficient to create the legal duties that come with agency.",
+      "explanation": "Since August 19, 2024, La. R.S. 37:1448.4 (Act 690 of 2024) requires a written buyer agreement, signed by the broker and the buyer, when a licensee assists a buyer with the purchase of — or an offer to purchase — a one-to-four unit home; it must state the broker's compensation or how it will be calculated. Even without a writing, Louisiana presumes a designated agency relationship when a licensee works with a client (R.S. 9:3892); the written buyer agreement documents and defines the engagement rather than being the only way agency can arise.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -52,32 +52,32 @@
     {
       "key_topic_ref": "LA-09.1",
       "question_text": "A seller signs a listing agreement with Broker A. Broker B shows the property to a buyer without a buyer agreement. Who is Broker B's client in this transaction?",
-      "correct_answer": "Broker B has no client",
+      "correct_answer": "The buyer, as Broker B's presumed designated-agency client",
       "distractors": [
-        "The seller through Broker A's listing",
-        "The buyer through implied agency",
-        "Both the buyer and seller equally"
+        "The seller, through automatic MLS subagency",
+        "No one, because agency requires a written agreement",
+        "Both the buyer and the seller equally"
       ],
-      "explanation": "Without a written agreement, Broker B has no client. The listing agreement creates agency only between the seller and Broker A. Broker B's buyer is a customer, not a client, since no written buyer agency agreement exists.",
+      "explanation": "Under La. R.S. 9:3892, Broker B is presumed to be the designated agent of the buyer with whom he is working, even without a written buyer agreement. Subagency to the seller cannot arise from MLS membership alone — R.S. 9:3898 requires a written agreement to create subagency. Note that R.S. 37:1448.4 (Act 690 of 2024) now separately requires a written buyer agreement when a licensee assists a buyer with the purchase of a one-to-four unit home.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["agency", "client_vs_customer", "cooperating_broker"]
+      "tags": ["agency", "designated_agency", "subagency", "cooperating_broker"]
     },
     {
       "key_topic_ref": "LA-09.1",
       "question_text": "A licensee unlocks a door for a buyer, provides MLS printouts, and schedules an inspection. The buyer later claims the licensee was her agent. Under Section 3892, which factor is most decisive?",
-      "correct_answer": "Whether a written agency agreement exists",
+      "correct_answer": "Whether the licensee performed only ministerial acts",
       "distractors": [
         "The total number of services performed",
         "Whether the buyer relied on the licensee",
-        "How many properties the licensee showed"
+        "Whether the licensee expected a commission"
       ],
-      "explanation": "Under Section 3892, ministerial acts such as unlocking doors, providing printouts, and scheduling inspections do not create agency. The decisive factor is whether a written agreement was executed. Without one, no agency relationship exists regardless of the services performed.",
+      "explanation": "Under La. R.S. 9:3892, a licensee is presumed to represent the person with whom he is working as a designated agent unless a written agreement provides otherwise or the licensee performs only ministerial acts. Unlocking a door for a viewing, providing printouts, and scheduling an inspection are informative, ministerial-type acts (R.S. 9:3891(12)), so no agency arose here. The number of services and the buyer's subjective reliance are not the statutory test, and compensation is not determinative of agency (R.S. 9:3896).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["agency", "ministerial_acts", "section_3892", "written_agreement"]
+      "tags": ["agency", "ministerial_acts", "section_3892"]
     },
     {
       "key_topic_ref": "LA-09.2",
@@ -88,7 +88,7 @@
         "Only disclosure of known defects",
         "Only reasonable care in showings"
       ],
-      "explanation": "Louisiana law imposes fiduciary duties on agents toward their clients, including loyalty, confidentiality, obedience, disclosure of material facts, accounting, and reasonable care. These duties go beyond the limited obligations owed to customers.",
+      "explanation": "Louisiana replaced general civil-law agency duties with statutory duties (La. R.S. 9:3892–3893). A licensee representing a client must promote the client's best interests — loyalty — including seeking a transaction on acceptable terms, timely presenting all offers, and timely accounting, and must exercise reasonable skill and care. Confidentiality attaches to information whose disclosure could materially harm the client's position (R.S. 9:3891(6)) and survives termination (R.S. 9:3895); the LREC pamphlet also lists obeying all lawful requests. Customers, by contrast, are owed only honesty and fair dealing (R.S. 9:3894).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -103,7 +103,7 @@
         "Withdraw from the listing immediately",
         "Report only to the parish assessor"
       ],
-      "explanation": "The duty to disclose material facts overrides the duty of obedience when a client's instruction would require concealing information material to the transaction. A pending landfill is a material fact that must be disclosed to prospective buyers.",
+      "explanation": "A licensee owes even non-client buyers honesty and fair dealing (La. R.S. 9:3894), and the agency statute preserves the licensee's liability for negligent or fraudulent misrepresentation of material information (R.S. 9:3893(E)). An instruction to conceal a planned landfill is not a lawful request the agent may follow, and information cannot be kept confidential when disclosure is required by law or would reveal a serious defect (R.S. 9:3891(6)). The agent must disclose; the seller remains free to reject any offer.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

@@ -13,7 +13,7 @@
         "Claim exclusive possession of a portion",
         "Receive rent from other co-owners"
       ],
-      "explanation": "Under Louisiana Civil Code, any co-owner may demand partition of co-owned property at any time. Co-ownership is considered a temporary arrangement, and no co-owner can be forced to remain in co-ownership against his will.",
+      "explanation": "Under Civil Code article 807, no one may be compelled to hold a thing in indivision, and any co-owner may demand partition of co-owned property at any time. Co-ownership is considered a temporary arrangement. The one exception: co-owners may agree to exclude partition for a period of up to fifteen years.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -52,13 +52,13 @@
     {
       "key_topic_ref": "LA-13.1",
       "question_text": "Who may make decisions regarding the use and management of co-owned property?",
-      "correct_answer": "All co-owners by majority interest",
+      "correct_answer": "All co-owners by unanimous agreement",
       "distractors": [
-        "Only the co-owner with the largest share",
+        "Co-owners holding a majority of interests",
         "Any single co-owner acting alone",
         "A court-appointed administrator only"
       ],
-      "explanation": "Management decisions regarding co-owned property require the consent of co-owners holding a majority of ownership interests. Major alterations or improvements generally require unanimous consent of all co-owners.",
+      "explanation": "Under Civil Code article 801, the use and management of the thing held in indivision is determined by agreement of ALL the co-owners — unanimity, not majority rule. If the co-owners cannot agree and partition is not available, a court may determine use and management on petition of a co-owner (article 803). Substantial alterations or improvements likewise require the consent of all co-owners (article 804); a co-owner acting alone may only take necessary steps to preserve the property (article 800).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -66,18 +66,18 @@
     },
     {
       "key_topic_ref": "LA-13.1",
-      "question_text": "Four co-owners each hold 25% of an immovable. Two want to lease it; two oppose. A court must determine whether the lease proceeds. Which factor is decisive?",
-      "correct_answer": "Neither side holds a majority interest",
+      "question_text": "Four co-owners each hold 25% of an immovable. Two of them sign a lease of the entire property to a tenant; the other two refuse to consent. What is the effect of the lease?",
+      "correct_answer": "It is not binding without all co-owners' consent",
       "distractors": [
-        "The two opposing owners have priority",
-        "The lease automatically proceeds after 30 days",
-        "The longest-tenured co-owner decides"
+        "It is valid because 50% of the interests signed",
+        "It is valid if the rent is shared among all four owners",
+        "It is valid for one year and then lapses automatically"
       ],
-      "explanation": "A lease of the entire co-owned property requires consent of co-owners holding a majority of ownership interests. With a 50/50 split, neither side has a majority, so the matter may require judicial resolution or partition.",
+      "explanation": "Civil Code article 805 allows a co-owner to freely lease, alienate, or encumber only his own undivided share; the consent of ALL the co-owners is required for the lease, alienation, or encumbrance of the entire thing held in indivision. A lease of the whole signed by co-owners holding only half the interests does not bind the property. When co-owners are deadlocked, a co-owner may petition the court to determine use and management (article 803) or demand partition (article 807).",
       "difficulty": "hard",
-      "cognitive_level": "analysis",
+      "cognitive_level": "application",
       "is_free": false,
-      "tags": ["co-ownership", "lease", "majority_interest"]
+      "tags": ["co-ownership", "lease", "unanimous_consent"]
     },
     {
       "key_topic_ref": "LA-13.2",
@@ -141,33 +141,33 @@
     },
     {
       "key_topic_ref": "LA-13.2",
-      "question_text": "A married couple jointly purchased an immovable using separate funds belonging entirely to the wife. Without a declaration in the act of sale, how is the property classified?",
+      "question_text": "An immovable is purchased during the marriage, and neither spouse offers any proof of the source of the funds. How is the property classified?",
       "correct_answer": "Community property",
       "distractors": [
-        "Separate property of the wife",
-        "Separate property of both spouses",
-        "Half community, half separate"
+        "Separate property of each spouse in equal halves",
+        "Separate property of the managing spouse",
+        "Unclassified until a court renders judgment"
       ],
-      "explanation": "Property acquired during marriage is presumed to be community property. To rebut this presumption and keep it separate, the acquiring spouse must make a declaration in the act of acquisition that it is purchased with separate funds. Without that declaration, it is community.",
-      "difficulty": "hard",
-      "cognitive_level": "analysis",
+      "explanation": "Civil Code article 2340 presumes that things in the possession of a spouse during the community regime are community property. The presumption is rebuttable: either spouse may prove an asset is separate — for example, that it was acquired entirely with separate funds (article 2341). The pre-1980 'double declaration' rule was abolished, so no declaration in the act of acquisition is required to preserve separate status (Tullier v. Tullier, 464 So. 2d 278 (La. 1985)).",
+      "difficulty": "medium",
+      "cognitive_level": "application",
       "is_free": false,
-      "tags": ["community_property", "separate_funds", "presumption"]
+      "tags": ["community_property", "presumption", "classification"]
     },
     {
       "key_topic_ref": "LA-13.3",
       "question_text": "What form is required for a valid matrimonial agreement in Louisiana?",
-      "correct_answer": "A notarized act",
+      "correct_answer": "An authentic act or acknowledged private act",
       "distractors": [
-        "A private written agreement signed by both",
+        "A private writing without acknowledgment",
         "An oral agreement before two witnesses",
-        "A court-approved judicial order"
+        "A court judgment alone, with no written agreement"
       ],
-      "explanation": "Louisiana requires that matrimonial agreements be made by act passed before a notary. This ensures formality and authenticity for agreements that modify the legal regime of community property between spouses.",
+      "explanation": "Civil Code article 2331 requires that a matrimonial agreement be made by authentic act (executed before a notary and two witnesses, article 1833) or by an act under private signature duly acknowledged by the spouses. In addition, spouses who wish to modify or terminate their regime during the marriage generally must file a joint petition and obtain a court finding that the change serves their best interests (article 2329); court approval is not required before marriage or during the first year after the spouses move to and acquire a domicile in Louisiana.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["matrimonial_agreement", "notarized", "formalities"]
+      "tags": ["matrimonial_agreement", "authentic_act", "formalities"]
     },
     {
       "key_topic_ref": "LA-13.3",
@@ -178,7 +178,7 @@
         "Retroactively to the date of marriage",
         "After 90 days from execution"
       ],
-      "explanation": "A matrimonial agreement executed during marriage is effective between the spouses from execution, but it is effective toward third parties only when filed for registry in the parish where the spouses are domiciled and where any affected immovables are located.",
+      "explanation": "A matrimonial agreement is effective toward third persons as to immovables only when filed for registry in the conveyance records of the parish where the immovable is situated, and as to movables when filed in the parish or parishes where the spouses are domiciled (Civil Code article 2332). Note that to modify or terminate their regime during marriage the spouses generally must first obtain court approval on joint petition (article 2329).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -216,18 +216,18 @@
     },
     {
       "key_topic_ref": "LA-13.3",
-      "question_text": "An LLC operating agreement allows one member to sell the LLC's immovable. Louisiana law requires what additional step?",
-      "correct_answer": "Authority must appear in a recorded act",
+      "question_text": "A member of an LLC plans to sign an act of sale conveying the LLC's immovable. What does Louisiana law provide about the member's authority?",
+      "correct_answer": "Selling immovables is outside the default mandate",
       "distractors": [
-        "All members must sign the deed personally",
+        "Any member may always convey LLC immovables alone",
         "A parish court must approve the transfer",
-        "The LLC must be converted to a corporation"
+        "The LLC must first convert to a corporation"
       ],
-      "explanation": "When an LLC sells immovable property, the person signing must have proper authority. Louisiana practice requires that the authority of the signing member or manager be evidenced in a recorded document so third parties can verify the chain of title.",
+      "explanation": "Under La. R.S. 12:1317(A), a member or manager is a mandatary of the LLC for all matters in the ordinary course of its business EXCEPT the alienation, lease, or encumbrance of its immovables. Authority to sell an immovable must therefore come from the articles of organization or a specific authorization, and third persons may rely on a certificate of a member or manager establishing that authority (R.S. 12:1317(C)). In practice, the certificate or authorization is recorded with the act of sale so the authority appears in the public records.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["entity_ownership", "LLC", "authority", "recordation"]
+      "tags": ["entity_ownership", "LLC", "authority", "mandate"]
     }
   ]
 }

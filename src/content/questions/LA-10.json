@@ -22,13 +22,13 @@
     {
       "key_topic_ref": "LA-10.1",
       "question_text": "A dual agent learns the seller will accept $20,000 less than the list price. May the agent share this with the buyer?",
-      "correct_answer": "No, acceptable price is confidential",
+      "correct_answer": "No, not without the seller's permission",
       "distractors": [
         "Yes, both parties deserve equal information",
         "Yes, if it helps close the transaction",
-        "Only if the seller gives verbal permission"
+        "Yes, fair dealing requires disclosing it"
       ],
-      "explanation": "Even in a dual agency relationship, the agent cannot disclose one party's acceptable price to the other. Each party's pricing information remains confidential. The dual agent must treat both parties fairly without advocating for either one.",
+      "explanation": "Under La. R.S. 9:3897(B)(2), a dual agent shall not disclose 'the price the seller… will take other than the listing price without the permission of the seller.' Unless the seller permits disclosure, the dual agent must keep the seller's bottom-line price confidential and must remain impartial between the clients.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -43,7 +43,7 @@
         "Cannot collect a commission from either party",
         "Cannot prepare any transaction documents"
       ],
-      "explanation": "A dual agent in Louisiana must remain neutral and cannot advocate for one party at the expense of the other. The agent can still show property, collect commissions, and prepare documents, but must do so impartially.",
+      "explanation": "A dual agent must treat all clients honestly but may not favor either one: the LREC Disclosure and Consent to Dual Agency form states that any agreement on price and terms results from negotiations 'between the clients acting in their own best interests and on their own behalf,' and R.S. 9:3897(B) bars the dual agent from revealing either client's confidential or price information. The dual agent may still show the property, collect a commission, and prepare transaction documents impartially.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -81,74 +81,74 @@
     },
     {
       "key_topic_ref": "LA-10.2",
-      "question_text": "In designated agency, who assigns individual agents to each party?",
-      "correct_answer": "The broker",
+      "question_text": "Under Louisiana law, how does a designated agency relationship arise?",
+      "correct_answer": "It is presumed by law whenever a licensee works with a client",
       "distractors": [
-        "The buyer and seller jointly",
-        "The Louisiana Real Estate Commission",
-        "Each salesperson volunteers independently"
+        "The broker must execute a designation form for each transaction",
+        "The parties must jointly appoint each agent in writing",
+        "The Louisiana Real Estate Commission assigns the designation"
       ],
-      "explanation": "In designated agency, the broker designates individual salespersons within the firm to represent different parties in the same transaction. The broker makes the assignment, not the parties or the commission.",
+      "explanation": "'Designated agency' is 'the agency relationship that shall be presumed to exist when a licensee engaged in any real estate transaction… is working with a client, unless there is a written agreement providing for a different relationship' (La. R.S. 9:3891(8); see also R.S. 9:3892). No designation paperwork is required — the relationship arises by operation of law, and a written agreement is needed only to create a different relationship. Separately, R.S. 37:1448.4 (Act 690 of 2024) requires a written buyer agreement when a licensee assists a buyer purchasing a one-to-four unit residential home, but that requirement governs the brokerage engagement rather than how the agency relationship arises.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["designated_agency", "broker", "assignment"]
+      "tags": ["designated_agency", "presumption", "section_3892"]
     },
     {
       "key_topic_ref": "LA-10.2",
       "question_text": "What level of duty do designated agents owe their respective clients?",
-      "correct_answer": "Full fiduciary duties",
+      "correct_answer": "The full statutory duties owed to any client",
       "distractors": [
         "Only honesty and fair dealing",
         "Limited duties similar to a customer",
         "Duties reduced by the dual agency consent"
       ],
-      "explanation": "Designated agents owe full fiduciary duties to their respective clients, including loyalty, confidentiality, obedience, disclosure, accounting, and reasonable care. This is a key advantage of designated agency over traditional dual agency.",
+      "explanation": "A designated agent owes his client the full duties of La. R.S. 9:3893 — performing the brokerage agreement, promoting the client's best interests (seeking acceptable terms, timely presenting all offers, timely accounting), and exercising reasonable skill and care — plus confidentiality (R.S. 9:3891(6), 9:3895). Those duties are undiminished by the fact that another licensee in the same firm represents the other party. Honesty and fair dealing alone is the customer standard (R.S. 9:3894).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["designated_agency", "fiduciary_duties", "full_duties"]
+      "tags": ["designated_agency", "statutory_duties", "client_duties"]
     },
     {
       "key_topic_ref": "LA-10.2",
-      "question_text": "In a designated agency arrangement, what is the broker's role?",
-      "correct_answer": "The broker remains a dual agent",
+      "question_text": "In a Louisiana in-house sale, one sponsored licensee works with the seller and another sponsored licensee works with the buyer. What is each licensee's agency status?",
+      "correct_answer": "Each licensee is the designated agent of his own client only",
       "distractors": [
-        "The broker represents the seller only",
-        "The broker has no role in the transaction",
-        "The broker becomes a neutral facilitator"
+        "Both licensees are dual agents requiring written consent",
+        "Both licensees automatically represent the seller",
+        "Neither licensee represents anyone until the broker assigns agency"
       ],
-      "explanation": "While individual salespersons are designated to represent each party with full fiduciary duties, the supervising broker remains a dual agent in the transaction. The broker must maintain confidentiality for both parties.",
+      "explanation": "Under La. R.S. 9:3891(8) and 9:3892, each licensee is presumed to be the designated agent of the client with whom he is working. Dual agency arises under R.S. 9:3897 only when the same licensee works with both buyer and seller in one transaction, so two different designated agents in one brokerage do not create a dual agency. Each agent keeps his own client's confidences: a designated agent may share confidential information with his broker only to seek advice or assistance for the client's benefit (R.S. 9:3891(6)(c)), and the LREC disclosure form advises clients that no other licensees in the office work for them. Even where a dual agency does exist, R.S. 9:3897(E) bars imputation of knowledge among the clients, brokers, and affiliated licensees.",
       "difficulty": "medium",
-      "cognitive_level": "knowledge",
+      "cognitive_level": "application",
       "is_free": false,
-      "tags": ["designated_agency", "broker_role", "dual_agent"]
+      "tags": ["designated_agency", "in_house_transaction", "dual_agency"]
     },
     {
       "key_topic_ref": "LA-10.2",
-      "question_text": "In designated agency, what happens to the broker's role when two agents in the firm represent opposing parties?",
-      "correct_answer": "The broker becomes a dual agent",
+      "question_text": "Two salespersons sponsored by the same broker represent the buyer and the seller in the same sale. When would a dual agency requiring written consent arise?",
+      "correct_answer": "Only if one licensee ends up working with both the buyer and the seller",
       "distractors": [
-        "The broker represents the seller only",
-        "The broker withdraws from the transaction",
-        "The broker represents neither party"
+        "Automatically, because both brokerage agreements are with the same broker",
+        "Whenever the broker supervises both sides of the transaction",
+        "Whenever both clients attend the same closing"
       ],
-      "explanation": "In designated agency, the individual salespersons owe full fiduciary duties to their respective clients, but the supervising broker becomes a dual agent. Both parties must still consent to this broker-level dual agency arrangement.",
+      "explanation": "Dual agency is 'an agency relationship in which a licensee is working with both buyer and seller… in the same transaction' (La. R.S. 9:3891(10)), so two different designated agents in one brokerage do not create a dual agency. If one licensee does act for both parties, R.S. 9:3897(A) requires the informed written consent of all clients — consent is presumed when a client signs the commission-approved dual agency disclosure form — obtained at the time the brokerage agreement is entered into or at any time before the licensee acts as a dual agent (R.S. 9:3897(C)); LAC 46:LXVII.3705(C) requires the form to be signed by all clients and retained for five years. Even where a dual agency exists, R.S. 9:3897(E) bars imputation of knowledge among the clients, brokers, and affiliated licensees.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["designated_agency", "dual_consent", "broker"]
+      "tags": ["designated_agency", "dual_agency", "written_consent"]
     },
     {
       "key_topic_ref": "LA-10.2",
-      "question_text": "Agent A is designated to represent the seller and Agent B the buyer in the same brokerage. Agent A learns the seller is in foreclosure. May Agent A share this with Agent B?",
+      "question_text": "Agent A is designated to represent the seller and Agent B the buyer in the same brokerage. Agent A learns the seller has missed two mortgage payments and fears foreclosure. May Agent A share this with Agent B?",
       "correct_answer": "No, each designated agent keeps client confidences",
       "distractors": [
         "Yes, agents in the same firm share information",
-        "Yes, foreclosure is public record",
+        "Yes, financial distress must be disclosed to all parties",
         "Only if the broker approves disclosure"
       ],
-      "explanation": "Designated agents owe full fiduciary duties including confidentiality to their respective clients. Agent A cannot share the seller's foreclosure situation with Agent B, even though they work for the same broker. Each agent must protect their client's confidential information.",
+      "explanation": "The seller's financial distress is confidential information because its disclosure could materially harm the seller's bargaining position (La. R.S. 9:3891(6)). A designated agent may share confidential information with his broker only to seek advice or assistance for the client's benefit (R.S. 9:3891(6)(c)). Agent A may not reveal it to Agent B — or the buyer — without the seller's permission.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -201,29 +201,29 @@
     },
     {
       "key_topic_ref": "LA-10.3",
-      "question_text": "A client may be vicariously liable for the acts of their agent under what condition?",
-      "correct_answer": "When the agent acts within the scope of agency",
+      "question_text": "Under Louisiana law, when is a client liable for the acts or omissions of the client's real estate licensee?",
+      "correct_answer": "Never for the licensee's own acts — the statute shields clients from vicarious liability",
       "distractors": [
-        "Only when the agent commits fraud",
-        "Only when the client is present at closing",
-        "Never, the agent bears all liability"
+        "Whenever the licensee acts within the scope of the agency",
+        "Only if the licensee commits fraud",
+        "Only if the client is present when the act occurs"
       ],
-      "explanation": "Under Louisiana law, a client may be held vicariously liable for the acts of their agent when those acts fall within the scope of the agency relationship. This means clients should understand the potential legal consequences of authorizing an agent to act on their behalf.",
+      "explanation": "La. R.S. 9:3899 provides that 'a client shall not be liable for the acts or omissions of a licensee in providing brokerage services for or on behalf of the client.' The statute contains no exceptions — unlike common-law vicarious liability, Louisiana's agency statute shields clients from responsibility for their licensee's conduct. Clients remain responsible for their own acts, statements, and contractual obligations.",
       "difficulty": "medium",
-      "cognitive_level": "application",
+      "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["vicarious_liability", "scope_of_agency", "client_liability"]
+      "tags": ["vicarious_liability", "section_3899", "client_liability"]
     },
     {
       "key_topic_ref": "LA-10.3",
       "question_text": "A seller's agent, while showing property, makes unauthorized verbal guarantees about the structural condition. The buyer relies on these statements and suffers a loss. Who may bear liability?",
-      "correct_answer": "Both the agent and potentially the seller",
+      "correct_answer": "Only the licensee — the seller is not vicariously liable",
       "distractors": [
-        "Only the agent who made the statements",
-        "Only the buyer for not getting an inspection",
-        "No one if the statements were verbal"
+        "Both the licensee and the seller, under vicarious liability",
+        "Only the buyer, for failing to get an inspection",
+        "No one, because the statements were verbal"
       ],
-      "explanation": "The agent is directly liable for unauthorized misrepresentations. The seller may also be vicariously liable if the agent's statements, though unauthorized, were made within the general scope of the agency. Vicarious liability can extend to a principal for an agent's acts performed in connection with agency duties.",
+      "explanation": "The licensee is responsible for his own misrepresentations — the agency statute preserves liability for negligent or fraudulent misrepresentation of material information (La. R.S. 9:3893(E)) — but R.S. 9:3899 provides that 'a client shall not be liable for the acts or omissions of a licensee in providing brokerage services for or on behalf of the client.' The seller therefore is not vicariously liable for the agent's unauthorized statements, although a seller can still be liable for his own conduct, such as a redhibition claim for hidden defects he knew about.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
