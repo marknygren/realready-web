@@ -52,13 +52,13 @@
     {
       "key_topic_ref": "IA-06.1",
       "question_text": "An Iowa trust account is labeled 'Operating Account' at the bank. Does this comply with Iowa requirements?",
-      "correct_answer": "No, it must be designated trust or escrow",
+      "correct_answer": "No, the word 'trust' must be in the account name",
       "distractors": [
         "Yes, the label does not matter legally",
         "Yes, if the broker tracks funds separately",
         "Only if the bank knows its purpose"
       ],
-      "explanation": "Iowa requires the trust account to be specifically designated as a 'trust' or 'escrow' account at the financial institution. An account labeled 'Operating Account' does not meet this requirement, even if the broker internally tracks the funds separately.",
+      "explanation": "Iowa commission rules (193E-13.1) require trust funds to be deposited in an identified trust account with the word 'trust' in the name of the account at the depository. An account titled 'Operating Account' does not meet this requirement even if the broker internally tracks the funds separately, and the rules separately prohibit using the trust account as a business operating account.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -101,9 +101,9 @@
       "distractors": [
         "No, any personal funds constitute commingling",
         "Only with written Commission approval",
-        "Yes, up to $1,000 is always permitted"
+        "Yes, personal funds may be kept for any purpose"
       ],
-      "explanation": "Iowa trust account rules prohibit commingling but allow a broker to maintain nominal personal funds in the trust account to cover bank service charges. This small amount prevents the account from falling below zero due to fees. There is no specific dollar cap like $1,000.",
+      "explanation": "Iowa Code 543B.46(4) prohibits commingling but allows a broker to deposit and keep up to $1,000 of personal funds in the trust account, specifically identified and deposited to cover bank service charges. The $200 deposit falls within this allowance. Personal funds may not be kept for any other purpose, and no Commission approval is required.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -116,9 +116,9 @@
       "distractors": [
         "Return the funds to the buyer automatically",
         "Split the funds equally between parties",
-        "Hold indefinitely until parties agree"
+        "Deduct the broker's earned commission and release the balance"
       ],
-      "explanation": "When parties dispute earnest money and will not provide written consent for disbursement, Iowa law provides for interpleader. The broker files an interpleader action, depositing the funds with the court and allowing a judge to determine proper distribution.",
+      "explanation": "Under commission rule 193E-13.1(7), a broker holding disputed earnest money must continue to hold it until a written release from all parties, a final court judgment, a binding dispute-resolution decision, or the filing of a civil action. When the broker in good faith believes the parties will not agree, the broker may file an interpleader action and pay the deposit into court. The broker may never keep any portion of the deposit for a commission, and may not split or automatically return the funds without authority.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -220,10 +220,10 @@
       "correct_answer": "Violation of the 5-year retention requirement",
       "distractors": [
         "No violation since 3 years have passed",
-        "Acceptable if digital copies were backed up",
+        "Acceptable if the bank retains the account statements",
         "Minor infraction with no disciplinary action"
       ],
-      "explanation": "Rule 193E-13.5 requires 5-year retention of trust account records after closing. Destroying records from a transaction that closed only 4 years ago violates this rule and can result in disciplinary action by the Commission.",
+      "explanation": "Iowa commission rules require brokers to retain all trust account records and the complete transaction file for at least five years after the date of closing. Destroying records from a transaction that closed only 4 years ago violates the rule and can result in disciplinary action. Records may lawfully be kept as legible electronic copies in place of paper originals, but the records themselves must be retained.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

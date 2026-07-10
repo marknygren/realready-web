@@ -22,13 +22,13 @@
     {
       "key_topic_ref": "IA-05.1",
       "question_text": "Which duty does an Iowa licensee owe to ALL parties in a transaction, not just clients?",
-      "correct_answer": "Honesty and fair dealing",
+      "correct_answer": "Honesty and good faith",
       "distractors": [
-        "Loyalty and obedience",
+        "Placing the party's interests first",
         "Confidentiality of motivations",
-        "Full accounting of all funds"
+        "Advice on price and negotiation strategy"
       ],
-      "explanation": "Iowa law requires licensees to treat all parties with honesty, fair dealing, and to disclose material facts and avoid misrepresentation. The fiduciary duties of loyalty, obedience, confidentiality, and accounting are owed specifically to clients, not to all parties.",
+      "explanation": "Iowa Code 543B.56(1) lists the duties owed to all parties: honesty and good faith, disclosure of known material adverse facts, and accounting for any party's property in the licensee's possession. Placing a client's interests first, keeping motivations confidential, and giving negotiation advice are client-level duties under 543B.56(2) and the commission's agency rules.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -51,18 +51,18 @@
     },
     {
       "key_topic_ref": "IA-05.1",
-      "question_text": "Under Iowa Admin Code 193E, a subagent's primary fiduciary duties run to which party?",
-      "correct_answer": "The seller through the listing broker",
+      "question_text": "Under Iowa Code 543B.59, a designated broker appoints different affiliated licensees to represent the seller and the buyer in the same in-house transaction. What is each appointed agent's role?",
+      "correct_answer": "Each represents only their own client, to the exclusion of other licensees in the firm",
       "distractors": [
-        "The buyer who is being shown property",
-        "Both buyer and seller equally",
-        "The cooperating broker only"
+        "Both automatically become dual agents for both parties",
+        "Each owes fiduciary duties to both buyer and seller",
+        "The appointment makes the brokerage a subagent of the seller"
       ],
-      "explanation": "A subagent in Iowa works under the listing broker and owes fiduciary duties to the seller, even though the subagent may be the one showing property to the buyer. The subagent must still treat the buyer honestly, but loyalty and confidentiality run to the seller.",
+      "explanation": "Iowa Code 543B.59 lets a designated broker appoint affiliated licensees as appointed agents who exclusively represent different clients in the same transaction. The brokerage and designated broker are not dual agents solely because of the appointment, but a licensee who personally represents both sides is a disclosed dual agent. Clients must receive written notice of the appointed-agent policy before entering a brokerage agreement.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["agency", "subagent", "fiduciary", "193E"]
+      "tags": ["agency", "appointed_agent", "543B.59", "designated_broker"]
     },
     {
       "key_topic_ref": "IA-05.1",
@@ -82,13 +82,13 @@
     {
       "key_topic_ref": "IA-05.2",
       "question_text": "When must an Iowa licensee first provide agency disclosure to a consumer?",
-      "correct_answer": "At first substantive contact",
+      "correct_answer": "Before providing specific assistance",
       "distractors": [
         "At the time an offer is submitted",
         "When the purchase agreement is signed",
         "Within 48 hours of first meeting"
       ],
-      "explanation": "Iowa law requires agency disclosure at first substantive contact with a consumer. This occurs before providing specific real estate assistance, not at the offer or contract signing stage. The purpose is to ensure consumers understand the agent's role from the outset.",
+      "explanation": "Iowa law requires agency disclosure at the time the licensee provides 'specific assistance' (Iowa Code 543B.57), and commission rules require the verbal disclosure before specific assistance is provided. A written disclosure acknowledged by separate signatures must follow before any offer is made or accepted. General factual answers about advertised listings and casual price-range conversations do not trigger the duty.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -96,14 +96,14 @@
     },
     {
       "key_topic_ref": "IA-05.2",
-      "question_text": "A prospective buyer calls an Iowa agent asking about a specific listing. The agent begins describing the property's features and neighborhood. What agency obligation has been triggered?",
-      "correct_answer": "Disclosure of agency types and roles",
+      "question_text": "A prospective buyer calls an Iowa agent about a listing and begins describing her budget, financing preapproval, and why she must move quickly. What obligation has been triggered?",
+      "correct_answer": "Verbal agency disclosure, because specific assistance has begun",
       "distractors": [
-        "Execution of a buyer agency contract",
-        "Filing an agency form with the Commission",
+        "None, all phone inquiries are ministerial acts",
+        "Execution of a buyer agency contract with the caller",
         "Obtaining written consent for dual agency"
       ],
-      "explanation": "Providing specific information about a property constitutes substantive contact in Iowa. At this point, the agent must explain the types of agency relationships available and provide disclosure. A formal buyer agreement or dual agency consent is not yet required at this stage.",
+      "explanation": "Eliciting or accepting a consumer's financial qualifications or buying motives is 'specific assistance' under Iowa Code 543B.57, so the agent must first make the verbal agency disclosure required by commission rule. Merely answering general factual questions about an advertised listing is a ministerial act that triggers no disclosure. A written buyer agreement is not required until the agent shows a property or an offer is to be made.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -111,14 +111,14 @@
     },
     {
       "key_topic_ref": "IA-05.2",
-      "question_text": "An Iowa agent explains agency types verbally but does not obtain written acknowledgment. Has the agent complied with Iowa disclosure requirements?",
+      "question_text": "An Iowa buyer is ready to submit an offer. Her agent made only a verbal agency disclosure weeks earlier and never obtained a signed written disclosure. Has the agent complied?",
       "correct_answer": "No, written acknowledgment is required",
       "distractors": [
         "Yes, verbal explanation is sufficient",
         "Yes, if the consumer does not object",
         "Only if a contract is eventually signed"
       ],
-      "explanation": "Iowa disclosure requirements mandate that consumers provide written acknowledgment that agency types have been explained. A verbal explanation alone does not satisfy the requirement. The written acknowledgment must be obtained before providing specific real estate assistance.",
+      "explanation": "Iowa uses a two-step disclosure: a verbal disclosure before providing specific assistance, then a written disclosure acknowledged by the separate signatures of the represented parties before any offer is made or accepted. Verbal disclosure alone is sufficient early on, but proceeding to an offer without the signed written disclosure violates Iowa Code 543B.57 and commission rules. If a party refuses to sign, the licensee must document the refusal in the transaction file.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -126,18 +126,18 @@
     },
     {
       "key_topic_ref": "IA-05.2",
-      "question_text": "Iowa agency disclosure must explain all available agency relationship types. Which of the following must be included?",
-      "correct_answer": "Seller agency, buyer agency, and dual agency",
+      "question_text": "What must Iowa's written agency disclosure form contain?",
+      "correct_answer": "Which party the licensee represents and the licensee's statutory duties",
       "distractors": [
-        "Only the type the agent currently practices",
-        "Seller agency and subagency only",
-        "Buyer agency and transaction brokerage"
+        "A full explanation of every agency type recognized in Iowa",
+        "The commission's schedule of approved commission rates",
+        "The names of all licensees affiliated with the brokerage"
       ],
-      "explanation": "Iowa requires that at first substantive contact, the agent explain all types of agency relationships available, including seller agency, buyer agency, and dual agency. Limiting disclosure to only one type or omitting options violates the requirement.",
+      "explanation": "Under Iowa Code 543B.57(3), the written agency disclosure must state which party is the licensee's client (or all clients in a dual agency), describe the licensee's duties under 543B.56(1) and (2), and include any clarifying information. Brokers must separately disclose in writing, before a brokerage agreement is signed, the types of brokerage relationships the firm offers — but a broker is not required to offer every type, and there is no commission rate schedule.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["agency_disclosure", "types_available", "requirements"]
+      "tags": ["agency_disclosure", "543B.57", "form_contents"]
     },
     {
       "key_topic_ref": "IA-05.2",
@@ -148,7 +148,7 @@
         "Yes, disclosure can occur anytime before offer",
         "No, but only a warning will be issued"
       ],
-      "explanation": "Iowa law requires agency disclosure at first substantive contact, which occurs before providing specific real estate assistance such as showing properties. Showing three homes before disclosing agency relationships is a clear violation of the timing requirement.",
+      "explanation": "Iowa requires verbal agency disclosure before the licensee provides specific assistance, which touring homes for a buyer client plainly involves. Since July 1, 2024, a written buyer agreement signed by broker and client is also required before any showing. Disclosing only after three tours violates the timing rules regardless of when an offer is eventually made.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -262,13 +262,13 @@
     {
       "key_topic_ref": "IA-05.4",
       "question_text": "Under Iowa Code 543B.56A, which provision must a buyer representation agreement contain?",
-      "correct_answer": "Conspicuous display of compensation terms",
+      "correct_answer": "A conspicuous statement that compensation is negotiable",
       "distractors": [
         "Automatic renewal clause",
         "Exclusive right to all MLS listings",
         "Waiver of the buyer's right to cancel"
       ],
-      "explanation": "Iowa Code 543B.56A requires buyer representation agreements to conspicuously display compensation terms. The agreement must also include a disclaimer that fees are negotiable and not set by law or the Commission. Automatic renewals, exclusive MLS rights, and cancellation waivers are not mandated provisions.",
+      "explanation": "Iowa Code 543B.56A(2)(e) requires the brokerage agreement to review the broker's compensation and to conspicuously display a statement that the broker's compensation, fees, and commission are negotiable and not established by law. Automatic renewals, exclusive MLS rights, and cancellation waivers are not required provisions.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -283,7 +283,7 @@
         "Obtain verbal consent and document it later",
         "Have the listing agent show the property instead"
       ],
-      "explanation": "SF 2291 mandates that a written buyer representation agreement be in place before showing a property. The agent cannot show first and formalize later. Having the listing agent substitute does not eliminate the buyer's agent's obligation under the Transparency Act.",
+      "explanation": "Under Iowa Code 543B.56A(3), a buyer's broker and client must both sign a written buyer agreement before the agent shows a property; the agent cannot show first and formalize later, and verbal consent is not a substitute. The listing agent could show the home to the buyer only as an unrepresented customer — if the buyer wants her own agent to show and represent her, the written agreement must come first.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,

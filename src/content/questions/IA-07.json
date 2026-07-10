@@ -13,7 +13,7 @@
         "The unlicensed assistant only",
         "No one, if the advice was accurate"
       ],
-      "explanation": "Under Iowa law (543B/193E), the broker is responsible for supervising all salespersons and unlicensed assistants. When an unlicensed assistant performs a licensed activity like giving pricing advice, disciplinary action falls on the broker for failure to supervise.",
+      "explanation": "Providing pricing advice is an activity barred to unlicensed support personnel. Both the designated broker and the employing salesperson are responsible for supervising an unlicensed assistant, with the salesperson bearing primary responsibility; the broker can face discipline for inadequate supervision unless the rule's safe-harbor conditions are met. The assistant may also face a civil penalty for unlicensed practice (Iowa Code 543B.34(3)). Accuracy of the advice is no defense.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -21,14 +21,14 @@
     },
     {
       "key_topic_ref": "IA-07.1",
-      "question_text": "Where must an Iowa broker's principal place of business be located?",
+      "question_text": "Where must a resident Iowa broker's principal place of business be located?",
       "correct_answer": "In Iowa",
       "distractors": [
         "In any state with reciprocity",
         "Wherever the broker resides",
         "Within the broker's MLS territory"
       ],
-      "explanation": "Iowa requires a broker's principal place of business to be physically located within the state of Iowa. Out-of-state offices, even in reciprocal states, cannot serve as the principal office for an Iowa brokerage.",
+      "explanation": "Iowa Code 543B.31 requires every real estate broker, except nonresidents covered by 543B.22, to maintain a place of business in Iowa. A nonresident broker licensed in Iowa is not required to maintain an Iowa office so long as the broker maintains an active place of business in the broker's state of domicile. For a resident Iowa brokerage, the principal place of business must be in Iowa.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -51,18 +51,18 @@
     },
     {
       "key_topic_ref": "IA-07.1",
-      "question_text": "An Iowa broker's license is displayed in a desk drawer rather than on the office wall. Does this comply with Iowa requirements?",
-      "correct_answer": "No, the license must be displayed prominently",
+      "question_text": "An Iowa brokerage opens a branch office. What must be displayed at the branch location?",
+      "correct_answer": "A commission-issued branch office license",
       "distractors": [
-        "Yes, as long as the license is on-site",
-        "Yes, if it can be produced upon request",
-        "Only the branch office needs a wall display"
+        "The main office license is sufficient",
+        "A notarized copy of the broker's pocket card",
+        "Nothing must be displayed at a branch"
       ],
-      "explanation": "Iowa requires the broker's license to be prominently displayed at the principal place of business, not merely stored on-site. Keeping it in a drawer does not satisfy the prominent display requirement.",
+      "explanation": "Iowa commission rules (193E-7.1(3)) require a licensed real estate firm or sole-proprietor broker maintaining a branch office to display a commission-issued branch office license at that location. The branch office license is issued in the name of the firm or sole-proprietor broker and carries the same expiration date as the primary license. Iowa law does not impose a general requirement to display the broker's own license at the main office.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["broker_license", "display_requirement", "prominent"]
+      "tags": ["broker_office", "branch_license", "display_requirement"]
     },
     {
       "key_topic_ref": "IA-07.1",
@@ -148,7 +148,7 @@
         "Permitted for online ads only",
         "No issue if consumers can find the broker"
       ],
-      "explanation": "Iowa requires advertisements to include the broker's name exactly as registered with the Real Estate Commission. Using a different name, even a legitimately filed DBA, violates Iowa advertising rules unless that name is the one on file with the Commission.",
+      "explanation": "Iowa advertising rules require ads to use the licensed business name; on websites and social media the firm name must appear exactly as registered with the Commission, with no abbreviations. A broker operating under a franchise or trade name must either license that name with the Commission or clearly reveal in all advertising that the broker is the licensed individual who owns the entity. A state DBA filing alone does not satisfy the rule.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
