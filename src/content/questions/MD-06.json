@@ -8,12 +8,8 @@
       "key_topic_ref": "MD-06.1",
       "question_text": "Under Maryland law, when is dual agency permitted?",
       "correct_answer": "When both parties give informed written consent",
-      "distractors": [
-        "When the broker verbally informs both parties",
-        "Only in commercial transactions",
-        "When the listing agent obtains seller approval"
-      ],
-      "explanation": "Maryland permits dual agency only when both the buyer and seller provide informed written consent. This consent must be obtained before any confidential information is shared between the parties.",
+      "distractors": ["When the broker verbally informs both parties", "Only in commercial transactions", "When the listing agent obtains seller approval"],
+      "explanation": "Maryland permits dual agency only with the informed written consent of both parties, documented on the Consent for Dual Agency form (BOP §17-530.1). The dual agent is the broker or a designated branch office manager — not the individual agents — and a party who signed earlier must affirm consent for the specific property and buyer before an offer is presented or accepted.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -21,29 +17,21 @@
     },
     {
       "key_topic_ref": "MD-06.1",
-      "question_text": "A Maryland agent has been working with a buyer for weeks sharing pricing strategy. The buyer wants to make an offer on the agent's own listing. What must happen BEFORE dual agency begins?",
-      "correct_answer": "Obtain written consent before sharing any confidential info",
-      "distractors": [
-        "Refer the buyer to another brokerage immediately",
-        "Notify the Maryland Real Estate Commission only",
-        "Verbally disclose the dual role at the next showing"
-      ],
-      "explanation": "In Maryland, dual agency disclosure and written consent must occur before any confidential information is shared between the parties. Since the agent already has confidential buyer information, consent must be obtained before proceeding with dual representation.",
+      "question_text": "A Maryland agent has been working with a buyer for weeks sharing pricing strategy. The buyer now wants to offer on the agent's own listing, and both buyer and seller want to keep their own representation. How must the brokerage proceed?",
+      "correct_answer": "One agent cannot serve both sides; the broker must designate another agent for one party",
+      "distractors": ["The agent may represent both parties once written consent is obtained", "The broker simply notifies the Maryland Real Estate Commission", "The agent verbally discloses the dual role at the next showing"],
+      "explanation": "Under BOP §17-530.1, the dual agent is the broker (or designated branch office manager), who must assign one intra-company agent for the seller and a DIFFERENT one for the buyer — a single licensee may never represent both sides, even with consent. With both parties' written consent to dual agency, the broker designates another affiliated agent for one party; if either party refuses, the brokerage relationship must be restructured or ended for that transaction.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["dual_agency", "confidential_information", "timing"]
+      "tags": ["dual_agency", "intra_company_agency", "own-listing"]
     },
     {
       "key_topic_ref": "MD-06.1",
       "question_text": "A dual agent in Maryland learns the buyer will pay $20,000 above asking price. What should the agent do with this information?",
       "correct_answer": "Keep it confidential unless the buyer consents",
-      "distractors": [
-        "Share it with the seller as a material fact",
-        "Disclose it to both parties equally",
-        "Report it to the supervising broker only"
-      ],
-      "explanation": "A dual agent in Maryland cannot disclose confidential information of either party without that party's permission. The buyer's willingness to pay more is confidential and must not be shared with the seller unless the buyer specifically authorizes disclosure.",
+      "distractors": ["Share it with the seller as a material fact", "Disclose it to both parties equally", "Report it to the supervising broker only"],
+      "explanation": "A Maryland dual agent — the broker or designated branch office manager — may not disclose either party's confidential information without that party's written consent (BOP §17-530.1). A buyer's willingness to pay above asking is expressly protected; it may not be shared with the seller unless the buyer authorizes it in writing.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -52,13 +40,9 @@
     {
       "key_topic_ref": "MD-06.2",
       "question_text": "In Maryland intra-company agency, which party does the brokerage itself represent?",
-      "correct_answer": "Neither the buyer nor the seller",
-      "distractors": [
-        "Both the buyer and the seller equally",
-        "The party who listed the property first",
-        "The seller as the original client"
-      ],
-      "explanation": "Under Maryland's intra-company agency rules, when two agents from the same brokerage represent buyer and seller, the brokerage itself does not represent either party. Each designated agent owes full fiduciary duties solely to their own client.",
+      "correct_answer": "Both the buyer and the seller, without undivided loyalty to either",
+      "distractors": ["Neither the buyer nor the seller", "The party who listed the property first", "The seller, as the original client"],
+      "explanation": "Maryland's intra-company agents operate inside a dual agency: the broker (or designated branch office manager) is the dual agent for BOTH the seller and the buyer (BOP §17-530.1), while each intra-company agent exclusively serves their own client. As dual agent, the broker cannot act exclusively for either party and owes undivided loyalty to neither.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -68,12 +52,8 @@
       "key_topic_ref": "MD-06.2",
       "question_text": "Agent Kim and Agent Lee work for the same Maryland brokerage. Kim represents the seller and Lee represents the buyer in a transaction. Kim discovers the buyer plans to resell the property quickly for profit. What is Kim's obligation?",
       "correct_answer": "Kim owes no duty to the buyer and keeps seller focus",
-      "distractors": [
-        "Kim must share this with the seller immediately",
-        "Kim must disclose it to the brokerage manager",
-        "Kim should advise Lee to withdraw the offer"
-      ],
-      "explanation": "In Maryland intra-company agency, each designated agent owes full fiduciary duties only to their own client. Kim represents the seller and has no duty regarding the buyer's plans. Kim would only know this information if it were improperly shared, as each agent operates independently within the brokerage.",
+      "distractors": ["Kim must share this with the seller immediately", "Kim must disclose it to the brokerage manager", "Kim should advise Lee to withdraw the offer"],
+      "explanation": "Kim, the seller's intra-company agent, owes fiduciary duties only to the seller and none to the buyer. Note that in a Maryland dual agency, dual agents and intra-company agents may not disclose either party's confidential information — including motivations like a plan to resell — to the other side without written consent; only material facts about the property itself must be disclosed to all parties.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -83,12 +63,8 @@
       "key_topic_ref": "MD-06.1",
       "question_text": "Which statement BEST describes a dual agent's role in Maryland?",
       "correct_answer": "The agent must remain impartial to both parties",
-      "distractors": [
-        "The agent advocates primarily for the seller",
-        "The agent may favor the party who pays commission",
-        "The agent has no fiduciary duties to either party"
-      ],
-      "explanation": "A Maryland dual agent must be impartial and cannot advocate for one party over the other. While the agent still has fiduciary obligations, those duties are balanced equally between both the buyer and seller.",
+      "distractors": ["The agent advocates primarily for the seller", "The agent may favor the party who pays commission", "The agent has no fiduciary duties to either party"],
+      "explanation": "A Maryland dual agent — the broker or the broker's designated branch office manager — does not exclusively represent either party and owes undivided loyalty to neither (BOP §17-530.1). The dual agent must treat both sides impartially and may not disclose one party's confidential information to the other.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -97,13 +73,9 @@
     {
       "key_topic_ref": "MD-06.2",
       "question_text": "A Maryland buyer asks to see a property listed by another agent in the same brokerage. The buyer's agent explains intra-company agency. What consent is required?",
-      "correct_answer": "Informed consent from both buyer and seller",
-      "distractors": [
-        "Only the buyer needs to provide consent",
-        "The supervising broker's approval is sufficient",
-        "No consent is needed if agents are separate"
-      ],
-      "explanation": "Maryland's intra-company agency requires informed consent from both the buyer and the seller before two agents in the same brokerage can represent opposite sides of the transaction. Both parties must understand and agree to the arrangement.",
+      "correct_answer": "Written informed consent from both the buyer and the seller",
+      "distractors": ["Only the buyer needs to provide consent", "The supervising broker's approval is sufficient", "No consent is needed if agents are separate"],
+      "explanation": "Intra-company agency can occur only within a consented dual agency: BOP §17-530.1 requires the WRITTEN informed consent of all parties (the Consent for Dual Agency form) before the broker may act as dual agent and designate intra-company agents for each side. Consent must also be affirmed for the specific property and buyer before an offer is presented or accepted.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -111,14 +83,10 @@
     },
     {
       "key_topic_ref": "MD-06.2",
-      "question_text": "How does Maryland's intra-company agency differ from standard dual agency?",
-      "correct_answer": "Each designated agent owes full fiduciary duties to their client",
-      "distractors": [
-        "It does not require any form of written consent",
-        "The brokerage represents both parties equally",
-        "Only the listing agent retains fiduciary duties"
-      ],
-      "explanation": "The key distinction is that in intra-company agency, each designated agent maintains full fiduciary duties to their respective client, unlike dual agency where the single agent must be impartial. This provides stronger client advocacy within the same firm.",
+      "question_text": "Within a Maryland dual agency, how does an intra-company agent's role differ from the dual agent's role?",
+      "correct_answer": "Each intra-company agent owes full fiduciary duties to their own client",
+      "distractors": ["Intra-company agents must remain neutral between the parties", "Intra-company agents need no written consent from the parties", "Only the seller's intra-company agent retains fiduciary duties"],
+      "explanation": "Intra-company agency is not an alternative to dual agency in Maryland — it is how dual agency operates. The broker (dual agent) acts for both parties and owes undivided loyalty to neither, while each designated intra-company agent gives their own client the same full services as an ordinary agent, including advice on price and negotiation strategy (BOP §17-530.1).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -128,11 +96,7 @@
       "key_topic_ref": "MD-06.1",
       "question_text": "A Maryland seller tells a dual agent about a major plumbing defect but asks the agent not to tell the buyer. How should the agent respond?",
       "correct_answer": "Explain that latent defects must still be disclosed",
-      "distractors": [
-        "Honor the seller's request for confidentiality",
-        "Withdraw from the dual agency immediately",
-        "Disclose it only if the buyer asks directly"
-      ],
+      "distractors": ["Honor the seller's request for confidentiality", "Withdraw from the dual agency immediately", "Disclose it only if the buyer asks directly"],
       "explanation": "While dual agents must keep confidential information private, latent defects that pose a threat to health or safety must always be disclosed regardless of agency relationship. The agent should explain this legal obligation to the seller.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
@@ -143,11 +107,7 @@
       "key_topic_ref": "MD-06.2",
       "question_text": "In Maryland intra-company agency, what fiduciary duties does a designated buyer's agent owe?",
       "correct_answer": "Full fiduciary duties to the buyer only",
-      "distractors": [
-        "Limited duties shared between both parties",
-        "Fiduciary duties to the brokerage first",
-        "Advisory duties but not full fiduciary duties"
-      ],
+      "distractors": ["Limited duties shared between both parties", "Fiduciary duties to the brokerage first", "Advisory duties but not full fiduciary duties"],
       "explanation": "Under Maryland's intra-company agency framework, each designated agent owes full fiduciary duties exclusively to their own client. The designated buyer's agent represents only the buyer with complete loyalty, confidentiality, and advocacy.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",

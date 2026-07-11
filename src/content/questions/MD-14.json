@@ -42,7 +42,7 @@
       "question_text": "After a Maryland foreclosure sale is conducted, what additional step must occur before the sale is final?",
       "correct_answer": "Court must ratify the sale",
       "distractors": ["Buyer must record the deed within 10 days", "Borrower must sign a release", "Title company must issue clearance"],
-      "explanation": "In Maryland's judicial foreclosure process, the court must ratify (approve) the foreclosure sale before it becomes final. This provides judicial oversight to ensure the process was properly conducted.",
+      "explanation": "After the trustee's foreclosure sale, the circuit court must ratify (approve) the sale before it becomes final (Md. Rule 14-305). This post-sale court supervision is why Maryland's power-of-sale process is often described as 'quasi-judicial.'",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -50,10 +50,10 @@
     },
     {
       "key_topic_ref": "MD-14.1",
-      "question_text": "A Maryland foreclosure case begins with which filing?",
+      "question_text": "A typical Maryland residential foreclosure under a deed of trust containing a power of sale begins with which court filing?",
       "correct_answer": "Order to Docket",
       "distractors": ["Lis pendens", "Complaint for foreclosure", "Notice of default"],
-      "explanation": "Maryland foreclosures begin with the filing of an Order to Docket with the court. This is distinct from other states that may use a lis pendens or complaint. The lender must have already sent the 45-day Notice of Intent to Foreclose.",
+      "explanation": "Foreclosures under a power of sale or assent to decree — the overwhelming majority in Maryland — begin with the filing of an Order to Docket in the circuit court; a complaint to foreclose is used only in the rare case where the instrument contains neither clause. The lender must have already sent the Notice of Intent to Foreclose at least 45 days before filing (RP §7-105.1(c)) and may not file until at least 90 days after default (§7-105.1(b)).",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -108,7 +108,7 @@
       "question_text": "A Maryland foreclosure sale produces excess proceeds after satisfying the debt. Who receives the surplus funds?",
       "correct_answer": "The former borrower",
       "distractors": ["The lender retains them", "The court keeps them as fees", "The purchasing bidder receives a refund"],
-      "explanation": "When a Maryland foreclosure sale produces more than the outstanding debt, the surplus funds belong to the former borrower. Conversely, if the sale falls short, the lender may seek a deficiency judgment.",
+      "explanation": "When a Maryland foreclosure sale brings more than the debt, the surplus — after the costs of sale and any junior lienholders are paid — belongs to the former borrower. If the sale falls short, the lender may instead seek a deficiency judgment by motion within 3 years after ratification of the auditor's report (Md. Rule 14-216(b)).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -119,7 +119,7 @@
       "question_text": "A Maryland deed of trust involves three parties. Who holds legal title to the property as security for the loan?",
       "correct_answer": "The trustee",
       "distractors": ["The lender/beneficiary", "The borrower/trustor", "The settlement attorney"],
-      "explanation": "In a deed of trust, the trustee holds legal title as security. The three parties are the borrower (trustor), the lender (beneficiary), and the trustee. Despite the deed of trust structure, Maryland still requires judicial foreclosure.",
+      "explanation": "In a deed of trust, the trustee holds legal title as security. The three parties are the borrower (trustor), the lender (beneficiary), and the trustee. On default, the trustee may sell the property under the power of sale, subject to court ratification.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -130,7 +130,7 @@
       "question_text": "Which financing instrument is more commonly used in Maryland real estate transactions?",
       "correct_answer": "Deed of trust",
       "distractors": ["Traditional mortgage", "Land contract", "Lease-purchase agreement"],
-      "explanation": "While both mortgages and deeds of trust are used in Maryland, deeds of trust are more common. Unlike many deed-of-trust states, Maryland still requires judicial foreclosure regardless of which instrument is used.",
+      "explanation": "Both mortgages and deeds of trust are used in Maryland, but deeds of trust are the standard instrument for residential loans. Either instrument may contain a power of sale, which is exercised through Maryland's court-supervised (quasi-judicial) foreclosure process — an Order to Docket is filed and the court ratifies the sale.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -138,14 +138,14 @@
     },
     {
       "key_topic_ref": "MD-14.3",
-      "question_text": "A lender holds a deed of trust on a Maryland property with a power of sale clause. Can the lender foreclose without going through the courts?",
-      "correct_answer": "No, judicial foreclosure is always required",
-      "distractors": ["Yes, the power of sale clause allows it", "Only for properties under $500,000", "Yes, with 90 days' notice to the borrower"],
-      "explanation": "Maryland does not permit non-judicial power of sale foreclosures. Even when a deed of trust contains a power of sale clause, the lender must still proceed through the judicial foreclosure process.",
+      "question_text": "A lender holds a deed of trust on a Maryland home with a power of sale clause. How will the foreclosure be carried out?",
+      "correct_answer": "Sale under the power of sale, subject to court ratification",
+      "distractors": ["A full judicial lawsuit ending in a foreclosure judgment before sale", "Strict foreclosure with no sale", "A sheriff's sale with no court involvement at all"],
+      "explanation": "Real Property §7-105 authorizes power of sale (and assent to decree) foreclosures. The lender files an Order to Docket in the circuit court, but no judgment is required before the sale — a trustee sells the property under the power of sale, and the court then ratifies the sale. Because of this court supervision, Maryland's process is often called 'quasi-judicial.'",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["power of sale", "judicial foreclosure", "deed of trust"]
+      "tags": ["power of sale", "order to docket", "deed of trust"]
     },
     {
       "key_topic_ref": "MD-14.3",
@@ -160,14 +160,14 @@
     },
     {
       "key_topic_ref": "MD-14.3",
-      "question_text": "How does Maryland's foreclosure process differ from most deed-of-trust states?",
-      "correct_answer": "Maryland requires judicial foreclosure for DOTs",
-      "distractors": ["Maryland allows non-judicial foreclosure", "Maryland prohibits deeds of trust entirely", "Maryland uses strict foreclosure only"],
-      "explanation": "Most deed-of-trust states allow non-judicial power of sale foreclosure. Maryland is unusual because it requires judicial foreclosure through the courts even when the security instrument is a deed of trust.",
+      "question_text": "How does Maryland's power-of-sale foreclosure differ from the process in many other deed-of-trust states?",
+      "correct_answer": "The court must ratify the sale before it is final",
+      "distractors": ["A judicial judgment is required before the sale", "The borrower gets a one-year statutory redemption period after the sale", "Deficiency judgments are prohibited"],
+      "explanation": "Like most deed-of-trust states, Maryland allows power of sale foreclosure (RP §7-105) without a pre-sale judgment. What sets Maryland apart is court supervision: the case is opened by filing an Order to Docket, and the sale is not final until the circuit court ratifies it — a 'quasi-judicial' process. Maryland has no post-sale statutory redemption, and deficiency judgments are permitted.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["deed of trust", "judicial foreclosure", "Maryland distinction"]
+      "tags": ["power of sale", "court ratification", "Maryland distinction"]
     }
   ]
 }

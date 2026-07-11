@@ -8,286 +8,166 @@
       "key_topic_ref": "MD-01.1",
       "question_text": "How many members serve on the Maryland Real Estate Commission?",
       "correct_answer": "9 members",
-      "distractors": [
-        "7 members",
-        "11 members",
-        "5 members"
-      ],
-      "explanation": "The MREC consists of 9 members appointed by the Governor: 5 licensed real estate professionals and 4 consumer members. This composition ensures both industry expertise and public representation.",
+      "distractors": ["7 members", "11 members", "5 members"],
+      "explanation": "The MREC consists of 9 members appointed by the Governor with the advice and consent of the Senate: 5 licensed real estate professionals and 4 consumer members. This composition ensures both industry expertise and public representation.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "commission-structure",
-        "membership"
-      ]
+      "tags": ["MREC", "commission-structure", "membership"]
     },
     {
       "key_topic_ref": "MD-01.1",
       "question_text": "A newly appointed MREC member asks which state department oversees Commission operations. What is the correct answer?",
       "correct_answer": "Department of Labor",
-      "distractors": [
-        "Department of Housing",
-        "Department of Commerce",
-        "Office of the Attorney General"
-      ],
+      "distractors": ["Department of Housing", "Department of Commerce", "Office of the Attorney General"],
       "explanation": "The Maryland Real Estate Commission operates under the Department of Labor. This organizational placement connects real estate regulation to the state's broader workforce oversight framework.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "Department-of-Labor",
-        "organizational-structure"
-      ]
+      "tags": ["MREC", "Department-of-Labor", "organizational-structure"]
     },
     {
       "key_topic_ref": "MD-01.1",
-      "question_text": "An agent is advertising misleading property descriptions online. The MREC discovers the ads during a routine review. Which enforcement tool can the Commission use to stop the activity immediately?",
-      "correct_answer": "Issue a cease and desist order",
-      "distractors": [
-        "File a civil lawsuit in circuit court",
-        "Refer the matter to the local MLS board",
-        "Revoke the license without a hearing"
-      ],
-      "explanation": "The MREC has the power to issue cease and desist orders to immediately halt violations. This allows the Commission to stop harmful conduct quickly while further proceedings are considered.",
+      "question_text": "The MREC discovers that an unlicensed individual has been collecting fees for selling homes. Besides referring the matter for criminal prosecution, what may the Commission itself impose?",
+      "correct_answer": "A civil penalty of up to $5,000 for a first violation",
+      "distractors": ["A cease and desist order", "A jail sentence of up to 1 year", "Nothing — only the courts may act against unlicensed activity"],
+      "explanation": "Under Maryland law the MREC may impose a civil penalty of up to $5,000 for a first unlicensed-activity violation, rising to $15,000 for a second and $25,000 for subsequent violations (BOP §17-613). Unlicensed practice is also a criminal misdemeanor, but only a court can impose jail time, and Maryland's Brokers Act gives the Commission no cease and desist power.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "cease-and-desist",
-        "enforcement"
-      ]
+      "tags": ["MREC", "civil-penalty", "unlicensed-activity"]
     },
     {
       "key_topic_ref": "MD-01.1",
       "question_text": "Maryland issues four types of real estate licenses. Which is NOT one of them?",
       "correct_answer": "Provisional salesperson",
-      "distractors": [
-        "Associate broker",
-        "Branch office manager",
-        "Salesperson"
-      ],
+      "distractors": ["Associate broker", "Branch office manager", "Salesperson"],
       "explanation": "Maryland issues four license types: salesperson, associate broker, broker, and branch office manager. There is no provisional salesperson license in Maryland, unlike some other states that use a provisional or temporary license.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "license-types",
-        "Maryland-licensing"
-      ]
+      "tags": ["MREC", "license-types", "Maryland-licensing"]
     },
     {
       "key_topic_ref": "MD-01.1",
       "question_text": "The Governor must appoint MREC members from two distinct groups. A candidate who is neither licensed nor a consumer representative applies. Why would this candidate be ineligible?",
       "correct_answer": "Members must be licensees or consumer representatives",
-      "distractors": [
-        "All members must hold active broker licenses",
-        "Only attorneys may serve as non-licensee members",
-        "Members must be nominated by the state legislature"
-      ],
+      "distractors": ["All members must hold active broker licenses", "Only attorneys may serve as non-licensee members", "Members must be nominated by the state legislature"],
       "explanation": "MREC membership is restricted to 5 licensed real estate professionals and 4 consumer members. A candidate who fits neither category does not meet the statutory composition requirements.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "membership",
-        "eligibility"
-      ]
+      "tags": ["MREC", "membership", "eligibility"]
     },
     {
       "key_topic_ref": "MD-01.2",
       "question_text": "A consumer files a complaint against a licensee with the MREC. Which statement about the investigation process is correct?",
       "correct_answer": "The MREC may also self-initiate investigations",
-      "distractors": [
-        "Only consumers may file complaints",
-        "The MREC must refer all complaints to court",
-        "Investigations require approval from the Governor"
-      ],
+      "distractors": ["Only consumers may file complaints", "The MREC must refer all complaints to court", "Investigations require approval from the Governor"],
       "explanation": "The MREC can receive complaints from the public and can also self-initiate investigations when it becomes aware of potential violations through its own oversight activities.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "complaints",
-        "investigation"
-      ]
+      "tags": ["MREC", "complaints", "investigation"]
     },
     {
       "key_topic_ref": "MD-01.2",
       "question_text": "During an investigation, the MREC needs records from a brokerage that refuses to cooperate. What tool can the Commission use to compel production of documents?",
       "correct_answer": "Subpoena power",
-      "distractors": [
-        "Search warrant from a judge",
-        "Police enforcement action",
-        "Automatic license suspension"
-      ],
-      "explanation": "The MREC has subpoena power, which allows it to compel the production of documents and testimony during investigations without needing to go through a separate court process.",
+      "distractors": ["Search warrant from a judge", "Police enforcement action", "Automatic license suspension"],
+      "explanation": "Subpoenas are the tool used to compel documents and testimony in MREC disciplinary matters. Commission hearings follow Maryland's Administrative Procedure Act, under which subpoenas may be issued for witnesses and records; a party who defies a subpoena can be compelled through court enforcement.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "subpoena",
-        "investigation"
-      ]
+      "tags": ["MREC", "subpoena", "investigation"]
     },
     {
       "key_topic_ref": "MD-01.2",
       "question_text": "MREC hearings must follow procedures established by which Maryland law?",
       "correct_answer": "Administrative Procedure Act",
-      "distractors": [
-        "Maryland Real Property Article",
-        "Uniform Commercial Code",
-        "Maryland Consumer Protection Act"
-      ],
+      "distractors": ["Maryland Real Property Article", "Uniform Commercial Code", "Maryland Consumer Protection Act"],
       "explanation": "MREC disciplinary hearings must comply with the Maryland Administrative Procedure Act, which establishes due process requirements for state agency hearings including notice, evidence rules, and hearing procedures.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "Administrative-Procedure-Act",
-        "hearings"
-      ]
+      "tags": ["MREC", "Administrative-Procedure-Act", "hearings"]
     },
     {
       "key_topic_ref": "MD-01.2",
       "question_text": "A licensee disagrees with the MREC's decision to suspend her license after a formal hearing. Where does she file her appeal?",
       "correct_answer": "Circuit court",
-      "distractors": [
-        "Maryland Court of Appeals",
-        "Department of Labor review board",
-        "Office of the Governor"
-      ],
+      "distractors": ["Maryland Court of Appeals", "Department of Labor review board", "Office of the Governor"],
       "explanation": "Licensees who disagree with MREC disciplinary decisions may appeal to the circuit court. This provides judicial oversight of administrative actions taken by the Commission.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "appeals",
-        "circuit-court"
-      ]
+      "tags": ["MREC", "appeals", "circuit-court"]
     },
     {
       "key_topic_ref": "MD-01.2",
       "question_text": "After investigating a complaint, the MREC determines the licensee committed minor record-keeping errors but caused no consumer harm. Which range of outcomes is available to the Commission?",
       "correct_answer": "From no action up to revocation",
-      "distractors": [
-        "Only a written warning or fine",
-        "Mandatory license suspension for any violation",
-        "Referral to criminal court is required"
-      ],
+      "distractors": ["Only a written warning or fine", "Mandatory license suspension for any violation", "Referral to criminal court is required"],
       "explanation": "The MREC has a full range of disciplinary outcomes from taking no action to revoking a license. The Commission exercises discretion based on the severity of the violation and harm caused.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "disciplinary-outcomes",
-        "enforcement"
-      ]
+      "tags": ["MREC", "disciplinary-outcomes", "enforcement"]
     },
     {
       "key_topic_ref": "MD-01.3",
-      "question_text": "What is the maximum civil penalty the MREC may impose per violation?",
+      "question_text": "Instead of or in addition to reprimand, suspension, or revocation, what is the maximum civil penalty the MREC may impose on a licensee for each violation of the Brokers Act?",
       "correct_answer": "$5,000",
-      "distractors": [
-        "$1,000",
-        "$10,000",
-        "$25,000"
-      ],
-      "explanation": "Maryland law authorizes the MREC to impose civil penalties of up to $5,000 per violation. This financial penalty is separate from and in addition to any license discipline imposed.",
+      "distractors": ["$500", "$1,000", "$10,000"],
+      "explanation": "Under BOP §17-322(c), instead of or in addition to a reprimand, suspension, or revocation, the Commission may impose a civil penalty of up to $5,000 for each violation. (Separate, higher tiered penalties — up to $25,000 — exist under §17-613 for violations such as repeat unlicensed activity.)",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "civil-penalty",
-        "enforcement"
-      ]
+      "tags": ["MREC", "civil-penalty", "enforcement"]
     },
     {
       "key_topic_ref": "MD-01.3",
       "question_text": "A broker is accused of stealing escrow funds, posing an immediate risk to the public. The MREC wants to act before scheduling a hearing. What action is available?",
       "correct_answer": "Summary suspension of the license",
-      "distractors": [
-        "Permanent revocation without a hearing",
-        "Referral to the local police only",
-        "Issuing a written reprimand"
-      ],
+      "distractors": ["Permanent revocation without a hearing", "Referral to the local police only", "Issuing a written reprimand"],
       "explanation": "When a licensee poses a substantial threat to the public, the MREC may issue a summary suspension without a prior hearing. This emergency power protects consumers while formal proceedings are arranged.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "summary-suspension",
-        "escrow"
-      ]
+      "tags": ["MREC", "summary-suspension", "escrow"]
     },
     {
       "key_topic_ref": "MD-01.3",
-      "question_text": "A salesperson had her license revoked three years ago and wants to reapply. How much longer must she wait?",
-      "correct_answer": "2 more years",
-      "distractors": [
-        "She may reapply immediately",
-        "1 more year",
-        "7 more years"
-      ],
-      "explanation": "Maryland requires revoked licensees to wait 5 years before reapplying. Since 3 years have passed, the salesperson must wait 2 additional years before she is eligible to submit a new application.",
+      "question_text": "A broker's license was revoked after a disciplinary hearing. She seeks judicial review and wants the revocation stayed while her appeal is pending. What does Maryland law require?",
+      "correct_answer": "She must file a bond, which the court may set at up to $50,000",
+      "distractors": ["The revocation is stayed automatically once the appeal is filed", "She must obtain the Governor's approval for a stay", "A stay is never available for a license revocation"],
+      "explanation": "Under BOP §17-329, an appeal does not automatically stay an MREC decision. A court may stay a license suspension or revocation only if the licensee files a bond — which the court may set at up to $50,000 — held for the benefit of members of the public who might suffer loss from a violation.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "revocation",
-        "reapplication"
-      ]
+      "tags": ["MREC", "judicial-review", "stay-bond"]
     },
     {
       "key_topic_ref": "MD-01.3",
       "question_text": "Which condition must exist for the MREC to order a summary suspension without a prior hearing?",
-      "correct_answer": "The licensee poses a substantial threat to the public",
-      "distractors": [
-        "The licensee has received two prior warnings",
-        "A consumer has filed a lawsuit in circuit court",
-        "The violation involves advertising errors only"
-      ],
-      "explanation": "Summary suspension is reserved for situations where the licensee's continued practice poses a substantial threat to public safety. This high threshold protects due process rights while allowing emergency action.",
+      "correct_answer": "The public health, safety, or welfare imperatively requires emergency action",
+      "distractors": ["The licensee has received two prior warnings", "A consumer has filed a lawsuit in circuit court", "The violation involves advertising errors only"],
+      "explanation": "Summary suspension without a prior hearing is permitted only when the public health, safety, or welfare imperatively requires emergency action (SG §10-226(c)(2)). BOP §17-328 lists specific triggers — failing to account promptly for trust money, refusing to produce records, or a felony conviction (or failing to report one within 10 days) — and the licensee must promptly receive written notice and an opportunity to be heard.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "summary-suspension",
-        "due-process"
-      ]
+      "tags": ["MREC", "summary-suspension", "due-process"]
     },
     {
       "key_topic_ref": "MD-01.3",
       "question_text": "A licensee committed three separate advertising violations during the same marketing campaign. What is the maximum total civil penalty the MREC could impose?",
       "correct_answer": "$15,000",
-      "distractors": [
-        "$5,000",
-        "$10,000",
-        "$50,000"
-      ],
+      "distractors": ["$5,000", "$10,000", "$50,000"],
       "explanation": "The MREC may impose up to $5,000 per violation. With three separate violations, the maximum total civil penalty is $15,000 ($5,000 x 3 violations).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": [
-        "MREC",
-        "civil-penalty",
-        "advertising"
-      ]
+      "tags": ["MREC", "civil-penalty", "advertising"]
     }
   ]
 }

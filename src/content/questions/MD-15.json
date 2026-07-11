@@ -42,7 +42,7 @@
       "question_text": "A buyer is considering a Baltimore rowhouse subject to an unredeemed ground rent of $120 per year. The buyer's agent should advise the buyer that:",
       "correct_answer": "The ground rent is enforceable but redeemable",
       "distractors": ["Ground rents were eliminated statewide", "The seller must redeem it before closing", "It cannot exceed $50 per year by law"],
-      "explanation": "Existing unredeemed ground rents in Baltimore remain enforceable, even though new ones are largely prohibited since 2007. The buyer should be informed of the annual cost and their right to redeem the ground rent.",
+      "explanation": "Existing unredeemed ground rents remain enforceable — but only if the ground lease is registered in SDAT's ground rent registry; an unregistered holder cannot collect rent or pursue remedies (RP §8-707). New residential ground rents have been banned since January 22, 2007, and the homeowner has a statutory right to redeem. The buyer should be told the annual amount and the right to redeem.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -86,7 +86,7 @@
       "question_text": "A Maryland seller knows their home has elevated radon levels. What is their disclosure obligation?",
       "correct_answer": "Disclose if known",
       "distractors": ["No disclosure required under any law", "Mandatory professional testing first", "Radon must be remediated before sale"],
-      "explanation": "Maryland does not require mandatory radon testing, but sellers must disclose known radon issues. The same disclose-if-known standard applies to mold. Lead paint disclosure is mandatory for pre-1978 properties.",
+      "explanation": "Maryland has no statewide radon testing mandate — sellers must simply disclose known radon problems (the same disclose-if-known standard applies to mold). Note the county exception: since October 1, 2016, Montgomery County requires a radon test before most single-family home sales. Lead paint disclosure is mandatory for pre-1978 properties.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -138,14 +138,14 @@
     },
     {
       "key_topic_ref": "MD-15.3",
-      "question_text": "Under the ADU Act of 2025, which Maryland jurisdictions must authorize accessory dwelling units on single-family lots?",
-      "correct_answer": "Charter counties and Baltimore City",
-      "distractors": ["All 23 counties statewide", "Only Montgomery and Prince George's counties", "Only municipalities with over 50,000 residents"],
-      "explanation": "The ADU Act of 2025 requires charter counties and Baltimore City to authorize accessory dwelling units on single-family residential lots. This is designed to increase housing supply and affordability.",
+      "question_text": "Under Maryland's 2025 accessory dwelling unit law (HB 1466), which jurisdictions must adopt local laws authorizing ADUs on lots with a single-family detached home?",
+      "correct_answer": "All counties and municipalities with planning and zoning authority",
+      "distractors": ["Only charter counties", "Only Montgomery and Prince George's counties", "Only municipalities with over 50,000 residents"],
+      "explanation": "HB 1466 (Chapter 197 of 2025), effective October 1, 2025, requires every legislative body with planning and zoning authority — expressly including charter counties and Baltimore City — to adopt a local law authorizing ADU development on land with a single-family detached dwelling by October 1, 2026. Local laws must exclude ADUs from density calculations and may not impose unreasonable restrictions.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["ADU Act 2025", "accessory dwelling units", "charter counties"]
+      "tags": ["ADU law 2025", "accessory dwelling units", "local zoning"]
     },
     {
       "key_topic_ref": "MD-15.3",
