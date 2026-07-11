@@ -28,7 +28,7 @@
         "Only commercial closings need an attorney",
         "Only cash purchases need an attorney"
       ],
-      "explanation": "Maine does not legally require an attorney at a residential closing. Attorneys and title companies both handle Maine closings, much as they do in Nevada. If her lender requires an attorney for the title search, Title 9-A, Section 3-311 lets her choose that attorney.",
+      "explanation": "Maine does not legally require an attorney at a residential closing; no statute mandates any particular closing agent. Attorney-conducted closings are customary in Maine, but title companies also lawfully handle closings — so, much as in Nevada's escrow-company practice, she may close without hiring her own attorney. If her lender requires an attorney for the title search, Title 9-A, Section 3-311 lets her choose that attorney.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -88,7 +88,7 @@
         "$1.10 per $500 of sale price",
         "$5.50 per $1,000 of sale price"
       ],
-      "explanation": "Maine's base transfer tax rate is $2.20 per $500 of the sale price, which equals $4.40 per $1,000. This base rate is typically split equally between buyer and seller, though the split is negotiable between the parties.",
+      "explanation": "Maine's base transfer tax rate is $2.20 per $500 (or fractional part of $500) of the value of the property, which equals $4.40 per $1,000. By statute the tax is imposed half on the grantor (seller) and half on the grantee (buyer), though the parties may agree in their contract to allocate the cost differently between themselves.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -127,13 +127,13 @@
     {
       "key_topic_ref": "ME-11.2",
       "question_text": "Which transfer is typically exempt from Maine's real estate transfer tax?",
-      "correct_answer": "A deed between parent and child",
+      "correct_answer": "A no-consideration deed between parent and child",
       "distractors": [
         "A standard arm's-length home sale",
         "A sale between unrelated investors",
         "A commercial property flip"
       ],
-      "explanation": "Maine exempts certain interfamily transfers from the real estate transfer tax, including conveyances between parents and children. Standard sales between unrelated parties, investor transactions, and commercial sales are all subject to the transfer tax at applicable rates.",
+      "explanation": "Title 36, Section 4641-C(4) exempts deeds between spouses, parent and child, or grandparent and grandchild when there is no actual consideration for the deed, as well as deeds between spouses in divorce proceedings. A parent-child sale for real consideration is taxable, and standard sales between unrelated parties, investor transactions, and commercial flips are all subject to the transfer tax at applicable rates.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -141,18 +141,18 @@
     },
     {
       "key_topic_ref": "ME-11.2",
-      "question_text": "A first-time homebuyer purchases a $1.3 million home through MaineHousing. Under LD 210, which portion of the transfer tax may be exempt?",
-      "correct_answer": "The surcharge on amounts over $1M",
+      "question_text": "A first-time homebuyer finances a Maine home purchase through a MaineHousing first-time homebuyer mortgage program. Under the exemption effective November 1, 2025, how does the real estate transfer tax apply?",
+      "correct_answer": "The entire transfer tax is exempt for buyer and seller",
       "distractors": [
-        "The entire transfer tax is fully exempt",
-        "Only the base rate portion is exempt",
-        "No exemption applies at this sale price"
+        "Only the surcharge on amounts over $1 million is exempt",
+        "Only the buyer's half of the tax is exempt",
+        "No exemption applies; the buyer must request a refund later"
       ],
-      "explanation": "Under LD 210, first-time homebuyers purchasing through MaineHousing may be exempt from the additional surcharge portion that applies to amounts over $1 million. The base transfer tax rate of $2.20 per $500 still applies to the full purchase price. This exemption helps maintain affordability for qualifying buyers.",
+      "explanation": "Under Title 36, Section 4641-C(22), effective November 1, 2025, deeds to purchasers who receive financial assistance through the Maine State Housing Authority's first-time homebuyer mortgage loan programs are exempt from the real estate transfer tax, and the exemption applies to both the buyer and the seller. It is a full exemption from the entire tax — not just the surcharge portion on value over $1 million, and not just the buyer's half.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["transfer_tax", "MaineHousing", "first_time_buyer", "surcharge_exemption"]
+      "tags": ["transfer_tax", "MaineHousing", "first_time_buyer", "full_exemption"]
     },
     {
       "key_topic_ref": "ME-11.3",

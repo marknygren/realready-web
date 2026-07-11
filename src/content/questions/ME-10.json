@@ -21,18 +21,18 @@
     },
     {
       "key_topic_ref": "ME-10.1",
-      "question_text": "A married couple in Maine wants creditor protection on their home so that one spouse's individual debts cannot force a sale. Which form of ownership best achieves this?",
-      "correct_answer": "Tenancy by the entirety",
+      "question_text": "A married couple asks their Maine agent to have the deed to their new home run to them 'as tenants by the entirety' so that one spouse's individual creditors cannot reach it. What is the legal effect of that language in a Maine deed?",
+      "correct_answer": "It creates a joint tenancy, not a tenancy by the entirety",
       "distractors": [
-        "Tenancy in common",
-        "Joint tenancy with survivorship",
-        "Community property with survivorship"
+        "It creates a tenancy by the entirety with creditor protection",
+        "It makes the deed void for uncertainty",
+        "It creates community property with survivorship"
       ],
-      "explanation": "Tenancy by the entirety is available only to married couples in Maine and provides creditor protection against the individual debts of one spouse. A creditor of only one spouse generally cannot force the sale of entirety property. Maine is not a community property state, so that option does not exist.",
+      "explanation": "Maine has not recognized tenancy by the entirety since 1844 (Palmer v. Flint). Under 33 M.R.S. Section 159, deed language such as 'as tenants by the entirety' creates a joint tenancy with right of survivorship. There is no entirety-style creditor protection in Maine, and Maine is not a community property state.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["tenancy_by_entirety", "creditor_protection", "married_couples"]
+      "tags": ["joint_tenancy", "tenancy_by_entirety", "married_couples"]
     },
     {
       "key_topic_ref": "ME-10.1",
@@ -66,18 +66,18 @@
     },
     {
       "key_topic_ref": "ME-10.1",
-      "question_text": "A creditor obtains a judgment against a husband for a personal business debt. The couple holds their home as tenants by the entirety. Can the creditor force a sale of the home?",
-      "correct_answer": "No, entirety property is shielded",
+      "question_text": "A Maine deed conveys a home to a married couple 'as tenants by the entirety.' A creditor later obtains a judgment against the husband alone for a business debt. What is the creditor's position?",
+      "correct_answer": "The creditor can reach the husband's interest; the deed created a joint tenancy",
       "distractors": [
-        "Yes, the husband's half can be sold",
-        "Yes, after a 90-day waiting period",
-        "Only if the debt exceeds the equity"
+        "Nothing can be reached because entirety property is fully shielded",
+        "The creditor takes nothing because the deed is void",
+        "The creditor can force a sale of both spouses' interests"
       ],
-      "explanation": "Under Maine's tenancy by the entirety, neither spouse individually owns a divisible share that a creditor can seize. A judgment creditor of only one spouse generally cannot force the sale of entirety property. This protection is a key reason married couples choose this ownership form.",
+      "explanation": "Maine does not recognize tenancy by the entirety — and has not since 1844 (Palmer v. Flint) — so 'entirety' creditor protection does not exist in Maine. Under 33 M.R.S. Section 159, entirety language in a deed creates a joint tenancy with right of survivorship. A judgment creditor of one spouse can therefore reach that spouse's joint tenancy interest, though not the other spouse's interest.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["tenancy_by_entirety", "creditor_protection", "judgment"]
+      "tags": ["joint_tenancy", "creditor_protection", "judgment"]
     },
     {
       "key_topic_ref": "ME-10.2",
@@ -85,10 +85,10 @@
       "correct_answer": "Warranty deed with full covenants",
       "distractors": [
         "Quitclaim deed without any covenant",
-        "Quitclaim deed with limited covenant",
-        "Merger deed for parcel consolidation"
+        "Quitclaim deed with covenant",
+        "Municipal quitclaim deed"
       ],
-      "explanation": "A warranty deed with full covenants provides the buyer maximum protection. The grantor warrants clear title, the right to convey, freedom from encumbrances, quiet enjoyment, and defense against future claims. This is the strongest form of deed available in Maine.",
+      "explanation": "A warranty deed provides the buyer maximum protection. Under Maine's Short Form Deeds Act (33 M.R.S. Section 763), the grantor covenants lawful seizin in fee, freedom from all encumbrances, good right to sell and convey, and that the grantor will warrant and defend title against the lawful claims of all persons. This is the strongest of Maine's statutory short form deeds.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -111,18 +111,18 @@
     },
     {
       "key_topic_ref": "ME-10.2",
-      "question_text": "A property owner consolidates three adjacent lots into one parcel. Which deed type is commonly used for this purpose and often qualifies for a transfer tax exemption?",
-      "correct_answer": "Merger deed",
+      "question_text": "A Maine seller agrees to convey whatever interest she may have in a disputed strip of land, making no promises about the state of the title. Which Maine statutory short form deed fits this transaction?",
+      "correct_answer": "Quitclaim deed without covenant (release deed)",
       "distractors": [
-        "Warranty deed with full covenants",
-        "Quitclaim deed without covenant",
-        "Corrective deed"
+        "Warranty deed",
+        "Quitclaim deed with covenant",
+        "Mortgage deed"
       ],
-      "explanation": "A merger deed is used in Maine to consolidate multiple parcels into a single lot. Because no actual change in ownership occurs, merger deeds are often exempt from the real estate transfer tax. This is a practical tool for landowners reorganizing their holdings.",
+      "explanation": "The Quitclaim Deed Without Covenant, also called a release deed (33 M.R.S. Sections 775 and 161), conveys whatever interest the grantor has with no title covenants whatsoever. Maine's statutory short form deeds include the warranty deed, quitclaim deed with covenant, quitclaim deed without covenant (release deed), mortgage deed, and municipal quitclaim deed, among other fiduciary and mortgage-related forms — none is a 'merger deed.'",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["merger_deed", "parcel_consolidation", "tax_exemption"]
+      "tags": ["quitclaim_without_covenant", "release_deed", "deed_types"]
     },
     {
       "key_topic_ref": "ME-10.2",
@@ -186,33 +186,33 @@
     },
     {
       "key_topic_ref": "ME-10.3",
-      "question_text": "Maine follows which type of recording system for real property documents?",
-      "correct_answer": "Race-notice",
+      "question_text": "Under Maine's recording statute (33 M.R.S. Section 201), an unrecorded deed is still effective against which of the following?",
+      "correct_answer": "A person who had actual notice of the unrecorded deed",
       "distractors": [
-        "Pure race",
-        "Pure notice",
-        "Torrens title registration"
+        "A later purchaser for value with no notice of the deed",
+        "Anyone who searches the registry after the sale",
+        "No one — an unrecorded deed is void for all purposes"
       ],
-      "explanation": "Maine uses a race-notice recording system. To prevail over a prior unrecorded conveyance, a subsequent purchaser must both (1) record first and (2) take without actual or constructive notice of the prior conveyance. Simply recording first is not enough if the buyer had notice.",
-      "difficulty": "easy",
+      "explanation": "Under 33 M.R.S. Section 201, an unrecorded conveyance is not effective against any person except the grantor, the grantor's heirs and devisees, and persons having actual notice of it. The deed still binds those parties, but a subsequent purchaser without actual notice takes free of an unrecorded deed — which is why prompt recording at the county Registry of Deeds is essential.",
+      "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["race_notice", "recording_system", "priority"]
+      "tags": ["recording_statute", "actual_notice", "priority"]
     },
     {
       "key_topic_ref": "ME-10.3",
       "question_text": "In Maine, recording fees at the Registry of Deeds are based on what factor?",
-      "correct_answer": "The number of pages in the document",
+      "correct_answer": "A flat fee per document",
       "distractors": [
         "The sale price of the property",
         "The assessed value of the property",
-        "A flat fee regardless of document size"
+        "The number of pages in the document"
       ],
-      "explanation": "Maine recording fees are calculated based on the number of pages in the document being recorded. There is a base fee for the first page and an additional per-page charge. The fees are paid at the county Registry of Deeds and are not tied to property value.",
+      "explanation": "Effective January 1, 2026 (PL 2025, c. 328), Maine registries of deeds charge a flat recording fee per instrument — $35 for private parties ($25 for the State or a municipality) — plus a $5 records-preservation surcharge, or $40 total for a typical document regardless of length. This replaced the former per-page schedule ($19 for the first page plus $2 per additional page, plus a $3 surcharge). Fees are set by statute (33 M.R.S. Sections 751-752) and are not tied to property value.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["recording_fees", "registry_of_deeds", "calculation"]
+      "tags": ["recording_fees", "registry_of_deeds", "flat_fee"]
     },
     {
       "key_topic_ref": "ME-10.3",
@@ -223,11 +223,11 @@
         "Seller A, because both deeds are now void",
         "Both buyers share title as tenants in common"
       ],
-      "explanation": "Under Maine's race-notice system, Buyer C prevails because C both recorded first and had no notice of the prior conveyance to B. If C had known about B's deed, C would not prevail despite recording first. This illustrates why prompt recording is critical to protecting ownership rights.",
+      "explanation": "Under 33 M.R.S. Section 201, an unrecorded deed is not effective against anyone except the grantor, the grantor's heirs and devisees, and persons with actual notice of it. Buyer C prevails because C purchased without actual notice of B's unrecorded deed; had C actually known of B's deed, C would not be protected. C's prompt recording also protects C against any later claimants — which is why prompt recording is critical to protecting ownership rights.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["race_notice", "recording_priority", "constructive_notice"]
+      "tags": ["recording_priority", "actual_notice", "scenario"]
     }
   ]
 }
