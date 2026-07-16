@@ -13,7 +13,7 @@
         "Religion, creed, and religious denomination",
         "Physical disability and familial status"
       ],
-      "explanation": "The Minnesota Human Rights Act extends beyond federal protections to include sexual orientation (including gender identity), marital status, and status with regard to public assistance. Race, national origin, religion, color, disability, and familial status are covered under both federal and state law.",
+      "explanation": "The Minnesota Human Rights Act extends beyond federal fair housing protections to cover sexual orientation, gender identity (made a standalone protected class by a 2023 amendment), marital status, and status with regard to public assistance. Race, national origin, religion, color, disability, and familial status are covered under both federal and state law.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -21,14 +21,14 @@
     },
     {
       "key_topic_ref": "MN-10.1",
-      "question_text": "A landlord refuses to rent to a tenant because the tenant receives Section 8 housing vouchers. Under Minnesota law, this refusal is:",
-      "correct_answer": "Illegal discrimination based on public assistance",
+      "question_text": "A landlord refuses to rent to an applicant solely because the applicant receives public assistance benefits. Under the Minnesota Human Rights Act, this refusal is:",
+      "correct_answer": "Illegal discrimination based on status with regard to public assistance",
       "distractors": [
-        "Legal because vouchers are not guaranteed income",
-        "Permitted if the landlord has fewer than 4 units",
-        "Allowed with 30 days written notice to tenant"
+        "Legal because public assistance is not earned income",
+        "Permitted if the landlord owns fewer than 4 units",
+        "Allowed with 30 days written notice to the applicant"
       ],
-      "explanation": "Minnesota protects status with regard to public assistance as a class under the Human Rights Act. Refusing to rent to Section 8 voucher holders constitutes source-of-income discrimination, which is prohibited in many Minnesota jurisdictions regardless of property size.",
+      "explanation": "Status with regard to public assistance — being a recipient of federal, state, or local assistance — is a protected class under Minn. Stat. 363A.09. Refusing to rent because an applicant receives public assistance is illegal statewide. Minnesota case law draws one narrow line: a landlord's refusal to participate in the Section 8 voucher program itself is not, by itself, public-assistance discrimination under the state act (Edwards v. Hopkins Plaza, Minn. App. 2010), although a Minneapolis ordinance upheld by the Minnesota Supreme Court requires landlords in that city to accept vouchers.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -112,13 +112,13 @@
     {
       "key_topic_ref": "MN-10.2",
       "question_text": "A landlord with an owner-occupied fourplex refuses to rent to a family with children, citing noise concerns. In Minnesota, this action is:",
-      "correct_answer": "Illegal familial status discrimination",
+      "correct_answer": "Legal under the owner-occupied exemption for buildings of four or fewer units",
       "distractors": [
-        "Legal for owner-occupied properties of any size",
-        "Permitted if the landlord provides written notice",
-        "Allowed when other units have child tenants"
+        "Illegal familial status discrimination under the Human Rights Act",
+        "Legal only with prior approval from the Department of Human Rights",
+        "Illegal unless the landlord adopts a written no-children policy"
       ],
-      "explanation": "Minnesota provides broader familial status protections than federal law. Refusing to rent based on the presence of children constitutes illegal discrimination under the MHRA, even in owner-occupied properties. Noise concerns do not justify familial status discrimination.",
+      "explanation": "Minn. Stat. 363A.21, subd. 2 provides that the MHRA's familial status protections do not apply to any owner-occupied building containing four or fewer dwelling units, or to qualifying housing for elderly persons. Federal law has a parallel Mrs. Murphy exemption for owner-occupied buildings of four or fewer units. Because the landlord occupies a unit of the fourplex, the familial-status refusal is exempt — but no exemption would apply to race, color, or national origin, and discriminatory advertising remains prohibited.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -126,14 +126,14 @@
     },
     {
       "key_topic_ref": "MN-10.2",
-      "question_text": "An advertisement for a rental unit states 'No government housing programs accepted.' Under Minnesota law, this ad is most likely:",
-      "correct_answer": "Discriminatory based on source of income",
+      "question_text": "An advertisement for a rental unit states 'No public assistance recipients need apply.' Under the Minnesota Human Rights Act, this ad is most likely:",
+      "correct_answer": "Illegal because it expresses a limitation based on public assistance status",
       "distractors": [
         "Acceptable as a legitimate business preference",
         "Legal if the property is owner-occupied",
         "Permitted for units renting above market rate"
       ],
-      "explanation": "Advertising that excludes tenants using government housing assistance programs violates Minnesota's protection against discrimination based on status with regard to public assistance. This applies regardless of whether the property is owner-occupied or priced above market rate.",
+      "explanation": "Minn. Stat. 363A.09, subd. 1(3) makes it an unfair practice to publish any advertisement for the rental of real property that expresses, directly or indirectly, any limitation based on status with regard to public assistance. An ad excluding public assistance recipients violates the act regardless of rent level. By contrast, Minnesota case law treats a landlord's refusal to participate in the Section 8 voucher program itself as outside the state act (Edwards v. Hopkins Plaza, Minn. App. 2010); 'No Section 8' policies are squarely illegal only under local ordinances such as Minneapolis's, which the Minnesota Supreme Court upheld in 2025.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -145,10 +145,10 @@
       "correct_answer": "No exemption applies for race, color, or origin",
       "distractors": [
         "Minnesota eliminates all housing exemptions entirely",
-        "Federal law provides broader owner protections",
+        "Minnesota exempts owner-occupied buildings of up to six units",
         "Both laws treat owner-occupied units identically"
       ],
-      "explanation": "While the federal Mrs. Murphy exemption allows some owner-occupied housing discrimination, Minnesota removes that exemption for race, color, and national origin. The state does not eliminate all exemptions, but it significantly narrows them for these specific classes.",
+      "explanation": "While the federal Mrs. Murphy exemption allows some discrimination in owner-occupied buildings of four or fewer units, Minnesota's only comparable exemption is for a resident owner renting a room or rooms in a one-family accommodation — and it never applies to race, color, creed, religion, or national origin (Minn. Stat. 363A.21, subd. 1). Minnesota does retain other exemptions, such as one for familial status in owner-occupied buildings of four or fewer units.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -163,7 +163,7 @@
         "Two years of the alleged violation",
         "30 days of the alleged violation"
       ],
-      "explanation": "Complaints of housing discrimination must be filed with the Minnesota Department of Human Rights within one year of the alleged discriminatory act. The 180-day deadline applies to federal complaints filed with HUD, not Minnesota state complaints.",
+      "explanation": "Complaints must be filed with the Minnesota Department of Human Rights within one year of the alleged discriminatory act (Minn. Stat. 363A.28, subd. 3). The federal deadline for filing a housing discrimination complaint with HUD is also one year; the 180-day deadline applies to employment discrimination charges filed with the EEOC, not housing complaints.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -193,7 +193,7 @@
         "Automatic ownership transfer of the property",
         "Treble damages without proof of harm"
       ],
-      "explanation": "Remedies in Minnesota housing discrimination cases include actual damages, injunctive relief, civil penalties, and attorney fees. Criminal imprisonment, property transfer, and automatic treble damages are not available remedies under the MHRA.",
+      "explanation": "Under Minn. Stat. 363A.29, subd. 4, the ALJ must order compensatory damages of up to three times the actual damages sustained, and may also order damages for mental anguish, reasonable attorney's fees, punitive damages of up to $25,000, and a civil penalty payable to the state. Treble damages are a multiplier of proven actual damages, not an automatic award without proof of harm. Criminal imprisonment is not an MHRA remedy, and while the ALJ may order the unit sold or rented to the victim on the terms originally offered, there is no automatic transfer of ownership.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -223,7 +223,7 @@
         "Require the landlord to sell the property",
         "Suspend the landlord's driver's license"
       ],
-      "explanation": "Injunctive relief allows a court to order a landlord to take specific actions (such as renting to the complainant) or prohibit future discriminatory conduct. It goes beyond monetary penalties and addresses behavior directly, though it does not typically require property sale or affect unrelated licenses.",
+      "explanation": "Injunctive relief allows a court to order a landlord to take specific actions (such as renting to the complainant) or prohibit future discriminatory conduct. It goes beyond monetary penalties and addresses behavior directly, though it does not confiscate the property or affect unrelated licenses. (Separately, Minn. Stat. 363A.29, subd. 5 does let an ALJ order a unit sold or rented to the victim on the terms originally offered.)",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

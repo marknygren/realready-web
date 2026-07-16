@@ -45,13 +45,13 @@
     {
       "key_topic_ref": "MN-15.1",
       "question_text": "A homeowner's primary residence has a market value of $300,000. Under the Homestead Market Value Exclusion, approximately how much value is excluded?",
-      "correct_answer": "About $22,000 after phase-out",
+      "correct_answer": "About $19,550 after phase-out",
       "distractors": [
         "$38,000 maximum exclusion amount",
         "$95,000 at the full 40% rate",
         "$0 because it exceeds the threshold"
       ],
-      "explanation": "The exclusion is 40% of the first $95,000 ($38,000 max), then phases out between $95,000 and $517,200. At $300,000, the exclusion is partially phased out, resulting in approximately $22,000.",
+      "explanation": "The exclusion is 40% of the first $95,000 (maximum $38,000), reduced by 9% of the value over $95,000, and fully phased out at $517,200. At $300,000: $38,000 minus (9% of $205,000) = $38,000 minus $18,450 = $19,550.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -101,14 +101,14 @@
     },
     {
       "key_topic_ref": "MN-15.2",
-      "question_text": "A homeowner has not paid property taxes for 3 years on their primary residence. What happens next under Minnesota law?",
+      "question_text": "A homeowner's property taxes went delinquent, judgment was entered, and the parcel was bid in for the state at the tax judgment sale. The full redemption period passes with no payment. What happens next under Minnesota law?",
       "correct_answer": "The property forfeits to the state",
       "distractors": [
         "The county places a lien but takes no further action",
         "The owner has 5 more years before any consequence",
         "The mortgage lender automatically pays the taxes"
       ],
-      "explanation": "After 3 years of delinquent property taxes on homestead property, the property forfeits to the state. For vacant or abandoned property, the forfeiture period is only 1 year.",
+      "explanation": "Once taxes become delinquent, the county obtains a tax judgment and the parcel is bid in for the state at the annual tax judgment sale (Minn. Stat. 280.01). The owner then has a three-year redemption period (Minn. Stat. 281.17); if the property is not redeemed, it forfeits to the state. The same three-year period applies to homestead and non-homestead property alike.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -120,20 +120,20 @@
     },
     {
       "key_topic_ref": "MN-15.2",
-      "question_text": "How does the forfeiture timeline for vacant land differ from homestead property in Minnesota?",
-      "correct_answer": "Vacant land forfeits after 1 year of delinquency",
+      "question_text": "Measured from the tax judgment sale, how long is the redemption period before most Minnesota property forfeits for unpaid taxes?",
+      "correct_answer": "Three years",
       "distractors": [
-        "Vacant land follows the same 3-year timeline",
-        "Vacant land is exempt from tax forfeiture",
-        "Vacant land forfeits after 5 years of delinquency"
+        "One year",
+        "Five years",
+        "Six months"
       ],
-      "explanation": "Vacant or abandoned property forfeits after only 1 year of delinquent taxes, compared to 3 years for homestead property. This shorter timeline reflects the reduced hardship of forfeiting unoccupied land.",
+      "explanation": "Under Minn. Stat. 281.17, the redemption period is three years from the date the parcel is bid in for the state at the tax judgment sale, for homestead and non-homestead property alike. A one-year period applies to non-homestead land in a city-designated targeted community, and a court may shorten redemption to five weeks for certain vacant or abandoned properties (Minn. Stat. 281.173-281.174).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
         "tax-forfeiture",
-        "vacant-land",
+        "redemption-period",
         "timeline"
       ]
     },
@@ -178,13 +178,13 @@
     {
       "key_topic_ref": "MN-15.2",
       "question_text": "A vacant commercial lot has been tax-delinquent for 14 months. The owner claims they still have time to redeem. Is the owner correct?",
-      "correct_answer": "No, vacant property forfeits after just 1 year",
+      "correct_answer": "Yes, the three-year redemption period after the tax judgment sale has not expired",
       "distractors": [
-        "Yes, all properties get 3 years before forfeiture",
-        "Yes, commercial property gets 5 years",
-        "No, but the owner can appeal to district court"
+        "No, vacant property forfeits after one year of delinquency",
+        "No, commercial property cannot be redeemed once judgment is entered",
+        "Yes, but only if the owner posts a redemption bond with the court"
       ],
-      "explanation": "Vacant or abandoned property has only a 1-year delinquency period before forfeiture. At 14 months, the property has likely already forfeited and the redemption period has passed.",
+      "explanation": "Nearly all Minnesota property — vacant, commercial, or homestead — has a three-year redemption period that runs from the date the parcel is bid in for the state at the tax judgment sale (Minn. Stat. 281.17; 280.01). At 14 months of delinquency the owner may still redeem by paying the delinquent taxes, penalties, costs, and interest. A court order for certain vacant or abandoned parcels (Minn. Stat. 281.173-281.174) or targeted-community status can shorten the period.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -255,13 +255,13 @@
     {
       "key_topic_ref": "MN-15.3",
       "question_text": "A low-income renter in Minnesota pays rent that includes property taxes passed through by the landlord. What tax benefit may the renter claim?",
-      "correct_answer": "Property tax refund based on income relative to taxes",
+      "correct_answer": "A refundable renter's credit based on income and the rent attributed to property taxes",
       "distractors": [
         "Full exemption from property tax pass-through",
-        "A state income tax credit equal to total rent paid",
+        "A credit equal to the total rent paid during the year",
         "No benefit because renters do not pay property tax"
       ],
-      "explanation": "Minnesota provides a property tax refund program for both homeowners and renters. Renters qualify based on their income relative to the property taxes assumed to be included in their rent.",
+      "explanation": "Since 2024, renters claim a refundable renter's credit on the Minnesota income tax return (Minn. Stat. 290.0693), based on the portion of rent constituting property taxes relative to household income. It replaced the former renter's property tax refund. Homeowners claim a separate homestead credit refund under chapter 290A.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

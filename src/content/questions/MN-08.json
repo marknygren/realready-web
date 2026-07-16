@@ -36,14 +36,14 @@
     },
     {
       "key_topic_ref": "MN-08.1",
-      "question_text": "A buyer asks if anyone died in the home. Under Minnesota law, must the seller disclose this information?",
-      "correct_answer": "No, stigmatized events need not be disclosed",
+      "question_text": "A buyer asks whether anyone has died in the home. The seller knows a previous occupant died there of natural causes. Under Minnesota law, must this death be disclosed?",
+      "correct_answer": "No, natural deaths are exempt from disclosure",
       "distractors": [
         "Yes, all deaths must be disclosed by law",
-        "Only if the death was a violent homicide",
-        "Only if the death occurred within five years"
+        "Yes, but only in a written disclosure addendum",
+        "Yes, because the buyer asked directly"
       ],
-      "explanation": "Minnesota law does not require disclosure of stigmatized property events such as deaths, alleged hauntings, or that a previous occupant had HIV/AIDS. These are considered psychological impacts rather than physical property defects.",
+      "explanation": "Under Minn. Stat. 513.56, a seller has no duty to disclose that a property was the site of a suicide, accidental death, natural death, or perceived paranormal activity. Homicide is notably absent from the exemption list — a murder on the property may still be a material fact requiring disclosure under Minn. Stat. 513.55.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -58,7 +58,7 @@
         "Confirm or deny based on seller's knowledge",
         "Refer the question to the health department"
       ],
-      "explanation": "Minnesota law specifically protects against disclosure of a previous occupant's HIV/AIDS status as a stigmatized property characteristic. The seller's agent should inform the buyer's agent that this information is not subject to disclosure under Minnesota law.",
+      "explanation": "Under Minn. Stat. 513.56 and 82.68, the fact that an occupant had or was suspected of having HIV/AIDS is not a material fact, and neither the seller nor a licensee has any duty to disclose it. The seller's agent should explain that this is not a required disclosure under Minnesota law.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -88,7 +88,7 @@
         "A well permit with the county recorder",
         "A groundwater survey with the MPCA"
       ],
-      "explanation": "Minnesota requires sellers to file a well disclosure certificate with the Minnesota Department of Health. This certificate identifies all wells on the property, their status, and whether they have been properly sealed. It is separate from water quality testing.",
+      "explanation": "Minnesota requires a well disclosure certificate at closing identifying the location and status (in use, not in use, or sealed) of all known wells. The county recorder cannot record the deed without the certificate or a no-wells statement on the deed; the recorder collects a fee and forwards the certificate to the Minnesota Department of Health, or the certificate may be filed electronically with the Department of Health. It is separate from water quality testing.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -97,13 +97,13 @@
     {
       "key_topic_ref": "MN-08.2",
       "question_text": "A property has an old well that is no longer in use. What does Minnesota law require regarding this well?",
-      "correct_answer": "It must be sealed by a licensed well contractor",
+      "correct_answer": "It must be sealed unless a maintenance permit is held",
       "distractors": [
         "It may remain as-is if covered with a cap",
         "The buyer assumes responsibility after closing",
         "Only active wells require any action"
       ],
-      "explanation": "Minnesota requires that abandoned wells be properly sealed by a licensed well contractor to prevent groundwater contamination. Simply capping the well or leaving it alone is insufficient. All wells, active or abandoned, must be disclosed and abandoned ones must be sealed.",
+      "explanation": "Under Minn. Stat. 103I.301, a well that is not in use must be sealed by a licensed well contractor unless the owner obtains an annual maintenance permit from the Department of Health. Simply capping the well or leaving it alone is not permitted, and sealing must be performed by a licensed contractor — not the owner. All wells, whatever their status, must still be disclosed at sale.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -111,18 +111,18 @@
     },
     {
       "key_topic_ref": "MN-08.2",
-      "question_text": "A buyer is purchasing a rural property with a septic system. What is required before the sale closes?",
-      "correct_answer": "An ISTS compliance inspection before closing",
+      "question_text": "A buyer is purchasing a rural property served by a septic system. What does Minnesota state law require the seller to provide before signing the purchase agreement?",
+      "correct_answer": "A written disclosure of how sewage is managed",
       "distractors": [
+        "A statewide-mandated compliance inspection",
         "A complete new septic system installation",
-        "County approval for municipal sewer connection",
         "A soil percolation test ordered by the buyer"
       ],
-      "explanation": "Minnesota requires an Individual Sewage Treatment System (ISTS) compliance inspection before the sale of property with a septic system. If the inspection reveals non-compliance, the system must be brought into compliance. A new system is only needed if the existing one fails inspection.",
+      "explanation": "Minn. Stat. 115.55, subd. 6 requires the seller, before signing an agreement to sell, to disclose in writing how sewage generated at the property is managed, including a description and map of any subsurface sewage treatment system (SSTS) and its compliance status to the seller's knowledge; any prior inspection report in the seller's possession must be attached. State law does not mandate a point-of-sale compliance inspection — many counties and cities require one by local ordinance.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["septic_disclosure", "ISTS_inspection", "compliance"]
+      "tags": ["septic_disclosure", "SSTS_disclosure", "compliance"]
     },
     {
       "key_topic_ref": "MN-08.2",
@@ -133,7 +133,7 @@
         "The buyer may waive the compliance requirement",
         "A variance is automatically granted for five years"
       ],
-      "explanation": "When an ISTS compliance inspection reveals non-compliance, the septic system must be brought into compliance through repair or replacement. The sale does not have to be cancelled, but the non-compliant system must be fixed. Buyers cannot waive this health and safety requirement.",
+      "explanation": "A system that is an imminent threat to public health or safety must be upgraded, replaced, or its use discontinued within ten months under Minn. Stat. 115.55, subd. 5a; other noncompliant systems must be brought into compliance within the time set by rule or local ordinance. The sale need not be cancelled, and the parties may negotiate who performs and pays for the work, but the compliance obligation itself cannot be waived.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -208,7 +208,7 @@
         "The buyer assumes liability once purchase closes",
         "The MPCA handles all removal at no cost"
       ],
-      "explanation": "The current property owner is responsible for unregistered underground storage tanks on their property, including registration, testing, and potential removal or remediation. The MPCA does not perform removal at no cost, and liability cannot simply be passed to a previous owner or installer.",
+      "explanation": "The current property owner is responsible for the tank itself — notifying the MPCA of an unregistered or abandoned tank (Minn. Stat. 116.48) and handling testing, removal, or closure under MPCA rules. The MPCA does not remove tanks at no cost. Cleanup liability for any release rests with the person who owned or operated the tank when the release occurred, so a buyer does not automatically absorb a prior owner's release liability at closing.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

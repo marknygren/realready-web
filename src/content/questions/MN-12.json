@@ -36,18 +36,18 @@
     },
     {
       "key_topic_ref": "MN-12.1",
-      "question_text": "A wife refuses to sign the deed for the family homestead her husband wants to sell. The husband may alternatively obtain:",
-      "correct_answer": "A court order authorizing the conveyance",
+      "question_text": "A wife refuses to sign the deed for the family homestead her husband wants to sell. If the husband signs and delivers a deed to a buyer anyway, the conveyance is:",
+      "correct_answer": "Void, even though the husband holds sole title",
       "distractors": [
-        "A broker's waiver substituting for spousal consent",
-        "Title insurance that overrides the requirement",
-        "A notarized affidavit from two family members"
+        "Valid, because only the titleholder must sign",
+        "Voidable at the buyer's option for one year",
+        "Valid if the buyer did not know the seller was married"
       ],
-      "explanation": "When a spouse refuses to sign a homestead conveyance, Minnesota law allows the titleholder to petition the court for an order authorizing the sale. Broker waivers, title insurance, and family affidavits cannot substitute for the required spousal signature.",
+      "explanation": "Under Minnesota Statutes section 507.02, a married owner cannot convey the homestead without the signatures of both spouses, with narrow exceptions such as a purchase-money mortgage or a conveyance between spouses. The Minnesota Supreme Court has held that a homestead conveyance signed by only one spouse is not merely voidable but void — the buyer acquires no interest. There is no court-order procedure to override a competent spouse's refusal to sign; only the spouse (or the spouse's own attorney-in-fact) can supply the required signature.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["homestead", "court_order", "spousal_consent", "conveyance"]
+      "tags": ["homestead", "spousal_consent", "void_conveyance", "deed"]
     },
     {
       "key_topic_ref": "MN-12.1",
@@ -88,7 +88,7 @@
         "The local planning and zoning board",
         "The Minnesota Attorney General's office"
       ],
-      "explanation": "Under the Minnesota Subdivided Lands Act (Ch. 83.20-83.45), developers must register subdivisions with the Department of Commerce before selling lots. While county recording and local zoning approvals may also be needed, the Commerce Department registration is the specific requirement under this act.",
+      "explanation": "Under the Minnesota Subdivided Land Sales Practices Act (Minn. Stat. 83.20-83.42), it is unlawful to offer or sell interests in subdivided lands unless they are registered with the commissioner of commerce, so the Department of Commerce is the registering agency. Note that exemptions exist — for example, offerings of ten or fewer lots and land inside a municipality that has adopted subdivision regulations. County recording and local zoning approvals may also be needed, but they are not the registration this act requires.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -118,7 +118,7 @@
         "Must pay a 10% cancellation penalty",
         "Can only cancel within 24 hours of signing"
       ],
-      "explanation": "The Minnesota Subdivided Lands Act grants buyers a right of rescission after receiving the public offering statement. This cooling-off period allows buyers to review the property report and cancel if they choose, without penalty.",
+      "explanation": "Under Minn. Stat. 83.28, the buyer has an unconditional right to rescind at any time before, or within five days after, actually receiving both the binding contract and the public offering statement — so the clock here starts when the report is received. If the statement is never provided as required, the contract is voidable by the buyer for up to three years. There is no cancellation penalty, and the rescission right cannot be waived.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -171,14 +171,14 @@
     },
     {
       "key_topic_ref": "MN-12.3",
-      "question_text": "Which agreement must be in writing under Minnesota's statute of frauds?",
+      "question_text": "Under Minnesota law, which of the following agreements must be in writing?",
       "correct_answer": "A buyer representation agreement",
       "distractors": [
         "An agreement to schedule a home inspection",
         "A verbal offer to purchase personal property",
         "A month-to-month residential lease"
       ],
-      "explanation": "Minnesota's statute of frauds requires buyer representation agreements, listing agreements, real property contracts, and leases over one year to be in writing. Home inspection scheduling, personal property agreements, and month-to-month leases are not subject to this requirement.",
+      "explanation": "Minnesota's real estate license law (Minn. Stat. 82.66) requires both listing agreements and buyer representation (buyer's broker) agreements to be in writing and signed, and the statute of frauds (Minn. Stat. 513.04-513.05) requires contracts for the sale of land and leases longer than one year to be written. Scheduling a home inspection, an offer for personal property, and a month-to-month residential lease need not be in writing.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -193,7 +193,7 @@
         "A description of the property being sold",
         "The terms and conditions of the agreement"
       ],
-      "explanation": "Under the statute of frauds, listing agreements must identify the parties, describe the property, state the terms, and be signed. The seller's original purchase price is not a required element of the listing agreement.",
+      "explanation": "Minn. Stat. 82.66, subd. 1 requires listing agreements to be in writing and to include items such as a definite expiration date, a description of the property, the list price and seller's terms, the compensation or how it is computed, and the events that entitle the broker to a commission. The seller's original purchase price is not a required element.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

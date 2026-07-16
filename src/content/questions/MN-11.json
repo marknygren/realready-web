@@ -51,14 +51,14 @@
     },
     {
       "key_topic_ref": "MN-11.1",
-      "question_text": "Effective 2024, Minnesota landlords must disclose non-optional fees on which part of the lease?",
+      "question_text": "Effective January 1, 2024, a Minnesota lease must state the rent plus all non-optional fees as a 'Total Monthly Payment' listed on:",
       "correct_answer": "The first page of the lease document",
       "distractors": [
         "A separate addendum signed at move-in",
         "The final page before the signature block",
         "An annual fee schedule mailed to the tenant"
       ],
-      "explanation": "As of 2024, Minnesota law requires landlords to disclose all non-optional fees (trash, pet, parking, etc.) on the first page of the lease. This ensures tenants see the full cost before signing.",
+      "explanation": "Minn. Stat. § 504B.120 (effective Jan. 1, 2024) requires landlords to disclose all nonoptional fees in the lease agreement, and the sum of rent plus all nonoptional fees must be described as the Total Monthly Payment and listed on the first page of the lease. Advertisements must also disclose nonoptional fees and whether utilities are included. Violations expose the landlord to treble damages and attorney fees.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -73,7 +73,7 @@
         "14 days to provide a copy upon request only",
         "Met their duty if terms were discussed verbally"
       ],
-      "explanation": "Minnesota requires landlords to provide tenants with a written copy of the lease or a summary of its terms. Failure to do so violates the landlord's statutory obligation, regardless of whether the tenant also signed the document.",
+      "explanation": "Minn. Stat. § 504B.115 requires a landlord to give a copy of the written lease to a tenant occupying the unit whose signature appears on the lease. Failure to do so gives the tenant a defense in most actions to enforce the written lease (except nonpayment of rent, disturbing the peace, malicious destruction of property, or covenant violations under section 504B.171).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -103,7 +103,7 @@
         "14 days after the final inspection",
         "60 days after the last rent payment"
       ],
-      "explanation": "Minnesota law requires landlords to return the security deposit or provide an itemized list of deductions within 21 days after the tenant vacates the premises. The deadline runs from the date the tenant moves out, not the lease expiration or inspection date.",
+      "explanation": "Minn. Stat. § 504B.178, subd. 3 requires the landlord, within three weeks (21 days) after termination of the tenancy and receipt of the tenant's mailing address or delivery instructions, to return the deposit with interest or furnish a written statement of the specific reason for withholding. The period is five days when the tenant leaves due to legal condemnation. Mailing the deposit or statement first-class within the deadline is sufficient compliance.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -111,33 +111,33 @@
     },
     {
       "key_topic_ref": "MN-11.2",
-      "question_text": "A Minnesota landlord holds a tenant's $1,200 security deposit for 14 months. How much interest must be paid to the tenant?",
-      "correct_answer": "Interest at the passbook savings rate annually",
+      "question_text": "A Minnesota landlord holds a tenant's $1,200 security deposit for the entire tenancy. Under Minnesota Statutes section 504B.178, the deposit must earn:",
+      "correct_answer": "Simple noncompounded interest at 1% per year",
       "distractors": [
         "No interest is required in Minnesota",
-        "A flat 5% annual rate set by statute",
-        "Interest only if the deposit exceeds $1,000"
+        "Interest at the bank's passbook savings rate",
+        "Compound interest at 3% per year"
       ],
-      "explanation": "Minnesota requires landlords statewide to pay interest on security deposits at the passbook savings rate, calculated annually. This applies to all deposit amounts, and the obligation is not optional or limited by deposit size.",
+      "explanation": "Minn. Stat. § 504B.178, subd. 2 requires residential security deposits to bear simple noncompounded interest at one percent per annum, computed from the first day of the month after the deposit is paid in full. The rate is fixed by statute — it is not tied to bank passbook savings rates — and applies statewide to deposits of any size. Total interest of less than $1 is excluded.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["security_deposit", "interest", "passbook_rate"]
+      "tags": ["security_deposit", "interest", "one_percent_interest"]
     },
     {
       "key_topic_ref": "MN-11.2",
-      "question_text": "A tenant has a certified service animal. Under 2024 Minnesota law, the landlord may charge:",
+      "question_text": "A tenant with a disability keeps a documented service animal as a reasonable accommodation. Under Minnesota law, the landlord may charge:",
       "correct_answer": "No deposit or fee for the service animal",
       "distractors": [
         "A refundable pet deposit up to $300",
         "A monthly pet fee for wear and tear",
         "A non-refundable cleaning surcharge"
       ],
-      "explanation": "As of 2024, Minnesota prohibits landlords from charging any deposits or fees for service or support animals. This aligns with federal fair housing protections and Minnesota's own Human Rights Act provisions regarding disability accommodations.",
+      "explanation": "Minn. Stat. § 504B.113, subd. 3 (enacted 2021) prohibits landlords from requiring an additional fee, charge, or deposit for a service or support animal kept as a reasonable accommodation, consistent with federal fair housing law. The tenant remains liable for any damage the animal causes to the premises. A 2024 amendment added a requirement that leases imposing pet fees disclose this prohibition.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["security_deposit", "service_animal", "2024_law", "disability"]
+      "tags": ["security_deposit", "service_animal", "504B.113", "disability"]
     },
     {
       "key_topic_ref": "MN-11.2",
@@ -193,7 +193,7 @@
         "Hold the unit vacant until the lease expires",
         "File criminal charges against the tenant"
       ],
-      "explanation": "As of 2024, Minnesota codifies the landlord's duty to mitigate damages when a tenant leaves early. The landlord must make reasonable efforts to re-rent the unit and cannot simply hold the tenant liable for the entire remaining lease term without attempting to find a replacement tenant.",
+      "explanation": "Minnesota codified the landlord's duty to mitigate in Minn. Stat. § 504B.154 (enacted 2024, effective January 1, 2025). When a tenant abandons the unit mid-lease, the landlord must make reasonable efforts to re-rent it at fair rental value; if the landlord re-rents, or fails to make reasonable efforts, the original lease terminates and the tenant owes no rent after termination. Tenants cannot waive this protection.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -208,7 +208,7 @@
         "Terminate the lease without any obligation",
         "Hire a contractor and bill the landlord directly"
       ],
-      "explanation": "Minnesota provides tenants with the rent escrow remedy, where a court holds rent payments until the landlord makes necessary repairs. The implied covenant of habitability supports this action. Repair-and-deduct is also available, but tenants cannot simply withhold rent indefinitely or terminate without following proper procedures.",
+      "explanation": "Minnesota provides tenants the rent escrow remedy under Minn. Stat. § 504B.385: after written notice to the landlord, the tenant deposits rent with the court, which can order repairs, rent abatement, or other relief. The implied covenant of habitability (§ 504B.161) supports this action. Tenants may not simply withhold rent — while an escrow action is pending the statute bars withholding — and repair-and-deduct is available only if the court orders it as relief, not as a unilateral self-help remedy.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

@@ -26,13 +26,13 @@
     {
       "key_topic_ref": "MN-14.1",
       "question_text": "Two buyers each claim ownership of the same parcel recorded in the abstract system. Buyer A recorded first. Who has priority?",
-      "correct_answer": "Buyer A, based on first in time recording",
+      "correct_answer": "Buyer A, who took in good faith and recorded first",
       "distractors": [
         "Buyer B, if they paid a higher purchase price",
         "Neither, until a court determines ownership",
         "Buyer B, if they took possession first"
       ],
-      "explanation": "In the abstract recording system, priority is determined by 'first in time, first in right.' The party who records first has superior claim, providing constructive notice to subsequent purchasers.",
+      "explanation": "Minnesota's recording act (Minn. Stat. 507.34) is a race-notice statute: an unrecorded conveyance is void as against a subsequent purchaser in good faith and for valuable consideration whose conveyance is first duly recorded. Buyer A, having recorded first (and taken in good faith if Buyer A purchased second), has priority, and the recording gives constructive notice to everyone thereafter.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -70,7 +70,7 @@
         "The larger mortgage amount takes priority",
         "Priority depends on when funds were disbursed"
       ],
-      "explanation": "Under the abstract system, priority is determined by date and time of recording. The mortgage recorded at 10 a.m. was first in time and therefore has superior priority.",
+      "explanation": "Once the 10 a.m. mortgage is recorded, it gives constructive notice, so the 2 p.m. lender cannot qualify as a good-faith purchaser without notice under Minnesota's race-notice recording act (Minn. Stat. 507.34). The mortgage recorded at 10 a.m. therefore has priority.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -127,7 +127,7 @@
         "The county automatically issues a new certificate of title",
         "The buyer owns the property but cannot sell or encumber it"
       ],
-      "explanation": "In the Torrens system, merely recording a deed is insufficient. A new Certificate of Title must be filed with the county registrar to complete the transfer and reflect the new owner.",
+      "explanation": "Under Minn. Stat. 508.47, a deed to Torrens land operates only as a contract between the parties and as authority for the registrar to make registration — the act of registration is the operative act that conveys title. The buyer must present the deed to the county registrar of titles, who cancels the old certificate and issues a new Certificate of Title in the buyer's name.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -146,7 +146,7 @@
         "State real estate recovery fund",
         "Title insurance guaranty fund"
       ],
-      "explanation": "The Torrens system maintains an assurance fund to compensate parties who suffer losses due to errors in the system. This fund provides a financial remedy when the certificate of title contains mistakes.",
+      "explanation": "Minnesota's Torrens law gives a compensation remedy — historically called the assurance fund — to a person who, without negligence, loses land through an error, omission, or misdescription in the registration system. Under Minn. Stat. 508.75-508.77, registration fees are credited to the state general fund and court-ordered compensation is paid out of the general fund.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -241,33 +241,33 @@
         "$1,320 at 0.33% of the loan",
         "$0 because residential loans are exempt"
       ],
-      "explanation": "The mortgage registry tax is 0.23% of the debt secured. In Hennepin County, an additional 0.01% ERT applies, making the combined rate 0.24%. $400,000 x 0.0024 = $960.",
+      "explanation": "The mortgage registry tax is 0.23% of the debt secured (Minn. Stat. 287.035). In Hennepin County, an additional 0.01% environmental response fund (ERF) tax applies (Minn. Stat. 383B.80), making the combined rate 0.24%. $400,000 x 0.0024 = $960.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "mortgage-registry-tax",
         "Hennepin-County",
-        "ERT"
+        "ERF"
       ]
     },
     {
       "key_topic_ref": "MN-14.3",
-      "question_text": "Which type of loan is typically exempt from Minnesota's mortgage registry tax?",
-      "correct_answer": "Government-backed loans",
+      "question_text": "Which of the following is exempt from Minnesota's mortgage registry tax?",
+      "correct_answer": "A contract for deed",
       "distractors": [
-        "Conventional loans under $500,000",
-        "Commercial loans from state-chartered banks",
-        "Second mortgages on residential property"
+        "An FHA-insured home loan",
+        "A conventional loan under $500,000",
+        "A second mortgage securing a new debt"
       ],
-      "explanation": "Minnesota exempts government-backed loans (such as FHA and VA) from the mortgage registry tax. Conventional loans are not exempt regardless of size.",
+      "explanation": "Minn. Stat. 287.04 exempts a contract for the conveyance of any interest in real property, including a contract for deed, from the mortgage registry tax. Other exemptions include mortgage amendments or extensions, certain agricultural mortgages, and affordable-housing loans where a government agency is the mortgagee. FHA and VA loans are NOT exempt - the borrower (mortgagor) owes the 0.23% tax like any other borrower.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
         "mortgage-registry-tax",
         "exemptions",
-        "government-loans"
+        "contract-for-deed"
       ]
     },
     {
@@ -279,12 +279,12 @@
         "Only the mortgage registry tax on the loan",
         "Neither tax applies in Ramsey County"
       ],
-      "explanation": "Hennepin and Ramsey counties add a 0.01% Environmental Response Fund Tax (ERT) surcharge to both the deed tax and the mortgage registry tax. This is unique to these two counties.",
+      "explanation": "Hennepin and Ramsey counties add a 0.01% Environmental Response Fund Tax (ERF) surcharge to both the deed tax and the mortgage registry tax. This is unique to these two counties.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": [
-        "ERT",
+        "ERF",
         "Ramsey-County",
         "deed-tax",
         "mortgage-registry-tax"

@@ -148,7 +148,7 @@
         "Supervised field training hours",
         "A broker attestation of competency"
       ],
-      "explanation": "Minnesota's CE program includes state-mandated topic modules that all licensees must complete as part of their 30-hour requirement. The specific topics change each cycle. Minnesota does not require a proctored exam, field training hours, or broker attestation as part of CE renewal.",
+      "explanation": "Minnesota's CE program includes commissioner-mandated module courses (3.75 or 7.5 hours each license year) that all licensees must complete within the 30-hour requirement; the commissioner sets the module topic annually. Each module ends with a short written test administered by the course provider, but Minnesota does not require a separately proctored exam, field training hours, or broker attestation as part of CE renewal. (Minn. Stat. § 82.61(h), (j).)",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -171,14 +171,14 @@
     },
     {
       "key_topic_ref": "MN-02.3",
-      "question_text": "A nonresident applicant from Illinois applies for a Minnesota real estate license. What exam component must she pass?",
+      "question_text": "A nonresident with an active Illinois real estate license applies for a Minnesota real estate license. Illinois is not a reciprocal state. What exam component must she pass?",
       "correct_answer": "The Minnesota state-specific exam portion",
       "distractors": [
         "Both the national and state portions",
         "No exam is required for nonresidents",
         "Only the national portion of the exam"
       ],
-      "explanation": "Nonresident applicants from states other than Wisconsin must pass the Minnesota state-specific exam. If they hold an active license in their home state, Minnesota generally requires only the state portion, recognizing the national education and exam from their home state.",
+      "explanation": "Actively licensed applicants from non-reciprocal states such as Illinois must pass only the state portion of the Minnesota exam — the national portion is waived. However, Minnesota does not waive education for them: they must still complete the full 90 hours (Courses I, II, and III). Licensees from Minnesota's reciprocal states (Colorado, Iowa, Nebraska, North Dakota, South Dakota, and Oklahoma) are licensed without any Minnesota exam or pre-license education.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -186,29 +186,29 @@
     },
     {
       "key_topic_ref": "MN-02.3",
-      "question_text": "An Iowa-licensed agent wants to practice real estate in Minnesota. She is not eligible for the Wisconsin reciprocity course. What is her path to licensure?",
-      "correct_answer": "Pass the MN state exam portion",
+      "question_text": "An actively licensed Iowa salesperson who lives in Iowa wants to obtain a Minnesota real estate license. What is her path to licensure?",
+      "correct_answer": "Apply under reciprocity — no Minnesota exam or pre-license education is required",
       "distractors": [
-        "Complete the 13-hour WI reciprocity course",
-        "Complete all 90 hours of MN pre-license courses",
-        "Obtain a temporary practice permit first"
+        "Complete the 13-hour reciprocity course and pass the state exam portion",
+        "Complete all 90 hours of MN pre-license courses and pass both exam portions",
+        "Pass the Minnesota state exam portion only"
       ],
-      "explanation": "Nonresident licensees from states other than Wisconsin must pass the Minnesota state-specific exam portion. The 13-hour reciprocity course is only available to Wisconsin licensees. Minnesota does not require the full 90-hour pre-license education for actively licensed nonresidents.",
+      "explanation": "Iowa is one of Minnesota's reciprocal states (along with Colorado, Nebraska, North Dakota, South Dakota, and Oklahoma for salespersons). An applicant who resides in and holds an active license in a reciprocal state is licensed without taking any Minnesota examination or pre-license education: a Minnesota-licensed primary broker submits the application, and the applicant provides a current letter of certification from her home state. The 13-hour reciprocal course plus state-portion exam path applies only to Wisconsin licensees, and the full 90 hours plus state portion applies to licensees from non-reciprocal states.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["nonresident_licensing", "state_exam", "Iowa"]
+      "tags": ["nonresident_licensing", "reciprocal_states", "Iowa"]
     },
     {
       "key_topic_ref": "MN-02.3",
-      "question_text": "Which state has a specific reciprocity course arrangement with Minnesota for real estate licensing?",
+      "question_text": "Which state's licensees must complete a special 13-hour reciprocal pre-license course to obtain a Minnesota real estate license?",
       "correct_answer": "Wisconsin",
       "distractors": [
         "Iowa",
         "North Dakota",
         "South Dakota"
       ],
-      "explanation": "Minnesota has a specific reciprocity arrangement only with Wisconsin, which includes a dedicated 13-hour reciprocity course. While nonresidents from other states can obtain Minnesota licensure, they do not have a reciprocity course arrangement and must follow the standard nonresident application process.",
+      "explanation": "Wisconsin licensees follow a unique track: they must complete the 13-hour Wisconsin to Minnesota Reciprocal Prelicense course and pass the state portion of the Minnesota exam. Minnesota also has full reciprocal agreements with Colorado, Iowa, Nebraska, North Dakota, South Dakota, and Oklahoma — salespersons actively licensed and residing in those states are licensed with no Minnesota course and no Minnesota exam, using only a license application and a letter of certification.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,

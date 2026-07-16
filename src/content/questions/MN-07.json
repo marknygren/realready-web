@@ -28,7 +28,7 @@
         "Get written permission from the seller",
         "Run a background check on the buyer"
       ],
-      "explanation": "Scheduling and conducting a private showing constitutes substantive contact. The agent must provide a written agency disclosure explaining all available relationship types before providing this service. Pre-approval, seller permission, and background checks are not required before a showing.",
+      "explanation": "Minnesota requires the agency disclosure form at the first substantive contact in a residential transaction (Minn. Stat. § 82.67, subd. 1). By the time a licensee is arranging and conducting a private showing, the consumer's motivations and interest in the property are in play, so the written disclosure should be presented no later than the showing. Pre-approval, specific seller permission for a showing, and background checks are not required by law.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -51,14 +51,14 @@
     },
     {
       "key_topic_ref": "MN-07.1",
-      "question_text": "A licensee meets a potential buyer at an open house. They exchange pleasantries and the buyer asks about the property's school district. Has substantive contact occurred requiring disclosure?",
-      "correct_answer": "Yes, discussing property details is substantive",
+      "question_text": "A licensee greets a visitor at an open house. The visitor mentions needing to buy quickly because of a job transfer and asks what price the seller might accept. Has first substantive contact occurred, requiring agency disclosure?",
+      "correct_answer": "Yes, the visitor is discussing motivation and price",
       "distractors": [
-        "No, open houses are always exempt from disclosure",
-        "No, casual conversation is never substantive",
-        "Only if the buyer signs a guest register first"
+        "No, open houses are exempt from the disclosure requirement",
+        "No, disclosure is required only once an offer is written",
+        "Only if the visitor signs the guest register"
       ],
-      "explanation": "Discussing specific property details such as school districts goes beyond casual greeting and constitutes substantive contact. The licensee should provide the agency disclosure before continuing the conversation about property specifics. Open houses are not exempt from disclosure requirements.",
+      "explanation": "Minnesota requires the agency disclosure form at the first substantive contact in a residential transaction (Minn. Stat. § 82.67, subd. 1). The statute does not define the term, but substantive contact is generally understood to occur when a consumer begins discussing price, terms, or motivation. A visitor revealing a moving deadline and asking about acceptable price has moved well beyond casual conversation, so the form should be presented. There is no open-house exemption and no guest-register condition.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -157,13 +157,13 @@
     {
       "key_topic_ref": "MN-07.3",
       "question_text": "What is the role of a facilitator in a Minnesota real estate transaction?",
-      "correct_answer": "A transaction broker with no fiduciary duties",
+      "correct_answer": "A non-agent who assists without representing either party",
       "distractors": [
         "A mediator who resolves disputes between parties",
         "An agent who represents both buyer and seller",
         "A broker who supervises other licensees"
       ],
-      "explanation": "A facilitator in Minnesota acts as a transaction broker who assists both parties but owes no fiduciary duties to either. The facilitator's obligations are limited to honesty, good faith, and disclosure of material facts. This is distinct from dual agency, where fiduciary duties exist to both parties.",
+      "explanation": "A facilitator performs services for a buyer, a seller, or both without representing either in a fiduciary capacity (Minn. Stat. § 82.67, subd. 3). Under the statutory disclosure form, a facilitator owes no fiduciary duties except confidentiality, unless additional duties are included in a written facilitator services agreement, and must still disclose required material facts. This is distinct from dual agency, where limited fiduciary duties are owed to both parties.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -171,18 +171,18 @@
     },
     {
       "key_topic_ref": "MN-07.3",
-      "question_text": "Two buyers working with agents at the same brokerage want to make offers on the same property listed by that brokerage. Neither buyer wants dual agency. What arrangement can the brokerage offer?",
-      "correct_answer": "Facilitator status for one or both parties",
+      "question_text": "A salesperson acting as a facilitator for a buyer shows the buyer a home listed by the salesperson's own brokerage. Under Minnesota's agency disclosure form, what role must the salesperson assume for that transaction?",
+      "correct_answer": "Seller's broker",
       "distractors": [
-        "Mandatory dual agency for all parties",
-        "Referral to a competing brokerage",
-        "Designated agency with separate agents"
+        "Facilitator for both parties",
+        "Buyer's broker",
+        "Designated agent for the buyer"
       ],
-      "explanation": "When parties do not consent to dual agency but the same brokerage is involved, the facilitator role is commonly used. The facilitator assists the transaction without owing fiduciary duties, providing only honesty, good faith, and material fact disclosure.",
+      "explanation": "Minnesota's statutory agency disclosure form provides that when a facilitator working with a buyer shows a property listed by the facilitator's broker, the facilitator must act as a seller's broker for that transaction (Minn. Stat. § 82.67, subd. 3, para. IV). A licensee cannot act as a facilitator for one party while the brokerage represents the other party; a brokerage may act as facilitator for both parties only when it represents neither. Minnesota has no designated-agency statute — same-broker split representation is dual agency (Minn. Stat. § 82.55, subd. 6).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["facilitator", "dual_agency_alternative", "same_brokerage"]
+      "tags": ["facilitator", "in_house_listing", "sellers_broker"]
     },
     {
       "key_topic_ref": "MN-07.3",
@@ -193,7 +193,7 @@
         "Yes, if the seller specifically asks",
         "Yes, because it benefits the seller client"
       ],
-      "explanation": "A dual agent cannot disclose confidential information from one party to the other. The buyer's willingness to pay more is confidential negotiating information. The only exception is material facts that must be disclosed by law, and a party's negotiating position is not a required material fact.",
+      "explanation": "A dual agent must keep information about price, terms, and motivation confidential unless the party the information concerns instructs the broker in writing to disclose it (Minn. Stat. § 82.67, subd. 4). The buyer's willingness to pay more is confidential negotiating information, and the seller asking is not enough — only the buyer's written instruction would permit disclosure. Material facts about the property must still be disclosed, but a party's negotiating position is not a material fact.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -201,18 +201,18 @@
     },
     {
       "key_topic_ref": "MN-07.3",
-      "question_text": "Which duties does a Minnesota facilitator owe to the parties in a transaction?",
-      "correct_answer": "Honesty, good faith, and material fact disclosure",
+      "question_text": "Under Minnesota's statutory agency disclosure form, which fiduciary duty does a facilitator owe to the party the facilitator works with, absent a written services agreement adding more?",
+      "correct_answer": "Confidentiality only",
       "distractors": [
-        "Full fiduciary duties to both parties",
-        "Loyalty and confidentiality to the buyer only",
-        "Obedience and accounting to the seller only"
+        "Loyalty and obedience",
+        "Full fiduciary duties, including accounting",
+        "No duties of any kind"
       ],
-      "explanation": "A facilitator owes only the duties of honesty, good faith, and disclosure of material facts. Unlike agents, facilitators do not owe fiduciary duties such as loyalty, obedience, or confidentiality to either party. This limited duty is what distinguishes the facilitator role.",
+      "explanation": "Minnesota's agency disclosure form states that a facilitator does not owe any of the listed fiduciary duties except confidentiality, unless additional duties are included in a written facilitator services agreement (Minn. Stat. § 82.67, subd. 3, para. IV). Facilitators must still comply with duties imposed by law on all licensees — such as disclosing material facts under Minn. Stat. § 82.68, subd. 3 — but loyalty, obedience, and accounting are not owed.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["facilitator", "limited_duties", "honesty"]
+      "tags": ["facilitator", "confidentiality", "limited_duties"]
     },
     {
       "key_topic_ref": "MN-07.3",

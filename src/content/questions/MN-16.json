@@ -120,14 +120,14 @@
     },
     {
       "key_topic_ref": "MN-16.2",
-      "question_text": "A borrower's 15-acre property is foreclosed. The original mortgage was $300,000 and the amount owed is $280,000. What is the redemption period?",
-      "correct_answer": "12 months because the property exceeds 10 acres",
+      "question_text": "A borrower's 60-acre property is foreclosed. The original mortgage was $300,000 and the amount owed is $280,000. What is the redemption period?",
+      "correct_answer": "12 months because the premises exceed 40 acres",
       "distractors": [
         "6 months as the standard residential period",
         "5 weeks because of the loan-to-value ratio",
-        "24 months for properties over 10 acres"
+        "24 months for properties over 40 acres"
       ],
-      "explanation": "Minnesota provides a 12-month redemption period for properties over 10 acres, agricultural land, or when the amount due is less than 66 2/3% of the original principal. The 15-acre parcel triggers the 12-month period.",
+      "explanation": "Under Minn. Stat. 580.23, subd. 2, the redemption period is 12 months when the mortgaged premises exceeded 40 acres at the time the mortgage was executed. Twelve months also applies to 10-to-40-acre parcels in agricultural use and when the amount due is less than 66 2/3% of the original principal — not met here, since $280,000 is over 93% of $300,000. Most residential properties get the standard 6 months.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -222,7 +222,7 @@
         "90 days for all residential contracts",
         "120 days if the buyer has paid more than half"
       ],
-      "explanation": "Minnesota provides a 60-day cancellation notice period for most residential contracts for deed. During this time, the buyer can cure the default by making all past-due payments.",
+      "explanation": "Minnesota provides a 60-day cancellation notice period for most residential contracts for deed (Minn. Stat. 559.21, subd. 2a). During this time, the buyer can cure the default by making all past-due payments plus costs of service, 2% of the amount in default, and statutory attorney fees. For contracts executed on or after August 1, 2024, by an investor seller, the notice period is 90 days.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -241,7 +241,7 @@
         "30-day expedited cancellation notice",
         "120-day extended cancellation notice"
       ],
-      "explanation": "Effective 2025, Ch. 559A requires investor sellers to provide a 90-day cancellation notice (instead of the standard 60 days). Investor sellers must also give a 30-day pre-default notice before starting cancellation.",
+      "explanation": "Minnesota's 2024 contract-for-deed reforms (effective for contracts executed on or after August 1, 2024) created Ch. 559A and amended Minn. Stat. 559.21: a contract for deed executed by an investor seller terminates on 90 days' notice instead of the standard 60. The investor seller also may not serve the cancellation notice unless the default has existed for at least 30 days and the seller has notified the buyer of the default by certified mail at least 30 days before service.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -273,14 +273,14 @@
     },
     {
       "key_topic_ref": "MN-16.3",
-      "question_text": "An investor seller fails to give the required 30-day pre-default notice before serving cancellation on a contract for deed buyer. What is the consequence?",
-      "correct_answer": "The cancellation may be invalid under Ch. 559A",
+      "question_text": "An investor seller serves a contract for deed cancellation notice without first notifying the buyer of the default by certified mail at least 30 days beforehand. What is the consequence?",
+      "correct_answer": "The cancellation notice is unauthorized and may be invalid",
       "distractors": [
         "The cancellation proceeds after a 10-day extension",
         "The buyer automatically forfeits all payments made",
         "No consequence if the buyer is actually in default"
       ],
-      "explanation": "Under Ch. 559A (effective 2025), investor sellers must give a 30-day pre-default notice before starting the cancellation process. Failure to provide this notice can render the cancellation invalid.",
+      "explanation": "Under Minn. Stat. 559.21, subd. 4 (added by the 2024 investor-seller reforms, effective for contracts executed on or after August 1, 2024), no cancellation notice may be given on a contract for deed executed by an investor seller unless the default has existed for at least 30 days and the investor seller has notified the buyer of the default by certified mail at least 30 days before service. A cancellation served without this advance default notice is unauthorized and subject to challenge.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -300,7 +300,7 @@
         "$1,275,000",
         "$250,000"
       ],
-      "explanation": "Minnesota's homestead exemption protects up to $510,000 of equity in a non-agricultural homestead from most creditors. The agricultural homestead exemption is $1,275,000. These amounts increase every 2 years on July 1.",
+      "explanation": "Minnesota's homestead exemption protects up to $510,000 of equity in a non-agricultural homestead from most creditors; the agricultural homestead exemption is $1,275,000 (Minn. Stat. 510.02). The amounts are adjusted for inflation on July 1 of even-numbered years under Minn. Stat. 550.37, subd. 4a, changing only when the inflation index crosses the next 10% step.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -338,7 +338,7 @@
         "60 days from the date of the final invoice",
         "180 days from the date the contract was signed"
       ],
-      "explanation": "In Minnesota, a mechanics' lien must be filed within 120 days of the last date work was performed or materials were furnished. The lien's priority dates back to when the first work began on the project.",
+      "explanation": "In Minnesota, a mechanics' lien statement must be recorded within 120 days of the last day work was performed or materials were furnished, and a copy served on the owner (Minn. Stat. 514.08). Against later-recorded mortgages, the lien's priority dates from the actual and visible beginning of the improvement on the ground (Minn. Stat. 514.05).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,

@@ -28,7 +28,7 @@
         "Yes, up to $5,000 of personal funds is allowed",
         "No, bank fees must be paid from a separate account"
       ],
-      "explanation": "Minnesota law permits a broker to deposit a small amount of personal funds into the trust account solely to keep the account open and cover bank service charges. This narrow exception does not constitute prohibited commingling, provided the amount is minimal and used only for account maintenance.",
+      "explanation": "Minnesota Statutes 82.75, subdivision 4 prohibits commingling, but allows a broker to deposit and maintain a sum of personal funds in the trust account if the sum is specifically identified and used to pay service charges or satisfy the bank's minimum balance requirements. The statute sets no dollar cap; the limitation is purpose — the personal funds may be used only for account maintenance. Depositing $500 to cover monthly bank fees fits squarely within this exception.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -88,7 +88,7 @@
         "5 business days",
         "2 business days"
       ],
-      "explanation": "Minnesota law requires that earnest money be deposited into the broker's trust account within 3 business days after acceptance of the purchase agreement, unless the parties agree otherwise in writing. This timeline protects the funds and establishes clear accountability.",
+      "explanation": "Under Minnesota Statutes 82.75, subdivision 5(c), if the written agreement between the parties is silent on timing, the listing broker must deposit earnest money within three business days of receipt of the earnest money or final acceptance of the purchase agreement, whichever is later. Here the check arrived with the offer, so final acceptance is the later event and starts the three-business-day clock.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -141,14 +141,14 @@
     },
     {
       "key_topic_ref": "MN-03.2",
-      "question_text": "When does the 3-business-day clock start for depositing earnest money in Minnesota?",
-      "correct_answer": "After acceptance of the purchase agreement",
+      "question_text": "Under Minnesota's default rule, when does the 3-business-day clock start for depositing earnest money?",
+      "correct_answer": "Upon receipt of the earnest money or final acceptance of the purchase agreement, whichever is later",
       "distractors": [
-        "After the buyer writes the check",
-        "After the listing agent receives the check",
-        "After the inspection contingency period"
+        "Upon receipt of the earnest money, even if the offer has not yet been accepted",
+        "When the buyer writes the earnest money check",
+        "When the inspection contingency period ends"
       ],
-      "explanation": "The 3-business-day deposit requirement begins upon acceptance of the purchase agreement, not when the check is written or received. Acceptance is the triggering event because it is the point at which a binding contract is formed between buyer and seller.",
+      "explanation": "Under Minnesota Statutes 82.75, subdivision 5(c), if the parties' written agreement is silent on timing, the listing broker must deposit earnest money within three business days of either receipt of the earnest money or final acceptance of the purchase agreement, whichever is later. Because the check usually accompanies the offer, acceptance is typically the later event — but if the check is delivered after acceptance, the clock runs from receipt. If the offer is rejected, the earnest money must be returned to the buyer by the next business day.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -163,7 +163,7 @@
         "Split the disputed funds equally between the parties",
         "Release funds to whichever party demands them first"
       ],
-      "explanation": "When both parties claim disputed trust funds, Minnesota law prohibits the broker from releasing the money without written authorization from both parties or a court order. The broker must hold the funds until the dispute is resolved through mutual agreement or legal proceedings.",
+      "explanation": "Under Minnesota Statutes 82.75, subdivision 5(d), disputed trust funds may be disbursed only upon a closing, a written agreement between the parties, an affidavit of cancellation under section 559.217 (statutory cancellation), or a court order. Until one of these occurs, the broker must hold the funds. Splitting the money or releasing it to whichever party demands it first is not permitted.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -202,13 +202,13 @@
     {
       "key_topic_ref": "MN-03.3",
       "question_text": "A broker places earnest money in an interest-bearing account without any written agreement about who receives the interest. Both parties later claim the interest. Who is entitled to it?",
-      "correct_answer": "Neither, until a written agreement is established",
+      "correct_answer": "Neither party — without a written agreement, the interest does not belong to the buyer or the seller",
       "distractors": [
         "The buyer, since they deposited the funds",
         "The seller, as the intended contract recipient",
         "The broker, as compensation for account management"
       ],
-      "explanation": "Minnesota requires a written agreement specifying who receives interest before funds are placed in an interest-bearing account. Without this agreement, the broker violated the requirement, and neither party has an automatic claim. The interest remains in dispute until the parties reach a written agreement or a court decides.",
+      "explanation": "Minnesota Statutes 82.75 requires client funds to be held in the broker's pooled interest-bearing trust account, whose interest (less reasonable transaction costs) is paid to the Minnesota Housing Finance Agency unless the parties expressly agree otherwise in writing (subdivision 8). A separate interest-bearing special account or certificate of deposit requires the written consent of both buyer and seller, including how the interest will be disposed of (subdivision 9). Because no written agreement exists here, neither party is entitled to the interest, and the broker violated the consent requirement by opening the special account at all.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -223,7 +223,7 @@
         "The broker's independent determination",
         "A demand letter from one party's attorney"
       ],
-      "explanation": "Minnesota law requires written authorization from both parties or a court order before a broker may release disputed earnest money. A verbal agreement, the broker's own judgment, or a demand letter from one party's attorney are all insufficient to authorize the release of disputed funds.",
+      "explanation": "Under Minnesota Statutes 82.75, subdivision 5(d), trust funds may be disbursed only upon a closing, a written agreement between the parties, an affidavit of cancellation under section 559.217, or a court order. Of the choices listed, only written authorization from both parties qualifies. A verbal agreement, the broker's independent judgment, or a demand letter from one party's attorney is not a lawful basis to release disputed funds.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,

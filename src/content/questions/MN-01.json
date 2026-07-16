@@ -13,7 +13,7 @@
         "Escrow coordinator",
         "Title representative"
       ],
-      "explanation": "Minnesota Statute §82.55 specifically defines a closing agent as a person authorized to handle real estate closings on behalf of others. This is a distinct statutory term in Minnesota law, separate from general industry terminology like escrow coordinator or settlement officer.",
+      "explanation": "Minnesota Statute §82.55, subd. 4, defines a 'closing agent' as a person who, for another, directly or indirectly provides closing services incident to the sale, trade, lease, or loan of residential real estate. It is a distinct statutory term in Minnesota law — 'settlement officer,' 'escrow coordinator,' and 'title representative' are not defined in the statute. Closing agents are separately licensed under §82.641.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -103,7 +103,7 @@
         "All officers of the corporation",
         "The corporate secretary or treasurer"
       ],
-      "explanation": "Minnesota requires that a licensed entity designate a broker who holds an individual broker license to be responsible for the entity's real estate activities. The requirement is not tied to the majority shareholder or all officers, but to a specific designated broker.",
+      "explanation": "Under Minn. Stat. §82.58, subd. 4, a business entity applying for a broker license must have at least one 'responsible person' — an officer, partner, or LLC manager — individually licensed to act as broker for the entity; Minnesota calls this the 'primary broker' (§82.55, subd. 15). The requirement is not tied to the majority shareholder or to all officers: only officers who will actually act as brokers must be individually licensed.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -163,7 +163,7 @@
         "No, but only for residential property",
         "Yes, unless the sale price is under $300,000"
       ],
-      "explanation": "Minnesota law exempts property owners from licensure when selling their own property. This exemption applies regardless of property type or sale price. The licensing requirement is intended for those who practice real estate on behalf of others for compensation.",
+      "explanation": "An owner selling her own property is not acting 'for another,' so the activity falls outside the definition of a real estate broker in Minn. Stat. §82.55, subd. 19 — regardless of property type or sale price. One caution: under subd. 19(g), a person who sells five or more properties as principal in any 12-month period is presumed to be in the business of selling real estate and needs a license unless represented by a licensee. A single sale of one's own home never requires a license.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -178,7 +178,7 @@
         "No, but only for residential transactions",
         "Yes, unless the attorney holds dual licensure"
       ],
-      "explanation": "Minnesota exempts attorneys who perform real estate activities as part of their legal practice. This exemption recognizes that attorneys may handle real estate matters incidental to their legal services without holding a separate real estate license.",
+      "explanation": "Minn. Stat. §82.56(a) excludes from the definition of real estate broker 'a licensed practicing attorney if the attorney complies in all respects with the trust account provisions of this chapter.' An attorney negotiating a client's sale as part of legal representation therefore needs no real estate license — but the exception is conditioned on complying with Chapter 82's trust account rules when handling transaction funds.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -216,14 +216,14 @@
     },
     {
       "key_topic_ref": "MN-01.3",
-      "question_text": "A property management company employee regularly shows rental units and negotiates lease terms for a fee but holds no real estate license. The company claims an exemption because it only handles rentals. Is this activity lawful?",
-      "correct_answer": "No, negotiating leases for others requires a license",
+      "question_text": "A property management company charges fees to negotiate leases and manage rental properties for multiple owners, but neither the company nor anyone in it holds a real estate broker license. The company claims an exemption because it only handles rentals. Is the company's activity lawful?",
+      "correct_answer": "No, managing and leasing for others requires a broker license",
       "distractors": [
         "Yes, rentals are fully exempt from licensure",
         "Yes, if the company is registered with the state",
         "No, but only if leases exceed 12 months"
       ],
-      "explanation": "Negotiating leases on behalf of others for compensation is considered practicing real estate in Minnesota and requires licensure. There is no blanket exemption for rental-only activities. The specific statutory exemptions cover owners, attorneys, fiduciaries, and government employees, not property management companies acting for others.",
+      "explanation": "Managing real estate and negotiating rentals for others for compensation is broker activity under Minn. Stat. §82.55, subd. 19(a), so a property management company must hold a real estate broker license — there is no blanket rental exemption. There is one narrow exception: under §82.56(d), a custodian, janitor, or employee of the owner or manager of a residential building who leases residential units in that building does not need an individual license. That clause covers on-site leasing staff, not the management company itself.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

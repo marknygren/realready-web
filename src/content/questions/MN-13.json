@@ -83,13 +83,13 @@
     {
       "key_topic_ref": "MN-13.1",
       "question_text": "A buyer is comparing two Minnesota condominiums. One was built in 1985 and the other in 2010. How do the governing statutes differ?",
-      "correct_answer": "The 1985 condo uses Ch. 515; the 2010 uses Ch. 515B",
+      "correct_answer": "The 1985 condo uses Ch. 515A; the 2010 uses Ch. 515B",
       "distractors": [
         "Both are governed by Ch. 515B regardless of creation date",
-        "The 1985 condo is fully exempt from all CIO statutes",
-        "The 2010 condo follows Ch. 515A as its exclusive statute"
+        "The 1985 condo uses Ch. 515; the 2010 uses Ch. 515A",
+        "The 1985 condo is fully exempt from all CIO statutes"
       ],
-      "explanation": "Condos created before June 1, 1994, are generally governed by Ch. 515 (original condo act) or Ch. 515A (Uniform Condo Act). Those created after that date fall under Ch. 515B, the MN CIO Act.",
+      "explanation": "Chapter 515A, the Uniform Condominium Act, governs condominiums created after August 1, 1980, while the original condominium act (Ch. 515) governs condos created before that date. Common interest communities created on or after June 1, 1994 fall under Ch. 515B, the Minnesota Common Interest Ownership Act, and certain 515B provisions also apply to older condominiums.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -205,7 +205,7 @@
         "Ten-year warranty for structural defects",
         "No warranty because the one-year period expired"
       ],
-      "explanation": "Minnesota's statutory home warranty provides 2-year coverage for plumbing, electrical, and HVAC defects. Since the leak was discovered at 18 months, it falls within this warranty period.",
+      "explanation": "Minnesota's statutory home warranty (Minn. Stat. 327A.02) covers defects caused by faulty installation of plumbing, electrical, heating, and cooling systems for two years from the warranty date. A leak discovered at 18 months falls within this two-year systems warranty.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -218,13 +218,13 @@
     {
       "key_topic_ref": "MN-13.3",
       "question_text": "When does the statutory home warranty period begin under Minnesota law?",
-      "correct_answer": "Date of first occupancy",
+      "correct_answer": "The earlier of first occupancy or the initial buyer taking title",
       "distractors": [
         "Date the building permit was issued",
-        "Date of closing on the original sale",
-        "Date the certificate of occupancy was granted"
+        "Date the certificate of occupancy was granted",
+        "One year after substantial completion of construction"
       ],
-      "explanation": "Minnesota's statutory home warranty under Ch. 327A.02 begins running on the date of first occupancy, not the closing date or permit date.",
+      "explanation": "Under Minn. Stat. 327A.01, subd. 8, the \"warranty date\" is the earliest of (a) the initial vendee's first occupancy of the dwelling or (b) the date the initial vendee takes legal or equitable title. All three statutory warranty periods — one, two, and ten years — run from that date.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -239,11 +239,11 @@
       "question_text": "A builder's contract includes a clause stating the buyer waives all statutory warranty rights. Is this enforceable?",
       "correct_answer": "No, statutory home warranties cannot be waived",
       "distractors": [
-        "Yes, if the buyer signs voluntarily",
-        "Yes, if the builder provides an extended warranty instead",
+        "Yes, blanket waivers are enforceable if the buyer initials the clause",
+        "Yes, waivers are valid on homes priced over $500,000",
         "Only if both parties are represented by attorneys"
       ],
-      "explanation": "Minnesota's statutory home warranties under Ch. 327A.02 cannot be waived by the builder through contract language. These protections are mandatory for new construction.",
+      "explanation": "Under Minn. Stat. 327A.04, subd. 1, a contract clause waiving the statutory warranties is void. Only narrow exceptions exist: a specific warranty may be excluded or modified through a separate signed instrument in boldface type in which the builder provides substitute express warranties offering substantially the same protections (subd. 2), or by a recorded waiver covering one specific, disclosed major construction defect with a corresponding price reduction (subd. 3). A blanket waiver of all warranty rights satisfies neither exception.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
