@@ -9,7 +9,7 @@
       "question_text": "Michigan's Elliott-Larsen Civil Rights Act protects which classes that federal fair housing law does NOT cover?",
       "correct_answer": "Age, marital status, and sexual orientation",
       "distractors": ["Only race and national origin are added", "Religion and disability protections only", "Familial status and color protections only"],
-      "explanation": "The Elliott-Larsen Civil Rights Act goes beyond federal protections by adding age, marital status, sexual orientation, and gender identity/expression as protected classes in Michigan housing.",
+      "explanation": "The Elliott-Larsen Civil Rights Act goes beyond the classes enumerated in the federal Fair Housing Act by protecting age, marital status, sexual orientation, and gender identity or expression in housing (MCL 37.2502). Effective April 2, 2025, it also protects source of income in rental housing (2024 PA 180). None of these classes is enumerated in federal fair housing law.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -17,10 +17,10 @@
     },
     {
       "key_topic_ref": "MI-12.1",
-      "question_text": "A Michigan landlord refuses to rent to a couple because they are unmarried. Is this lawful?",
+      "question_text": "A Michigan landlord who owns a 20-unit apartment building refuses to rent to a couple because they are unmarried. Is this lawful?",
       "correct_answer": "No, marital status is protected in Michigan",
       "distractors": ["Yes, landlords may set moral standards", "Yes, unless the property has 5+ units", "Only if the landlord lives on the premises"],
-      "explanation": "Michigan's Elliott-Larsen Civil Rights Act protects marital status as a class. Refusing to rent based on whether tenants are married or unmarried constitutes unlawful discrimination.",
+      "explanation": "Michigan's Elliott-Larsen Civil Rights Act protects marital status in housing (MCL 37.2502), so refusing to rent because tenants are unmarried is unlawful discrimination. A narrow exemption exists only for owner-occupied buildings of two units or fewer and rooms rented in the lessor's own residence (MCL 37.2503), which does not apply to a 20-unit building.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -64,7 +64,7 @@
       "question_text": "A tenant with a mobility disability requests a ramp at the entrance of her Michigan apartment. The landlord refuses, citing building aesthetics. Is this lawful?",
       "correct_answer": "No, reasonable modifications must be allowed",
       "distractors": ["Yes, landlords control the building appearance", "Only if the tenant pays for full restoration", "Only in buildings with 4 or more rental units"],
-      "explanation": "Under Michigan's disability protections (PA 220 and Elliott-Larsen), landlords must allow reasonable modifications for tenants with disabilities. The tenant typically pays for the modification, but the landlord cannot refuse based on aesthetics alone.",
+      "explanation": "Under Michigan's Persons with Disabilities Civil Rights Act (1976 PA 220), a housing provider may not refuse to permit reasonable modifications made at the expense of the person with a disability (MCL 37.1506a). For rentals, the landlord may condition permission on restoring the interior, reasonable wear and tear excepted, but cannot refuse based on aesthetics. Note that disability is protected by the PDCRA and federal law, not by Elliott-Larsen.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -75,7 +75,7 @@
       "question_text": "A Michigan homeowner with a visual impairment requests a waiver of the 'no pets' policy for her guide dog. What must the HOA do?",
       "correct_answer": "Grant the request as a reasonable accommodation",
       "distractors": ["Deny it because rules apply to all owners", "Allow it only with a standard pet deposit", "Require a vote of all current HOA members"],
-      "explanation": "A guide dog is a service animal, and allowing it despite a no-pets policy is a reasonable accommodation under Michigan disability law. No pet deposit can be charged for service or assistance animals.",
+      "explanation": "Waiving a no-pets policy for a guide dog is a reasonable accommodation required under Michigan's Persons with Disabilities Civil Rights Act (MCL 37.1506a) and the federal Fair Housing Act. Because an assistance animal is not a pet, HUD guidance and the accommodation duty bar charging pet deposits or pet fees for it. Denying the waiver or conditioning it on a deposit is unlawful.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -97,7 +97,7 @@
       "question_text": "Which remedies can the MDCR order in a Michigan housing discrimination case?",
       "correct_answer": "Cease and desist plus actual damages",
       "distractors": ["Criminal imprisonment penalties only", "Revocation of the real estate license only", "A formal written apology letter only"],
-      "explanation": "The MDCR can order cease and desist of discriminatory practices, award actual damages, and impose civil penalties. Private lawsuits are also available as an alternative enforcement path.",
+      "explanation": "After the MDCR investigates, the Michigan Civil Rights Commission may order the discriminatory practice to cease and desist and award actual damages, including attorney fees (MCL 37.2605). In real estate cases it may also impose civil fines of up to $10,000 for a first violation, $25,000 for a second within 5 years, and $50,000 for two or more within 7 years. Private lawsuits remain available as an alternative path (MCL 37.2801).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -113,6 +113,17 @@
       "cognitive_level": "application",
       "is_free": false,
       "tags": ["enforcement", "private-lawsuit", "disability"]
+    },
+    {
+      "key_topic_ref": "MI-12.1",
+      "question_text": "A Michigan landlord who owns 12 rental units across the state refuses an otherwise qualified applicant because her rent would be paid partly with a Section 8 housing choice voucher. Is this lawful?",
+      "correct_answer": "No, source of income is protected for rentals",
+      "distractors": ["Yes, landlords may decline subsidized tenants", "Yes, because vouchers are not earned income", "Only if the voucher covers the entire rent"],
+      "explanation": "Effective April 2, 2025, 2024 PA 180 added MCL 37.2502(3) to the Elliott-Larsen Civil Rights Act: a landlord may not deny or terminate a tenancy of an otherwise eligible tenant based on source of income, which includes housing choice vouchers, public assistance, Social Security, and veterans' benefits (MCL 554.601). Landlords with fewer than 5 rental units statewide are exempt, but this landlord owns 12. A voucher or subsidy must also be counted when applying any minimum-income screening criteria.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["elliott-larsen", "source-of-income", "rental-discrimination"]
     }
   ]
 }
