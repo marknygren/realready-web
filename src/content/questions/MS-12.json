@@ -9,7 +9,7 @@
       "question_text": "Which properties require a Property Condition Disclosure Statement under Mississippi law?",
       "correct_answer": "Sales of 1 to 4 residential units",
       "distractors": ["All commercial property transactions", "Only detached single-family homes", "Rural properties over 5 acres"],
-      "explanation": "Mississippi's Property Condition Disclosure requirements (§§89-1-507 to 89-1-527) apply to residential property sales involving 1 to 4 dwelling units.",
+      "explanation": "Mississippi's Property Condition Disclosure law (§§89-1-501 through 89-1-527) requires a PCDS for transfers of residential property of one to four dwelling units when the transfer is made by, or with the aid of, a licensed real estate broker or salesperson.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -40,13 +40,13 @@
     {
       "key_topic_ref": "MS-12.1",
       "question_text": "Is the PCDS considered part of the purchase contract in Mississippi?",
-      "correct_answer": "No, but it is attached to the listing",
+      "correct_answer": "No, it is a standalone disclosure document",
       "distractors": ["Yes, it is a contract addendum", "Yes, it must be incorporated by reference", "No, and it is filed with MREC separately"],
-      "explanation": "The PCDS is NOT part of the purchase contract but IS attached to the listing agreement. It serves as a standalone disclosure document rather than a contractual term.",
+      "explanation": "The PCDS is not part of the purchase contract — MREC guidance states it should not be included in or become part of any contract between seller and buyer. The seller typically completes it when the property is listed, but it is a standalone disclosure, not a contract term.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["PCDS", "contract", "listing agreement"]
+      "tags": ["PCDS", "contract", "standalone disclosure"]
     },
     {
       "key_topic_ref": "MS-12.1",
@@ -64,7 +64,7 @@
       "question_text": "A buyer asks if a previous owner died in the home. Must the seller disclose this on the PCDS?",
       "correct_answer": "No, death on property is exempt",
       "distractors": ["Yes, all material facts must be disclosed", "Only if the death was violent", "Only if it occurred within 3 years"],
-      "explanation": "Mississippi law exempts stigmatizing factors from disclosure, including death on the property, felonies committed on the property, and diseases of prior occupants.",
+      "explanation": "Death on the property (natural death, suicide, or homicide) is a nonmaterial fact under §89-1-527 that need not be disclosed, and failure to disclose it creates no cause of action. However, the seller may not intentionally misrepresent the facts in response to a direct question — lying to the buyer remains actionable under §89-1-527(3).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -86,7 +86,7 @@
       "question_text": "A previous occupant had a communicable disease. Must this be disclosed on the Mississippi PCDS?",
       "correct_answer": "No, prior occupant disease is exempt",
       "distractors": ["Yes, for all communicable diseases", "Only if it was a reportable disease", "Only if the buyer specifically asks"],
-      "explanation": "Disease of prior occupants is classified as a stigmatizing factor under Mississippi law and is specifically exempt from PCDS disclosure requirements.",
+      "explanation": "Under §89-1-527, the fact that an occupant had a disease not known to be transmitted through common occupancy of real estate (including HIV and AIDS) is not a material fact and need not be disclosed; failure to disclose it creates no cause of action.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -97,7 +97,7 @@
       "question_text": "A felony was committed in a home being sold. Is this a required disclosure item in Mississippi?",
       "correct_answer": "No, felonies on property are exempt",
       "distractors": ["Yes, all criminal activity must be disclosed", "Only if it involved violence", "Only within the last 5 years"],
-      "explanation": "A felony committed on the property is a stigmatizing factor exempt from disclosure under Mississippi law, alongside death on the property and diseases of prior occupants.",
+      "explanation": "A felony committed on the property is a nonmaterial fact under §89-1-527 that need not be disclosed — with one exception: illegal drug activity that affects the physical condition of the property (such as meth contamination) is not shielded and must be disclosed.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -119,7 +119,7 @@
       "question_text": "A listing agent notices the seller left several PCDS sections blank. What should the agent do?",
       "correct_answer": "Advise the seller to complete it",
       "distractors": ["Fill in the blanks for the seller", "File the incomplete form with MREC", "Refuse to list the property"],
-      "explanation": "The licensee's responsibility includes advising the client about disclosure requirements and ensuring the PCDS form is complete. The agent should not complete the form for the seller.",
+      "explanation": "Advising the seller to complete the disclosure remains the appropriate practice, and the agent should never fill in the form — MREC's instructions direct the seller to complete it personally. Note that since 2023, licensees have no statutory duty regarding the PCDS and cannot be disciplined by MREC over it (§§89-1-503(2), 89-1-505(5), 89-1-523(2)); an incomplete PCDS puts the buyer on notice to inquire of the seller.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -128,20 +128,20 @@
     {
       "key_topic_ref": "MS-12.3",
       "question_text": "After the PCDS is delivered, the seller discovers a major foundation crack. What happens next?",
-      "correct_answer": "The buyer may void the contract",
+      "correct_answer": "The seller must deliver an amended PCDS",
       "distractors": ["The original PCDS remains valid", "The seller must repair the crack first", "Nothing unless the buyer orders an inspection"],
-      "explanation": "Material changes discovered after the initial PCDS delivery allow the buyer to void the contract. The seller has an obligation to update the disclosure when new material facts are discovered.",
+      "explanation": "A seller who acquires knowledge that makes the original PCDS materially inaccurate must deliver an amended PCDS to the buyer as soon as practicable. Delivery of a material amendment restarts the buyer's right to terminate — 3 days after in-person delivery or 5 days after deposit in the mail (§§89-1-503, 89-1-515).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["material changes", "contract voiding", "PCDS updates"]
+      "tags": ["material changes", "PCDS amendment", "termination right"]
     },
     {
       "key_topic_ref": "MS-12.3",
-      "question_text": "A buyer receives the PCDS by mail after signing the contract. How many days does the buyer have to terminate?",
+      "question_text": "A seller mails the PCDS to the buyer after the contract is signed. How many days does the buyer have to terminate?",
       "correct_answer": "5 days",
       "distractors": ["3 days", "7 days", "10 days"],
-      "explanation": "When the PCDS is delivered late (after contract execution), the buyer may terminate within 5 days if delivered by mail, or 3 days if delivered in person.",
+      "explanation": "When the PCDS is delivered after an offer is executed, the buyer may terminate by written notice within 5 days after the PCDS is deposited in the mail, or within 3 days after in-person delivery (§89-1-503).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -160,14 +160,14 @@
     },
     {
       "key_topic_ref": "MS-12.3",
-      "question_text": "A seller willfully omits known termite damage from the PCDS. What liability does the seller face?",
-      "correct_answer": "Actual damages from the buyer",
-      "distractors": ["Criminal prosecution only", "A fixed MREC fine of $5,000", "No liability if the buyer had an inspection"],
-      "explanation": "Willful or negligent violation of the PCDS requirements exposes the seller to liability for actual damages suffered by the buyer. This applies to intentional omissions and negligent disclosures.",
+      "question_text": "A seller willfully omits known termite damage from the PCDS. What exposure does the seller face under current Mississippi law?",
+      "correct_answer": "Civil claims by the buyer",
+      "distractors": ["Criminal prosecution only", "A fixed MREC fine of $5,000", "Statutory liability for actual damages under §89-1-523"],
+      "explanation": "A knowingly false or incomplete PCDS can subject the seller to civil claims by the buyer before or after transfer of title — common-law fraud and misrepresentation duties are expressly preserved by §89-1-513. The former §89-1-523 provision imposing statutory liability for actual damages for willful or negligent violations was repealed in 2023 (SB 2647), and noncompliance does not invalidate the transfer.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["willful violation", "actual damages", "seller liability"]
+      "tags": ["willful violation", "seller liability", "2023 PCDS amendments"]
     }
   ]
 }

@@ -8,8 +8,8 @@
       "key_topic_ref": "MS-04.1",
       "question_text": "How many hours of pre-license education does a broker applicant need?",
       "correct_answer": "120 hours",
-      "distractors": ["60 hours", "90 hours", "150 hours"],
-      "explanation": "A Mississippi broker applicant must complete 120 hours of approved pre-license education. Additionally, the applicant must have at least 12 months of active experience as a licensed salesperson.",
+      "distractors": ["60 hours", "90 hours", "180 hours"],
+      "explanation": "A Mississippi broker applicant must complete 120 hours of approved pre-license education and have at least 12 months of active experience as a licensed salesperson. An applicant who has not held an active salesperson license for at least 36 months must instead complete 150 college-credit classroom hours (§73-35-7).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -29,20 +29,20 @@
     {
       "key_topic_ref": "MS-04.1",
       "question_text": "A new licensee completes 20 hours of post-license education in her first year. What happens to her license?",
-      "correct_answer": "Suspended for incomplete hours",
-      "distractors": ["Remains active with a warning", "Revoked permanently", "Extended grace period of 6 months"],
-      "explanation": "New licensees must complete 30 hours of post-license education (24 core + 6 elective) within the first 12 months. Completing only 20 hours means the requirement is unmet, resulting in license suspension.",
+      "correct_answer": "Placed on inactive status",
+      "distractors": ["Remains active with a warning", "Suspended for incomplete hours", "Revoked permanently"],
+      "explanation": "New licensees hold a temporary license and must complete the 30-hour post-license course within 12 months of issuance. Completing only 20 hours means the temporary license is automatically placed on inactive status by MREC; if the course is not finished and the permanent license issued within the license year, the temporary license expires and lapses (§73-35-14.5).",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["post-license", "suspension", "education hours"]
+      "tags": ["post-license", "inactive status", "temporary license"]
     },
     {
       "key_topic_ref": "MS-04.1",
       "question_text": "How are the 30 required post-license hours divided?",
       "correct_answer": "24 core hours and 6 elective hours",
       "distractors": ["15 core hours and 15 elective hours", "20 core hours and 10 elective hours", "30 hours of elective courses only"],
-      "explanation": "Mississippi requires 30 hours of post-license education within the first 12 months: 24 hours of core curriculum and 6 hours of elective courses. Failure to complete these hours results in license suspension.",
+      "explanation": "Mississippi requires 30 hours of post-license education within the first 12 months: a minimum of 24 hours in commission-prescribed core subjects (agency relationships, contracts, earnest money, antitrust, fair housing, ethics, property condition disclosure) and 6 hours of electives that enhance competency. Failure to complete on time results in the temporary license being placed on inactive status (§73-35-14.5).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -53,7 +53,7 @@
       "question_text": "A new salesperson obtained her license in January. By when must she finish post-license education?",
       "correct_answer": "Within 12 months of licensure",
       "distractors": ["Within 6 months of licensure", "By December 31 of that year", "Within 24 months of licensure"],
-      "explanation": "Post-license education must be completed within the first 12 months of obtaining a license. For a January licensee, this means by the following January. Failure results in suspension.",
+      "explanation": "Post-license education must be completed within the first 12 months of the temporary license's issuance. For a January licensee, this means by the following January. Failure results in the temporary license being placed on inactive status, and it lapses if the license year passes without completion (§73-35-14.5).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -64,7 +64,7 @@
       "question_text": "How many total hours of continuing education must a licensee complete each biennium?",
       "correct_answer": "16 hours",
       "distractors": ["12 hours", "20 hours", "24 hours"],
-      "explanation": "Mississippi requires 16 hours of continuing education per biennium: 4 hours agency law, 2 hours contract law, 2 hours license law, and 8 hours of electives.",
+      "explanation": "Mississippi requires 16 clock hours of approved continuing education per two-year renewal period (§73-35-18). MREC designates the mandatory subjects — Mississippi license law, contract law, and agency — which may not exceed 8 of the 16 hours; the remaining hours are electives.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -72,21 +72,21 @@
     },
     {
       "key_topic_ref": "MS-04.2",
-      "question_text": "Of the 16 biennial CE hours, how many must cover agency law?",
-      "correct_answer": "4 hours",
-      "distractors": ["2 hours", "6 hours", "8 hours"],
-      "explanation": "The 16-hour biennial CE requirement includes 4 hours of agency law, 2 hours of contract law, 2 hours of license law, and 8 hours of elective courses.",
+      "question_text": "Of the 16 hours of continuing education required each renewal period, what is the maximum number MREC may designate as required subjects?",
+      "correct_answer": "8 hours",
+      "distractors": ["4 hours", "12 hours", "All 16 hours"],
+      "explanation": "Miss. Code §73-35-18(1) requires 16 clock hours of approved CE per two-year renewal and lets MREC determine the required subject matter, 'provided that the required subjects shall not exceed eight (8) hours of the total sixteen (16) hours.' MREC's designated mandatory topics are Mississippi license law, contract law, and agency (Rule 6.2.D); the remaining hours are electives.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["continuing education", "agency law", "required hours"]
+      "tags": ["continuing education", "mandatory hours", "electives"]
     },
     {
       "key_topic_ref": "MS-04.2",
       "question_text": "A 67-year-old broker has held a Mississippi license for 30 years. Is she exempt from continuing education?",
       "correct_answer": "Yes, she qualifies for exemption",
       "distractors": ["No, all licensees must complete CE", "Only if she is inactive status", "Only if MREC approves a waiver"],
-      "explanation": "Mississippi provides a senior CE exemption for licensees who are age 65 or older AND have been licensed for 25 or more years. At 67 with 30 years licensed, she meets both criteria.",
+      "explanation": "Mississippi exempts from CE those licensees who are older than 65 AND have held a Mississippi broker's or salesperson's license for at least 25 years (§73-35-18). At 67 with 30 years licensed, she meets both criteria.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -97,7 +97,7 @@
       "question_text": "A 66-year-old licensee has been licensed for 20 years. Does she qualify for the senior CE exemption?",
       "correct_answer": "No, she needs 25 years licensed",
       "distractors": ["Yes, age 65 is sufficient", "Yes, 20 years meets the requirement", "No, the minimum age is 70"],
-      "explanation": "The senior CE exemption requires BOTH age 65+ AND 25+ years of licensure. While she meets the age requirement at 66, she has only 20 years of licensure, falling short of the 25-year requirement.",
+      "explanation": "The senior CE exemption requires BOTH being older than 65 AND at least 25 years holding a Mississippi license. At 66 she satisfies the age test, but with only 20 years licensed she falls short of the 25-year requirement (§73-35-18).",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -105,14 +105,14 @@
     },
     {
       "key_topic_ref": "MS-04.2",
-      "question_text": "What minimum score must a licensee achieve on CE course exams?",
-      "correct_answer": "70%",
-      "distractors": ["60%", "75%", "80%"],
-      "explanation": "Mississippi requires licensees to score at least 70% on continuing education course exams to receive credit. This ensures licensees actually learn the required material rather than just attending courses.",
+      "question_text": "How many excess CE hours earned in the final three months of a renewal period may be carried over to the next renewal period?",
+      "correct_answer": "Up to 6 hours",
+      "distractors": ["Up to 2 hours", "Up to 8 hours", "None — carryover is not permitted"],
+      "explanation": "Approved CE hours earned in the final three months of a licensee's renewal period, if in excess of the required 16 hours, may be carried over and credited to the next renewal period — but no more than 6 hours may be carried over this way (§73-35-18(1)).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["continuing education", "passing score", "exam"]
+      "tags": ["continuing education", "carryover", "6 hours"]
     },
     {
       "key_topic_ref": "MS-04.3",
@@ -127,10 +127,10 @@
     },
     {
       "key_topic_ref": "MS-04.3",
-      "question_text": "Under SB 2086, when do updated license fee changes take effect?",
+      "question_text": "SB 2086 (2025), which preserved MREC's license fee provisions by deleting their repealer, took effect on what date?",
       "correct_answer": "July 2025",
       "distractors": ["January 2025", "October 2025", "January 2026"],
-      "explanation": "SB 2086 (2025) updated the fee structure for Mississippi real estate licenses, with the changes becoming effective July 2025. This legislation also addressed exam retake fees and other licensing provisions.",
+      "explanation": "SB 2086 (2025) amended Section 73-35-17 to delete the scheduled repealer on MREC's application and licensure fee provisions, keeping the existing fee authority in place. It became law effective July 1, 2025; it did not change any fee amounts.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -138,36 +138,36 @@
     },
     {
       "key_topic_ref": "MS-04.3",
-      "question_text": "Under 2025 rules, how much notice must MREC give before suspending a license?",
+      "question_text": "Under a 2025 Mississippi law, how much notice must MREC give before suspending a license?",
       "correct_answer": "5 business days by email",
       "distractors": ["10 calendar days by mail", "3 business days by phone", "30 calendar days by mail"],
-      "explanation": "As of 2025, MREC must provide at least 5 business days of email notice before making changes to a licensee's status, including suspension, revocation, or non-renewal.",
+      "explanation": "Under Miss. Code §73-35-10(3) (SB 2423, effective July 1, 2025), MREC must deliver written notice by email at least 5 business days before the effective date of any license change — amendment, suspension, revocation, or non-renewal. The notice goes to the email addresses on file for the licensee and the responsible broker.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["2025 rules", "notice", "suspension"]
+      "tags": ["2025 law", "notice", "suspension"]
     },
     {
       "key_topic_ref": "MS-04.3",
       "question_text": "A licensee's renewal deadline passes without renewal. What is the license status?",
-      "correct_answer": "Inactive or lapsed",
-      "distractors": ["Automatically renewed", "Suspended with a fine", "Revoked permanently"],
-      "explanation": "Failure to renew a license by the deadline results in the license becoming inactive or lapsed. The licensee cannot practice until the license is properly renewed or reactivated through MREC's procedures.",
+      "correct_answer": "Automatically cancelled after notice and grace period",
+      "distractors": ["Automatically renewed", "Suspended with a fine", "Placed on permanent inactive status"],
+      "explanation": "Under Section 73-35-17, a licensee who fails to pay the renewal fee is sent written notice of delinquency; a licensee renewing during the two-month grace period pays a 100% penalty, and after the notice period the license is automatically cancelled. The delinquency warning is now delivered by email to the licensee and responsible broker rather than certified mail (SB 2748, effective July 1, 2026). The licensee cannot practice until the license is restored through MREC's procedures.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["renewal", "lapsed license", "inactive"]
+      "tags": ["renewal", "cancellation", "grace period"]
     },
     {
       "key_topic_ref": "MS-04.3",
-      "question_text": "MREC plans to revoke a licensee's license. Under 2025 rules, what must MREC do first?",
+      "question_text": "MREC is about to make a licensee's revocation effective. Under the 2025 law, what notice must MREC give before the effective date?",
       "correct_answer": "Send 5-day email notice",
-      "distractors": ["Hold a public hearing first", "Get court approval first", "Notify the licensee's broker only"],
-      "explanation": "Under 2025 rules, MREC must provide at least 5 business days of email notice before making any license status change, including revocation. This requirement applies to suspension, revocation, and non-renewal actions.",
+      "distractors": ["Publish the action in a local newspaper", "Get court approval first", "Notify the licensee's broker only"],
+      "explanation": "Under Section 73-35-10(3) (effective July 1, 2025), MREC must deliver written notice by email to the licensee and, if applicable, the responsible broker at least 5 business days before the effective date of any license change — amendment, suspension, revocation, or non-renewal. This notice requirement is in addition to the disciplinary hearing process.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["2025 rules", "revocation", "notice"]
+      "tags": ["2025 law", "revocation", "notice"]
     }
   ]
 }

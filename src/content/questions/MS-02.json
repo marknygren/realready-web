@@ -75,7 +75,7 @@
       "question_text": "An agent receives a written offer from a buyer but decides not to present it because she believes it is too low. What violation occurred?",
       "correct_answer": "Failure to present all offers",
       "distractors": ["Misrepresentation to the buyer", "Unauthorized practice of law", "Breach of fiduciary duty only"],
-      "explanation": "Mississippi law requires agents to present ALL written offers to the seller. Agents cannot screen or withhold offers regardless of the amount. Failure to present any written offer is a specific violation subject to discipline.",
+      "explanation": "MREC Rule 3.2(D) requires every written offer to be presented to the owner unless the owner has given specific written instructions to postpone presentation of other offers. An agent cannot screen out or withhold an offer based on her own judgment of the price; doing so is a violation subject to discipline.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -108,7 +108,7 @@
       "question_text": "An unlicensed assistant negotiates a purchase price on behalf of a buyer. What violation has occurred?",
       "correct_answer": "Unlicensed real estate practice",
       "distractors": ["Blind advertising violation", "Commingling of client funds", "Failure to disclose agency"],
-      "explanation": "Negotiating on behalf of a buyer for compensation is an activity that requires a real estate license. An unlicensed person performing this activity is practicing without a license, which is a violation subject to MREC discipline.",
+      "explanation": "Negotiating a purchase on behalf of another for compensation requires a real estate license. An unlicensed person performing this activity is practicing without a license; MREC may take legal action including injunctive proceedings, and violators face criminal penalties under §73-35-31 (first offense: a $500 to $1,000 fine, up to 90 days imprisonment, or both).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -119,7 +119,7 @@
       "question_text": "MREC finds a licensee guilty of a violation. Which penalty can MREC impose?",
       "correct_answer": "Suspension of the license",
       "distractors": ["Criminal imprisonment", "Property liens on the licensee", "Mandatory community service"],
-      "explanation": "MREC can impose penalties including censure/reprimand, probation, suspension, revocation, and monetary fines. MREC cannot impose criminal penalties like imprisonment, which requires action through the criminal justice system.",
+      "explanation": "MREC can impose penalties including censure/reprimand, probation, continuing education, suspension, and revocation. MREC cannot impose criminal penalties like imprisonment, and it has no authority to levy monetary fines — fines for license law violations are criminal penalties imposed by the courts under §73-35-31.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -138,14 +138,14 @@
     },
     {
       "key_topic_ref": "MS-02.3",
-      "question_text": "Under 2025 rules, an investigation has been open for 125 days since the Notice of Investigation. What must happen?",
+      "question_text": "Under a 2025 law, an MREC investigation has been open for 125 days since the written Notice of Investigation and no formal complaint has been issued. What must happen?",
       "correct_answer": "The case must be dismissed",
       "distractors": ["The deadline extends 30 days", "MREC may continue investigating", "The licensee is automatically fined"],
-      "explanation": "Under 2025 rules, MREC investigations must be completed within 120 days of the Notice of Investigation. Since 125 days have passed, the case must be dismissed because the investigation deadline has expired.",
+      "explanation": "SB 2423 (effective July 1, 2025) amended §73-35-23 to require that every complaint be resolved by dismissal or issuance of a formal complaint within 120 days of the written notice of investigation. At 125 days with no formal complaint issued, dismissal is the only resolution still available. A separate provision requires final disposition of the complaint within one year.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["2025 rules", "investigation deadline", "dismissal"]
+      "tags": ["2025 law", "investigation deadline", "dismissal"]
     },
     {
       "key_topic_ref": "MS-02.3",
@@ -161,13 +161,13 @@
     {
       "key_topic_ref": "MS-02.3",
       "question_text": "MREC places a licensee on probation after a hearing. Which other penalty could MREC have chosen instead?",
-      "correct_answer": "Monetary fine",
-      "distractors": ["Criminal prosecution", "Mandatory jail time", "Property seizure"],
-      "explanation": "MREC's available penalties include censure/reprimand, probation, suspension, revocation, and monetary fines. Criminal prosecution, jail time, and property seizure are not within MREC's authority as an administrative body.",
+      "correct_answer": "License suspension",
+      "distractors": ["A monetary fine", "Mandatory jail time", "Property seizure"],
+      "explanation": "MREC's available sanctions include letters of caution and reprimand, continuing education, probation, license suspension (including suspension held in abeyance), and revocation. MREC has no authority to impose monetary fines, jail time, or property seizure — fines and imprisonment for license law violations are criminal penalties imposed by the courts under §73-35-31.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["penalties", "fines", "probation"]
+      "tags": ["penalties", "suspension", "probation"]
     }
   ]
 }

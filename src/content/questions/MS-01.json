@@ -9,7 +9,7 @@
       "question_text": "How many commissioners serve on the Mississippi Real Estate Commission?",
       "correct_answer": "5 commissioners",
       "distractors": ["7 commissioners", "9 commissioners", "3 commissioners"],
-      "explanation": "MREC consists of 5 commissioners appointed by the Governor with the advice and consent of the Mississippi Senate. Each serves a 4-year term and must represent a specific congressional district, with one at-large member.",
+      "explanation": "MREC consists of 5 commissioners appointed by the Governor with the advice and consent of the Mississippi Senate. Each serves a 4-year term. One commissioner comes from each of Mississippi's three Supreme Court districts, and two are appointed from the state at large (Miss. Code §73-35-5).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -31,7 +31,7 @@
       "question_text": "What minimum broker experience must a prospective MREC commissioner have?",
       "correct_answer": "5 years as a licensed broker",
       "distractors": ["3 years as a licensed broker", "7 years as a licensed broker", "10 years as a licensed broker"],
-      "explanation": "A prospective MREC commissioner must have held a Mississippi broker license for at least 5 years. Additionally, the commissioner must have been a Mississippi resident for at least 6 years.",
+      "explanation": "Under Miss. Code §73-35-5, an appointee's vocation for at least 5 years must have been that of a real estate broker. The appointee must also have been a Mississippi resident and citizen for at least 6 years before appointment.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -42,7 +42,7 @@
       "question_text": "A commissioner completes her term on MREC. How long was her appointment?",
       "correct_answer": "4 years",
       "distractors": ["2 years", "3 years", "6 years"],
-      "explanation": "MREC commissioners serve 4-year terms. They are appointed by the Governor with the advice and consent of the Mississippi Senate. Four commissioners represent congressional districts and one serves at-large.",
+      "explanation": "MREC commissioners serve 4-year terms and until their successors are appointed and qualify. They are appointed by the Governor with the advice and consent of the Mississippi Senate — one from each of Mississippi's three Supreme Court districts and two from the state at large.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -50,14 +50,14 @@
     },
     {
       "key_topic_ref": "MS-01.1",
-      "question_text": "Four MREC commissioners each represent a congressional district. How is the fifth commissioner selected?",
-      "correct_answer": "Appointed as an at-large member",
-      "distractors": ["Elected by licensed brokers", "Chosen by the other four members", "Selected by the state legislature"],
-      "explanation": "Four MREC commissioners represent Mississippi's congressional districts, while the fifth serves as an at-large member. All five are appointed by the Governor with Senate consent and must meet the same residency and licensure qualifications.",
+      "question_text": "Three MREC commissioners each represent one of Mississippi's Supreme Court districts. How are the other two commissioners selected?",
+      "correct_answer": "Appointed from the state at large",
+      "distractors": ["Elected by licensed brokers", "Chosen by the other three members", "Selected by the state legislature"],
+      "explanation": "Under Miss. Code §73-35-5, one commissioner is appointed from each of Mississippi's three Supreme Court districts and the remaining two are appointed from the state at large. All five are appointed by the Governor with the advice and consent of the Senate and must meet the same qualifications: 6 years' Mississippi residency and 5 years' vocation as a real estate broker.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["MREC", "at-large", "congressional districts"]
+      "tags": ["MREC", "at-large", "Supreme Court districts"]
     },
     {
       "key_topic_ref": "MS-01.2",
@@ -94,25 +94,25 @@
     },
     {
       "key_topic_ref": "MS-01.2",
-      "question_text": "Under 2025 rules, how much advance notice must MREC give before changing a license status?",
+      "question_text": "Under a 2025 Mississippi law, how much advance notice must MREC give before changing a license status?",
       "correct_answer": "5 business days by email",
       "distractors": ["10 business days by mail", "3 business days by phone", "30 calendar days by mail"],
-      "explanation": "As of 2025, MREC must provide at least 5 business days of email notice before making changes to a licensee's status, such as suspension, revocation, or non-renewal. This ensures licensees have adequate warning.",
+      "explanation": "Effective July 1, 2025 (SB 2423, Miss. Code §73-35-10(3)), MREC must deliver written notice at least 5 business days before the effective date of any license being amended, suspended, revoked, or not renewed. The notice is sent to the email addresses on file for both the licensee and the responsible broker.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["2025 rules", "license changes", "notice requirements"]
+      "tags": ["2025 law", "license changes", "notice requirements"]
     },
     {
       "key_topic_ref": "MS-01.2",
-      "question_text": "Under 2025 rules, MREC must complete an investigation within what timeframe?",
+      "question_text": "Under a 2025 Mississippi law, MREC must dismiss a complaint or issue a formal complaint within what timeframe?",
       "correct_answer": "120 days from notice",
       "distractors": ["60 days from notice", "90 days from complaint", "180 days from complaint"],
-      "explanation": "Under 2025 rules, MREC investigations must be completed within 120 days of the Notice of Investigation. If the investigation is not completed within this timeframe, the case must be dismissed.",
+      "explanation": "Under Miss. Code §73-35-23(9) (SB 2423, effective July 1, 2025), any complaint must be resolved — by dismissal or issuance of a formal complaint — within 120 days of the date written notice of the investigation's commencement is given to the licensee and responsible broker. Final disposition (dismissal, final ruling, or agreed order) must occur within 1 year of that notice.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["2025 rules", "investigation", "deadline"]
+      "tags": ["2025 law", "investigation", "deadline"]
     }
   ]
 }

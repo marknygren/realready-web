@@ -61,14 +61,14 @@
     },
     {
       "key_topic_ref": "MS-08.2",
-      "question_text": "When a salesperson leaves a Mississippi brokerage, who must notify MREC of the status change?",
-      "correct_answer": "The responsible broker",
-      "distractors": ["The departing salesperson only", "The new employing broker only", "MREC monitors changes automatically"],
-      "explanation": "The responsible broker must notify MREC of any associate status changes or terminations. This ensures MREC maintains accurate records of where each licensee is currently practicing.",
-      "difficulty": "easy",
+      "question_text": "A Mississippi salesperson transfers to a new brokerage. What must the former principal broker do within three days?",
+      "correct_answer": "Acknowledge the transfer to MREC",
+      "distractors": ["Return the salesperson's license to MREC for cancellation", "Forward the license directly to the new broker", "Nothing — the salesperson handles all MREC notices"],
+      "explanation": "Effective July 1, 2026 (SB 2748), the principal broker must acknowledge the licensee's transfer to MREC within three days — through MREC's online transfer portal or otherwise — so a new license can be issued; this replaced the old requirement to physically return the license. The transferring licensee separately owes MREC prompt written notice of the change of principal broker within three days, and may not practice until the license is reissued.",
+      "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["MREC-notification", "termination", "status-change"]
+      "tags": ["license transfer", "principal broker", "2026 law"]
     },
     {
       "key_topic_ref": "MS-08.2",
@@ -130,7 +130,7 @@
       "question_text": "A Mississippi broker operates from a home office with no signage. Does this meet the place-of-business requirement?",
       "correct_answer": "Only if it meets definite business standards",
       "distractors": ["Yes, any residential address is acceptable", "No, a commercial lease is always required", "Only with prior MREC written approval"],
-      "explanation": "A broker must maintain a definite place of business. Whether a home office qualifies depends on meeting MREC's requirements for what constitutes a definite place of business, including accessibility and proper license display.",
+      "explanation": "A broker must maintain a definite place of business, which may be a room in the broker's home or an office elsewhere, used for the transaction of real estate business (§73-35-15(1)). The address must be designated on the license and all licenses prominently displayed there — so a home office qualifies only if it meets these definite place-of-business requirements.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -141,7 +141,7 @@
       "question_text": "A broker opens a second branch office. What must be displayed at the new location?",
       "correct_answer": "Licenses of agents working at that office",
       "distractors": ["Only the broker's main office license", "Only a copy of the brokerage agreement", "No display is needed for branch offices"],
-      "explanation": "Licenses must be prominently displayed at the broker's place of business, including branch offices. Each location where licensees work should display the licenses of those agents.",
+      "explanation": "A broker with more than one office must display a branch office license in each branch office (MREC Rule 3.1.D), and licensees' certificates are displayed at the office from which they work (§73-35-15(1); Rule 3.5.A). The broker remains responsible for the real estate practices of licensees at every office.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
