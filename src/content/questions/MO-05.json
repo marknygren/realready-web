@@ -28,7 +28,7 @@
         "Transaction broker",
         "Universal agent"
       ],
-      "explanation": "Under Missouri law, when a broker acts as a dual agent with written consent of all parties, the broker becomes a 'limited agent.' This designation reflects the reduced scope of fiduciary duties owed to each party, since the broker cannot fully advocate for either side.",
+      "explanation": "Under RSMo 339.750, a dual agent is a limited agent for both parties, owing each the statutory duties of sections 339.730 and 339.740 restricted by dual-agency confidentiality. In Missouri all statutory agents -- seller's, buyer's, and dual -- are 'limited agents'; what distinguishes the dual agent is being a limited agent for both sides at once, which narrows what can be advocated and disclosed.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -43,7 +43,7 @@
         "Transaction brokerage",
         "Subagency"
       ],
-      "explanation": "Designated agency allows the broker to assign individual agents to represent different clients within the same transaction. Kim can serve as the buyer's designated agent and owe full fiduciary duties, while a different agent in the firm represents the seller.",
+      "explanation": "Designated agency allows the broker to appoint individual agents to represent different clients within the same transaction. Kim can serve as the buyer's designated agent, owing her client the full statutory duty set of a buyer's agent (performance, loyalty, skill and care), while a different designated agent in the firm represents the seller.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -51,14 +51,14 @@
     },
     {
       "key_topic_ref": "MO-05.1",
-      "question_text": "How many agency types are recognized under Missouri's brokerage relationship statutes (RSMo 339.710-339.780)?",
-      "correct_answer": "Four types",
+      "question_text": "Which of the following is NOT a brokerage relationship recognized under Missouri's brokerage relationship statutes (RSMo 339.710-339.780)?",
+      "correct_answer": "Universal agent",
       "distractors": [
-        "Three types",
-        "Five types",
-        "Two types"
+        "Transaction broker",
+        "Subagent",
+        "Disclosed dual agent"
       ],
-      "explanation": "Missouri recognizes four agency types: seller's agent, buyer's agent, dual agent (limited agent), and transaction broker. Each carries different obligations and levels of representation, and licensees must understand all four to properly disclose their role.",
+      "explanation": "Missouri's brokerage relationship statutes and the MREC Broker Disclosure Form recognize seller's/landlord's limited agents, buyer's/tenant's limited agents, subagents, disclosed dual agents, designated agents, and transaction brokers. 'Universal agent' is a general agency-law classification with no place in Missouri's statutory scheme -- Missouri statutory agency is limited agency, defined and bounded by RSMo 339.710-339.780.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -88,7 +88,7 @@
         "Within 48 hours of the first contact",
         "Before the scheduled closing date arrives"
       ],
-      "explanation": "Missouri law requires the Broker Disclosure Form to be provided at the 'earliest practicable opportunity.' This must occur before the broker obtains any personal or financial information from the consumer, or before entering into a brokerage agreement.",
+      "explanation": "Missouri law (RSMo 339.770) requires the Broker Disclosure Form at the 'earliest practicable opportunity' during or following the first substantial contact. Under 20 CSR 2250-8.097, it must be provided no later than the point any personal or financial information is obtained, or before signing a brokerage service agreement, whichever occurs first.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -103,7 +103,7 @@
         "No, casual meetings are exempt",
         "Yes, but only if a contract results"
       ],
-      "explanation": "The Broker Disclosure Form must be provided BEFORE obtaining any personal or financial information. By asking about price range and financing without first providing the disclosure, Broker Chen has violated the requirement regardless of the informal setting.",
+      "explanation": "Under 20 CSR 2250-8.097, the Broker Disclosure Form must be provided at the earliest practicable opportunity and in any event upon obtaining any personal or financial information, or before the signing of a brokerage service agreement, whichever occurs first. By gathering the buyer's price range and financing details without having provided the disclosure, Broker Chen violated the rule regardless of the informal setting.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -118,7 +118,7 @@
         "Only first-time homebuyer purchases",
         "Only transactions involving financing"
       ],
-      "explanation": "Missouri requires the Broker Disclosure Form in all residential real estate transactions. There is no dollar threshold, buyer experience requirement, or financing condition that exempts a residential transaction from this disclosure obligation.",
+      "explanation": "Missouri requires the Broker Disclosure Form in residential real estate transactions (RSMo 339.770). There is no dollar threshold, buyer experience requirement, or financing condition that exempts a residential transaction. The only carve-out is for a party who has already entered a written brokerage services agreement, who need not receive the form from other licensees.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -163,7 +163,7 @@
         "Within 30 days of first showing",
         "Before the closing date"
       ],
-      "explanation": "HB 595 changed Missouri law to require written agency agreements BEFORE providing brokerage services. Previously, the agreement could be entered into 'while' providing services. This ensures both parties understand their relationship from the outset.",
+      "explanation": "HB 595 (2025) struck 'or while' from RSMo 339.780.3, so a buyer's or tenant's written agency agreement must now be in place before any brokerage acts other than ministerial acts. Seller-side, dual-agency, and subagency agreements already had to precede services under prior law. This ensures both parties understand their relationship from the outset.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -171,14 +171,14 @@
     },
     {
       "key_topic_ref": "MO-05.3",
-      "question_text": "Before HB 595, Missouri law allowed written agency agreements to be executed at what point?",
-      "correct_answer": "While providing brokerage services",
+      "question_text": "Before HB 595, Missouri law allowed a written buyer agency agreement to be executed at what point?",
+      "correct_answer": "Before or while providing brokerage services",
       "distractors": [
         "Only before any client contact",
         "Within 72 hours of closing",
         "After the first offer was submitted"
       ],
-      "explanation": "Prior to HB 595 taking effect on August 28, 2025, Missouri law permitted written agency agreements to be entered into 'while' the broker was providing services. HB 595 tightened this requirement to 'before' services begin.",
+      "explanation": "Prior to HB 595 taking effect on August 28, 2025, RSMo 339.780.3 permitted a buyer's or tenant's written agency agreement to be entered into 'before or while' the broker provided brokerage services. HB 595 deleted 'or while,' so the agreement must now precede all but ministerial acts. Seller-side agreements already had to come first under prior law.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -186,14 +186,14 @@
     },
     {
       "key_topic_ref": "MO-05.3",
-      "question_text": "Agent Rivera shows a buyer three properties before obtaining a signed buyer agency agreement. Under HB 595, what is the status of this activity?",
+      "question_text": "Agent Rivera orally agrees to act as a buyer's exclusive agent and, in that capacity, shows the buyer three properties before any written buyer agency agreement is signed. Under RSMo 339.780.3 as amended by HB 595 (2025), what is the status of this activity?",
       "correct_answer": "It violates the written agreement requirement",
       "distractors": [
         "It is permitted for up to three showings",
         "It is allowed if the buyer verbally agrees",
         "It is legal if no offer has been made"
       ],
-      "explanation": "Under HB 595, a written agency agreement must be in place BEFORE providing brokerage services, which includes showing properties. Showing three homes without a signed agreement is a clear violation regardless of verbal understandings or whether an offer was submitted.",
+      "explanation": "Since HB 595 took effect on August 28, 2025, a designated broker acting as a single agent for a buyer or tenant must enter into the written agency agreement before performing any brokerage acts other than ministerial acts -- the former 'or while' window was deleted from RSMo 339.780.3, and an exclusive brokerage agreement is by definition written (RSMo 339.710). Because Rivera is acting as the buyer's agent, showing homes before signing violates the statute regardless of oral understandings or whether an offer follows. (A licensee with no agreement who instead works as a neutral transaction broker -- Missouri's default under RSMo 339.720 -- may show property without a written agreement unless expecting compensation from that party.)",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -201,14 +201,14 @@
     },
     {
       "key_topic_ref": "MO-05.3",
-      "question_text": "Under HB 595, a buyer agency agreement states the buyer will pay 3% commission but the buyer wants to negotiate a lower rate. What does Missouri law provide?",
+      "question_text": "A buyer agency agreement states the buyer will pay a 3% commission, but the buyer wants to negotiate a lower rate. What does Missouri law provide?",
       "correct_answer": "Compensation must be stated and is negotiable",
       "distractors": [
         "Commission rates are set by the MREC",
         "The listed rate becomes binding once signed",
         "Only the seller can negotiate commission"
       ],
-      "explanation": "HB 595 requires that compensation be clearly stated in the written agency agreement and affirms that all compensation is negotiable. No commission rate is fixed by law or regulation. Both parties are free to negotiate the terms before signing.",
+      "explanation": "RSMo 339.780 has long required a written agency agreement to include the terms of compensation, and no Missouri law or MREC rule fixes commission rates, so compensation is fully negotiable between the parties. (This requirement predates HB 595, which changed only the timing of buyer and tenant agency agreements.)",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -223,7 +223,7 @@
         "Yes, compensation terms are optional",
         "No, but only for transactions over $250,000"
       ],
-      "explanation": "HB 595 requires that the written agency agreement include a stated amount of compensation. Omitting this information renders the agreement non-compliant, regardless of whether the MLS or other sources indicate a commission amount.",
+      "explanation": "RSMo 339.780 requires a written agency agreement to include the terms of compensation -- a percentage, formula, or stated amount all qualify. An agreement silent on compensation lacks the statutorily required terms and is non-compliant, regardless of whether the MLS or other sources indicate a commission amount. (This requirement is original to the statute, not an HB 595 addition.)",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

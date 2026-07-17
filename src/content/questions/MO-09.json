@@ -36,14 +36,14 @@
     },
     {
       "key_topic_ref": "MO-09.1",
-      "question_text": "An agent's personal website features property listings with her name prominently displayed and the brokerage name in small print at the bottom. Is this compliant?",
-      "correct_answer": "Yes, if the broker's name is included",
+      "question_text": "An agent's personal website features property listings with her name prominently displayed and the brokerage's name and phone number in small print at the bottom. Is this compliant?",
+      "correct_answer": "Yes, if the broker's name and phone number appear",
       "distractors": [
         "No, the broker's name must be largest",
         "No, internet ads are exempt from the rule",
         "Only if the website is linked to the MLS"
       ],
-      "explanation": "Missouri requires the broker's name as registered with MREC to appear in all advertisements, including internet and social media. The salesperson's name may appear prominently, but the broker's name must be present. There is no requirement that it be the largest element.",
+      "explanation": "Under 20 CSR 2250-8.070, every advertisement must contain the broker's regular business or licensed name, and when a licensee's name or telephone number appears, the ad must also include the name and telephone number of the broker or firm. The salesperson's name may be prominent -- there is no requirement that the broker's name be larger or more prominent.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -51,18 +51,18 @@
     },
     {
       "key_topic_ref": "MO-09.1",
-      "question_text": "Where must a Missouri broker's license be displayed?",
-      "correct_answer": "At the broker's office",
+      "question_text": "What is a Missouri broker required to display outside the firm's regular place of business?",
+      "correct_answer": "A business sign with the firm's licensed or regular business name",
       "distractors": [
-        "On all property yard signs",
-        "At the local MREC office",
-        "On the broker's personal vehicle"
+        "The broker's original wall license",
+        "The wall licenses of all affiliated salespersons",
+        "A printed roster of the firm's current listings"
       ],
-      "explanation": "Missouri requires the broker's license to be displayed at the broker's office location. This provides clients and the public with verification of the broker's credentials. Licenses are not required to be displayed on signs, vehicles, or at MREC offices.",
+      "explanation": "Under 20 CSR 2250-8.010(2), a broker's business sign of sufficient size to identify it, bearing the name under which the broker or the broker's firm is licensed or the regular business name, must be displayed outside the broker's regular place of business. The old license-display rule (20 CSR 2250-8.060) was rescinded effective July 30, 2023; MREC no longer automatically issues physical licenses, which licensees now download through the MOPro portal.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["license_display", "broker_office", "MREC"]
+      "tags": ["office_requirements", "business_sign", "MREC"]
     },
     {
       "key_topic_ref": "MO-09.1",
@@ -81,18 +81,18 @@
     },
     {
       "key_topic_ref": "MO-09.2",
-      "question_text": "A person manages rental properties and handles tenant security deposits for property owners. Does this person need a real estate license in Missouri?",
-      "correct_answer": "Yes, handling others' funds requires it",
+      "question_text": "A company, for a fee, markets owners' rental homes, procures tenants, and negotiates leases on the owners' behalf. What does Missouri law require?",
+      "correct_answer": "The company must hold a real estate broker license",
       "distractors": [
-        "No, property management is exempt",
-        "Only if managing 10 or more units",
-        "Only if collecting a sales commission"
+        "Nothing, property management is fully exempt",
+        "A license only if it manages 10 or more units",
+        "A license only if it also sells real estate"
       ],
-      "explanation": "In Missouri, property management that involves handling other people's funds requires a real estate license. This applies regardless of the number of units managed or whether the person collects a traditional commission. The handling of others' money triggers the licensing requirement.",
+      "explanation": "Leasing or renting real estate, negotiating leases, and procuring tenants for others for compensation are broker activities under RSMo 339.010.1, so a property management company performing them needs a broker license. A narrow exemption (RSMo 339.010.9(5)) covers unlicensed persons employed or retained to manage property whose work is limited to activities such as delivering leases, receiving applications, deposits, and rents for delivery to the owner or broker, showing rental units under direct instructions, and clerical or maintenance tasks -- handling money within those limits does not itself trigger licensure.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["property_management", "licensing", "handling_funds"]
+      "tags": ["property_management", "licensing", "broker_license", "exemptions"]
     },
     {
       "key_topic_ref": "MO-09.2",
@@ -141,14 +141,14 @@
     },
     {
       "key_topic_ref": "MO-09.2",
-      "question_text": "A property management company keeps rental deposits and sales earnest money in one account but uses separate ledgers. Is this arrangement compliant in Missouri?",
+      "question_text": "A property management company keeps current rents collected for owners and sales earnest money in one account but uses separate ledgers. Is this arrangement compliant in Missouri?",
       "correct_answer": "No, separate escrow accounts are required",
       "distractors": [
         "Yes, if ledgers clearly track each fund",
         "Yes, single accounts reduce bank fees",
         "Only non-compliant if audited by MREC"
       ],
-      "explanation": "Missouri requires property management escrow to be maintained in a separate account from sales escrow. Separate internal ledgers within a single bank account do not satisfy this requirement. The funds must be in physically distinct bank accounts.",
+      "explanation": "20 CSR 2250-8.220(1) requires property management escrow funds to be maintained in a separately designated account apart from the sales escrow account. Separate internal ledgers within a single bank account do not satisfy the rule -- the funds must be in distinct bank accounts. (Security deposits have their own rule: they must be kept in an escrow account other than the PM account unless the owners agree otherwise in writing.)",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -178,7 +178,7 @@
         "Yes, if the policy affects more than 5 people",
         "No, but only for owner-occupied properties"
       ],
-      "explanation": "Since 2017, Missouri requires proof of discriminatory INTENT for fair housing violations. Unlike federal law, which allows claims based on disparate impact (unintentional discriminatory effect), Missouri's standard is higher and requires showing the discrimination was purposeful.",
+      "explanation": "Since SB 43 (2017), the Missouri Human Rights Act defines 'because of' to mean the protected criterion was 'the motivating factor' (RSMo 213.010). A facially neutral policy adopted without regard to race does not meet that causation standard, so an effects-only claim fails under state law -- though it may still proceed under the federal Fair Housing Act's disparate-impact theory. HUD has found the post-2017 MHRA no longer substantially equivalent to federal law.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -189,11 +189,11 @@
       "question_text": "How does Missouri's fair housing standard differ from the federal standard regarding proof of discrimination?",
       "correct_answer": "Missouri requires intent; federal allows impact",
       "distractors": [
-        "Missouri is stricter than federal law",
+        "Missouri protects more classes than federal law",
         "Federal law requires intent; Missouri does not",
         "Both require identical proof of discrimination"
       ],
-      "explanation": "A critical distinction: Missouri requires discriminatory INTENT (the action was purposeful) while federal law allows claims based on disparate IMPACT (the action had a discriminatory effect regardless of intent). This 2017 change made it harder to prove fair housing violations under state law.",
+      "explanation": "SB 43 (2017) replaced the MHRA's 'contributing factor' causation standard with 'the motivating factor' (RSMo 213.010) and endorsed McDonnell Douglas burden-shifting (RSMo 213.101), so Missouri claims effectively require purposeful discrimination. Federal law, by contrast, permits disparate-impact claims (Texas Dept. of Housing v. Inclusive Communities (2015)). Missouri's protected-class list for housing mirrors the federal list -- the difference is the proof standard, which is now harder for complainants under state law.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -208,7 +208,7 @@
         "Only applies to properties with 4+ units",
         "Federal law overrides both HB 595 and the city"
       ],
-      "explanation": "HB 595 preempts local source-of-income ordinances in Missouri. This means municipalities cannot require landlords to accept Section 8 vouchers or other government housing subsidies. Landlords retain the right to decline voucher holders under state law.",
+      "explanation": "HB 595 (2025), codified at RSMo 441.043 effective August 28, 2025, preempts local source-of-income ordinances in Missouri. Municipalities cannot require landlords to accept Section 8 vouchers or other housing-assistance income (a narrow carve-out preserves local protections for recipients of veterans' benefits). Landlords retain the right to decline voucher holders under state law.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,

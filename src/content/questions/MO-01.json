@@ -13,7 +13,7 @@
         "9 members",
         "11 members"
       ],
-      "explanation": "The Missouri Real Estate Commission consists of 7 members appointed by the Governor. Six must be licensed brokers with at least 10 years of experience, and one must be a public (non-licensee) member representing consumer interests.",
+      "explanation": "The Missouri Real Estate Commission consists of 7 members appointed by the Governor with the advice and consent of the Senate. Six must have had at least 10 years' experience as real estate brokers prior to their appointment, and one is a voting public (non-licensee) member representing consumer interests.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -66,18 +66,18 @@
     },
     {
       "key_topic_ref": "MO-01.1",
-      "question_text": "An MREC broker member has 12 years of licensure but let her license lapse last month. She wants to continue serving. What is the most likely outcome?",
-      "correct_answer": "She cannot serve without an active license",
+      "question_text": "A sitting MREC commissioner is accused of serious misconduct partway through his 5-year term. Who has the authority to remove him from the commission before the term ends?",
+      "correct_answer": "The Governor, for cause",
       "distractors": [
-        "She may serve until her term expires",
-        "She becomes the public member instead",
-        "She has 90 days to reinstate her license"
+        "A majority vote of the other six commissioners",
+        "The Missouri Association of REALTORS",
+        "The Director of the Division of Professional Registration"
       ],
-      "explanation": "Broker members of the MREC must maintain active broker licensure throughout their term. A lapsed license disqualifies the member from serving in a broker seat. The public member position is a separate appointment, not an automatic reassignment.",
+      "explanation": "Section 339.120 RSMo provides that the Governor may remove any commissioner for cause. The other commissioners have no removal power, and while the Missouri Association of REALTORS submits lists of qualified candidates for the broker seats to the Director of the Division of Professional Registration, appointment and removal authority rests with the Governor. A successor appointed to fill a vacancy serves only the remainder of the unexpired term.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["MREC", "broker_members", "active_license", "eligibility"]
+      "tags": ["MREC", "commissioner_removal", "governor", "vacancy"]
     },
     {
       "key_topic_ref": "MO-01.2",
@@ -118,7 +118,7 @@
         "Order the licensee to pay damages",
         "File a civil lawsuit against the licensee"
       ],
-      "explanation": "When MREC receives a complaint, its first step is investigation to determine whether sufficient evidence exists. MREC cannot immediately suspend a license without due process, cannot order monetary damages (that requires a court), and does not file civil suits. If the investigation reveals violations, the case may proceed to a hearing.",
+      "explanation": "When MREC receives a complaint, its first step is investigation to determine whether sufficient evidence exists. MREC cannot immediately suspend a license without due process, cannot order monetary damages (that requires a court), and pursues licensee discipline through the Administrative Hearing Commission rather than by suing the licensee. If the investigation reveals violations, the case may proceed to an AHC hearing.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -201,14 +201,14 @@
     },
     {
       "key_topic_ref": "MO-01.3",
-      "question_text": "Under which state agency does MREC operate?",
+      "question_text": "Which state division directly houses and administers the Missouri Real Estate Commission?",
       "correct_answer": "Division of Professional Registration",
       "distractors": [
-        "Department of Commerce and Insurance",
+        "Division of Finance",
         "Department of Economic Development",
         "Office of the Attorney General"
       ],
-      "explanation": "The Missouri Real Estate Commission operates under the Division of Professional Registration, which oversees numerous professional licensing boards in Missouri. The Division provides administrative support while the MREC retains authority over real estate licensing decisions.",
+      "explanation": "The MREC operates within the Division of Professional Registration, which oversees Missouri's professional licensing boards and is itself assigned to the Department of Commerce and Insurance (RSMo 324.001). The Division provides administrative support while the MREC retains authority over real estate licensing decisions (RSMo 339.120). The Division of Finance regulates banks and mortgage licensees, not real estate brokers.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,

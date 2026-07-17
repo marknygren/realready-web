@@ -13,7 +13,7 @@
         "The transaction is under $500,000",
         "Both parties share the same attorney"
       ],
-      "explanation": "RSMo 339.750 requires written consent from ALL parties before a broker may act as a dual agent. Verbal consent or implied consent is insufficient. Without written authorization from every party, dual agency is prohibited.",
+      "explanation": "RSMo 339.750.1 permits dual agency only with the consent of all parties, and consent is presumed by a written agreement under RSMo 339.780. Section 339.710 defines a dual agent as acting 'with the written consent of all parties,' and 339.780.4 requires the written dual-agency agreement before any brokerage activity. Verbal or implied consent is insufficient.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -43,7 +43,7 @@
         "Transaction broker",
         "Fiduciary agent"
       ],
-      "explanation": "Missouri law designates a dual agent as a 'limited agent,' reflecting the fact that fiduciary duties are reduced when representing both sides. The broker cannot fully advocate for either party, hence the 'limited' designation distinguishes this role from single-party representation.",
+      "explanation": "RSMo 339.750.2 provides that a dual agent 'shall be a limited agent for both the seller and buyer or the landlord and tenant.' Note that in Missouri all statutory agents -- including single seller's and buyer's agents -- are 'limited agents' whose duties are set by statute (RSMo 339.730-339.750); what distinguishes a dual agent is that the limited agency runs to both parties at once, with the additional confidentiality restrictions of 339.750.4.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -58,7 +58,7 @@
         "The broker can proceed if witnessed",
         "The violation is cured at closing"
       ],
-      "explanation": "Missouri requires WRITTEN consent from all parties for dual agency. Verbal agreement is legally insufficient under RSMo 339.750. By proceeding without written consent, the broker has violated Missouri's agency statutes and faces potential disciplinary action.",
+      "explanation": "Missouri requires WRITTEN consent from all parties for dual agency (RSMo 339.710 defines a dual agent as acting with the written consent of all parties, and RSMo 339.780.4 requires the written dual-agency agreement before brokerage activity). Verbal agreement is legally insufficient. By proceeding without written consent, the broker has violated Missouri's agency statutes and faces potential disciplinary action.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -81,14 +81,14 @@
     },
     {
       "key_topic_ref": "MO-06.2",
-      "question_text": "In designated agency, what triggers a shift to dual agency when two agents from the same brokerage represent different parties?",
+      "question_text": "A Missouri brokerage practices designated agency. Under the Missouri Broker Disclosure Form, which circumstance is one of the two exceptions that can result in dual agency (or transaction brokerage)?",
       "correct_answer": "The same agent listed and represents the buyer",
       "distractors": [
         "Both agents attend the same closing",
         "The broker collects commission from both sides",
         "The property is a new construction home"
       ],
-      "explanation": "Designated agency becomes dual agency under two exceptions. The first is when the same individual agent both listed the property and represents the buyer. In this case, there are no separate designated agents, so dual agency rules and consent requirements apply.",
+      "explanation": "The MREC Broker Disclosure Form lists two exceptions, 'with both resulting in dual agency or transaction brokerage': (1) the agent representing the buyer is also the agent who listed the property, and (2) the supervising broker of the two designated agents becomes involved in the transaction. When the same licensee is on both sides, RSMo 339.820.2 makes that licensee a dual agent or a transaction broker -- dual agency requires the written consent of all parties; otherwise the licensee defaults to transaction-broker status.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -96,18 +96,18 @@
     },
     {
       "key_topic_ref": "MO-06.2",
-      "question_text": "Agent Lee is the designated buyer's agent and Agent Park is the designated seller's agent at the same firm. Their supervising broker begins negotiating on Agent Park's behalf. What agency issue arises?",
-      "correct_answer": "The transaction becomes a dual agency",
+      "question_text": "Agent Lee is the designated buyer's agent and Agent Park is the designated seller's agent at the same firm. Their supervising broker becomes personally involved in the transaction. Under Missouri's designated agency rules, what results?",
+      "correct_answer": "Dual agency or transaction brokerage, depending on the parties' written consent",
       "distractors": [
-        "No issue if the broker is licensed",
-        "The broker acts as a transaction broker",
-        "Only Agent Park's designation changes"
+        "Both designated agency appointments are automatically terminated",
+        "No change, because a supervising broker is exempt from agency rules",
+        "The two designated agents become subagents of each other"
       ],
-      "explanation": "When the supervising broker becomes directly involved in negotiating for one side of a designated agency transaction, the second exception is triggered and the arrangement converts to dual agency. Written consent from all parties is then required.",
+      "explanation": "The supervising broker of two designated agents becoming involved in the transaction is the second exception listed on the Missouri Broker Disclosure Form, 'with both resulting in dual agency or transaction brokerage.' Under RSMo 339.820.2 a licensee on both sides of a transaction is a dual agent or a transaction broker: dual agency requires the written consent of all parties (RSMo 339.710, 339.780.4), and without that consent the broker is deemed a transaction broker and must give immediate notice of that status, confirmed in writing (RSMo 339.710(23)(c)). The designated agents themselves keep their single-agency roles.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["designated_agency", "supervising_broker", "dual_agency_exception"]
+      "tags": ["designated_agency", "supervising_broker", "dual_agency_exception", "transaction_broker_default"]
     },
     {
       "key_topic_ref": "MO-06.2",
@@ -133,7 +133,7 @@
         "Three exceptions",
         "Four exceptions"
       ],
-      "explanation": "Missouri recognizes two specific exceptions that convert designated agency to dual agency: (1) when the same agent both listed the property and represents the buyer, and (2) when the supervising broker becomes personally involved in the transaction for one side.",
+      "explanation": "The Missouri Broker Disclosure Form lists two exceptions to designated agency, 'with both resulting in dual agency or transaction brokerage': (1) the agent representing the buyer or tenant also listed the property, and (2) the supervising broker of the two designated agents becomes involved in the transaction. Which result occurs depends on consent: dual agency requires the written consent of all parties (RSMo 339.710); otherwise the licensee is deemed a transaction broker.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -157,13 +157,13 @@
     {
       "key_topic_ref": "MO-06.3",
       "question_text": "Which of the following is considered confidential information under Missouri agency law?",
-      "correct_answer": "A buyer's willingness to pay above asking",
+      "correct_answer": "A buyer's willingness to pay more than the price offered",
       "distractors": [
         "A known roof leak in the property",
         "The property's listing price history",
         "Recent comparable sales in the area"
       ],
-      "explanation": "Under Missouri law, confidential information includes a party's willingness to pay more or accept less than stated, along with motivating factors for buying, selling, or leasing. Property defects, listing histories, and comparable sales are not confidential client information.",
+      "explanation": "Under RSMo 339.750.4, confidential information includes a party's willingness to pay more than the price offered or accept less than the asking price, motivating factors, willingness to agree to other financing terms, and the terms of any prior offers or counteroffers. Property defects are adverse material facts that must be disclosed, and listing histories and comparable sales are not confidential client information.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -178,7 +178,7 @@
         "Share the information to facilitate the deal",
         "Reveal it only if the buyer makes an offer"
       ],
-      "explanation": "Motivating factors for selling are explicitly classified as confidential information under Missouri law. The listing agent must not reveal the seller's urgency due to relocation, as this could weaken the seller's negotiating position. Disclosure requires the seller's consent.",
+      "explanation": "Motivating factors are confidential client information under Missouri law (RSMo 339.750.4(3) for dual agents; for a listing agent, the confidentiality duty of RSMo 339.730.2 and the duty of loyalty and utmost good faith reach the same result). The listing agent must not reveal the seller's urgency due to relocation, as this could weaken the seller's negotiating position. Disclosure requires the seller's consent.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -193,7 +193,7 @@
         "Only seller's and buyer's agency",
         "Only designated agency"
       ],
-      "explanation": "Confidentiality obligations regarding client information—including willingness to pay more or accept less and motivating factors—apply across all agency types in Missouri: seller's agent, buyer's agent, dual agent, designated agent, and transaction broker.",
+      "explanation": "Confidentiality obligations regarding client information -- including willingness to pay more or accept less and motivating factors -- apply across all Missouri brokerage relationships: seller's agent, buyer's agent, dual agent, designated agent, and the transaction broker (which is statutorily a non-agency, neutral relationship but carries the same confidentiality duties under RSMo 339.755.3).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -220,10 +220,10 @@
       "correct_answer": "Yes, confidentiality survives the relationship",
       "distractors": [
         "No, duties end when the agreement expires",
-        "No, if the information is publicly known",
+        "No, because pricing information is never confidential",
         "Yes, but only within 90 days of termination"
       ],
-      "explanation": "Confidentiality obligations regarding pricing willingness and motivating factors survive the termination of the agency relationship in Missouri. A broker cannot disclose former client confidential information after the relationship ends, and the client may file a valid complaint.",
+      "explanation": "Under RSMo 339.790.2(2), the duty to keep client confidences -- such as willingness to accept a lower price -- survives termination of the brokerage relationship. Post-termination disclosure requires the client's written consent (other narrow exceptions: information required to be disclosed by law, made public by the client or another source, or needed in the broker's self-defense). None applies here, so the client's complaint is valid.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

@@ -13,7 +13,7 @@
         "Under the Division of Professional Registration",
         "Under any broker-salesperson"
       ],
-      "explanation": "Missouri salespersons must always work under the supervision of a licensed broker. They cannot operate independently or hold their own escrow accounts. A broker-salesperson also works under a broker and cannot supervise other licensees.",
+      "explanation": "Missouri salespersons must always work under the supervision of a licensed broker. They cannot operate independently or hold their own escrow accounts. A broker-salesperson also works under a broker and cannot have salespersons licensed under him or her, though one may manage a branch office for the broker (20 CSR 2250-4.050, 8.030).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -81,14 +81,14 @@
     },
     {
       "key_topic_ref": "MO-03.2",
-      "question_text": "What is the approximate renewal fee for a Missouri salesperson license?",
-      "correct_answer": "About $40",
+      "question_text": "What is the renewal fee for a Missouri salesperson license?",
+      "correct_answer": "$65",
       "distractors": [
-        "About $25",
-        "About $75",
-        "About $100"
+        "$40",
+        "$75",
+        "$100"
       ],
-      "explanation": "The Missouri salesperson license renewal fee is approximately $40. This is lower than the broker renewal fee of approximately $50. Exact amounts are set by MREC and may be adjusted periodically. Late renewals incur additional penalties of $50 per month.",
+      "explanation": "Effective July 1, 2024, 20 CSR 2250-5.020 sets the salesperson renewal fee at $65 for the two-year license period; the broker and broker-salesperson renewal fee is $75. The salesperson fee was about $40 before July 2024, but that figure is outdated. Late renewals add a delinquent fee of $50 per month or partial month, capped at $200.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -103,7 +103,7 @@
         "$100",
         "$200"
       ],
-      "explanation": "Missouri charges a $50 per month late penalty for overdue renewals. At 3 months late, the penalty is $150 (3 x $50). The maximum late penalty cap is $200, so this broker has not yet reached the maximum. The penalty is added to the standard renewal fee.",
+      "explanation": "Missouri charges a $50 delinquent fee per month or partial month for overdue renewals; fees are not prorated. At 3 months late, the penalty is $150 (3 x $50). The maximum late penalty cap is $200, so this broker has not yet reached the maximum. The penalty is added to the standard renewal fee.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -126,14 +126,14 @@
     },
     {
       "key_topic_ref": "MO-03.2",
-      "question_text": "What is the approximate renewal fee for a Missouri broker license?",
-      "correct_answer": "About $50",
+      "question_text": "What is the renewal fee for a Missouri broker license?",
+      "correct_answer": "$75",
       "distractors": [
-        "About $40",
-        "About $100",
-        "About $150"
+        "$50",
+        "$65",
+        "$100"
       ],
-      "explanation": "The Missouri broker license renewal fee is approximately $50, slightly higher than the salesperson fee of approximately $40. The difference reflects the broader scope of authority granted to brokers, including the ability to operate independently and supervise other licensees.",
+      "explanation": "Effective July 1, 2024, 20 CSR 2250-5.020 sets the renewal fee for broker, broker-salesperson, and entity licenses at $75, higher than the $65 salesperson renewal fee. The $50 figure is the pre-July 2024 amount, and $100 is the original issuance fee for a broker license (paid together with a separate $50 application fee on original application), not the renewal fee.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -163,7 +163,7 @@
         "Hire a co-broker for the branch",
         "No action is required for branches"
       ],
-      "explanation": "Missouri requires each branch office to be registered with MREC. The broker does not need a separate license for each branch, but must formally notify MREC of the new location. This ensures MREC can monitor and audit all locations where brokerage services are offered.",
+      "explanation": "Missouri requires each branch office to be registered with MREC -- the broker must notify the commission in writing within 10 days of opening or changing the address or managing licensee of a branch office (20 CSR 2250-8.030). The broker does not need a separate license for each branch; every branch operates under the same name and license as the parent office.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -186,14 +186,14 @@
     },
     {
       "key_topic_ref": "MO-03.3",
-      "question_text": "A broker is closing her brokerage permanently. Which action must she take regarding her licensees?",
-      "correct_answer": "Ensure all licensees transfer to new brokers",
+      "question_text": "A broker is closing her brokerage permanently. Which action must she take regarding her affiliated licensees?",
+      "correct_answer": "Notify them in writing and return their licenses to MREC",
       "distractors": [
-        "Place all licenses on automatic inactive status",
+        "Guarantee every licensee signs with a new broker before closing",
         "Return all licenses to the licensees directly",
         "Request MREC to suspend all affiliated licenses"
       ],
-      "explanation": "When a brokerage closes, the broker must ensure that all affiliated salespersons and broker-salespersons transfer their licenses to new supervising brokers. Licenses do not automatically become inactive, and the broker cannot simply return or suspend them. MREC must be notified of the office closure.",
+      "explanation": "Under 20 CSR 2250-8.155(1)(A)2, a broker voluntarily closing a firm must notify all affiliated licensees in writing of the effective closing date and return their licenses to the commission with the closing statement. The broker must also notify MREC on its prescribed form, notify clients, remove advertising, maintain escrow accounts until funds are disbursed, and arrange for pending contracts to be closed. Each licensee then has six months to transfer to a new broker or change license status; the closing broker is not required to guarantee transfers.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -208,7 +208,7 @@
         "Only branches in different counties",
         "None if the main office is registered"
       ],
-      "explanation": "Missouri requires every branch office to be separately registered with MREC, regardless of size or location. There are no exemptions based on branch size or proximity to the main office. This requirement ensures full regulatory oversight of all locations where brokerage services are provided.",
+      "explanation": "Missouri requires every branch office to be registered with MREC: the broker must notify the commission in writing within 10 days of opening each one, and each branch operates under the same name and license as the parent office (20 CSR 2250-8.030). The only offices excused from branch registration are on-site project sales, leasing, or management offices at a development, apartment complex, or similar property -- a category that does not apply to ordinary branch offices.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -216,18 +216,18 @@
     },
     {
       "key_topic_ref": "MO-03.3",
-      "question_text": "A salesperson's license transfer to a new broker is pending with MREC. Can the salesperson conduct real estate activities during the transfer?",
-      "correct_answer": "No, not until the transfer is completed",
+      "question_text": "A salesperson transferring to a new broker mails a properly completed transfer application to MREC by certified mail, with all required materials in one envelope. When may she begin practicing under the new broker?",
+      "correct_answer": "Immediately - she is deemed transferred upon mailing",
       "distractors": [
-        "Yes, under either broker during transfer",
-        "Yes, under the new broker immediately",
-        "Yes, if the salesperson has written consent"
+        "Only after MREC issues the new license",
+        "After a mandatory 10-day MREC review period",
+        "Only after her former broker consents in writing"
       ],
-      "explanation": "During the transfer period, a salesperson should not conduct real estate activities because they are not properly affiliated with either broker. The previous affiliation has ended and the new one is not yet effective. Practicing during this gap could constitute unlicensed activity.",
+      "explanation": "Under 20 CSR 2250-4.050(4), a salesperson or broker-salesperson transferring between brokers without changing license type is deemed transferred at the time a properly completed application is mailed to MREC by certified, registered, or overnight delivery with all required materials under one cover. The new broker is responsible for the application's completeness and mailing. If the application is incomplete, the transfer is not effective until the new license is received or MREC confirms in writing that it is being processed -- and original licensees or licensees changing license type or status must wait for that confirmation before practicing.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["license_transfer", "practice_gap", "compliance"]
+      "tags": ["license_transfer", "deemed_transferred", "compliance"]
     }
   ]
 }

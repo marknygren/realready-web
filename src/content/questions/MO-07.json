@@ -28,7 +28,7 @@
         "Keep silent because it is unverified hearsay",
         "Advise the buyer to hire an inspector"
       ],
-      "explanation": "A transaction broker must disclose adverse material facts of which the broker has actual knowledge. Hearing about basement flooding from a neighbor constitutes actual knowledge. However, the broker has no duty to conduct an independent investigation to verify the claim.",
+      "explanation": "A transaction broker must disclose adverse material facts of which the broker has actual notice or knowledge (RSMo 339.755.2). Hearing about basement flooding from a neighbor gives the broker actual notice. However, the broker has no duty to conduct an independent investigation to verify the claim.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -97,13 +97,13 @@
     {
       "key_topic_ref": "MO-07.2",
       "question_text": "A transaction broker learns the buyer would accept a price $20,000 above the listed offer. Can the broker share this with the seller?",
-      "correct_answer": "No, pricing willingness is confidential",
+      "correct_answer": "Not without the buyer's informed consent",
       "distractors": [
         "Yes, transaction brokers serve both sides",
         "Yes, if it would help close the transaction",
-        "Only with the buyer's verbal permission"
+        "Yes, because no fiduciary duty is owed to the buyer"
       ],
-      "explanation": "Even as a transaction broker with no fiduciary relationship, the broker must keep pricing and motivation information confidential for both parties. A buyer's willingness to pay more than offered is expressly protected under Missouri law across all agency types.",
+      "explanation": "Under RSMo 339.755.3(1), a transaction broker may not disclose that a buyer is willing to pay more than the price offered without the informed consent of the party who disclosed that information. This protection applies even though the transaction broker owes no fiduciary duties. Absent the buyer's informed consent, the broker must keep the information confidential.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -144,11 +144,11 @@
       "question_text": "A seller asks her transaction broker to recommend a counteroffer strategy to maximize price. What is the appropriate response?",
       "correct_answer": "Decline and suggest consulting an attorney",
       "distractors": [
-        "Provide general market data as guidance",
-        "Offer strategy advice as part of the service",
+        "Suggest a counteroffer price likely to maximize the seller's return",
+        "Disclose that the buyer will likely pay more than the offered price",
         "Recommend the seller hire a buyer's agent"
       ],
-      "explanation": "A transaction broker cannot provide strategic advice designed to benefit one party over the other. Recommending a counteroffer strategy to maximize price is advocacy for the seller. The broker should suggest the seller seek advice from their own attorney or advisor.",
+      "explanation": "A transaction broker is neutral and may not serve as an advocate or advisor for either party (RSMo 339.710), so recommending a counteroffer price or crafting strategy for one side is prohibited advocacy. The statutory duty under RSMo 339.755.2(2)(b) is to inform the parties and suggest they obtain expert advice on matters beyond the broker's role -- such as from the seller's own attorney or advisor. The broker may share objective factual information, but disclosing the buyer's willingness to pay more is separately barred without informed consent (RSMo 339.755.3(1)).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

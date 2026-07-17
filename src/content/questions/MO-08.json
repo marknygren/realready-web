@@ -88,7 +88,7 @@
         "$2,500 for service charges",
         "No personal funds are ever permitted"
       ],
-      "explanation": "Missouri allows brokers to maintain up to $1,000 of their own personal funds in the escrow account solely to cover bank service charges. This is the only exception to the commingling prohibition. Any amount above $1,000 constitutes commingling.",
+      "explanation": "RSMo 339.105.1 allows brokers to maintain up to $1,000 of their own personal funds in the escrow account, specifically identified and deposited solely to cover bank service charges. This is the only exception to the commingling prohibition. Any amount above $1,000 constitutes commingling.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -118,7 +118,7 @@
         "Three accounts: PM, sales, and operating",
         "Only a sales escrow is required"
       ],
-      "explanation": "Missouri requires that property management escrow funds be maintained in a SEPARATE account from sales escrow funds. This separation ensures that rental deposits and management fees are not mixed with earnest money and other sales transaction funds.",
+      "explanation": "Missouri requires a separately designated property management escrow account for current rents and owner funds (20 CSR 2250-8.220(1)), maintained apart from the sales escrow account. Security deposits must be held intact in an escrow account separate from the PM account unless the owners agree otherwise in writing (8.220(2)). An operating account is not an escrow account, and one combined escrow account is not sufficient.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -133,7 +133,7 @@
         "No, one escrow account is sufficient",
         "Only if the total exceeds $50,000"
       ],
-      "explanation": "Missouri requires separate escrow accounts for property management and sales transactions. Even with meticulous record-keeping, combining rental security deposits with sales earnest money in a single account violates the separation requirement.",
+      "explanation": "Under 20 CSR 2250-8.220, property management funds must be held in a separately designated PM escrow account, and security deposits must be maintained intact in an escrow account separate from the PM account unless the owners agree otherwise in writing -- an exception that permits combining them with the PM account, not with the sales escrow. Record-keeping accuracy does not cure holding security deposits in the sales earnest-money account.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -171,14 +171,14 @@
     },
     {
       "key_topic_ref": "MO-08.3",
-      "question_text": "MREC auditors arrive at a brokerage without prior notice to audit the escrow account. Can the broker refuse the audit?",
+      "question_text": "MREC auditors arrive at a brokerage during regular business hours without prior notice to audit the escrow account. Can the broker refuse the audit?",
       "correct_answer": "No, audits may be unannounced",
       "distractors": [
-        "Yes, 48 hours notice is required",
+        "Yes, 48 hours' written notice is required",
         "Yes, unless MREC obtains a court order",
-        "No, but only during business hours"
+        "Yes, if the account was audited within the past year"
       ],
-      "explanation": "MREC has the authority to conduct unannounced audits of broker escrow accounts. Brokers cannot refuse an audit based on lack of prior notice. Maintaining accurate and current records at all times is essential because an audit can occur without warning.",
+      "explanation": "MREC does not need advance notice to audit a broker's escrow account. Under RSMo 339.105.2, brokers must file written authorization allowing the commission to examine each escrow account, and under 20 CSR 2250-8.120(5) brokers must consent to examination and audit upon request. Records must be open to inspection at all times during regular business hours at the broker's usual place of business (RSMo 339.105.3), so maintaining accurate, current records at all times is essential.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -223,7 +223,7 @@
         "No, originals must be kept for 7 years",
         "Only if a backup exists offsite"
       ],
-      "explanation": "Missouri does not mandate paper records. The requirement is that the broker maintain books sufficient to determine account adequacy. Electronic records that properly identify each transaction and allow auditors to verify account balances satisfy this standard.",
+      "explanation": "Missouri does not mandate paper records. Under 20 CSR 2250-8.160, brokers must retain true copies of books, records, and contracts for at least 3 years, sufficient to determine account adequacy. Electronic records that properly identify each transaction and allow auditors to verify account balances satisfy this standard.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
