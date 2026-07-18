@@ -28,14 +28,14 @@
     },
     {
       "key_topic_ref": "MT-15.1",
-      "question_text": "A court finds a foreclosed property has been abandoned. What happens to the redemption period?",
-      "correct_answer": "Reduced to 60 days",
-      "distractors": ["Remains one year", "Eliminated entirely", "Extended to 18 months"],
-      "explanation": "When a judicially foreclosed property is determined to be abandoned, Montana reduces the statutory redemption period from one year to 60 days. This protects the property from deterioration during a lengthy vacant redemption period.",
+      "question_text": "A judicially foreclosed Montana property sits vacant and appears abandoned after the sheriff's sale. What happens to the borrower's redemption period?",
+      "correct_answer": "It remains one year",
+      "distractors": ["It is reduced to 60 days", "It is eliminated entirely", "It is extended to 18 months"],
+      "explanation": "Montana law contains no abandonment exception. Under MCA 25-13-802, the judgment debtor or a redemptioner may redeem 'any time within 1 year after the sale' of a judicially foreclosed property, whether or not it is occupied. The only 60-day rule in Montana redemption law is unrelated: MCA 25-13-803 lets a subsequent redemptioner re-redeem within 60 days after the last redemption. Some states do shorten redemption for abandoned property, but Montana has no such statute.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["abandoned property", "60-day redemption", "judicial foreclosure"]
+      "tags": ["abandoned property", "one-year redemption", "judicial foreclosure"]
     },
     {
       "key_topic_ref": "MT-15.1",
@@ -75,7 +75,7 @@
       "question_text": "In a trust deed foreclosure, what is the minimum notice period before the sale?",
       "correct_answer": "120 days",
       "distractors": ["30 days", "60 days", "90 days"],
-      "explanation": "Montana requires a minimum of 120 days between recording the notice of default/sale and the actual trustee's sale. This gives the borrower time to cure the default or arrange alternative financing.",
+      "explanation": "Montana requires the recorded notice of trustee's sale to be mailed to the borrower at least 120 days before the date fixed for the sale (MCA 71-1-315). This gives the borrower time to cure the default or arrange alternative financing.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -97,11 +97,11 @@
       "question_text": "A borrower defaults on a 10-acre property with a deed of trust. Which expedited process may apply?",
       "correct_answer": "Small tract foreclosure",
       "distractors": ["Judicial foreclosure only", "Tax lien foreclosure", "Strict foreclosure"],
-      "explanation": "Montana's small tract foreclosure process provides an expedited non-judicial foreclosure for properties under 15 acres. This 10-acre property qualifies for this streamlined process.",
+      "explanation": "Montana's Small Tract Financing Act (MCA 71-1-301 et seq.) authorizes trust indentures — and their streamlined non-judicial trustee's sale — for real property of not more than 40 acres (MCA 71-1-304). This 10-acre property qualifies. The limit was originally 3 acres in 1963 and has been raised by amendment to the current 40 acres.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["small tract foreclosure", "under 15 acres", "expedited"]
+      "tags": ["small tract foreclosure", "40 acres or less", "expedited"]
     },
     {
       "key_topic_ref": "MT-15.2",
@@ -130,7 +130,7 @@
       "question_text": "Which element is required in a Montana real estate contract under the Statute of Frauds?",
       "correct_answer": "Signatures of the parties",
       "distractors": ["Notarization by a licensed notary", "Signatures from two witnesses", "Approval from a licensed attorney"],
-      "explanation": "Montana's Statute of Frauds requires real estate contracts to contain the parties' names, property description, price or consideration, and signatures. Notarization, witnesses, and attorney approval are not required for validity.",
+      "explanation": "Montana's Statute of Frauds requires real estate contracts to contain the parties' names, property description, price or consideration, and signatures — strictly, the signature of the party to be charged or that party's agent (MCA 28-2-903). Notarization, witnesses, and attorney approval are not required for validity.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,

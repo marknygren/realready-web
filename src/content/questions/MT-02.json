@@ -17,10 +17,10 @@
     },
     {
       "key_topic_ref": "MT-02.1",
-      "question_text": "A Montana investor hires someone to collect rent on 10 rental units. Does the rent collector need a license?",
-      "correct_answer": "Yes, a property management license is needed",
-      "distractors": ["No, rent collection is exempt from licensing", "Only if managing more than 20 rental units", "Only a salesperson license is needed"],
-      "explanation": "Under Montana law (Title 37, Chapter 56), property management is a separately licensed activity. Collecting rent for compensation on behalf of another requires a property management license, regardless of the number of units.",
+      "question_text": "A Montana investor hires an individual who holds no license of any kind to collect rent on 10 rental units for a fee. Is a license required?",
+      "correct_answer": "Yes — a property manager license (or a real estate license) is required",
+      "distractors": ["No, rent collection is exempt from licensing", "Only if managing more than 20 rental units", "No, if the owner signs a written management agreement"],
+      "explanation": "Under MCA 37-56-103, a person may not practice as a property manager unless actively licensed, and collecting rents on others' property is property management (MCA 37-56-101). A licensed real estate broker or salesperson may also act as a property manager without a separate property manager license (MCA 37-56-104(2)). Montana does exempt a person who leases no more than four residential units (MCA 37-56-104(1)(e)), but 10 units for compensation requires licensure.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -39,10 +39,10 @@
     },
     {
       "key_topic_ref": "MT-02.1",
-      "question_text": "A property owner hires someone to collect rent and manage five residential units for a monthly fee. What license does Montana require?",
-      "correct_answer": "A property management license",
-      "distractors": ["A real estate salesperson license", "A general business license only", "No license is needed for rentals"],
-      "explanation": "Montana requires a separate property management license for those who collect rent and manage properties for others. This is distinct from the real estate broker or salesperson license and is governed by a separate statute.",
+      "question_text": "A property owner hires someone who holds no license of any kind to manage five residential units for a monthly fee. What does Montana law require?",
+      "correct_answer": "The person must become licensed — as a property manager or as a real estate broker or salesperson",
+      "distractors": ["A general business license only", "Nothing — residential rentals are unlicensed activity", "Nothing — the exemption for four or fewer residential units applies"],
+      "explanation": "Property management is licensed under MCA Title 37, chapter 56: a person may not practice as a property manager unless actively licensed (37-56-103). A licensed real estate broker or salesperson may also act as a property manager (37-56-104(2)); a salesperson doing so still needs a supervising broker. The statutory exemption covers only a person who leases no more than four residential real estate units (37-56-104(1)(e)) — five units exceeds it, so the person must hold a license.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -95,13 +95,13 @@
     {
       "key_topic_ref": "MT-02.2",
       "question_text": "A newly licensed salesperson wants to begin practicing immediately. What must she have in addition to passing the exam?",
-      "correct_answer": "A sponsoring broker",
+      "correct_answer": "A supervising broker",
       "distractors": ["A business license from the county", "Two years of college education", "Membership in the local MLS"],
-      "explanation": "A Montana salesperson must be affiliated with a sponsoring broker before engaging in any real estate activity. The salesperson cannot practice independently; all activity must be under broker supervision.",
+      "explanation": "A Montana salesperson must be employed by or under contract with a licensed broker who holds a supervising broker endorsement before engaging in any real estate activity (MCA 37-51-302; ARM 24.210.611). The salesperson cannot practice independently; all activity must be under the supervising broker's oversight.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["sponsoring broker", "new licensee", "practice requirements"]
+      "tags": ["supervising broker", "new licensee", "practice requirements"]
     },
     {
       "key_topic_ref": "MT-02.2",
@@ -128,9 +128,9 @@
     {
       "key_topic_ref": "MT-02.3",
       "question_text": "A Montana salesperson fails to renew by October 31. What happens to her license?",
-      "correct_answer": "It becomes inactive",
-      "distractors": ["It is automatically revoked", "It transfers to the state", "It remains active for 30 more days"],
-      "explanation": "A Montana license that is not renewed by October 31 becomes inactive. The licensee cannot practice until the renewal is completed. Inactive status can be maintained for a limited period before re-examination is required.",
+      "correct_answer": "It lapses — she has 45 days to renew late before it expires",
+      "distractors": ["It is automatically revoked", "It converts to inactive status", "It remains fully active for 12 more months"],
+      "explanation": "Under MCA 37-1-141, a license not renewed by the renewal date (October 31) lapses; the licensee may reactivate it within 45 days by completing renewal requirements and paying a late fee. If not renewed within that window the license expires — practicing on an expired license is unlicensed practice — and a license not renewed within 2 years of the renewal date automatically terminates, requiring a brand-new application. 'Inactive' is a different, voluntarily elected status; failing to renew does not convert a license to inactive.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -160,21 +160,21 @@
     },
     {
       "key_topic_ref": "MT-02.3",
-      "question_text": "How long is Montana pre-license education valid before a candidate must pass the exam?",
-      "correct_answer": "24 months from course completion",
-      "distractors": ["12 months from course completion", "36 months from course completion", "There is no expiration date"],
-      "explanation": "Montana pre-license education is valid for 24 months from the date of completion. If a candidate does not pass the licensing exam within that window, the education must be retaken.",
+      "question_text": "Montana salesperson pre-license education must have been completed within what period before the license application is submitted?",
+      "correct_answer": "24 months before applying",
+      "distractors": ["12 months before applying", "36 months before applying", "There is no time limit"],
+      "explanation": "ARM 24.210.611(8) requires proof of completing 70 hours of approved prelicensing education obtained within the 24 months immediately preceding submission of the license application. Exam results have their own separate clock: candidates who pass the exam must apply for licensure within 12 months of the examination date (ARM 24.210.611(3)).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["pre-license education", "validity period", "exam deadline"]
+      "tags": ["pre-license education", "validity period", "application deadline"]
     },
     {
       "key_topic_ref": "MT-02.4",
       "question_text": "A Montana salesperson changes her home address. How quickly must she notify the Board?",
       "correct_answer": "Within 30 days",
       "distractors": ["Within 10 days", "Within 60 days", "At next renewal"],
-      "explanation": "Montana licensees must notify the Board of any address change within 30 days. Failure to provide timely notice may result in disciplinary action.",
+      "explanation": "Under MCA 37-1-143 (enacted by HB 276, Ch. 247, L. 2025), Montana licensees must report a change of address within 30 days after the change. A broker relocating the brokerage office itself has a different clock: notice before removal or within 10 days after (MCA 37-51-308). Failure to provide timely notice may result in disciplinary action.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -185,7 +185,7 @@
       "question_text": "A salesperson leaves her sponsoring broker but has not yet affiliated with a new one. What is her license status?",
       "correct_answer": "Inactive",
       "distractors": ["Active until renewal date", "Suspended for 90 days", "Automatically revoked"],
-      "explanation": "When a Montana salesperson leaves her sponsoring broker, her license becomes inactive until she affiliates with a new broker. She cannot conduct any real estate activities during this period.",
+      "explanation": "When a Montana salesperson is without a supervising broker, her license is automatically placed on inactive status (MCA 37-51-309(3)) until a successor supervising broker files written acceptance with the department. She cannot conduct any real estate activities during this period.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -193,14 +193,14 @@
     },
     {
       "key_topic_ref": "MT-02.4",
-      "question_text": "When a salesperson transfers to a new brokerage in Montana, what must the FORMER broker do?",
-      "correct_answer": "Return the salesperson's license to the Board",
-      "distractors": ["Transfer the license to the new broker", "Notify the salesperson's clients directly", "File a termination report with the MLS"],
-      "explanation": "When a salesperson leaves a brokerage, the former broker must return the salesperson's license to the Board. The new broker then notifies the Board of the new affiliation.",
+      "question_text": "A Montana supervising broker decides to terminate supervision of one of her salespersons. What does the license law require the broker to do?",
+      "correct_answer": "Notify the salesperson in advance of, or concurrently with, notifying the Board",
+      "distractors": ["Return the salesperson's license certificate to the Board within 24 hours", "Transfer the salesperson's license directly to a new broker", "File a termination report with the local MLS"],
+      "explanation": "Under MCA 37-51-309(4), a supervising broker who terminates supervision shall notify the salesperson in advance or concurrently with notification to the board. The salesperson's license then goes on inactive status until a successor supervising broker files written acceptance. Montana licensing is administered electronically; the law no longer requires physically returning license certificates to the Board.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["broker change", "license return", "Board"]
+      "tags": ["broker change", "termination of supervision", "Board notification"]
     },
     {
       "key_topic_ref": "MT-02.4",
@@ -215,14 +215,14 @@
     },
     {
       "key_topic_ref": "MT-02.4",
-      "question_text": "A broker closes her firm and two salespersons are affiliated with her. What must the broker do with the salesperson licenses?",
-      "correct_answer": "Return them to the Board promptly",
-      "distractors": ["Give them to the salespersons directly", "Shred them for privacy protection", "Hold them until new brokers are found"],
-      "explanation": "When a brokerage closes, the broker is required to return all affiliated salesperson licenses to the Board. The salespersons' licenses become inactive until they affiliate with a new broker.",
+      "question_text": "A supervising broker closes her firm while two salespersons are affiliated with her. What happens to the salespersons' licenses?",
+      "correct_answer": "They go on inactive status until a new supervising broker accepts supervision",
+      "distractors": ["They are automatically revoked", "They remain active for 90 days", "The broker must mail the license certificates back to the Board"],
+      "explanation": "A Montana salesperson may practice only under a supervising broker (MCA 37-51-309). A broker ending supervision must notify each salesperson and the Board, and a salesperson without a supervising broker is automatically put on inactive status until a successor supervising broker files written acceptance with the department. No physical return of license certificates is required under current law.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["broker closure", "license return", "Board"]
+      "tags": ["broker closure", "inactive status", "supervision"]
     }
   ]
 }
