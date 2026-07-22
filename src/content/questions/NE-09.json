@@ -28,7 +28,7 @@
         "The buyer automatically gets a 3-day rescission",
         "The contract is void and must be re-executed"
       ],
-      "explanation": "Nebraska law requires the SPCD to be provided before the buyer enters a binding contract. Late delivery violates the statute's purpose of ensuring buyers have material property information before committing to purchase.",
+      "explanation": "Nebraska law requires the seller (or seller's agent) to deliver the SPCD on or before the effective date of any contract that binds the purchaser (Neb. Rev. Stat. § 76-2,120(7)), and the buyer must acknowledge receipt in writing. Late delivery violates the statute, but it does not void the transfer (§ 76-2,120(11)); instead the buyer gains a cause of action for actual damages, court costs, and attorney's fees.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -97,13 +97,13 @@
     {
       "key_topic_ref": "NE-09.2",
       "question_text": "A Nebraska builder sells a newly constructed home for the first time. Is the SPCD required?",
-      "correct_answer": "No, first sale by a builder is exempt",
+      "correct_answer": "No, never-occupied new construction is exempt",
       "distractors": [
         "Yes, all residential sales require SPCD",
         "Only if the home lacks a building permit",
         "Yes, but with a shortened disclosure form"
       ],
-      "explanation": "New construction sold for the first time by the builder is exempt from the Nebraska SPCD. The builder typically provides construction warranties and building code compliance documentation instead of a seller's disclosure of pre-existing conditions.",
+      "explanation": "Neb. Rev. Stat. § 76-2,120(6)(k) exempts transfers of newly constructed residential real property that has never been occupied. A builder's first sale of a never-occupied new home therefore requires no SPCD. If the home has been occupied before the sale, the exemption does not apply, and the seller must provide the disclosure.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -111,14 +111,14 @@
     },
     {
       "key_topic_ref": "NE-09.2",
-      "question_text": "An estate executor sells a deceased person's Nebraska home. Must the executor provide the SPCD?",
+      "question_text": "An estate executor who never lived in the property sells a deceased person's Nebraska home. Must the executor provide the SPCD?",
       "correct_answer": "No, fiduciary estate transfers are exempt",
       "distractors": [
         "Yes, executors must complete the full SPCD",
-        "Only if the executor lived in the property",
+        "Only if the sale price exceeds the appraised value",
         "Yes, but the executor may disclaim knowledge"
       ],
-      "explanation": "A fiduciary acting in the administration of an estate is exempt from the SPCD requirement. The executor may lack personal knowledge of the property's condition, which is the basis for this exemption.",
+      "explanation": "A fiduciary transferring property in the course of administering a decedent's estate, guardianship, conservatorship, or trust is exempt from the SPCD requirement (Neb. Rev. Stat. § 76-2,120(6)(e)). There is one exception: a fiduciary who is or was an occupant of one of the dwelling units being sold must still provide the SPCD. Because this executor never lived in the home, no disclosure statement is required.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -148,7 +148,7 @@
         "Only if the transfer is below market value",
         "Yes, unless both parties sign a waiver"
       ],
-      "explanation": "Transfers between spouses or family members are exempt from the SPCD requirement in Nebraska. This exemption recognizes that family transfers often involve parties with existing knowledge of the property's condition.",
+      "explanation": "Transfers to a spouse or to persons in the lineal line of consanguinity of the transferor — such as parents, children, and grandchildren — are exempt (Neb. Rev. Stat. § 76-2,120(6)(g)), as are transfers between spouses under a divorce decree or related property settlement ((6)(h)). Transfers to collateral relatives such as siblings are not exempt.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -187,13 +187,13 @@
     {
       "key_topic_ref": "NE-09.3",
       "question_text": "Which activity is permitted for a Nebraska real estate licensee when preparing contracts?",
-      "correct_answer": "Filling in blanks on approved standard forms",
+      "correct_answer": "Filling in blanks on standardized forms",
       "distractors": [
         "Drafting custom contract provisions",
         "Modifying standard form legal language",
         "Writing addenda with new legal terms"
       ],
-      "explanation": "Nebraska licensees may only fill in blanks on approved standard forms. Drafting custom provisions, modifying legal language, or creating addenda with new legal terms constitutes unauthorized practice of law and is prohibited.",
+      "explanation": "Under Neb. Ct. R. § 3-1004, licensees may prepare purchase agreements on standardized forms by filling in blanks whose completion does not require a lawyer's knowledge, judgment, or skill. Drafting custom provisions, modifying the form's legal language, or writing addenda containing new legal terms constitutes the unauthorized practice of law. Land contracts and trust deeds used at closing must be attorney-approved (299 NAC 5-003.01).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -208,7 +208,7 @@
         "An unlawful inducement to the seller",
         "A violation of Nebraska fair housing law"
       ],
-      "explanation": "Depositing client funds into a personal account is a failure to properly account for funds, also known as commingling. Nebraska law requires trust funds to be deposited in a designated trust account, and mishandling funds is grounds for disciplinary action.",
+      "explanation": "Depositing client funds into a personal account violates several related grounds under Neb. Rev. Stat. § 81-885.24: commingling principals' money with the licensee's own ((4)), failing to maintain and deposit trust funds in a separate designated trust account ((5)), and, if the funds are not properly remitted, failing to account for money belonging to others ((3)). Earnest money must go into the broker's designated trust account and remain there until the transaction closes or terminates.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,

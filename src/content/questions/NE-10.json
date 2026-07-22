@@ -31,7 +31,7 @@
       "question_text": "A seller asks why his listing agreement must be in writing. Which legal requirement mandates this?",
       "correct_answer": "Statute of Frauds",
       "distractors": ["Parol evidence rule", "Equal dignities doctrine", "Uniform Commercial Code"],
-      "explanation": "Under the Statute of Frauds, listing agreements in Nebraska must be in writing to be enforceable. The agreement must include the property description, listing price, compensation terms, dates, broker name, and owner signature.",
+      "explanation": "Neb. Rev. Stat. § 36-107 — Nebraska's statute of frauds for brokerage agreements — makes a contract between an owner and a broker for the sale of real estate void unless it is in writing, signed by both the owner and the broker, describes the land, and sets forth the broker's compensation. Separately, license law requires every written listing to contain a fixed expiration date and requires the licensee to leave a copy with the principal (§ 81-885.24(19)) — a disciplinary requirement rather than a condition of enforceability.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -42,7 +42,7 @@
       "question_text": "A listing agreement is missing the compensation terms but includes all other required elements. What is the status of this listing?",
       "correct_answer": "Unenforceable under the Statute of Frauds",
       "distractors": ["Valid if the broker accepts it", "Enforceable with implied compensation", "Void but ratifiable later"],
-      "explanation": "Nebraska listing agreements must contain specific elements including compensation terms, property description, listing price, dates, broker name, and owner signature. Missing any required element renders the agreement unenforceable under the Statute of Frauds.",
+      "explanation": "Under Neb. Rev. Stat. § 36-107, an owner-broker agreement is void unless it is in writing, signed by the owner and the broker, describes the land, and sets forth the compensation. Nebraska courts hold that without a specific amount, percentage, or formula from which the commission can be calculated with reasonable certainty, the compensation requirement is unsatisfied and the listing is unenforceable. (A missing expiration date, by contrast, is a license-law violation under § 81-885.24(19) but does not void the agreement.)",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -116,58 +116,58 @@
     },
     {
       "key_topic_ref": "NE-10.3",
-      "question_text": "Under LB 187, a person markets the right to purchase a residential property by assigning the contract for a fee. What does Nebraska require?",
+      "question_text": "Under the Nebraska Real Estate License Act, a person publicly markets the right to purchase a residential property by offering to assign the purchase contract for a fee. What does Nebraska require?",
       "correct_answer": "A real estate license",
       "distractors": ["A wholesaler permit only", "Registration with the county", "No special authorization"],
-      "explanation": "LB 187, effective July 2025, provides that marketing an equitable interest in a purchase contract for non-vacant land constitutes the business of real estate. Wholesalers who assign contracts for a fee must hold a Nebraska real estate license.",
+      "explanation": "Neb. Rev. Stat. § 81-885.02(2), added by LB 892 (2022, effective July 21, 2022), provides that publicly marketing for sale an equitable interest in a contract for the purchase of real property — other than a vacant lot — is acting as a real estate broker or salesperson. Wholesalers who market and assign contracts on residential property for a fee must therefore hold a Nebraska real estate license.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["LB 187", "wholesaling", "licensing"]
+      "tags": ["wholesaling", "LB 892", "licensing"]
     },
     {
       "key_topic_ref": "NE-10.3",
-      "question_text": "An investor assigns a purchase contract on a vacant lot for a $5,000 fee without a license. Does LB 187 apply?",
-      "correct_answer": "No, vacant land is exempt from LB 187",
-      "distractors": ["Yes, all assignments need a license", "Yes, but only if the fee exceeds $1,000", "No, but county approval is required"],
-      "explanation": "LB 187 specifically targets marketing equitable interest in purchase contracts for non-vacant land. Vacant land is exempt from the wholesaling license requirement, so assigning a contract on a vacant lot does not trigger the law.",
+      "question_text": "An investor publicly markets and assigns a purchase contract on a vacant lot for a $5,000 fee without a license. Does Nebraska's wholesaling licensing rule apply?",
+      "correct_answer": "No, vacant lots are excluded from the rule",
+      "distractors": ["Yes, all contract assignments require a license", "Yes, but only if the fee exceeds $1,000", "No, but county approval is required"],
+      "explanation": "Neb. Rev. Stat. § 81-885.02(2) makes publicly marketing an equitable interest in a purchase contract licensed activity only for real property 'other than a vacant lot.' The vacant-lot exclusion was added by LB 187 (2025), operative March 11, 2025; from July 21, 2022 (LB 892) until then the rule covered vacant land as well. Marketing an equitable interest in a vacant-lot contract today does not require a license.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["LB 187", "vacant land", "exemption"]
+      "tags": ["wholesaling", "vacant lot", "LB 187"]
     },
     {
       "key_topic_ref": "NE-10.3",
       "question_text": "What type of interest does a wholesaler market when assigning a real estate purchase contract?",
       "correct_answer": "Equitable interest",
       "distractors": ["Legal title", "Leasehold interest", "Life estate"],
-      "explanation": "When a wholesaler enters a purchase contract and then assigns it, they are marketing their equitable interest in the contract. LB 187 treats this activity as the business of real estate when the property is non-vacant land.",
+      "explanation": "When a wholesaler enters a purchase contract and then assigns it, they are marketing their equitable interest in the contract — the buyer's enforceable right to acquire the property. Under Neb. Rev. Stat. § 81-885.02(2) (LB 892, 2022), publicly marketing such an interest for sale is acting as a real estate broker or salesperson unless the property is a vacant lot.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["equitable interest", "wholesaling", "LB 187"]
+      "tags": ["equitable interest", "wholesaling", "LB 892"]
     },
     {
       "key_topic_ref": "NE-10.3",
-      "question_text": "LB 187 became effective in July 2025. What practice was its primary target?",
+      "question_text": "In 2022, Nebraska enacted LB 892, amending the Real Estate License Act. What practice was its primary target?",
       "correct_answer": "Unlicensed contract assignment for profit",
       "distractors": ["Foreclosure consulting services", "Property management without a license", "Unlicensed home inspections"],
-      "explanation": "LB 187 primarily targets wholesalers who put properties under contract and then assign those contracts to end buyers for a fee without holding a real estate license. The law clarifies that this activity constitutes the business of real estate.",
+      "explanation": "LB 892 (2022), effective July 21, 2022, amended Neb. Rev. Stat. § 81-885.02 to provide that publicly marketing for sale an equitable interest in a contract for the purchase of real property is acting as a real estate broker or salesperson, and that an equitable interest is not an ownership interest for the owner exemption (§ 81-885.04(1)). This ended unlicensed wholesaling — putting property under contract and marketing the contract to an end buyer for a fee. LB 187 (2025) later narrowed the rule by excluding vacant lots.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["LB 187", "wholesaling", "legislative intent"]
+      "tags": ["LB 892", "wholesaling", "legislative intent"]
     },
     {
       "key_topic_ref": "NE-10.3",
-      "question_text": "A licensed broker assigns a purchase contract on a single-family home for a fee. Under LB 187, is this permitted?",
+      "question_text": "A licensed broker assigns a purchase contract on a single-family home for a fee. Under the Nebraska Real Estate License Act, is this permitted?",
       "correct_answer": "Yes, the broker holds the required license",
       "distractors": ["No, brokers cannot assign contracts", "Only if the NREC grants a waiver", "Only if the seller consents in writing"],
-      "explanation": "LB 187 requires that marketing equitable interest in a purchase contract for non-vacant land constitutes the business of real estate, meaning a license is required. A licensed broker already satisfies this requirement and may lawfully engage in this activity.",
+      "explanation": "Neb. Rev. Stat. § 81-885.02(2) (LB 892, 2022) makes publicly marketing an equitable interest in a purchase contract — other than a vacant lot — licensed real estate activity. A licensed broker already holds the required license and may lawfully market and assign such contracts for a fee, subject to the License Act's conduct and disclosure rules.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["LB 187", "broker authority", "contract assignment"]
+      "tags": ["wholesaling", "broker authority", "contract assignment"]
     }
   ]
 }

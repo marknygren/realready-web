@@ -20,7 +20,7 @@
       "question_text": "A client sues over misrepresentations made by a salesperson during a showing. Under Nebraska law, who bears legal responsibility for the salesperson's conduct?",
       "correct_answer": "The designated broker",
       "distractors": ["Only the salesperson", "The team leader", "The listing agent"],
-      "explanation": "Nebraska's designated broker is responsible for ALL acts of associate brokers and salespersons performed within the scope of their real estate activities. This includes liability for misrepresentations.",
+      "explanation": "Under Neb. Rev. Stat. § 81-885.01(6), the designated broker has full authority over the brokerage's real estate activities and is responsible for supervising all affiliated associate brokers and salespersons, so the brokerage answers for an affiliate's conduct within the scope of licensed activity. The salesperson also remains personally responsible for her own misrepresentations, which is why 'only the salesperson' is wrong.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -50,14 +50,14 @@
     },
     {
       "key_topic_ref": "NE-05.1",
-      "question_text": "Where can a newly designated broker find official guidance on supervisory standards?",
-      "correct_answer": "NREC Designated Broker Policy Guidelines",
-      "distractors": ["NAR Code of Ethics handbook", "Nebraska Bar Association manual", "Federal HUD broker standards"],
-      "explanation": "NREC publishes the Designated Broker Policy Guidelines, which outline supervisory expectations, compliance standards, and best practices for designated brokers in Nebraska.",
-      "difficulty": "hard",
+      "question_text": "Nebraska law requires every designated broker to adopt a written office policy. What must that policy identify?",
+      "correct_answer": "The agency relationships the brokerage offers",
+      "distractors": ["The firm's commission split schedule", "Each licensee's continuing education plan", "The brokerage's annual sales goals"],
+      "explanation": "Neb. Rev. Stat. § 76-2420 requires every designated broker to adopt a written policy identifying and describing the brokerage (agency) relationships in which the designated broker and affiliated licensees may engage with sellers, landlords, buyers, and tenants. NREC publishes the Guidelines for Development of Designated Broker Policy to help brokers write a compliant policy; a broker must offer at least one type of agency relationship.",
+      "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["NREC", "policy guidelines", "designated broker"]
+      "tags": ["designated broker policy", "76-2420", "NREC"]
     },
     {
       "key_topic_ref": "NE-05.2",
@@ -119,7 +119,7 @@
       "question_text": "A grateful seller hands a salesperson a $500 bonus check at closing. Can the salesperson accept it?",
       "correct_answer": "No, compensation must come from the DB",
       "distractors": ["Yes, if under $1,000", "Yes, if disclosed to all parties", "Yes, bonuses are always permitted"],
-      "explanation": "Nebraska law requires salespersons and associate brokers to receive compensation ONLY from their designated broker. Accepting payment directly from clients or other brokerages is prohibited.",
+      "explanation": "Under Neb. Rev. Stat. § 81-885.24(8), a salesperson or associate broker may not accept compensation from anyone other than her employing (designated) broker unless the broker consents — and 299 NAC 2-010 requires that consent be written and given in advance. Without it, the bonus must be declined or routed through the designated broker. Disclosure to the parties is not a substitute for the broker's written consent.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -127,21 +127,21 @@
     },
     {
       "key_topic_ref": "NE-05.3",
-      "question_text": "Under LB 187, when may a licensee collect a commission from earnest money on deposit?",
-      "correct_answer": "Only after the deal is finalized",
+      "question_text": "Under the Nebraska Real Estate License Act, when may a licensee collect any part of the earnest money as his or her commission?",
+      "correct_answer": "Only after the transaction is consummated or terminated",
       "distractors": ["At the time of contract signing", "When the inspection period ends", "Whenever the broker approves"],
-      "explanation": "LB 187 prohibits agents from collecting commissions out of earnest money deposits until the deal is finalized. This protects buyers' funds during the transaction period.",
+      "explanation": "Neb. Rev. Stat. § 81-885.24(35) makes it an unfair trade practice to charge or collect, as part or all of one's compensation, any part of the earnest money or other money paid in connection with a real estate transaction until the transaction has been consummated or terminated. Documented pass-through payments to third parties for goods or services, with no profit to the broker, are excepted.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["LB 187", "earnest money", "commissions"]
+      "tags": ["earnest money", "commissions", "81-885.24"]
     },
     {
       "key_topic_ref": "NE-05.3",
       "question_text": "An agent at Brokerage A closes a co-op sale with Brokerage B. From whom does the agent receive her share?",
       "correct_answer": "Her designated broker at Brokerage A",
       "distractors": ["The selling agent at Brokerage B", "The closing agent at title company", "The seller directly from proceeds"],
-      "explanation": "In Nebraska, salespersons and associate brokers may only receive compensation from their own designated broker. Even in cooperative transactions, the commission flows through each agent's respective brokerage.",
+      "explanation": "In Nebraska, salespersons and associate brokers may only receive compensation from their own designated broker. Even in cooperative transactions, the commission flows through each agent's respective brokerage. This assumes no exception applies: under § 81-885.24(8) and 299 NAC 2-010, direct receipt from outside her own brokerage is lawful only if her designated broker has consented in writing, in advance. Absent that consent, even cooperative-transaction shares flow through each agent's own brokerage.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -161,13 +161,13 @@
     {
       "key_topic_ref": "NE-05.3",
       "question_text": "A salesperson asks her designated broker if she can receive a referral fee directly from an out-of-state brokerage. What is the correct answer?",
-      "correct_answer": "No, it must be paid through her DB",
-      "distractors": ["Yes, referral fees are exempt", "Yes, if she has written consent", "Only if the fee is under $500"],
-      "explanation": "Nebraska salespersons and associate brokers may ONLY receive compensation from their designated broker. Referral fees from other brokerages must flow through the agent's own DB, never directly to the agent.",
+      "correct_answer": "Only with the DB's advance written consent",
+      "distractors": ["Yes, referral fees are always exempt", "No, and the DB cannot authorize it", "Only if the fee is under $500"],
+      "explanation": "Under Neb. Rev. Stat. § 81-885.24(8), a salesperson or associate broker may not accept compensation from anyone other than her employing broker without the employing broker's consent. Title 299 NAC 2-010 requires that consent be given in writing, in advance, and the broker must keep a copy for five years. Without that consent, the referral fee must be routed through her designated broker.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["referral fees", "compensation", "designated broker"]
+      "tags": ["referral fees", "compensation", "81-885.24"]
     }
   ]
 }

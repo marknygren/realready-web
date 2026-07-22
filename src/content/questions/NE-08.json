@@ -13,7 +13,7 @@
         "Within 72 hours of showing a property",
         "Only when requested by the consumer"
       ],
-      "explanation": "Nebraska requires written agency disclosure at the earliest practicable opportunity during or following first substantial contact. This ensures the consumer understands agency relationships before sharing information that could weaken their bargaining position.",
+      "explanation": "Nebraska requires written agency disclosure at the earliest practicable opportunity during or following first substantial contact. This ensures the consumer understands agency relationships before sharing information that could weaken their bargaining position. The requirement applies to a buyer, tenant, seller, or landlord who has not already entered into a written agreement for brokerage services with a designated broker; once a party is represented, other licensees need not repeat the disclosure (Neb. Rev. Stat. 76-2421(1)-(2)).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -58,7 +58,7 @@
         "A violation only if the buyer signs a contract",
         "No violation because open houses are exempt"
       ],
-      "explanation": "Discussing a buyer's pre-approval amount constitutes first substantial contact because it involves compromising information. The licensee must present and have the buyer sign the Agency Disclosure Pamphlet at the earliest practicable opportunity during this contact.",
+      "explanation": "Discussing a buyer's pre-approval amount means eliciting or accepting compromising information, which is 'specific assistance' marking first substantial contact under NREC Policy & Interpretation #38 — open houses are not exempt. The licensee must, at the earliest practicable opportunity, provide the commission-approved brokerage disclosure pamphlet and written disclosure and obtain the buyer's signed acknowledgment of receipt (or note the buyer's refusal to sign on a retained copy) (Neb. Rev. Stat. 76-2421(1), (5)).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -66,14 +66,14 @@
     },
     {
       "key_topic_ref": "NE-08.1",
-      "question_text": "What must the Nebraska Agency Disclosure Pamphlet identify to the consumer?",
-      "correct_answer": "Relationship types offered and current representation",
+      "question_text": "Under Neb. Rev. Stat. 76-2421, what must the licensee's written disclosure at first substantial contact identify?",
+      "correct_answer": "The brokerage relationships offered or which party the licensee represents",
       "distractors": [
         "Commission rates charged by the brokerage",
         "The licensee's sales volume and experience",
         "Comparable property values in the area"
       ],
-      "explanation": "The Agency Disclosure Pamphlet must identify the types of agency relationships the brokerage offers and the licensee's current representation status. This helps consumers make informed decisions about their agency relationship before sharing sensitive information.",
+      "explanation": "At the earliest practicable opportunity during or following first substantial contact, the licensee must give the consumer the commission-approved brokerage disclosure pamphlet and must disclose in writing either the types of brokerage relationships the designated broker and affiliated licensees are offering to that person or which party the licensee is representing (Neb. Rev. Stat. 76-2421(1)). The disclosure includes a signature block for the consumer to acknowledge receipt; commission rates, sales records, and comparable values are not required.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -81,18 +81,18 @@
     },
     {
       "key_topic_ref": "NE-08.2",
-      "question_text": "In a Nebraska cooperative transaction, within what timeframe must the selling broker deposit earnest money?",
-      "correct_answer": "Within 72 hours",
+      "question_text": "In a Nebraska cooperative transaction, when must the selling broker deposit earnest money into the trust account?",
+      "correct_answer": "Within 72 hours or by the end of the next banking day after written acceptance",
       "distractors": [
-        "Within 24 hours",
-        "Within 5 business days",
-        "By the next business day"
+        "Within 24 hours of receiving the check",
+        "Within 5 business days of receiving the check",
+        "Only after the transaction closes"
       ],
-      "explanation": "Nebraska requires the selling broker to deposit earnest money within 72 hours and then transfer it to the listing broker. This ensures funds are properly safeguarded and accounted for in cooperative transactions.",
+      "explanation": "Title 299 NAC ch. 3-007 requires the selling broker in a cooperative sale — unless all parties to the transaction with an interest in the funds agree otherwise in writing — to deposit the earnest money into the selling broker's trust account within 72 hours or before the end of the next banking day after the offer is accepted in writing, and then forthwith transfer it to the listing broker by a check drawn on the selling broker's trust account. The deadline runs from written acceptance of the offer, not from receipt of the funds.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["earnest_money", "72_hours", "selling_broker"]
+      "tags": ["earnest_money", "72_hours", "selling_broker", "trust_account"]
     },
     {
       "key_topic_ref": "NE-08.2",
@@ -103,7 +103,7 @@
         "Send the funds directly to the title company",
         "Return the check to the buyer for safekeeping"
       ],
-      "explanation": "In a Nebraska cooperative transaction, the selling broker deposits the earnest money within 72 hours and then transfers it to the listing broker. The listing broker typically holds the funds in a trust account until closing or other disposition.",
+      "explanation": "Under Title 299 NAC ch. 3-007, the selling broker in a cooperative transaction deposits the earnest money into the selling broker's trust account within 72 hours or before the end of the next banking day after written acceptance, then forthwith transfers it to the listing broker by a check drawn on the selling broker's trust account (unless all parties with an interest in the funds have agreed otherwise in writing, such as directing the deposit to a title company). The listing broker holds the funds in trust until closing or other disposition.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -163,7 +163,7 @@
         "Wait until the listing expires to make an offer",
         "Obtain approval from the real estate commission"
       ],
-      "explanation": "Nebraska requires licensees to disclose any personal interest in a transaction, including purchasing a property listed through their own brokerage. This conflict of interest must be disclosed to all parties to ensure transparency.",
+      "explanation": "A licensee buying a property listed with their own brokerage is both a principal and connected to the agency side of the transaction. Acting as agent and undisclosed principal in any transaction is an unfair trade practice under Neb. Rev. Stat. 81-885.24(9), so the licensee's personal interest must be disclosed to all parties — in practice, in writing in the purchase agreement — to ensure transparency.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -178,7 +178,7 @@
         "A fine only if the buyer complains",
         "Automatic license revocation"
       ],
-      "explanation": "Family relationships that create conflicts of interest must be disclosed. Failure to disclose a spousal ownership interest is grounds for disciplinary action by the Nebraska Real Estate Commission, regardless of whether the transaction was conducted fairly.",
+      "explanation": "Concealing a spousal ownership interest hides the licensee's indirect stake in the transaction. NREC may discipline the licensee under Neb. Rev. Stat. 81-885.24 — for example as acting as agent and undisclosed principal (subdivision (9)), a substantial misrepresentation (22), or conduct demonstrating unworthiness (29) — regardless of whether the transaction's price was fair. Discipline may range from censure or civil fine to suspension or revocation; revocation is not automatic.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -193,7 +193,7 @@
         "No disclosure if the title company is reputable",
         "Written commission approval from NREC"
       ],
-      "explanation": "Nebraska licensees must disclose financial interests that create conflicts, including ownership stakes in companies they refer clients to. The referral itself is permitted, but the financial relationship must be transparent to all parties involved.",
+      "explanation": "Accepting any undisclosed compensation, rebate, or direct profit on expenditures made for a principal is an unfair trade practice (Neb. Rev. Stat. 81-885.24(6)), and referrals to a settlement-service provider in which the broker has an ownership interest also trigger the federal RESPA affiliated-business-arrangement disclosure. The referral itself is permitted; the financial relationship must be disclosed to the client.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

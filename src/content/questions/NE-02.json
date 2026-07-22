@@ -9,7 +9,7 @@
       "question_text": "As of January 1, 2026, how many total pre-license education hours does Nebraska require?",
       "correct_answer": "96 hours",
       "distractors": ["60 hours", "75 hours", "120 hours"],
-      "explanation": "Effective January 1, 2026, Nebraska requires 96 total pre-license hours: 30 hours NE License Law, 30 hours Principles & Practices, 30 hours Property Management, and 6 hours Course #0003 Ethics.",
+      "explanation": "Effective January 1, 2026 (LB 187 (2025), amending Neb. Rev. Stat. § 81-885.13), Nebraska requires 96 total pre-license clock hours: a 30-hour Real Estate Principles & Practices course, a 30-hour Nebraska Real Estate License Law course, a third 30-hour commission-approved pre-license course of the candidate's choosing, and the 6-hour Course #0003 (Professional Practice and Standards).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -17,14 +17,14 @@
     },
     {
       "key_topic_ref": "NE-02.1",
-      "question_text": "A candidate completes all 96 pre-license hours and passes the exam. What additional course must she take before license issuance?",
-      "correct_answer": "A 3-hour NE law course",
-      "distractors": ["A 6-hour ethics refresher", "A 12-hour post-license course", "A 30-hour broker prep course"],
-      "explanation": "After completing the 96 pre-license hours and passing the exam, candidates must also complete a 3-hour Nebraska law course before the license is actually issued. This is separate from the 30-hour NE License Law course in the pre-license curriculum.",
+      "question_text": "A broker licensed in Iowa applies for a Nebraska license through license recognition. Which course must she complete before her Nebraska license is issued?",
+      "correct_answer": "A 3-hour Nebraska License Act and agency law course",
+      "distractors": ["The full 96-hour Nebraska pre-license curriculum", "A 12-hour post-license course before issuance", "A 6-hour ethics course (Course #0003)"],
+      "explanation": "Under Neb. Rev. Stat. § 81-885.17, applicants obtaining a Nebraska license through recognition of a license from another jurisdiction — including nonresidents and new residents converting an out-of-state license — must complete a commission-approved 3-hour class on the Nebraska Real Estate License Act and Nebraska agency law (§§ 76-2401–76-2430) before the license is issued. They do not repeat Nebraska's 96-hour pre-license curriculum. Course #7000 (12 hours) is completed within 180 days AFTER issuance.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["pre-license", "NE law course", "license issuance"]
+      "tags": ["license recognition", "3-hour course", "nonresident"]
     },
     {
       "key_topic_ref": "NE-02.1",
@@ -50,14 +50,14 @@
     },
     {
       "key_topic_ref": "NE-02.1",
-      "question_text": "Which of the following is one of the four required pre-license courses under the 2026 Nebraska curriculum?",
-      "correct_answer": "Property Management (30 hours)",
-      "distractors": ["Real Estate Finance (30 hours)", "Appraisal Fundamentals (15 hours)", "Commercial Brokerage (20 hours)"],
-      "explanation": "The 2026 pre-license curriculum includes: 30-hr NE License Law, 30-hr Principles & Practices, 30-hr Property Management, and 6-hr Course #0003 Ethics. Property Management is a distinct 30-hour course in the required lineup.",
-      "difficulty": "hard",
+      "question_text": "Which course is a required component of Nebraska's 96-hour salesperson pre-license curriculum effective January 1, 2026?",
+      "correct_answer": "Nebraska Real Estate License Law (30 hours)",
+      "distractors": ["Commercial Brokerage (20 hours)", "Appraisal Fundamentals (15 hours)", "Real Estate Investments (45 hours)"],
+      "explanation": "The 96-hour curriculum (Neb. Rev. Stat. § 81-885.13, as amended by LB 187 (2025)) comprises the 30-hour Nebraska Real Estate License Law course, the 30-hour Real Estate Principles & Practices course, a third 30-hour commission-approved pre-license course of the candidate's choosing (options include subjects such as property management or finance), and the 6-hour Course #0003 in professional practice and standards.",
+      "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["pre-license", "curriculum", "property management"]
+      "tags": ["pre-license", "curriculum", "license law"]
     },
     {
       "key_topic_ref": "NE-02.2",
@@ -83,14 +83,14 @@
     },
     {
       "key_topic_ref": "NE-02.2",
-      "question_text": "A licensee with a property management license completes her standard 18 CE hours. Has she met all requirements?",
-      "correct_answer": "No, she needs 3 additional PM hours",
-      "distractors": ["Yes, 18 hours covers all specialties", "No, she needs 6 additional PM hours", "No, she needs 12 additional PM hours"],
-      "explanation": "Property management licensees must complete 3 additional hours of PM-specific continuing education beyond the standard 18-hour CE requirement. This ensures PM licensees stay current on landlord-tenant law and management practices.",
+      "question_text": "A Nebraska salesperson provides property management services under her broker. How does this affect her 18-hour continuing education requirement?",
+      "correct_answer": "3 of her 12 approved CE hours must be PM courses",
+      "distractors": ["She must complete 3 PM hours in addition to the 18", "She must complete 6 PM hours every renewal period", "Nothing — PM has no CE-specific requirement"],
+      "explanation": "Licensees who provide or supervise property management must complete 3 hours of commission-approved, PM-designated coursework each two-year period (Title 299 NAC ch. 7-001(b)). These 3 hours count as part of the 12 approved continuing-education hours required by Neb. Rev. Stat. § 81-885.51 (within the 18-hour total) — they are not added on top. Commission-approved training hours may not be used to satisfy the PM requirement.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["continuing education", "property management", "additional hours"]
+      "tags": ["continuing education", "property management", "PM hours"]
     },
     {
       "key_topic_ref": "NE-02.2",
@@ -119,7 +119,7 @@
       "question_text": "A homeowner sells her own property without a license. Is this legal in Nebraska?",
       "correct_answer": "Yes, owners may sell their own property",
       "distractors": ["No, all sales require a license", "Only if the sale is under $100,000", "Only if she hires a licensed attorney"],
-      "explanation": "Nebraska exempts property owners who sell their own real estate from licensing requirements. Other exemptions include attorneys acting within their practice, court-appointed persons, licensed auctioneers, and government officers acting in their official capacity.",
+      "explanation": "Nebraska exempts property owners who sell or manage their own real estate from licensing (Neb. Rev. Stat. § 81-885.04). Other exemptions include attorneys performing their legal duties, court-appointed persons (receivers, personal representatives, conservators, guardians, trustees in bankruptcy), and government officers performing official duties. Auctioneers are NOT exempt — § 81-887.03 requires auctioneers to comply with the License Act before auctioning real estate.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -163,7 +163,7 @@
       "question_text": "A friend offers to help a neighbor sell his house for a flat fee. She is not licensed. Is this permitted?",
       "correct_answer": "No, she is performing licensed activities",
       "distractors": ["Yes, if the fee is under $500", "Yes, friends and family are exempt", "Yes, flat fees avoid licensing rules"],
-      "explanation": "Selling real estate on behalf of another person for compensation is a licensed activity in Nebraska regardless of the fee structure. Only specific statutory exemptions (owners, attorneys, auctioneers, court-appointed persons, government officers) apply.",
+      "explanation": "Selling real estate on behalf of another for compensation is a licensed activity in Nebraska regardless of the fee structure (Neb. Rev. Stat. §§ 81-885.01, 81-885.02). Only the statutory exemptions in § 81-885.04 apply (e.g., owners, attorneys performing legal duties, court-appointed persons, government officers) — 'friend or family' status and flat fees are irrelevant.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

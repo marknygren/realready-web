@@ -6,14 +6,14 @@
   "questions": [
     {
       "key_topic_ref": "NE-13.1",
-      "question_text": "An out-of-state developer divides land into 30 lots and wants to sell them to Nebraska residents. What must the developer obtain from the NREC?",
+      "question_text": "A developer divides land located in another state into 30 lots and wants to sell them to Nebraska residents. What must the developer obtain from the NREC?",
       "correct_answer": "A subdivision certificate",
       "distractors": [
         "A broker's license only",
         "A zoning variance from the county",
         "A plat approval from the county"
       ],
-      "explanation": "Under Nebraska's subdivided land registration laws, land outside Nebraska divided into 25 or more lots for sale to Nebraska residents requires a subdivision certificate from the NREC before sales may begin.",
+      "explanation": "Under Nebraska's subdivided land registration laws, land outside Nebraska divided into 25 or more lots for sale to Nebraska residents requires a subdivision certificate from the NREC before sales may begin. (Neb. Rev. Stat. 81-885.01, 81-885.34.)",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -96,18 +96,18 @@
     },
     {
       "key_topic_ref": "NE-13.2",
-      "question_text": "A real estate licensee sells memberships in a campground. Must this licensee also register as a campground salesperson?",
-      "correct_answer": "No, RE licensees are exempt",
+      "question_text": "A buyer signs a membership camping contract at a Nebraska campground and receives the operator's disclosure statement at signing. How long does the buyer have to cancel?",
+      "correct_answer": "Until midnight of the third business day",
       "distractors": [
-        "Yes, a separate registration is required",
-        "Only if selling more than 10 memberships",
-        "Only if the campground is out of state"
+        "Within 24 hours of signing",
+        "Within 7 calendar days of signing",
+        "There is no right to cancel"
       ],
-      "explanation": "Under the Nebraska Membership Campground Act, real estate licensees are exempt from the separate campground salesperson registration requirement.",
+      "explanation": "Under the Membership Campground Act (Neb. Rev. Stat. 76-2110 and 76-2111), the operator must deliver a disclosure statement before the buyer signs or pays anything, and the buyer has an unwaivable right to cancel until midnight of the third business day after the contract is executed or the disclosure statement is received, whichever is later, with a full refund due within 30 days of the operator's receipt of the cancellation notice. Note that LB 152 (2024) eliminated the former NREC registration requirement for campground operators and salespersons; the disclosure and cancellation rules still apply.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["campground_memberships", "licensee_exemption"]
+      "tags": ["campground_memberships", "cancellation_right", "disclosure_statement"]
     },
     {
       "key_topic_ref": "NE-13.2",
@@ -126,18 +126,18 @@
     },
     {
       "key_topic_ref": "NE-13.2",
-      "question_text": "A membership campground operator wants to market in Nebraska. What registration is required?",
-      "correct_answer": "Register under the Campground Act",
+      "question_text": "In 2026, a membership campground operator prepares to sell membership camping contracts in Nebraska. What must the operator file with the NREC before selling?",
+      "correct_answer": "Nothing — campground registration was eliminated in 2024",
       "distractors": [
-        "Obtain a broker's license from NREC",
-        "File a subdivision certificate only",
-        "No registration is required"
+        "A registration under the Membership Campground Act",
+        "A subdivision certificate",
+        "A time-share program registration"
       ],
-      "explanation": "Membership campgrounds must register under the Nebraska Membership Campground Act before they can be offered or sold in Nebraska.",
-      "difficulty": "easy",
+      "explanation": "LB 152 (2024) repealed the Membership Campground Act's registration sections (former Neb. Rev. Stat. 76-2103 and 76-2105), so membership camping operators and their salespersons no longer register with the NREC. The Act (Neb. Rev. Stat. 76-2101 to 76-2121) still governs the sales themselves: operators must give each buyer a disclosure statement before purchase (76-2110), buyers may cancel within three business days (76-2111), and the antifraud rules (76-2104) still apply.",
+      "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["campground_memberships", "registration", "Campground_Act"]
+      "tags": ["campground_memberships", "LB152", "registration_repealed"]
     },
     {
       "key_topic_ref": "NE-13.2",
@@ -178,7 +178,7 @@
         "A personal guarantee",
         "An escrow deposit of 5%"
       ],
-      "explanation": "Nebraska requires out-of-state developers to demonstrate their ability to perform on promised improvements via performance bonds, protecting Nebraska buyers from unfulfilled promises.",
+      "explanation": "Under Neb. Rev. Stat. 81-885.35(2), the NREC may not approve a subdivision application unless the subdivider offers satisfactory proof of the ability to provide promised public improvements such as water, sewer, gas, and streets — proof must be in the form of performance bonds or other security. A performance bond is the statutory example, protecting Nebraska buyers from unfulfilled promises.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
