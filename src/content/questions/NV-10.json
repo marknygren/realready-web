@@ -6,14 +6,10 @@
   "questions": [
     {
       "key_topic_ref": "NV-10.1",
-      "question_text": "A buyer is purchasing a residential property in Nevada. When must the Residential Disclosure Guide booklet be provided to the buyer?",
-      "correct_answer": "Before the offer is accepted",
-      "distractors": [
-        "Within 10 days after closing",
-        "At the time of final walkthrough",
-        "Within 30 days of listing"
-      ],
-      "explanation": "The Residential Disclosure Guide must be provided to buyers of residential property before the offer is accepted. This booklet contains general information about the buying process, inspections, and common issues. It is not a post-closing or post-listing requirement.",
+      "question_text": "A Nevada licensee gives the Residential Disclosure Guide to their client. What must the licensee then obtain and retain?",
+      "correct_answer": "A signed acknowledgment of receipt from the client",
+      "distractors": ["A notarized waiver of the client's inspection rights", "The buyer's initialed copy of the SRPD form", "Written approval from the Real Estate Division"],
+      "explanation": "The Residential Disclosure Guide (Form 622) includes an acknowledgment page stating the client has received a copy, which the licensee has the client sign and retains in the transaction file. Per NRED, the licensee needs the signature of the party the licensee represents and any unrepresented party. No notarization, SRPD initials, or Division approval is involved.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -23,12 +19,8 @@
       "key_topic_ref": "NV-10.1",
       "question_text": "What type of information does the Nevada Residential Disclosure Guide provide to buyers?",
       "correct_answer": "General buying process and inspections",
-      "distractors": [
-        "Specific defects found in the property",
-        "Seller's financial obligations",
-        "Broker commission schedules"
-      ],
-      "explanation": "The Residential Disclosure Guide is a general informational booklet covering the buying process, inspections, and common issues. It does not contain property-specific defect information, which is covered by the Seller's Real Property Disclosure form.",
+      "distractors": ["Specific defects found in the property", "Seller's financial obligations", "Broker commission schedules"],
+      "explanation": "The Residential Disclosure Guide is an informational booklet published by the Real Estate Division under NRS 645.194 that explains the disclosures commonly required by federal, state, and local law in a residential transaction, along with general topics such as home inspections. It does not contain property-specific defect information, which is covered by the Seller's Real Property Disclosure form.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -36,28 +28,20 @@
     },
     {
       "key_topic_ref": "NV-10.1",
-      "question_text": "A listing agent provides the Residential Disclosure Guide to a buyer two days after the offer was accepted. What is the consequence of this timing?",
-      "correct_answer": "The guide was provided too late",
-      "distractors": [
-        "The timing meets statutory requirements",
-        "The buyer must waive inspection rights",
-        "The listing agreement becomes voidable"
-      ],
-      "explanation": "The Residential Disclosure Guide must be provided before the offer is accepted. Providing it two days after acceptance violates the timing requirement. The guide is separate from the SRPD and relates to general buying information, not the listing agreement.",
+      "question_text": "A licensee is handling the sale of a newly constructed Nevada home. Is the Residential Disclosure Guide required for this transaction?",
+      "correct_answer": "Yes, the guide is required for new home sales",
+      "distractors": ["No, new homes are exempt just like the SRPD", "Only if the buyer requests a copy in writing", "No, the guide applies only to resale homes"],
+      "explanation": "Per the Nevada Real Estate Division, the Residential Disclosure Guide is required for new home sales, even though the Seller's Real Property Disclosure form is not required for the first sale of a residence constructed by a licensed contractor. The guide is required for residential sales generally, but not commercial sales.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["residential-disclosure-guide", "timing", "nevada"]
+      "tags": ["residential-disclosure-guide", "new-construction", "nevada"]
     },
     {
       "key_topic_ref": "NV-10.1",
       "question_text": "A buyer's agent explains the purpose of the Residential Disclosure Guide. Which statement accurately describes its function?",
       "correct_answer": "It educates buyers about common issues",
-      "distractors": [
-        "It guarantees the property condition",
-        "It replaces the home inspection report",
-        "It lists all known property defects"
-      ],
+      "distractors": ["It guarantees the property condition", "It replaces the home inspection report", "It lists all known property defects"],
       "explanation": "The Residential Disclosure Guide is an educational booklet that provides general information about common issues in the buying process. It does not guarantee property condition, replace inspections, or list specific defects. Property-specific disclosures come from the SRPD.",
       "difficulty": "medium",
       "cognitive_level": "application",
@@ -66,29 +50,21 @@
     },
     {
       "key_topic_ref": "NV-10.1",
-      "question_text": "A buyer claims they never received the Residential Disclosure Guide before making an offer. Which party is most likely responsible for ensuring delivery?",
-      "correct_answer": "The seller or seller's agent",
-      "distractors": [
-        "The title company handling escrow",
-        "The county recorder's office",
-        "The Nevada Real Estate Division"
-      ],
-      "explanation": "The obligation to provide the Residential Disclosure Guide falls on the seller's side of the transaction. It must be delivered to buyers before the offer is accepted. Title companies, recorders, and the Real Estate Division are not responsible for this pre-offer disclosure.",
+      "question_text": "A buyer represented by an agent claims they never received the Residential Disclosure Guide. Which party had the duty to provide it?",
+      "correct_answer": "The licensee representing the buyer",
+      "distractors": ["The seller personally", "The title company handling escrow", "The Nevada Real Estate Division"],
+      "explanation": "Under NRS 645.194, real estate licensees must distribute the Residential Disclosure Guide to prospective buyers and sellers. Each licensee provides the guide to the party they represent and to any unrepresented party, so a represented buyer receives it from the buyer's own agent. The Division prepares and publishes the booklet but does not deliver it to buyers, and neither the seller personally nor the title company bears this duty.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["residential-disclosure-guide", "responsibility", "nevada"]
+      "tags": ["residential-disclosure-guide", "responsibility", "licensee-duty", "nevada"]
     },
     {
       "key_topic_ref": "NV-10.2",
       "question_text": "Under NRS 113, when must a seller deliver the Seller's Real Property Disclosure to a buyer?",
-      "correct_answer": "Before or at the time of the offer",
-      "distractors": [
-        "Within 15 days after closing",
-        "At the final walkthrough only",
-        "Within 30 days of listing"
-      ],
-      "explanation": "NRS 113 requires the seller to complete and deliver the SRPD before or at the time the offer is made. This ensures the buyer has material information about the property's condition before committing to the purchase.",
+      "correct_answer": "At least 10 days before the property is conveyed",
+      "distractors": ["Before or at the time the offer is made", "Within 5 days after the offer is accepted", "At the close of escrow, with the deed"],
+      "explanation": "NRS 113.130(1)(a) requires the seller to complete the SRPD and the seller or seller's agent to serve it on the buyer or buyer's agent at least 10 days before the property is conveyed. Conveyance occurs at the close of escrow, or when the buyer receives the deed if no escrow was opened (NRS 113.110). The deadline is tied to conveyance, not to the offer. A seller's agent may not complete the form on the seller's behalf.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -98,12 +74,8 @@
       "key_topic_ref": "NV-10.2",
       "question_text": "A seller discovers a new roof leak after delivering the SRPD to the buyer but before closing. What must the seller do?",
       "correct_answer": "Amend the SRPD to disclose the leak",
-      "distractors": [
-        "Wait until after closing to notify",
-        "Only disclose if the buyer asks directly",
-        "File a new listing with the broker"
-      ],
-      "explanation": "Under NRS 113, the seller must amend the SRPD if new defects are discovered after the initial disclosure. A roof leak is a material defect that requires immediate amendment. Waiting until after closing or only disclosing upon request would violate disclosure obligations.",
+      "distractors": ["Wait until after closing to notify", "Only disclose if the buyer asks directly", "File a new listing with the broker"],
+      "explanation": "Under NRS 113.130(1)(b), if the seller discovers a new defect (or that a disclosed defect has worsened) after serving the SRPD but before conveyance, the seller or seller's agent must inform the buyer in writing as soon as practicable, and no later than the conveyance. If the seller does not agree to repair or replace the defect, the buyer may rescind or close escrow and accept the property with the defect. Waiting until after closing or disclosing only on request violates this duty.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -113,11 +85,7 @@
       "key_topic_ref": "NV-10.2",
       "question_text": "Which category of information is NOT typically covered on the Nevada SRPD?",
       "correct_answer": "Broker's commission rate",
-      "distractors": [
-        "Water and pest damage history",
-        "HOA or CIC membership",
-        "Environmental hazards on site"
-      ],
+      "distractors": ["Water and pest damage history", "HOA or CIC membership", "Environmental hazards on site"],
       "explanation": "The SRPD covers structural conditions, systems, water/pest damage, environmental hazards, neighborhood issues, and HOA/CIC information. Broker commission rates are part of the listing agreement, not the property disclosure form.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
@@ -128,11 +96,7 @@
       "key_topic_ref": "NV-10.2",
       "question_text": "The SRPD requires a seller to disclose defects based on which standard?",
       "correct_answer": "The seller's actual knowledge",
-      "distractors": [
-        "A licensed inspector's written report",
-        "The appraiser's estimated condition",
-        "The buyer's visual observations"
-      ],
+      "distractors": ["A licensed inspector's written report", "The appraiser's estimated condition", "The buyer's visual observations"],
       "explanation": "The Nevada SRPD is based on the seller's actual knowledge of defects. Sellers are not required to hire inspectors or conduct investigations. However, they must honestly disclose what they know about the property's condition.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
@@ -143,11 +107,7 @@
       "key_topic_ref": "NV-10.2",
       "question_text": "A seller completes the SRPD but intentionally omits known foundation cracks. A buyer later discovers the damage. What liability does the seller face?",
       "correct_answer": "Liability for failure to disclose",
-      "distractors": [
-        "No liability if buyer had inspection",
-        "Liability only if broker also knew",
-        "No liability after closing occurs"
-      ],
+      "distractors": ["No liability if buyer had inspection", "Liability only if broker also knew", "No liability after closing occurs"],
       "explanation": "Sellers who intentionally omit known defects from the SRPD face liability for failure to disclose. Foundation cracks are a material structural defect. The seller's duty to disclose known defects is not eliminated by a buyer's inspection or by closing.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
@@ -156,29 +116,21 @@
     },
     {
       "key_topic_ref": "NV-10.3",
-      "question_text": "After receiving the SRPD, how many days does a Nevada buyer have to rescind the purchase agreement?",
-      "correct_answer": "5 days",
-      "distractors": [
-        "3 days",
-        "10 days",
-        "7 days"
-      ],
-      "explanation": "Under Nevada law, the buyer has 5 days after receiving the SRPD to rescind the purchase agreement. This same 5-day rescission period also applies after receiving an amended SRPD.",
+      "question_text": "A Nevada seller's SRPD discloses a defect whose repair cost the purchase agreement did not limit. How long does the buyer have to rescind?",
+      "correct_answer": "4 working days after being informed of the defect",
+      "distractors": ["5 calendar days after receiving the form", "10 days before the close of escrow", "3 business days after signing the offer"],
+      "explanation": "Under NRS 113.150(2) and (3), when a seller discloses a defect whose repair or replacement cost was not limited by the purchase agreement, the buyer may rescind, but the rescission is effective only if made in writing, notarized, and served within 4 working days after the buyer is informed of the defect. If the seller never serves an SRPD at all, the buyer may instead rescind at any time before conveyance without penalty.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["rescission", "SRPD", "buyer-rights", "nevada"]
+      "tags": ["rescission", "SRPD", "buyer-rights", "NRS-113.150", "nevada"]
     },
     {
       "key_topic_ref": "NV-10.3",
       "question_text": "A seller amends the SRPD three weeks after the original delivery. When does the buyer's new rescission period begin?",
       "correct_answer": "When the buyer receives the amendment",
-      "distractors": [
-        "When the original SRPD was delivered",
-        "On the date of the original offer",
-        "Five days before the scheduled closing"
-      ],
-      "explanation": "When a seller amends the SRPD, the buyer receives a fresh 5-day rescission period starting from the date the amendment is received. The rescission clock resets with each amendment, not from the original delivery date.",
+      "distractors": ["When the original SRPD was delivered", "On the date of the original offer", "Five days before the scheduled closing"],
+      "explanation": "When the buyer is informed of a new or worsened defect through an amended disclosure, the rescission clock runs from receipt of that amendment, not from the original SRPD delivery. Under NRS 113.150(3), rescission must be in writing, notarized, and served within 4 working days after the buyer is informed of the defect. Under NRS 113.130(1)(b), if the seller agrees to repair or replace the newly disclosed defect, the buyer's options are limited accordingly.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -188,12 +140,8 @@
       "key_topic_ref": "NV-10.3",
       "question_text": "Which transaction is EXEMPT from the SRPD requirement in Nevada?",
       "correct_answer": "A foreclosure sale by the lender",
-      "distractors": [
-        "A standard residential resale",
-        "A sale by an individual owner",
-        "A sale involving an HOA property"
-      ],
-      "explanation": "Court-ordered transfers such as foreclosures, probate, and bankruptcy sales are exempt from the SRPD requirement. Other exemptions include new construction with builder warranty, transfers between co-owners or family members, and REO/bank-owned sales.",
+      "distractors": ["A standard residential resale", "A sale by an individual owner", "A sale involving an HOA property"],
+      "explanation": "NRS 113.130(2) exempts sales by foreclosure under NRS chapter 107, transfers between co-owners, spouses, or persons related within the third degree of consanguinity, the first sale of a residence constructed by a licensed contractor, certain relocation-facilitation sales, and sales by fiduciaries such as personal representatives, guardians, or trustees facilitating a sale for a deceased or incapacitated person. Bank-owned (REO) resales are NOT exempt, and even in a foreclosure sale the trustee and lender must give the buyer written notice of any known defects under NRS 113.130(4).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -203,12 +151,8 @@
       "key_topic_ref": "NV-10.3",
       "question_text": "A husband transfers his interest in a residential property to his wife as part of a divorce settlement. Is the SRPD required?",
       "correct_answer": "No, transfers between co-owners are exempt",
-      "distractors": [
-        "Yes, all residential transfers require it",
-        "Only if the property has known defects",
-        "Yes, but only a partial SRPD"
-      ],
-      "explanation": "Transfers between co-owners and family members are exempt from the SRPD requirement. A divorce settlement transfer between spouses qualifies as a co-owner/family transfer. The exemption exists because these are not arm's-length market transactions.",
+      "distractors": ["Yes, all residential transfers require it", "Only if the property has known defects", "Yes, but only a partial SRPD"],
+      "explanation": "NRS 113.130(2)(b) exempts transfers between co-owners of the property, between spouses, and between persons related within the third degree of consanguinity. A divorce settlement transfer between spouses who co-own the home qualifies. The exemption exists because these are not arm's-length market transactions.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -218,12 +162,8 @@
       "key_topic_ref": "NV-10.3",
       "question_text": "A builder sells a newly constructed home with a builder warranty. Which disclosure requirement applies?",
       "correct_answer": "The SRPD is not required for the sale",
-      "distractors": [
-        "The builder must complete a full SRPD",
-        "Only structural items need disclosure",
-        "The buyer waives all rescission rights"
-      ],
-      "explanation": "New construction sold with a builder warranty is exempt from the SRPD requirement. The builder warranty serves as the buyer's protection for construction defects. However, the buyer still retains other contractual rights and protections.",
+      "distractors": ["The builder must complete a full SRPD", "Only structural items need disclosure", "The buyer waives all rescission rights"],
+      "explanation": "Under NRS 113.130(2)(c), the first sale of a residence constructed by a licensed contractor is exempt from the SRPD requirement — the exemption comes from the statute, not from the builder warranty. The buyer of a new, never-occupied home still receives separate protections under NRS 113.135, including notice of any soil reports and a 20-day right to rescind after receiving requested reports, so the buyer does not waive all rescission rights.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

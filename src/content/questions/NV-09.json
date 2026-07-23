@@ -6,44 +6,32 @@
   "questions": [
     {
       "key_topic_ref": "NV-09.1",
-      "question_text": "A broker receives an earnest money deposit on Friday afternoon. By when must the funds be deposited into the trust account?",
+      "question_text": "A seller accepts a buyer's offer on Friday afternoon, and the broker holds the earnest money check. By when must the broker deposit the funds into the trust account?",
       "correct_answer": "By the end of the next banking day",
-      "distractors": [
-        "Within 3 business days of receipt",
-        "Within 5 business days of receipt",
-        "Before the end of the following week"
-      ],
-      "explanation": "Under NAC 645.657, once an offer ripens into a contract the broker must deposit trust funds into the broker's trust account, or deliver them to the escrow agent named in the contract, before the end of the next banking day. A salesperson who receives the funds must pay them over to the broker within one business day. Holding trust funds beyond these deadlines violates NRS 645 and NAC 645.",
+      "distractors": ["Within 3 business days of receipt", "Within 5 business days of receipt", "Before the end of the following week"],
+      "explanation": "Under NRS 645.630(1)(k), once an offer is accepted, a broker must deposit any check or cash received as earnest money before the end of the next banking day — or deliver it to the escrow named in the contract — unless the purchase agreement provides otherwise. Separately, a licensee who receives a deposit must pay it over to the broker or the designated escrow company within 1 business day after receiving a fully executed contract (NAC 645.657). Holding trust funds beyond these deadlines violates NRS 645.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["trust account", "deposit timeline", "3 business days"]
+      "tags": ["trust account", "deposit timeline", "next banking day"]
     },
     {
       "key_topic_ref": "NV-09.1",
       "question_text": "A broker maintains $500 of personal funds in their trust account to cover bank fees. Does this comply with Nevada regulations?",
-      "correct_answer": "No, only up to $200 is permitted",
-      "distractors": [
-        "Yes, any amount for maintenance is allowed",
-        "No, personal funds are never permitted",
-        "Yes, if the bank requires a minimum balance"
-      ],
-      "explanation": "Nevada prohibits commingling personal and client funds in a trust account, with one exception: a broker may keep up to $200 of personal funds to maintain the account. Keeping $500 exceeds this limit and constitutes commingling. Bank minimum balance requirements do not override this rule.",
+      "correct_answer": "No, only up to $150 is permitted",
+      "distractors": ["Yes, any amount for maintenance is allowed", "No, personal funds are never permitted", "Yes, if the bank requires a minimum balance"],
+      "explanation": "NRS 645.310 prohibits commingling client funds with the broker's own, and no statute or regulation creates a dollar exception. However, the Division's Trust Fund Accounting manual states that the Commission permits a broker to keep a minimal amount of personal funds in the trust account to cover bank service charges — not to exceed $150 — provided the funds are recorded and clearly identified as the broker's. Keeping $500 exceeds this limit and constitutes commingling, and a bank's minimum-balance requirement does not override the rule.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["commingling", "trust account", "$200 exception"]
+      "tags": ["commingling", "trust account", "$150 exception"]
     },
     {
       "key_topic_ref": "NV-09.1",
       "question_text": "Where must a Nevada broker's trust account be established?",
       "correct_answer": "At a Nevada bank or financial institution",
-      "distractors": [
-        "At any FDIC-insured bank nationwide",
-        "At the broker's primary business bank",
-        "At any institution approved by the Division"
-      ],
-      "explanation": "Nevada requires trust accounts to be maintained at a Nevada bank or financial institution. An out-of-state bank, even if FDIC-insured, does not satisfy this requirement. The account must also include 'trust account' in its name.",
+      "distractors": ["At any FDIC-insured bank nationwide", "At the broker's primary business bank", "At any institution approved by the Division"],
+      "explanation": "NRS 645.310(4) requires a broker who holds money belonging to others to deposit it in a separate checking account located in a bank or credit union in this State, designated a trust account. An out-of-state bank, even if federally insured, does not satisfy the statute. The broker must also notify the Division of the banks or credit unions where trust accounts are held and the names of the accounts (NRS 645.310(6)).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -53,12 +41,8 @@
       "key_topic_ref": "NV-09.1",
       "question_text": "A broker wants to place trust funds in an interest-bearing account and retain the interest as a service fee. Is this permitted?",
       "correct_answer": "Interest-bearing accounts require proper consent",
-      "distractors": [
-        "Brokers may always retain trust account interest",
-        "Interest-bearing trust accounts are prohibited",
-        "Interest automatically belongs to the broker"
-      ],
-      "explanation": "Nevada allows trust funds to be placed in interest-bearing accounts, but proper consent from the parties must be obtained. The broker cannot unilaterally decide to retain interest as a service fee. The disposition of interest must be agreed upon by the parties involved.",
+      "distractors": ["Brokers may always retain trust account interest", "Interest-bearing trust accounts are prohibited", "Interest automatically belongs to the broker"],
+      "explanation": "Nevada statute does not specifically address interest-bearing trust accounts, and per the Division's Trust Fund Accounting manual, federal banking law precludes them in most situations. If one is established, there must be full disclosure and consent of all parties as to the disposition of any interest earned. A broker cannot unilaterally retain interest as a service fee; any broker share must be agreed to by the parties and withdrawn with separate accounting to avoid commingling.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -68,12 +52,8 @@
       "key_topic_ref": "NV-09.1",
       "question_text": "A broker opens a trust account titled 'ABC Realty Operating Account' at a local Nevada bank. What is wrong with this account?",
       "correct_answer": "The name must include 'trust account'",
-      "distractors": [
-        "The account should be at a national bank",
-        "Operating accounts cannot hold trust funds",
-        "The broker's personal name must be listed"
-      ],
-      "explanation": "Nevada requires the trust account name to include the words 'trust account.' Naming it an 'operating account' fails this requirement and could lead to confusion between business operating funds and client trust funds. The account must clearly identify its purpose.",
+      "distractors": ["The account should be at a national bank", "The Division must approve the name in advance", "The broker's personal name must be listed"],
+      "explanation": "Under NRS 645.310(4), a trust account must be designated a trust account, and the Division's guidance requires it to be clearly identified as such; a title like 'Operating Account' fails this requirement and invites confusion between business and client funds. The broker must be named as trustee on the account and must notify the Division of the bank and account name — but no advance Division approval of the name is required.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -83,11 +63,7 @@
       "key_topic_ref": "NV-09.2",
       "question_text": "A salesperson collects a deposit check from a buyer at a showing on Saturday. What is the salesperson's immediate obligation?",
       "correct_answer": "Promptly deliver the funds to the broker",
-      "distractors": [
-        "Deposit the check into their personal account",
-        "Hold the check until the next business day",
-        "Deliver the check directly to the seller"
-      ],
+      "distractors": ["Deposit the check into their personal account", "Hold the check until the next business day", "Deliver the check directly to the seller"],
       "explanation": "Nevada licensees must promptly deliver all client monies to their broker. The salesperson cannot hold funds, deposit them personally, or deliver them directly to the other party. The broker then has the responsibility to deposit the funds into the trust account within the required timeline.",
       "difficulty": "medium",
       "cognitive_level": "application",
@@ -98,12 +74,8 @@
       "key_topic_ref": "NV-09.2",
       "question_text": "An investigator from the Real Estate Division arrives unannounced at a brokerage and requests to review trust account records. Must the broker comply?",
       "correct_answer": "Yes, the Division may audit at any time",
-      "distractors": [
-        "No, a written notice is required first",
-        "Only with a court order or subpoena",
-        "Yes, but only during scheduled office hours"
-      ],
-      "explanation": "The Nevada Real Estate Division has the authority to audit trust accounts at any time without prior notice. Brokers must maintain accurate trust account records and make them available upon request. No court order, subpoena, or advance notice is required for a Division audit.",
+      "distractors": ["No, a written notice is required first", "Only with a court order or subpoena", "Yes, but only during scheduled office hours"],
+      "explanation": "Under NRS 645.310(5), all trust account records and money are subject to inspection and audit by the Division and its representatives, and no advance notice, court order, or subpoena is required. NAC 645.655 requires the records to be open to inspection during usual business hours and any other hours the licensee regularly conducts business. The broker must comply and make accurate records available on request.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -113,12 +85,8 @@
       "key_topic_ref": "NV-09.2",
       "question_text": "Which record-keeping obligation applies to Nevada brokers regarding trust accounts?",
       "correct_answer": "Maintain accurate trust account records",
-      "distractors": [
-        "File monthly statements with the Division",
-        "Have records audited by a CPA annually",
-        "Submit quarterly trust account balances online"
-      ],
-      "explanation": "Nevada requires brokers to maintain accurate trust account records at all times. While the Division may audit at any time, brokers are not required to file monthly statements, obtain annual CPA audits, or submit quarterly balances. The obligation is to keep records accurate and available for review.",
+      "distractors": ["File monthly statements with the Division", "Have records audited by a CPA annually", "Submit quarterly trust account balances online"],
+      "explanation": "NRS 645.310(5) requires brokers to keep detailed records of all trust funds, balance each trust account at least monthly, and submit an annual accounting to the Division showing a reconciliation of each trust account, due by the broker's license expiration date (NAC 645.806). Monthly statements, quarterly online submissions, and CPA audits are not required. Failing to balance monthly or to file the annual accounting is a ground for discipline under NRS 645.630.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -128,11 +96,7 @@
       "key_topic_ref": "NV-09.2",
       "question_text": "A broker discovers that a salesperson deposited a client's earnest money into the brokerage operating account instead of the trust account. What has occurred?",
       "correct_answer": "Commingling of client and business funds",
-      "distractors": [
-        "A minor bookkeeping error with no penalty",
-        "An acceptable practice if corrected promptly",
-        "A violation only if the funds are spent"
-      ],
+      "distractors": ["A minor bookkeeping error with no penalty", "An acceptable practice if corrected promptly", "A violation only if the funds are spent"],
       "explanation": "Depositing client funds into the brokerage operating account constitutes commingling, which is prohibited under Nevada law. This violation occurs at the moment of improper deposit regardless of whether the funds are later moved or spent. It is not merely a bookkeeping error and carries potential disciplinary consequences.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
@@ -143,12 +107,8 @@
       "key_topic_ref": "NV-09.2",
       "question_text": "A buyer's agent receives three separate earnest money checks from different transactions in one day. How must the agent handle these funds?",
       "correct_answer": "Deliver all checks promptly to the broker",
-      "distractors": [
-        "Deposit each into separate personal accounts",
-        "Hold them until each transaction is ratified",
-        "Deliver them directly to each listing agent"
-      ],
-      "explanation": "All client monies must be promptly delivered to the broker regardless of the number of transactions. The broker is then responsible for depositing each into the trust account, or delivering it to escrow, before the end of the next banking day. Licensees cannot hold, personally deposit, or redirect client funds to other parties.",
+      "distractors": ["Deposit each into separate personal accounts", "Hold them until each transaction is ratified", "Deliver them directly to each listing agent"],
+      "explanation": "All client monies must be promptly delivered to the broker regardless of the number of transactions (NRS 645.310(2)). Once each offer is accepted, the broker must deposit the funds into the trust account, or deliver them to the escrow named in the contract, before the end of the next banking day (NRS 645.630(1)(k)). Licensees cannot hold, personally deposit, or redirect client funds to other parties.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

@@ -6,10 +6,10 @@
   "questions": [
     {
       "key_topic_ref": "NV-03.1",
-      "question_text": "A licensee is convicted of a misdemeanor. Within how many days must they notify the Division?",
+      "question_text": "A licensee is convicted of a crime involving fraud. Within how many days must they notify the Division?",
       "correct_answer": "Within 10 days of the event",
       "distractors": ["Within 30 days of the event", "Within 5 business days", "Within 60 days of the event"],
-      "explanation": "Under NRS 645.995, a licensee must notify the Division within 10 days of a conviction or guilty/nolo plea to a felony related to the practice of real estate or to any crime involving fraud, deceit, misrepresentation, or moral turpitude. Failure to provide timely notice can itself be grounds for disciplinary action.",
+      "explanation": "Under NRS 645.615, a licensee must notify the Division in writing not more than 10 days after being convicted of, or pleading guilty, guilty but mentally ill, or nolo contendere to, a felony relating to the licensee's practice or any crime involving fraud, deceit, misrepresentation, or moral turpitude. The conviction must also be disclosed again when the licensee next applies for renewal. An ordinary misdemeanor involving none of these elements does not trigger the notice, but failing to report a covered conviction is itself grounds for discipline.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -17,14 +17,14 @@
     },
     {
       "key_topic_ref": "NV-03.1",
-      "question_text": "A salesperson transfers to a new brokerage. Which notification requirement applies?",
-      "correct_answer": "Notify the Division within 30 days",
-      "distractors": ["Notify the Division within 10 days", "No notification is required", "Notify only the former broker"],
-      "explanation": "Under NRS 645.577, a salesperson or broker-salesperson who changes broker association must notify the Division within 30 days of the previous association ending, or the license is placed on inactive status. An application for reissuance of the license under the new broker is also required.",
+      "question_text": "A salesperson's association with their broker ends. How long do they have to associate with a new broker or request inactive status?",
+      "correct_answer": "Within 30 days after the association ends",
+      "distractors": ["Within 10 days after the association ends", "Within 60 days after the association ends", "Within 90 days after the association ends"],
+      "explanation": "Under NRS 645.580(2), a salesperson or broker-salesperson must, within 30 days after their association with a broker ends, either become associated with another broker or owner-developer or request that the license be placed on inactive status; under NRS 645.577, failing to notify the Division of the new association within that 30-day window is grounds to place the license on inactive status. Separately, the former broker must return the license to the Division within 10 days of the termination, and the licensee must apply for reissuance of the license under the new broker with the required fee.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["broker change", "notification", "10 days"]
+      "tags": ["broker change", "30 days", "inactive status"]
     },
     {
       "key_topic_ref": "NV-03.1",
@@ -40,9 +40,9 @@
     {
       "key_topic_ref": "NV-03.1",
       "question_text": "Which of the following would be grounds for denying a Nevada real estate license application?",
-      "correct_answer": "A prior felony conviction",
+      "correct_answer": "A conviction for a crime involving moral turpitude",
       "distractors": ["A previous career change", "Residence in another state", "Age over 65 at application"],
-      "explanation": "Felony convictions, crimes of moral turpitude, license revocation in another state, and providing false information on the application are all grounds for denial. General factors like career history, residency, or age are not grounds for denial.",
+      "explanation": "Under NRS 645.330(2), the Division may deny a license to an applicant convicted of enumerated offenses — forgery, embezzlement, obtaining money under false pretenses, larceny, extortion, conspiracy to defraud, unlicensed real estate activity, possession of a controlled substance for sale, or any crime involving moral turpitude — and may not license such a person until at least 3 years after fines or restitution are paid or the sentence, parole, or probation ends. Prior license revocation in any state (NRS 645.330(3)) and false statements on the application are also grounds. Career history, out-of-state residency, and age are not.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -64,7 +64,7 @@
       "question_text": "How long must a Nevada broker retain transaction records after closing?",
       "correct_answer": "Five years from the closing date",
       "distractors": ["Three years from the closing date", "Seven years from the closing date", "Ten years from the closing date"],
-      "explanation": "Nevada requires brokers to maintain all transaction records for at least five years from the date of closing. This includes listing agreements, purchase contracts, trust account records, correspondence, and disclosure documents.",
+      "explanation": "Under NAC 645.650, a broker must keep complete real estate transaction and property management records for at least 5 years after the date of the closing or the last activity involving the property — including records of offers that were not accepted and transactions that never closed — unless otherwise directed by the Division. The files include listing agreements, purchase contracts, trust account records, correspondence, and disclosure documents.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -97,7 +97,7 @@
       "question_text": "A salesperson closes a transaction and keeps all original documents at home. Is this proper procedure?",
       "correct_answer": "No, documents must go to the broker",
       "distractors": ["Yes, if copies are made first", "Yes, salespersons maintain own files", "No, documents go to the Division"],
-      "explanation": "All transaction documents must be submitted to the supervising broker in a timely manner. The broker is responsible for maintaining the complete transaction file. Salespersons cannot retain original documents separately from the brokerage's files.",
+      "explanation": "Under NAC 645.650(2), a salesperson or broker-salesperson must provide any paperwork to their broker within 5 calendar days after it is executed by all parties. The broker — not the salesperson — is responsible for maintaining the complete transaction file for the retention period, so a salesperson may not keep original documents at home separate from the brokerage's records.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -105,14 +105,14 @@
     },
     {
       "key_topic_ref": "NV-03.2",
-      "question_text": "A former client asks a licensee to share transaction details with a third party. How should the licensee respond?",
-      "correct_answer": "Protect confidentiality of client info",
-      "distractors": ["Share freely since closing occurred", "Provide details if requested in writing", "Release all records to any party"],
-      "explanation": "Licensees must protect confidential client information even after a transaction closes. The duty of confidentiality survives the end of the agency relationship. Releasing confidential information without proper authorization or legal requirement violates licensee obligations.",
+      "question_text": "Six months after a brokerage agreement ends, a third party asks the licensee for confidential information about the former client. How should the licensee respond?",
+      "correct_answer": "Refuse unless the client gives written permission",
+      "distractors": ["Share freely because the agency has ended", "Share if the third party asks in writing", "Share only with other licensees involved"],
+      "explanation": "Under NRS 645.254(2), a licensee may not disclose confidential information relating to a client for 1 year after the brokerage agreement is revoked or terminated, unless ordered to disclose by a court or given written permission by the client. Six months after termination the duty still applies, so the licensee must refuse — and permission must come from the client, not the third party. Note that Nevada's statutory confidentiality duty runs for 1 year after termination; it is not indefinite.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["confidentiality", "client information", "post-closing"]
+      "tags": ["confidentiality", "client information", "1 year"]
     }
   ]
 }

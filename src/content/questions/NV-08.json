@@ -7,13 +7,9 @@
     {
       "key_topic_ref": "NV-08.1",
       "question_text": "A salesperson creates a social media ad for a listing that displays only the salesperson's name and photo. What is missing?",
-      "correct_answer": "The broker's licensed name must appear",
-      "distractors": [
-        "The MLS number of the listing",
-        "The salesperson's license number",
-        "The property's legal description"
-      ],
-      "explanation": "Nevada requires all advertising to include the broker's licensed name as it appears on the license. A social media ad showing only the salesperson's name violates this rule. The same requirement applies to all media including electronic, print, websites, and social media.",
+      "correct_answer": "The brokerage name and the agent's license number",
+      "distractors": ["The MLS number of the listing", "The property's legal description", "The broker's personal phone number"],
+      "explanation": "Under NRS 645.315(1) and NAC 645.610, every advertisement must disclose the name of the brokerage with which the licensee is associated, and the licensee must include his or her license number in a conspicuous way. These rules apply to all media, including social media ads. MLS numbers, legal descriptions, and the broker's phone number are not required in advertising.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -22,13 +18,9 @@
     {
       "key_topic_ref": "NV-08.1",
       "question_text": "An agent designs a yard sign where their personal name appears in large bold letters and the broker's name appears in small text below. Does this comply with Nevada law?",
-      "correct_answer": "No, the agent's name cannot be more prominent",
-      "distractors": [
-        "Yes, if the broker name is visible",
-        "Yes, yard signs are exempt from this rule",
-        "No, only the broker name may appear on signs"
-      ],
-      "explanation": "Nevada advertising rules require that a licensee's name cannot be more prominent than the broker's licensed name. While both names may appear, the broker's name must be at least as prominent as the licensee's. Yard signs are not exempt from this requirement.",
+      "correct_answer": "No, the brokerage name must be clearly prominent",
+      "distractors": ["Yes, if the broker name is visible", "Yes, yard signs are exempt from this rule", "No, only the broker name may appear on signs"],
+      "explanation": "NAC 645.610(1)(c) requires the brokerage firm's name to be clearly identified with prominence in every advertisement. The Division evaluates the style, size, and color of the font and the location of the brokerage name. A sign that buries the brokerage name in small text beneath large personal branding risks violating this standard, and signs are advertisements under NAC 645.610(4).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -37,13 +29,9 @@
     {
       "key_topic_ref": "NV-08.1",
       "question_text": "A team within a brokerage advertises under the team name 'Desert Dream Homes' without any broker identification. What violation occurred?",
-      "correct_answer": "The broker's name must also appear in the ad",
-      "distractors": [
-        "Team names are prohibited in Nevada",
-        "Only the team leader's name is required",
-        "Team advertising requires Division approval"
-      ],
-      "explanation": "Nevada permits team names in advertising, but the broker's licensed name must also appear. Advertising without broker identification is considered a blind ad and is prohibited. Team names do not require separate Division approval but cannot replace the broker name requirement.",
+      "correct_answer": "The brokerage name must also appear in the ad",
+      "distractors": ["Team names are prohibited in Nevada", "Only the team leader's name is required", "Team advertising requires Division approval"],
+      "explanation": "Nevada permits team advertising, but every ad must still disclose the brokerage name (NRS 645.315(1), NAC 645.610(1)(c)). Under NAC 645.611, a team name must also contain the name and license number of at least one member, the team must include more than one licensee, and all members must work for the same broker. No separate Division approval is required.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -53,12 +41,8 @@
       "key_topic_ref": "NV-08.1",
       "question_text": "An agent sends a mass marketing email about available properties that contains no broker identification. This type of ad is classified as what?",
       "correct_answer": "A blind ad, which is prohibited",
-      "distractors": [
-        "A permissible personal communication",
-        "An exempt electronic solicitation",
-        "A compliant informal marketing piece"
-      ],
-      "explanation": "A blind ad is any advertisement that does not identify the broker. Nevada prohibits blind ads in all media, including email. Mass marketing emails about available properties are considered advertisements and must include the broker's licensed name. Email is not exempt from advertising requirements.",
+      "distractors": ["A permissible personal communication", "An exempt electronic solicitation", "A compliant informal marketing piece"],
+      "explanation": "An ad that fails to identify the brokerage is commonly called a blind ad and is prohibited in Nevada. NRS 645.315(2) bars a salesperson from advertising solely under his or her own name, and NAC 645.613 deems unsolicited email and Internet marketing to be advertising subject to all advertising rules, including the brokerage-name and license-number requirements. Email is not exempt.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -68,11 +52,7 @@
       "key_topic_ref": "NV-08.1",
       "question_text": "Which statement about Nevada real estate advertising is correct?",
       "correct_answer": "All ads must be truthful and not misleading",
-      "distractors": [
-        "Print ads have stricter rules than digital ads",
-        "Websites are exempt from broker name rules",
-        "Agents may omit broker name on personal blogs"
-      ],
+      "distractors": ["Print ads have stricter rules than digital ads", "Websites are exempt from broker name rules", "Agents may omit broker name on personal blogs"],
       "explanation": "Nevada requires all advertising to be truthful and not misleading, and the same rules apply equally to electronic and print media, websites, social media, and email. No medium is exempt from the requirement to include the broker's licensed name or from the prohibition on misleading content.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
@@ -81,14 +61,10 @@
     },
     {
       "key_topic_ref": "NV-08.2",
-      "question_text": "A salesperson is asked by a lender to provide a written opinion of a property's probable selling price. Can the salesperson issue this broker price opinion?",
-      "correct_answer": "No, only brokers or broker-salespersons may",
-      "distractors": [
-        "Yes, any licensee may issue a BPO",
-        "Yes, if the broker gives written approval",
-        "No, only licensed appraisers may do this"
-      ],
-      "explanation": "In Nevada, only a broker or broker-salesperson may issue a broker price opinion (BPO). A salesperson is not authorized to provide a BPO regardless of broker approval. A BPO is distinct from an appraisal, so it does not require an appraiser's license, but it does require broker-level licensure.",
+      "question_text": "A salesperson is asked by a lender to prepare, for a fee, a written opinion of a property's probable selling price. May the salesperson prepare this broker price opinion?",
+      "correct_answer": "Yes, if the license is active and in good standing",
+      "distractors": ["No, only brokers or broker-salespersons may", "No, only licensed appraisers may prepare one", "Yes, but no fee may be charged for it"],
+      "explanation": "Under NRS 645.2515, any person licensed under chapter 645 — broker, broker-salesperson, or salesperson — may prepare a broker price opinion and charge a fee if the license is active and in good standing and the BPO contains the required contents. A salesperson's BPO must name the broker with whom the licensee is associated, and a BPO prepared for a lienholder may not be used in place of an appraisal to decide whether to approve a mortgage loan.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -98,11 +74,7 @@
       "key_topic_ref": "NV-08.2",
       "question_text": "A broker issues a BPO and presents it to the client without any disclaimers. What requirement was overlooked?",
       "correct_answer": "A disclaimer stating it is not an appraisal",
-      "distractors": [
-        "A copy must be filed with the Division",
-        "The client must sign an acknowledgment form",
-        "A second broker must verify the opinion"
-      ],
+      "distractors": ["A copy must be filed with the Division", "The client must sign an acknowledgment form", "A second broker must verify the opinion"],
       "explanation": "Nevada requires that every BPO include a disclaimer stating it is not an appraisal. A BPO is a written opinion of probable selling price, which is different from a formal appraisal. The disclaimer protects consumers from confusing the two and is required under NRS 645.2515.",
       "difficulty": "medium",
       "cognitive_level": "application",
@@ -113,12 +85,8 @@
       "key_topic_ref": "NV-08.2",
       "question_text": "What is the primary distinction between a broker price opinion and an appraisal in Nevada?",
       "correct_answer": "A BPO is not a formal appraisal",
-      "distractors": [
-        "A BPO uses comparable sales but appraisals do not",
-        "An appraisal may be issued by a broker",
-        "There is no legal distinction between them"
-      ],
-      "explanation": "A broker price opinion is a written opinion of probable selling price issued by a broker or broker-salesperson. It is explicitly not an appraisal, which requires a licensed appraiser and follows different standards. Both may use comparable sales data, but they serve different legal purposes.",
+      "distractors": ["A BPO uses comparable sales but appraisals do not", "An appraisal may be issued by a broker", "There is no legal distinction between them"],
+      "explanation": "A broker price opinion is a written analysis or opinion of the estimated price of a property that any chapter 645 licensee may prepare under NRS 645.2515. It is explicitly not an appraisal, which requires a licensed or certified appraiser under NRS 645C and follows different standards. Both may use comparable sales data, but they serve different legal purposes.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -128,11 +96,7 @@
       "key_topic_ref": "NV-08.2",
       "question_text": "A broker prepares a BPO for a lender but fails to include any assumptions or limiting conditions. What requirement was missed?",
       "correct_answer": "BPOs must state assumptions and limitations",
-      "distractors": [
-        "Only appraisals require stated assumptions",
-        "Limiting conditions are optional for BPOs",
-        "The lender is responsible for adding conditions"
-      ],
+      "distractors": ["Only appraisals require stated assumptions", "Limiting conditions are optional for BPOs", "The lender is responsible for adding conditions"],
       "explanation": "Nevada law requires BPOs to include a statement of intended purpose, property description, basis for the opinion with market data, any assumptions or limiting conditions, date of issuance, disclosure of interests, and licensee signatures. Omitting assumptions or limiting conditions fails to meet these requirements.",
       "difficulty": "hard",
       "cognitive_level": "application",
@@ -143,11 +107,7 @@
       "key_topic_ref": "NV-08.2",
       "question_text": "A lender relies on a BPO to make a lending decision and later claims the BPO was misleading because it lacked a disclaimer. What risk does the broker face?",
       "correct_answer": "Disciplinary action for noncompliant BPO",
-      "distractors": [
-        "No risk because BPOs are informal opinions",
-        "Liability only if the BPO was intentionally wrong",
-        "The lender assumed the risk by using a BPO"
-      ],
+      "distractors": ["No risk because BPOs are informal opinions", "Liability only if the BPO was intentionally wrong", "The lender assumed the risk by using a BPO"],
       "explanation": "Failing to include the required disclaimer that a BPO is not an appraisal violates NRS 645.2515 and exposes the broker to disciplinary action. BPOs are not informal opinions but regulated documents. The broker has an obligation to comply with all BPO requirements regardless of the lender's reliance decisions.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
