@@ -8,111 +8,191 @@
       "key_topic_ref": "WV-07.1",
       "question_text": "Under WV law, which activity requires a real estate license when performed for compensation?",
       "correct_answer": "Negotiating the sale of real estate",
-      "distractors": ["Painting a house for a homeowner", "Mowing a rental property's lawn", "Installing a fence on private property"],
+      "distractors": [
+        "Painting a house for a homeowner",
+        "Mowing a rental property's lawn",
+        "Installing a fence on private property"
+      ],
       "explanation": "Negotiating the sale, exchange, purchase, or rental of real estate for compensation requires a license. Physical property maintenance does not require a license.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["licensed-activities", "compensation", "requirements"]
+      "tags": [
+        "licensed-activities",
+        "compensation",
+        "requirements"
+      ]
     },
     {
       "key_topic_ref": "WV-07.1",
-      "question_text": "A person collects rent for an apartment building in exchange for a monthly fee. Does this require a WV real estate license?",
+      "question_text": "An unlicensed person collects rent on several apartment buildings owned by different, unrelated owners, charging each owner a monthly fee. Does this require a WV real estate license?",
       "correct_answer": "Yes, collecting rent for compensation requires a license",
-      "distractors": ["No, rent collection never requires a license", "Only if the building has 10+ units", "Only if the person also manages repairs"],
-      "explanation": "Collecting rent for the use of real estate for compensation or expectation of compensation is a licensed activity under the WV Real Estate License Act.",
+      "distractors": [
+        "No, rent collection never requires a license",
+        "Only if the building has 10+ units",
+        "Only if the person also manages repairs"
+      ],
+      "explanation": "Collecting rent for compensation falls within the §30-40-4 definition of a broker, and \"property management\" is itself a defined licensed activity. Watch the boundary: §30-40-5(c)(8) exempts a person \"employed exclusively to act as the management or rental agent for the real estate of one person or entity,\" and (c)(2) exempts an owner's regular employees who perform incidental acts without extra compensation. Serving several unrelated owners for a fee falls outside both exemptions.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["licensed-activities", "rent-collection", "property-management"]
+      "tags": [
+        "licensed-activities",
+        "rent-collection",
+        "property-management"
+      ]
     },
     {
       "key_topic_ref": "WV-07.1",
       "question_text": "Which of the following activities does NOT require a WV real estate license?",
       "correct_answer": "Selling your own property as the owner",
-      "distractors": ["Listing property for sale for a fee", "Procuring prospects for a commission", "Advertising real estate services for pay"],
-      "explanation": "Owners dealing with their own property are exempt from licensure. Listing, procuring prospects, and advertising real estate services for compensation all require a license.",
+      "distractors": [
+        "Listing property for sale for a fee",
+        "Procuring prospects for a commission",
+        "Advertising real estate services for pay"
+      ],
+      "explanation": "§30-40-5(c)(1) exempts \"any person acting on his or her own behalf as owner or lessor of real estate.\" The Commission's rule goes further for licensees: under 174-1-17.5, \"a licensee who is the owner of the property has all the rights of an unlicensed person with regard to that property.\" Listing, procuring prospects and advertising real estate services for compensation all require a license.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["licensed-activities", "exemption", "owner"]
+      "tags": [
+        "licensed-activities",
+        "exemption",
+        "owner"
+      ]
     },
     {
       "key_topic_ref": "WV-07.1",
       "question_text": "A person advertises themselves as a real estate professional and helps buyers find properties for a fee. Do they need a WV license?",
       "correct_answer": "Yes, advertising as a real estate professional requires a license",
-      "distractors": ["No, only selling property requires a license", "Only if they also negotiate purchase offers", "Only if they handle commercial properties"],
+      "distractors": [
+        "No, only selling property requires a license",
+        "Only if they also negotiate purchase offers",
+        "Only if they handle commercial properties"
+      ],
       "explanation": "Advertising or holding oneself out as being engaged in the real estate business, and assisting or directing in the procuring of prospects, are both licensed activities.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["licensed-activities", "advertising", "procuring-prospects"]
+      "tags": [
+        "licensed-activities",
+        "advertising",
+        "procuring-prospects"
+      ]
     },
     {
       "key_topic_ref": "WV-07.1",
-      "question_text": "A person conducts a real estate auction for compensation. Does this require a WV real estate license?",
+      "question_text": "An unlicensed auctioneer is hired by a private seller to auction a farm. Does this require a WV real estate license?",
       "correct_answer": "Yes, auctioning real estate requires a license",
-      "distractors": ["No, auctioneers have a separate license", "Only for commercial properties", "Only if the auction exceeds $100,000"],
-      "explanation": "Auctioning real estate is specifically listed as an activity requiring a WV real estate license when performed for compensation or expectation of compensation.",
+      "distractors": [
+        "No, auctioneers have a separate license",
+        "Only for commercial properties",
+        "Only if the auction exceeds $100,000"
+      ],
+      "explanation": "Auctioning real estate for compensation is within the §30-40-4 definition of a broker, so a real estate license is required here. The exemption is narrow: §30-40-5(c)(9) excuses a person licensed as an auctioneer under §19-2C-1 et seq. only when retained by a receiver or trustee in bankruptcy, a fiduciary acting under a deed of trust or will, or a fiduciary of a decedent's estate. A private seller is none of those.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["licensed-activities", "auction", "requirements"]
+      "tags": [
+        "licensed-activities",
+        "auction",
+        "requirements"
+      ]
     },
     {
       "key_topic_ref": "WV-07.2",
       "question_text": "An attorney helps a client buy property as part of their legal services. Does the attorney need a WV real estate license?",
       "correct_answer": "No, attorneys acting in professional capacity are exempt",
-      "distractors": ["Yes, all real estate transactions require a license", "Only if the attorney receives a commission", "Only if the property exceeds $250,000"],
-      "explanation": "Attorneys acting within their professional capacity are exempt from WV real estate licensure. This is a common exemption across states.",
+      "distractors": [
+        "Yes, all real estate transactions require a license",
+        "Only if the attorney receives a commission",
+        "Only if the property exceeds $250,000"
+      ],
+      "explanation": "§30-40-5(c)(3) exempts attorneys-at-law. Note the proviso: an attorney who wants a broker's license must still pass the written examination required by §30-40-12, unless licensed as a broker before July 1, 1980. An attorney applicant may also submit a State Bar letter of good standing in lieu of the criminal history check (§30-40-11(f)).",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exemptions", "attorney", "professional-capacity"]
+      "tags": [
+        "exemptions",
+        "attorney",
+        "professional-capacity"
+      ]
     },
     {
       "key_topic_ref": "WV-07.2",
       "question_text": "A court appoints a trustee to sell a deceased person's real estate. Does the trustee need a WV license?",
       "correct_answer": "No, persons acting under court order are exempt",
-      "distractors": ["Yes, selling real estate always requires a license", "Only if the property is worth over $50,000", "Only if the trustee receives compensation"],
+      "distractors": [
+        "Yes, selling real estate always requires a license",
+        "Only if the property is worth over $50,000",
+        "Only if the trustee receives compensation"
+      ],
       "explanation": "Persons acting under court order — including executors, administrators, trustees, and guardians — are exempt from licensure requirements.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exemptions", "court-order", "trustee"]
+      "tags": [
+        "exemptions",
+        "court-order",
+        "trustee"
+      ]
     },
     {
       "key_topic_ref": "WV-07.2",
-      "question_text": "A state government employee helps acquire land for a highway project as part of their job. Do they need a WV real estate license?",
-      "correct_answer": "No, government employees on official duty are exempt",
-      "distractors": ["Yes, the state has no special exemption", "Only if the land value exceeds $500,000", "Only if they negotiate the purchase price"],
-      "explanation": "Government employees performing official duties related to real estate are exempt from licensure. This includes land acquisition for public projects.",
+      "question_text": "A public officer negotiates the acquisition of land for a highway project as part of their official duties. Do they need a WV real estate license?",
+      "correct_answer": "No, a public officer performing official duties is exempt",
+      "distractors": [
+        "Yes, the state has no special exemption",
+        "Only if the land value exceeds $500,000",
+        "Only if they negotiate the purchase price"
+      ],
+      "explanation": "§30-40-5(c)(6) exempts \"a public officer while performing his or her official duties.\" Read it narrowly — the exemption is written for public officers, not for every government employee. A separate exemption, §30-40-5(c)(7), covers anyone acquiring or disposing of properties for easements and rights of way.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exemptions", "government", "official-duty"]
+      "tags": [
+        "exemptions",
+        "government",
+        "official-duty"
+      ]
     },
     {
       "key_topic_ref": "WV-07.2",
       "question_text": "Which of the following persons is NOT exempt from WV real estate licensure?",
       "correct_answer": "A friend who helps sell a home for a fee",
-      "distractors": ["An owner selling their own property", "An executor selling estate property", "A government employee acquiring land"],
-      "explanation": "Friends or acquaintances selling property for compensation are not exempt. Only owners (their own property), attorneys, court-appointed persons, and government employees on official duty are exempt.",
+      "distractors": [
+        "An owner selling their own property",
+        "An executor selling estate property",
+        "A government employee acquiring land"
+      ],
+      "explanation": "A friend selling someone else's property for a fee needs a license. The §30-40-5(c) exemption list is longer than most summaries suggest: owners and lessors acting for themselves; an owner's regular employees performing incidental acts without extra compensation; attorneys-at-law; holders of a valid power of attorney; receivers, trustees, administrators, executors, guardians and conservators, or anyone acting under a court order, deed of trust or will; public officers on official duty; persons dealing in timber, minerals, easements and rights of way; a person employed exclusively as management or rental agent for the real estate of one person or entity; licensed auctioneers in three fiduciary settings; and a broker's non-commissioned clerical staff performing five enumerated tasks.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["exemptions", "non-exempt", "compensation"]
+      "tags": [
+        "exemptions",
+        "non-exempt",
+        "compensation"
+      ]
     },
     {
       "key_topic_ref": "WV-07.2",
       "question_text": "The key factor that triggers the WV real estate license requirement is performing activities for what?",
       "correct_answer": "Compensation or expectation of compensation",
-      "distractors": ["Any real estate-related activity", "Activities involving property over $10,000", "Only activities involving residential property"],
-      "explanation": "The WV license requirement is triggered when real estate activities are performed for compensation or with the expectation of compensation. Volunteer or personal activities are not covered.",
+      "distractors": [
+        "Any real estate-related activity",
+        "Activities involving property over $10,000",
+        "Only activities involving residential property"
+      ],
+      "explanation": "Every branch of the §30-40-4 \"broker\" definition begins \"for compensation or with the intention or expectation of receiving or collecting compensation.\" §30-40-23 sharpens the point: a single act performed for compensation, or with the expectation or promise of compensation, is enough to make a person a broker, associate broker or salesperson subject to the article.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["licensed-activities", "compensation", "trigger"]
+      "tags": [
+        "licensed-activities",
+        "compensation",
+        "trigger"
+      ]
     }
   ]
 }

@@ -8,166 +8,286 @@
       "key_topic_ref": "WV-12.1",
       "question_text": "Which agency type in WV represents both the buyer and seller in the same transaction?",
       "correct_answer": "Dual agent",
-      "distractors": ["Seller's agent", "Buyer's agent", "Transaction coordinator"],
-      "explanation": "A dual agent represents both buyer and seller in the same transaction. This requires informed written consent of both parties due to the inherent conflict of interest.",
+      "distractors": [
+        "Seller's agent",
+        "Buyer's agent",
+        "Transaction coordinator"
+      ],
+      "explanation": "Representing both sides is dual agency, and §30-40-19(a)(7) plus 174-1-16.2 require the written consent of both buyer and seller first. West Virginia's promulgated Notice of Agency form uses two specific labels for it: \"Limited Dual Agent\" where one licensee represents both parties, and \"Designated Dual Agent\" where the brokerage assigns a separate licensee to each side.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["agency-types", "dual-agent", "definition"]
+      "tags": [
+        "agency-types",
+        "dual-agent",
+        "definition"
+      ]
     },
     {
       "key_topic_ref": "WV-12.1",
       "question_text": "What is required before a WV licensee can act as a dual agent?",
       "correct_answer": "Informed written consent of both parties",
-      "distractors": ["Verbal agreement from both parties", "Approval from the WVREC", "Only the seller's written consent"],
+      "distractors": [
+        "Verbal agreement from both parties",
+        "Approval from the WVREC",
+        "Only the seller's written consent"
+      ],
       "explanation": "Dual agency requires informed written consent from both the buyer and seller because the agent owes fiduciary duties to both parties, creating a potential conflict of interest.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["agency-types", "dual-agency", "consent"]
+      "tags": [
+        "agency-types",
+        "dual-agency",
+        "consent"
+      ]
     },
     {
       "key_topic_ref": "WV-12.1",
-      "question_text": "A WV licensee provides transaction services without representing either party. What role are they performing?",
-      "correct_answer": "Transaction coordinator or facilitator",
-      "distractors": ["Dual agent for both parties", "Designated agent for the seller", "Subagent of the listing broker"],
-      "explanation": "A transaction coordinator or facilitator provides services without representing either party. They help facilitate the transaction but do not owe fiduciary duties to either side.",
+      "question_text": "A WV brokerage represents both the buyer and the seller but assigns a different licensee to each side. What does the promulgated Notice of Agency form call this?",
+      "correct_answer": "Designated dual agency",
+      "distractors": [
+        "Transaction brokerage",
+        "Subagency of the listing broker",
+        "Limited dual agency"
+      ],
+      "explanation": "The WVREC's Notice of Agency Relationship provides boxes for \"The Seller/Lessor as a Designated Dual Agent\" and \"The Buyer/Lessee as Designated Dual Agent\" — that is designated dual agency. Where a single licensee represents both sides, the form's label is \"Limited Dual Agent.\" West Virginia does not recognise a transaction-broker, facilitator or coordinator status at all: those terms appear nowhere in §30-40-1 et seq., nowhere in 174 CSR 1, and nowhere on the form, which instead marks an unrepresented party simply as \"unrepresented.\"",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["agency-types", "transaction-coordinator", "facilitator"]
+      "tags": [
+        "agency-types",
+        "transaction-coordinator",
+        "facilitator"
+      ]
     },
     {
       "key_topic_ref": "WV-12.1",
       "question_text": "A WV buyer's agent owes fiduciary duties to whom?",
       "correct_answer": "The buyer only",
-      "distractors": ["Both the buyer and seller equally", "The buyer and the listing broker", "All parties in the transaction"],
+      "distractors": [
+        "Both the buyer and seller equally",
+        "The buyer and the listing broker",
+        "All parties in the transaction"
+      ],
       "explanation": "A buyer's agent represents only the buyer and owes full fiduciary duties exclusively to the buyer. The agent owes fair dealing and honesty to other parties but not fiduciary duties.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["agency-types", "buyers-agent", "fiduciary"]
+      "tags": [
+        "agency-types",
+        "buyers-agent",
+        "fiduciary"
+      ]
     },
     {
       "key_topic_ref": "WV-12.1",
       "question_text": "A seller hires a WV licensee to list their property. The listing agent also finds the buyer and represents both. Without consent, what type of violation occurs?",
       "correct_answer": "Unauthorized dual agency",
-      "distractors": ["No violation if both sides benefit", "Only a minor procedural error", "A violation only if the deal closes"],
+      "distractors": [
+        "No violation if both sides benefit",
+        "Only a minor procedural error",
+        "A violation only if the deal closes"
+      ],
       "explanation": "Representing both parties without informed written consent from both is unauthorized dual agency, a serious violation. Consent must be obtained before the dual representation begins.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["agency-types", "dual-agency", "violation"]
+      "tags": [
+        "agency-types",
+        "dual-agency",
+        "violation"
+      ]
     },
     {
       "key_topic_ref": "WV-12.2",
-      "question_text": "Which fiduciary duties does a WV agent owe to their client?",
-      "correct_answer": "Loyalty, obedience, disclosure, confidentiality, accountability, care",
-      "distractors": ["Honesty, fair dealing, and reasonable skill only", "Disclosure, care, and reasonable diligence only", "Loyalty, confidentiality, and good faith only"],
-      "explanation": "WV agents owe six fiduciary duties to clients: loyalty, obedience, disclosure, confidentiality, accountability, and reasonable care. These go beyond the basic duties owed to all parties.",
+      "question_text": "According to the WVREC's Notice of Agency Relationship, what does a licensee owe the principal they represent?",
+      "correct_answer": "The duty of utmost care, integrity, honesty, and loyalty",
+      "distractors": [
+        "Only honesty and fair dealing, the same as any customer",
+        "Obedience to every instruction the principal gives",
+        "A guarantee of the best available price"
+      ],
+      "explanation": "The promulgated form states it directly: the party represented by the licensee \"is known as the licensee's principal and as such, the licensee owes the principal the duty of utmost care, integrity, honesty, and loyalty.\" That is West Virginia's formulation — note that \"obedience\" appears nowhere in §30-40-1 et seq., in 174 CSR 1, or on the form, and a licensee may never follow an instruction to conceal a material fact or to discriminate. The form lists the duties owed to all consumers, client or not, separately.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["fiduciary", "duties", "client"]
+      "tags": [
+        "fiduciary",
+        "duties",
+        "client"
+      ]
     },
     {
       "key_topic_ref": "WV-12.2",
       "question_text": "A WV buyer's agent learns their client plans to flip the property for a quick profit. Can the agent share this with the seller?",
       "correct_answer": "No, the agent owes confidentiality to the buyer",
-      "distractors": ["Yes, both parties deserve full information", "Yes, to prevent the seller from being deceived", "Only if the seller specifically asks"],
+      "distractors": [
+        "Yes, both parties deserve full information",
+        "Yes, to prevent the seller from being deceived",
+        "Only if the seller specifically asks"
+      ],
       "explanation": "Confidentiality is a fiduciary duty owed to clients. The buyer's investment strategy is confidential client information that cannot be shared with the other party.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["fiduciary", "confidentiality", "buyer"]
+      "tags": [
+        "fiduciary",
+        "confidentiality",
+        "buyer"
+      ]
     },
     {
       "key_topic_ref": "WV-12.2",
       "question_text": "A seller instructs their agent to reject all offers below $300,000. The agent receives a $280,000 offer. What should the agent do?",
       "correct_answer": "Present the offer — agents must present all offers",
-      "distractors": ["Reject it per the seller's instruction", "Accept it if it's a strong offer", "Negotiate a higher price without telling the seller"],
-      "explanation": "While agents owe obedience, they have a duty to present all offers to the client. The duty of disclosure requires presenting all offers so the seller can make informed decisions.",
+      "distractors": [
+        "Reject it per the seller's instruction",
+        "Accept it if it's a strong offer",
+        "Negotiate a higher price without telling the seller"
+      ],
+      "explanation": "The duty is statutory, not a balancing act. §30-40-26(e): \"Every licensee shall promptly deliver to his or her principal, every written offer received.\" A standing instruction to reject offers below a threshold cannot override it, and §30-40-19(a)(43) separately makes it a disciplinary ground to fail to reduce a bona fide offer to writing. The seller remains free to reject the offer once it is presented.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["fiduciary", "disclosure", "presenting-offers"]
+      "tags": [
+        "fiduciary",
+        "disclosure",
+        "presenting-offers"
+      ]
     },
     {
       "key_topic_ref": "WV-12.2",
       "question_text": "The duty of accountability requires a WV agent to do what?",
       "correct_answer": "Account for all money and property received",
-      "distractors": ["Report all activities to the WVREC", "Maintain a personal activity log", "Provide monthly progress reports to clients"],
-      "explanation": "The duty of accountability requires agents to account for all money and property received on behalf of the client, including earnest money deposits and other funds.",
+      "distractors": [
+        "Report all activities to the WVREC",
+        "Maintain a personal activity log",
+        "Provide monthly progress reports to clients"
+      ],
+      "explanation": "Accounting for other people's money is enforced directly: §30-40-19(a)(8) makes it a disciplinary ground to fail, within a reasonable time, \"to account for or to remit moneys or other assets coming into his or her possession, which belong to others,\" and (a)(9) reaches commingling. Trust funds must be delivered to the responsible broker immediately or by the next business day (174-1-15.2).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["fiduciary", "accountability", "funds"]
+      "tags": [
+        "fiduciary",
+        "accountability",
+        "funds"
+      ]
     },
     {
       "key_topic_ref": "WV-12.2",
       "question_text": "A WV agent discovers a structural issue during a property showing. The duty of reasonable care requires the agent to do what?",
       "correct_answer": "Inform the client about the observed issue",
-      "distractors": ["Hire a structural engineer personally", "Ignore it if it's not their area of expertise", "Fix the issue before the client sees it"],
+      "distractors": [
+        "Hire a structural engineer personally",
+        "Ignore it if it's not their area of expertise",
+        "Fix the issue before the client sees it"
+      ],
       "explanation": "The duty of reasonable care requires agents to use their skills and knowledge competently, which includes informing clients about observable issues that could affect the transaction.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["fiduciary", "reasonable-care", "disclosure"]
+      "tags": [
+        "fiduciary",
+        "reasonable-care",
+        "disclosure"
+      ]
     },
     {
       "key_topic_ref": "WV-12.3",
       "question_text": "What duties does a WV agent owe to customers (the party they do NOT represent)?",
       "correct_answer": "Fair dealing, honesty, and material fact disclosure",
-      "distractors": ["Full fiduciary duties identical to clients", "No duties whatsoever to customers", "Only the duty to answer questions truthfully"],
+      "distractors": [
+        "Full fiduciary duties identical to clients",
+        "No duties whatsoever to customers",
+        "Only the duty to answer questions truthfully"
+      ],
       "explanation": "While agents owe full fiduciary duties to clients, they owe customers fair dealing, honesty, and disclosure of material facts. Customers are entitled to honest treatment even without representation.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["client-customer", "duties", "fair-dealing"]
+      "tags": [
+        "client-customer",
+        "duties",
+        "fair-dealing"
+      ]
     },
     {
       "key_topic_ref": "WV-12.3",
       "question_text": "A seller's agent knows the property is in a flood zone. Must they disclose this to an unrepresented buyer?",
       "correct_answer": "Yes, material facts must be disclosed to all parties",
-      "distractors": ["No, unrepresented buyers assume all risk", "Only if the buyer specifically asks", "Only if the information is public record"],
+      "distractors": [
+        "No, unrepresented buyers assume all risk",
+        "Only if the buyer specifically asks",
+        "Only if the information is public record"
+      ],
       "explanation": "Material facts must be disclosed to all parties, including customers. Flood zone status is a material fact that could affect the buyer's decision regardless of representation.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["client-customer", "material-facts", "disclosure"]
+      "tags": [
+        "client-customer",
+        "material-facts",
+        "disclosure"
+      ]
     },
     {
       "key_topic_ref": "WV-12.3",
       "question_text": "A WV buyer's agent is showing a home listed by another broker. What does the buyer's agent owe the seller?",
       "correct_answer": "Fair dealing and honesty",
-      "distractors": ["Full fiduciary duties to both parties", "No obligations to the seller", "Loyalty and obedience to the seller"],
+      "distractors": [
+        "Full fiduciary duties to both parties",
+        "No obligations to the seller",
+        "Loyalty and obedience to the seller"
+      ],
       "explanation": "The buyer's agent owes fiduciary duties only to their buyer client. To the seller (a customer), they owe fair dealing, honesty, and disclosure of material facts — but not loyalty or obedience.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["client-customer", "buyer-agent", "seller-obligations"]
+      "tags": [
+        "client-customer",
+        "buyer-agent",
+        "seller-obligations"
+      ]
     },
     {
       "key_topic_ref": "WV-12.3",
-      "question_text": "How does the duty of confidentiality differ between clients and customers in WV?",
-      "correct_answer": "Confidentiality is owed to clients, not customers",
-      "distractors": ["Confidentiality is owed equally to both", "No duty of confidentiality exists in WV", "Confidentiality applies only in dual agency"],
-      "explanation": "Confidentiality is a fiduciary duty owed exclusively to clients. Agents do not owe confidentiality to customers, though they still owe fair dealing and honesty.",
+      "question_text": "How does the WVREC's Notice of Agency Relationship describe a licensee's confidentiality obligation?",
+      "correct_answer": "The licensee is not obligated to reveal confidential information obtained from either party",
+      "distractors": [
+        "The licensee must reveal everything learned to their own principal",
+        "No confidentiality obligation exists in West Virginia",
+        "Confidentiality applies only in dual agency"
+      ],
+      "explanation": "The form's language is permissive and runs to both sides: \"The licensee is not obligated to reveal to either party any confidential information obtained from the other party which does not involve the affirmative duties set forth above.\" The affirmative duties that must still be honoured include honest and fair dealing and good faith, promptly presenting all written offers, and offering property without discrimination. So confidentiality never shields a material misrepresentation.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["client-customer", "confidentiality", "distinction"]
+      "tags": [
+        "client-customer",
+        "confidentiality",
+        "distinction"
+      ]
     },
     {
       "key_topic_ref": "WV-12.3",
-      "question_text": "A listing agent learns the buyer is willing to pay more than the offered price. Can the listing agent share this with the seller?",
-      "correct_answer": "Only if the information is not confidential to the buyer's agent",
-      "distractors": ["Yes, the listing agent's duty is to the seller", "No, that information is always confidential", "Only with the buyer's written permission"],
-      "explanation": "If the buyer has their own agent, information shared in confidence with the buyer's agent is protected. However, information disclosed publicly or outside a confidential relationship may be shared.",
+      "question_text": "A WV licensee is about to buy a listed property for their own account through a business entity they control. What does the License Act require?",
+      "correct_answer": "Disclose their true position to the owner",
+      "distractors": [
+        "Nothing, so long as the price offered is fair",
+        "Only the responsible broker's written approval",
+        "Resign the listing and wait one year"
+      ],
+      "explanation": "§30-40-19(a)(34) makes it a disciplinary ground to fail \"to disclose to an owner the licensee's true position if he or she directly or indirectly through a third party, purchases for himself or herself or acquires or intends to acquire any interest in or any option to purchase the property.\" Acting through an entity is exactly the \"indirectly through a third party\" case the provision targets.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["client-customer", "confidentiality", "information-sharing"]
+      "tags": [
+        "client-customer",
+        "confidentiality",
+        "information-sharing"
+      ]
     }
   ]
 }

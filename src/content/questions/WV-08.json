@@ -8,166 +8,286 @@
       "key_topic_ref": "WV-08.1",
       "question_text": "A WV salesperson is asked to prepare a deed for a client. Can the salesperson legally do this?",
       "correct_answer": "No, that constitutes unauthorized practice of law",
-      "distractors": ["Yes, if the broker approves", "Yes, for standard residential transactions", "Yes, with a disclaimer that it is not legal advice"],
+      "distractors": [
+        "Yes, if the broker approves",
+        "Yes, for standard residential transactions",
+        "Yes, with a disclaimer that it is not legal advice"
+      ],
       "explanation": "Licensees may fill in blanks on approved forms but may not draft legal documents or give legal advice. Preparing a deed is the practice of law and requires an attorney.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["scope", "UPL", "legal-documents"]
+      "tags": [
+        "scope",
+        "UPL",
+        "legal-documents"
+      ]
     },
     {
       "key_topic_ref": "WV-08.1",
       "question_text": "Which of the following activities is within a WV licensee's scope of practice?",
-      "correct_answer": "Filling in blanks on approved contract forms",
-      "distractors": ["Drafting a custom purchase agreement", "Giving legal advice on title issues", "Interpreting contract clauses for clients"],
-      "explanation": "WV licensees may fill in blanks on approved forms but cannot draft legal documents, give legal advice, or interpret legal provisions — those activities constitute unauthorized practice of law.",
+      "correct_answer": "Filling in the blanks on a standard contract form at the parties' direction",
+      "distractors": [
+        "Drafting a custom purchase agreement",
+        "Giving legal advice on title issues",
+        "Rendering an opinion on whether a clause is enforceable"
+      ],
+      "explanation": "Completing the blanks on a standard form at the parties' direction is ordinary brokerage work; drafting legal documents, giving legal advice and opining on enforceability are not. §30-40-19(a)(21) makes it a disciplinary ground to engage in \"the unlawful or unauthorized practice of law as defined by the Supreme Court of Appeals of West Virginia\" — so the boundary is set by the Court, not by the Commission. Note that the WVREC promulgates only the Notice of Agency Relationship form; it has not adopted or approved standard purchase contracts.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["scope", "approved-forms", "practice"]
+      "tags": [
+        "scope",
+        "approved-forms",
+        "practice"
+      ]
     },
     {
       "key_topic_ref": "WV-08.1",
       "question_text": "A buyer asks their WV salesperson whether a contract clause will hold up in court. How should the salesperson respond?",
-      "correct_answer": "Refer the buyer to an attorney",
-      "distractors": ["Provide their professional legal opinion", "Assure the buyer the clause is enforceable", "Research the issue and report back"],
-      "explanation": "Interpreting contract clauses or providing legal opinions constitutes unauthorized practice of law. The licensee should refer the client to a licensed attorney.",
+      "correct_answer": "Advise the buyer to consult an attorney of their own choosing",
+      "distractors": [
+        "Provide their professional legal opinion",
+        "Assure the buyer the clause is enforceable",
+        "Recommend a specific attorney the brokerage works with"
+      ],
+      "explanation": "Opining on whether a clause will hold up in court is the unauthorized practice of law (§30-40-19(a)(21)). The right move is to tell the buyer to consult an attorney of the buyer's own choosing. Be careful about naming one: §30-40-19(a)(20) makes it a disciplinary ground to \"procure an attorney for any client or customer, or solicit legal business for any attorney-at-law.\"",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["scope", "UPL", "referral"]
+      "tags": [
+        "scope",
+        "UPL",
+        "referral"
+      ]
     },
     {
       "key_topic_ref": "WV-08.1",
       "question_text": "A WV salesperson with a broker license works as an associate broker. What type of activities can they perform?",
       "correct_answer": "Salesperson-scope activities under broker supervision",
-      "distractors": ["All broker-level activities done independently", "Only listing and selling residential properties", "Only activities pre-approved by their clients"],
+      "distractors": [
+        "All broker-level activities done independently",
+        "Only listing and selling residential properties",
+        "Only activities pre-approved by their clients"
+      ],
       "explanation": "An associate broker works under another broker's supervision and operates within the scope of their license type, similar to a salesperson despite holding broker qualifications.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["scope", "associate-broker", "supervision"]
+      "tags": [
+        "scope",
+        "associate-broker",
+        "supervision"
+      ]
     },
     {
       "key_topic_ref": "WV-08.1",
-      "question_text": "A WV licensee wants to help a client complete a standard WV real estate contract. What is permitted?",
-      "correct_answer": "Fill in blanks on the approved form only",
-      "distractors": ["Add custom clauses as needed", "Modify pre-printed contract language", "Draft addenda without attorney review"],
-      "explanation": "WV licensees may fill in blanks on approved forms but may not draft legal documents, add custom clauses, or modify pre-printed language. Any customization requires an attorney.",
+      "question_text": "A WV licensee is helping a client complete a standard purchase contract. Which of these is safely within the licensee's scope?",
+      "correct_answer": "Filling in the blanks to record what the parties have agreed",
+      "distractors": [
+        "Drafting new clauses to address a novel legal issue",
+        "Advising the client on the legal effect of a clause",
+        "Preparing the deed that will convey the property"
+      ],
+      "explanation": "Recording the parties' agreement in the blanks is within scope, and §30-40-26(f) in fact requires the licensee to \"make certain that all the terms and conditions of a real estate transaction are contained in any contract prepared by the licensee.\" Drafting new legal clauses, advising on legal effect, and preparing deeds are the practice of law, which §30-40-19(a)(21) defines by reference to the Supreme Court of Appeals of West Virginia.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["scope", "forms", "limitations"]
+      "tags": [
+        "scope",
+        "forms",
+        "limitations"
+      ]
     },
     {
       "key_topic_ref": "WV-08.2",
       "question_text": "In West Virginia, how are real estate commission rates determined?",
       "correct_answer": "They are negotiable between parties",
-      "distractors": ["Set by the WVREC at a fixed percentage", "Determined by the local Board of REALTORS", "Fixed at 6% by state law"],
+      "distractors": [
+        "Set by the WVREC at a fixed percentage",
+        "Determined by the local Board of REALTORS",
+        "Fixed at 6% by state law"
+      ],
       "explanation": "Commission compensation in WV is negotiable — there are no fixed fee schedules. Setting uniform commission rates would violate antitrust laws.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["compensation", "negotiable", "commissions"]
+      "tags": [
+        "compensation",
+        "negotiable",
+        "commissions"
+      ]
     },
     {
       "key_topic_ref": "WV-08.2",
       "question_text": "A client wants to pay their WV salesperson directly for helping sell a property. Is this permitted?",
       "correct_answer": "No, all compensation must go through the broker",
-      "distractors": ["Yes, direct payment is always permitted", "Yes, if both parties sign a written agreement", "Yes, for transactions under $50,000"],
-      "explanation": "All compensation to a WV licensee must be paid through the broker. Direct payment from clients to salespersons bypasses the broker's supervisory role and is prohibited.",
+      "distractors": [
+        "Yes, direct payment is always permitted",
+        "Yes, if both parties sign a written agreement",
+        "Yes, for transactions under $50,000"
+      ],
+      "explanation": "§30-40-19(a)(16) makes it a disciplinary ground for a salesperson or associate broker to accept compensation for any act under the article \"from any person other than his or her broker,\" and 174-1-15.2 bars collecting any money in a transaction except in the name of and with the consent of the responsible broker. One wrinkle: under the §30-40-4 definition of \"salesperson,\" a salesperson may designate an entity such as an LLC or S-corporation to receive the compensation payable to them — but the broker is still the one paying it.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["compensation", "through-broker", "prohibited"]
+      "tags": [
+        "compensation",
+        "through-broker",
+        "prohibited"
+      ]
     },
     {
       "key_topic_ref": "WV-08.2",
-      "question_text": "A WV listing agreement must include which information about compensation?",
-      "correct_answer": "Fees and commissions disclosed in writing",
-      "distractors": ["Only a verbal agreement on percentage", "The state-mandated minimum commission", "The broker's profit margin breakdown"],
-      "explanation": "Fees and commissions must be disclosed in writing in listing and buyer representation agreements. Written disclosure ensures both parties understand the compensation terms.",
+      "question_text": "Under §30-40-26, what must every contract in which a WV broker is obligated to represent a principal contain?",
+      "correct_answer": "A definite expiration date",
+      "distractors": [
+        "A state-mandated minimum commission",
+        "An automatic renewal unless the principal cancels",
+        "The broker's profit margin breakdown"
+      ],
+      "explanation": "§30-40-26(b) requires every representation contract to contain a definite expiration date and forbids any provision requiring the principal to notify the broker of an intent to cancel after that date — so automatic renewals are out. §30-40-26(c) bars any provision obligating the signer to pay the broker after expiration if they then sign with a different broker, and §30-40-26(a),(g),(h) require a true legible copy to every person who signs.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["compensation", "disclosure", "written"]
+      "tags": [
+        "compensation",
+        "disclosure",
+        "written"
+      ]
     },
     {
       "key_topic_ref": "WV-08.2",
       "question_text": "Are net listings prohibited in West Virginia?",
-      "correct_answer": "Not specifically prohibited but raise conflict concerns",
-      "distractors": ["Yes, they are illegal under WV law", "No, they are encouraged for transparency", "Only prohibited for residential properties"],
-      "explanation": "Net listings are not specifically prohibited in WV but raise significant conflict of interest concerns. In a net listing, the broker's compensation is everything above a set price.",
+      "correct_answer": "Yes, they are prohibited under WV law",
+      "distractors": [
+        "No, they are not specifically prohibited but raise conflict concerns",
+        "No, they are encouraged for transparency",
+        "Only prohibited for residential properties"
+      ],
+      "explanation": "West Virginia prohibits net listings by name. §30-40-19(a)(40) makes it a ground for refusal, suspension, revocation or other sanction to \"obtain, negotiate, or attempt to obtain or negotiate a contract whereby the broker is entitled to a commission only to the extent that the sales price exceeds a given amount, commonly referred to as a net listing.\"",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["compensation", "net-listing", "conflict-of-interest"]
+      "tags": [
+        "compensation",
+        "net-listing",
+        "conflict-of-interest"
+      ]
     },
     {
       "key_topic_ref": "WV-08.2",
       "question_text": "A seller offers to pay the salesperson a bonus directly for a quick sale. What should the salesperson do?",
       "correct_answer": "Decline and route the bonus through the broker",
-      "distractors": ["Accept the bonus as a personal gift from seller", "Accept the payment if the amount is under $500", "Report the bonus offer to the WVREC immediately"],
-      "explanation": "All compensation must be paid through the broker. The salesperson should decline direct payment and arrange for any bonus to be paid through proper channels via the employing broker.",
+      "distractors": [
+        "Accept the bonus as a personal gift from seller",
+        "Accept the payment if the amount is under $500",
+        "Report the bonus offer to the WVREC immediately"
+      ],
+      "explanation": "Accepting the bonus directly would violate §30-40-19(a)(16), and 174-1-15.2 forbids a salesperson from collecting any money in connection with a real estate transaction — \"whether as a commission, deposit, payment, rental, or otherwise\" — except in the name of and with the consent of the responsible broker. Route it through the broker.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["compensation", "direct-payment", "through-broker"]
+      "tags": [
+        "compensation",
+        "direct-payment",
+        "through-broker"
+      ]
     },
     {
       "key_topic_ref": "WV-08.3",
       "question_text": "West Virginia follows which legal doctrine regarding seller disclosure of property conditions?",
       "correct_answer": "Caveat emptor (buyer beware)",
-      "distractors": ["Full mandatory disclosure", "Caveat venditor (seller beware)", "Strict liability for defects"],
+      "distractors": [
+        "Full mandatory disclosure",
+        "Caveat venditor (seller beware)",
+        "Strict liability for defects"
+      ],
       "explanation": "WV follows caveat emptor more strictly than most states. Sellers are generally not required to volunteer property condition information, but may not actively conceal known defects.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["disclosure", "caveat-emptor", "property-condition"]
+      "tags": [
+        "disclosure",
+        "caveat-emptor",
+        "property-condition"
+      ]
     },
     {
       "key_topic_ref": "WV-08.3",
       "question_text": "A WV seller knows the basement floods during heavy rain but does not mention it to the buyer. Is this legal?",
       "correct_answer": "No, active concealment of known defects is prohibited",
-      "distractors": ["Yes, caveat emptor means no duty to disclose", "Yes, unless the buyer specifically asks", "Only illegal if the seller signed a disclosure form"],
-      "explanation": "While WV follows caveat emptor, sellers may NOT actively conceal known defects or make affirmative misrepresentations. Knowing about flooding and hiding it is active concealment.",
+      "distractors": [
+        "Yes, caveat emptor means no duty to disclose",
+        "Yes, unless the buyer specifically asks",
+        "Only illegal if the seller signed a disclosure form"
+      ],
+      "explanation": "Caveat emptor limits the duty to volunteer information, but it does not license concealment. For a licensee, §30-40-19(a)(22) makes it a disciplinary ground to commit or be a party to \"any material fraud, misrepresentation, concealment, conspiracy, collusion, trick, scheme, or other device whereby any other person relies upon the word, representation, or conduct of the licensee.\" A seller who hides a known flooding problem faces common-law fraud exposure on the same reasoning.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["disclosure", "active-concealment", "defects"]
+      "tags": [
+        "disclosure",
+        "active-concealment",
+        "defects"
+      ]
     },
     {
       "key_topic_ref": "WV-08.3",
       "question_text": "Does West Virginia require sellers to complete a standardized property condition disclosure form?",
       "correct_answer": "No, WV has no mandatory disclosure form",
-      "distractors": ["Yes, similar to California's TDS", "Yes, for properties built before 1978", "Yes, but only for properties over $100,000"],
+      "distractors": [
+        "Yes, similar to California's TDS",
+        "Yes, for properties built before 1978",
+        "Yes, but only for properties over $100,000"
+      ],
       "explanation": "WV does not have a mandatory standardized seller disclosure form equivalent to states like California. However, the federal lead-based paint disclosure still applies for pre-1978 homes.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["disclosure", "no-mandatory-form", "caveat-emptor"]
+      "tags": [
+        "disclosure",
+        "no-mandatory-form",
+        "caveat-emptor"
+      ]
     },
     {
       "key_topic_ref": "WV-08.3",
       "question_text": "A WV listing agent knows a property has termite damage but the seller instructs them not to disclose it. What should the agent do?",
       "correct_answer": "Disclose the material fact to all parties",
-      "distractors": ["Follow the seller's instructions to remain silent", "Only disclose if the buyer's agent asks", "Withdraw from the listing immediately"],
-      "explanation": "Agents must disclose material facts known to them, regardless of the seller's instructions. The agent's duty to disclose known material facts applies to all parties in the transaction.",
+      "distractors": [
+        "Follow the seller's instructions to remain silent",
+        "Only disclose if the buyer's agent asks",
+        "Withdraw from the listing immediately"
+      ],
+      "explanation": "A licensee cannot follow an instruction to conceal. §30-40-19(a)(22) reaches material fraud, misrepresentation and concealment, and (a)(37) reaches any conduct demonstrating bad faith or dishonest, fraudulent or improper dealing. The WVREC's Notice of Agency Relationship also commits every licensee to \"a duty of honest and fair dealing and good faith\" toward all consumers, whether or not they are clients.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["disclosure", "agent-duty", "material-facts"]
+      "tags": [
+        "disclosure",
+        "agent-duty",
+        "material-facts"
+      ]
     },
     {
       "key_topic_ref": "WV-08.3",
       "question_text": "Under WV's caveat emptor framework, what should agents recommend to buyers?",
       "correct_answer": "Obtain professional property inspections",
-      "distractors": ["Rely on the seller's verbal assurances", "Skip inspections to save money", "Trust the property's age as an indicator"],
+      "distractors": [
+        "Rely on the seller's verbal assurances",
+        "Skip inspections to save money",
+        "Trust the property's age as an indicator"
+      ],
       "explanation": "Because WV follows caveat emptor with no mandatory seller disclosure form, agents should recommend that buyers obtain professional inspections to protect themselves.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["disclosure", "buyer-protection", "inspections"]
+      "tags": [
+        "disclosure",
+        "buyer-protection",
+        "inspections"
+      ]
     }
   ]
 }
