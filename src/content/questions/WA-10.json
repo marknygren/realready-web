@@ -8,166 +8,286 @@
       "key_topic_ref": "WA-10.1",
       "question_text": "A broker deposits a client's earnest money into their personal checking account. What violation has occurred?",
       "correct_answer": "Commingling of trust and personal funds",
-      "distractors": ["Misrepresentation of property value", "Unauthorized practice of law", "Failure to disclose material facts"],
+      "distractors": [
+        "Misrepresentation of property value",
+        "Unauthorized practice of law",
+        "Failure to disclose material facts"
+      ],
       "explanation": "Commingling occurs when a broker mixes client trust funds with personal funds. Washington law strictly prohibits this practice. Client funds must be deposited into the firm's designated trust account.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["prohibited-conduct", "commingling", "trust-funds"]
+      "tags": [
+        "prohibited-conduct",
+        "commingling",
+        "trust-funds"
+      ]
     },
     {
       "key_topic_ref": "WA-10.1",
       "question_text": "A broker owns an investment property and submits an offer on a listing without disclosing their licensee status. What prohibition applies?",
       "correct_answer": "Undisclosed conflict of interest",
-      "distractors": ["Commingling of trust funds", "Unauthorized advertising activity", "Failure to supervise brokers"],
-      "explanation": "Self-dealing without disclosure is prohibited conduct in Washington. When a broker has a personal interest in a transaction, they must disclose the conflict of interest to all parties. Failure to disclose constitutes undisclosed self-dealing.",
+      "distractors": [
+        "Commingling of trust funds",
+        "Unauthorized advertising activity",
+        "Failure to supervise brokers"
+      ],
+      "explanation": "RCW 18.85.361(21) makes it a disciplinary ground to buy, sell, or lease any interest in real property, directly or through a third party, \"without disclosing in writing that the person is a real estate licensee.\" The disclosure must be in writing, and RCW 18.85.361(11) and (13) separately cover undisclosed profits and reports on property in which the licensee has an interest.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["prohibited-conduct", "self-dealing", "disclosure"]
+      "tags": [
+        "prohibited-conduct",
+        "self-dealing",
+        "disclosure"
+      ]
     },
     {
       "key_topic_ref": "WA-10.1",
-      "question_text": "A broker pays an unlicensed neighbor $500 for referring a buyer client. Is this permitted?",
-      "correct_answer": "No, referral fees to unlicensed persons are prohibited",
-      "distractors": ["Yes, if the payment amount is under $1,000", "Yes, if disclosed to the buyer client first", "Yes, if approved by the designated broker first"],
-      "explanation": "Washington prohibits inducement to unlicensed persons for referrals except as specifically permitted by law. Paying a referral fee to an unlicensed individual is a violation of broker conduct rules.",
+      "question_text": "A broker promises an unlicensed neighbor 10% of the broker's commission if a referred buyer closes. Is this permitted?",
+      "correct_answer": "No, contingent referral compensation is prohibited",
+      "distractors": [
+        "Yes, if the payment is under $1,000",
+        "Yes, if disclosed to the buyer first",
+        "Yes, if the designated broker approves it"
+      ],
+      "explanation": "RCW 18.85.301(1) makes it unlawful to pay any part of a commission to a person who performs real estate brokerage services without a license. The narrow safe harbor in RCW 18.85.151(8) exempts a person who provides referrals but is \"not involved in the negotiation, execution of documents, or related real estate brokerage services\" and whose compensation is \"not contingent upon receipt of compensation by the licensee or the real estate firm.\" Tying the neighbor's payment to a closed transaction and the broker's commission destroys the exemption. Note also that a broker may be paid only through the firm's designated broker (RCW 18.85.361(19)).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["prohibited-conduct", "referral-fees", "unlicensed-persons"]
+      "tags": [
+        "prohibited-conduct",
+        "referral-fees",
+        "RCW-18.85.151"
+      ]
     },
     {
       "key_topic_ref": "WA-10.1",
       "question_text": "A broker tells a buyer the roof was replaced last year, knowing the roof is original. Which violation is this?",
       "correct_answer": "Misrepresentation or false statement",
-      "distractors": ["Failure to provide a disclosure form", "Commingling of client funds", "Operating without a license"],
+      "distractors": [
+        "Failure to provide a disclosure form",
+        "Commingling of client funds",
+        "Operating without a license"
+      ],
       "explanation": "Making false statements or misrepresentations about property conditions is prohibited broker conduct in Washington. Knowingly providing false information about the roof constitutes a material misrepresentation.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["prohibited-conduct", "misrepresentation", "false-statements"]
+      "tags": [
+        "prohibited-conduct",
+        "misrepresentation",
+        "false-statements"
+      ]
     },
     {
       "key_topic_ref": "WA-10.1",
       "question_text": "A broker refuses to show a property to a family with children. Which prohibited practice applies?",
       "correct_answer": "Discrimination",
-      "distractors": ["Commingling of funds", "Unauthorized practice of law", "Failure to account for funds"],
+      "distractors": [
+        "Commingling of funds",
+        "Unauthorized practice of law",
+        "Failure to account for funds"
+      ],
       "explanation": "Discrimination is prohibited broker conduct in Washington. Familial status is a protected class under both federal fair housing law and Washington's Law Against Discrimination (WLAD). Refusing to show a property based on family composition is illegal.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["prohibited-conduct", "discrimination", "familial-status"]
+      "tags": [
+        "prohibited-conduct",
+        "discrimination",
+        "familial-status"
+      ]
     },
     {
       "key_topic_ref": "WA-10.2",
-      "question_text": "A broker fails to complete continuing education before their renewal deadline. What disciplinary action may result?",
-      "correct_answer": "License suspension or revocation",
-      "distractors": ["A verbal warning only", "Automatic license upgrade", "A 30-day grace period with no penalty"],
-      "explanation": "Failure to complete continuing education is grounds for disciplinary action in Washington, which may include license suspension or revocation. Other possible penalties include fines, required additional education, or probation with conditions.",
+      "question_text": "A broker cannot attest to the required core and fair housing CE hours at renewal. What happens?",
+      "correct_answer": "The renewal is denied",
+      "distractors": [
+        "The license is immediately revoked",
+        "A 30-day grace period applies automatically",
+        "The DOL waives the requirement on request"
+      ],
+      "explanation": "WAC 308-124A-790(1)(d) provides that \"failure to attest to the successful completion of the prescribed core and Washington real estate fair housing curricula clock hours shall result in denial of license renewal.\" The license then expires, and continuing to practice on it is what exposes the broker to discipline for unlicensed activity under RCW 18.85.331 and 18.85.411.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["disciplinary-actions", "continuing-education", "suspension"]
+      "tags": [
+        "disciplinary-actions",
+        "continuing-education",
+        "WAC-308-124A-790"
+      ]
     },
     {
       "key_topic_ref": "WA-10.2",
       "question_text": "A broker is convicted of real estate fraud. Which of the following is a potential consequence?",
       "correct_answer": "Revocation and civil penalties",
-      "distractors": ["A written warning letter only", "Mandatory community service hours", "A required transfer to another firm"],
-      "explanation": "A criminal conviction related to real estate triggers disciplinary proceedings in Washington. Penalties can include license suspension or revocation, fines, civil penalties, required additional education, and probation with conditions.",
+      "distractors": [
+        "A written warning letter only",
+        "Mandatory community service hours",
+        "A required transfer to another firm"
+      ],
+      "explanation": "A conviction related to the practice of real estate is unprofessional conduct under RCW 18.235.130(1) and (13). RCW 18.235.110(1) sets the sanction menu: revocation, suspension, practice restriction, remedial education, practice monitoring, censure or reprimand, probation, a fine not to exceed $5,000 per violation, denial of an application, or other corrective action, plus reimbursement of the department's investigative costs.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["disciplinary-actions", "criminal-conviction", "revocation"]
+      "tags": [
+        "disciplinary-actions",
+        "criminal-conviction",
+        "revocation"
+      ]
     },
     {
       "key_topic_ref": "WA-10.2",
       "question_text": "A broker continues to practice after their license expires. What disciplinary trigger does this represent?",
       "correct_answer": "Operating under an expired license",
-      "distractors": ["Failure to disclose dual agency", "Commingling client funds", "Advertising without firm name"],
-      "explanation": "Operating under an expired license is a specific trigger for disciplinary action in Washington. The broker is essentially conducting unlicensed practice, which can result in suspension, fines, and civil penalties.",
+      "distractors": [
+        "Failure to disclose dual agency",
+        "Commingling client funds",
+        "Advertising without firm name"
+      ],
+      "explanation": "Practicing on an expired license is unlicensed activity: RCW 18.85.331 makes it unlawful to act as a broker without a license, and RCW 18.85.411 makes any violation of the chapter a gross misdemeanor. Administratively, the DOL may impose any sanction in RCW 18.235.110(1), including a fine of up to $5,000 per violation and denial of a renewal application.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["disciplinary-actions", "expired-license", "unlicensed-practice"]
+      "tags": [
+        "disciplinary-actions",
+        "expired-license",
+        "unlicensed-practice"
+      ]
     },
     {
       "key_topic_ref": "WA-10.2",
       "question_text": "A broker's application for license renewal contains a material misrepresentation. What is the likely consequence?",
       "correct_answer": "Disciplinary action including revocation",
-      "distractors": ["The renewal is processed normally", "A one-time fine with no formal record", "Automatic transfer to inactive status only"],
+      "distractors": [
+        "The renewal is processed normally",
+        "A one-time fine with no formal record",
+        "Automatic transfer to inactive status only"
+      ],
       "explanation": "Material misrepresentation on a license application is a specific trigger for disciplinary action in Washington. This can lead to license suspension or revocation, fines, and other penalties depending on the severity of the misrepresentation.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["disciplinary-actions", "misrepresentation", "application"]
+      "tags": [
+        "disciplinary-actions",
+        "misrepresentation",
+        "application"
+      ]
     },
     {
       "key_topic_ref": "WA-10.2",
       "question_text": "An investigation reveals a pattern of negligent errors across multiple transactions by the same broker. What type of disciplinary trigger is this?",
       "correct_answer": "Pattern of negligence",
-      "distractors": ["Single isolated incident", "Minor administrative error", "Voluntary license surrender"],
-      "explanation": "A pattern of negligence across multiple transactions is a specific trigger for disciplinary action in Washington. Unlike a single mistake, a pattern demonstrates ongoing incompetence that puts consumers at risk.",
+      "distractors": [
+        "Single isolated incident",
+        "Minor administrative error",
+        "Voluntary license surrender"
+      ],
+      "explanation": "RCW 18.235.130(4) makes \"incompetence, negligence, or malpractice that results in harm or damage to another or that creates an unreasonable risk of harm or damage to another\" unprofessional conduct — a single instance can qualify, and a pattern across transactions is strong evidence of it. RCW 18.85.361(23) adds any conduct in a real estate transaction demonstrating bad faith, dishonesty, untrustworthiness, or incompetence.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["disciplinary-actions", "negligence", "pattern"]
+      "tags": [
+        "disciplinary-actions",
+        "negligence",
+        "pattern"
+      ]
     },
     {
       "key_topic_ref": "WA-10.3",
       "question_text": "A consumer is defrauded by a Washington broker and wants compensation from a state recovery fund. What will they find?",
       "correct_answer": "Washington does NOT have a recovery fund",
-      "distractors": ["They can claim up to $50,000", "They can claim up to $100,000", "They must first win a court judgment"],
+      "distractors": [
+        "They can claim up to $50,000",
+        "They can claim up to $100,000",
+        "They must first win a court judgment"
+      ],
       "explanation": "Unlike many other states, Washington does NOT have a consumer recovery fund. Consumers who are harmed by broker misconduct must pursue remedies through civil litigation or DOL disciplinary proceedings.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["consumer-protection", "no-recovery-fund", "remedies"]
+      "tags": [
+        "consumer-protection",
+        "no-recovery-fund",
+        "remedies"
+      ]
     },
     {
       "key_topic_ref": "WA-10.3",
-      "question_text": "A consumer suffers a $15,000 loss due to broker fraud and asks about a state recovery fund. What should they know?",
-      "correct_answer": "Washington has no recovery fund",
-      "distractors": ["Claims are capped at $10,000", "They must first win a court judgment", "The fund covers up to $50,000"],
-      "explanation": "Unlike many other states, Washington does not maintain a consumer recovery fund. Consumers harmed by broker misconduct must pursue remedies through civil litigation or DOL disciplinary proceedings. There is no state fund to guarantee payment.",
+      "question_text": "Fines paid by disciplined Washington licensees and interest from pooled trust accounts flow into the real estate education program account. May a defrauded consumer be paid from it?",
+      "correct_answer": "No, it funds education only",
+      "distractors": [
+        "Yes, up to $20,000 per claim",
+        "Yes, after a court judgment",
+        "Yes, but only for trust account losses"
+      ],
+      "explanation": "RCW 18.85.321 creates the real estate education program account, funded by the 25% share of pooled trust account interest under RCW 18.85.311 and by all fines imposed under chapter 18.85 RCW. By its terms the money \"may be used only for the purposes of carrying out the director's programs for education of real estate licensees, others in the real estate industry, and members of the public.\" It is not a recovery fund, and Washington has none — a harmed consumer's remedy is civil litigation.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["consumer-protection", "no-recovery-fund", "civil-remedies"]
+      "tags": [
+        "consumer-protection",
+        "education-program-account",
+        "RCW-18.85.321"
+      ]
     },
     {
       "key_topic_ref": "WA-10.3",
       "question_text": "A buyer suffers financial loss due to their broker's misconduct. What remedy is available in Washington?",
       "correct_answer": "Civil litigation against the broker",
-      "distractors": ["Filing a recovery fund claim", "Automatic reimbursement from DOL", "State-funded arbitration"],
+      "distractors": [
+        "Filing a recovery fund claim",
+        "Automatic reimbursement from DOL",
+        "State-funded arbitration"
+      ],
       "explanation": "Since Washington has no consumer recovery fund, harmed consumers must pursue remedies through civil litigation against the broker or through DOL disciplinary proceedings. The courts can award damages, but no state fund exists to guarantee payment.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["consumer-protection", "civil-litigation", "remedies"]
+      "tags": [
+        "consumer-protection",
+        "civil-litigation",
+        "remedies"
+      ]
     },
     {
       "key_topic_ref": "WA-10.3",
       "question_text": "A broker's misconduct causes a client financial harm. The DOL suspends the broker's license. Does the client receive compensation from this action?",
       "correct_answer": "No, DOL discipline does not compensate clients",
-      "distractors": ["Yes, the suspension triggers automatic payment", "Yes, from the broker's license bond", "Yes, up to $25,000 from the DOL"],
+      "distractors": [
+        "Yes, the suspension triggers automatic payment",
+        "Yes, from the broker's license bond",
+        "Yes, up to $25,000 from the DOL"
+      ],
       "explanation": "DOL disciplinary proceedings protect the public by penalizing the licensee but do not directly compensate harmed consumers. The client must pursue a separate civil lawsuit against the broker to recover financial losses.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["consumer-protection", "DOL-discipline", "compensation-limits"]
+      "tags": [
+        "consumer-protection",
+        "DOL-discipline",
+        "compensation-limits"
+      ]
     },
     {
       "key_topic_ref": "WA-10.3",
       "question_text": "A consumer files a complaint against a broker with the Washington DOL. What type of proceeding results?",
       "correct_answer": "DOL disciplinary proceedings",
-      "distractors": ["Criminal prosecution", "Recovery fund hearing", "Automatic license revocation"],
+      "distractors": [
+        "Criminal prosecution",
+        "Recovery fund hearing",
+        "Automatic license revocation"
+      ],
       "explanation": "Consumer complaints filed with the Washington Department of Licensing trigger disciplinary proceedings. The DOL investigates and may impose penalties such as fines, suspension, or revocation, but does not directly compensate the consumer.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["consumer-protection", "DOL", "disciplinary-proceedings"]
+      "tags": [
+        "consumer-protection",
+        "DOL",
+        "disciplinary-proceedings"
+      ]
     }
   ]
 }
