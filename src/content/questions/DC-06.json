@@ -141,7 +141,7 @@
       "question_text": "DLCP has the authority to do what regarding a broker's trust account?",
       "correct_answer": "Audit the account records",
       "distractors": ["Freeze the account without notice", "Transfer funds to the Guaranty Fund", "Close the account and redistribute funds"],
-      "explanation": "DLCP has the authority to audit trust account records to ensure compliance. Trust account records must be maintained and available for inspection. Freezing or closing accounts would require a court order.",
+      "explanation": "The Board has authority to audit escrow records. DCMR 17-2702 requires the broker to notify the Board within 14 days of opening an escrow account - giving the account name, number and institution - and to file written authorization letting the Board examine the account documents held by the financial institution. Freezing or closing an account would require a court order.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -149,14 +149,14 @@
     },
     {
       "key_topic_ref": "DC-06.3",
-      "question_text": "How long must a DC broker maintain trust account records?",
-      "correct_answer": "3 years from closing or listing termination",
-      "distractors": ["1 year from the date of deposit", "5 years from the transaction date", "7 years as required by the IRS"],
-      "explanation": "DC requires brokers to maintain all transaction records, including trust account records, for 3 years from the date of closing or termination of the listing agreement.",
-      "difficulty": "medium",
+      "question_text": "A DC broker holds escrow funds for more than 90 days. What does DC law require?",
+      "correct_answer": "The funds must bear interest beginning on day 91",
+      "distractors": ["The funds must be returned to the depositor", "The broker must transfer the funds to DLCP", "The broker may begin charging a monthly holding fee"],
+      "explanation": "Under D.C. Code § 42-1704 and DCMR 17-2702, escrow money held for 90 days or more must earn interest beginning on the 91st day, at the highest rate the institution offers among its federal savings, account or certificate-of-deposit rates. The financial institution may deduct up to $15 in service fees.",
+      "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["record retention", "trust account", "3 years"]
+      "tags": ["escrow", "interest", "90 days", "trust accounts"]
     },
     {
       "key_topic_ref": "DC-06.3",

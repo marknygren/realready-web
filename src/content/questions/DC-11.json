@@ -7,9 +7,9 @@
     {
       "key_topic_ref": "DC-11.1",
       "question_text": "What right does TOPA give tenants in DC when their landlord decides to sell?",
-      "correct_answer": "A right of first refusal to purchase the property",
+      "correct_answer": "The right to an Offer of Sale and to buy before a third party",
       "distractors": ["A guaranteed lease extension of 2 years", "The right to match any buyer's offer after closing", "Automatic relocation assistance of $10,000"],
-      "explanation": "TOPA gives DC tenants a right of first refusal when a landlord decides to sell a rental property. Tenants must receive written notice and have a defined period to express interest in purchasing.",
+      "explanation": "TOPA requires the owner to give tenants a written Offer of Sale and an opportunity to purchase before selling to a third party. A separate right of first refusal under D.C. Code § 42-3404.08 lets tenants match a third-party contract in defined circumstances.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -73,9 +73,9 @@
     {
       "key_topic_ref": "DC-11.2",
       "question_text": "A 3-unit building in DC is owned by an individual who owns no other properties. Under the RENTAL Act, is this building exempt from TOPA?",
-      "correct_answer": "Yes, small 2-4 unit buildings from non-corporate sole owners are exempt",
+      "correct_answer": "Yes, 2-4 unit buildings not majority-owned by a corporation",
       "distractors": ["No, all rental buildings are subject to TOPA regardless of size", "Only if every unit is occupied by the owner's family members", "Only if the building was originally constructed after 1975"],
-      "explanation": "The RENTAL Act exempts 2-4 unit buildings when not owned by a corporate entity or an individual who owns multiple properties in DC. This is the small building exemption.",
+      "explanation": "D.C. Code § 42-3404.10 applies the full 2-4 unit TOPA process only where the building is owned in majority by a business corporation. A building held by an individual owner falls outside those requirements, although the notice obligation under § 42-3404.09(b) still applies.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -116,14 +116,14 @@
     },
     {
       "key_topic_ref": "DC-11.3",
-      "question_text": "Under the RENTAL Act, what is the maximum relocation assistance a tenant can negotiate through TOPA?",
-      "correct_answer": "The lesser of 1 year's rent or $12,000",
-      "distractors": ["$5,000 regardless of rent amount", "3 months' rent with no dollar cap", "6 months' rent or $25,000"],
-      "explanation": "The RENTAL Act caps negotiable relocation assistance at the lesser of one year's rent or $12,000 (adjusted annually). This is one of the consideration limits imposed on TOPA negotiations.",
-      "difficulty": "medium",
+      "question_text": "Under the RENTAL Act, what consideration may a DC tenant accept for assigning TOPA rights?",
+      "correct_answer": "Any consideration the tenant finds acceptable, after cooling-off",
+      "distractors": ["Relocation assistance only, capped at $12,000", "Nothing, because assignment for value is prohibited", "Only the appraised value of the tenant's own unit"],
+      "explanation": "D.C. Code § 42-3404.06, as rewritten by the RENTAL Act, provides that the exercise, assignment or sale of tenant rights may be for any consideration which the tenant, in the tenant's sole discretion, finds acceptable, provided the cooling-off period has elapsed. Caps on consideration appeared in an earlier version of the bill but were removed before it became law.",
+      "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["RENTAL Act", "relocation assistance", "cap"]
+      "tags": ["TOPA", "RENTAL Act", "assignment", "consideration"]
     },
     {
       "key_topic_ref": "DC-11.3",
@@ -138,21 +138,21 @@
     },
     {
       "key_topic_ref": "DC-11.3",
-      "question_text": "Under the RENTAL Act, which of the following can tenants negotiate for through TOPA?",
-      "correct_answer": "Building affordability caps on rental rates",
-      "distractors": ["Cash payments to individual tenants exceeding $12,000", "Ownership shares in the new owner's LLC", "A guaranteed right to purchase in 5 years"],
-      "explanation": "Tenants may negotiate for relocation assistance (capped), building affordability, organizing expenses, and specified improvements. Cash payments beyond the cap and equity interests are not among the permitted considerations.",
+      "question_text": "A TOPA assignee wants to reassign the purchase rights to another party. What does the RENTAL Act allow?",
+      "correct_answer": "Reassignment only to an entity the assignee can bind, for no consideration",
+      "distractors": ["Reassignment to any buyer for any price", "Reassignment only back to the original tenants", "No reassignment under any circumstances"],
+      "explanation": "Under D.C. Code § 42-3404.06(b), a party who receives assigned TOPA rights may reassign them only to a private or nonprofit corporation or partnership of which they are an owner, managing member or officer who can legally bind the entity - and no consideration is allowed in exchange for a secondary assignment.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["RENTAL Act", "consideration limits", "negotiation"]
+      "tags": ["TOPA", "secondary assignment", "RENTAL Act"]
     },
     {
       "key_topic_ref": "DC-11.3",
       "question_text": "What must a TOPA sale notice disclose under the RENTAL Act?",
       "correct_answer": "Availability of no-cost tenant support providers",
       "distractors": ["The seller's net proceeds from the sale", "Names of all prospective buyers", "The commission rate of the listing agent"],
-      "explanation": "The RENTAL Act requires sale notices to disclose the availability of no-cost technical assistance and list certified Tenant Support Providers who can help tenants evaluate their TOPA rights.",
+      "explanation": "D.C. Code § 42-3404.03 requires the Offer of Sale to tell tenants they have a right to no-cost technical assistance and training on their rights, and to list the tenant support providers certified by the Mayor as of the date of the offer. The provider-certification program itself is subject to appropriations.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,

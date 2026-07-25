@@ -53,7 +53,7 @@
       "question_text": "Which of the following is required as part of the DC salesperson licensing process?",
       "correct_answer": "Background check with fingerprinting",
       "distractors": ["Two years of real estate experience", "Completion of a post-licensing course", "Passing a separate ethics examination"],
-      "explanation": "DC requires a background check including fingerprinting for all salesperson license applicants. There is no experience requirement for the salesperson license or separate post-licensing course mandate.",
+      "explanation": "DC applicants must clear a criminal background check, and the DLCP application process uses fingerprint-based screening. DCMR 17-2610 sets the underlying standard: an applicant may not have been convicted of an offense that bears directly on fitness to be licensed, and must be a high school graduate or hold an equivalency certificate and be able to read, write and understand English. There is no experience requirement or post-licensing course for the salesperson license.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -140,23 +140,23 @@
       "key_topic_ref": "DC-02.3",
       "question_text": "Which person is exempt from DC real estate licensing requirements?",
       "correct_answer": "An owner selling their own property",
-      "distractors": ["A paid property locator for tenants", "A salesperson working without a broker", "An unlicensed assistant showing properties"],
-      "explanation": "Owners selling or leasing their own property are generally exempt from licensing. Paid property locators, salespersons (who must have broker sponsorship), and unlicensed assistants performing licensed activities all need licensing or supervision.",
+      "distractors": ["A salesperson working without a broker", "A person who negotiates a sale for a friend for a fee", "A firm that manages apartment buildings for owners"],
+      "explanation": "Owners selling or leasing their own real estate are exempt under DCMR 17-2624.3(b). DC's exemption list is broader than many states': it also covers court-appointed fiduciaries and attorneys in ordinary practice, trustees and auctioneers acting under a power of sale, and anyone who for a fee identifies rental units available for rent. Negotiating a sale for compensation and managing property for others both require a license.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exemptions", "license required", "owner"]
+      "tags": ["exemptions", "licensing", "owner", "DCMR 17-2624"]
     },
     {
       "key_topic_ref": "DC-02.3",
-      "question_text": "Auctioning real property in DC on behalf of another person for compensation requires what?",
-      "correct_answer": "A real estate license",
-      "distractors": ["Only an auctioneer permit", "No license if the sale is court-ordered", "Only a business license from DLCP"],
-      "explanation": "Auctioning real property on behalf of others for compensation is a licensed real estate activity in DC, requiring the auctioneer to hold a valid real estate license.",
+      "question_text": "Which real estate auction in DC may be conducted without a real estate license?",
+      "correct_answer": "A foreclosure auction by a trustee under a deed of trust",
+      "distractors": ["An auction of a client's home arranged for a commission", "An auction of a brokerage's listed properties for a fee", "An auction of a developer's unsold condo units for a fee"],
+      "explanation": "DCMR 17-2624.3(c) exempts any trustee or auctioneer acting under authority of a power of sale in a mortgage, deed of trust or similar instrument securing a bona fide debt, and 17-2624.1 exempts persons acting under the order of a court. Auctioning real property for others for compensation outside those exemptions is a licensed activity.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["auction", "license required", "activities"]
+      "tags": ["auctions", "exemptions", "foreclosure", "licensing"]
     },
     {
       "key_topic_ref": "DC-02.3",
