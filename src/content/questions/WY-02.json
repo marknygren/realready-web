@@ -6,33 +6,33 @@
   "questions": [
     {
       "key_topic_ref": "WY-02.1",
-      "question_text": "How many total hours of pre-license education must a Wyoming salesperson candidate complete?",
-      "correct_answer": "54 hours",
+      "question_text": "Wyoming statute sets a minimum number of pre-license class hours for a salesperson applicant. What is that statutory minimum?",
+      "correct_answer": "30 class hours",
       "distractors": [
-        "60 hours",
-        "40 hours",
-        "90 hours"
+        "54 class hours",
+        "40 class hours",
+        "60 class hours"
       ],
-      "explanation": "Wyoming requires salesperson candidates to complete 54 total hours of pre-license education, divided between Salesperson I (approximately 30 hours) and Salesperson II (approximately 24 hours). Both courses must be completed before sitting for the licensing exam.",
-      "difficulty": "easy",
+      "explanation": "W.S. 33-28-106(f)(xvi) requires a salesperson applicant to furnish evidence of completing \"not less than thirty (30) class hours\" in a Commission-approved course of study. That 30-hour floor is the combined minimum for Salesperson Course I and Salesperson Course II. WREC's published course outlines note the Commission prefers Course I alone run at least 40 hours and recommends the separate Wyoming Law course run at least 7 hours, but those are preferences, not mandates - so actual approved provider packages run well above 30 hours and vary by school. The 60-hour figure is the broker requirement under W.S. 33-28-106(e)(viii).",
+      "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["pre-license", "education", "salesperson", "hours"]
+      "tags": ["pre-license", "education", "salesperson", "class_hours", "33-28-106"]
     },
     {
       "key_topic_ref": "WY-02.1",
-      "question_text": "A candidate scores 68% on the state portion of the Wyoming licensing exam. What is the result?",
-      "correct_answer": "Fails; must retake the state portion",
+      "question_text": "A candidate earns a scaled score of 68 on the state portion of the Wyoming licensing exam and passes the national portion. What is the result?",
+      "correct_answer": "Fails the state portion; only that portion must be retaken",
       "distractors": [
-        "Passes with the minimum allowed score",
-        "May appeal to WREC for a score waiver",
-        "Must retake the entire licensing exam"
+        "Passes, because 68 is above the 60-point cutoff",
+        "Fails and must retake both portions immediately",
+        "May appeal to WREC for a score waiver"
       ],
-      "explanation": "Wyoming requires a minimum score of 70% on each portion of the split licensing exam. Scoring 68% on the state portion means the candidate has failed that section and must retake it. The national portion result, if passing, is typically retained.",
+      "explanation": "Wyoming reports a scaled score from 0 to 100, and the passing score is 75 on each portion for both salesperson and broker candidates. A 68 is below 75, so the state portion is failed. Pearson VUE's handbook stresses that the scaled score is \"neither the number nor the percentage of questions answered correctly\" - Wyoming has no percentage-based passing standard. Because the exam is split, only the failed portion must be retaken, but it must be passed within six months of the portion already passed or both portions must be retaken.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exam", "passing_score", "Pearson_VUE", "state_portion"]
+      "tags": ["exam", "passing_score", "scaled_score", "Pearson_VUE", "retake"]
     },
     {
       "key_topic_ref": "WY-02.1",
@@ -43,7 +43,7 @@
         "Prometric",
         "WREC directly"
       ],
-      "explanation": "Wyoming contracts with Pearson VUE to administer its real estate licensing examinations. Candidates schedule and take the split exam (national and state portions) at Pearson VUE testing centers. Each portion requires a minimum score of 70% to pass.",
+      "explanation": "Wyoming contracts with Pearson VUE, which \"develops and administers the real estate exam on behalf of the Wyoming Real Estate Commission.\" Candidates schedule and take the split exam (national and state portions) at Pearson VUE test centers or online via OnVUE. Each portion is reported as a scaled score from 0 to 100, and a scaled score of 75 is required to pass each portion.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -51,18 +51,18 @@
     },
     {
       "key_topic_ref": "WY-02.1",
-      "question_text": "A salesperson candidate completed Salesperson I but not Salesperson II. Can the candidate sit for the licensing exam?",
-      "correct_answer": "No, both courses must be completed first",
+      "question_text": "A first-time Wyoming salesperson applicant has completed Salesperson Course I only. Which courses still remain before the applicant may be licensed?",
+      "correct_answer": "Salesperson Course II and the Wyoming Law course",
       "distractors": [
-        "Yes, Salesperson I alone is sufficient",
-        "Yes, if the candidate has broker sponsorship",
-        "Yes, but only the national portion"
+        "Nothing further; Course I alone is sufficient",
+        "Only Salesperson Course II",
+        "Only the Wyoming Law course"
       ],
-      "explanation": "Wyoming requires completion of both Salesperson I (approximately 30 hours) and Salesperson II (approximately 24 hours) before a candidate is eligible to sit for the licensing exam. Completing only one course does not satisfy the 54-hour pre-license education requirement.",
+      "explanation": "WREC requires a first-time salesperson applicant to complete and pass three pre-license courses: Salesperson Course I, Salesperson Course II, and the Wyoming Law course. Proof of all coursework, completed within one year prior to the date of application, must accompany the license application (WREC Rules Ch. 1, Sec. 3(a)(vii)). An applicant already holding an active license in another jurisdiction is only required to take the Wyoming Law course and Salesperson Course II. Course I may alternatively be satisfied by passing an approved challenge examination in lieu of actual clock hours.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["pre-license", "education", "salesperson_I", "salesperson_II"]
+      "tags": ["pre-license", "education", "salesperson_I", "salesperson_II", "wyoming_law_course"]
     },
     {
       "key_topic_ref": "WY-02.1",
@@ -73,26 +73,26 @@
         "An oral examination before WREC",
         "Three separate exams taken over 3 days"
       ],
-      "explanation": "Wyoming uses a split examination format with separate national and state portions, each requiring a minimum passing score of 70%. This format allows the exam to test both general real estate knowledge and Wyoming-specific laws and practices.",
-      "difficulty": "hard",
+      "explanation": "Wyoming uses a split examination format with separate national and state portions, each scored independently on a scaled 0-100 basis with 75 required to pass. Candidates get 2.5 hours for the 80-question national portion and 1.5 hours for the 40-question Wyoming portion. The split format lets the exam test general real estate knowledge and Wyoming-specific law separately, and it lets a candidate who passes one portion retake only the other.",
+      "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": ["exam", "split_exam", "format", "national_state"]
     },
     {
       "key_topic_ref": "WY-02.2",
-      "question_text": "Which license type allows a person to operate independently without a supervising broker in Wyoming?",
-      "correct_answer": "Broker license",
+      "question_text": "Which Wyoming license type may operate independently, without being licensed under another broker?",
+      "correct_answer": "Responsible broker",
       "distractors": [
-        "Salesperson license",
-        "Associate license",
-        "Apprentice license"
+        "Associate broker",
+        "Salesperson",
+        "Any licensee with five years of experience"
       ],
-      "explanation": "In Wyoming, a broker license permits independent practice without supervision. A salesperson must work under a responsible broker at all times. The responsible broker is the designated broker for a company who oversees all licensee activities within that firm.",
-      "difficulty": "easy",
+      "explanation": "Only a responsible broker operates independently. W.S. 33-28-102(b)(xlix) defines a responsible broker as one who supervises the licensees of a real estate company or who operates a single license office or sole proprietorship. Both other individual license types are supervised: a salesperson \"is licensed by the commission under a responsible broker\" (33-28-102(b)(li)), and an associate broker likewise \"is licensed by the commission under a responsible broker and does not have supervisory responsibilities\" (33-28-102(b)(iv)). Holding a broker-level license alone is therefore not enough to practice independently in Wyoming.",
+      "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["license_types", "broker", "independent_practice"]
+      "tags": ["license_types", "responsible_broker", "associate_broker", "independent_practice", "33-28-102"]
     },
     {
       "key_topic_ref": "WY-02.2",
@@ -112,17 +112,17 @@
     {
       "key_topic_ref": "WY-02.2",
       "question_text": "What is the role of a responsible broker in Wyoming?",
-      "correct_answer": "The designated broker overseeing a company",
+      "correct_answer": "The broker responsible for supervising a firm's licensees",
       "distractors": [
         "Any broker who holds an active license",
         "A salesperson with 10+ years experience",
         "A WREC-appointed compliance officer"
       ],
-      "explanation": "In Wyoming, a responsible broker is the designated broker for a real estate company who supervises all licensed activities within the firm. This person bears ultimate responsibility for ensuring that all affiliated salespersons and brokers comply with Wyoming real estate laws and WREC rules.",
+      "explanation": "W.S. 33-28-102(b)(xlix) defines a responsible broker as an individual holding an active responsible broker's license who is responsible for supervising the activities of licensees associated with the real estate company, or who operates a single license office or sole proprietorship. That supervisory duty has teeth: under W.S. 33-28-111(a)(ix), \"failing to supervise the activities of his associate broker or salesperson\" is grounds for censure, fine, suspension, or revocation. Note that simply holding a broker-level license is not enough - an associate broker has no supervisory responsibilities.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["responsible_broker", "designated_broker", "supervision"]
+      "tags": ["responsible_broker", "supervision", "license_types", "33-28-102"]
     },
     {
       "key_topic_ref": "WY-02.2",
@@ -201,18 +201,18 @@
     },
     {
       "key_topic_ref": "WY-02.3",
-      "question_text": "A 17-year-old completes all 54 hours of pre-license education and passes the exam. Can WREC issue a license?",
-      "correct_answer": "No, the applicant must be at least 18",
+      "question_text": "A 17-year-old has finished all required pre-license coursework and tries to register for the Wyoming licensing exam. What is the result?",
+      "correct_answer": "Cannot register; registrants must have reached the age of majority",
       "distractors": [
-        "Yes, passing the exam is the only requirement",
-        "Yes, if a parent co-signs the application",
-        "Yes, with a provisional license until age 18"
+        "May register and test, but cannot be licensed until 18",
+        "May register if a parent co-signs the registration",
+        "May register and receive a provisional license until age 18"
       ],
-      "explanation": "Even though the applicant has completed all education requirements and passed the exam, Wyoming law requires applicants to be at least 18 years old. WREC cannot issue a license to a minor, regardless of other qualifications. The applicant must wait until turning 18 to apply.",
+      "explanation": "WREC Rules Ch. 1, Sec. 4(b) provides that \"registrants for an exam shall have reached the age of majority,\" and the Pearson VUE candidate handbook likewise states that salesperson applicants must be at least the age of majority prior to taking the exam. Wyoming's age of majority is 18 under W.S. 14-1-101(a). W.S. 33-28-106(f)(viii) separately requires a salesperson applicant to have reached the age of majority. Completing the coursework early does not advance eligibility; the candidate must wait until turning 18 to register, test, and apply. Wyoming issues no provisional or minor license.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["age_requirement", "application", "minor", "eligibility"]
+      "tags": ["age_requirement", "age_of_majority", "exam_registration", "eligibility"]
     },
     {
       "key_topic_ref": "WY-02.3",
@@ -223,7 +223,7 @@
         "Felonies older than 5 years are ignored",
         "The applicant only needs a judge's letter"
       ],
-      "explanation": "A felony conviction does not automatically disqualify an applicant in Wyoming. WREC reviews each background check on a case-by-case basis, considering factors such as the nature of the offense, time elapsed, and evidence of rehabilitation. However, a felony conviction is grounds for potential denial.",
+      "explanation": "A felony conviction does not automatically disqualify a Wyoming applicant. Under W.S. 33-28-106(g)(iii) the Commission may consider a conviction only where the felony relates to the practice of real estate activity or to the ability to perform a licensee's duties, or is any felony sexual offense or violent crime. Where the conviction is within that scope, W.S. 33-28-106(h) directs the Commission to take into account the nature of the offense, aggravating or extenuating circumstances, the time elapsed, and the rehabilitation or restitution performed. Review is therefore individualized rather than a fixed bar or a fixed look-back period.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

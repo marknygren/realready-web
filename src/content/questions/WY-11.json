@@ -36,14 +36,14 @@
     },
     {
       "key_topic_ref": "WY-11.1",
-      "question_text": "The recovery account balance has grown to $55,000. Where do newly collected license fees go?",
+      "question_text": "The recovery account balance has grown to $55,000 while the education fund balance is $30,000. Where do newly collected license fees go?",
       "correct_answer": "All fees go to the education fund",
       "distractors": [
         "Fees are split equally between both funds",
         "All fees go to the recovery account",
         "Fee collection is suspended entirely"
       ],
-      "explanation": "Once the recovery account balance reaches $50,000, all license fees are directed entirely to the Real Estate Education Fund. The split allocation only applies when the balance is between $20,000 and $50,000.",
+      "explanation": "Under W.S. 33-28-201(b), once the recovery account balance reaches $50,000, all of the $20 fee is deposited in the Real Estate Education Fund; the half-and-half split applies only while the recovery balance is between $20,000 and $50,000. Collection does not stop here, because W.S. 33-28-206(a) halts collection only when the recovery fund AND the education fund each exceed $50,000 — and the education fund is only at $30,000.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -73,7 +73,7 @@
         "Pay for WREC office operating expenses",
         "Provide loans to first-time homebuyers"
       ],
-      "explanation": "The Wyoming Real Estate Recovery Account exists to compensate victims of licensee fraud, misrepresentation, or conversion of trust funds. It is a consumer protection mechanism, separate from the Education Fund which supports WREC educational programs.",
+      "explanation": "The Wyoming Real Estate Recovery Account (W.S. 33-28-201) exists to compensate persons who hold a court judgment against a licensee on the grounds of fraud, willful misrepresentation, deceit, or conversion of trust funds arising out of a transaction in which the licensee performed real estate activity (W.S. 33-28-202(a)). Ordinary negligence is not a covered ground. It is a consumer protection mechanism, separate from the Education Fund, which underwrites WREC educational programs under W.S. 33-28-206(b).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -88,7 +88,7 @@
         "$50,000 per claim",
         "$15,000 per claim"
       ],
-      "explanation": "Wyoming limits recovery account payouts to $10,000 per claim, which is one of the lowest maximums in the nation. This relatively low cap reflects Wyoming's conservative approach to the fund.",
+      "explanation": "W.S. 33-28-202(a) caps payment from the real estate recovery account at 'not more than ten thousand dollars ($10,000.00)' per claim. Payment is further limited to the actual damages included in the judgment that remain unpaid, so punitive damages, attorney fees, and court costs are not recoverable from the account.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -96,14 +96,14 @@
     },
     {
       "key_topic_ref": "WY-11.2",
-      "question_text": "A buyer suffers $8,000 in damages due to a licensee's misconduct. What must the buyer do BEFORE filing a claim against the recovery account?",
+      "question_text": "A buyer suffers $8,000 in damages from a licensee's fraud. What must the buyer do BEFORE the recovery account will pay?",
       "correct_answer": "Obtain a court judgment and attempt to collect",
       "distractors": [
         "File a complaint directly with WREC",
         "Submit a demand letter to the licensee's broker",
         "Request mediation through the local board"
       ],
-      "explanation": "Wyoming requires claimants to first obtain a court judgment against the licensee and then attempt to collect on that judgment before seeking payment from the recovery account. A WREC complaint alone is not sufficient.",
+      "explanation": "Wyoming requires a final court judgment against the licensee on a covered ground, plus a showing that collection failed — a writ of execution returned unsatisfied or insufficient property to levy on (W.S. 33-28-202(a); 33-28-203(b)(iii)). A WREC complaint alone is not sufficient. The claimant must also notify the commission in writing when the suit is filed, the suit must be commenced within one year after the cause of action accrued, and the petition for payment must be filed within one year of termination of all proceedings including appeals (W.S. 33-28-203(a); 33-28-202(a)).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -118,7 +118,7 @@
         "Permanently revoked with no appeal available",
         "Placed on probation for a two-year period"
       ],
-      "explanation": "When the recovery account pays a claim, the licensee's license is automatically suspended. The suspension remains in effect until the licensee repays the full amount plus interest. The license is not permanently revoked.",
+      "explanation": "Under W.S. 33-28-204, when the recovery account pays a claim the commission must immediately suspend the judgment debtor's license. The licensee cannot be relicensed or reinstated until repaying the full amount paid from the account with interest of 18% per annum. A discharge in bankruptcy does not relieve the licensee of this suspension, and repayment does not bar separate discipline under W.S. 33-28-111. The license is not permanently revoked.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -126,14 +126,14 @@
     },
     {
       "key_topic_ref": "WY-11.2",
-      "question_text": "Licensee Chen's misconduct caused $15,000 in damages. A court awards the full amount. How much can the claimant recover from the fund?",
+      "question_text": "Licensee Chen's fraud caused $15,000 in actual damages. A court awards the full amount. How much can the claimant recover from the fund?",
       "correct_answer": "$10,000, which is the per-claim maximum",
       "distractors": [
         "$15,000, the full judgment amount",
         "$7,500, which is half the judgment",
         "$5,000, the base recovery limit"
       ],
-      "explanation": "Regardless of the court judgment amount, the recovery account maximum is $10,000 per claim. The claimant would need to pursue other collection methods for the remaining $5,000 owed beyond the fund's cap.",
+      "explanation": "Regardless of the judgment amount, W.S. 33-28-202(a) caps payment at 'not more than ten thousand dollars ($10,000.00)' per claim, and only actual damages count. The claimant must pursue other collection methods for the remaining $5,000. Note that $10,000 is a ceiling, not a guarantee: under W.S. 33-28-202(b), if the account cannot pay all valid claims on file, payments are prorated among claimants.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -148,7 +148,7 @@
         "The state general fund covers remaining amounts",
         "The claimant can sue the state for the balance"
       ],
-      "explanation": "Wyoming law explicitly provides that the state has no liability for claims against the recovery account. If the fund lacks sufficient money, the claimant cannot compel the state to make up the difference from other sources.",
+      "explanation": "W.S. 33-28-201(c) provides that no general fund monies may be appropriated for recovery account expenses and that those expenses 'shall not be paid by the state' — the section is captioned 'no liability of state.' If the account is short, claimants cannot compel the state to make up the difference; instead W.S. 33-28-202(b) prorates the available money among all valid claims on file, without regard to the order in which judgments were obtained or claims were filed.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

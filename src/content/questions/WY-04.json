@@ -13,7 +13,7 @@
         "Seller-only representation",
         "Transaction brokerage"
       ],
-      "explanation": "Wyoming is one of the few states that prohibits dual agency entirely. A licensee cannot represent both the buyer and the seller in the same transaction. This prohibition exists to prevent the inherent conflict of interest that arises when one agent attempts to serve two parties with opposing interests.",
+      "explanation": "Wyoming expressly bans dual agency: W.S. 33-28-302(o) states that 'a licensee shall not establish dual agency with any seller or buyer,' and 33-28-302(k) allows a licensee to be an agent for the seller or for the buyer 'but not as an agent for both.' Exclusive buyer agency (33-28-304) and seller-only agency (33-28-303) are both permitted, and Wyoming's version of transaction brokerage — the non-agency 'intermediary' relationship of 33-28-305 — is the lawful way for one licensee, or two designated licensees in the same company, to assist both sides. Only dual agency itself is prohibited.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -58,7 +58,7 @@
         "The license is unaffected until sentencing",
         "Only misdemeanors trigger discipline"
       ],
-      "explanation": "A felony conviction is an explicit ground for disciplinary action under Wyoming law, regardless of whether the crime was directly related to real estate practice. Embezzlement is particularly relevant as it involves dishonesty and financial misconduct.",
+      "explanation": "W.S. 33-28-111(a)(xxii) makes discipline available for 'conviction of a felony that relates to the practice of real estate activity or to the ability to perform the duties of a licensee or any felony sexual offense or violent crime.' Embezzlement is squarely within that ground because it goes to the licensee's ability to handle other people's money — a core licensee duty — even though the crime itself was not a real estate transaction. Note the limit: Wyoming does not make every felony an automatic ground, and the statute contains no 'moral turpitude' language; a wholly unrelated non-violent felony would have to be reached through the Commission's catch-all rule against violating state or federal law (018-6 Wyo. Code R. § 6-1(a)(iv)). WREC may fine, censure, place on probation, suspend or revoke.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -66,18 +66,18 @@
     },
     {
       "key_topic_ref": "WY-04.1",
-      "question_text": "A newly licensed salesperson handles three transactions with significant errors due to lack of basic knowledge. What ground for discipline applies?",
-      "correct_answer": "Incompetence or negligence",
+      "question_text": "A Wyoming salesperson repeatedly fails to give the parties completed copies of signed documents and, when WREC investigates a complaint, cannot produce the transaction file. Which ground for discipline applies?",
+      "correct_answer": "Failing to deliver documents and to produce records under investigation",
       "distractors": [
-        "Fraud and misrepresentation",
+        "Incompetence or negligence",
         "Commingling of funds",
         "Unlicensed practice of real estate"
       ],
-      "explanation": "Repeated significant errors stemming from a lack of basic professional knowledge constitute incompetence or negligence, which is a ground for discipline under Wyoming law. Even without fraudulent intent, a pattern of errors that harms clients can result in disciplinary action by WREC.",
-      "difficulty": "hard",
-      "cognitive_level": "analysis",
+      "explanation": "Wyoming's grounds for discipline are a specific, conduct-by-conduct list in W.S. 33-28-111(a). Two items are hit here: (a)(xxi), 'failing to deliver within a reasonable time a completed copy of any document to all parties,' and (a)(xii), 'unreasonably failing to produce documents of record in his possession or under his control concerning any real estate transaction under investigation by the commission.' WREC rule 018-6 § 6-1(a)(x) adds failing to provide information requested relative to a complaint, investigation, or audit. Note that Wyoming — unlike many states — has NO general 'incompetence or negligence' ground; sloppy practice is charged under the specific paragraph it violates.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
       "is_free": false,
-      "tags": ["incompetence", "negligence", "discipline", "violations"]
+      "tags": ["records", "document_delivery", "discipline", "grounds"]
     },
     {
       "key_topic_ref": "WY-04.2",
@@ -88,7 +88,7 @@
         "Only other licensed real estate agents",
         "Only the responsible broker"
       ],
-      "explanation": "Wyoming law allows any person to file a complaint with WREC against a licensee. There is no requirement that the complainant be a party to a transaction or hold a real estate license. Additionally, WREC has the power to self-initiate investigations even without a formal complaint.",
+      "explanation": "WREC Rules Chapter 8, Section 2(a) provides that a complaint 'may be submitted by any person or entity, a Commission member, or a member of the Commission staff' — the complainant need not be a party to the transaction or a licensee. The complaint must be a sworn written complaint bearing the complainant's notarized signature; WREC cannot accept anonymous or unsigned complaints. Separately, W.S. 33-28-111(a) lets the Commission investigate 'upon its own motion' even with no complaint on file.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -103,7 +103,7 @@
         "Before a jury of licensees",
         "At the Attorney General's office"
       ],
-      "explanation": "Formal disciplinary hearings in Wyoming are conducted before the commission itself. WREC acts as the adjudicatory body, hearing evidence and determining appropriate sanctions. Licensees who disagree with the commission's decision may seek judicial review through the courts.",
+      "explanation": "Disciplinary matters are set for a formal contested case hearing before the Commission (WREC Rules ch. 8, § 4(c)(ii)), conducted under the Wyoming Administrative Procedure Act and the Office of Administrative Hearings' uniform contested-case rules. W.S. 33-28-113(a) also permits the Commission to contract with an independent hearing officer — who may not be a commission member or employee — to take the evidence and forward written findings of fact and conclusions of law to the Commission, which issues the final order. District court is not where the hearing happens; it is where judicial review is sought afterward, in the county where the violation allegedly occurred (W.S. 33-28-113(c)).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -112,13 +112,13 @@
     {
       "key_topic_ref": "WY-04.2",
       "question_text": "WREC receives a complaint and begins an investigation. During the process, can WREC examine the broker's records?",
-      "correct_answer": "Yes, WREC can examine records at any time",
+      "correct_answer": "Yes — the licensee must produce the records on WREC's request",
       "distractors": [
         "Only with the broker's written permission",
         "Only after obtaining a court subpoena",
         "Only if the complaint involves trust funds"
       ],
-      "explanation": "WREC has broad authority to examine broker records at any time during an investigation. This power is not limited to trust fund complaints and does not require broker permission or a court order. The ability to review records is essential to conducting thorough investigations.",
+      "explanation": "Access to records is a condition of licensure, not something WREC must litigate for. W.S. 33-28-122(a)(iii) requires every responsible broker to 'permit the commission or its representative to examine the responsible broker's trust accounting records,' and WREC Rules ch. 5 § 2 lets the Commission audit those accounts. In an investigation, W.S. 33-28-111(a)(xii) makes it a disciplinable offense to unreasonably fail 'to produce documents of record... concerning any real estate transaction under investigation by the commission,' and rule 018-6 § 6-1(a)(x) covers failing to provide information requested relative to a complaint, investigation, or audit. No broker consent and no court order is required, and the authority is not limited to trust-fund complaints. (Formal subpoenas are a separate tool, available under the Administrative Procedure Act once a contested case is pending — W.S. 16-3-107(c), 16-3-112(b)(ii).)",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -127,13 +127,13 @@
     {
       "key_topic_ref": "WY-04.2",
       "question_text": "After a hearing, WREC finds a licensee guilty of commingling. Which combination of sanctions can WREC impose?",
-      "correct_answer": "Suspension plus civil penalties",
+      "correct_answer": "Suspension plus an administrative fine",
       "distractors": [
         "Only one sanction may be imposed per case",
         "Criminal imprisonment and fines",
         "License transfer to another state"
       ],
-      "explanation": "WREC may impose multiple sanctions in a single disciplinary case, including suspension, revocation, civil penalties, probation, required education, and censure. For commingling, a combination such as suspension plus civil penalties is common. WREC cannot impose criminal sanctions, as those require court proceedings.",
+      "explanation": "WREC Rule 018-6 § 6-1 expressly authorizes 'an administrative fine, censure, probation, suspension, or revocation, including a combination thereof.' W.S. 33-28-111(a) lets the Commission impose an administrative fine of up to $2,500 for each separate offense and censure, place on probation, suspend or revoke — so suspension plus a fine for commingling (a ground under 33-28-111(a)(xiv)) is a routine outcome. Fines are credited to the public school fund of the county where the violation occurred (33-28-111(c)). Additional education is typically imposed through a settlement the Commission accepts rather than as a stand-alone sanction. WREC cannot impose jail or criminal fines; criminal penalties for unlicensed activity are prosecuted in court under W.S. 33-28-114.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -148,7 +148,7 @@
         "No, WREC must wait for the Attorney General",
         "Yes, but only if 10 or more complaints exist"
       ],
-      "explanation": "WREC has the authority to self-initiate investigations without a formal complaint from any individual. When the commission identifies patterns of potential violations through its own monitoring or informal reports, it may open an investigation to protect the public interest.",
+      "explanation": "W.S. 33-28-111(a) authorizes the Commission to investigate a licensee 'upon a written sworn complaint or... upon its own motion' — no consumer complaint is required. In practice a Commission member or staff member may file the sworn written complaint that opens the file (WREC Rules ch. 8 § 2(a)), after which the matter goes to the Commission investigator and a Liaison Commission Member. There is no minimum number of complaints and no need to wait for the Attorney General, although the AG's office prosecutes the contested case (W.S. 33-28-120).",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,

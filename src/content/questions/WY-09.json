@@ -103,7 +103,7 @@
         "It is valid until the seller cancels in writing",
         "It renews annually by default"
       ],
-      "explanation": "Wyoming requires listing agreements to have a definite termination date. An agreement without one is considered deficient because it could bind the seller indefinitely. WREC views open-ended listings as a violation of proper practice standards.",
+      "explanation": "W.S. 33-28-111(a)(xx) makes it a ground for discipline to fail to obtain a written listing agreement containing the property, all terms and conditions under which it is to be sold or acquired, the price or price range, the compensation to be paid, the signatures of all parties concerned, and 'a definite expiration date.' A listing with no expiration date is therefore deficient and exposes the licensee to censure, an administrative fine up to $2,500 per offense, probation, suspension or revocation. Wyoming supplies no default term by statute, so an open-ended listing is also vulnerable to challenge by the seller.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -111,14 +111,14 @@
     },
     {
       "key_topic_ref": "WY-09.2",
-      "question_text": "Why are net listings discouraged in Wyoming?",
+      "question_text": "Why are net listings problematic for a Wyoming licensee?",
       "correct_answer": "They create a conflict of interest",
       "distractors": [
         "They violate federal antitrust law",
         "They require WREC pre-approval",
         "They must include a minimum sale price"
       ],
-      "explanation": "Net listings are discouraged because they create an inherent conflict of interest between the broker and the seller. The broker's compensation is the difference between the net amount and the sale price, incentivizing the broker to prioritize personal gain over the client's best interests.",
+      "explanation": "A net listing pays the broker everything above a price the seller sets, so the broker's gain grows as the seller's proceeds shrink — an inherent conflict with the loyalty and utmost good faith a seller's agent owes under W.S. 33-28-303. Wyoming's statutes and WREC rules contain no section naming 'net listings,' but W.S. 33-28-111(a)(xx) requires every written listing agreement to state 'the compensation to be paid,' which an open-ended net arrangement does not fix at the outset.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -148,7 +148,7 @@
         "Yes, if the seller confirms by email later",
         "No, but only for commercial properties"
       ],
-      "explanation": "Wyoming requires all listing agreements to be in writing. A verbal listing is unenforceable and the broker risks being unable to collect a commission. Written agreements protect both the seller and the broker by clearly defining terms, duties, and compensation.",
+      "explanation": "W.S. 33-28-111(a)(xx) makes failing to obtain a written listing agreement — one identifying the property and containing all terms and conditions, the price or price range, the compensation to be paid, the signatures of all parties concerned and a definite expiration date — a ground for censure, an administrative fine up to $2,500 per offense, suspension or revocation. Note the source: this is a licensing duty under the Real Estate License Act. Wyoming's statute of frauds, W.S. 1-23-105, does not list broker commission agreements, so the writing requirement here comes from the License Act rather than from contract law.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -157,13 +157,13 @@
     {
       "key_topic_ref": "WY-09.3",
       "question_text": "After a purchase agreement is signed by all parties, the listing agent keeps the only copy in her file. What rule has been violated?",
-      "correct_answer": "Copies must be given to all parties at signing",
+      "correct_answer": "Copies must be delivered to all parties within a reasonable time",
       "distractors": [
         "The broker must retain the original only",
         "Documents must be filed with the county clerk",
-        "No rule if copies are provided at closing"
+        "Only the party who drafted the document gets a copy"
       ],
-      "explanation": "Wyoming requires that copies of all signed transaction documents be provided to all parties at the time of signing. Withholding copies prevents parties from reviewing their contractual obligations and violates WREC rules on document handling.",
+      "explanation": "W.S. 33-28-111(a)(xxi) makes 'failing to deliver within a reasonable time a completed copy of any document to all parties' a ground for censure, an administrative fine, suspension or revocation. Keeping the sole executed copy in the agent's file delivers nothing to anyone and violates the statute. Note the statutory standard is 'within a reasonable time' — delivering at signing is best practice, not the literal legal test.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -186,29 +186,29 @@
     },
     {
       "key_topic_ref": "WY-09.3",
-      "question_text": "A buyer asks an agent to show homes before signing a written buyer representation agreement. Under current Wyoming requirements, what should the agent do?",
-      "correct_answer": "Obtain a written buyer agreement before touring",
+      "question_text": "A buyer asks an agent to show homes before signing a written buyer representation agreement. Under Wyoming law, what should the agent do?",
+      "correct_answer": "Show the homes; the buyer may tour as a customer",
       "distractors": [
-        "Show up to three homes without an agreement",
-        "Proceed if the buyer verbally commits",
-        "Require the agreement only before making offers"
+        "Require a signed buyer agency agreement first",
+        "Refuse until the buyer verbally commits to exclusivity",
+        "Show only listings held by the agent's own brokerage"
       ],
-      "explanation": "As of August 2024, Wyoming requires a written buyer representation agreement before touring properties. This ensures both parties understand the scope of representation, duties, and compensation terms before the agent provides showing services.",
+      "explanation": "Wyoming's mandatory written relationship disclosure must tell the consumer the opposite of a tour-requires-a-contract rule. W.S. 33-28-306(a)(vii)(A), as amended by 2026 Senate Enrolled Act 37 effective July 1, 2026, requires that disclosure to state that a customer shall not 'be required to sign any legal written agency agreement to view or tour real estate during house showings,' and W.S. 33-28-102(b)(xiii) now defines a customer to include a person who attends a showing without any agency relationship. The agent delivers the written relationship disclosure and works with the buyer as a customer; a written agreement is needed only to create agency (W.S. 33-28-302(b)). The NAR settlement's written-buyer-agreement-before-touring rule is private policy binding REALTOR MLS participants — it is not Wyoming law, and Wyoming's disclosure statute points the other way.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["buyer_representation", "written_agreement", "touring"]
+      "tags": ["buyer_representation", "customer_relationship", "showings", "33-28-306"]
     },
     {
       "key_topic_ref": "WY-09.3",
-      "question_text": "During a WREC audit, a broker cannot produce transaction files for sales completed two years ago. What is the likely outcome?",
+      "question_text": "During a WREC audit, a broker cannot produce transaction files for sales completed eight months ago. What is the likely outcome?",
       "correct_answer": "Discipline for failure to maintain records",
       "distractors": [
         "No issue if taxes were properly filed",
         "A warning with a 30-day cure period",
         "Referral to the county assessor only"
       ],
-      "explanation": "Responsible brokers must maintain transaction records and make them available for WREC examination. Inability to produce files during an audit demonstrates a failure to meet recordkeeping obligations, which is grounds for WREC disciplinary action.",
+      "explanation": "W.S. 33-28-123 requires every responsible broker to keep a full set of records of every real estate transaction and to maintain them not less than two (2) years from the latest date the real estate company participated in the transaction. Files from eight months ago are squarely inside that window. W.S. 33-28-111(a)(xii) makes unreasonably failing to produce documents of record concerning a transaction under commission investigation a ground for censure, an administrative fine up to $2,500 per offense, probation, suspension or revocation.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -217,13 +217,13 @@
     {
       "key_topic_ref": "WY-09.3",
       "question_text": "An agent presents a counteroffer to a buyer but does not provide the buyer a copy of the signed counteroffer. The buyer later claims she did not agree to certain terms. Who is at fault?",
-      "correct_answer": "The agent for not providing a copy at signing",
+      "correct_answer": "The agent for not delivering a copy within a reasonable time",
       "distractors": [
         "The buyer for not requesting a copy",
         "The seller for modifying the original offer",
         "The title company for not verifying terms"
       ],
-      "explanation": "Wyoming requires copies of all signed documents to be given to all parties at the time of signing. The agent's failure to provide the buyer a copy of the counteroffer violates this rule and creates unnecessary disputes about agreed-upon terms.",
+      "explanation": "W.S. 33-28-111(a)(xxi) requires a licensee to deliver within a reasonable time a completed copy of any document to all parties. Never delivering the executed counteroffer breaches that duty and produces exactly this kind of dispute about agreed terms. Delivering at the moment of signing is best practice; the statutory standard is 'within a reasonable time.'",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

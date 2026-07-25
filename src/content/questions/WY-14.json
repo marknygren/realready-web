@@ -21,14 +21,14 @@
     },
     {
       "key_topic_ref": "WY-14.1",
-      "question_text": "An agent describes a Wyoming parcel as 'the NW 1/4 of Section 12, T3N, R65W.' This description uses which system?",
+      "question_text": "An agent describes a Wyoming parcel as 'the NW 1/4 of Section 12, T13N, R65W, 6th P.M.' This description uses which system?",
       "correct_answer": "Rectangular survey (township and range)",
       "distractors": [
         "Metes and bounds description system",
         "Lot and block from a recorded plat",
         "Reference to a recorded deed number"
       ],
-      "explanation": "References to sections, townships (T3N), and ranges (R65W) are hallmarks of the rectangular (government) survey system. This is the township and range system that divides land into a grid of 6-mile-square townships containing 36 sections.",
+      "explanation": "References to sections, townships (T13N), ranges (R65W), and a principal meridian are hallmarks of the rectangular (government) survey system. Townships are 6-mile squares containing 36 sections. Wyoming land is surveyed from two principal meridians — the Sixth Principal Meridian (most of the state) and the Wind River Meridian (the Wind River/Fremont County area) — so a complete Wyoming rectangular-survey description names the meridian.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -67,14 +67,14 @@
     {
       "key_topic_ref": "WY-14.1",
       "question_text": "Why is the rectangular survey system especially suited to Wyoming real estate?",
-      "correct_answer": "The state's open geography fits a grid system",
+      "correct_answer": "Wyoming is a public-land state originally surveyed under the PLSS",
       "distractors": [
         "Wyoming law requires it for all transactions",
         "It was mandated by the original state constitution",
         "Mountain terrain makes other methods impossible"
       ],
-      "explanation": "Wyoming's vast open plains and regular geography make the rectangular survey system practical and efficient. The system is not legally mandated for all transactions, and other methods like metes and bounds and plat maps are also used where appropriate.",
-      "difficulty": "hard",
+      "explanation": "Wyoming was federal public domain, and the General Land Office surveyed it into townships, ranges and sections before patenting land to private owners, so most original titles are written in rectangular-survey terms. Wyoming is surveyed from two principal meridians — the Sixth Principal Meridian and the Wind River Meridian. No Wyoming statute mandates the rectangular survey; metes and bounds and lot-and-block plats are also used.",
+      "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": ["land_description", "rectangular_survey", "geography"]
@@ -88,7 +88,7 @@
         "Approved by both parties' attorneys",
         "Filed with WREC within 10 days"
       ],
-      "explanation": "Wyoming's Statute of Frauds requires that contracts for the sale of real estate be in writing to be enforceable. While notarization and recording are common practices, the core statutory requirement is a written agreement.",
+      "explanation": "W.S. 1-23-105(a)(v) makes every agreement for the sale of real estate — or a lease for more than one year — void unless the agreement, or some note or memorandum of it, is in writing and 'subscribed by the party to be charged.' Notarization and recording matter for putting a deed on record, not for contract enforceability, and nothing is filed with WREC.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -103,7 +103,7 @@
         "Enforceable if witnesses were present",
         "Binding once earnest money is deposited"
       ],
-      "explanation": "Under Wyoming's Statute of Frauds, real estate contracts must be in writing to be enforceable. An oral agreement for real property, even if made in good faith with witnesses, cannot be enforced in court.",
+      "explanation": "Under W.S. 1-23-105(a)(v) a contract for the sale of real estate is void unless it is in writing and subscribed by the party to be charged, so a handshake deal is unenforceable. Witnesses and earnest money do not cure the defect. Wyoming does recognize a narrow part-performance exception (Fowler v. Fowler, 933 P.2d 502 (Wyo. 1997)), but it requires possession taken under the oral agreement plus payment of all or part of the price — neither is present here.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -116,9 +116,9 @@
       "distractors": [
         "Identification of the parties involved",
         "A legal description of the property",
-        "Signatures of the contracting parties"
+        "The signature of the party to be charged"
       ],
-      "explanation": "Wyoming does not require attorney approval for a valid real estate contract. The essential elements include party identification, legal description, consideration, signatures, and material terms. Attorney review is advisable but not a legal requirement.",
+      "explanation": "Wyoming does not require attorney approval for a valid real estate contract — it is not an attorney-closing state. The essential elements are identification of the parties, a legal description, consideration, material terms, and, under the Statute of Frauds (W.S. 1-23-105(a)), a writing subscribed by the party to be charged. Attorney review is advisable but not a legal requirement.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -157,28 +157,28 @@
     {
       "key_topic_ref": "WY-14.3",
       "question_text": "In Wyoming, who is authorized to prepare a broker's price opinion?",
-      "correct_answer": "Only licensed brokers",
+      "correct_answer": "Any WREC licensee — salesperson, associate broker, or broker",
       "distractors": [
-        "Any licensed salesperson or broker",
-        "Only certified appraisers",
-        "Any WREC licensee including associates"
+        "Only responsible brokers",
+        "Only certified real estate appraisers",
+        "Only licensees who also hold an appraiser trainee permit"
       ],
-      "explanation": "Wyoming restricts the preparation of broker's price opinions to licensed brokers. Salespersons and associate brokers are not authorized to prepare BPOs. This is a distinction from appraisals, which require a separate appraiser license.",
+      "explanation": "W.S. 33-28-125(a) says 'A licensee may prepare a broker's price opinion,' and W.S. 33-28-102(a)(xxx) defines 'licensee' as any person issued a license by the Commission — salespersons and associate brokers included. Providing a BPO is itself licensed real estate activity under W.S. 33-28-102(a)(xlv)(O), and W.S. 33-39-103(b) confirms a real estate licensee gives price opinions under 33-28-125 rather than under an appraiser certification. No appraiser credential is needed; a certified appraisal is a different product.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["BPO", "broker_only", "salesperson_excluded"]
+      "tags": ["BPO", "licensee", "who_may_prepare"]
     },
     {
       "key_topic_ref": "WY-14.3",
-      "question_text": "A lender requests a BPO for a Wyoming property refinance. The broker should understand that a BPO:",
+      "question_text": "A lender requests a BPO for a Wyoming property refinance. The licensee should understand that a BPO:",
       "correct_answer": "Is not an appraisal and cannot replace one",
       "distractors": [
         "Can substitute for an appraisal in any situation",
         "Has the same legal weight as a full appraisal",
         "Must follow USPAP standards for appraisals"
       ],
-      "explanation": "A broker's price opinion is not an appraisal and cannot be substituted where an appraisal is required by law, such as in federally related transactions above certain thresholds. BPOs must comply with WREC regulations but are a separate service.",
+      "explanation": "A broker's price opinion is not an appraisal. W.S. 33-28-125(b) requires every printed or electronic BPO to state: 'This is an opinion of price and is not a certified appraisal of the market value of the property. If such an appraisal is desired, the service of a certified appraiser must be obtained.' Under 12 U.S.C. 3355, a BPO may not be used as the primary basis of value for originating a residential mortgage loan. BPOs are not prepared under USPAP — the Wyoming Certified Real Estate Appraiser Board's rules expressly exempt licensees giving price opinions.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -186,29 +186,29 @@
     },
     {
       "key_topic_ref": "WY-14.3",
-      "question_text": "Salesperson Davis prepares a BPO for a client and charges a fee. This action is:",
-      "correct_answer": "A violation because only brokers may prepare BPOs",
+      "question_text": "Salesperson Davis prepares a broker's price opinion for a client, who pays Davis the fee directly. Under Wyoming law, this is:",
+      "correct_answer": "Improper only as to the fee — it must come through the responsible broker",
       "distractors": [
-        "Permitted if the supervising broker approves",
-        "Allowed for any active Wyoming licensee",
-        "Acceptable if no fee is charged"
+        "A violation because BPOs are limited to broker-level licensees",
+        "Permitted only if Davis first obtains an appraiser permit",
+        "A violation unless the BPO is labeled a certified appraisal"
       ],
-      "explanation": "In Wyoming, only licensed brokers may prepare broker's price opinions. A salesperson cannot prepare a BPO even with broker supervision or approval. This restriction applies regardless of whether a fee is charged.",
+      "explanation": "Preparing the BPO is fine: W.S. 33-28-125(a) permits any licensee to prepare a broker's price opinion, and W.S. 33-28-102(a)(xlv)(O) makes doing so licensed real estate activity. No appraiser credential is required (W.S. 33-39-103(b)). The problem is the payment — W.S. 33-28-111(a)(xvii) makes it grounds for discipline for a salesperson or associate broker to accept compensation from anyone other than his responsible broker. Davis must also include the W.S. 33-28-125(b) disclaimer.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["BPO", "salesperson_violation", "broker_only"]
+      "tags": ["BPO", "salesperson", "compensation", "responsible_broker"]
     },
     {
       "key_topic_ref": "WY-14.3",
-      "question_text": "A Wyoming broker preparing a BPO must comply with regulations issued by:",
-      "correct_answer": "The Wyoming Real Estate Commission",
+      "question_text": "A Wyoming licensee preparing a BPO must include a disclaimer required by:",
+      "correct_answer": "Wyoming statute, enforced by the Real Estate Commission",
       "distractors": [
-        "The Appraisal Foundation only",
-        "The Wyoming Association of Realtors",
+        "The Appraisal Foundation's USPAP standards",
+        "Wyoming Association of REALTORS bylaws",
         "The local MLS governing board"
       ],
-      "explanation": "BPOs in Wyoming must comply with regulations established by WREC, the state licensing authority. While appraisals fall under USPAP and the Appraisal Foundation, BPOs are regulated separately through the real estate commission.",
+      "explanation": "W.S. 33-28-125(b) requires every printed or electronic BPO to state: 'This is an opinion of price and is not a certified appraisal of the market value of the property. If such an appraisal is desired, the service of a certified appraiser must be obtained.' The requirement is statutory — WREC has no separate BPO rule chapter — and WREC enforces it under W.S. 33-28-111. USPAP governs appraisals, not BPOs; the Appraiser Board's rules expressly exempt licensees giving price opinions.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -216,14 +216,14 @@
     },
     {
       "key_topic_ref": "WY-14.3",
-      "question_text": "A bank needs a property valuation for a federally related transaction. Can the bank use a BPO instead of an appraisal?",
+      "question_text": "A bank is originating a residential mortgage where federal rules require an appraisal. Can it use a BPO instead?",
       "correct_answer": "No, a BPO cannot replace a required appraisal",
       "distractors": [
-        "Yes, if the property value is under $250,000",
+        "Yes, if the loan amount is under $400,000",
         "Yes, if a licensed broker prepares it",
         "Yes, for residential properties only"
       ],
-      "explanation": "Where federal law or regulation requires a formal appraisal, a BPO cannot be substituted regardless of property value or who prepares it. BPOs serve a different purpose and lack the rigor and standards of a full appraisal.",
+      "explanation": "Where federal law requires an appraisal, a BPO cannot be substituted regardless of who prepares it. 12 U.S.C. 3355 bars using a broker price opinion as the primary basis of value for originating a residential mortgage loan. Federal banking agencies exempt residential transactions of $400,000 or less (raised from the older threshold in 2019) from the appraisal requirement, but those still require an evaluation, and the exemption is about loan size, not about substituting a BPO for a required appraisal. Wyoming reinforces the distinction: W.S. 33-28-125(b) requires every BPO to state that it is not a certified appraisal.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

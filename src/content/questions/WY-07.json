@@ -28,7 +28,7 @@
         "In a bank approved by the seller",
         "At the title company handling the closing"
       ],
-      "explanation": "Wyoming law requires trust accounts to be held in a Wyoming financial institution. The account must be designated as a trust or escrow account and the responsible broker must be a signatory. Out-of-state institutions do not satisfy this requirement.",
+      "explanation": "W.S. 33-28-122(a)(i) requires the trust or escrow account to be maintained in a financial institution *in this state*, designated by the word 'trust' or 'escrow' and held in the responsible broker's name (WREC Rules Ch. 5 § 1(a), (c)). The same statute lets a broker use a Wyoming funds holder in lieu of holding the account himself. Out-of-state institutions do not satisfy the requirement, and a nonresident Wyoming licensee must still use a Wyoming funds holder or Wyoming depository (Ch. 5 § 1(h)).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -73,7 +73,7 @@
         "The office manager regardless of license",
         "Both the buyer and seller"
       ],
-      "explanation": "The responsible broker must be a signatory on the trust account. This ensures the broker maintains direct oversight and control over client funds. Other licensees in the office are not required to be signatories.",
+      "explanation": "WREC Rules Ch. 5 § 1(e)(ii) requires that the responsible broker be able to withdraw money from the trust or escrow account without the benefit of a cosigner — so the responsible broker must have signature authority, and the account is maintained in his name (Ch. 5 § 1(a)). The rule also allows other authorized signatures of licensed *or unlicensed* people to appear on the account, but no one else is required to sign.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -88,7 +88,7 @@
         "A bookkeeping error requiring correction only",
         "An accounting violation by the bank"
       ],
-      "explanation": "Commingling personal funds with trust funds is prohibited in Wyoming. The only exception allows a minimum balance to cover bank service charges. Placing personal funds in the trust account for any other purpose constitutes commingling.",
+      "explanation": "Commingling the money of others with the broker's own is a disciplinary ground under W.S. 33-28-111(a)(xiv), and W.S. 33-28-122(e) bars commingling trust funds with personal funds. The only carve-out is narrow: funds the broker deposits when establishing the account to keep it open or avoid minimum-balance charges, identified as his own at the time of deposit. Depositing personal funds to cover a business expense fits no exception, and the statute separately forbids using trust deposits for any purpose other than the transaction for which they were provided.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -97,13 +97,13 @@
     {
       "key_topic_ref": "WY-07.2",
       "question_text": "A broker keeps $50 of personal funds in the trust account to meet the bank's minimum balance. Is this permitted?",
-      "correct_answer": "Yes, for bank service charges only",
+      "correct_answer": "Yes, if identified as the broker's own funds at the time of deposit",
       "distractors": [
-        "No, zero personal funds are permitted",
-        "Only if WREC approves it annually",
-        "Yes, up to $500 of personal funds"
+        "No, zero personal funds are ever permitted",
+        "Only if WREC approves the balance annually",
+        "Yes, but never more than $500"
       ],
-      "explanation": "Wyoming allows the sole exception of maintaining a minimum balance to cover bank service charges in the trust account. This prevents the account from incurring fees that would reduce client funds. No other personal funds may be deposited.",
+      "explanation": "W.S. 33-28-122(e) provides that it is not commingling if, when establishing the trust account, the responsible broker deposits some of his funds to keep the account open or to avoid charges for a minimum balance, so long as that deposit is identified at the time of deposit. Wyoming sets no dollar cap on that balance — the controls are the permitted purpose and identification at the time of deposit. No other personal funds may be placed in the account.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -133,7 +133,7 @@
         "The signatory requirement",
         "No rule, commissions may pass through trust"
       ],
-      "explanation": "Earned commissions are the broker's personal funds and must not be deposited into the trust account. Even a temporary deposit of personal funds constitutes commingling, which is prohibited regardless of how briefly the funds remain in the account.",
+      "explanation": "WREC Rules Ch. 5 § 1(a) requires the trust account to be kept separate from personal or business money belonging to the responsible broker, and commingling the money of others with his own is a disciplinary ground under W.S. 33-28-111(a)(xiv). Depositing an outside commission check into trust mixes the broker's money with client funds and is commingling. That is different from money already in trust that becomes due and payable to the broker at closing — Ch. 5 § 1(e)(iv) requires that money to be withdrawn promptly.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -141,33 +141,33 @@
     },
     {
       "key_topic_ref": "WY-07.2",
-      "question_text": "A sale closes and the broker's commission is earned. From where should the commission be paid?",
-      "correct_answer": "From closing proceeds, not the trust account",
+      "question_text": "A transaction closes and the responsible broker's commission, held in the firm's trust account, is now earned. What does the WREC rule require?",
+      "correct_answer": "The broker must withdraw the earned money from the trust account promptly",
       "distractors": [
-        "Directly from the trust account balance",
-        "From the buyer's earnest money deposit",
-        "From a WREC-approved disbursement fund"
+        "The money must remain in trust until the next monthly reconciliation",
+        "An affiliated licensee may be paid his split directly from the trust account",
+        "WREC must approve the disbursement before it is made"
       ],
-      "explanation": "Once a transaction closes, the broker's commission is paid from the closing proceeds through the normal settlement process. The trust account holds client funds and should not be used to pay the broker's earned compensation directly.",
-      "difficulty": "medium",
-      "cognitive_level": "knowledge",
+      "explanation": "WREC Rules Ch. 5 § 1(e)(iv) provides that money held in a trust or escrow account which is due and payable to the responsible broker shall be withdrawn promptly — leaving earned funds in trust is itself a violation. The same subsection bars paying monies earned by affiliated licensees directly from the trust or escrow account; the responsible broker must move the money out first and then pay the licensee. Under W.S. 33-28-122(d) nothing is due to a licensee until the transaction is consummated or terminated.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
       "is_free": false,
-      "tags": ["commission", "closing_proceeds", "trust_account"]
+      "tags": ["commission", "trust_account", "prompt_withdrawal", "affiliated_licensee"]
     },
     {
       "key_topic_ref": "WY-07.3",
       "question_text": "The buyer and seller dispute who is entitled to the $10,000 earnest money. What should the broker do first?",
-      "correct_answer": "Hold the funds and notify WREC",
+      "correct_answer": "Continue to hold the deposit in the trust account",
       "distractors": [
         "Split the funds equally between the parties",
         "Return the funds to the buyer immediately",
-        "Release the funds to the seller per the contract"
+        "Notify WREC and wait for the Commission to decide"
       ],
-      "explanation": "When parties dispute earnest money, the broker must hold the funds rather than disburse them to either side. The broker must also notify WREC of the disputed funds. The broker may then interplead the funds by depositing them with the court for resolution.",
+      "explanation": "W.S. 33-28-122(f) requires the responsible broker to continue holding a disputed deposit in the trust account until he has a written release from the parties consenting to its disposition, until a civil action is filed, or until he interpleads all parties, at which time the money may be paid to the court. The broker may not pick a side or split the difference, and Wyoming imposes no duty to notify WREC of a dispute — the Commission does not adjudicate earnest money claims.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["disputed_funds", "hold_funds", "notify_WREC"]
+      "tags": ["disputed_funds", "hold_funds", "interplead"]
     },
     {
       "key_topic_ref": "WY-07.3",
@@ -193,7 +193,7 @@
         "Only during a scheduled annual audit",
         "Only if a formal complaint has been filed"
       ],
-      "explanation": "Trust account records must be maintained and available for WREC examination at any time. The broker cannot delay or refuse access by citing the records' physical location. The obligation to produce records on demand is absolute.",
+      "explanation": "W.S. 33-28-122(a)(iii) obligates every responsible broker to permit the Commission or its representative to examine his trust accounting records, and WREC Rules Ch. 5 § 2 authorizes audits at the Commission's discretion — no complaint, court order, or scheduled audit is required. Failing to produce a record in the broker's possession or control concerning a transaction under investigation is itself a disciplinary ground under W.S. 33-28-111(a)(xii), and Ch. 5 § 1(e)(vi) requires the recordkeeping system to be maintained at the broker's place of business.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -201,30 +201,30 @@
     },
     {
       "key_topic_ref": "WY-07.3",
-      "question_text": "A broker fails to notify WREC about a disputed earnest money deposit. What is the likely consequence?",
-      "correct_answer": "Disciplinary action by WREC",
+      "question_text": "Buyer and seller deadlock over a disputed earnest money deposit and neither will sign a release. What ends the broker's duty to keep holding the funds?",
+      "correct_answer": "A civil action being filed, or the broker interpleading all parties",
       "distractors": [
-        "No consequence if funds are eventually resolved",
-        "A warning letter with no further action",
-        "Automatic forfeiture of the disputed funds"
+        "A written determination issued by WREC",
+        "The passage of 90 days from the date of the dispute",
+        "The broker's own good-faith reading of the contract"
       ],
-      "explanation": "Wyoming requires brokers to notify WREC of disputed trust funds. Failure to provide this notification is a violation of trust account regulations that can result in disciplinary action, including fines or license suspension.",
+      "explanation": "W.S. 33-28-122(f) gives three exits and no others: a written release from the parties consenting to disposition, the filing of a civil action, or the broker interpleading all parties — at which point the deposit may be paid to the court. WREC issues no determinations on disputed deposits, and no waiting period lets the broker disburse unilaterally.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["WREC_notification", "disputed_funds", "disciplinary_action"]
+      "tags": ["disputed_funds", "interplead", "civil_action"]
     },
     {
       "key_topic_ref": "WY-07.3",
       "question_text": "How long must a Wyoming broker retain trust account records?",
-      "correct_answer": "Maintained and available for WREC review",
+      "correct_answer": "Not less than 2 years from the last date the company participated in the transaction",
       "distractors": [
         "For 1 year after the transaction closes",
         "Only until the next scheduled WREC audit",
         "For 90 days after the funds are disbursed"
       ],
-      "explanation": "Wyoming law requires that trust account records be maintained and available for WREC examination at any time. While specific retention periods may apply to other records, trust account records must always be accessible for regulatory review.",
-      "difficulty": "hard",
+      "explanation": "W.S. 33-28-123 requires the responsible broker to keep a full set of records of every real estate transaction and to maintain them not less than two (2) years from the latest date on which the real estate company participated in the transaction. Separately, W.S. 33-28-122(a)(iii) requires the broker to permit the Commission to examine trust accounting records, and WREC Rules Ch. 5 § 2 authorizes audits — so the records must be both retained for the two-year minimum and produced on request.",
+      "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": ["trust_records", "record_keeping", "retention"]
