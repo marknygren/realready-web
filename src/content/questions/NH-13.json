@@ -53,7 +53,7 @@
       "question_text": "A property owner executes a Transfer on Death Deed in 2025. Is this transfer exempt from NH transfer tax?",
       "correct_answer": "Yes, TOD deeds are exempt since July 2024",
       "distractors": ["No, all deed transfers are taxed", "Only if the beneficiary is a spouse", "Only if the property value is under $100,000"],
-      "explanation": "Effective July 2024, Transfer on Death Deeds are exempt from the NH real estate transfer tax under RSA 78-B. This was added along with the new TOD deed statute (RSA 563-D).",
+      "explanation": "Effective July 2024, Transfer on Death Deeds are exempt from the NH real estate transfer tax under RSA 78-B. This was added along with the new TOD deed statute (RSA 563-D). The exemption applies where no consideration is exchanged (RSA 78-B:2, XXV).",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -160,14 +160,14 @@
     },
     {
       "key_topic_ref": "NH-13.3",
-      "question_text": "Besides the state homestead protection, what additional property tax relief can NH municipalities offer?",
-      "correct_answer": "A local homestead exemption on residential property",
-      "distractors": ["A complete property tax waiver for all residents", "A state-funded rebate on property taxes", "Automatic forgiveness of delinquent taxes"],
-      "explanation": "NH municipalities may adopt a local homestead exemption that reduces the taxable value of owner-occupied residential property. Additional exemptions for elderly, disabled, veteran, and blind residents are also available under state law.",
+      "question_text": "Besides the statewide homestead protection from creditors, what optional property tax relief may NH municipalities adopt under RSA 72?",
+      "correct_answer": "Exemptions and credits for elderly, disabled, and blind residents and veterans",
+      "distractors": ["A general homestead exemption on all owner-occupied homes", "A complete property tax waiver for all residents", "Automatic forgiveness of delinquent taxes"],
+      "explanation": "RSA 72 lets municipalities adopt optional exemptions for elderly (RSA 72:39-a), disabled (RSA 72:37-b), and blind (RSA 72:37) residents plus tax credits for veterans (RSA 72:28). New Hampshire has no general local homestead property-tax exemption — a 2024 bill to create one (HB 1034) failed. Owners who believe their assessment is wrong may seek an abatement under RSA 76:16.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["RSA 72", "municipal homestead exemption", "property tax"]
+      "tags": ["RSA 72", "optional exemptions", "property tax"]
     }
   ]
 }

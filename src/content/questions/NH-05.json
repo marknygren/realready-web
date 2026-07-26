@@ -18,9 +18,9 @@
     {
       "key_topic_ref": "NH-05.1",
       "question_text": "When must earnest money be deposited into the trust account under NH rules?",
-      "correct_answer": "Promptly upon acceptance or execution",
+      "correct_answer": "Promptly upon acceptance and execution",
       "distractors": ["Within 30 calendar days of receipt", "At the time of closing only", "When the buyer formally requests deposit"],
-      "explanation": "RSA 331-A:13 and Rea 702 require prompt deposit of earnest money upon acceptance or execution of the agreement. Delays in depositing client funds can constitute a violation of trust account regulations.",
+      "explanation": "RSA 331-A:13, I requires all deposits on fully executed contracts to be promptly deposited, and Rea 702.01(b) requires earnest money to be promptly deposited into the broker's separate escrow account upon acceptance and execution of a contract. Delays in depositing client funds can violate trust account regulations.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -42,11 +42,11 @@
       "question_text": "Can the NH Real Estate Commission audit a broker's trust account?",
       "correct_answer": "Yes, the Commission has audit authority",
       "distractors": ["Only with a formal court order", "Only after a consumer files a complaint", "No, trust accounts are considered private"],
-      "explanation": "RSA 331-A:13 and Rea 702 grant the Commission authority to audit trust accounts. This power ensures that client funds are properly maintained and not commingled with broker operating funds.",
+      "explanation": "Under RSA 331-A:13, V, on licensure the principal broker signs a permit giving the Commission permission to audit the escrow account or accounts. This standing audit authority ensures client funds are properly maintained and not commingled with operating funds.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["trust account audit", "Commission authority", "Rea 702"]
+      "tags": ["trust account audit", "Commission authority", "RSA 331-A:13"]
     },
     {
       "key_topic_ref": "NH-05.1",
@@ -64,7 +64,7 @@
       "question_text": "Under Rea 702.02, a salesperson receives an earnest money check. What must the salesperson do?",
       "correct_answer": "Deliver the funds to the principal broker promptly",
       "distractors": ["Deposit directly into the brokerage trust account", "Hold the check in a safe place until closing", "Return the check to the buyer for safekeeping"],
-      "explanation": "Rea 702.02 requires salespersons to deliver all funds received to the principal broker promptly. Salespersons are not authorized to hold or deposit trust funds independently; only the principal broker may manage trust account deposits.",
+      "explanation": "Rea 702.02 requires all monies received by a salesperson or associate broker in a transaction to be immediately delivered to his or her managing or principal broker. Salespersons are not authorized to hold or deposit trust funds independently; the principal broker maintains and controls the escrow account under RSA 331-A:13.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -75,7 +75,7 @@
       "question_text": "Who is authorized to disburse funds from a NH real estate trust account?",
       "correct_answer": "Only the principal broker",
       "distractors": ["Any licensed salesperson", "The buyer's attorney only", "Any authorized signer at the firm"],
-      "explanation": "Under Rea 702, only the principal broker may disburse funds from the trust account. This centralized control ensures accountability and reduces the risk of unauthorized withdrawals or improper disbursements.",
+      "explanation": "RSA 331-A:13 makes the escrow account the principal broker's responsibility: the principal broker maintains it, signs the audit permit at licensure, and may release contract deposits only on performance, written agreement of all parties, a court order, or the 90-day release process in RSA 331-A:13, VI. Centralizing control in the principal broker ensures accountability for client funds.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -86,7 +86,7 @@
       "question_text": "A salesperson deposits a buyer's check directly into the brokerage trust account without notifying the principal broker. Is this proper?",
       "correct_answer": "No, funds must go through the principal broker",
       "distractors": ["Yes, if deposited within 24 hours of receipt", "Yes, any licensed agent can deposit trust funds", "Only improper if the deposit exceeds $1,000"],
-      "explanation": "Under Rea 702.02, salespersons must deliver funds to the principal broker, who controls all trust account activity. Even a well-intentioned direct deposit by a salesperson violates the chain of custody required for trust funds.",
+      "explanation": "Under Rea 702.02, a salesperson must immediately deliver funds received to his or her managing or principal broker, who is responsible for the escrow account under RSA 331-A:13. Even a well-intentioned direct deposit without the broker's knowledge bypasses the required chain of custody for trust funds.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -97,7 +97,7 @@
       "question_text": "A transaction falls through and both parties claim the earnest money deposit. What should the principal broker do?",
       "correct_answer": "Hold the funds pending resolution or court order",
       "distractors": ["Return the funds to the buyer immediately", "Split the deposit equally between both parties", "Transfer the deposit to the state treasury"],
-      "explanation": "When there is a dispute over earnest money, the principal broker must hold the funds in the trust account pending a written agreement between the parties or a court order. Unilateral disbursement to either party would be improper.",
+      "explanation": "When earnest money is disputed, the principal broker holds the funds in the escrow account until the contract is terminated by performance, by written agreement between all parties, or by court order (RSA 331-A:13, IV). If a deposit is still held more than 90 days after the closing date, RSA 331-A:13, VI lets the broker release it through a certified-mail notice process with a 60-day window.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -108,7 +108,7 @@
       "question_text": "Which rule governs the handling of trust accounts in NH?",
       "correct_answer": "Rea 702",
       "distractors": ["Rea 404", "Rea 100", "Rea 900"],
-      "explanation": "Rea 702 is the administrative rule that governs trust account requirements in New Hampshire, including deposit procedures, account maintenance, disbursement authority, and Commission audit rights.",
+      "explanation": "Rea 702 (Handling of Funds) is the administrative rule governing trust accounts: Rea 702.01 requires a separate escrow account in a New Hampshire financial institution and prompt deposit of earnest money, and Rea 702.02 requires salespersons to deliver funds immediately to the managing or principal broker. Statutory escrow duties, including the audit permit, are in RSA 331-A:13.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -116,32 +116,32 @@
     },
     {
       "key_topic_ref": "NH-05.3",
-      "question_text": "Under Rea 404.01, what must a principal broker maintain?",
-      "correct_answer": "A definite place of business",
-      "distractors": ["A minimum number of salespersons", "A physical office in each county", "A separate office for each client"],
-      "explanation": "Rea 404.01 requires the principal broker to maintain a definite place of business from which real estate operations are conducted. This ensures consumers and regulators can locate and contact the brokerage.",
+      "question_text": "Under Rea 404.01, what must be displayed outside a broker's real estate office?",
+      "correct_answer": "A business sign identifying the office",
+      "distractors": ["The licenses of every affiliated salesperson", "The firm's escrow account records", "A list of the firm's current listings"],
+      "explanation": "Rea 404.01 requires a broker's business sign identifying the business office to be displayed outside the real estate office, where permitted by local zoning. License certificates are displayed inside the office or in an accessible public area under Rea 305.04, and escrow records are kept available to the Commission rather than posted.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["Rea 404.01", "place of business", "principal broker"]
+      "tags": ["Rea 404.01", "office sign", "place of business"]
     },
     {
       "key_topic_ref": "NH-05.3",
-      "question_text": "A principal broker opens a second branch office. What must be done under Rea 404?",
+      "question_text": "A principal broker opens a second branch office. What must be done under RSA 331-A:16?",
       "correct_answer": "Register the branch with the Commission",
-      "distractors": ["Obtain a separate broker license", "Close the original office first", "Hire an additional principal broker"],
-      "explanation": "Under the Rea 404 rules governing place of business, branch offices must be properly registered with the Commission. The principal broker remains responsible for operations at all locations.",
+      "distractors": ["Obtain approval from the local planning board", "Close the original office first", "Hire an additional principal broker"],
+      "explanation": "Under RSA 331-A:16, I, the principal broker must submit a branch office application form before opening any branch office and must designate a managing broker for the branch. The branch is licensed as a firm branch (Rea 301.01(e)), and the principal broker remains responsible for operations at all locations.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["branch office", "Rea 404", "registration"]
+      "tags": ["branch office", "RSA 331-A:16", "registration"]
     },
     {
       "key_topic_ref": "NH-05.3",
       "question_text": "A broker relocates the office without notifying the Commission. What obligation was missed?",
       "correct_answer": "Updating the place of business on record",
       "distractors": ["Obtaining a new surety bond for the location", "Retaking the state licensing exam", "Completing additional CE hours for relocation"],
-      "explanation": "Under Rea 404.01 and 404.02, the principal broker must keep the Commission informed of the definite place of business. A change of office address must be reported to maintain compliance with Commission records.",
+      "explanation": "Under Rea 404.02, each licensee and firm must keep the Commission informed of, among other things, the current work location address, and any change must be reported in writing or electronically no later than 10 days after it occurs. A change of office address must therefore be reported to keep Commission records current.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -160,14 +160,14 @@
     },
     {
       "key_topic_ref": "NH-05.3",
-      "question_text": "A Commission investigator arrives unannounced at a brokerage to examine records. Under Rea 404.03, can the broker refuse entry?",
+      "question_text": "A Commission investigator arrives unannounced at a brokerage to examine records. Can the broker refuse entry?",
       "correct_answer": "No, access must be granted for inspection",
       "distractors": ["Yes, 48-hour notice is required", "Yes, unless a complaint was filed", "Only if the broker's attorney is present"],
-      "explanation": "Rea 404.03 requires licensees to maintain records and provide Commission access for inspection. The Commission's investigative authority under RSA 331-A:30 does not require advance notice, and refusal to cooperate is itself a violation.",
+      "explanation": "Refusing to produce records is itself prohibited conduct: RSA 331-A:26, IX and XXXV bar failing on demand to produce documents, books, or records for inspection and copying by the Commission or its representatives, and the principal broker signs an escrow audit permit at licensure under RSA 331-A:13, V. OPLC investigators also have inspection and subpoena authority under RSA 310:9. Advance notice is not required, and refusal to cooperate is a violation.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["records inspection", "Rea 404.03", "Commission access"]
+      "tags": ["records inspection", "RSA 331-A:26", "Commission access"]
     }
   ]
 }

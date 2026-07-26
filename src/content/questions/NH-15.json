@@ -13,7 +13,7 @@
         "60 days",
         "7 days"
       ],
-      "explanation": "RSA 540 establishes a default 30-day notice period for eviction in New Hampshire. Shorter periods apply for nonpayment, damage, or non-compliance (7 days), and longer periods for non-renewal of 12+ month leases (60 days).",
+      "explanation": "RSA 540:3 sets a default 30-day notice for residential evictions. Only 7 days is required when the ground is nonpayment of rent, substantial damage, or behavior that adversely affects health or safety (RSA 540:2, II(a), (b), (d), (h)); violating another material lease term takes the full 30 days. Non-renewal of a lease with an original term of 12+ months requires 60 days (RSA 540:2, II(i)).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -32,7 +32,7 @@
         "14 days",
         "60 days"
       ],
-      "explanation": "Under RSA 540, nonpayment of rent, property damage, or non-compliance with lease terms requires only 7 days notice before the landlord can proceed with eviction.",
+      "explanation": "Under RSA 540:3, II, only 7 days' notice is required when the eviction ground is nonpayment of rent, substantial damage to the premises, or behavior adversely affecting health or safety. The notice must inform the tenant of the right to avoid eviction by paying the arrearage plus liquidated damages (RSA 540:9).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -51,7 +51,7 @@
         "90 days",
         "7 days"
       ],
-      "explanation": "Under RSA 540, when a landlord chooses not to renew a lease of 12 months or longer, 60 days notice is required. This provides longer-term tenants additional time to find alternative housing.",
+      "explanation": "Under RSA 540:2, II(i) (effective July 1, 2026), a landlord may terminate at the expiration of a lease whose original or cumulative renewed term is 12 months or longer, but must give written notice at least 60 days before the lease ends and file any possessory action within 6 months of expiration.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -70,7 +70,7 @@
         "$2,500 per violation plus court costs",
         "Criminal charges and up to 30 days jail"
       ],
-      "explanation": "RSA 540-A prohibits self-help eviction including lock changes, utility cutoffs, property removal, and harassment. Each violation subjects the landlord to $1,000 in damages plus the tenant's attorney fees.",
+      "explanation": "RSA 540-A prohibits self-help eviction including lock changes, utility cutoffs, property removal, and harassment. Each violation entitles the tenant to actual damages or $1,000, whichever is greater, plus costs and reasonable attorney's fees (RSA 540-A:4, IX; RSA 358-A:10); each day a violation continues after a court order is a separate violation.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -82,14 +82,14 @@
     },
     {
       "key_topic_ref": "NH-15.1",
-      "question_text": "A landlord owns a 3-unit building. What is the maximum security deposit the landlord can collect per unit?",
+      "question_text": "A landlord who lives elsewhere owns a 3-unit building. What is the maximum security deposit the landlord can collect per unit?",
       "correct_answer": "One month's rent",
       "distractors": [
         "Two months' rent",
         "First and last month's rent",
         "Three months' rent"
       ],
-      "explanation": "Under RSA 540-A:6, landlords with fewer than 5 units may collect a maximum security deposit of one month's rent. The deposit must be held in a separate bank account or bonded, and returned within 30 days with an itemized list.",
+      "explanation": "Under RSA 540-A:6, a security deposit may not exceed one month's rent or $100, whichever is greater. Deposits must be held in a NH bank trust account or bonded, earn interest if held a year or longer, and be returned within 30 days with an itemized list (RSA 540-A:7). Small owner-occupied buildings of 5 units or less (and single-family-only landlords) are exempt from these rules unless the unit's occupant is 60 or older (RSA 540-A:5).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -102,18 +102,18 @@
     {
       "key_topic_ref": "NH-15.2",
       "question_text": "New Hampshire follows which recording system for real property?",
-      "correct_answer": "Race-notice",
+      "correct_answer": "Notice",
       "distractors": [
+        "Race-notice",
         "Pure race",
-        "Pure notice",
         "Torrens system"
       ],
-      "explanation": "New Hampshire is a race-notice recording state, meaning the first party to record without notice of a prior unrecorded conveyance prevails. Both recording first AND lacking knowledge of prior claims are required.",
+      "explanation": "New Hampshire is a notice state. Under RSA 477:3-a, an unrecorded conveyance 'shall not be effective as against bona fide purchasers for value until so recorded' — a subsequent purchaser who pays value without notice of a prior unrecorded deed prevails, whether or not they record first. Recording still matters: once recorded, a deed gives constructive notice that defeats all later buyers.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
-        "race-notice",
+        "notice",
         "recording",
         "priority"
       ]
@@ -121,18 +121,18 @@
     {
       "key_topic_ref": "NH-15.2",
       "question_text": "Buyer A purchases a property but does not record the deed. Buyer B later purchases the same property without knowledge of Buyer A's deed and records immediately. Who prevails?",
-      "correct_answer": "Buyer B, who recorded first without notice",
+      "correct_answer": "Buyer B, a bona fide purchaser without notice",
       "distractors": [
         "Buyer A, who purchased first in time",
         "Neither, the court must decide",
         "The original seller retains ownership"
       ],
-      "explanation": "Under NH's race-notice system, Buyer B prevails because they both recorded first AND had no notice of Buyer A's prior unrecorded deed. If Buyer B had known about Buyer A's deed, Buyer A would prevail despite not recording.",
+      "explanation": "Under NH's notice statute (RSA 477:3-a), Buyer B prevails because B purchased for value without notice of Buyer A's unrecorded deed — B wins even if A had recorded moments after B's purchase. B's own prompt recording protects B against anyone who might buy later. If B had known of A's deed, B would not be a bona fide purchaser and A would prevail.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": [
-        "race-notice",
+        "notice",
         "recording priority",
         "unrecorded deed"
       ]
@@ -216,21 +216,21 @@
     },
     {
       "key_topic_ref": "NH-15.3",
-      "question_text": "A spouse claims rights in property that the deceased owner tried to convey before death. Which statute protects spousal rights?",
-      "correct_answer": "RSA 477:18",
+      "question_text": "A deed conveys NH property to two buyers without mentioning survivorship. Under RSA 477:18, what form of co-ownership is created?",
+      "correct_answer": "Tenancy in common",
       "distractors": [
-        "RSA 563-D",
-        "RSA 561",
-        "RSA 551"
+        "Joint tenancy with right of survivorship",
+        "Tenancy by the entirety",
+        "Community property"
       ],
-      "explanation": "RSA 477:18 addresses spousal rights in New Hampshire property conveyances, providing protections that prevent one spouse from unilaterally conveying property without the other's consent.",
+      "explanation": "RSA 477:18 provides that a conveyance or devise to 2 or more persons creates an estate in common unless a joint tenancy is expressly stated. Even the words 'as tenants by the entirety' are construed as creating a joint tenancy — New Hampshire does not recognize tenancy by the entirety as a separate estate. Spousal protection against unilateral conveyance comes instead from the homestead statute (RSA 480:5-a).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "RSA 477:18",
-        "spousal rights",
-        "conveyance"
+        "tenancy in common",
+        "co-ownership"
       ]
     },
     {
