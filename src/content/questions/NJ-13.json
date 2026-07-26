@@ -28,7 +28,7 @@
         "Both parties split equally",
         "The listing broker pays"
       ],
-      "explanation": "In New Jersey, the Realty Transfer Fee is customarily paid by the seller, although this is negotiable between the parties. The fee applies to transfers of real property recorded with the county clerk.",
+      "explanation": "In New Jersey, the seller (grantor) is statutorily responsible for the Realty Transfer Fee, which is collected when the deed is recorded with the county clerk. The parties may agree between themselves that the buyer will bear the cost, but the law imposes the fee on the seller.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -67,13 +67,13 @@
     {
       "key_topic_ref": "NJ-13.1",
       "question_text": "An agent explains that the NJ Realty Transfer Fee obligation is fixed by statute and cannot be changed. Is this accurate?",
-      "correct_answer": "No, which party pays is negotiable",
+      "correct_answer": "No, the parties may shift the cost by contract",
       "distractors": [
         "Yes, the buyer must always pay",
         "Yes, only sellers may pay by law",
         "No, brokers always absorb the cost"
       ],
-      "explanation": "While the seller customarily pays the NJ Realty Transfer Fee, the obligation is negotiable between buyer and seller. The statute requires the fee be paid but does not prohibit the parties from allocating it differently in their contract.",
+      "explanation": "The Realty Transfer Fee is imposed by statute on the seller (grantor) and is collected when the deed is recorded, so the State always looks to the seller for payment. The parties are nonetheless free to negotiate who ultimately bears the cost — for example, the buyer may agree to reimburse the seller — so the agent's claim that the allocation can never change is inaccurate.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -133,7 +133,7 @@
         "1.0% as the original mansion tax",
         "2.5% for sales above $2.5 million"
       ],
-      "explanation": "For sales at $3.5 million and above, the seller-paid graduated mansion tax rate is 3.5%, which is the highest bracket. This represents a significant increase from the former flat 1% buyer-paid rate.",
+      "explanation": "For sales in excess of $3.5 million, the seller-paid Graduated Percent Fee is 3.5% of the entire consideration — the highest bracket. A sale of exactly $3.5 million falls in the 3% bracket; the 3.5% rate begins only above that amount. This is a significant increase from the former flat 1% buyer-paid fee.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -172,13 +172,13 @@
     {
       "key_topic_ref": "NJ-13.3",
       "question_text": "A non-resident seller closes on a NJ property sale. What withholding requirement applies?",
-      "correct_answer": "Prepay 2% of sale price for income tax",
+      "correct_answer": "An estimated tax prepayment of at least 2% of the price",
       "distractors": [
         "Prepay 5% of sale price at closing",
         "No withholding applies to non-residents",
         "Prepay 1% of assessed value for tax"
       ],
-      "explanation": "Non-resident sellers in New Jersey must prepay 2% of the sale price as Gross Income Tax withholding at closing. This amount is credited toward the seller's NJ state income tax liability on the gain from the sale.",
+      "explanation": "Nonresident sellers must make an estimated Gross Income Tax payment at closing, computed as the gain on the sale multiplied by the highest tax rate (10.75%) — but never less than 2% of the total consideration, which is the figure most often quoted (N.J.S.A. 54A:8-9). The payment is remitted with the GIT/REP forms and is credited when the seller files a New Jersey nonresident return.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -186,18 +186,18 @@
     },
     {
       "key_topic_ref": "NJ-13.3",
-      "question_text": "A first-time homebuyer purchases a $130,000 property in NJ. What transfer fee benefit may apply?",
-      "correct_answer": "A partial exemption from the fee",
+      "question_text": "Which seller qualifies for a partial exemption (reduced rates) from the NJ Realty Transfer Fee?",
+      "correct_answer": "A qualifying senior citizen aged 62 or older",
       "distractors": [
-        "A full exemption from all fees",
-        "A doubled fee rebated after one year",
-        "No benefit for first-time buyers"
+        "A first-time homebuyer purchasing any home",
+        "Any seller of property priced under $200,000",
+        "A seller who has owned the home under five years"
       ],
-      "explanation": "New Jersey provides a partial Realty Transfer Fee exemption for qualifying first-time homebuyers. This reduces but does not eliminate the fee, making homeownership slightly more affordable for those entering the market.",
+      "explanation": "New Jersey's partial exemption reduces Realty Transfer Fee rates for qualifying senior citizens aged 62 or older, blind persons, disabled persons, and low- and moderate-income housing, claimed on the RTF-1 affidavit of consideration (N.J.S.A. 46:15-10.1). There is no Realty Transfer Fee break for first-time homebuyers — the buyer's status is irrelevant because the fee is imposed on the seller.",
       "difficulty": "medium",
-      "cognitive_level": "application",
+      "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["first-time-buyer", "partial-exemption", "NJ"]
+      "tags": ["partial-exemption", "senior-citizen", "realty-transfer-fee", "NJ"]
     },
     {
       "key_topic_ref": "NJ-13.3",
@@ -208,7 +208,7 @@
         "Refunded automatically within 60 days",
         "Applied to the buyer's future tax bill"
       ],
-      "explanation": "The 2% non-resident withholding is not a separate tax but a prepayment of NJ Gross Income Tax. When the seller files a NJ income tax return, the withheld amount is credited against any tax owed on the capital gain.",
+      "explanation": "The nonresident payment is not a separate tax but an estimated payment of NJ Gross Income Tax, computed on the gain at the highest rate with a floor of 2% of the consideration. When the seller files a New Jersey nonresident return, the amount is credited against the tax owed on the gain, and any excess is refunded.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -216,14 +216,14 @@
     },
     {
       "key_topic_ref": "NJ-13.3",
-      "question_text": "A court orders the transfer of property in a NJ divorce proceeding. What Realty Transfer Fee applies?",
+      "question_text": "A NJ judge, in divorce rulings (not a negotiated settlement), orders one spouse's interest transferred to the other. What Realty Transfer Fee applies?",
       "correct_answer": "The transfer is exempt from the fee",
       "distractors": [
         "Half the standard fee rate applies",
         "The full standard rate must be paid",
         "Only the graduated mansion tax applies"
       ],
-      "explanation": "Court-ordered transfers are among the statutory exemptions from the NJ Realty Transfer Fee. This includes transfers resulting from divorce decrees, foreclosure judgments, and similar judicial orders.",
+      "explanation": "A transfer that the judge actually orders in the court's own rulings is exempt as a deed 'in specific performance of a final judgment,' and — separately — any deed between the former spouses recorded within 90 days after the divorce decree is exempt (N.J.S.A. 46:15-10(p)). When the judgment merely incorporates the couple's settlement agreement AND the deed is recorded more than 90 days after the decree, the Division of Taxation treats the transfer as consensual and the fee is due on the consideration, including any mortgage balance assumed. Foreclosure sheriff's deeds are not exempt; they pay the fee on the sale consideration.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

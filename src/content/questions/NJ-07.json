@@ -32,7 +32,7 @@
         "Deposit it into the broker's operating account",
         "Return it to the buyer until the offer is accepted"
       ],
-      "explanation": "All earnest money deposits must be placed into the broker's trust/escrow account promptly. Holding funds in a safe, depositing them into a personal or operating account, or returning them without cause would violate trust fund handling requirements.",
+      "explanation": "All earnest money deposits must be placed into the broker's trust/escrow account promptly. Holding funds in a safe, depositing them into a personal or operating account, or returning them without cause would violate trust fund handling requirements. Under N.J.A.C. 11:5-5.1, 'promptly' means not more than five business days after receipt.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -197,19 +197,19 @@
     {
       "key_topic_ref": "NJ-07.3",
       "question_text": "How often must a New Jersey broker reconcile trust account records?",
-      "correct_answer": "Monthly",
+      "correct_answer": "At least quarterly",
       "distractors": [
-        "Quarterly",
+        "Monthly",
         "Annually",
         "Only when requested by NJREC"
       ],
-      "explanation": "New Jersey requires monthly reconciliation of trust account records. Quarterly or annual reconciliation would not satisfy this requirement. The obligation is ongoing and does not depend on an NJREC request or audit.",
+      "explanation": "N.J.A.C. 11:5-5.4(b) requires brokers to keep records showing that at least quarterly a reconciliation has been made of the checkbook balance, the bank statement balance, and the client trust ledger sheet balances. Monthly reconciliation is good practice, but the rule's minimum is quarterly. The obligation is ongoing and does not depend on an NJREC request or audit.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
         "reconciliation",
-        "monthly",
+        "quarterly",
         "trust-account"
       ]
     },

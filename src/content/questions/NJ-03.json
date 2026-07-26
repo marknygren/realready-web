@@ -58,7 +58,7 @@
         "The matter is sent to civil court",
         "A settlement is required before a hearing"
       ],
-      "explanation": "When an investigation produces sufficient evidence, NJREC schedules a formal hearing to adjudicate the matter. Automatic suspension without a hearing would violate due process. The matter is handled administratively, not in civil court, and settlement is not mandatory before a hearing.",
+      "explanation": "When an investigation produces sufficient evidence, NJREC schedules a formal hearing to adjudicate the matter. Except for a temporary suspension available in limited cases under N.J.S.A. 45:15-17.1, the Commission must give the licensee written notice of the charges and an opportunity to be heard before suspending or revoking a license (N.J.S.A. 45:15-18). The matter is handled administratively, not in civil court, and settlement is not mandatory before a hearing.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -148,7 +148,7 @@
         "No liability if the broker was unaware",
         "Liability only if she profited from the fraud"
       ],
-      "explanation": "Failure to supervise is an independent ground for discipline against the managing broker. Brokers have an affirmative duty to oversee their agents' activities. Lack of knowledge does not excuse the failure to supervise. Criminal liability requires direct involvement, but administrative discipline applies for inadequate oversight.",
+      "explanation": "Failure to supervise is an independent basis for discipline against the managing broker: N.J.A.C. 11:5-4.2 holds individual brokers responsible for the actions of everyone licensed through them, and violating Commission rules is itself a ground for discipline under N.J.S.A. 45:15-17(t). Lack of knowledge does not excuse inadequate oversight. Criminal liability requires direct involvement, but administrative discipline applies for the supervision failure alone.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -156,33 +156,33 @@
     },
     {
       "key_topic_ref": "NJ-03.3",
-      "question_text": "What is the least severe sanction NJREC can impose on a licensee?",
-      "correct_answer": "A written warning",
+      "question_text": "Which of the following is a sanction the New Jersey Real Estate Commission is authorized to impose under N.J.S.A. 45:15-17?",
+      "correct_answer": "Placing the licensee on probation",
       "distractors": [
-        "A monetary fine",
-        "License suspension",
-        "Mandatory additional education"
+        "Issuing a formal written warning",
+        "Ordering community service hours",
+        "Requiring completion of remedial coursework"
       ],
-      "explanation": "A written warning is the least severe sanction available to NJREC. Fines, suspension, mandatory education, and revocation represent progressively more serious penalties. Written warnings are typically used for minor first-time violations.",
+      "explanation": "N.J.S.A. 45:15-17 authorizes the Commission to place a licensee on probation, suspend or revoke the license, or impose a fine of up to $5,000 for a first violation and up to $10,000 for any subsequent violation. Written warnings, community service, and mandatory coursework are not statutory sanctions. The Commission's actual disciplinary orders impose revocations, suspensions, fines, and probation.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["sanctions", "written_warning"]
+      "tags": ["sanctions", "probation", "NJSA_45:15-17"]
     },
     {
       "key_topic_ref": "NJ-03.3",
       "question_text": "A licensee's license is revoked by NJREC. How does this differ from a suspension?",
-      "correct_answer": "Revocation is permanent; suspension is temporary",
+      "correct_answer": "Revocation terminates the license; relicensure requires Commission approval",
       "distractors": [
-        "Revocation allows reapplication in one year",
+        "Revocation automatically expires after 90 days",
         "Suspension requires a court order to lift",
         "There is no practical difference"
       ],
-      "explanation": "License revocation is a permanent removal of the right to practice, while suspension is a temporary prohibition. A revoked licensee cannot simply reapply after a waiting period. Suspension ends after the specified period or when conditions are met, without requiring a court order.",
+      "explanation": "Revocation terminates the license — often for a stated period — and the person cannot practice again unless the Commission approves relicensure, which can be conditioned on restitution and retaking the license examination under N.J.A.C. 11:5-8.1. A suspension is a temporary bar that ends when the period expires or its conditions are met. Revocation is not automatically permanent, but a licensee deemed a repeat offender after a third violation can be barred from ever holding a license again.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["revocation", "suspension", "sanctions"]
+      "tags": ["revocation", "suspension", "reinstatement", "sanctions"]
     },
     {
       "key_topic_ref": "NJ-03.3",
@@ -202,17 +202,17 @@
     {
       "key_topic_ref": "NJ-03.3",
       "question_text": "NJREC determines that a broker's misconduct warrants discipline but not license suspension. Which sanctions might the Commission impose instead?",
-      "correct_answer": "A fine and required additional education",
+      "correct_answer": "A monetary fine or a period of probation",
       "distractors": [
         "Only a verbal reprimand with no record",
         "Community service hours",
         "Transfer to another broker's supervision"
       ],
-      "explanation": "NJREC can impose fines and require additional education as alternatives to suspension. Verbal reprimands without documentation, community service, and mandatory transfers are not sanctions available to the Commission. The range of administrative penalties allows NJREC to tailor discipline to the severity of the offense.",
+      "explanation": "N.J.S.A. 45:15-17 lets the Commission impose a fine — up to $5,000 for a first violation and $10,000 for any subsequent violation — in addition to or as an alternative to probation, suspension, or revocation, and probation itself is an authorized sanction short of suspension. Verbal reprimands, community service, mandatory education, and forced transfers are not sanctions available to the Commission.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["fines", "additional_education", "sanctions"]
+      "tags": ["fines", "probation", "sanctions"]
     },
     {
       "key_topic_ref": "NJ-03.3",

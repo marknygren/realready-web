@@ -118,7 +118,7 @@
         "Approval from adjacent property owners",
         "County tax assessor certification"
       ],
-      "explanation": "Before any development near freshwater wetlands, the exact wetland boundaries must be professionally delineated. Buffer zones around these boundaries further restrict nearby development activity.",
+      "explanation": "Before any development near freshwater wetlands, the exact wetland boundaries must be professionally delineated. Buffer zones (transition areas) around wetlands of exceptional and intermediate resource value further restrict nearby development activity.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -126,18 +126,18 @@
     },
     {
       "key_topic_ref": "NJ-15.2",
-      "question_text": "A property borders a delineated wetland in NJ. How do buffer zones affect development?",
+      "question_text": "A property borders a delineated wetland of exceptional resource value in NJ. How do transition areas (buffers) affect development?",
       "correct_answer": "Buffer zones restrict nearby development",
       "distractors": [
         "Buffers apply only to commercial projects",
         "No restrictions exist outside the wetland",
         "Buffers encourage development as transition zones"
       ],
-      "explanation": "NJ freshwater wetland regulations establish buffer zones around delineated wetlands that restrict development in adjacent areas. These buffers protect wetland ecology from the impacts of nearby construction and land disturbance.",
+      "explanation": "NJDEP's freshwater wetlands rules require transition areas next to wetlands of exceptional resource value (standard width 150 feet) and intermediate resource value (50 feet); wetlands of ordinary resource value carry no transition area (N.J.A.C. 7:7A-3.3). Regulated activities within a transition area require a waiver from NJDEP, so these buffers restrict construction and land disturbance on the adjacent upland.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["buffer-zones", "wetland-protection", "NJ"]
+      "tags": ["buffer-zones", "transition-areas", "wetland-protection", "NJ"]
     },
     {
       "key_topic_ref": "NJ-15.2",
@@ -163,7 +163,7 @@
         "The county Board of Taxation",
         "The state Land Use Council"
       ],
-      "explanation": "The MLUL assigns variance authority to the Zoning Board of Adjustment. This board hears requests for both use variances (requesting a different use) and bulk variances (requesting dimensional deviations).",
+      "explanation": "The MLUL assigns variance authority to the Zoning Board of Adjustment. This board hears requests for both use variances (requesting a different use) and bulk variances (requesting dimensional deviations). The Planning Board may grant bulk (c) variances only when they are ancillary to a subdivision or site plan application already before it (N.J.S.A. 40:55D-60); use (d) variances also require five affirmative votes of the zoning board (N.J.S.A. 40:55D-70).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -216,14 +216,14 @@
     },
     {
       "key_topic_ref": "NJ-15.3",
-      "question_text": "What two documents does the MLUL require every NJ municipality to maintain?",
+      "question_text": "Under the MLUL, which two documents form the foundation of a NJ municipality's land use regulation?",
       "correct_answer": "A master plan and zoning ordinance",
       "distractors": [
         "A tax map and capital budget only",
         "A housing plan and building code only",
         "A redevelopment plan and traffic study"
       ],
-      "explanation": "The Municipal Land Use Law requires each municipality to adopt a master plan and a zoning ordinance. The master plan guides long-term development goals, while the zoning ordinance implements specific land use regulations.",
+      "explanation": "The master plan, adopted by the planning board, sets long-term development policy, and the zoning ordinance implements it with binding regulations. Under N.J.S.A. 40:55D-62, a zoning ordinance may be adopted only after the planning board has adopted the land use and housing elements of the master plan, and it must be substantially consistent with those elements unless the governing body overrides by a majority of its full membership with recorded reasons.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -253,7 +253,7 @@
         "No penalty if proper notice is given",
         "Loss of future tax benefits only"
       ],
-      "explanation": "When farmland-assessed property is converted to non-agricultural use, NJ imposes rollback taxes. These equal the difference between the reduced farmland assessment and full property assessment for the applicable prior years.",
+      "explanation": "When farmland-assessed property is converted to non-agricultural use, NJ imposes rollback taxes. These equal the difference between the reduced farmland assessment and full assessment for the year the use changes plus the two preceding tax years.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -283,7 +283,7 @@
         "Double the current year property tax bill",
         "Market value minus the purchase price"
       ],
-      "explanation": "Rollback taxes equal the difference between what was paid under farmland assessment and what would have been owed under full market assessment for the applicable prior tax years. This recaptures the tax benefit previously received.",
+      "explanation": "Rollback taxes equal the difference between what was paid under farmland assessment and what would have been owed under full market assessment for the year of the change in use and the two preceding tax years. This recaptures the tax benefit previously received.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

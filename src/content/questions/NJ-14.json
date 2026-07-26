@@ -21,18 +21,18 @@
     },
     {
       "key_topic_ref": "NJ-14.1",
-      "question_text": "A tenant files a health code complaint. The landlord serves an eviction notice 45 days later. What is the likely legal outcome?",
-      "correct_answer": "Presumed retaliatory within 90 days",
+      "question_text": "A tenant makes a good-faith complaint to the health department. The landlord then serves a notice to quit without stating any cause. What is the likely legal outcome?",
+      "correct_answer": "The notice is presumed to be a reprisal",
       "distractors": [
-        "Valid if proper notice was given",
-        "Retaliatory only if within 30 days",
+        "Valid, because proper notice was given",
+        "Retaliatory only if served within 90 days",
         "Automatically dismissed by the court"
       ],
-      "explanation": "Under NJ law, an eviction filed within 90 days of a tenant's complaint is presumed retaliatory. The landlord bears the burden of proving a legitimate, non-retaliatory reason for the eviction action.",
+      "explanation": "Under N.J.S.A. 2A:42-10.12, a notice to quit or substantial change in tenancy terms served without cause after a tenant's good-faith complaint to a government authority creates a rebuttable presumption of reprisal, and the landlord must prove a legitimate, non-retaliatory reason. The statute imposes no 90-day window on the presumption — its only 90-day language is an exception for lease-renewal requests made more than 90 days before the lease expires. Reprisal protections do not apply to owner-occupied two- or three-family dwellings.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["retaliatory-eviction", "90-day-presumption", "NJ"]
+      "tags": ["retaliatory-eviction", "reprisal-presumption", "NJ"]
     },
     {
       "key_topic_ref": "NJ-14.1",
@@ -163,7 +163,7 @@
         "Only landlords with 10 or more units",
         "Only commercial property landlords"
       ],
-      "explanation": "The NJ Truth in Renting Act requires landlords of buildings with three or more dwelling units to provide tenants with the Truth in Renting booklet. This booklet is published by the Department of Community Affairs.",
+      "explanation": "The Truth in Renting Act requires distribution of the DCA statement to tenants (rental terms of at least one month) in residences with more than two dwelling units — or more than three when the landlord occupies one of the units (N.J.S.A. 46:8-44). A non-owner-occupied three-unit building is covered, but an owner-occupied three-family, two-unit premises, and hotels or seasonal guest housing are exempt.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -208,7 +208,7 @@
         "Required only for month-to-month leases",
         "Required if the rent exceeds $1,500"
       ],
-      "explanation": "The Truth in Renting Act applies only to buildings with three or more dwelling units. A duplex has only two units, so the landlord is not required to provide the booklet, though doing so voluntarily is permissible.",
+      "explanation": "The Truth in Renting statement requirement applies to residences with more than two dwelling units — more than three if the landlord occupies one of the units (N.J.S.A. 46:8-44). A duplex has only two units, so the landlord is not required to distribute the DCA statement, though providing it voluntarily is permissible.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -247,13 +247,13 @@
     {
       "key_topic_ref": "NJ-14.4",
       "question_text": "A NJ landlord plans to raise rent on an existing tenant. How much written notice is required?",
-      "correct_answer": "30 days written notice before the increase",
+      "correct_answer": "One full month's written notice to the tenant",
       "distractors": [
-        "14 days written notice before the increase",
-        "60 days written notice before the increase",
-        "90 days written notice before the increase"
+        "14 days' written notice before the increase",
+        "60 days' written notice before the increase",
+        "90 days' written notice before the increase"
       ],
-      "explanation": "NJ law requires landlords to provide 30 days written notice before implementing a rent increase. This applies regardless of whether the property is in a municipality with rent control.",
+      "explanation": "A NJ landlord cannot raise rent mid-lease. The existing tenancy must first be ended with a valid notice to quit paired with an offer of a new tenancy at the higher rent, and for month-to-month tenancies that notice must be given at least one full month before the increase takes effect (N.J.S.A. 2A:18-61.1(f)) — commonly described as 30 days' notice. The increase also must not be unconscionable and must comply with any municipal rent control ordinance.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -280,10 +280,10 @@
       "correct_answer": "Whether the property is in a FEMA flood area",
       "distractors": [
         "The cost of flood insurance premiums",
-        "Historical flood damage repair records",
+        "The property's elevation above sea level",
         "Proximity to the nearest waterway"
       ],
-      "explanation": "The 2024 Flood Risk Notice law requires NJ landlords to disclose whether the property is located in a FEMA-designated flood hazard area. This helps tenants make informed decisions and obtain renter's flood insurance if needed.",
+      "explanation": "Under P.L.2023, c.93 (operative for leases signed or renewed from 2024, 90 days after DCA published the model notice), landlords must disclose before lease signing or renewal whether the property is in FEMA's Special (100-year) or Moderate Risk (500-year) Flood Hazard Area — and also whether they have actual knowledge that the premises or its parking areas have flooded. Every residential lease must include a notice that renters' flood insurance is available through the NFIP. The requirement does not cover buildings of two or fewer units or owner-occupied three-family homes.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,

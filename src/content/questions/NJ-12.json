@@ -260,7 +260,7 @@
         "Sheriff's sale, court hearing, lis pendens, deed",
         "Court filing, mediation, trustee sale, eviction"
       ],
-      "explanation": "NJ foreclosure proceeds in order: notice of default to the borrower, filing of lis pendens, court proceedings, and finally a sheriff's sale. Each step provides the borrower with notice and an opportunity to respond.",
+      "explanation": "NJ foreclosure proceeds in order: the lender serves the Fair Foreclosure Act notice of intention at least 30 days before filing suit (N.J.S.A. 2A:50-56), then files the complaint and a lis pendens, the case runs through the court to final judgment, and the property is sold at a sheriff's sale. Each step provides the borrower with notice and an opportunity to respond.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -291,21 +291,21 @@
     },
     {
       "key_topic_ref": "NJ-12.4",
-      "question_text": "In New Jersey, when must a borrower exercise the right of redemption to save a foreclosed property?",
-      "correct_answer": "Before the sheriff's sale takes place",
+      "question_text": "In New Jersey, how late in the foreclosure process may a borrower exercise the right of redemption?",
+      "correct_answer": "Until 10 days after the sheriff's sale",
       "distractors": [
+        "Only until the foreclosure complaint is filed",
         "Within 90 days after the sheriff's sale",
-        "Within one year of the default notice",
-        "At any time before the deed is recorded"
+        "Until one year after the sheriff's deed is recorded"
       ],
-      "explanation": "In NJ, the borrower has the right of redemption before the sheriff's sale by paying the full amount owed. Once the sheriff's sale is conducted, this right is generally extinguished.",
+      "explanation": "New Jersey allows equitable redemption up to and even briefly after the sheriff's sale. Under Hardyston National Bank v. Tartamella and Court Rule 4:65-5, the borrower may redeem by paying the full debt plus costs during the 10-day period for objecting to the sale, and until the court confirms the sale if objections are filed. Once that window closes and the deed is delivered, the right is extinguished — New Jersey has no long statutory post-sale redemption period.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
         "right-of-redemption",
         "sheriffs-sale",
-        "foreclosure"
+        "10-day-period"
       ]
     },
     {
@@ -317,7 +317,7 @@
         "Only if the borrower agrees in the mortgage",
         "No, the lender must absorb the full loss"
       ],
-      "explanation": "New Jersey permits deficiency judgments, allowing lenders to pursue borrowers for the difference between the foreclosure sale price and the outstanding debt. This can be a significant financial risk for defaulting borrowers.",
+      "explanation": "New Jersey permits deficiency judgments, allowing lenders to pursue borrowers for the difference between the foreclosure sale price and the outstanding debt. The deficiency suit must be brought as a separate action within three months of the sale, and the borrower may ask the court to credit the property's fair market value against the debt, which can shrink or eliminate the deficiency (N.J.S.A. 2A:50-2, 2A:50-3).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

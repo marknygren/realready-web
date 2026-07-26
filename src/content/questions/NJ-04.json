@@ -13,7 +13,7 @@
         "Fund NJREC annual operating expenses",
         "Provide down payment assistance to buyers"
       ],
-      "explanation": "The Guaranty Fund exists to compensate members of the public who suffer financial losses due to the misconduct of licensed real estate professionals. It does not insure brokers, fund agency operations, or provide buyer assistance programs.",
+      "explanation": "The Guaranty Fund compensates members of the public for losses caused by the embezzlement, conversion, or unlawful obtaining of money or property in a real estate brokerage transaction by a licensee or by an unlicensed employee of a licensed broker (N.J.S.A. 45:15-34). It does not insure brokers, fund agency operations, or provide buyer assistance programs.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -32,7 +32,7 @@
         "Through fines collected from disciplined licensees",
         "Through voluntary contributions by brokerages"
       ],
-      "explanation": "The Guaranty Fund is funded by mandatory contributions included in license fees: $10 per salesperson and $20 per broker. It is not funded by taxes, disciplinary fines, or voluntary contributions. Every licensee contributes regardless of their disciplinary history.",
+      "explanation": "The Guaranty Fund is financed by a mandatory payment made in addition to the license fee upon initial issuance of a license: $10 for salespersons and $20 for brokers and broker-salespersons (N.J.S.A. 45:15-35). If the Fund ever cannot cover court-ordered payments, the Commission may assess additional amounts from all licensees to replenish it (N.J.S.A. 45:15-40). It is not funded by taxes, disciplinary fines, or voluntary contributions.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -51,7 +51,7 @@
         "$50",
         "$100"
       ],
-      "explanation": "Brokers contribute $20 per licensing period to the Guaranty Fund, while salespersons contribute $10. The higher broker contribution reflects the broker's greater responsibility in real estate transactions. These amounts are set by statute and included in the overall license fee.",
+      "explanation": "Brokers and broker-salespersons pay $20 and salespersons pay $10 into the Guaranty Fund — a one-time amount paid in addition to the license fee upon initial issuance of the license (N.J.S.A. 45:15-35). The higher broker contribution reflects the broker's greater responsibility in real estate transactions.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -64,20 +64,20 @@
     },
     {
       "key_topic_ref": "NJ-04.1",
-      "question_text": "A consumer loses money because an unlicensed person conducted a real estate transaction. Can she file a Guaranty Fund claim?",
-      "correct_answer": "No, the claim must involve a licensed person",
+      "question_text": "A consumer loses money to an unlicensed con artist with no connection to any brokerage who staged a fake real estate deal. Can she file a Guaranty Fund claim?",
+      "correct_answer": "No, the Fund does not cover independent unlicensed operators",
       "distractors": [
         "Yes, all real estate losses are covered",
         "Yes, if the loss exceeds $1,000",
         "Yes, if she files within one year"
       ],
-      "explanation": "Guaranty Fund claims must involve losses caused by the misconduct of a person who was licensed at the time of the transaction. Losses caused by unlicensed individuals are not covered because the Fund is specifically tied to licensed activity. Other legal remedies may be available outside the Fund.",
+      "explanation": "The Guaranty Fund covers losses from the embezzlement, conversion, or unlawful obtaining of money or property in a real estate brokerage transaction by a licensed broker, broker-salesperson, or salesperson — or by an unlicensed employee of a licensed broker (N.J.S.A. 45:15-34). Someone operating entirely outside a licensed brokerage is not covered, though other legal remedies may be available. The underlying civil action must be filed within six years, not one (N.J.S.A. 45:15-38).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "Guaranty_Fund",
-        "licensed_activity",
+        "unlicensed_activity",
         "eligibility"
       ]
     },
@@ -109,7 +109,7 @@
         "An NJREC disciplinary finding",
         "A written apology from the licensee"
       ],
-      "explanation": "Claimants must first obtain a civil court judgment establishing the licensee's liability and then demonstrate inability to collect. A criminal conviction or NJREC disciplinary action alone is not sufficient. The Fund is a remedy of last resort after normal collection efforts fail.",
+      "explanation": "Claimants must first reduce their claim to a final judgment in a civil action, then show they pursued all available remedies — including a writ of execution and examination of the debtor — and still could not collect (N.J.S.A. 45:15-37; N.J.A.C. 11:5-8.2). The claimant must also certify that a criminal complaint about the same conduct was filed with law enforcement, but no conviction is required. The Fund is a remedy of last resort accessed through a court order directing payment.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -128,7 +128,7 @@
         "$25,000",
         "$10,000"
       ],
-      "explanation": "The maximum Guaranty Fund payout is $20,000 per transaction, regardless of the actual judgment amount. The $10,000 remaining above the cap is unrecoverable from the Fund. This limit is set by N.J.S.A. 45:15-37 and applies as an aggregate cap.",
+      "explanation": "The maximum Guaranty Fund payout is $20,000 per transaction in the aggregate, set by N.J.S.A. 45:15-34, regardless of the judgment amount. The $10,000 remaining above the cap is unrecoverable from the Fund, although the claimant keeps the judgment and can still pursue the licensee for it. N.J.S.A. 45:15-37 governs the claim procedure, not the cap.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -198,51 +198,51 @@
     {
       "key_topic_ref": "NJ-04.3",
       "question_text": "What happens to a licensee's license when the Guaranty Fund pays a claim based on that licensee's misconduct?",
-      "correct_answer": "The license is automatically suspended",
+      "correct_answer": "The license is revoked",
       "distractors": [
-        "The license remains active with a notation",
+        "The license is suspended for 90 days",
         "The license is placed on probation",
-        "Nothing until a separate hearing is held"
+        "Nothing happens until a separate hearing is held"
       ],
-      "explanation": "Payment from the Guaranty Fund triggers automatic suspension of the licensee's license. No separate hearing or additional proceedings are required for the suspension. This is a statutory consequence that occurs immediately upon Fund payment, not a discretionary decision.",
+      "explanation": "Under N.J.S.A. 45:15-41, the license of the licensee whose acts gave rise to the claim is revoked upon the issuance of the court order directing payment from the Guaranty Fund. No separate disciplinary hearing is required. The licensee is not eligible for reinstatement until the underlying judgment is satisfied in full, including reimbursing the Fund with interest.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
         "Guaranty_Fund",
-        "automatic_suspension",
+        "revocation",
         "license_consequence"
       ]
     },
     {
       "key_topic_ref": "NJ-04.3",
-      "question_text": "A licensee's license was automatically suspended after a Fund payout. How long does the suspension last?",
-      "correct_answer": "Until the licensee fully repays the Fund",
+      "question_text": "A licensee's license was revoked after a Guaranty Fund payout. When does she become eligible for license reinstatement?",
+      "correct_answer": "After the judgment is satisfied in full, including repaying the Fund with interest",
       "distractors": [
-        "One year from the date of suspension",
-        "Until the next renewal period",
-        "Six months with mandatory education"
+        "One year from the date of revocation",
+        "At the start of the next renewal period",
+        "After six months plus mandatory education"
       ],
-      "explanation": "The suspension continues indefinitely until the licensee fully repays the amount the Fund disbursed. There is no fixed time period. The suspension is not lifted by completing education or waiting for a renewal cycle. Full repayment is the sole condition for lifting this type of suspension.",
+      "explanation": "N.J.S.A. 45:15-41 makes a licensee whose acts caused a Guaranty Fund payout ineligible for reinstatement until the judgment is satisfied in full, including reimbursement of the Fund together with interest. There is no fixed time period, and neither education nor the arrival of a renewal cycle restores eligibility. Note that the standard is satisfying the entire judgment — not merely paying back the Fund's disbursement.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
         "Guaranty_Fund",
-        "repayment",
-        "suspension_duration"
+        "reinstatement",
+        "repayment"
       ]
     },
     {
       "key_topic_ref": "NJ-04.3",
-      "question_text": "A suspended licensee repays the full Guaranty Fund amount. What else must she do before practicing again?",
+      "question_text": "A licensee revoked after a Guaranty Fund payout satisfies the judgment in full and reimburses the Fund with interest. What else must she do before practicing again?",
       "correct_answer": "Meet all license reinstatement requirements",
       "distractors": [
         "Nothing further; repayment restores the license",
         "Wait an additional two-year cooling period",
-        "Obtain a new broker to sponsor her"
+        "Obtain a court order restoring the license"
       ],
-      "explanation": "Full repayment alone does not automatically reinstate the license. The licensee must also satisfy all reinstatement requirements established by NJREC. There is no mandatory two-year waiting period beyond repayment, but reinstatement is not automatic upon payment.",
+      "explanation": "Satisfying the judgment and reimbursing the Fund with interest only makes the licensee eligible for reinstatement under N.J.S.A. 45:15-41 — it does not restore the license automatically. The Commission may condition restoration on further requirements, such as restitution of other moneys owed and passing the license examination again (N.J.A.C. 11:5-8.1). There is no statutory two-year waiting period, and no court order is involved in relicensure.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -254,39 +254,39 @@
     },
     {
       "key_topic_ref": "NJ-04.3",
-      "question_text": "A broker argues that his license should not be suspended because the Fund payout was only $5,000, well below the $20,000 cap. Is his argument valid?",
-      "correct_answer": "No, any Fund payout triggers automatic suspension",
+      "question_text": "A broker argues that his license should not be revoked because the Guaranty Fund payout was only $5,000, well below the $20,000 cap. Is his argument valid?",
+      "correct_answer": "No, any court-ordered Fund payment triggers revocation",
       "distractors": [
-        "Yes, suspension requires a payout over $10,000",
+        "Yes, revocation requires a payout over $10,000",
         "Yes, small payouts result in fines only",
         "Yes, the broker can pay the $5,000 to avoid it"
       ],
-      "explanation": "Automatic suspension is triggered by any payment from the Guaranty Fund, regardless of the amount. There is no minimum threshold below which suspension is waived. The statutory consequence applies equally whether the payout is $1,000 or $20,000. The broker cannot preemptively pay to avoid suspension once the Fund has already disbursed.",
+      "explanation": "Revocation under N.J.S.A. 45:15-41 follows the issuance of a court order for payment from the Fund regardless of the amount — there is no minimum threshold, and the consequence is not a fine. Once the court has ordered payment from the Fund, the broker cannot avoid revocation by offering to cover the claim himself. His path back is to satisfy the judgment in full, including reimbursing the Fund with interest, and then seek reinstatement.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": [
         "Guaranty_Fund",
-        "automatic_suspension",
+        "revocation",
         "any_amount"
       ]
     },
     {
       "key_topic_ref": "NJ-04.3",
       "question_text": "Which statement best describes the relationship between Guaranty Fund payouts and licensee consequences?",
-      "correct_answer": "Payouts cause suspension until full repayment",
+      "correct_answer": "Payouts cause revocation until the judgment is fully satisfied",
       "distractors": [
-        "Payouts result in fines but no suspension",
+        "Payouts result in fines but no license action",
         "Payouts have no effect on license status",
-        "Payouts lead to permanent license revocation"
+        "Payouts cause only a brief automatic suspension"
       ],
-      "explanation": "A Guaranty Fund payout results in automatic license suspension that continues until the licensee fully repays the Fund and meets reinstatement requirements. The consequence is suspension, not revocation, meaning the license can eventually be restored. However, it is not merely a fine, and it does affect license status directly.",
+      "explanation": "A court-ordered Guaranty Fund payment results in revocation of the responsible licensee's license under N.J.S.A. 45:15-41. The licensee becomes eligible for reinstatement only after satisfying the judgment in full, including reimbursing the Fund with interest, and must then meet the Commission's reinstatement requirements. The consequence is revocation with a path back — not a fine, and not a temporary suspension.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
         "Guaranty_Fund",
-        "suspension",
+        "revocation",
         "repayment",
         "consequences"
       ]

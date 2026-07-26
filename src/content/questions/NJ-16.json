@@ -28,7 +28,7 @@
         "A federal fair housing lawsuit only",
         "An eminent domain claim against the town"
       ],
-      "explanation": "The builder's remedy allows a developer to override local zoning restrictions when a municipality has not met its Mount Laurel affordable housing obligation. The developer can obtain court approval to build including affordable units.",
+      "explanation": "The builder's remedy allows a developer to override local zoning restrictions when a municipality has not met its Mount Laurel affordable housing obligation. The developer can obtain court approval to build including affordable units. Under P.L.2024, c.2, municipalities that timely adopt and certify fair-share housing plans are shielded from builder's-remedy suits; the remedy remains available against noncompliant municipalities.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -43,7 +43,7 @@
         "The Municipal Land Use Law",
         "The NJ Housing Assistance Act"
       ],
-      "explanation": "The NJ Fair Housing Act created the Council on Affordable Housing (COAH) to administer the Mount Laurel affordable housing obligation. COAH establishes fair share housing numbers and reviews municipal compliance plans.",
+      "explanation": "The NJ Fair Housing Act of 1985 created the Council on Affordable Housing (COAH) to administer the Mount Laurel fair-share obligation. COAH stopped functioning in the 2010s and was formally abolished by P.L.2024, c.2; fair-share administration now runs through DCA-calculated obligations and the court-based Affordable Housing Dispute Resolution Program. The Fair Housing Act itself remains the statute implementing the Mount Laurel doctrine.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -96,29 +96,29 @@
     },
     {
       "key_topic_ref": "NJ-16.2",
-      "question_text": "A buyer signs a contract for a new condo but received the POS at closing. What right does the buyer have?",
-      "correct_answer": "A 7-day rescission period from receipt",
+      "question_text": "Under the NJ Planned Real Estate Development Full Disclosure Act, when may a buyer in a new condo development cancel the purchase contract without cause?",
+      "correct_answer": "By midnight of the 7th calendar day after signing",
       "distractors": [
-        "No recourse once the contract is signed",
-        "A 3-day cooling off period only",
-        "A 30-day rescission from closing date"
+        "Within 7 days after receiving the POS, whenever received",
+        "Within 3 business days after attorney review ends",
+        "Within 30 days after the closing date"
       ],
-      "explanation": "The NJ Full Disclosure Act provides buyers a 7-day rescission period after receiving the Public Offering Statement. If the POS was not provided before signing, the rescission period begins when the buyer actually receives it.",
+      "explanation": "PREDFDA lets a purchaser cancel without cause by written notice by midnight of the seventh calendar day following contract execution (N.J.S.A. 45:22A-26(b)). The POS must be delivered on or before the contract date; a developer who fails to do so is liable to the buyer for double damages, costs, and attorney fees under N.J.S.A. 45:22A-37, but late delivery does not restart the 7-day clock. Only NJ's Timeshare Act runs its 7-day period from the later of POS receipt or signing.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["rescission-period", "7-days", "full-disclosure-act", "NJ"]
+      "tags": ["rescission-period", "7-days", "PREDFDA", "NJ"]
     },
     {
       "key_topic_ref": "NJ-16.2",
-      "question_text": "Which types of developments must register under the NJ Full Disclosure Act?",
+      "question_text": "Which types of offerings must register under New Jersey's full disclosure acts before sales begin?",
       "correct_answer": "Subdivisions, condos, co-ops, and planned developments",
       "distractors": [
         "Only condominium conversions over 50 units",
         "Single-family homes on individual lots only",
         "Commercial properties and office buildings"
       ],
-      "explanation": "The Full Disclosure Act covers a broad range of developments including new construction subdivisions, condominiums, co-ops, and planned developments. Developers must register with the state before offering units for sale.",
+      "explanation": "New Jersey splits full-disclosure registration between two laws. In-state planned developments with common or shared elements — condominiums, co-ops, and HOA communities — register with the Department of Community Affairs under PREDFDA, while out-of-state subdivided lands, condominiums, and common-interest offerings marketed in or into New Jersey register with the Real Estate Commission under the Real Estate Sales Full Disclosure Act (offerings of fewer than 100 lots, parcels, units, or interests are exempt). Purely commercial offerings are exempt.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -126,18 +126,18 @@
     },
     {
       "key_topic_ref": "NJ-16.2",
-      "question_text": "Which NJ agency administers the Full Disclosure Act registration process?",
+      "question_text": "Which NJ agency administers registrations under the Real Estate Sales Full Disclosure Act?",
       "correct_answer": "The NJ Real Estate Commission",
       "distractors": [
         "The Department of Community Affairs",
         "The Division of Consumer Affairs",
-        "The Department of Banking and Insurance"
+        "The county recording officer"
       ],
-      "explanation": "The NJ Real Estate Commission (NJREC) administers the Full Disclosure Act. Developers must register their projects with NJREC and provide the required Public Offering Statement to prospective buyers.",
+      "explanation": "The Real Estate Sales Full Disclosure Act (N.J.S.A. 45:15-16.27 et seq.) is administered by the NJ Real Estate Commission through its Bureau of Subdivided Land Sales Control, and chiefly covers out-of-state subdivided lands, condominiums, and common-interest properties marketed in or into New Jersey. In-state planned developments — condos, co-ops, and HOA communities — register instead under PREDFDA, which the Department of Community Affairs administers through its Bureau of Homeowner Protection.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["NJREC", "full-disclosure-act", "administration", "NJ"]
+      "tags": ["NJREC", "real-estate-sales-full-disclosure-act", "administration", "NJ"]
     },
     {
       "key_topic_ref": "NJ-16.2",
@@ -148,7 +148,7 @@
         "Only the listing agent is liable",
         "No consequence if closing occurred"
       ],
-      "explanation": "The Public Offering Statement must contain complete financial details including special assessments and other charges. Omitting material information violates the Full Disclosure Act and may give buyers grounds for rescission or damages.",
+      "explanation": "The Public Offering Statement must contain complete financial details including special assessments and other charges. Omitting material information violates the Full Disclosure Act and exposes the developer to liability for double damages, court costs, and attorney fees under N.J.S.A. 45:22A-37.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -163,7 +163,7 @@
         "10 days after signing the contract",
         "14 days after signing the contract"
       ],
-      "explanation": "NJ's Timeshare Act provides buyers a 7-day rescission or cancellation period after signing. During this period, buyers can cancel for any reason without penalty.",
+      "explanation": "NJ's Timeshare Act lets buyers cancel without penalty within 7 calendar days after receiving the public offering statement or signing the contract, whichever is later (N.J.S.A. 45:15-16.67). During this period, buyers can cancel for any reason without penalty.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -223,7 +223,7 @@
         "Only if the developer agrees in writing",
         "Only for medical or financial hardship"
       ],
-      "explanation": "Thursday is only the fourth day after signing, well within the 7-day rescission period provided by the NJ Timeshare Act. The buyer can cancel for any reason without penalty during this window.",
+      "explanation": "Thursday is only the third calendar day following a Monday signing, well within the 7-day cancellation period provided by N.J.S.A. 45:15-16.67. The buyer can cancel for any reason without penalty during this window.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -238,7 +238,7 @@
         "Yes, a salesperson license",
         "Yes, a broker license"
       ],
-      "explanation": "New Jersey has no wholesaler-specific license. Assigning your own equitable interest in a purchase contract is not licensed activity. A 2022 bill (S3824) that would have created a 'Residential Property Wholesaler License' under the NJ Real Estate Commission died in committee and was never enacted.",
+      "explanation": "New Jersey has no wholesaler-specific license. Assigning your own equitable interest in a purchase contract is not licensed activity. A 2023 bill (S3824) that would have created a 'Residential Property Wholesaler License' under the NJ Real Estate Commission died in committee and was never enacted.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -253,7 +253,7 @@
         "Always — every wholesale deal requires a broker license",
         "Only after completing more than three deals in a year"
       ],
-      "explanation": "Assigning your own equitable interest in a purchase contract is not licensed activity in New Jersey. But marketing or negotiating the sale of the property itself on behalf of the owner for compensation is brokerage, which requires a license under N.J.S.A. 45:15-1 et seq. New Jersey has no separate wholesaler license (the 2022 S3824 bill proposing one was never enacted) and no per-year deal threshold.",
+      "explanation": "Assigning your own equitable interest in a purchase contract is not licensed activity in New Jersey. But marketing or negotiating the sale of the property itself on behalf of the owner for compensation is brokerage, which requires a license under N.J.S.A. 45:15-1 et seq. New Jersey has no separate wholesaler license (S3824, a 2023 bill proposing one, was never enacted) and no per-year deal threshold.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
