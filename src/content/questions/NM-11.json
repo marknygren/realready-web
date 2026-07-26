@@ -42,7 +42,7 @@
       "question_text": "In NM, property tax liens generally take priority over:",
       "correct_answer": "Most other liens on the property",
       "distractors": ["No other liens on the property", "Only mechanic's liens specifically", "Only voluntary mortgage liens"],
-      "explanation": "Property tax liens take priority over most other liens, including mortgages and mechanic's liens. Only certain federal liens may take precedence over property tax liens.",
+      "explanation": "Under NMSA 7-38-48, property taxes are a lien on the real property from January 1 of the tax year, and the lien is 'a first lien and paramount to any other interest in the property, perfected or unperfected.' It primes earlier-recorded mortgages and mechanic's liens alike.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -72,21 +72,21 @@
     },
     {
       "key_topic_ref": "NM-11.2",
-      "question_text": "A disabled veteran in NM qualifies for a property tax exemption of:",
-      "correct_answer": "$4,000 reduction in assessed value",
-      "distractors": ["$2,000 reduction in assessed value", "$10,000 reduction in market value", "Complete exemption from property taxes"],
-      "explanation": "Disabled veterans in NM receive a $4,000 reduction in assessed value. This is in addition to any other applicable exemptions like the head of family exemption.",
+      "question_text": "Under New Mexico's disabled veteran exemption, a qualifying disabled veteran's principal residence is exempt from property tax:",
+      "correct_answer": "In proportion to the veteran's federal disability rating",
+      "distractors": ["By a flat $4,000 reduction in taxable value", "By a flat $10,000 reduction regardless of disability rating", "Completely, but only after the veteran reaches age 65"],
+      "explanation": "After the 2024 constitutional amendments, NMSA 7-37-5.1 exempts a disabled veteran's principal residence in proportion to the veteran's federal disability rating — a 100% rating means fully exempt. The separate veteran exemption (NMSA 7-37-5) started at $10,000 for tax year 2025 and is inflation-indexed. The flat $4,000 figure applied only through 2024.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["property tax", "veterans", "disabled"]
+      "tags": ["property tax", "disabled veteran", "proportional exemption"]
     },
     {
       "key_topic_ref": "NM-11.2",
       "question_text": "Property taxes in NM become delinquent, and the owner does not pay for several years. A tax sale of the property can occur after:",
       "correct_answer": "3 years of delinquency",
       "distractors": ["1 year of delinquency", "5 years of delinquency", "2 years of delinquency"],
-      "explanation": "Delinquent property taxes in NM can result in a tax sale after 3 years of non-payment. This gives owners a reasonable period to cure the delinquency before losing the property.",
+      "explanation": "Real property may be sold for delinquent taxes after three years from the first date the property appeared on the delinquency list (NMSA 7-38-65). The sale is conducted by the state taxation and revenue department's property tax division — not the county — and must generally occur within four years of delinquency.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -127,14 +127,14 @@
     },
     {
       "key_topic_ref": "NM-11.3",
-      "question_text": "A subcontractor wants to preserve their lien rights on a NM project. They must first serve:",
-      "correct_answer": "A preliminary notice to the owner",
-      "distractors": ["A court order for payment", "A cease and desist to the general contractor", "A complaint with the state licensing board"],
-      "explanation": "Subcontractors and material suppliers must serve a preliminary notice on the property owner to preserve their mechanic's lien rights in New Mexico.",
+      "question_text": "On a NM commercial project, which lien claimant must serve a written notice of the right to claim a lien within 60 days of first furnishing to preserve full lien rights?",
+      "correct_answer": "A supplier hired by a subcontractor whose claim exceeds $5,000",
+      "distractors": ["The original contractor on the project", "A subcontractor who contracted directly with the original contractor", "Any laborer, regardless of the size of the claim"],
+      "explanation": "NMSA 48-2-2.1 requires the pre-lien notice only for claims over $5,000, and exempts original contractors, claimants who contract directly with the original contractor, and all residential projects of four or fewer units. Remote claimants give written notice to the owner or the original contractor within 60 days of first furnishing.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["mechanic's lien", "preliminary notice", "subcontractor"]
+      "tags": ["mechanic's lien", "pre-lien notice", "60 days"]
     },
     {
       "key_topic_ref": "NM-11.3",

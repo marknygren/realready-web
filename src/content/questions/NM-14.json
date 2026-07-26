@@ -20,7 +20,7 @@
       "question_text": "A seller is listing a property in a PID but does not mention the PID assessments to the buyer. This is:",
       "correct_answer": "A failure to make required PID disclosures",
       "distractors": ["Acceptable because PIDs are public record", "The buyer's responsibility to discover", "Only an issue if the assessment exceeds $500"],
-      "explanation": "Sellers must disclose PID assessments to buyers before closing. Failing to disclose ongoing special assessments is a violation of NM disclosure requirements.",
+      "explanation": "Under NMSA 5-11-18.1, the seller — or the seller's broker or agent — must give the buyer of residential property in a PID a written disclosure of the district and its levies before accepting an offer to purchase, not merely before closing. Violations expose the seller and broker to actual damages, injunctive relief and attorney fees.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -64,7 +64,7 @@
       "question_text": "When selling a property in an HOA community, the seller must provide the buyer with:",
       "correct_answer": "CC&Rs, bylaws, and financial statements",
       "distractors": ["Only the monthly dues amount", "Only a verbal description of the HOA rules", "Only the HOA president's contact information"],
-      "explanation": "NM requires sellers to provide HOA governing documents including CC&Rs (Covenants, Conditions & Restrictions), bylaws, and financial statements to prospective buyers.",
+      "explanation": "Under the Homeowner Association Act, the seller must furnish the declaration, bylaws, CC&Rs, rules and an association disclosure certificate covering assessments, budget, financial statements, litigation and insurance (NMSA 47-16-12). The certificate must reach the buyer no later than seven days before closing (NMSA 47-16-11).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -105,14 +105,14 @@
     },
     {
       "key_topic_ref": "NM-14.2",
-      "question_text": "A listing broker in an HOA community should ensure the buyer receives which document before making an offer?",
-      "correct_answer": "The HOA financial statements and bylaws",
-      "distractors": ["A letter of approval from the HOA president", "The original developer's construction plans", "A survey of all common area boundaries"],
-      "explanation": "Sellers must provide HOA governing documents including financial statements and bylaws. This allows buyers to understand the financial health of the HOA and the community rules before committing.",
+      "question_text": "A property in an HOA community is under contract. Under the NM Homeowner Association Act, the seller must deliver the association's disclosure certificate to the buyer no later than:",
+      "correct_answer": "Seven days before closing",
+      "distractors": ["Before the buyer submits an offer", "Three days after the purchase contract is signed", "At the closing itself"],
+      "explanation": "The seller or seller's agent must obtain the association's disclosure certificate and provide it to the purchaser no later than seven days before closing (NMSA 47-16-11). The buyer may cancel the purchase contract within seven days after receiving it. The certificate covers assessments, fees, finances, litigation and insurance.",
       "difficulty": "medium",
-      "cognitive_level": "application",
+      "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["HOA", "documents", "buyer review"]
+      "tags": ["HOA", "disclosure certificate", "deadline"]
     }
   ]
 }

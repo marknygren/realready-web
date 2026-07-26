@@ -28,21 +28,21 @@
     },
     {
       "key_topic_ref": "NM-12.1",
-      "question_text": "Water rights in NM are treated as:",
-      "correct_answer": "Separate from land ownership",
-      "distractors": ["Automatically included with land ownership", "Part of mineral rights", "Owned by the county government"],
-      "explanation": "In NM, water rights are separate from land ownership and can be sold, leased, or transferred independently. A land sale does not automatically include water rights.",
+      "question_text": "In New Mexico, water rights are best described as:",
+      "correct_answer": "Property rights that can be severed from the land and transferred separately",
+      "distractors": ["Rights that can never be separated from the land they serve", "Part of the land's mineral estate", "Licenses owned by the county government"],
+      "explanation": "Water rights are usufructuary property rights that may be severed and transferred separately with state engineer approval (NMSA 72-5-23). Irrigation rights are appurtenant and pass with a deed unless expressly reserved (KRM, Inc. v. Caviness), while non-irrigation rights transfer only by separate conveyance — so buyers must verify exactly what transfers.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["water rights", "separate from land", "transferable"]
+      "tags": ["water rights", "severance", "appurtenance"]
     },
     {
       "key_topic_ref": "NM-12.1",
       "question_text": "Which state office administers water rights and adjudicates disputes in NM?",
       "correct_answer": "The Office of the State Engineer",
       "distractors": ["The NM Environment Department", "The NM Real Estate Commission", "The county water authority"],
-      "explanation": "The Office of the State Engineer (OSE) administers water rights, issues permits, and adjudicates water disputes in New Mexico.",
+      "explanation": "The OSE, headed by the state engineer, has general supervision of the state's waters — it issues permits, approves transfers, and administers rights (NMSA 72-2-1). Formal adjudications of all rights on a stream system are court proceedings in which the state engineer is a party (NMSA 72-4-15 to -19).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -53,7 +53,7 @@
       "question_text": "A buyer purchases rural land in NM but does not verify water rights. The buyer may discover:",
       "correct_answer": "The land has no legal right to use water",
       "distractors": ["Water rights always transfer with the land", "The county will provide water automatically", "Federal law guarantees rural water access"],
-      "explanation": "Because water rights are separate from land ownership in NM, a buyer must verify water availability and legal rights. Purchasing land does not guarantee water access.",
+      "explanation": "Owning land does not itself confer a right to appropriate water — rights arise from beneficial use under OSE permit. Appurtenant irrigation rights pass with a deed unless expressly reserved, but many parcels never had water rights at all, so buyers must verify status with the OSE before purchase.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -61,14 +61,14 @@
     },
     {
       "key_topic_ref": "NM-12.2",
-      "question_text": "In NM, a domestic well for household use can generally be drilled without a permit if usage does not exceed:",
-      "correct_answer": "3 acre-feet per year",
-      "distractors": ["1 acre-foot per year", "5 acre-feet per year", "10 acre-feet per year"],
-      "explanation": "Domestic wells for household use up to 3 acre-feet per year can generally be drilled without an OSE permit. Larger groundwater uses require a permit.",
+      "question_text": "A homeowner wants to drill a well for household use on rural NM land. What does state law require?",
+      "correct_answer": "A domestic well permit, which the state engineer issues upon application",
+      "distractors": ["No permit, as long as use stays under 3 acre-feet per year", "A full appropriation permit with public notice and a protest period", "County approval only, since household wells are unregulated"],
+      "explanation": "Domestic wells require an OSE permit, but NMSA 72-12-1.1 makes issuance ministerial — the state engineer 'shall issue' the permit without an impairment review. Under the OSE rule (19.27.5 NMAC), new single-household domestic wells are generally limited to one acre-foot per year, and less in domestic well management areas.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["domestic well", "3 acre-feet", "permit exempt"]
+      "tags": ["domestic well", "OSE permit", "one acre-foot"]
     },
     {
       "key_topic_ref": "NM-12.2",
@@ -105,14 +105,14 @@
     },
     {
       "key_topic_ref": "NM-12.2",
-      "question_text": "A rancher wants to drill a commercial well to irrigate 100 acres. Unlike a domestic well, this use:",
-      "correct_answer": "Requires an OSE permit",
-      "distractors": ["Is exempt if on the rancher's own land", "Only needs county approval", "Is automatically granted upon application"],
-      "explanation": "Commercial and agricultural water uses exceeding 3 acre-feet per year require a permit from the OSE. The domestic well exemption only covers household use up to 3 acre-feet.",
+      "question_text": "A rancher applies to drill a well to irrigate 100 acres. How does this application differ from a household domestic well application?",
+      "correct_answer": "It undergoes full OSE review and can be denied for impairing existing rights",
+      "distractors": ["It is exempt from permitting if on the rancher's own land", "It needs only county approval", "It is granted automatically upon application"],
+      "explanation": "Irrigation appropriations require a standard OSE permit with publication, an opportunity for protest, and review for impairment of existing rights, water conservation, and the public welfare (NMSA 72-12-3). Domestic household wells, by contrast, receive ministerial 'shall issue' permits under NMSA 72-12-1.1.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["commercial well", "OSE permit", "irrigation"]
+      "tags": ["irrigation well", "OSE permit", "impairment review"]
     },
     {
       "key_topic_ref": "NM-12.3",
@@ -138,14 +138,14 @@
     },
     {
       "key_topic_ref": "NM-12.3",
-      "question_text": "When selling a property with a septic system in NM, the seller should:",
-      "correct_answer": "Disclose the type and condition of the system",
-      "distractors": ["Replace the system before closing", "Provide a 5-year warranty on the system", "Obtain a new NMED permit for the buyer"],
-      "explanation": "Sellers should disclose the type and condition of septic systems to buyers. This allows buyers to evaluate the system and plan for any necessary inspections or repairs.",
+      "question_text": "Before transferring a NM property served by a septic system, the seller must:",
+      "correct_answer": "Have the system evaluated by a qualified evaluator",
+      "distractors": ["Replace any system more than 20 years old", "Provide a 5-year performance warranty on the system", "Obtain a new NMED construction permit in the buyer's name"],
+      "explanation": "NMED's liquid waste rules require the transferor to have the on-site liquid waste system evaluated by a qualified evaluator on a department-approved form before transfer (20.7.3.902 NMAC); the evaluator submits the report to NMED within 15 days. Unpermitted systems must be registered or permitted. Sellers must also disclose known defects.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["septic", "disclosure", "seller duty"]
+      "tags": ["septic", "transfer evaluation", "seller duty"]
     },
     {
       "key_topic_ref": "NM-12.3",

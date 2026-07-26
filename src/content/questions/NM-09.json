@@ -6,14 +6,14 @@
   "questions": [
     {
       "key_topic_ref": "NM-09.1",
-      "question_text": "When must a broker provide written disclosure of their brokerage relationship to a party?",
-      "correct_answer": "At the earliest practicable time",
-      "distractors": ["Only at the time of contract signing", "Within 48 hours of first contact", "Before the closing date only"],
-      "explanation": "NM requires written disclosure of existing brokerage relationships at the earliest practicable time — not waiting until contract signing or closing.",
+      "question_text": "Under New Mexico rules, a broker must disclose the applicable broker duties to a party and obtain written acknowledgment:",
+      "correct_answer": "Before generating or presenting any document that could become an express written agreement",
+      "distractors": ["At the earliest practicable time after first contact", "Within 48 hours of the first substantive contact", "No later than the closing of the transaction"],
+      "explanation": "NMSA 61-29-10.2 and 16.61.19.8 NMAC require brokers to disclose the applicable set of broker duties, and obtain written acknowledgment, prior to generating or presenting any written document that has the potential to become an express written agreement. For parties served by another broker, disclosure flows through that broker.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["disclosure", "brokerage relationship", "timing"]
+      "tags": ["disclosure", "broker duties", "timing"]
     },
     {
       "key_topic_ref": "NM-09.1",
@@ -94,10 +94,10 @@
     },
     {
       "key_topic_ref": "NM-09.2",
-      "question_text": "A broker representing a seller suspects but is unsure about a roof leak. The broker's obligation is to:",
-      "correct_answer": "Disclose the suspected condition to the buyer",
-      "distractors": ["Say nothing until the leak is confirmed", "Have the roof repaired before showing", "Tell the buyer to hire their own inspector"],
-      "explanation": "The duty covers adverse material facts known to the broker. If the broker has knowledge of a suspected defect, disclosure is appropriate. Encouraging inspection is also good practice.",
+      "question_text": "A seller's broker sees fresh water stains on a ceiling and suspects a roof leak. The broker's obligation is to:",
+      "correct_answer": "Disclose the observed condition in writing",
+      "distractors": ["Say nothing until a leak is confirmed", "Have the roof repaired before showing", "Rely on the buyer's inspector to discover it"],
+      "explanation": "The duty covers adverse material facts actually known to the broker (16.61.19.8 NMAC). The broker actually knows about the staining even though the leak is unconfirmed, so the known condition must be disclosed in writing; waiting for confirmation withholds known adverse information.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -119,7 +119,7 @@
       "question_text": "A seller tells their listing broker they will accept $20,000 less than the asking price. This information is:",
       "correct_answer": "Confidential and cannot be disclosed",
       "distractors": ["Required to be shared with interested buyers", "Disclosed only to the buyer's broker", "Posted on the MLS as a price reduction"],
-      "explanation": "A client's bargaining position — including the lowest acceptable price — is confidential information. The broker cannot disclose this to buyers or their agents.",
+      "explanation": "Unless the seller authorizes disclosure in writing, a seller's broker may not reveal that the seller will accept less than the asking or listed price (16.61.19.8(B) NMAC). Sharing it with buyers or their brokers undermines the seller's bargaining position and violates this duty.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -152,7 +152,7 @@
       "question_text": "A former client's new broker asks for information about the client's financial condition from a previous transaction. The original broker should:",
       "correct_answer": "Decline unless the client gives written consent",
       "distractors": ["Share freely since the relationship ended", "Provide the information to help the new broker", "Report the request to NMREC"],
-      "explanation": "Confidential information cannot be disclosed without the client's written consent, even after the relationship has ended. Financial condition is explicitly listed as confidential.",
+      "explanation": "Confidential information learned during a prior brokerage relationship must be maintained after the relationship ends and may be disclosed only with the former principal's written consent or when required by law (16.61.19.8(B) NMAC). The broker should decline the request absent that written consent.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -160,14 +160,14 @@
     },
     {
       "key_topic_ref": "NM-09.3",
-      "question_text": "Which type of information is specifically identified as confidential in NM brokerage relationships?",
-      "correct_answer": "The client's financial condition",
-      "distractors": ["The property's listing price", "The closing date of the transaction", "The name of the other party"],
-      "explanation": "NM specifically identifies the client's bargaining position, motivations for buying/selling, and financial condition as confidential information protected within brokerage relationships.",
+      "question_text": "Which type of information is a New Mexico seller's broker specifically prohibited from disclosing without written authorization?",
+      "correct_answer": "The seller's willingness to accept less than the asking price",
+      "distractors": ["Known adverse material facts about the property", "A party's financial inability to complete the transaction", "The listed price of the property"],
+      "explanation": "16.61.19.8 NMAC specifically bars a seller's broker from disclosing, without written authorization, that the seller will accept less than the asking price, will take other financing terms, or the seller's motivation. Adverse material facts — including a party's inability to complete the transaction — must be disclosed in writing.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["confidentiality", "financial condition", "protected info"]
+      "tags": ["confidentiality", "bargaining position", "protected info"]
     }
   ]
 }
