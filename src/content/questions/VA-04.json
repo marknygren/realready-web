@@ -13,7 +13,7 @@
         "The office manager at the branch location",
         "The settlement attorney handling the closing"
       ],
-      "explanation": "In Virginia, the principal broker is ultimately responsible for the proper handling and safekeeping of all escrow and trust funds received by the brokerage firm.",
+      "explanation": "Under 18VAC135-20-181 the principal broker is held responsible for the firm's escrow accounts and must have signatory authority on them. A supervising broker or any other licensee with signatory authority may also be held responsible.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -32,7 +32,7 @@
         "Within 24 hours of receiving the check",
         "By end of the next calendar day"
       ],
-      "explanation": "Virginia requires deposit by the end of the fifth business day after contract ratification. Ratification on Thursday means the fifth business day falls on the following Thursday.",
+      "explanation": "18VAC135-20-181 requires earnest money to be placed in escrow by the end of the fifth business banking day following ratification, unless the principals to the transaction agree otherwise in writing. Ratification on Thursday puts the fifth business banking day on the following Thursday.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -45,13 +45,13 @@
     {
       "key_topic_ref": "VA-04.1",
       "question_text": "A broker receives a $10,000 earnest money check. Where must the funds be deposited?",
-      "correct_answer": "A federally insured depository in Virginia",
+      "correct_answer": "A federally insured escrow account in the firm's licensed name",
       "distractors": [
-        "Any FDIC-insured bank in the United States",
+        "Any account the broker chooses if records are kept",
         "The broker's personal savings account",
-        "A title company escrow account in any state"
+        "The listing agent's individual client account"
       ],
-      "explanation": "Virginia law requires that escrow funds be deposited in a federally insured depository located in Virginia, with the account designated as an escrow or trust account.",
+      "explanation": "18VAC135-20-181 requires each firm to maintain one or more federally insured escrow accounts in the name by which the firm is licensed, with the accounts, checks, and bank statements labeled 'escrow' and designated as escrow accounts with the financial institution. The regulation does not require the depository to be located in Virginia.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -70,7 +70,7 @@
         "The clock starts when the offer is first submitted",
         "The clock starts at the listing agreement date"
       ],
-      "explanation": "In Virginia, the five-business-day deposit deadline is measured from contract ratification, not from when the agent physically receives the earnest money deposit.",
+      "explanation": "The five-business-banking-day clock in 18VAC135-20-181 runs from contract ratification, not from the date the licensee physically receives the check. The principals may agree to a different timeline in writing.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -89,7 +89,7 @@
         "It must reference the specific property address",
         "It must show the client's Social Security number"
       ],
-      "explanation": "Virginia requires that the bank account holding escrow funds be specifically designated as an escrow or trust account so it is clearly distinguished from the broker's operating funds.",
+      "explanation": "18VAC135-20-181 requires the account, its checks, and its bank statements to be labeled 'escrow' and the account to be designated as an escrow account with the financial institution, so client funds are clearly distinguished from the firm's operating funds.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -101,14 +101,14 @@
     },
     {
       "key_topic_ref": "VA-04.2",
-      "question_text": "A Virginia broker deposits $800 of personal funds into her escrow account to cover bank fees. Is this permitted?",
-      "correct_answer": "No, the maximum broker funds allowed is $500",
+      "question_text": "A Virginia broker leaves earned commission funds in the firm's escrow account for eight months after closing. Is this permitted?",
+      "correct_answer": "No, licensee funds must be withdrawn at least every six months",
       "distractors": [
-        "Yes, brokers may deposit any amount for fees",
-        "Yes, up to $1,000 of personal funds is allowed",
-        "No, only the Board can authorize personal deposits"
+        "Yes, earned funds may remain indefinitely",
+        "Yes, if the amount stays under $500",
+        "No, licensee funds may never be in the account at all"
       ],
-      "explanation": "Virginia allows a broker to maintain up to $500 of their own funds in an escrow account to cover service charges. The $800 deposit exceeds this limit and would constitute commingling.",
+      "explanation": "18VAC135-20-181 prohibits commingling but allows funds that will ultimately belong to the licensee to stay in the escrow account only if they are separately identified and withdrawn at intervals of not more than six months. Virginia's regulation sets no flat dollar allowance for the broker's own funds.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -127,7 +127,7 @@
         "Holding deposits from multiple transactions together",
         "Transferring funds between two escrow accounts"
       ],
-      "explanation": "Commingling is the prohibited practice of mixing a broker's personal or business operating funds with client escrow funds. Virginia prohibits commingling except for the allowed $500 to cover bank charges.",
+      "explanation": "Commingling is mixing a broker's personal or business operating funds with client escrow funds, which 18VAC135-20-181 prohibits. The only funds of the licensee that may sit in the account are amounts that will ultimately belong to the licensee, and only if separately identified and withdrawn at least every six months.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -146,7 +146,7 @@
         "Approval from the Virginia Real Estate Board",
         "A court order authorizing the interest arrangement"
       ],
-      "explanation": "Virginia permits interest-bearing escrow accounts only when all parties provide a written agreement that specifies who will receive the interest earned on the deposited funds.",
+      "explanation": "18VAC135-20-181 permits an interest-bearing escrow account only when written disclosure is made in the contract of purchase or lease to all principals regarding the disbursement of interest, so the parties must agree in writing on who receives it.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -165,7 +165,7 @@
         "Distribute funds equally among remaining agents",
         "Convert the escrow account to a personal account"
       ],
-      "explanation": "When a Virginia brokerage dissolves, the principal broker must ensure proper disposition of all escrow funds, returning deposits to the rightful parties or transferring them to the appropriate successor before closing the account.",
+      "explanation": "On dissolution the principal broker must ensure proper disposition of all escrow funds — returning deposits to the rightful parties or transferring them to a successor under Va. Code § 54.1-2108.2 — before the escrow account is closed.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -184,7 +184,7 @@
         "Follow the seller's preference as property owner",
         "Split the deposit between two separate accounts"
       ],
-      "explanation": "An interest-bearing escrow account requires written agreement from all parties. Since the seller does not agree, the broker must use a standard non-interest-bearing account.",
+      "explanation": "An interest-bearing escrow account requires written disclosure and agreement of all principals under 18VAC135-20-181. Because the seller does not agree, the broker must use a standard non-interest-bearing escrow account.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -197,13 +197,13 @@
     {
       "key_topic_ref": "VA-04.3",
       "question_text": "How long must a Virginia broker retain escrow account records?",
-      "correct_answer": "Five years",
+      "correct_answer": "Three years",
       "distractors": [
-        "Three years",
+        "Five years",
         "Seven years",
         "Ten years"
       ],
-      "explanation": "Virginia requires brokers to retain all escrow and trust account records for a minimum of five years. These records must be available for inspection by the Real Estate Board.",
+      "explanation": "18VAC135-20-185 requires a complete and accurate record of money received on behalf of others and its disbursement to be kept for three years from the date of closing, or from termination of the transaction or lease. Brokerage agreements and dual/designated agency disclosures are likewise kept three years from execution.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -215,14 +215,14 @@
     },
     {
       "key_topic_ref": "VA-04.3",
-      "question_text": "The Virginia Real Estate Board notifies a broker of an upcoming escrow audit. Must the broker have advance notice?",
-      "correct_answer": "No, the Board may audit at any time",
+      "question_text": "Under Virginia's Real Estate Board regulations, when must a firm's principal or supervising broker conduct an audit of the firm's practices?",
+      "correct_answer": "Within 90 days prior to expiration of the firm license",
       "distractors": [
-        "Yes, the Board must give 30 days written notice",
-        "Yes, the Board must obtain a court order first",
-        "No, but only during annual renewal periods"
+        "Only when the Board opens an investigation",
+        "Every six months regardless of renewal date",
+        "Only if the firm holds escrow funds over $50,000"
       ],
-      "explanation": "The Virginia Real Estate Board has authority to audit escrow and trust accounts at any time without advance notice. Brokers must maintain records in a condition ready for inspection.",
+      "explanation": "18VAC135-20-225 requires the principal or supervising broker to conduct, or have a third party conduct, an audit within 90 days prior to expiration of the firm license, covering escrow handling, fair housing, advertising, agency, disclosures, and use of unlicensed personnel. Va. Code § 54.1-2106.2 requires certification of that audit on renewal, and self-reported findings can qualify for immunity under the voluntary compliance program.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -241,7 +241,7 @@
         "Split the deposit equally between both parties",
         "Hold the funds indefinitely until they agree"
       ],
-      "explanation": "When parties dispute ownership of escrow funds, the Virginia broker may file an interpleader action, asking the court to hold the funds and determine the rightful recipient.",
+      "explanation": "Va. Code § 54.1-2108.2 lets a broker holding a disputed deposit file an interpleader action under § 16.1-77 so the court takes custody and determines the rightful recipient. The other options are release on the parties' written agreement, release under a court order, or release under the contract's clear and explicit terms — and a broker who complies with the section is immune from liability to the parties.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -253,14 +253,14 @@
     },
     {
       "key_topic_ref": "VA-04.3",
-      "question_text": "During an audit, the Board finds that a broker's escrow records are four years old but incomplete. What is the likely consequence?",
+      "question_text": "During a review, the Board finds that a broker's escrow records from a closing two years ago are incomplete. What is the likely consequence?",
       "correct_answer": "Disciplinary action for inadequate record keeping",
       "distractors": [
         "No violation since records are under five years old",
         "A warning letter with no further consequences",
         "Automatic license revocation by the Board"
       ],
-      "explanation": "Virginia requires brokers to maintain complete escrow records for five years. Incomplete records within the retention period constitute a violation subject to Board disciplinary action.",
+      "explanation": "18VAC135-20-185 requires complete and accurate escrow records for three years from closing. Records that are incomplete anywhere inside that retention window are a violation subject to Board disciplinary action.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -279,7 +279,7 @@
         "The Virginia Real Estate Board holds a hearing",
         "The listing agent decides based on contract terms"
       ],
-      "explanation": "In an interpleader action, the broker deposits the disputed funds with the court, which then determines the rightful recipient. This relieves the broker from liability for choosing the wrong party.",
+      "explanation": "In an interpleader action under Va. Code § 54.1-2108.2 the broker deposits the disputed funds with the court, which determines the rightful recipient. A broker who complies with the statute is immune from liability to the parties to the contract.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

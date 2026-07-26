@@ -13,7 +13,7 @@
         "90 hours",
         "75 hours"
       ],
-      "explanation": "Virginia requires 60 hours of Board-approved pre-license education for salesperson candidates. Broker candidates must complete 180 hours. All education must be provided by Board-approved providers.",
+      "explanation": "Va. Code § 54.1-2105 requires salesperson applicants to complete a principles of real estate course of at least 60 hours of instruction from a Board-approved provider. Broker applicants must complete 180 hours. Applicants also need a high school diploma or its equivalent.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -118,7 +118,7 @@
         "The score remains valid indefinitely",
         "The score can be extended with Board approval"
       ],
-      "explanation": "Virginia exam scores are valid for one year (12 months) after the passing date. Since 14 months have elapsed, this applicant's score has expired and the exam must be retaken.",
+      "explanation": "A Virginia license application must be submitted within 12 months of the initial examination date. Because 14 months have elapsed, this applicant's passing score is no longer usable and the examination must be retaken.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -156,14 +156,14 @@
     },
     {
       "key_topic_ref": "VA-02.3",
-      "question_text": "How many hours of post-license education must a new salesperson complete before the first renewal?",
-      "correct_answer": "30 hours",
+      "question_text": "How many hours of post-license education must a newly licensed Virginia salesperson complete, and by when?",
+      "correct_answer": "30 hours within one year of licensure",
       "distractors": [
-        "16 hours",
-        "45 hours",
-        "24 hours"
+        "16 hours within one year of licensure",
+        "30 hours within two years of licensure",
+        "45 hours before the second renewal"
       ],
-      "explanation": "Virginia requires newly licensed salespersons to complete 30 hours of Board-approved post-license education before their first license renewal. This is separate from ongoing continuing education requirements.",
+      "explanation": "18VAC135-20-95 requires a newly licensed salesperson to complete a 30-hour Board-prescribed post-license curriculum within one year from the last day of the month in which the license was issued. Failing to complete it places the license on inactive status. This is separate from ongoing continuing education.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -171,14 +171,14 @@
     },
     {
       "key_topic_ref": "VA-02.3",
-      "question_text": "Under HB 383 and SB 330, how many required CE hours must licensees complete each biennium starting with renewals after June 30, 2026?",
+      "question_text": "Under HB 383 and SB 330, effective July 1, 2024, how many hours of required (mandated-topic) continuing education must a Virginia licensee complete each biennium?",
       "correct_answer": "11 hours of required topics",
       "distractors": [
         "8 hours of required topics",
         "16 hours of required topics",
         "6 hours of required topics"
       ],
-      "explanation": "HB 383 and SB 330 increased required continuing education from 8 to 11 hours per biennium for licenses expiring after June 30, 2026. The required 11 hours include 2 hours of legal updates, 2 hours of agency, and 2 hours of contracts, among others.",
+      "explanation": "HB 383 and SB 330, effective July 1, 2024, raised required continuing education from 8 to 11 hours per biennium and cut general electives from 8 to 5. The 11 required hours are 3 hours of ethics and standards of conduct, 2 hours of fair housing, 2 hours of legal updates and emerging trends (including flood hazard areas and the National Flood Insurance Program), 2 hours of real estate agency, and 2 hours of real estate contracts (Va. Code § 54.1-2105.03).",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -193,7 +193,7 @@
         "Yes, 8 required hours meets the standard",
         "No, 20 total hours are now required"
       ],
-      "explanation": "For licenses expiring after June 30, 2026, HB 383/SB 330 increased required CE from 8 to 11 hours. Although the licensee has 16 total hours, only 8 of the required 11 mandated topic hours have been completed, so the requirement is not met.",
+      "explanation": "Since July 1, 2024, HB 383/SB 330 require 11 hours of mandated-topic CE and allow only 5 elective hours within the salesperson's 16-hour biennial total. This licensee has 16 total hours but only 8 of the 11 required topic hours, so the requirement is not met.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -208,7 +208,7 @@
         "Property management, ethics, and zoning",
         "Environmental law, insurance, and taxation"
       ],
-      "explanation": "The expanded CE requirements under HB 383/SB 330 include mandatory hours in legal updates (2 hrs), agency (2 hrs), and contracts (2 hrs). These core practice areas were specifically targeted to improve licensee competency.",
+      "explanation": "The 11 required hours under HB 383/SB 330 are 3 hours of ethics and standards of conduct, 2 hours of fair housing, 2 hours of legal updates and emerging trends, 2 hours of real estate agency, and 2 hours of real estate contracts. Appraisal, finance, property management, zoning, and taxation are elective subjects, not mandated topics.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -223,7 +223,7 @@
         "Every 3 years with Board review",
         "Every 4 years at biennial renewal"
       ],
-      "explanation": "Virginia real estate licenses are renewed on a biennial (2-year) cycle. Licensees must complete 16 hours of continuing education each renewal period, with required and elective hour breakdowns as specified by the Board.",
+      "explanation": "Virginia licenses renew on a biennial (two-year) cycle. Salespersons must complete 16 hours of continuing education each renewal period and brokers 24 hours, in both cases including the 11 required mandated-topic hours (Va. Code § 54.1-2105.03).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -276,14 +276,14 @@
     },
     {
       "key_topic_ref": "VA-02.4",
-      "question_text": "As of July 2025, what happens when a salesperson transfers to a different brokerage?",
-      "correct_answer": "No transfer fee is charged",
+      "question_text": "Under HB 1653 and SB 785, effective July 1, 2025, when may the Real Estate Board no longer charge a transfer fee?",
+      "correct_answer": "When a licensee transfers between offices of the same firm",
       "distractors": [
-        "A $50 transfer fee applies",
-        "A new background check is required",
-        "The salesperson must retake the exam"
+        "When a licensee moves to a different brokerage firm",
+        "When a licensee reactivates an inactive license",
+        "When a firm changes its principal broker"
       ],
-      "explanation": "Effective July 2025, Virginia eliminated the transfer fee for salespersons moving between brokerages. Previously, a fee was charged for processing the transfer. The licensee still must complete the transfer paperwork with DPOR.",
+      "explanation": "HB 1653/SB 785, effective July 1, 2025, prohibit the Real Estate Board from charging a fee when a licensee transfers between offices within the same firm. Moving to a different brokerage is still a chargeable transfer, and the licensee must still complete the transfer paperwork with DPOR.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -298,7 +298,7 @@
         "Complete 60 additional education hours only",
         "Obtain a recommendation from current broker"
       ],
-      "explanation": "Virginia broker candidates need 180 hours of education and must pass a separate broker exam. With 150 hours completed, this candidate needs 30 more education hours and must also pass the broker-specific licensing exam.",
+      "explanation": "Virginia broker applicants must complete 180 hours of Board-approved education, hold 36 months of active salesperson experience within the preceding 48 months, and pass the broker examination. With 150 hours completed this candidate needs 30 more hours plus the exam.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
