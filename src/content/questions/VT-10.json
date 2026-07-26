@@ -17,7 +17,11 @@
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["transfer_tax", "principal_residence", "rate"]
+      "tags": [
+        "transfer_tax",
+        "principal_residence",
+        "rate"
+      ]
     },
     {
       "key_topic_ref": "VT-10.1",
@@ -32,7 +36,11 @@
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["transfer_tax", "principal_residence", "clean_water"]
+      "tags": [
+        "transfer_tax",
+        "principal_residence",
+        "clean_water"
+      ]
     },
     {
       "key_topic_ref": "VT-10.1",
@@ -47,7 +55,11 @@
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["transfer_tax", "general_rate", "1.25_percent"]
+      "tags": [
+        "transfer_tax",
+        "general_rate",
+        "1.25_percent"
+      ]
     },
     {
       "key_topic_ref": "VT-10.1",
@@ -62,7 +74,11 @@
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["clean_water_surcharge", "transfer_tax", "purpose"]
+      "tags": [
+        "clean_water_surcharge",
+        "transfer_tax",
+        "purpose"
+      ]
     },
     {
       "key_topic_ref": "VT-10.1",
@@ -77,7 +93,11 @@
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["clean_water_surcharge", "principal_residence", "threshold"]
+      "tags": [
+        "clean_water_surcharge",
+        "principal_residence",
+        "threshold"
+      ]
     },
     {
       "key_topic_ref": "VT-10.2",
@@ -92,7 +112,11 @@
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["second_home", "transfer_tax", "3.62_percent"]
+      "tags": [
+        "second_home",
+        "transfer_tax",
+        "3.62_percent"
+      ]
     },
     {
       "key_topic_ref": "VT-10.2",
@@ -107,7 +131,11 @@
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["vacation_home", "transfer_tax", "non_principal"]
+      "tags": [
+        "vacation_home",
+        "transfer_tax",
+        "non_principal"
+      ]
     },
     {
       "key_topic_ref": "VT-10.2",
@@ -118,11 +146,15 @@
         "A Commission-issued rental waiver",
         "A federal low-income housing credit"
       ],
-      "explanation": "Vermont provides a landlord certificate option for properties used as long-term rentals. This certificate allows landlords to avoid the higher 3.40% non-principal residence rate that applies to second homes and vacation properties.",
+      "explanation": "Vermont's 3.40% rate applies to a residence fit for year-round habitation that is NOT the buyer's principal residence and NOT a long-term rental. A buyer who will use the property as a long-term rental selects the general rate on the return and must have the property occupied as a long-term rental within one year of closing; a Landlord Certificate is then filed with the Department of Taxes annually on or before January 31. Failure to file can trigger the 3.40% rate after the fact.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["landlord_certificate", "long_term_rental", "transfer_tax"]
+      "tags": [
+        "landlord_certificate",
+        "long_term_rental",
+        "transfer_tax"
+      ]
     },
     {
       "key_topic_ref": "VT-10.2",
@@ -137,7 +169,11 @@
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["policy", "second_home", "housing_affordability"]
+      "tags": [
+        "policy",
+        "second_home",
+        "housing_affordability"
+      ]
     },
     {
       "key_topic_ref": "VT-10.2",
@@ -152,7 +188,11 @@
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["fraud", "principal_residence", "misrepresentation"]
+      "tags": [
+        "fraud",
+        "principal_residence",
+        "misrepresentation"
+      ]
     },
     {
       "key_topic_ref": "VT-10.3",
@@ -163,11 +203,15 @@
         "First-time homebuyer purchases",
         "Transfers to a limited liability company"
       ],
-      "explanation": "Vermont exempts several types of transfers from the property transfer tax, including transfers between spouses. Other exemptions include devise or inheritance, government transfers, and certain transfers involving VHCB, VHFA, or USDA programs.",
+      "explanation": "Transfers between spouses are exempt from Vermont's property transfer tax (32 V.S.A. ch. 231). Other exemptions include transfers by devise or inheritance, transfers to or from governmental entities, and — under Exemption 99 — the first $250,000 of value on a principal residence funded in part by a VHCB homeland grant or a VHFA or USDA Rural Development commitment.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["exemption", "spouse_transfer", "transfer_tax"]
+      "tags": [
+        "exemption",
+        "spouse_transfer",
+        "transfer_tax"
+      ]
     },
     {
       "key_topic_ref": "VT-10.3",
@@ -182,22 +226,30 @@
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exemption", "inheritance", "devise"]
+      "tags": [
+        "exemption",
+        "inheritance",
+        "devise"
+      ]
     },
     {
       "key_topic_ref": "VT-10.3",
-      "question_text": "What form must be filed with the town clerk when recording a Vermont property transfer?",
-      "correct_answer": "Form PT-172",
+      "question_text": "What form must be filed with the town clerk when a Vermont deed is delivered for recording?",
+      "correct_answer": "Form PTT-172",
       "distractors": [
-        "Form PTT-100",
-        "Form VT-200",
-        "Form RE-172"
+        "Form PT-171",
+        "Form LGT-178",
+        "Form RW-171"
       ],
-      "explanation": "Vermont requires Form PT-172 to be filed with the town clerk at the time of recording a property transfer. This form documents the transfer details and calculates the applicable transfer tax. Both buyer and seller have obligations related to its filing.",
+      "explanation": "The Vermont Property Transfer Tax Return is Form PTT-172. It must be filed with the town clerk whenever a deed transferring title is delivered for recording, and it can be e-filed through myVTax to the Department of Taxes and the municipality in one step. LGT-178 is the land gains return and RW-171 is the nonresident withholding return.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["PT-172", "town_clerk", "filing"]
+      "tags": [
+        "transfer tax",
+        "PTT-172",
+        "filing"
+      ]
     },
     {
       "key_topic_ref": "VT-10.3",
@@ -208,11 +260,15 @@
         "The first $200,000",
         "The first $100,000"
       ],
-      "explanation": "Transfers involving VHCB, VHFA, or USDA programs are exempt from transfer tax on the first $250,000 of value. The remaining $30,000 above the exemption threshold would be subject to the applicable transfer tax rate.",
+      "explanation": "Exemption 99 covers a principal residence funded in part by a homeland grant through the Vermont Housing and Conservation Board, or that VHFA or USDA Rural Development has committed to make or purchase: the first $250,000 of value paid is exempt. On a $280,000 purchase the remaining $30,000 is taxed at the applicable rate.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["VHFA", "exemption", "250K_threshold"]
+      "tags": [
+        "VHFA",
+        "exemption",
+        "250K_threshold"
+      ]
     },
     {
       "key_topic_ref": "VT-10.3",
@@ -223,11 +279,15 @@
         "Only the seller's attorney",
         "Only the recording town clerk"
       ],
-      "explanation": "Vermont law places transfer tax filing obligations on both the buyer and the seller. Form PT-172 must be filed with the town clerk at recording, and both parties share responsibility for ensuring proper documentation and payment.",
+      "explanation": "Form PTT-172 identifies the seller as the 'transferor' and the buyer as the 'transferee,' and both supply information used to determine the rate and any exemption. The return is filed with the town clerk at recording; the tax is the buyer's obligation, but the return depends on information from both sides.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["filing_obligations", "buyer_seller", "transfer_tax"]
+      "tags": [
+        "filing_obligations",
+        "buyer_seller",
+        "transfer_tax"
+      ]
     }
   ]
 }

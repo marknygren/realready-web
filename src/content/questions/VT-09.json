@@ -6,18 +6,22 @@
   "questions": [
     {
       "key_topic_ref": "VT-09.1",
-      "question_text": "What does the Vermont Seller Property Information Report require sellers to disclose?",
-      "correct_answer": "Known defects based on personal knowledge",
+      "question_text": "What does the Seller's Property Information Report (SPIR) used in Vermont ask sellers to report?",
+      "correct_answer": "Known conditions based on the seller's personal knowledge",
       "distractors": [
         "All defects found in a professional inspection",
         "Only defects that affect the sale price",
-        "Defects covered by a home warranty"
+        "Only defects covered by a home warranty"
       ],
-      "explanation": "The Vermont Seller Property Information Report requires sellers to disclose known defects based on their personal knowledge of the property. It is not a warranty or guarantee, and the seller is not required to conduct inspections to discover unknown issues.",
+      "explanation": "Vermont has no statute mandating a seller disclosure form. The SPIR is the Vermont Association of REALTORS® form used by custom in most transactions, and it asks only about conditions within the seller's personal knowledge. It is not a warranty and does not obligate the seller to inspect. The enforceable duty is the licensee's duty to disclose material facts (Rule 4.5; 26 V.S.A. § 2296(4)) and the seller's common-law duty not to misrepresent or conceal a known material defect.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["seller_disclosure", "known_defects", "personal_knowledge"]
+      "tags": [
+        "seller_disclosure",
+        "known_defects",
+        "personal_knowledge"
+      ]
     },
     {
       "key_topic_ref": "VT-09.1",
@@ -28,11 +32,15 @@
         "Permitted if the buyer has an inspection",
         "Legal as long as no damage occurred"
       ],
-      "explanation": "The Seller Property Information Report asks sellers to disclose known conditions including water intrusion. Deliberately marking 'no' when the seller knows the basement floods is a failure to disclose and may expose the seller to liability.",
+      "explanation": "Vermont law does not follow pure caveat emptor. Even without a mandatory disclosure statute, a seller may not affirmatively misrepresent or actively conceal a known material defect, and marking 'no' to a water-intrusion question the seller knows to be 'yes' is exactly that. The licensee who learns of it must disclose it under Rule 4.5(a)(1).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["seller_disclosure", "water_intrusion", "failure_to_disclose"]
+      "tags": [
+        "seller_disclosure",
+        "water_intrusion",
+        "failure_to_disclose"
+      ]
     },
     {
       "key_topic_ref": "VT-09.1",
@@ -43,11 +51,15 @@
         "Only items visible during a showing",
         "Only conditions that cost over $500 to fix"
       ],
-      "explanation": "The Vermont Seller Property Information Report covers a broad range of categories including structural conditions, water issues, mold, pest infestations, boundary disputes, and environmental concerns. It is comprehensive in scope.",
+      "explanation": "The SPIR is broad in scope, covering structural conditions, water and moisture issues, mold, pest infestations, boundary and access questions, and environmental concerns. It is a customary VAR form rather than a state-prescribed one, so the exact categories are set by the form, not by statute.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["disclosure_categories", "structural", "environmental"]
+      "tags": [
+        "disclosure_categories",
+        "structural",
+        "environmental"
+      ]
     },
     {
       "key_topic_ref": "VT-09.1",
@@ -58,11 +70,15 @@
         "Yes, for items disclosed as satisfactory",
         "Yes, for 12 months after closing"
       ],
-      "explanation": "The Vermont Seller Property Information Report is based on the seller's personal knowledge and is not a warranty or guarantee of the property's condition. The form uses language like 'do you know of' rather than making affirmative guarantees.",
+      "explanation": "The SPIR reports the seller's personal knowledge; it is not a warranty or guarantee of condition. Its 'do you know of' phrasing is deliberate. A buyer who wants assurance about condition needs an inspection and contract contingencies, not the disclosure form.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["seller_disclosure", "not_warranty", "personal_knowledge"]
+      "tags": [
+        "seller_disclosure",
+        "not_warranty",
+        "personal_knowledge"
+      ]
     },
     {
       "key_topic_ref": "VT-09.1",
@@ -73,11 +89,15 @@
         "Using 'warrant that no defects exist' language",
         "Using 'represent under penalty of law' language"
       ],
-      "explanation": "Vermont's Seller Property Information Report uses 'do you know of' phrasing to ask about various property conditions. This approach limits the disclosure to the seller's actual knowledge rather than imposing an obligation to discover unknown issues.",
+      "explanation": "The SPIR uses 'do you know of' phrasing throughout, limiting the answers to the seller's actual knowledge rather than imposing a duty to investigate. That drafting choice matters in Vermont, where no statute compels a seller disclosure form in the first place.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["disclosure_language", "do_you_know_of", "seller_knowledge"]
+      "tags": [
+        "disclosure_language",
+        "do_you_know_of",
+        "seller_knowledge"
+      ]
     },
     {
       "key_topic_ref": "VT-09.2",
@@ -88,11 +108,15 @@
         "Only when the buyer requests it",
         "Within 10 days after the closing date"
       ],
-      "explanation": "Vermont requires a two-stage lead paint disclosure for pre-1978 housing. The seller must provide disclosure both before the purchase and sale agreement is signed AND again at closing. This two-stage process exceeds the typical federal requirement.",
+      "explanation": "Vermont layers a two-stage disclosure on top of the federal rule for pre-1978 housing (18 V.S.A. ch. 38). Before the purchase and sale agreement is executed the seller delivers the Vermont Lead Law Real Estate Transaction Disclosure Form Part I with the approved Department of Health materials; at closing the seller delivers Part II along with 'Don't Spread Lead.'",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["lead_paint", "two_stage_disclosure", "pre_1978"]
+      "tags": [
+        "lead_paint",
+        "two_stage_disclosure",
+        "pre_1978"
+      ]
     },
     {
       "key_topic_ref": "VT-09.2",
@@ -103,11 +127,15 @@
         "Lead testing only when a child is present",
         "Encapsulation of all exterior surfaces"
       ],
-      "explanation": "Vermont's EMP law requires property owners to perform annual lead-safe maintenance practices on pre-1978 rental housing and child-occupied facilities. This includes specific cleaning, repair, and maintenance protocols to minimize lead dust exposure.",
+      "explanation": "Vermont's Essential Maintenance Practices law (18 V.S.A. § 1759) requires owners of pre-1978 rental housing and child-occupied facilities to perform specified lead-safe practices annually — including installing window well inserts, annual visual inspection for deteriorated paint, restoring deteriorated surfaces within 30 days, and posting lead hazard information.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["EMP", "lead_paint", "annual_maintenance"]
+      "tags": [
+        "EMP",
+        "lead_paint",
+        "annual_maintenance"
+      ]
     },
     {
       "key_topic_ref": "VT-09.2",
@@ -118,11 +146,15 @@
         "Loss of the property's certificate of occupancy",
         "No risk unless a tenant files a complaint"
       ],
-      "explanation": "Vermont's EMP law carries significant penalties for non-compliance. Property owners must file annual EMP certifications with the Vermont Department of Health. Failure to comply can result in substantial fines and other enforcement actions.",
+      "explanation": "EMP compliance statements must be filed annually, and non-compliance carries substantial penalties enforced by the Attorney General and the Department of Health. On a sale of non-compliant rental property, the buyer must bring the property into full EMP compliance within 60 days of closing unless the Health Commissioner grants an extension.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["EMP", "penalties", "non_compliance"]
+      "tags": [
+        "EMP",
+        "penalties",
+        "non_compliance"
+      ]
     },
     {
       "key_topic_ref": "VT-09.2",
@@ -133,11 +165,15 @@
         "With the Vermont Real Estate Commission",
         "With the EPA regional office"
       ],
-      "explanation": "Vermont's Essential Maintenance Practices certifications must be filed annually with the Vermont Department of Health. This state agency oversees lead paint safety compliance and maintains records of EMP certification filings.",
+      "explanation": "The annual EMP compliance statement is filed with the Vermont Department of Health and with the property owner's insurance carrier, and copies must be given to all tenants — and to new tenants before they sign a lease (18 V.S.A. § 1759).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["EMP", "Department_of_Health", "annual_filing"]
+      "tags": [
+        "EMP",
+        "Department_of_Health",
+        "annual_filing"
+      ]
     },
     {
       "key_topic_ref": "VT-09.2",
@@ -152,7 +188,11 @@
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["lead_paint", "educational_materials", "EPA_pamphlet"]
+      "tags": [
+        "lead_paint",
+        "educational_materials",
+        "EPA_pamphlet"
+      ]
     },
     {
       "key_topic_ref": "VT-09.3",
@@ -163,11 +203,15 @@
         "Only if the tank has leaked previously",
         "No, abandoned tanks are not disclosable"
       ],
-      "explanation": "Vermont property disclosures require information about underground storage tanks regardless of whether they are active or abandoned. These tanks pose environmental risks including soil and groundwater contamination and are a material fact for buyers.",
+      "explanation": "An underground storage tank, whether in service or abandoned, is a material fact: it carries soil and groundwater contamination risk and potential cleanup liability. A Vermont licensee who knows of it must disclose it to a buyer under Rule 4.5(a) and 26 V.S.A. § 2296(4), and the SPIR asks about it.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["underground_storage_tank", "environmental", "disclosure"]
+      "tags": [
+        "underground_storage_tank",
+        "environmental",
+        "disclosure"
+      ]
     },
     {
       "key_topic_ref": "VT-09.3",
@@ -178,11 +222,15 @@
         "Purchase flood insurance before listing",
         "Notify FEMA of the pending sale"
       ],
-      "explanation": "Vermont requires sellers to disclose known flood zone status as part of the property disclosure process. Even though flood maps are publicly available, the seller's knowledge of flood zone designation is a material fact that must be disclosed.",
+      "explanation": "Flood zone status a seller knows about is a material fact. Vermont has no statute forcing a seller to volunteer it, but a licensee with that knowledge must disclose it under Rule 4.5(a)(4) as a fact that may directly affect the future use or value of the property — and the SPIR asks about flooding history.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["flood_zone", "disclosure", "FEMA"]
+      "tags": [
+        "flood_zone",
+        "disclosure",
+        "FEMA"
+      ]
     },
     {
       "key_topic_ref": "VT-09.3",
@@ -193,11 +241,15 @@
         "Distance to the nearest hospital",
         "Local school district ratings"
       ],
-      "explanation": "Vermont property disclosures include water supply information covering the source (well, municipal, spring) and quality. This is especially important in Vermont where many properties rely on private wells that may have quality or quantity issues.",
+      "explanation": "Water supply source and quality is a standard SPIR item and a classic Vermont material fact, because a large share of Vermont homes rely on private wells or springs whose yield and water quality are not municipally guaranteed.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["water_supply", "environmental_disclosure", "well"]
+      "tags": [
+        "water_supply",
+        "environmental_disclosure",
+        "well"
+      ]
     },
     {
       "key_topic_ref": "VT-09.3",
@@ -208,11 +260,15 @@
         "Only the road surface material type",
         "Only if the road is unpaved"
       ],
-      "explanation": "Vermont disclosures include private road maintenance information. Buyers need to know about shared maintenance responsibilities, costs, and any formal road maintenance agreements since the town does not maintain private roads.",
+      "explanation": "Shared private road access is a material fact under Rule 4.5(a)(2) — a limitation that can substantially impair use or value — and the SPIR asks about it. Buyers need to know about maintenance obligations, cost sharing, and whether a written road maintenance agreement exists, since the town does not maintain private roads.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["private_road", "maintenance", "disclosure"]
+      "tags": [
+        "private_road",
+        "maintenance",
+        "disclosure"
+      ]
     },
     {
       "key_topic_ref": "VT-09.3",
@@ -223,11 +279,15 @@
         "Only if the system fails again",
         "Only if asked directly by the buyer"
       ],
-      "explanation": "Vermont requires disclosure of septic system condition, including past failures and repairs. A previous failure and repair is relevant to the buyer's assessment of the property and constitutes information the seller knows about the system's history.",
+      "explanation": "A septic system's history, including a past failure and repair, is information the seller knows and that bears directly on value and use, so it is a material fact a licensee must disclose under Rule 4.5(a)(1). Wastewater systems are also permitted under Vermont's Wastewater System and Potable Water Supply Rules (10 V.S.A. ch. 64), and the permit status travels with the property.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["septic_system", "disclosure", "repair_history"]
+      "tags": [
+        "septic_system",
+        "disclosure",
+        "repair_history"
+      ]
     }
   ]
 }

@@ -13,11 +13,15 @@
         "Yes, only for residential properties",
         "Yes, but brokers may add custom clauses"
       ],
-      "explanation": "Vermont does not mandate the use of state-approved listing agreement forms. However, the Vermont Association of Realtors (VAR) provides standard forms that are widely used in practice. Written agreements are recommended for enforceability.",
+      "explanation": "Vermont does not promulgate listing forms; the Vermont Association of REALTORS® supplies the standard forms most licensees use. But Commission Rule 4.9(a) does dictate the form's identity: each type of seller service agreement must be on a separate form headed in boldface with exactly one of NONEXCLUSIVE (OPEN) AGENCY MARKETING AGREEMENT, EXCLUSIVE AGENCY MARKETING AGREEMENT, or EXCLUSIVE RIGHT TO MARKET AGREEMENT. Net listings are prohibited outright (Rule 4.8(e)).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["listing_forms", "state_mandate", "VAR"]
+      "tags": [
+        "listing_forms",
+        "state_mandate",
+        "VAR"
+      ]
     },
     {
       "key_topic_ref": "VT-08.1",
@@ -28,11 +32,15 @@
         "No, the seller owes no commission for self-sales",
         "Only if the listing is over 90 days old"
       ],
-      "explanation": "Under an exclusive right-to-sell listing, the broker earns a commission regardless of who sells the property, including the seller. This is the most protective listing type for the broker and is widely used in Vermont.",
+      "explanation": "Vermont calls this an EXCLUSIVE RIGHT TO MARKET AGREEMENT (Rule 4.9(a)) — the seller owes the firm a fee even if the seller finds the buyer. Rule 4.9(c) also lets the agreement provide for compensation after expiration for up to twelve months if the firm was procuring cause and named the buyer in writing within 10 days of expiration or termination.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exclusive_right_to_sell", "commission", "seller_sale"]
+      "tags": [
+        "exclusive_right_to_sell",
+        "commission",
+        "seller_sale"
+      ]
     },
     {
       "key_topic_ref": "VT-08.1",
@@ -47,7 +55,11 @@
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["VAR", "standard_forms", "listing_agreement"]
+      "tags": [
+        "VAR",
+        "standard_forms",
+        "listing_agreement"
+      ]
     },
     {
       "key_topic_ref": "VT-08.1",
@@ -58,26 +70,34 @@
         "Yes, but at a reduced rate of 50%",
         "Only if the broker marketed the property"
       ],
-      "explanation": "An exclusive agency listing allows the seller to sell the property independently without owing a commission to the listing broker. However, if any other broker brings the buyer, the listing broker earns the commission. This distinguishes it from an exclusive right to sell.",
+      "explanation": "Vermont's EXCLUSIVE AGENCY MARKETING AGREEMENT (Rule 4.9(a) and 1.8(j)) expressly reserves to the owner the right to sell or market the property personally without liability for a commission, while barring the owner from listing with any other firm during the term.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exclusive_agency", "self_sale", "commission"]
+      "tags": [
+        "exclusive_agency",
+        "self_sale",
+        "commission"
+      ]
     },
     {
       "key_topic_ref": "VT-08.1",
-      "question_text": "A verbal listing agreement is made between a seller and broker in Vermont. What is the main risk?",
-      "correct_answer": "It may not be enforceable in a dispute",
+      "question_text": "A Vermont seller and a licensee agree to a listing verbally and the licensee begins marketing the property. What is the problem?",
+      "correct_answer": "Vermont requires a written agreement before any brokerage services",
       "distractors": [
+        "It is legal but hard to prove if a commission dispute arises",
         "It automatically expires after 24 hours",
-        "It violates the Vermont Real Estate Commission rules",
-        "The broker's license will be suspended"
+        "Nothing — oral listings are common practice in Vermont"
       ],
-      "explanation": "While Vermont does not strictly prohibit verbal listing agreements, written agreements are recommended for enforceability. Without a written agreement, the broker may have difficulty proving the terms if a commission dispute arises.",
+      "explanation": "Commission Rule 4.8(a) prohibits a brokerage firm from rendering any brokerage services without a written seller service agreement, a written buyer service agreement, or a written cooperation agreement between firms. Rule 4.8(b) adds that the agreement must carry a specific expiration date not more than one year out and may contain no automatic extension or renewal.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["verbal_listing", "enforceability", "written_agreement"]
+      "tags": [
+        "service agreements",
+        "rule 4.8",
+        "written agreement"
+      ]
     },
     {
       "key_topic_ref": "VT-08.2",
@@ -88,11 +108,15 @@
         "The Vermont Association of Realtors",
         "State law sets a standard 6% rate"
       ],
-      "explanation": "Real estate commissions in Vermont are fully negotiable between the broker and client. They are not set by law, the Commission, or any trade association. Any agreement to fix commission rates among brokers would violate antitrust law.",
+      "explanation": "Vermont commissions are fully negotiable — not set by statute, by the Commission, or by any trade association, and price-fixing among brokers violates antitrust law. Vermont separately prohibits net listings in any variation (Rule 4.8(e)), because a net arrangement lets the benefit of a better price accrue to the firm rather than the client.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["commission_rates", "negotiable", "antitrust"]
+      "tags": [
+        "commission_rates",
+        "negotiable",
+        "antitrust"
+      ]
     },
     {
       "key_topic_ref": "VT-08.2",
@@ -103,11 +127,15 @@
         "Yes, for transactions under $200,000",
         "Yes, if the salesperson has 5 years experience"
       ],
-      "explanation": "Vermont law requires that a salesperson receive all compensation through their supervising broker. A salesperson cannot accept commission payments directly from any party to the transaction. All funds must flow through the brokerage.",
+      "explanation": "Under Rule 4.13(c), a brokerage firm may collect compensation only under a written brokerage service agreement signed by the firm and its client, or under an agency agreement with a firm that holds such an agreement. Salespersons work for and are paid through their firm; they cannot take payment directly from a party.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["compensation", "through_broker", "salesperson"]
+      "tags": [
+        "compensation",
+        "through_broker",
+        "salesperson"
+      ]
     },
     {
       "key_topic_ref": "VT-08.2",
@@ -118,11 +146,15 @@
         "Allowed for referrals under $1,000",
         "Acceptable with Commission approval"
       ],
-      "explanation": "Vermont prohibits paying commissions or referral fees to unlicensed individuals for performing licensed real estate activities. Referring buyers or sellers for compensation is a licensed activity, so this payment violates Vermont law.",
+      "explanation": "Rule 4.13(a) prohibits a licensee from paying or otherwise compensating an unlicensed person, directly or indirectly, for the performance of brokerage services. Rule 4.13(b) allows referral fees only to another brokerage firm licensed in Vermont or another jurisdiction, and the referral fee agreement must be in writing.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["referral_fee", "unlicensed", "prohibition"]
+      "tags": [
+        "referral_fee",
+        "unlicensed",
+        "prohibition"
+      ]
     },
     {
       "key_topic_ref": "VT-08.2",
@@ -137,7 +169,11 @@
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["commission_dispute", "civil_matter", "courts"]
+      "tags": [
+        "commission_dispute",
+        "civil_matter",
+        "courts"
+      ]
     },
     {
       "key_topic_ref": "VT-08.2",
@@ -152,7 +188,11 @@
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["price_fixing", "antitrust", "commission_rates"]
+      "tags": [
+        "price_fixing",
+        "antitrust",
+        "commission_rates"
+      ]
     }
   ]
 }

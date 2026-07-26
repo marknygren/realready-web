@@ -8,166 +8,288 @@
       "key_topic_ref": "VT-12.1",
       "question_text": "A Vermont landlord refuses to rent to a 22-year-old applicant solely because of the applicant's age. Under Vermont fair housing law, is this lawful?",
       "correct_answer": "No, age 18+ is a protected class in VT",
-      "distractors": ["Yes, age is not a protected class", "Yes, if the tenant is under 25", "No, but only for buyers, not renters"],
-      "explanation": "Vermont fair housing law protects all persons age 18 and older from age-based discrimination. This goes beyond federal law, which does not include age as a protected class in housing.",
+      "distractors": [
+        "Yes, age is not a protected class",
+        "Yes, if the tenant is under 25",
+        "No, but only for buyers, not renters"
+      ],
+      "explanation": "Age is a protected class under 9 V.S.A. § 4503, and federal fair housing law has no age class at all. Vermont's only age-related carve-outs are refusing to rent to a person under the age of majority (§ 4504(3)) and qualified senior housing (62+, or 55+ communities meeting the statutory tests) under § 4503(b).",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["fair-housing", "age-protection", "VT-classes"]
+      "tags": [
+        "fair-housing",
+        "age-protection",
+        "VT-classes"
+      ]
     },
     {
       "key_topic_ref": "VT-12.1",
       "question_text": "Which of the following is a protected class under Vermont fair housing law but NOT under federal fair housing law?",
       "correct_answer": "Receipt of public assistance",
-      "distractors": ["Race", "National origin", "Familial status"],
-      "explanation": "Vermont adds several protected classes beyond federal law, including receipt of public assistance (such as Section 8 vouchers), sexual orientation, gender identity, marital status, age 18+, and victims of abuse/stalking.",
+      "distractors": [
+        "Race",
+        "National origin",
+        "Familial status"
+      ],
+      "explanation": "9 V.S.A. § 4503 protects race, sex, sexual orientation, gender identity, age, marital status, religious creed, color, national origin, and disability, and separately protects people who intend to occupy a dwelling with minor children, who receive public assistance, and who are victims of abuse, sexual assault, or stalking. Receipt of public assistance — which covers Section 8 vouchers — has no federal counterpart.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["fair-housing", "protected-classes", "public-assistance"]
+      "tags": [
+        "fair-housing",
+        "protected-classes",
+        "public-assistance"
+      ]
     },
     {
       "key_topic_ref": "VT-12.1",
       "question_text": "A Vermont property manager tells an applicant that victims of domestic violence are too risky as tenants. This statement violates Vermont law because it discriminates based on what?",
       "correct_answer": "Victim of abuse or stalking",
-      "distractors": ["Gender identity protection", "Criminal background status", "Mental health condition"],
+      "distractors": [
+        "Gender identity protection",
+        "Criminal background status",
+        "Mental health condition"
+      ],
       "explanation": "Vermont fair housing law specifically protects victims of abuse, sexual assault, and stalking from housing discrimination. Refusing to rent based on this status is unlawful.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["fair-housing", "victims-of-abuse", "VT-classes"]
+      "tags": [
+        "fair-housing",
+        "victims-of-abuse",
+        "VT-classes"
+      ]
     },
     {
       "key_topic_ref": "VT-12.1",
       "question_text": "A Vermont seller refuses to negotiate with a buyer because the buyer is in a civil union. Which protected class does this violate?",
       "correct_answer": "Marital status",
-      "distractors": ["Sexual orientation only", "Gender identity only", "No protected class applies"],
+      "distractors": [
+        "Sexual orientation only",
+        "Gender identity only",
+        "No protected class applies"
+      ],
       "explanation": "Marital status is a protected class under Vermont fair housing law. Discrimination based on civil union status falls under this protection. Vermont recognizes both civil unions and marriages.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["fair-housing", "marital-status", "civil-unions"]
+      "tags": [
+        "fair-housing",
+        "marital-status",
+        "civil-unions"
+      ]
     },
     {
       "key_topic_ref": "VT-12.1",
       "question_text": "A Vermont listing agent tells a seller they can reject offers from applicants using housing vouchers. Is this accurate?",
       "correct_answer": "No, source of income is protected in VT",
-      "distractors": ["Yes, sellers can choose any buyer", "Yes, for single-family homes only", "Yes, if the property is owner-occupied"],
-      "explanation": "Vermont protects receipt of public assistance as a fair housing class. Sellers cannot reject offers solely because a buyer uses housing vouchers or other public assistance. This goes beyond federal protections.",
+      "distractors": [
+        "Yes, sellers can choose any buyer",
+        "Yes, for single-family homes only",
+        "Yes, if the property is owner-occupied"
+      ],
+      "explanation": "Vermont protects receipt of public assistance under 9 V.S.A. § 4503, so a blanket refusal to deal with voucher holders is unlawful in a covered transaction. Note the limits: § 4504 exempts only the RENTAL of a dwelling in an owner-occupied building of three or fewer units — it does not exempt sales.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["fair-housing", "protected-classes", "VT-additions"]
+      "tags": [
+        "fair-housing",
+        "protected-classes",
+        "VT-additions"
+      ]
     },
     {
       "key_topic_ref": "VT-12.2",
-      "question_text": "A Vermont landlord with a duplex who lives in one unit wants to refuse a Section 8 voucher holder for the other unit, citing the federal Mrs. Murphy exemption. Is this permissible?",
-      "correct_answer": "No, VT has no Mrs. Murphy exemption",
-      "distractors": ["Yes, the federal exemption applies", "Yes, for owner-occupied duplexes only", "Yes, if the unit has shared facilities"],
-      "explanation": "Unlike federal law, Vermont does NOT recognize the Mrs. Murphy exemption. Owner-occupied properties with four or fewer units receive no exemption from Vermont's fair housing requirements.",
+      "question_text": "A Vermont landlord lives in one unit of a two-unit building and refuses a Section 8 voucher holder for the other unit. Under 9 V.S.A. § 4504, is the refusal covered by state fair housing law?",
+      "correct_answer": "No — owner-occupied buildings of three or fewer units are exempt from the rental provisions",
+      "distractors": [
+        "Yes — Vermont has no owner-occupied exemption of any kind",
+        "Yes — the exemption covers only single-family homes",
+        "Yes — the exemption applies only to familial status"
+      ],
+      "explanation": "9 V.S.A. § 4504(2) provides that the § 4503 provisions relating to the rental of a dwelling do not apply if the unit is in a building with three or fewer units and the owner or a member of the owner's immediate family resides in one of them. The advertising rule in § 4503(a)(3) still applies, and federal protections against racial discrimination under 42 U.S.C. § 1982 are never waived — but Vermont's exemption is real, and it is narrower than the federal four-unit 'Mrs. Murphy' rule.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["fair-housing", "mrs-murphy", "source-of-income"]
+      "tags": [
+        "fair housing",
+        "exemption",
+        "4504",
+        "owner-occupied"
+      ]
     },
     {
       "key_topic_ref": "VT-12.2",
       "question_text": "A Vermont apartment complex advertises units as 'professionals only, no voucher holders.' Which Vermont fair housing provision does this violate?",
       "correct_answer": "Source of income protection",
-      "distractors": ["Familial status provisions", "Disability accommodation rules", "Age discrimination rules"],
-      "explanation": "Vermont's source of income protection prohibits landlords from refusing tenants based on their use of housing vouchers or public assistance. Discriminatory advertising also violates the law.",
+      "distractors": [
+        "Familial status provisions",
+        "Disability accommodation rules",
+        "Age discrimination rules"
+      ],
+      "explanation": "Advertising 'no voucher holders' violates Vermont's receipt-of-public-assistance protection, and 9 V.S.A. § 4503(a)(3) bars discriminatory notices, statements, and advertisements. The advertising rule applies even to landlords who otherwise qualify for the owner-occupied exemption in § 4504(2).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["fair-housing", "source-of-income", "advertising"]
+      "tags": [
+        "fair-housing",
+        "source-of-income",
+        "advertising"
+      ]
     },
     {
       "key_topic_ref": "VT-12.2",
       "question_text": "Vermont fair housing law prohibits discrimination in which of the following activities?",
       "correct_answer": "Advertising, showing, and financing",
-      "distractors": ["Only sale transactions", "Only rental transactions", "Only mortgage lending"],
+      "distractors": [
+        "Only sale transactions",
+        "Only rental transactions",
+        "Only mortgage lending"
+      ],
       "explanation": "Vermont fair housing law broadly covers sale, rental, and financing of housing. Prohibited practices include discrimination in advertising, showing properties, negotiating terms, and setting conditions.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["fair-housing", "prohibited-practices", "scope"]
+      "tags": [
+        "fair-housing",
+        "prohibited-practices",
+        "scope"
+      ]
     },
     {
       "key_topic_ref": "VT-12.2",
       "question_text": "A Vermont landlord sets different lease terms for tenants receiving public assistance versus those with employment income. Is this lawful?",
       "correct_answer": "No, terms cannot vary by income source",
-      "distractors": ["Yes, if disclosed in advance", "Yes, for month-to-month leases only", "Yes, if the rent amount is the same"],
-      "explanation": "Vermont's source of income protection prohibits varying lease terms based on whether a tenant uses vouchers or public assistance. All tenants must be offered the same terms regardless of income source.",
+      "distractors": [
+        "Yes, if disclosed in advance",
+        "Yes, for month-to-month leases only",
+        "Yes, if the rent amount is the same"
+      ],
+      "explanation": "9 V.S.A. § 4503(a)(2) prohibits discriminating in the terms, conditions, or privileges of a rental because of a protected characteristic, and receipt of public assistance is protected. Unless the landlord falls within a § 4504 exemption, tenants using vouchers must be offered the same lease terms as anyone else.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["fair-housing", "source-of-income", "lease-terms"]
+      "tags": [
+        "fair-housing",
+        "source-of-income",
+        "lease-terms"
+      ]
     },
     {
       "key_topic_ref": "VT-12.2",
       "question_text": "Which statement about Vermont's fair housing exemptions is correct?",
-      "correct_answer": "VT provides fewer exemptions than federal law",
-      "distractors": ["VT mirrors all federal exemptions exactly", "VT adds several additional exemptions beyond federal", "VT exempts all owner-occupied single-family homes"],
-      "explanation": "Vermont provides fewer exemptions than federal fair housing law. Notably, Vermont does not recognize the Mrs. Murphy exemption for owner-occupied small properties that exists under federal law.",
+      "correct_answer": "Vermont's owner-occupied exemption covers buildings of three or fewer units",
+      "distractors": [
+        "Vermont recognizes no owner-occupied exemption at all",
+        "Vermont's owner-occupied exemption matches the federal four-unit rule",
+        "Vermont exempts all owner-occupied single-family home sales"
+      ],
+      "explanation": "9 V.S.A. § 4504(2) exempts the rental of a dwelling in a building of three or fewer units where the owner or a member of the owner's immediate family lives in one of them — one unit tighter than the federal four-unit 'Mrs. Murphy' exemption, and limited to rentals. Section 4504 also exempts refusing to rent to a minor, legitimate business practices such as reference checks, and certain religious organizations.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["fair-housing", "exemptions", "VT-vs-federal"]
+      "tags": [
+        "fair housing",
+        "exemption",
+        "4504",
+        "Mrs. Murphy"
+      ]
     },
     {
       "key_topic_ref": "VT-12.3",
       "question_text": "A tenant believes a Vermont landlord discriminated based on gender identity. To which state agency should the tenant file a complaint?",
       "correct_answer": "Vermont Human Rights Commission",
-      "distractors": ["Vermont Housing Authority", "Department of Public Safety", "Office of the Attorney General"],
-      "explanation": "The Vermont Human Rights Commission is the state agency that investigates fair housing discrimination complaints. Complaints must be filed within 1 year of the alleged discriminatory act.",
+      "distractors": [
+        "Vermont Housing Authority",
+        "Department of Public Safety",
+        "Office of the Attorney General"
+      ],
+      "explanation": "The Vermont Human Rights Commission investigates housing discrimination complaints under 9 V.S.A. ch. 141. If it finds reasonable grounds it may pursue conciliation or bring suit in Superior Court seeking damages, penalties, attorney's fees, and injunctive relief.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["fair-housing", "enforcement", "VHRC"]
+      "tags": [
+        "fair-housing",
+        "enforcement",
+        "VHRC"
+      ]
     },
     {
       "key_topic_ref": "VT-12.3",
       "question_text": "Within what time period must a fair housing complaint be filed with the Vermont Human Rights Commission?",
       "correct_answer": "Within 1 year",
-      "distractors": ["Within 180 days", "Within 6 months", "Within 2 years"],
-      "explanation": "Vermont fair housing complaints must be filed with the Human Rights Commission within 1 year of the alleged discriminatory act. This is more generous than the federal 1-year HUD deadline.",
+      "distractors": [
+        "Within 180 days",
+        "Within 6 months",
+        "Within 2 years"
+      ],
+      "explanation": "A housing discrimination complaint should be filed with the Vermont Human Rights Commission within one year of the alleged discriminatory act — the same one-year window HUD applies to federal Fair Housing Act complaints. A complainant may instead bring a private action in Vermont Superior Court.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["fair-housing", "complaint-deadline", "VHRC"]
+      "tags": [
+        "fair-housing",
+        "complaint-deadline",
+        "VHRC"
+      ]
     },
     {
       "key_topic_ref": "VT-12.3",
       "question_text": "After investigating a fair housing complaint, the Vermont Human Rights Commission may issue which type of order?",
       "correct_answer": "A cease and desist order",
-      "distractors": ["A criminal arrest warrant", "A license suspension order", "A property lien order"],
-      "explanation": "The VHRC can order conciliation, issue cease and desist orders, and impose civil penalties. It does not have criminal jurisdiction or authority over real estate licenses.",
+      "distractors": [
+        "A criminal arrest warrant",
+        "A license suspension order",
+        "A property lien order"
+      ],
+      "explanation": "The Vermont Human Rights Commission investigates, pursues conciliation, and — where it finds reasonable grounds — may seek cease and desist relief, damages, and civil penalties through Superior Court. It has no criminal jurisdiction and no authority over real estate licenses, which belong to the Real Estate Commission.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["fair-housing", "remedies", "cease-and-desist"]
+      "tags": [
+        "fair-housing",
+        "remedies",
+        "cease-and-desist"
+      ]
     },
     {
       "key_topic_ref": "VT-12.3",
       "question_text": "A prevailing complainant in a Vermont fair housing lawsuit in Superior Court may recover which of the following?",
       "correct_answer": "Damages and attorney fees",
-      "distractors": ["Only actual damages", "Only injunctive relief", "Only a formal apology"],
+      "distractors": [
+        "Only actual damages",
+        "Only injunctive relief",
+        "Only a formal apology"
+      ],
       "explanation": "A prevailing complainant in a Vermont fair housing case filed in Superior Court may recover actual damages, attorney fees, and other appropriate relief as determined by the court.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["fair-housing", "remedies", "superior-court"]
+      "tags": [
+        "fair-housing",
+        "remedies",
+        "superior-court"
+      ]
     },
     {
       "key_topic_ref": "VT-12.3",
       "question_text": "Besides filing with the Vermont Human Rights Commission, a housing discrimination victim may also pursue a claim through which court?",
       "correct_answer": "Vermont Superior Court",
-      "distractors": ["Federal Bankruptcy Court", "Vermont Probate Court", "Vermont Small Claims Court"],
+      "distractors": [
+        "Federal Bankruptcy Court",
+        "Vermont Probate Court",
+        "Vermont Small Claims Court"
+      ],
       "explanation": "Victims of housing discrimination in Vermont may file a complaint with the VHRC or bring a private lawsuit directly in Vermont Superior Court. Both options allow recovery of damages and attorney fees.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["fair-housing", "private-lawsuit", "superior-court"]
+      "tags": [
+        "fair-housing",
+        "private-lawsuit",
+        "superior-court"
+      ]
     }
   ]
 }

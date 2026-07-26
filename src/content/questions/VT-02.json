@@ -8,221 +8,380 @@
       "key_topic_ref": "VT-02.1",
       "question_text": "A property owner sells their own home without hiring an agent. Does this require a real estate license in Vermont?",
       "correct_answer": "No, property owners are exempt",
-      "distractors": ["Yes, all sales require a license", "Only if the sale exceeds $100,000", "Only if the owner advertises online"],
-      "explanation": "Property owners selling their own real estate are exempt from Vermont licensing requirements. A license is required only when someone lists, sells, buys, or manages property for compensation on behalf of another.",
+      "distractors": [
+        "Yes, all sales require a license",
+        "Only if the sale exceeds $100,000",
+        "Only if the owner advertises online"
+      ],
+      "explanation": "Property owners selling their own real estate are exempt from Vermont licensing (26 V.S.A. § 2211(b)). A license is required only when a person, for another and for compensation, lists, sells, buys, exchanges, negotiates, or deals in options on real estate as a continuing course of conduct.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exemption", "property owner", "license"]
+      "tags": [
+        "exemption",
+        "property owner",
+        "license"
+      ]
     },
     {
       "key_topic_ref": "VT-02.1",
       "question_text": "An attorney handles real estate transactions as part of administering a deceased client's estate. Must the attorney hold a real estate license?",
       "correct_answer": "No, estate administration is exempt",
-      "distractors": ["Yes, any sale requires a license", "Only if the property value exceeds $250,000", "Only if the attorney collects a commission"],
+      "distractors": [
+        "Yes, any sale requires a license",
+        "Only if the property value exceeds $250,000",
+        "Only if the attorney collects a commission"
+      ],
       "explanation": "Attorneys acting in connection with estate, trust, or bankruptcy matters are exempt from Vermont real estate licensing. This exemption recognizes the attorney's existing professional regulation.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exemption", "attorney", "estate"]
+      "tags": [
+        "exemption",
+        "attorney",
+        "estate"
+      ]
     },
     {
       "key_topic_ref": "VT-02.1",
-      "question_text": "Which activity requires a Vermont real estate license?",
-      "correct_answer": "Managing property for compensation",
-      "distractors": ["Appraising property for a bank", "Selling your own investment property", "Serving as a court-appointed receiver"],
-      "explanation": "Listing, selling, buying, or managing real property for compensation on behalf of another requires a Vermont real estate license. Selling your own property, court-appointed roles, and appraisal are exempt.",
+      "question_text": "Which of the following activities requires a Vermont real estate license?",
+      "correct_answer": "Negotiating the sale of another person's property for a fee",
+      "distractors": [
+        "Leasing or renting property for an owner for a fee",
+        "Appraising property for a bank",
+        "Selling your own investment property"
+      ],
+      "explanation": "26 V.S.A. § 2211(a)(4) makes listing, selling, exchanging, purchasing, or negotiating the sale of real estate for another for compensation a licensed activity. Leasing is expressly exempt under § 2211(b)(8) and Rule 2.1(c)(1) — Vermont does not license leasing or rental property management. Appraisers are separately regulated, and owners selling their own property are exempt.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["license required", "property management"]
+      "tags": [
+        "license required",
+        "property management"
+      ]
     },
     {
       "key_topic_ref": "VT-02.1",
       "question_text": "A court appoints a receiver to manage and sell foreclosed properties. Does this person need a real estate license?",
       "correct_answer": "No, court-appointed receivers are exempt",
-      "distractors": ["Yes, all property sales require a license", "Only if the receiver earns a commission", "Only if the receiver is not an attorney"],
+      "distractors": [
+        "Yes, all property sales require a license",
+        "Only if the receiver earns a commission",
+        "Only if the receiver is not an attorney"
+      ],
       "explanation": "Court-appointed receivers are exempt from Vermont licensing requirements. The court appointment provides oversight that substitutes for the consumer protections of licensure.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exemption", "receiver", "court-appointed"]
+      "tags": [
+        "exemption",
+        "receiver",
+        "court-appointed"
+      ]
     },
     {
       "key_topic_ref": "VT-02.1",
       "question_text": "A public officer conducts a tax sale of abandoned property. Is a license required?",
       "correct_answer": "No, public officers are exempt",
-      "distractors": ["Yes, all sales need a license", "Only if the officer profits personally", "Only if the sale is over $50,000"],
+      "distractors": [
+        "Yes, all sales need a license",
+        "Only if the officer profits personally",
+        "Only if the sale is over $50,000"
+      ],
       "explanation": "Public officers performing their official duties related to real estate are exempt from Vermont licensing requirements. Tax sales conducted by government officials fall under this exemption.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exemption", "public officer", "tax sale"]
+      "tags": [
+        "exemption",
+        "public officer",
+        "tax sale"
+      ]
     },
     {
       "key_topic_ref": "VT-02.2",
       "question_text": "What is the minimum age to obtain a salesperson license in Vermont?",
       "correct_answer": "18 years old",
-      "distractors": ["21 years old", "16 years old", "19 years old"],
+      "distractors": [
+        "21 years old",
+        "16 years old",
+        "19 years old"
+      ],
       "explanation": "Vermont requires salesperson applicants to be at least 18 years of age. Additional requirements include completing 40 hours of pre-license education, passing the exam, and a background check.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["salesperson", "age", "eligibility"]
+      "tags": [
+        "salesperson",
+        "age",
+        "eligibility"
+      ]
     },
     {
       "key_topic_ref": "VT-02.2",
       "question_text": "A salesperson wants to upgrade to a broker license. What experience requirement must be met?",
       "correct_answer": "2 years as a licensed salesperson",
-      "distractors": ["5 years as a licensed salesperson", "3 years as a licensed salesperson", "1 year as a licensed salesperson"],
-      "explanation": "To qualify for a broker license in Vermont, an applicant must have at least 2 years of experience as a licensed salesperson, plus complete 40 additional hours of broker education.",
+      "distractors": [
+        "5 years as a licensed salesperson",
+        "3 years as a licensed salesperson",
+        "1 year as a licensed salesperson"
+      ],
+      "explanation": "A Vermont broker applicant must have at least 2 years of experience as a licensed salesperson, including at least 8 separate and unrelated closed transactions among buyers and sellers who bear no familial or contemporaneous business relationship to the applicant (Commission Rule 2.5(c)), plus the 40-hour broker prelicensing course.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["broker", "experience", "upgrade"]
+      "tags": [
+        "broker",
+        "experience",
+        "upgrade"
+      ]
     },
     {
       "key_topic_ref": "VT-02.2",
-      "question_text": "A brokerage firm opens a second location. What is required for this new office?",
-      "correct_answer": "A branch office license",
-      "distractors": ["Only a business registration", "A separate broker license for each agent", "No additional licensing is needed"],
-      "explanation": "Vermont requires a branch office license for each additional office location operated by a brokerage. This ensures each location is properly supervised and registered.",
+      "question_text": "A brokerage firm opens a second location. What must be obtained from OPR for that office?",
+      "correct_answer": "A branch office registration",
+      "distractors": [
+        "Nothing — only a business registration with the town",
+        "A separate broker license for each agent at that office",
+        "No additional filing is needed"
+      ],
+      "explanation": "The Commission issues licenses (broker, salesperson, temporary broker) and registrations (brokerage firm and branch office) — Rule 2.3. A firm that wants more than one office must register a branch office, use the same name as the main office, and designate a broker in charge who maintains their place of business there (Rule 4.1(b)).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["branch office", "license", "brokerage"]
+      "tags": [
+        "branch office",
+        "license",
+        "brokerage"
+      ]
     },
     {
       "key_topic_ref": "VT-02.2",
       "question_text": "How many additional education hours must a salesperson complete to qualify for a broker license?",
       "correct_answer": "40 hours",
-      "distractors": ["20 hours", "60 hours", "80 hours"],
-      "explanation": "Vermont broker applicants must complete 40 additional hours of broker-level education beyond the salesperson pre-license requirement. This is in addition to 2 years of salesperson experience.",
+      "distractors": [
+        "20 hours",
+        "60 hours",
+        "80 hours"
+      ],
+      "explanation": "Vermont broker applicants must complete the broker prelicensing course of at least 40 hours approved by the Commission (Rules 1.8(c) and 5.1), in addition to 2 years of salesperson experience and 8 closed transactions.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["broker", "education", "hours"]
+      "tags": [
+        "broker",
+        "education",
+        "hours"
+      ]
     },
     {
       "key_topic_ref": "VT-02.2",
-      "question_text": "An applicant has completed pre-license education and passed the exam. What additional step is required before licensure?",
-      "correct_answer": "A background check",
-      "distractors": ["A six-month apprenticeship", "A personal interview with the Commission", "Posting a surety bond"],
-      "explanation": "Vermont requires salesperson applicants to pass a background check in addition to completing 40 hours of pre-license education and passing the licensing exam.",
+      "question_text": "An applicant has completed the 40-hour pre-license course and passed the exams. What else must be in place before a Vermont salesperson license will be issued?",
+      "correct_answer": "Association with a registered brokerage firm and its principal broker",
+      "distractors": [
+        "A six-month apprenticeship",
+        "A personal interview with the Commission",
+        "Posting a surety bond"
+      ],
+      "explanation": "Commission Rule 2.4 grants a salesperson license to an applicant who is at least 18, has completed the prelicensing course, passed the national and state exams within the preceding 2 years, has been employed by or become associated with a brokerage firm and that firm's principal broker, and is not precluded from licensure under 3 V.S.A. § 129a. A salesperson cannot hold an unattached license.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["background check", "application", "salesperson"]
+      "tags": [
+        "background check",
+        "application",
+        "salesperson"
+      ]
     },
     {
       "key_topic_ref": "VT-02.3",
       "question_text": "How many hours of pre-license education does Vermont require for a salesperson license?",
       "correct_answer": "40 hours",
-      "distractors": ["60 hours", "75 hours", "30 hours"],
+      "distractors": [
+        "60 hours",
+        "75 hours",
+        "30 hours"
+      ],
       "explanation": "Vermont requires 40 hours of approved pre-license education for salesperson applicants. This must be completed before sitting for the licensing examination.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["pre-license", "education", "salesperson"]
+      "tags": [
+        "pre-license",
+        "education",
+        "salesperson"
+      ]
     },
     {
       "key_topic_ref": "VT-02.3",
       "question_text": "A newly licensed salesperson must complete post-license education. Within what timeframe?",
       "correct_answer": "Within 90 days of licensure",
-      "distractors": ["Within 6 months of licensure", "Within 1 year of licensure", "Before the first renewal"],
+      "distractors": [
+        "Within 6 months of licensure",
+        "Within 1 year of licensure",
+        "Before the first renewal"
+      ],
       "explanation": "Vermont requires newly licensed salespersons to complete 8 hours of post-license education within 90 days of receiving their license.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["post-license", "education", "deadline"]
+      "tags": [
+        "post-license",
+        "education",
+        "deadline"
+      ]
     },
     {
       "key_topic_ref": "VT-02.3",
       "question_text": "How many continuing education hours must a Vermont salesperson complete each renewal cycle?",
       "correct_answer": "16 hours every 2 years",
-      "distractors": ["24 hours every 2 years", "12 hours every year", "8 hours every year"],
+      "distractors": [
+        "24 hours every 2 years",
+        "12 hours every year",
+        "8 hours every year"
+      ],
       "explanation": "Vermont salespersons must complete 16 hours of continuing education every 2-year renewal cycle, including 4 hours of mandatory topics designated by the Commission.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["continuing education", "salesperson", "renewal"]
+      "tags": [
+        "continuing education",
+        "salesperson",
+        "renewal"
+      ]
     },
     {
       "key_topic_ref": "VT-02.3",
       "question_text": "A Vermont broker is preparing for license renewal. How many CE hours are required per cycle?",
       "correct_answer": "24 hours every 2 years",
-      "distractors": ["16 hours every 2 years", "30 hours every 2 years", "12 hours every year"],
+      "distractors": [
+        "16 hours every 2 years",
+        "30 hours every 2 years",
+        "12 hours every year"
+      ],
       "explanation": "Vermont brokers must complete 24 hours of continuing education every 2-year renewal cycle, which is 8 more hours than the salesperson requirement of 16 hours.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["continuing education", "broker", "renewal"]
+      "tags": [
+        "continuing education",
+        "broker",
+        "renewal"
+      ]
     },
     {
       "key_topic_ref": "VT-02.3",
       "question_text": "Of the 16 CE hours required for salesperson renewal, how many must cover mandatory topics?",
       "correct_answer": "4 mandatory hours",
-      "distractors": ["8 mandatory hours", "6 mandatory hours", "2 mandatory hours"],
+      "distractors": [
+        "8 mandatory hours",
+        "6 mandatory hours",
+        "2 mandatory hours"
+      ],
       "explanation": "Vermont salespersons must complete 4 hours of mandatory topics as part of their 16-hour CE requirement. The remaining 12 hours may be in elective subjects.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["mandatory CE", "salesperson", "hours"]
+      "tags": [
+        "mandatory CE",
+        "salesperson",
+        "hours"
+      ]
     },
     {
       "key_topic_ref": "VT-02.4",
-      "question_text": "When is the biennial renewal date for Vermont real estate licenses?",
-      "correct_answer": "May 31",
-      "distractors": ["December 31", "June 30", "March 31"],
-      "explanation": "Vermont real estate licenses renew biennially on May 31. Licensees must complete required CE and pay renewal fees by this date to maintain active status.",
+      "question_text": "When does a Vermont real estate SALESPERSON license expire?",
+      "correct_answer": "May 31 of even-numbered years",
+      "distractors": [
+        "March 31 of even-numbered years",
+        "December 31 of even-numbered years",
+        "June 30 of odd-numbered years"
+      ],
+      "explanation": "Vermont licenses renew on a fixed biennial schedule (Rule 3.1). Salesperson licenses expire May 31 of even-numbered years; broker licenses expire March 31 of even-numbered years. Watch for that split — the two license types do not share a renewal date.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["renewal", "biennial", "deadline"]
+      "tags": [
+        "renewal",
+        "biennial",
+        "deadline"
+      ]
     },
     {
       "key_topic_ref": "VT-02.4",
       "question_text": "What is the license renewal fee for a Vermont real estate licensee?",
       "correct_answer": "$220",
-      "distractors": ["$150", "$300", "$175"],
+      "distractors": [
+        "$150",
+        "$300",
+        "$175"
+      ],
       "explanation": "The Vermont real estate license renewal fee is $220. Other fees include $100 for the initial application and $110 for the licensing exam.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["renewal", "fees", "cost"]
+      "tags": [
+        "renewal",
+        "fees",
+        "cost"
+      ]
     },
     {
       "key_topic_ref": "VT-02.4",
       "question_text": "A salesperson switches to a new brokerage firm. What must be done with OPR?",
       "correct_answer": "Notify OPR of the change",
-      "distractors": ["Retake the licensing exam", "Complete 8 hours of additional CE", "Obtain a new license number"],
-      "explanation": "When a salesperson changes brokers, they must notify the Office of Professional Regulation of the change. The license transfers without requiring a new exam or additional education.",
+      "distractors": [
+        "Retake the licensing exam",
+        "Complete 8 hours of additional CE",
+        "Obtain a new license number"
+      ],
+      "explanation": "A principal broker or broker in charge must notify OPR in writing within 30 days of any change in the name, address, phone, or email of the firm or of any licensee associated with it, and each licensee must notify OPR within 30 days of a change in their own principal business location (Rule 3.4). No new exam or extra education is required.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["broker change", "OPR", "notification"]
+      "tags": [
+        "broker change",
+        "OPR",
+        "notification"
+      ]
     },
     {
       "key_topic_ref": "VT-02.4",
-      "question_text": "A licensee let their license expire two renewal cycles ago. What may be required for reinstatement?",
-      "correct_answer": "Re-examination may be required",
-      "distractors": ["Automatic reinstatement upon fee payment", "Only a written apology to the Commission", "A new background check only"],
-      "explanation": "When a Vermont license has been expired for an extended period, the licensee may need to meet CE requirements, pay reinstatement fees, and potentially re-take the licensing exam.",
+      "question_text": "A Vermont salesperson's license expired two renewal cycles ago (about four years). What does Commission Rule 3.2 require for reinstatement?",
+      "correct_answer": "Renewal fee, late renewal penalty, and proof of CE from the past 24 months",
+      "distractors": [
+        "Re-taking the national and state licensing exams",
+        "Automatic reinstatement upon payment of the renewal fee alone",
+        "Repeating the 40-hour pre-license course"
+      ],
+      "explanation": "Rule 3.2(a): a license expired for less than five years is reinstated by paying the renewal fee and the late renewal penalty and providing proof of the required continuing and/or post-licensure education taken within the previous 24 months. Four years is inside that window, so no re-examination is required. Late penalties escalate under 3 V.S.A. § 127.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["reinstatement", "expired", "re-exam"]
+      "tags": [
+        "reinstatement",
+        "expired",
+        "re-exam"
+      ]
     },
     {
       "key_topic_ref": "VT-02.4",
       "question_text": "What is the fee for the initial Vermont real estate license application?",
       "correct_answer": "$100",
-      "distractors": ["$50", "$220", "$150"],
-      "explanation": "The initial application fee for a Vermont real estate license is $100. The exam fee is an additional $110, and the biennial renewal fee is $220.",
+      "distractors": [
+        "$50",
+        "$220",
+        "$150"
+      ],
+      "explanation": "The initial application fee for a Vermont real estate license is $100 for both salespersons and brokers. The state licensure examination fee is $110, and the biennial renewal fee is $220.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["application", "fees", "initial"]
+      "tags": [
+        "application",
+        "fees",
+        "initial"
+      ]
     }
   ]
 }
