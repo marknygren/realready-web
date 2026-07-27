@@ -556,6 +556,7 @@ const LICENSING_PROCESS_PATTERNS = [
 
   // -- Exam format / testing-vendor / test-procedure leaks (surgical) --
   /\bhow long is the .*exam score valid\b/i,
+  /\bhow long does the passing state score stay valid\b/i,
   /\bpassing score is required on each portion of the DC\b/i,
   /\bsales associate licensing exam contains how many questions\b/i,
   /\bpassing threshold for the Illinois broker licensing\b/i,
