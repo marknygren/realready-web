@@ -13,7 +13,7 @@
         "Both payments are retained by the seller",
         "Option fee refunded; earnest money is kept"
       ],
-      "explanation": "The option fee is non-refundable and belongs to the seller regardless of the outcome. However, if the buyer terminates during the option period, the earnest money is refunded to the buyer. These two payments serve different contractual purposes.",
+      "explanation": "The option fee is not refunded and goes to the seller regardless of the outcome, though it is credited to the sales price if the deal closes. Earnest money is different: terminate during the option period and it comes back to the buyer. The two payments buy different things.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -22,13 +22,13 @@
     {
       "key_topic_ref": "TX-13.1",
       "question_text": "To whom is the option fee paid under the TREC contract?",
-      "correct_answer": "Directly to the seller",
+      "correct_answer": "To the escrow agent, payable to the escrow agent",
       "distractors": [
-        "To the title company escrow account",
+        "Directly to the seller within 3 days",
         "To the listing broker's trust account",
         "To the buyer's agent for delivery"
       ],
-      "explanation": "Under the TREC contract, the option fee is paid directly to the seller, not held in escrow. This distinguishes it from earnest money, which is typically deposited with a title company or escrow agent. The direct payment reflects its nature as consideration for the option right.",
+      "explanation": "Paragraph 5 of the TREC residential contract has the buyer deliver the option fee to the escrow agent within 3 days after the effective date, made payable to the escrow agent, and the buyer authorizes the escrow agent to release it to the seller at any time. Before the April 2021 form revision the fee went straight to the seller — it no longer does.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -66,14 +66,14 @@
     },
     {
       "key_topic_ref": "TX-13.1",
-      "question_text": "A buyer's option period expires on Friday at midnight. On Saturday morning, the buyer tries to terminate. What is the likely result?",
-      "correct_answer": "The termination right has expired",
+      "question_text": "A buyer's option period ends Friday. The buyer emails notice of termination at 8:00 p.m. that Friday. What is the likely result?",
+      "correct_answer": "The termination right has already expired",
       "distractors": [
+        "The notice is timely because it is still Friday",
         "The buyer has a 24-hour grace period",
-        "The buyer can still terminate with cause",
-        "TREC extends the period to Monday"
+        "The buyer can still terminate with cause"
       ],
-      "explanation": "The option period is a strict deadline. Once it expires, the buyer loses the unrestricted right to terminate the contract. There is no grace period, automatic extension, or ability to terminate for cause outside the option window without another contractual provision.",
+      "explanation": "Notice of termination must be given by 5:00 p.m. local time where the property is located on the last day of the option period, so an 8:00 p.m. notice is late even on the correct date. There is no grace period, no automatic extension, and no for-cause termination outside the option window absent another contract provision.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,

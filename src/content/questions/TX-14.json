@@ -13,7 +13,7 @@
         "Yes, but only for occupied properties",
         "No, but only if the bank never occupied it"
       ],
-      "explanation": "Foreclosure sales are one of the specific exemptions from the Seller Disclosure Notice requirement. Other exemptions include probate sales, new construction with a builder warranty, and court-ordered sales. The exemption applies regardless of property occupancy status.",
+      "explanation": "Foreclosure sales are one of the specific exemptions in Property Code Section 5.008(e). Others include transfers under a court order, transfers by a fiduciary administering an estate or trust, transfers between co-owners or spouses, and the sale of a new residence that has never been occupied. The exemption turns on the nature of the transfer, not on whether anyone lives there.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -37,13 +37,13 @@
     {
       "key_topic_ref": "TX-14.1",
       "question_text": "A buyer receives the Seller Disclosure Notice two days after contract execution. What right does the buyer have?",
-      "correct_answer": "The buyer may terminate within a specified period",
+      "correct_answer": "The buyer may terminate within 7 days of receipt",
       "distractors": [
         "The buyer must accept the disclosure as is",
         "The contract is automatically void",
         "The buyer can sue for damages immediately"
       ],
-      "explanation": "When the SDN is not provided before contract execution, the buyer receives a statutory right to terminate within a specified period after receiving it. The contract is not automatically void, and the buyer must affirmatively exercise this termination right.",
+      "explanation": "Delivering the notice late hands the buyer a statutory escape hatch: Property Code Section 5.008(f) allows termination for any reason within 7 days after the buyer receives the notice. The contract does not fail on its own — the buyer has to act inside that window.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -66,14 +66,14 @@
     },
     {
       "key_topic_ref": "TX-14.1",
-      "question_text": "A builder sells a newly constructed home with a full builder warranty. Which disclosure requirement applies?",
+      "question_text": "A builder sells a newly constructed home that has never been occupied. Which disclosure requirement applies?",
       "correct_answer": "The builder is exempt from the SDN requirement",
       "distractors": [
         "The builder must provide the standard SDN",
         "The builder files a separate new-construction form",
-        "The buyer waives all disclosure rights at closing"
+        "The exemption applies only if a warranty is included"
       ],
-      "explanation": "New construction sold with a builder warranty is exempt from the Seller Disclosure Notice. The builder warranty is deemed to provide sufficient protection for the buyer. This exemption applies specifically when the builder provides a warranty with the new home sale.",
+      "explanation": "Property Code Section 5.008(e) exempts the transfer of a new residence of not more than one dwelling unit that has not previously been occupied for residential purposes. The exemption rests on the home never having been lived in — a builder warranty is a separate commercial matter and neither creates nor removes it.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
