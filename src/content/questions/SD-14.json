@@ -58,6 +58,61 @@
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": ["water-rights", "prior-appropriation", "priority"]
+    },
+    {
+      "key_topic_ref": "SD-14.2",
+      "question_text": "How long must a severed mineral interest go unused before South Dakota deems it abandoned?",
+      "correct_answer": "23 years",
+      "distractors": ["20 years", "30 years", "It never lapses"],
+      "explanation": "A severed mineral interest that goes unused for 23 years or more is deemed abandoned, and title vests in the owner of the surface estate (SDCL 43-30A-2). Twenty years is the common period in other states, but South Dakota's runs longer.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["mineral-rights", "dormant-minerals", "surface-owner"]
+    },
+    {
+      "key_topic_ref": "SD-14.2",
+      "question_text": "A surface owner wants to take title to a mineral interest that has lapsed for nonuse. What notice must the surface owner give?",
+      "correct_answer": "Publish notice once a week for three weeks",
+      "distractors": ["Post notice at the courthouse for thirty days", "Publish notice once in a statewide newspaper", "Record an affidavit of nonuse and wait one year"],
+      "explanation": "The surface owner must publish notice of the lapse once each week for three weeks in the county's official newspaper (SDCL 43-30A-6). A certified copy must also be mailed to the record mineral owner within ten days after the final publication.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["dormant-minerals", "notice-of-lapse", "publication"]
+    },
+    {
+      "key_topic_ref": "SD-14.2",
+      "question_text": "A surface owner publishes notice that a severed mineral interest has lapsed. How can the mineral owner defeat the claim?",
+      "correct_answer": "Record a statement of claim within 60 days of publication",
+      "distractors": ["File suit to quiet title within one year of the published notice", "Pay the surface owner's publication and recording costs", "Nothing — the lapse is final once the notice has run"],
+      "explanation": "Recording a statement of claim within 60 days after the notice of lapse finishes publishing preserves the mineral interest, even if the owner missed the earlier deadline (SDCL 43-30A-5). Almost any use of the interest during the 23 years also defeats abandonment.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["mineral-rights", "dormant-minerals", "abandonment"]
+    },
+    {
+      "key_topic_ref": "SD-14.2",
+      "question_text": "A carbon oxide pipeline developer cannot reach terms with a South Dakota landowner. May it condemn the right-of-way?",
+      "correct_answer": "No — but the company may still negotiate a voluntary easement",
+      "distractors": ["Yes — condemnation is available once a siting permit is issued", "No — and a voluntary easement would be barred for the same reason", "Yes — provided the pipeline is operated as a common carrier"],
+      "explanation": "Eminent domain may not be used to acquire right-of-way for a carbon oxide pipeline, even by a common carrier (SDCL 49-7-13.1, added by 2025's HB 1052). The developer's only route is an easement the landowner agrees to sign.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["eminent-domain", "CO2-pipeline", "voluntary-easement"]
+    },
+    {
+      "key_topic_ref": "SD-14.2",
+      "question_text": "South Dakota's HJR 5001 would have written eminent domain limits into the state constitution. How did the measure end?",
+      "correct_answer": "The Senate defeated it, keeping it off the ballot",
+      "distractors": ["Voters ratified it at the 2026 general election", "The governor vetoed it after both chambers passed", "The Senate amended it into a statute and passed it"],
+      "explanation": "Amending the South Dakota Constitution requires both chambers to adopt a joint resolution before the question can reach the voters. HJR 5001 cleared the House in January 2026 but failed in the Senate that March, so South Dakota's eminent domain limits remain statutory.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["eminent-domain", "constitutional-amendment", "2026-legislation"]
     }
   ]
 }

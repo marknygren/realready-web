@@ -58,6 +58,61 @@
       "cognitive_level": "knowledge",
       "is_free": false,
       "tags": ["E&O", "group-policy", "SDREC"]
+    },
+    {
+      "key_topic_ref": "SD-05.2",
+      "question_text": "Which insurer counts as a \"qualified insurance carrier\" for South Dakota E&O coverage?",
+      "correct_answer": "An A.M. Best class VI or higher carrier authorized in South Dakota",
+      "distractors": ["A carrier rated by A.M. Best in any financial size category", "A carrier approved by the National Association of Insurance Commissioners", "Any carrier licensed to do business in the licensee's home state"],
+      "explanation": "A qualified insurance carrier must carry an A.M. Best financial size category of class VI or higher and be authorized by the South Dakota Division of Insurance to do business in the state (ARSD 20:69:15:01). A strong rating alone does not qualify a carrier.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O", "carrier-standards", "insurance"]
+    },
+    {
+      "key_topic_ref": "SD-05.2",
+      "question_text": "May a South Dakota E&O policy exclude claims arising from a licensee's dishonest or fraudulent acts?",
+      "correct_answer": "Yes, but not against a licensee who did not participate and reported it",
+      "distractors": ["Yes, and the exclusion may be applied to every licensee in the firm", "No, dishonest acts must be covered on the same terms as negligence", "No, unless the licensee has already been convicted of the underlying act"],
+      "explanation": "A policy may exclude claims arising from criminal, dishonest, fraudulent, or willful acts (ARSD 20:69:15:04(3)). That exclusion may not be applied to an insured who did not personally participate in the act and who reported it upon learning of it.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O", "exclusions", "dishonest-acts"]
+    },
+    {
+      "key_topic_ref": "SD-05.2",
+      "question_text": "A South Dakota E&O policy may exclude claims arising from the management or sale of which property?",
+      "correct_answer": "Property in which the licensee or spouse holds over 10 percent",
+      "distractors": ["Any property in which the licensee holds an ownership interest at all", "Property the licensee acquired through a foreclosure or tax sale", "Property listed with a brokerage other than the licensee's own firm"],
+      "explanation": "Coverage may exclude claims arising from the management or sale of property in which the insured or the insured's spouse holds more than a 10 percent financial or ownership interest (ARSD 20:69:15:04(8)). Smaller stakes stay within coverage.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["E&O", "exclusions", "ownership-interest"]
+    },
+    {
+      "key_topic_ref": "SD-05.2",
+      "question_text": "A responsible broker wants one policy to satisfy the E&O requirement for the whole firm. What coverage must be certified?",
+      "correct_answer": "Certify $500,000/$1,000,000 covering every associated licensee",
+      "distractors": ["$100,000/$500,000 in the broker's own name", "$250,000/$500,000 plus a rider for each associate", "A firm policy cannot satisfy individual requirements"],
+      "explanation": "A responsible broker may comply on behalf of the firm by certifying coverage of at least $500,000 per claim and $1,000,000 aggregate, provided every licensee associated with the broker is covered (ARSD 20:69:15:06.01). Otherwise each licensee certifies $100,000/$500,000.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O", "responsible-broker", "coverage-limits"]
+    },
+    {
+      "key_topic_ref": "SD-05.2",
+      "question_text": "A licensee who carries independent E&O coverage is replacing the expiring policy. When must the new certification reach the commission?",
+      "correct_answer": "By 5:00 p.m. on the date the current coverage expires",
+      "distractors": ["Within 10 days after the replacement policy takes effect", "By the last business day of the month coverage expires", "At the next license renewal, with the renewal application"],
+      "explanation": "Certification of optional independent coverage must reach the commission by 5:00 p.m. on the date the current coverage expires (ARSD 20:69:15:07). A certification filed late leaves the license on inactive status as of that day.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["E&O", "filing-deadline", "inactive-status"]
     }
   ]
 }

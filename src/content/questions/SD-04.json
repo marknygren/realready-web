@@ -58,6 +58,61 @@
       "cognitive_level": "application",
       "is_free": false,
       "tags": ["recovery-fund", "coverage", "conduct"]
+    },
+    {
+      "key_topic_ref": "SD-04.2",
+      "question_text": "A consumer sues a licensee on claims that could later reach the Recovery Fund. When must the commission be served?",
+      "correct_answer": "Within 10 days of serving the defendant",
+      "distractors": ["Only after judgment is entered", "Within 30 days of filing the complaint", "The commission is never served before a claim is filed"],
+      "explanation": "Anyone commencing an action that may result in a fund claim must serve the commission with a copy of the summons and complaint within 10 days of serving the defendant (SDCL 36-21A-103). The commission may then intervene in the action.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "notice", "procedure"]
+    },
+    {
+      "key_topic_ref": "SD-04.2",
+      "question_text": "A buyer wins a fraud judgment against a licensee. What is the deadline for filing the verified application against the Recovery Fund?",
+      "correct_answer": "Within one year after the judgment becomes final",
+      "distractors": ["Within one year after the loss occurred", "Within 90 days after the judgment is entered", "There is no deadline once a judgment exists"],
+      "explanation": "The verified application must be filed within one year after the judgment becomes final, or within one year after any review or appeal concludes (SDCL 36-21A-105). Missing that window bars the claim no matter how strong the judgment is.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "deadline", "procedure"]
+    },
+    {
+      "key_topic_ref": "SD-04.2",
+      "question_text": "Beyond holding a final judgment, what must a Recovery Fund applicant establish in the verified application?",
+      "correct_answer": "Show diligent searches for assets and that collection fell short",
+      "distractors": ["Show that the licensee's license has already been revoked", "Show that the licensee carried no errors and omissions coverage", "Show that the commission investigated and confirmed the loss"],
+      "explanation": "The applicant must show all reasonable searches and inquiries were made for the debtor's assets and that whatever was realized was insufficient to satisfy the judgment (SDCL 36-21A-105). A judgment alone does not open the fund.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "collection", "procedure"]
+    },
+    {
+      "key_topic_ref": "SD-04.2",
+      "question_text": "A consumer's judgment against a licensee was entered by default. How does that affect the Recovery Fund claim?",
+      "correct_answer": "The applicant must prove the fraud or conversion",
+      "distractors": ["The judgment still creates a rebuttable presumption of fraud", "The claim is barred because default judgments do not qualify", "The commission must retry the underlying case itself"],
+      "explanation": "When the judgment came by default, stipulation, or consent, the applicant carries the burden of proving the fraud or conversion (SDCL 36-21A-107). A contested judgment instead creates a rebuttable presumption that the commission may challenge.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["recovery-fund", "burden-of-proof", "default-judgment"]
+    },
+    {
+      "key_topic_ref": "SD-04.2",
+      "question_text": "The Recovery Fund lacks enough money to satisfy a claim the court has authorized. How is that claim handled?",
+      "correct_answer": "Paid in the order filed, with interest, once the fund is replenished",
+      "distractors": ["Divided pro rata among all claimants pending that year", "Denied outright, leaving the claimant to pursue the licensee", "Paid immediately from the commission's general operating budget"],
+      "explanation": "An authorized claim the fund cannot cover waits: once enough money is deposited, the commission satisfies unpaid claims in the order they were originally filed, adding accumulated interest (SDCL 36-21A-113). Claims are not reduced or prorated.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["recovery-fund", "insufficient-funds", "payment-order"]
     }
   ]
 }

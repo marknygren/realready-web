@@ -35,7 +35,7 @@
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["advertising", "licensee-owned property", "disclosure"]
+      "tags": ["advertising", "licensee-owned-property", "disclosure"]
     },
     {
       "key_topic_ref": "SD-09.1",
@@ -58,6 +58,61 @@
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": ["advertising", "business-entity", "supervision"]
+    },
+    {
+      "key_topic_ref": "SD-09.2",
+      "question_text": "Which documents may a South Dakota licensee prepare without engaging in the unauthorized practice of law?",
+      "correct_answer": "Agency agreements, offers, acceptances, and closing statements",
+      "distractors": ["Any document the parties ask for in writing", "Deeds and mortgages, if a title company reviews them", "Only documents printed on commission-prescribed forms and riders"],
+      "explanation": "Preparing legal documents or giving legal advice is unprofessional conduct, with five carve-outs: agency agreements and extensions, offers to purchase, offers to lease, acceptances, and closing statements (SDCL 36-21A-71(24)). Deeds and mortgages fall outside that list.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["unprofessional-conduct", "practice-of-law", "documents"]
+    },
+    {
+      "key_topic_ref": "SD-09.2",
+      "question_text": "A licensee arranges for a cousin to buy a home listed with the licensee's own office, planning to take a half interest afterward. What must the licensee do?",
+      "correct_answer": "Disclose the intention to the owner in writing",
+      "distractors": ["Withdraw the listing before any offer is written", "Get the commission's approval of the purchase first", "Have a licensee from another firm present the offer"],
+      "explanation": "A licensee who purchases, or intends to acquire any interest or option in, property listed with the licensee's own office must disclose that intention or true position to the owner in writing (SDCL 36-21A-71(13)). Going through a third party does not avoid the duty.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unprofessional-conduct", "self-dealing", "written-disclosure"]
+    },
+    {
+      "key_topic_ref": "SD-09.2",
+      "question_text": "A listing broker tells the seller that a bonus will be paid at closing but never states the amount. Is that disclosure sufficient?",
+      "correct_answer": "No — the full amount must be revealed to the principal",
+      "distractors": ["Yes — saying a bonus exists satisfies the statute", "Yes — amounts stay confidential between cooperating brokers", "No — bonuses to a listing broker are prohibited outright"],
+      "explanation": "Claiming or taking any secret or undisclosed compensation is unprofessional conduct, and so is failing to reveal to the principal the full amount of compensation earned (SDCL 36-21A-71(7)). Saying a bonus exists without the figure falls short.",
+      "difficulty": "medium",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["unprofessional-conduct", "compensation", "disclosure"]
+    },
+    {
+      "key_topic_ref": "SD-09.2",
+      "question_text": "Which practice is unprofessional conduct because it lets a buyer obtain a larger loan than the true sales price supports?",
+      "correct_answer": "Using a second contract concealed from the lender",
+      "distractors": ["Listing the property above its appraised market value", "Sending the signed offer straight to the lender's underwriter", "Crediting the seller's repair allowance on the closing statement"],
+      "explanation": "Using two or more contracts, earnest money agreements, or loan applications, one of which is hidden from the lender or loan guarantor, is unprofessional conduct (SDCL 36-21A-71(18)). The point is to inflate the loan or qualify a buyer who otherwise could not.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["unprofessional-conduct", "dual-contracts", "loan-fraud"]
+    },
+    {
+      "key_topic_ref": "SD-09.2",
+      "question_text": "A neighbor mentions over coffee that he may rent out his house, so the licensee advertises it for lease that afternoon. Is this permissible?",
+      "correct_answer": "No — prior written consent of the owner is required",
+      "distractors": ["Yes — verbal authorization from the owner is sufficient", "Yes — lease offerings are exempt from the consent rule", "No — a licensee may never advertise a rental property"],
+      "explanation": "Offering real property for sale or lease requires the owner's knowledge and prior written consent, and the terms must be the ones the owner authorized (SDCL 36-21A-71(9)). A casual conversation is not written consent.",
+      "difficulty": "easy",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["unprofessional-conduct", "owner-consent", "advertising"]
     }
   ]
 }

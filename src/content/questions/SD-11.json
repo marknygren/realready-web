@@ -13,7 +13,7 @@
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["property management", "written agreement", "contracts"]
+      "tags": ["property-management", "written-agreement", "contracts"]
     },
     {
       "key_topic_ref": "SD-11.1",
@@ -57,7 +57,62 @@
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["property management", "license exemption", "owner"]
+      "tags": ["property-management", "license-exemption", "owner"]
+    },
+    {
+      "key_topic_ref": "SD-11.2",
+      "question_text": "A property manager is setting the security deposit on a residential lease with rent of $900 per month. What is the maximum?",
+      "correct_answer": "One month's rent, unless special conditions justify more",
+      "distractors": ["Two months' rent in every case", "One and a half months' rent", "There is no statutory cap on a residential security deposit"],
+      "explanation": "A lessor may not demand a residential security deposit worth more than one month's rent, however it is labeled (SDCL 43-32-6.1). The parties may agree to more only where special conditions pose a danger to maintenance of the premises.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-management", "security-deposit", "landlord-tenant"]
+    },
+    {
+      "key_topic_ref": "SD-11.2",
+      "question_text": "A residential tenancy ends and the tenant gives the manager a forwarding address. When must the deposit be returned or a withholding statement sent?",
+      "correct_answer": "Within two weeks of termination and receipt of the address",
+      "distractors": ["Within thirty days of termination and receipt of the address", "Within ten business days after the tenant hands over keys", "Immediately upon the tenant's written demand for return"],
+      "explanation": "The lessor must return the deposit or give a written statement of the specific reason for withholding within two weeks after the tenancy ends and the tenant's mailing address is received (SDCL 43-32-24). Only amounts needed to cover rent defaults or restore the premises may be withheld.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["property-management", "security-deposit", "landlord-tenant"]
+    },
+    {
+      "key_topic_ref": "SD-11.2",
+      "question_text": "A manager misses the statutory deadline and keeps part of a deposit in bad faith. What is the exposure?",
+      "correct_answer": "Punitive damages up to $200 and forfeiture of any withholding",
+      "distractors": ["Loss of the withholding right plus treble damages to the tenant", "Punitive damages up to $2,000 and forfeiture of the lease", "A $500 civil penalty collected by the state's attorney"],
+      "explanation": "A lessor who fails to comply with the return-and-statement rules forfeits all rights to withhold any portion of the deposit, and bad-faith retention adds punitive damages capped at two hundred dollars (SDCL 43-32-24).",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["property-management", "security-deposit", "penalties"]
+    },
+    {
+      "key_topic_ref": "SD-11.2",
+      "question_text": "A manager wants to enter an occupied rental unit to inspect a furnace. What notice is presumed reasonable, and what must it contain?",
+      "correct_answer": "24 hours' written notice stating dates, times, and purpose",
+      "distractors": ["48 hours' oral or written notice given at any reasonable hour", "No advance notice, so long as entry is at a reasonable hour", "Seven days' written notice delivered by certified mail"],
+      "explanation": "A landlord must give reasonable notice at reasonable times, and twenty-four hours' written notice is presumed reasonable (SDCL 43-32-32). The notice must state the date or dates of entry, a period during normal business hours, the purpose, and how the tenant may reschedule.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-management", "landlord-entry", "landlord-tenant"]
+    },
+    {
+      "key_topic_ref": "SD-11.2",
+      "question_text": "A manager knows methamphetamines were once manufactured in unit 4 of an eight-unit building. Must that be told to a prospective tenant of unit 4?",
+      "correct_answer": "Yes — actual knowledge of prior meth manufacturing must be disclosed",
+      "distractors": ["No — the duty attaches only to sales of the property, never to leases", "Yes — but only if the tenant asks about the unit's prior history", "No — the lessor must disclose only if a cleanup order was issued"],
+      "explanation": "A lessor with actual knowledge of prior methamphetamine manufacturing on the premises must disclose it to any lessee or prospective lessee (SDCL 43-32-30). In a building of two or more units, the duty reaches only the affected unit.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["property-management", "disclosure", "landlord-tenant"]
     }
   ]
 }

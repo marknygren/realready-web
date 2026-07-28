@@ -46,7 +46,7 @@
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["seller disclosure", "termination", "timing"]
+      "tags": ["seller-disclosure", "termination", "timing"]
     },
     {
       "key_topic_ref": "SD-10.1",
@@ -58,6 +58,61 @@
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": ["disclosure", "liability", "damages"]
+    },
+    {
+      "key_topic_ref": "SD-10.2",
+      "question_text": "SB 171 (2025) added two questions to South Dakota's property condition disclosure form. What do they ask about?",
+      "correct_answer": "Whether the property is historically designated or in a historic district",
+      "distractors": ["Whether a previous owner of the property died there of natural causes", "The price the seller originally paid and the current mortgage balance", "Whether the property has previously been listed for sale by another brokerage"],
+      "explanation": "The form asks whether a local governing body has designated the property historic under SDCL 1-19B-20, and whether it sits within an established historic district. SB 171 (2025) added both questions, since designation can limit exterior alterations.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "disclosure-form", "historic-district"]
+    },
+    {
+      "key_topic_ref": "SD-10.2",
+      "question_text": "The disclosure form asks whether the property has ever had water standing in the front, rear, or side yard. For how long?",
+      "correct_answer": "More than 48 hours",
+      "distractors": ["More than 24 hours", "More than 10 days", "Any standing water at all"],
+      "explanation": "The form asks whether the property has ever had water in the front, rear, or side yard for more than forty-eight hours (SDCL 43-4-44). It runs with the flood plain and wetlands questions, catching drainage a buyer would miss in dry weather.",
+      "difficulty": "easy",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "disclosure-form", "water-drainage"]
+    },
+    {
+      "key_topic_ref": "SD-10.2",
+      "question_text": "A seller knows of an unrecorded lien against the property. Does the disclosure form ask about it?",
+      "correct_answer": "Yes — the form asks about unrecorded liens too",
+      "distractors": ["No — only recorded liens appear on the form", "No — unrecorded liens are the title company's job", "Yes — but only if a lawsuit is already pending"],
+      "explanation": "The form asks separately about recorded liens and about unrecorded liens or financial instruments, in both cases other than a first mortgage (SDCL 43-4-44). The unrecorded item also catches materials or services furnished in the past 120 days that could ripen into a lien.",
+      "difficulty": "medium",
+      "cognitive_level": "knowledge",
+      "is_free": false,
+      "tags": ["seller-disclosure", "disclosure-form", "liens"]
+    },
+    {
+      "key_topic_ref": "SD-10.2",
+      "question_text": "A seller disclosed a cracked foundation on the statement. After closing the buyer sues over that crack. Is the seller liable?",
+      "correct_answer": "No — truthful disclosure shields the seller on that defect",
+      "distractors": ["Yes, the seller warrants the condition either way", "Yes, unless the buyer also had an inspection", "Only if the repair exceeds the purchase price by 10 percent"],
+      "explanation": "A seller who truthfully completes the disclosure statement is not liable for a defect or condition disclosed in it (SDCL 43-4-40). The statement is not a warranty; it is a record of what the seller knew, and disclosing in good faith is what earns the protection.",
+      "difficulty": "medium",
+      "cognitive_level": "application",
+      "is_free": false,
+      "tags": ["seller-disclosure", "liability", "safe-harbor"]
+    },
+    {
+      "key_topic_ref": "SD-10.2",
+      "question_text": "A seller subject to the disclosure statute never delivers the statement, and the sale closes anyway. What is the effect on the transfer?",
+      "correct_answer": "The sale stands; the buyer's remedy is damages and repairs",
+      "distractors": ["The sale is void and the buyer's deposit must be returned", "The sale is voidable at the buyer's option for one year", "The sale stands and the buyer has no remedy once title passes"],
+      "explanation": "A transfer subject to the disclosure statute is not invalidated solely because a person fails to comply (SDCL 43-4-42). Title passes and stays passed; the buyer's recourse is an action for actual damages and repairs, not undoing the conveyance.",
+      "difficulty": "hard",
+      "cognitive_level": "analysis",
+      "is_free": false,
+      "tags": ["seller-disclosure", "liability", "remedies"]
     }
   ]
 }
