@@ -9,7 +9,7 @@
       "question_text": "Under the Statute of Frauds, South Dakota real estate contracts must be:",
       "correct_answer": "In writing and signed by the parties",
       "distractors": ["Notarized and recorded at the county office", "Witnessed by two disinterested parties", "Approved by the SDREC before execution"],
-      "explanation": "The Statute of Frauds requires real estate contracts to be in writing and signed. South Dakota also requires licensees to use standard purchase agreements and to give copies of every offer and counteroffer to anyone signing.",
+      "explanation": "Real estate contracts must be in writing and signed to satisfy the statute of frauds. Brokerage-service agreements must also be on forms substantially the same as those the commission prescribes (ARSD 20:69:17:01), and every signer gets a copy.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -20,7 +20,7 @@
       "question_text": "A buyer signs a counteroffer but the seller does not. Is this a binding contract in South Dakota?",
       "correct_answer": "No, both parties must sign for enforceability",
       "distractors": ["Yes, the buyer's signature alone creates a contract", "Yes, if the counteroffer was delivered in writing", "No, but the buyer is still bound by their signature"],
-      "explanation": "All offers and counteroffers must be in writing and signed by BOTH parties to be enforceable in South Dakota. A one-sided signature does not create a binding agreement. The licensee must give copies to anyone who signs.",
+      "explanation": "A counteroffer binds no one until both parties sign it. The licensee must promptly give a copy of the offer to the buyer, every written offer to the seller, and a copy of the signed acceptance to both (SDCL 36-21A-71(19)–(21)).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -31,7 +31,7 @@
       "question_text": "Which element is NOT typically required in a South Dakota purchase agreement?",
       "correct_answer": "The buyer's credit score and employment history",
       "distractors": ["The purchase price and legal description", "The closing date and earnest money terms", "The financing type and possession date"],
-      "explanation": "SD purchase agreements must include price, legal description, closing date, contingencies, earnest money terms, names of parties, method of payment, financing type, and possession date. The buyer's credit score is a lending matter, not a contract element.",
+      "explanation": "A purchase agreement prepared by a licensee must show the parties, price, earnest money receipt, disclosure acknowledgments, financing and inspection contingencies, prorations, merchantable title, closing, and possession (ARSD 20:69:17:01). The buyer's credit score is a lending matter.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -39,14 +39,14 @@
     },
     {
       "key_topic_ref": "SD-12.1",
-      "question_text": "A seller receives a written offer while already under contract with another buyer. What must the listing agent do?",
-      "correct_answer": "Present the offer to the seller in a timely manner",
-      "distractors": ["Reject the offer since a contract already exists", "Hold the offer until the current contract expires", "Forward the offer only if it is higher than the existing one"],
-      "explanation": "SD law requires presenting ALL written offers in a timely manner, regardless of existing contracts. The seller decides whether to accept, reject, or counter. The agent may not withhold or filter offers based on their own judgment.",
+      "question_text": "A seller tells a licensee to keep everything the property sells for above $300,000 as the fee. May the licensee take the listing on those terms?",
+      "correct_answer": "No, that is a prohibited net listing",
+      "distractors": ["Yes, if the seller agrees in writing", "Yes, if the excess is capped at 10 percent", "Yes, if the listing is non-exclusive"],
+      "explanation": "Taking a net listing — agreeing to be paid the sale proceeds above a price set in the listing contract — is unprofessional conduct in South Dakota (SDCL 36-21A-71(26)). The seller's written consent does not cure it.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["contracts", "multiple-offers", "presentation"]
+      "tags": ["listings", "net listing", "unprofessional conduct"]
     },
     {
       "key_topic_ref": "SD-12.1",
@@ -61,21 +61,21 @@
     },
     {
       "key_topic_ref": "SD-12.2",
-      "question_text": "A purchase agreement is accepted on Saturday. The earnest money must be deposited by:",
-      "correct_answer": "First legal banking day after acceptance",
-      "distractors": ["The following Monday by noon sharp", "Within 48 hours of signed acceptance", "Within 5 business days of acceptance"],
-      "explanation": "Earnest money must be deposited on the first legal banking day after acceptance. For a Saturday acceptance, this would typically be Monday (assuming it's a banking day). The timing can also be modified by written agreement of the parties.",
+      "question_text": "A buyer offers a promissory note instead of cash as earnest money. May the licensee accept it?",
+      "correct_answer": "Only with the principal's written permission",
+      "distractors": ["Yes, a note is always acceptable earnest money", "No, South Dakota requires cash or a certified check", "Yes, if the note is payable before closing"],
+      "explanation": "Accepting a note or anything else not readily negotiable as earnest money without the written permission of the licensee's principal is unprofessional conduct (SDCL 36-21A-71(38)). With that written permission the note is allowed.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["earnest-money", "deposit", "timeline"]
+      "tags": ["earnest money", "promissory note", "unprofessional conduct"]
     },
     {
       "key_topic_ref": "SD-12.2",
       "question_text": "An earnest money dispute involves $10,000. Can this be resolved in Small Claims Court?",
       "correct_answer": "Yes, disputes of $12,000 or less qualify",
       "distractors": ["No, earnest money disputes cannot go to small claims", "No, the threshold is only $5,000", "Yes, but only if both parties consent"],
-      "explanation": "South Dakota allows earnest money disputes involving $12,000 or less to be handled in Small Claims Court. The SDREC does not get involved in earnest money disputes unless the broker acted recklessly.",
+      "explanation": "Small claims jurisdiction runs to $12,000, which covers most earnest money fights (SDCL 15-39-45). The commission does not decide who gets the deposit; disputed funds stay in trust until all parties agree in writing or a court rules.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -105,14 +105,14 @@
     },
     {
       "key_topic_ref": "SD-12.2",
-      "question_text": "The SDREC generally does NOT get involved in earnest money disputes unless:",
-      "correct_answer": "The broker acted recklessly with the funds",
-      "distractors": ["The dispute amount exceeds $15,000 total", "Both parties file a written complaint", "The transaction involved a newly licensed agent"],
-      "explanation": "The SDREC stays out of earnest money disputes between buyers and sellers — that's a civil matter. The commission only intervenes if the broker acted recklessly in handling the funds, which would be a license law violation.",
+      "question_text": "In a cobrokerage transaction, where must the earnest money be held?",
+      "correct_answer": "In a broker's trust account",
+      "distractors": ["With the title company handling closing", "Split between the two cooperating brokers", "In the listing broker's operating account"],
+      "explanation": "Earnest money paid in a cooperative or cobrokerage transaction is held in a broker's trust account unless the buyer and seller agree otherwise (SDCL 36-21A-76). How the brokers split the fee has no bearing on where the money sits.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["earnest-money", "SDREC", "reckless"]
+      "tags": ["earnest money", "cobrokerage", "trust account"]
     }
   ]
 }
