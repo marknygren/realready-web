@@ -53,7 +53,7 @@
       "question_text": "A farmer sells agricultural land to a developer who rezones it for commercial use. What tax consequence may apply?",
       "correct_answer": "Rollback taxes for prior agricultural use benefit",
       "distractors": ["An immediate tax exemption for 3 years", "No change until the next reassessment cycle", "A one-time transfer tax surcharge"],
-      "explanation": "When property is removed from agricultural use, the agricultural rollback provision may require payment of back taxes reflecting the difference between the agricultural (4%) and commercial (6%) assessment ratios.",
+      "explanation": "Taking land out of agricultural use triggers rollback taxes for the year of the change plus the three preceding years (S.C. Code 12-43-220(d)). The rollback captures the gap between use-value taxes paid and taxes on full market value.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -152,7 +152,7 @@
       "question_text": "A property sells at a higher price than its prior assessed value. Under SC law, the property will be:",
       "correct_answer": "Reassessed at fair market value at point of sale",
       "distractors": ["Reassessed at the next county cycle only", "Exempt from reassessment for 3 years", "Assessed at the average of old and new values"],
-      "explanation": "SC uses point-of-sale reassessment — property is reassessed at current fair market value when sold. This can cause a significant tax increase for the buyer compared to what the seller was paying.",
+      "explanation": "An assessable transfer of interest reassesses the property at fair market value and lifts the 15% cap that limits increases within a countywide reassessment cycle. A long-held property can jump sharply at sale.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -160,14 +160,14 @@
     },
     {
       "key_topic_ref": "SC-11.3",
-      "question_text": "A buyer purchases a home previously owned by a long-time resident. The buyer's property taxes are significantly higher. This is likely due to:",
-      "correct_answer": "Point-of-sale reassessment at current value",
-      "distractors": ["A statewide tax rate increase", "Loss of the buyer's homestead exemption", "An error in the county assessment records"],
-      "explanation": "Point-of-sale reassessment updates the property's assessed value to current fair market value. If the prior owner held the property for many years at an older, lower assessment, the new buyer sees a tax jump.",
-      "difficulty": "medium",
+      "question_text": "A commercial building taxed at the 6% ratio is sold, triggering an assessable transfer of interest. What relief may apply?",
+      "correct_answer": "An exemption of up to 25% of the ATI fair market value",
+      "distractors": ["A full exemption for the first year", "A 15% cap on the increase", "No relief — 6% property is always reassessed in full"],
+      "explanation": "Property taxed at the 6% ratio gets an exemption of up to 25% of the ATI fair market value after an assessable transfer of interest (S.C. Code 12-37-3140). The result may not drop below the prior assessed value.",
+      "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["reassessment", "tax increase", "buyer impact"]
+      "tags": ["ATI", "exemption", "reassessment"]
     }
   ]
 }
