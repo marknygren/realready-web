@@ -9,7 +9,7 @@
       "question_text": "How many hours of pre-license education must a Pennsylvania salesperson candidate complete?",
       "correct_answer": "75 hours",
       "distractors": ["60 hours", "90 hours", "120 hours"],
-      "explanation": "Pennsylvania requires 75 hours of pre-license education from a PREC-approved school. The coursework must be completed within 5 years prior to taking the licensing exam.",
+      "explanation": "Pennsylvania requires 75 hours, or 5 credits, of basic real estate courses from an accredited college or a PREC-approved provider. The standard split is Real Estate Fundamentals (30 hours) and Real Estate Practice (45 hours).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -17,14 +17,14 @@
     },
     {
       "key_topic_ref": "PA-04.1",
-      "question_text": "A candidate completed their 75-hour pre-license course 6 years ago. Can they sit for the PA salesperson exam?",
-      "correct_answer": "No, courses expire after 5 years",
-      "distractors": ["Yes, courses never expire", "Yes, with 14 hours of CE added", "Yes, if they retake one course"],
-      "explanation": "Pre-license education must be completed within 5 years prior to the exam. At 6 years, the coursework has expired and the candidate must retake the required education.",
+      "question_text": "A candidate passed both parts of the PA salesperson exam 40 months ago and has not yet applied. The exam scores are:",
+      "correct_answer": "Expired — passing scores are valid 3 years",
+      "distractors": ["Still valid for 5 years", "Valid indefinitely", "Valid if 14 hours of CE are added"],
+      "explanation": "An applicant must have passed each part of the salesperson examination within 3 years before submitting a completed license application (49 Pa. Code 35.223). At 40 months the scores are stale and both parts must be retaken.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["pre-license", "expiration", "5 years"]
+      "tags": ["licensing", "examination", "validity"]
     },
     {
       "key_topic_ref": "PA-04.1",
@@ -39,14 +39,14 @@
     },
     {
       "key_topic_ref": "PA-04.1",
-      "question_text": "A Pennsylvania salesperson applicant must submit a criminal background check from which agency?",
-      "correct_answer": "Pennsylvania State Police",
-      "distractors": ["FBI national database", "County sheriff's office", "Bureau of Criminal Investigation"],
-      "explanation": "Applicants must provide a Pennsylvania State Police criminal background report dated within 90 days of the application. This is separate from any federal background check.",
+      "question_text": "A PA salesperson applicant must submit criminal history records checks from:",
+      "correct_answer": "Every state lived, worked, or studied in for the past 5 years",
+      "distractors": ["Pennsylvania State Police only", "The FBI national database only", "The county sheriff where the applicant resides"],
+      "explanation": "Applicants must supply a state police criminal history records check for each state where they have lived, worked, or completed training in the last 5 years, and each report must be dated within 180 days of the application.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["licensing", "background check", "State Police"]
+      "tags": ["licensing", "background check", "application"]
     },
     {
       "key_topic_ref": "PA-04.1",
@@ -64,7 +64,7 @@
       "question_text": "How many hours of continuing education must a PA licensee complete each renewal cycle?",
       "correct_answer": "14 hours every 2 years",
       "distractors": ["12 hours every 2 years", "14 hours every 4 years", "20 hours every 2 years"],
-      "explanation": "Pennsylvania requires 14 hours of CE every 2-year renewal cycle. This must include 3 hours of agency, 2 hours of fair housing, and 9 hours of electives.",
+      "explanation": "Pennsylvania requires 14 hours of CE in each 2-year renewal cycle (RELRA 404.1(b)), taken in a minimum of 2-hour increments. PREC designates a mandatory topic for each cycle and the rest are electives.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -72,14 +72,14 @@
     },
     {
       "key_topic_ref": "PA-04.2",
-      "question_text": "Of the 14 required CE hours per cycle, how many must cover fair housing topics?",
-      "correct_answer": "2 hours",
-      "distractors": ["3 hours", "4 hours", "1 hour"],
-      "explanation": "Each CE cycle requires 3 hours of agency, 2 hours of fair housing, and 9 hours of electives for a total of 14 hours. The fair housing component ensures licensees stay current on anti-discrimination laws.",
+      "question_text": "For the 2026-2028 renewal period, at least 2 of the 14 required CE hours must cover which topic?",
+      "correct_answer": "Protecting consumers' real property, personal property, and information",
+      "distractors": ["Fair housing", "Agency relationships", "Escrow and trust accounts"],
+      "explanation": "PREC voted on May 5, 2026 to require 2 hours on protecting consumers' real property, personal property, and information for the cycle ending May 31, 2028 (49 Pa. Code 35.384(b)). The 2024-2026 cycle required agency and fair housing instead.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["CE", "fair housing", "requirements"]
+      "tags": ["continuing education", "mandatory topic", "renewal"]
     },
     {
       "key_topic_ref": "PA-04.2",
@@ -94,14 +94,14 @@
     },
     {
       "key_topic_ref": "PA-04.2",
-      "question_text": "A licensee completing their first renewal after initial licensure must complete a special:",
-      "correct_answer": "14-hour post-license course",
-      "distractors": ["30-hour refresher course", "7-hour ethics seminar", "21-hour advanced practice course"],
-      "explanation": "At their first renewal, new licensees must complete a mandatory 14-hour post-license course. This is in addition to the regular CE requirements for subsequent renewal cycles.",
+      "question_text": "A licensee renewing for the first time must complete the Commission-developed new licensee courses. Those 14 hours:",
+      "correct_answer": "Satisfy the CE requirement for that cycle",
+      "distractors": ["Are required in addition to 14 hours of CE", "Replace the pre-license education requirement", "May be deferred to the second renewal"],
+      "explanation": "New licensees complete the 14-hour required course, a General Module plus either the Residential or Commercial Module, in satisfaction of the continuing education requirement (49 Pa. Code 35.384(b)). They are also exempt from the cycle's mandatory topic.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["post-license", "first renewal", "education"]
+      "tags": ["continuing education", "new licensee", "renewal"]
     },
     {
       "key_topic_ref": "PA-04.2",

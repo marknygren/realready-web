@@ -9,7 +9,7 @@
       "question_text": "Under Act 52 of 2024, real estate wholesalers in Pennsylvania must:",
       "correct_answer": "Obtain a real estate license",
       "distractors": ["Register with the local MLS only", "Pay an annual wholesaler permit fee", "Complete a 30-hour wholesaler course"],
-      "explanation": "Act 52 (effective January 9, 2025) expanded RELRA to require wholesalers to obtain a real estate license. The definitions of 'broker' and 'salesperson' were amended to include wholesale transactions.",
+      "explanation": "Act 52 of 2024, signed July 8, 2024 and effective January 4, 2025, amended the RELRA definitions of 'broker' and 'salesperson' to include anyone who engages or attempts to engage in a wholesale transaction. A license is now required.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -42,7 +42,7 @@
       "question_text": "Which activity requires a Pennsylvania real estate license?",
       "correct_answer": "Collecting rents for others for pay",
       "distractors": ["An owner selling their own home", "An attorney drafting a sales contract", "An auctioneer at a public auction"],
-      "explanation": "Collecting rents or managing property for others for compensation requires a real estate license. Owners selling their own property, attorneys acting in scope of practice, and auctioneers at public auctions are exempt.",
+      "explanation": "Collecting rents or managing property for others for compensation falls within the RELRA definition of 'broker.' Owners dealing in their own property, attorneys in their practice, and licensed auctioneers at bona fide auctions are excluded (RELRA 304).",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -86,7 +86,7 @@
       "question_text": "A person acts under a valid power of attorney to sell their neighbor's property. Does this person need a real estate license?",
       "correct_answer": "No, acting under power of attorney is exempt",
       "distractors": ["Yes, unless the seller is present", "Yes, for residential property only", "Only if the person receives compensation"],
-      "explanation": "Persons acting under a valid power of attorney are exempt from licensure requirements in Pennsylvania. This allows designated agents to handle transactions on behalf of absent property owners.",
+      "explanation": "An attorney-in-fact acting under an executed and recorded power of attorney from the owner is excluded from licensure (RELRA 304(4)). The exclusion fails if the power of attorney is used to circumvent the licensing law.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -94,25 +94,25 @@
     },
     {
       "key_topic_ref": "PA-05.2",
-      "question_text": "An auctioneer sells real estate at a private auction for a fee. Does the auctioneer need a real estate license?",
-      "correct_answer": "Yes, the exemption covers public auctions only",
-      "distractors": ["No, all auctioneers are fully exempt", "No, if the fee is under $5,000", "Yes, but only for commercial property"],
-      "explanation": "The auctioneer exemption in Pennsylvania applies only to public auctions. Selling real estate at a private auction for compensation would require a real estate license.",
+      "question_text": "A licensed auctioneer sells real estate at a private estate auction for a fee. Is a real estate license required?",
+      "correct_answer": "No, licensed auctioneers are excluded at any bona fide auction",
+      "distractors": ["Yes, the exclusion covers public auctions only", "Yes, unless the property is commercial", "No, all auctioneers are excluded whether licensed or not"],
+      "explanation": "The exclusion covers an auctioneer licensed under The Auctioneers' License Act while performing authorized duties at any bona fide auction (RELRA 304(9)). Nothing turns on whether the auction is public or private, but the auctioneer must be licensed.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["exemptions", "auctioneer", "public auction"]
+      "tags": ["exemptions", "auctioneer", "licensure"]
     },
     {
       "key_topic_ref": "PA-05.2",
-      "question_text": "A government employee lists a surplus state property for sale as part of their job duties. A real estate license is:",
-      "correct_answer": "Not required for official duties",
-      "distractors": ["Required for all property sales", "Required only for residential property", "Required if the value exceeds $50,000"],
-      "explanation": "Government employees acting in their official capacity are exempt from real estate licensing requirements. This covers state and local government personnel disposing of surplus or public property.",
+      "question_text": "An on-site employee of an apartment building's owner shows units and quotes rents but cannot sign leases or negotiate terms. A real estate license is:",
+      "correct_answer": "Not required",
+      "distractors": ["Required for any rental activity", "Required if the building has more than 4 units", "Required unless the owner is present"],
+      "explanation": "An employee hired by an owner to manage or maintain multifamily residential property is excluded, so long as the owner keeps the authority to enter leases, negotiate terms, and hold tenant money (RELRA 304(10)). Showing units and quoting rents is permitted.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exemptions", "government", "official capacity"]
+      "tags": ["exemptions", "property management", "licensure"]
     }
   ]
 }

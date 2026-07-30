@@ -6,14 +6,14 @@
   "questions": [
     {
       "key_topic_ref": "PA-15.1",
-      "question_text": "Under Pennsylvania's Timeshare Act, a purchaser may rescind a timeshare contract within:",
-      "correct_answer": "7 days of execution",
-      "distractors": ["3 days of execution", "10 days of execution", "15 days of execution"],
-      "explanation": "The PA Timeshare Act (68 Pa.C.S. §§ 4401-4414) grants purchasers a 7-day rescission period from the date of contract execution. No penalty may be imposed for exercising this right.",
+      "question_text": "A purchaser may cancel a Pennsylvania time-share or campground membership purchase until midnight of which day after signing?",
+      "correct_answer": "The 5th day",
+      "distractors": ["The 3rd day", "The 7th day", "The 10th day"],
+      "explanation": "The purchaser may cancel until midnight of the fifth day following the date the purchase contract was executed (RELRA 609(a)). The right must be printed in boldface immediately above the purchaser's signature and separately initialed.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["timeshare", "rescission", "7 days"]
+      "tags": ["timeshare", "rescission", "RELRA"]
     },
     {
       "key_topic_ref": "PA-15.1",
@@ -39,10 +39,10 @@
     },
     {
       "key_topic_ref": "PA-15.1",
-      "question_text": "A timeshare buyer rescinds within the 7-day period. The developer must provide:",
-      "correct_answer": "A full refund with no penalty",
-      "distractors": ["A refund minus a 10% cancellation fee", "A refund minus administrative costs", "A credit toward a future purchase only"],
-      "explanation": "When a buyer exercises their 7-day rescission right, the developer must provide a full refund. No penalty or fee may be charged for the cancellation.",
+      "question_text": "A time-share buyer cancels within the 5-day period. The developer must refund all payments within:",
+      "correct_answer": "10 business days of receiving the notice",
+      "distractors": ["30 calendar days", "3 business days", "60 calendar days"],
+      "explanation": "All payments must be refunded and an acknowledgment that the contract is void sent within ten business days after the notice of cancellation is received (RELRA 609(d)). Any promotional prizes or gifts stay with the purchaser.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -50,10 +50,10 @@
     },
     {
       "key_topic_ref": "PA-15.1",
-      "question_text": "A timeshare sales agent pressures a buyer to waive the 7-day rescission period. Under PA law, this waiver is:",
+      "question_text": "A time-share sales agent pressures a buyer to waive the 5-day cancellation right. Under PA law, that waiver is:",
       "correct_answer": "Unenforceable, the right cannot be waived",
       "distractors": ["Valid if signed by the buyer", "Valid if notarized", "Valid after 3 days of signing"],
-      "explanation": "The 7-day rescission right under the PA Timeshare Act cannot be waived. Any attempt to have the buyer waive this right is unenforceable, and the full rescission period remains available.",
+      "explanation": "The right of cancellation is not waivable by any purchaser (RELRA 609(e)), so the signature accomplishes nothing and the full period remains. A purchaser who cancels is also not liable for any damages.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -149,14 +149,14 @@
     },
     {
       "key_topic_ref": "PA-15.3",
-      "question_text": "The Resale Certificate reveals that the selling unit owner has $3,000 in unpaid HOA assessments. The buyer should know that:",
-      "correct_answer": "This information must be disclosed before closing",
-      "distractors": ["The buyer automatically assumes the debt", "The debt is forgiven at resale", "Only the HOA, not the buyer, is affected"],
-      "explanation": "Unpaid assessments are a required disclosure item in the Resale Certificate. The buyer needs this information to negotiate how the unpaid balance will be handled at closing.",
+      "question_text": "A condominium buyer receives the resale certificate three days before the scheduled closing. The purchase contract at that moment is:",
+      "correct_answer": "Voidable for five days after the certificate was delivered",
+      "distractors": ["Binding, because the certificate was provided", "Voidable only if assessments are unpaid", "Voidable for 15 days"],
+      "explanation": "The contract stays voidable by the purchaser until the certificate is provided and for five days afterward, or until conveyance, whichever comes first (68 Pa.C.S. 3407(a)). Here closing arrives first and cuts the window short.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["resale certificate", "unpaid assessments", "disclosure"]
+      "tags": ["condominium", "resale certificate", "rescission"]
     },
     {
       "key_topic_ref": "PA-15.3",

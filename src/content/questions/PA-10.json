@@ -17,14 +17,14 @@
     },
     {
       "key_topic_ref": "PA-10.1",
-      "question_text": "A PA escrow account must be maintained at what type of financial institution?",
-      "correct_answer": "FDIC-insured institution in Pennsylvania",
-      "distractors": ["Any U.S. bank, regardless of location", "Only a Pennsylvania state-chartered bank", "Any federally chartered credit union"],
-      "explanation": "Escrow accounts must be maintained at an FDIC-insured institution within Pennsylvania. The account must be in the broker's name and clearly identified as an escrow account.",
+      "question_text": "A Pennsylvania broker's escrow account must do which of the following?",
+      "correct_answer": "Designate the broker as trustee",
+      "distractors": ["Be held at a bank located in Pennsylvania", "Be interest-bearing at all times", "Require 30 days' notice for withdrawals"],
+      "explanation": "An escrow account must sit in a federally or state-insured bank or recognized depository, name the broker as trustee, allow withdrawal without prior notice, and be used only for escrow (49 Pa. Code 35.325(a)). No rule requires a Pennsylvania bank.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["trust accounts", "FDIC", "requirements"]
+      "tags": ["escrow", "trust account", "requirements"]
     },
     {
       "key_topic_ref": "PA-10.1",
@@ -39,10 +39,10 @@
     },
     {
       "key_topic_ref": "PA-10.1",
-      "question_text": "Under Pennsylvania law, escrow accounts should generally be:",
-      "correct_answer": "Interest-bearing unless parties agree otherwise",
-      "distractors": ["Non-interest-bearing always", "Interest-bearing with interest to the broker", "IOLTA accounts exclusively"],
-      "explanation": "PA escrow accounts must be interest-bearing at an FDIC-insured institution, unless the parties agree otherwise in writing. The interest disposition depends on the agreement between the parties.",
+      "question_text": "Must a Pennsylvania broker's escrow account be interest-bearing?",
+      "correct_answer": "No, though it is encouraged for money held over 6 months",
+      "distractors": ["Yes, in every case", "Yes, with the interest going to the broker", "Yes, unless the parties agree otherwise in writing"],
+      "explanation": "Nothing requires an interest-bearing escrow account; the regulation only encourages one when money will be held more than 6 months (49 Pa. Code 35.325(c)). Any interest earned is disbursed pro rata like the principal, and the broker may not claim it.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -130,7 +130,7 @@
       "question_text": "A buyer and seller dispute an earnest money deposit after a failed transaction. The broker should:",
       "correct_answer": "Hold funds until written agreement or court order",
       "distractors": ["Return funds to the buyer immediately", "Give funds to the seller automatically", "Split the funds evenly between parties"],
-      "explanation": "When parties dispute escrow funds, the broker must hold the funds until receiving written agreement from all parties or a court order. The broker cannot unilaterally decide who gets the funds.",
+      "explanation": "The broker must hold disputed money in escrow until the dispute is resolved (49 Pa. Code 35.327). If resolution looks remote, the broker may give the parties 30 days' notice and petition the county court to interplead the rival claimants.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

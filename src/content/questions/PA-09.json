@@ -61,14 +61,14 @@
     },
     {
       "key_topic_ref": "PA-09.2",
-      "question_text": "A real estate team name in Pennsylvania must include:",
-      "correct_answer": "At least one licensed member's name and 'team'",
-      "distractors": ["All team members' license numbers", "The broker's name only", "A PREC-assigned team number"],
-      "explanation": "PA requires team names to include at least one licensed team member's name and the word 'team.' The broker's name must also still appear prominently in the advertising.",
+      "question_text": "A Pennsylvania real estate team name must be:",
+      "correct_answer": "The name of a licensee on the team",
+      "distractors": ["A name containing the word 'team'", "A list of all members' license numbers", "A PREC-assigned team number"],
+      "explanation": "PREC requires a team to be named for one of the licensees on it, using that licensee's licensed name or a registered nickname. Combined names and fictitious names are not permitted, and all team members must be named in advertisements.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["advertising", "team name", "requirements"]
+      "tags": ["advertising", "teams", "PREC"]
     },
     {
       "key_topic_ref": "PA-09.2",
@@ -86,7 +86,7 @@
       "question_text": "A licensee wants to use a nickname in their advertising. Under PA rules, the licensee must:",
       "correct_answer": "Register the nickname with PREC",
       "distractors": ["Use the legal name only", "Get broker approval only", "File with the county recorder"],
-      "explanation": "Pennsylvania allows the use of nicknames in advertising only if the nickname is registered with PREC on the licensee's license record. This ensures consumers can identify the actual licensee.",
+      "explanation": "A licensee who wants to advertise under a nickname must list it on the licensure or biennial renewal application (49 Pa. Code 35.305(b)). Nicknames are approved as derivatives of the first name, and the surname must still appear.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -94,14 +94,14 @@
     },
     {
       "key_topic_ref": "PA-09.2",
-      "question_text": "The 'Smith Home Group' advertises without including the word 'team' and without listing any individual licensee names. This advertising is:",
-      "correct_answer": "Non-compliant with PA team rules",
-      "distractors": ["Acceptable as a group brand name", "Legal if the broker approves it", "Compliant if the broker name appears"],
-      "explanation": "PA team advertising requires the word 'team' and at least one licensed member's name. Using 'Group' instead of 'team' and omitting individual names violates these requirements.",
+      "question_text": "'Smith Home Group' is a team led by licensee Dana Smith. Its advertisements name no individual licensees. The advertising is:",
+      "correct_answer": "Non-compliant — all team members must be named",
+      "distractors": ["Compliant, since the team is named for a licensee", "Non-compliant because 'Group' replaces 'team'", "Compliant if the broker approves it"],
+      "explanation": "Naming the team after licensee Smith satisfies the naming rule, but PREC also requires that every team member be named in each advertisement. Nothing requires the word 'team' in the name.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["advertising", "team name", "non-compliant"]
+      "tags": ["advertising", "teams", "compliance"]
     },
     {
       "key_topic_ref": "PA-09.2",
@@ -119,7 +119,7 @@
       "question_text": "On a social media property post, the broker's name must be:",
       "correct_answer": "Visible on the post itself",
       "distractors": ["Accessible via a link to the broker's website", "Available in the agent's profile bio only", "Not required for social media"],
-      "explanation": "Pennsylvania does NOT follow a 'one-click rule.' The broker's name must be visible directly on every page, post, or advertisement — not merely accessible through a link or profile page.",
+      "explanation": "Every advertisement must itself contain the employing broker's business name and telephone number (49 Pa. Code 35.305(c)). Burying that information behind a link or in a profile bio leaves the individual post non-compliant.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -130,7 +130,7 @@
       "question_text": "Pennsylvania's approach to internet advertising and broker identification is:",
       "correct_answer": "Broker name visible on every page/post",
       "distractors": ["One-click rule to broker's site", "Broker name on homepage only", "No specific internet advertising rules"],
-      "explanation": "PA requires the broker's name to be visible on EVERY page or post. It does NOT follow the one-click rule used by some other states, which would allow broker identification to be accessible via a link.",
+      "explanation": "Because the rule attaches to each advertisement, the broker's business name and telephone number must appear on every page or post (49 Pa. Code 35.305(c)). A link back to the brokerage site does not satisfy it.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,

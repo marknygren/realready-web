@@ -94,14 +94,14 @@
     },
     {
       "key_topic_ref": "PA-08.2",
-      "question_text": "A broker discovers that a salesperson made a material misrepresentation to a buyer. The broker's responsibility is:",
-      "correct_answer": "Address the violation and may face discipline",
-      "distractors": ["None, only the salesperson is liable", "Report the salesperson to PREC only", "Terminate the salesperson immediately"],
-      "explanation": "Brokers can face discipline for violations committed by their salespersons due to the broker's supervisory responsibility. The broker should address the misrepresentation and take corrective action.",
+      "question_text": "A salesperson violates RELRA. The employing broker's own license may be suspended or revoked only if the broker:",
+      "correct_answer": "Had actual knowledge of the violation",
+      "distractors": ["Employed the salesperson at the time", "Received a commission from the transaction", "Failed to report the salesperson to PREC"],
+      "explanation": "A salesperson's violation is not grounds to discipline the employer's license unless the hearing shows the broker had actual knowledge of it (RELRA 702(a)). A proven course of dealing by the employee is prima facie evidence of that knowledge.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["broker supervision", "liability", "misrepresentation"]
+      "tags": ["supervision", "imputed knowledge", "discipline"]
     },
     {
       "key_topic_ref": "PA-08.2",
@@ -130,7 +130,7 @@
       "question_text": "A licensee receives a referral fee from an out-of-state broker. This fee must be:",
       "correct_answer": "Disclosed to all parties",
       "distractors": ["Kept confidential between brokers", "Reported to PREC annually", "Split with the consumer"],
-      "explanation": "All referral fees must be disclosed to all parties in the transaction. This transparency requirement applies regardless of whether the fee comes from an in-state or out-of-state broker.",
+      "explanation": "A licensee must disclose any financial interest in services provided to the consumer by another person, including referral fees and commissions (RELRA 606.1(a)(13)). The duty applies whether the paying broker is in-state or out-of-state.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
