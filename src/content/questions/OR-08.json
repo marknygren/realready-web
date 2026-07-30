@@ -13,7 +13,7 @@
         "A preliminary title insurance commitment",
         "A municipal certificate of occupancy"
       ],
-      "explanation": "Under ORS 105.462-105.490, sellers of residential properties with 1-4 units must deliver a completed Seller's Property Disclosure Statement to each buyer who makes a written offer.",
+      "explanation": "Sellers of one-to-four-unit residential property must complete, sign and deliver a seller's property disclosure statement to each buyer who makes a written offer (ORS 105.465). A duplex is squarely inside that range.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -51,7 +51,7 @@
         "A vacant commercially-zoned lot",
         "An industrial warehouse property"
       ],
-      "explanation": "Oregon's disclosure law applies to residential properties of 1-4 units, condominiums, timeshares, and manufactured dwellings situated on land owned by the seller. Commercial and larger multifamily properties are not covered.",
+      "explanation": "The requirement covers one to four dwelling units, condominium units, timeshares, and manufactured dwellings owned together with the land under them (ORS 105.465). Larger multifamily and commercial property fall outside it.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -121,13 +121,13 @@
     {
       "key_topic_ref": "OR-08.2",
       "question_text": "A property is transferred through a bankruptcy proceeding. Must the transferor provide Oregon's seller disclosure?",
-      "correct_answer": "No, court-ordered transfers are exempt",
+      "correct_answer": "No, a sale by a court-appointed trustee is exempt",
       "distractors": [
         "Yes, all transfers require disclosure",
         "Yes, unless the court orders otherwise",
         "Only if the buyer requests it"
       ],
-      "explanation": "Oregon exempts court-ordered transfers from the disclosure requirement. This includes foreclosures, bankruptcy proceedings, and probate transfers, since the transferor may lack personal knowledge of the property's condition.",
+      "explanation": "The duty does not apply to a seller appointed by a court — a receiver, personal representative, bankruptcy trustee, conservator or guardian — nor to a financial institution selling property it took back by foreclosure (ORS 105.470).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -158,33 +158,33 @@
     },
     {
       "key_topic_ref": "OR-08.2",
-      "question_text": "Two co-owners of a home are dividing the property as part of a dissolution. Must they provide a disclosure statement for the transfer?",
-      "correct_answer": "No, transfers between co-owners are exempt",
+      "question_text": "Which transfer is exempt from Oregon's seller's property disclosure requirement?",
+      "correct_answer": "A sale of surplus land by a city",
       "distractors": [
-        "Yes, both parties must complete disclosures",
-        "Yes, unless they sign a mutual waiver",
-        "Only the transferring co-owner must disclose"
+        "A sale between two spouses",
+        "A sale of a rental house by an investor who never lived there",
+        "A sale of a 30-year-old condominium unit"
       ],
-      "explanation": "Transfers between co-owners, spouses, or domestic partners are exempt from Oregon's seller disclosure requirements. A property division between co-owners falls squarely within this exemption.",
-      "difficulty": "medium",
-      "cognitive_level": "application",
+      "explanation": "The exemptions are narrow: the first sale of a never-occupied dwelling, sales by financial institutions that took the property back, court-appointed fiduciaries, and transfers by governmental agencies (ORS 105.470). Oregon exempts neither spousal transfers nor landlords who never occupied the home.",
+      "difficulty": "hard",
+      "cognitive_level": "knowledge",
       "is_free": false,
       "tags": [
+        "disclosure",
         "exemptions",
-        "co-owner transfer",
-        "dissolution"
+        "ORS 105.470"
       ]
     },
     {
       "key_topic_ref": "OR-08.2",
-      "question_text": "A builder sells a newly constructed home with a full builder warranty. Which statement about disclosure is correct?",
-      "correct_answer": "New construction with builder warranty is exempt",
+      "question_text": "A builder sells a newly constructed home that has never been occupied. What makes the sale exempt from the seller's property disclosure requirement?",
+      "correct_answer": "Giving the buyer a written building permit statement",
       "distractors": [
-        "The builder must still complete the form",
-        "Only the foundation section must be disclosed",
-        "Disclosure is required after the warranty expires"
+        "Providing a one-year builder warranty",
+        "Recording a certificate of occupancy",
+        "Nothing — new construction is never exempt"
       ],
-      "explanation": "New construction sold with a builder's warranty is exempt from Oregon's seller disclosure requirements. The builder warranty serves as an alternative form of buyer protection for newly built properties.",
+      "explanation": "The first sale of a dwelling never occupied is exempt only if the seller gives the buyer a written statement identifying the building or installation permit numbers and the issuing jurisdiction (ORS 105.470). A builder's warranty does not create the exemption.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -203,7 +203,7 @@
         "Only homicides, not natural deaths",
         "All deaths the agent knows about"
       ],
-      "explanation": "Under Oregon law, sellers and agents are not required to disclose that a death occurred on the property, whether by homicide, suicide, or natural causes. These are classified as stigmatized property issues, not material defects.",
+      "explanation": "A death on the property, by violent crime, suicide or any other manner, is not a material fact under Oregon law, so no disclosure is required (ORS 93.275). The same statute covers nearby registered sex offenders and neighboring property.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -222,7 +222,7 @@
         "The septic system has failed twice",
         "The roof was replaced after storm damage"
       ],
-      "explanation": "Oregon law specifically classifies a former occupant's HIV/AIDS status as a stigmatized property issue. Sellers and agents are not required to disclose this information. Asbestos, septic failures, and roof damage are material conditions that must be disclosed.",
+      "explanation": "Oregon treats an owner's or occupant's blood-borne infection as immaterial to a real property transaction, so HIV status need not be disclosed (ORS 93.275). Asbestos, a failing septic system and storm damage are physical conditions that do have to be disclosed.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -241,7 +241,7 @@
         "The buyer cannot revoke after making an offer",
         "The buyer must request a court order to cancel"
       ],
-      "explanation": "When a seller refuses to provide a property disclosure statement, the buyer retains the right to revoke the offer or contract at any time before closing. This open-ended revocation right protects buyers who proceed without receiving required disclosures.",
+      "explanation": "If the seller never delivers a disclosure statement, the buyer's right to revoke runs until the buyer's own deadline passes at closing (ORS 105.475). The five-business-day clock only starts when a statement is actually delivered.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -253,14 +253,14 @@
     },
     {
       "key_topic_ref": "OR-08.3",
-      "question_text": "A buyer receives the seller's disclosure on Monday and discovers a previously unknown landslide risk. By when must the buyer act to revoke?",
-      "correct_answer": "Within 5 days of receiving the disclosure",
+      "question_text": "A buyer receives the seller's property disclosure statement on a Monday and wants out of the deal. How long does the buyer have to revoke the offer?",
+      "correct_answer": "Five business days after delivery",
       "distractors": [
-        "Within 3 days of receiving the disclosure",
-        "Within 10 days of receiving the disclosure",
-        "Before the next business day"
+        "Five calendar days after delivery",
+        "Three business days after delivery",
+        "Ten calendar days after delivery"
       ],
-      "explanation": "When a buyer receives a disclosure revealing material information not previously known, the buyer may revoke within 5 days of receiving that disclosure. This 5-day window begins when the disclosure is actually delivered to the buyer.",
+      "explanation": "The buyer has five business days after delivery of the disclosure statement to revoke the offer by a separate signed written statement (ORS 105.475). No reason is needed — the right does not depend on the statement revealing anything new.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -279,7 +279,7 @@
         "The agent must always disclose violent deaths",
         "The agent must note it on the disclosure form"
       ],
-      "explanation": "Oregon law protects sellers and agents from having to disclose deaths on a property, including suicides. This protection applies regardless of how recently the death occurred and whether the agent is asked directly. Deaths are stigmatized property issues, not material defects.",
+      "explanation": "Deaths on a property are not material facts, so there is no duty to volunteer one (ORS 93.275). The agent may decline to discuss it, but may not answer a direct question with an affirmative falsehood.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

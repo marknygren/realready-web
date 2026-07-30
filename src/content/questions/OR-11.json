@@ -13,7 +13,7 @@
         "Written approval from the tenant",
         "Permission from the local housing authority"
       ],
-      "explanation": "Under SB 608 (2019), after 12 months of occupancy, landlords must have 'just cause' to terminate a tenancy. This applies to both at-fault and no-fault terminations.",
+      "explanation": "After the first 12 months of occupancy a landlord needs cause to terminate (ORS 90.427). Inside the first year a month-to-month tenancy can still be ended with 30 days' notice and no reason at all.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -33,7 +33,7 @@
         "The unit needs substantial repairs",
         "Sale to a buyer who will occupy"
       ],
-      "explanation": "At-fault causes include nonpayment of rent, lease violations, and criminal activity. Owner move-in, sale to an occupying buyer, and substantial repairs are no-fault causes requiring different procedures.",
+      "explanation": "At-fault causes are tenant conduct: nonpayment, lease violations, criminal activity. Owner or family occupancy, an accepted offer from a buyer who will occupy, unsafe repairs, and demolition or conversion are qualifying landlord reasons with their own notice and payment rules.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -53,7 +53,7 @@
         "60-day notice only",
         "120-day notice with no payment required"
       ],
-      "explanation": "No-fault terminations (owner move-in, sale to occupying buyer, substantial repairs) require 90-day written notice AND payment of one month's rent as relocation assistance.",
+      "explanation": "A qualifying landlord reason after the first year — demolition or conversion, unsafe repairs, landlord or family occupancy, or an accepted offer from an occupying buyer — needs 90 days' notice plus one month's rent. Landlords with four or fewer units owe no payment (ORS 90.427).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -66,14 +66,14 @@
     },
     {
       "key_topic_ref": "OR-11.1",
-      "question_text": "An Oregon tenant discovers a broken furnace in December. The landlord ignores repair requests for two weeks. What remedy is available under ORLTA?",
-      "correct_answer": "Repair and deduct up to one month's rent",
+      "question_text": "An Oregon tenant gives written notice of a leaky faucet and the landlord does nothing. What may the tenant do under ORLTA?",
+      "correct_answer": "Repair it and deduct up to $300 from rent",
       "distractors": [
-        "Withhold all rent indefinitely",
-        "Immediately vacate without notice",
-        "File a criminal complaint against landlord"
+        "Repair it and deduct up to one month's rent",
+        "Withhold all rent until it is fixed",
+        "Vacate immediately without further notice"
       ],
-      "explanation": "Under ORLTA (ORS 90.100-90.840), tenants may repair and deduct up to one month's rent when a landlord fails to maintain habitable premises. Other remedies include terminating the agreement or seeking injunctive relief.",
+      "explanation": "For a minor habitability defect — one repairable for $300 or less — a tenant who gives written notice and waits the statutory period may have it fixed and deduct the actual, reasonable cost up to $300 (ORS 90.368).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -131,7 +131,7 @@
         "12%",
         "15%"
       ],
-      "explanation": "SB 611 (2023) amended the original rent control formula to add a hard cap of 10%. Even if 7% + CPI exceeds 10%, landlords cannot raise rent above 10% annually. The 2026 cap is 9.5%.",
+      "explanation": "SB 611 (2023) capped annual increases at the lesser of 10 percent or 7 percent plus CPI. The Department of Administrative Services publishes the figure by September 30 each year; for 2026 it is 9.5 percent (ORS 90.324).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -151,7 +151,7 @@
         "Only if the unit is in a city over 50,000",
         "Only if the landlord owns three or more units"
       ],
-      "explanation": "Oregon's rent control applies only to units 15 or more years old. Newer construction is exempt to encourage housing development. The exemption is based on the age of the building, not ownership duration.",
+      "explanation": "The cap applies only once the dwelling's first certificate of occupancy is at least 15 years old (ORS 90.323). Newer construction is exempt to encourage building, and the test is the building's age, not how long the landlord has owned it.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -170,7 +170,7 @@
         "10% hard cap",
         "No cap for manufactured parks"
       ],
-      "explanation": "Manufactured dwelling parks with 30 or more spaces are subject to a separate, lower cap of 6% per year on rent increases, distinct from the general 7% + CPI formula for standard rentals.",
+      "explanation": "Manufactured dwelling and floating home facilities with more than 30 spaces are capped at 6 percent a year, below the general formula; facilities with 30 or fewer follow the lesser of 10 percent or 7 percent plus CPI (ORS 90.324, HB 3054 of 2025).",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
@@ -189,7 +189,7 @@
         "60 days",
         "120 days"
       ],
-      "explanation": "Oregon law requires landlords to give tenants at least 90 days' written notice before any rent increase takes effect. This applies to all rental units subject to the statewide rent control provisions.",
+      "explanation": "A landlord must give at least 90 days' written notice before a rent increase, and may not raise rent at all during the first year of a tenancy (ORS 90.323). The notice has to state the new rent and the effective date.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -208,7 +208,7 @@
         "Two months of the tenant's rent",
         "First and last month's rent combined"
       ],
-      "explanation": "Unlike many states, Oregon does not impose a statutory cap on security deposit amounts. However, landlords must return deposits within 31 days with an itemized statement of any deductions.",
+      "explanation": "Oregon sets no dollar cap on a security deposit, but it does restrict changes: no new or increased deposit during the first year, and after that the landlord must give the tenant at least three months to pay the increase (ORS 90.300).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -227,7 +227,7 @@
         "March 31 (within 30 days)",
         "April 30 (within 60 days)"
       ],
-      "explanation": "Oregon requires landlords to return the security deposit with a written itemized statement of deductions within 31 days of the tenant vacating the unit.",
+      "explanation": "The landlord has 31 days after the tenancy terminates and the tenant delivers possession to return the deposit or provide a written itemized accounting (ORS 90.300). From a March 1 move-out that is April 1.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -240,13 +240,13 @@
     {
       "key_topic_ref": "OR-11.3",
       "question_text": "An Oregon landlord willfully withholds $800 of a tenant's security deposit without justification. What penalty may the tenant recover?",
-      "correct_answer": "Up to twice the amount wrongfully withheld",
+      "correct_answer": "Twice the amount wrongfully withheld",
       "distractors": [
         "The exact amount withheld only",
         "Three times the amount withheld",
         "A flat $500 statutory penalty"
       ],
-      "explanation": "If a landlord willfully fails to return a security deposit or provide proper accounting, the tenant may recover up to two times the amount wrongfully withheld, in addition to the deposit itself.",
+      "explanation": "A landlord who withholds a deposit in bad faith, or who skips the written accounting, owes the tenant twice the amount withheld (ORS 90.300). That is on top of returning what was actually due.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -284,7 +284,7 @@
         "90 days",
         "30 days"
       ],
-      "explanation": "Manufactured dwelling parks must provide residents with 365 days' notice before park closure. Rent and eviction protections also apply during the notice period to protect residents from displacement.",
+      "explanation": "A facility owner must give residents 365 days' written notice before closing the park (ORS 90.645). Rent increase and just cause protections keep running through the notice period.",
       "difficulty": "hard",
       "cognitive_level": "knowledge",
       "is_free": false,

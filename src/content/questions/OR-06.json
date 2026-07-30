@@ -13,7 +13,7 @@
         "Only a violation on print media",
         "Acceptable if the MLS number appears"
       ],
-      "explanation": "All real estate advertising in Oregon must include the registered business name (RBN) of the brokerage. This requirement applies equally to internet and social media advertising. An ad without the RBN is considered a blind ad and is prohibited.",
+      "explanation": "All Oregon real estate advertising must carry the brokerage's registered business name, and it must be immediately noticeable (OAR 863-015-0125). Social media is not exempt, and an ad with no RBN is a prohibited blind ad.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -33,7 +33,7 @@
         "It must appear in bold italic font",
         "It must be placed at the top of the ad"
       ],
-      "explanation": "Oregon requires that the registered business name (RBN) in all advertising be 'immediately noticeable.' While the RBN must stand out, the law does not mandate a specific font style, size ranking, or placement position.",
+      "explanation": "The rule requires the registered business name to be immediately noticeable in all advertising (OAR 863-015-0125). It sets no font, size ranking or placement requirement — only that a reader spots the brokerage name without hunting for it.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -45,22 +45,21 @@
     },
     {
       "key_topic_ref": "OR-06.1",
-      "question_text": "Under 2026 Oregon rules, a broker team wants to name themselves 'Elite Realty Team.' Is this name permissible?",
-      "correct_answer": "No, team names cannot include 'realty'",
+      "question_text": "An Oregon team advertises as 'Elite Realty Team.' Under the team naming rule, when must that name change?",
+      "correct_answer": "By July 1, 2027",
       "distractors": [
-        "Yes, if the RBN also appears",
-        "Yes, teams may use any name",
-        "No, only if they also use 'real estate'"
+        "It never has to change",
+        "By January 1, 2026",
+        "Only when the brokerage changes its RBN"
       ],
-      "explanation": "As of 2026, Oregon prohibits team names from including the words 'realty' or 'real estate.' This rule prevents consumer confusion between teams and actual brokerages. 'Elite Realty Team' would violate this requirement.",
+      "explanation": "HB 3137 banned 'realty' and 'real estate' in team names as of January 1, 2026, but SB 1513 (2026) delayed the compliance deadline to July 1, 2027. OREA held off on enforcing the restriction while the fix moved through the 2026 session.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
       "tags": [
+        "teams",
         "advertising",
-        "team names",
-        "realty",
-        "2026 rules"
+        "SB 1513"
       ]
     },
     {
@@ -85,14 +84,14 @@
     },
     {
       "key_topic_ref": "OR-06.1",
-      "question_text": "Which type of real estate advertising is exempt from the RBN requirement in Oregon?",
-      "correct_answer": "No type of advertising is exempt",
+      "question_text": "Which advertising format gets an accommodation under Oregon's registered business name rule?",
+      "correct_answer": "Sponsored links and texts that link to a compliant page",
       "distractors": [
-        "Personal social media posts",
         "For-sale-by-owner yard signs",
-        "Text message communications"
+        "Print advertising in trade journals",
+        "Open house directional signs"
       ],
-      "explanation": "Oregon applies the RBN advertising requirement uniformly across all media, including print, internet, social media, and any other form of advertising. There are no exemptions for specific advertising formats.",
+      "explanation": "Short electronic formats — sponsored links, emails, texts and social media posts — satisfy the rule if they link to a page carrying the required information (OAR 863-015-0125). Every other format has to display the registered business name itself.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -300,7 +299,7 @@
         "No disclosure if not acting as an agent",
         "Disclosure only if using a broker colleague"
       ],
-      "explanation": "When an Oregon licensee buys or sells property for their own account, they must disclose their licensed status in writing. This applies to any transaction in which the licensee has a personal interest, regardless of whether they are acting in a professional capacity.",
+      "explanation": "A licensee who is a principal must disclose being licensed, and whether self-represented, in advertising and in the first written document of agreement (OAR 863-015-0145). A verbal heads-up does not satisfy the rule.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -319,7 +318,7 @@
         "Only if the buyer asks directly",
         "Only if the broker receives a commission"
       ],
-      "explanation": "The disclosure requirement applies whenever a licensee has a personal interest in a transaction. Even when using another broker to handle the sale, the licensee-owner must provide written disclosure of their licensed status to all parties.",
+      "explanation": "The disclosure belongs in the first written document of agreement whenever the licensee is a principal to the transaction, even if a colleague handles the listing (OAR 863-015-0145). Using another broker does not shift the licensee-owner's own duty.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -350,21 +349,21 @@
     },
     {
       "key_topic_ref": "OR-06.4",
-      "question_text": "A broker's spouse wants to buy a property, and the broker will co-sign the loan. Does the disclosure requirement apply?",
-      "correct_answer": "Yes, the broker has a personal interest",
+      "question_text": "A licensee owns 8 percent of an LLC that is buying an apartment building, and she negotiates the purchase for the LLC. Does the licensee-as-principal disclosure apply?",
+      "correct_answer": "Yes, her interest exceeds five percent and she negotiated",
       "distractors": [
-        "No, only direct ownership triggers disclosure",
-        "No, spouses are exempt from disclosure rules",
-        "Only if the broker negotiates the purchase"
+        "No, entity ownership never triggers the rule",
+        "No, the rule applies only to direct ownership",
+        "Only if the LLC is an Oregon entity"
       ],
-      "explanation": "Oregon's disclosure requirement applies to any transaction in which the licensee has a personal interest. Co-signing a loan creates a direct financial interest in the transaction, triggering the written disclosure obligation.",
+      "explanation": "The rule reaches business entities in which a licensee holds more than a five percent ownership interest, once the licensee takes part in negotiating the transaction for the entity (OAR 863-015-0145). At 8 percent and negotiating, she must disclose.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": [
         "licensee as principal",
-        "personal interest",
-        "co-signing"
+        "disclosure",
+        "OAR 863-015-0145"
       ]
     },
     {
@@ -376,7 +375,7 @@
         "Through the MLS listing remarks",
         "By posting it on the yard sign"
       ],
-      "explanation": "Oregon law specifically requires that the disclosure of licensed status be made in writing when a licensee is acting as a principal in a real estate transaction. Verbal disclosure alone is insufficient.",
+      "explanation": "Disclosure of licensed status must be in writing, in advertising and in the first written document of agreement (OAR 863-015-0145). It must also say whether the licensee is self-represented as buyer or seller.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,

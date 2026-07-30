@@ -84,9 +84,9 @@
     {
       "key_topic_ref": "OR-05.2",
       "question_text": "A disclosed limited agent receives two competing offers. One is from a personal friend. How should the agent handle this?",
-      "correct_answer": "Present both offers neutrally to the seller",
+      "correct_answer": "Present both offers and disclose the personal relationship",
       "distractors": ["Present the friend's offer first", "Recommend the friend's offer to the seller", "Advise the other buyer to increase their offer"],
-      "explanation": "A disclosed limited agent must remain neutral and cannot advocate for either party. Favoring a friend's offer or coaching one buyer would violate the agent's duty of neutrality and honest dealing owed to all parties.",
+      "explanation": "A licensee must present all written offers in a timely manner and deal honestly and in good faith with every party (ORS 696.805). A personal relationship with one offeror is a conflict to disclose to the seller, not something to act on.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -95,9 +95,9 @@
     {
       "key_topic_ref": "OR-05.2",
       "question_text": "Which statement best describes a key limitation of disclosed limited agency in Oregon?",
-      "correct_answer": "The agent cannot advocate exclusively for either party",
+      "correct_answer": "The agent may not reveal one party's bargaining position to the other",
       "distractors": ["The agent cannot present offers from either party", "The agent has no duties to either party", "The agent must refer one party elsewhere"],
-      "explanation": "The core limitation of disclosed limited agency is that the broker cannot exclusively advocate for one party over the other. The broker must treat both parties honestly and fairly while protecting each party's confidential information.",
+      "explanation": "A disclosed limited agent still owes the seller every seller's-agent duty and the buyer every buyer's-agent duty. What drops away is disclosure: without written permission the agent may not tell the seller the buyer will pay more, or the buyer the seller will take less (ORS 696.815).",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -116,10 +116,10 @@
     },
     {
       "key_topic_ref": "OR-05.3",
-      "question_text": "When must an Oregon broker first disclose their agency relationship to a prospective client?",
-      "correct_answer": "At the time of first substantive contact",
-      "distractors": ["At the time of closing", "When a purchase agreement is signed", "Within 48 hours of showing property"],
-      "explanation": "Oregon law requires agency disclosure at the time of first substantive contact. This ensures that consumers know who the broker represents before any meaningful real estate discussions take place.",
+      "question_text": "When must an Oregon licensee deliver the initial agency disclosure pamphlet?",
+      "correct_answer": "At the first contact with the party",
+      "distractors": ["At the first substantive contact", "When a purchase agreement is signed", "Within 48 hours of showing property"],
+      "explanation": "The pamphlet goes to each party at the first contact, whether in person, by phone, by email or online (ORS 696.820). Oregon does not use the 'first substantive contact' trigger common elsewhere, and the pamphlet itself creates no agency relationship.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -130,7 +130,7 @@
       "question_text": "A seller's agent learns that the foundation of the listed property has significant cracks. The agent must disclose this to a prospective buyer because of which affirmative duty?",
       "correct_answer": "Duty to disclose material facts",
       "distractors": ["Duty to exercise obedience", "Duty of loyalty to the buyer", "Duty to maintain confidentiality"],
-      "explanation": "All Oregon brokers, regardless of whom they represent, must disclose known material facts to all parties. A cracked foundation is a material defect that could affect a buyer's decision, so the seller's agent must disclose it.",
+      "explanation": "Every Oregon licensee must disclose material facts known to the agent and not apparent or readily ascertainable to a party (ORS 696.805). A cracked foundation is exactly that kind of hidden defect, so the seller's agent has to disclose it.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -139,9 +139,9 @@
     {
       "key_topic_ref": "OR-05.3",
       "question_text": "Which duty applies to ALL Oregon brokers regardless of whom they represent?",
-      "correct_answer": "Account for all money and property",
-      "distractors": ["Advocate exclusively for their client", "Maintain loyalty to one party only", "Provide legal advice on contracts"],
-      "explanation": "Oregon law imposes several affirmative duties on all brokers: honest dealing, presenting all written offers, disclosing material facts, accounting for money and property, exercising reasonable skill and care, and avoiding fraud. These apply regardless of the agency relationship.",
+      "correct_answer": "Disclose material facts not apparent or readily ascertainable",
+      "distractors": ["Account for all money and property received", "Advocate exclusively for their client", "Maintain loyalty to one party only"],
+      "explanation": "Three duties run to every party: deal honestly and in good faith, present all written communications in a timely manner, and disclose material facts not apparent or readily ascertainable (ORS 696.805). Accounting for funds and loyalty are owed only to the licensee's own client.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -160,14 +160,14 @@
     },
     {
       "key_topic_ref": "OR-05.3",
-      "question_text": "At what point in the transaction is the specific agency relationship formally confirmed in Oregon?",
-      "correct_answer": "In the sale agreement",
-      "distractors": ["At the first open house visit", "When the broker obtains a license", "At the final closing appointment"],
-      "explanation": "While initial disclosure occurs at first substantive contact, the specific agency relationship is formally confirmed in the sale agreement. This ensures both parties have a documented record of who represents whom before the transaction proceeds.",
+      "question_text": "Broker Nguyen and Broker Ellis work under the same principal broker. Nguyen represents the seller and Ellis represents the buyer on the same property. Who is the disclosed limited agent?",
+      "correct_answer": "The principal broker",
+      "distractors": ["Both Nguyen and Ellis", "Neither — the arrangement is prohibited", "Whichever broker wrote the offer"],
+      "explanation": "When two brokers under the same principal broker take opposite sides, the principal broker alone acts as disclosed limited agent for both parties, and each associated broker keeps representing only their own client (ORS 696.815).",
       "difficulty": "hard",
-      "cognitive_level": "knowledge",
+      "cognitive_level": "application",
       "is_free": false,
-      "tags": ["agency-disclosure", "sale-agreement", "confirmation"]
+      "tags": ["disclosed limited agency", "principal broker", "ORS 696.815"]
     }
   ]
 }

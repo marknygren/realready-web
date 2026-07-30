@@ -13,7 +13,7 @@
         "A lot line adjustment",
         "A planned unit development"
       ],
-      "explanation": "Under ORS 92.010-92.990, a subdivision is a division of land into four or more lots. Dividing into six lots meets this threshold. A partition applies only when dividing into two or three parcels.",
+      "explanation": "Subdividing means creating four or more lots within a calendar year (ORS 92.010). Six lots clears that line; two or three parcels in a calendar year would be a partition instead.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -32,7 +32,7 @@
         "Variance application",
         "Annexation"
       ],
-      "explanation": "A partition is the division of land into two or three parcels. Since the owner is creating only two lots, the partition process applies rather than a full subdivision.",
+      "explanation": "A partition creates not more than three parcels within a calendar year (ORS 92.010). Two lots stays inside the partition process rather than triggering full subdivision review.",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -70,7 +70,7 @@
         "Whether the land is urban or rural",
         "The type of intended use"
       ],
-      "explanation": "The sole distinction is the number of resulting parcels. A partition creates two or three parcels, while a subdivision creates four or more lots. Both require local government approval.",
+      "explanation": "The line is the count of new units inside a single calendar year: two or three parcels is a partition, four or more lots is a subdivision (ORS 92.010). A property line adjustment is neither.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -101,14 +101,14 @@
     },
     {
       "key_topic_ref": "OR-16.2",
-      "question_text": "A buyer receives a condominium public offering statement on Monday. By what day must the buyer cancel to exercise the statutory right?",
-      "correct_answer": "By Saturday, the fifth day",
+      "question_text": "A buyer signs the receipt for a condominium public offering statement on a Monday — the last of the required signings. When does the cancellation right expire?",
+      "correct_answer": "The following Monday, five business days later",
       "distractors": [
-        "By Wednesday, the third day",
-        "By the following Monday",
-        "By Friday, the fourth day"
+        "Saturday, five calendar days later",
+        "Wednesday, three business days later",
+        "Friday, four business days later"
       ],
-      "explanation": "Under ORS 100, buyers have a 5-day right to cancel after receiving the public offering statement. Counting from Monday, the fifth day is Saturday.",
+      "explanation": "A purchaser may cancel a developer sale for any reason within five business days, excluding Saturdays and holidays, after the last of the sales agreement signing and the receipts for the disclosure and public offering statements (ORS 100.730). From Monday that is the next Monday.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -146,7 +146,7 @@
         "Only a fine is imposed on the developer",
         "The HOA must issue the statement instead"
       ],
-      "explanation": "Under ORS 100, a developer must provide the public offering statement before sale. Failure to do so gives buyers the right to cancel the purchase and potentially recover damages.",
+      "explanation": "A developer must deliver the public offering statement before the sale, and a purchaser who never received it may cancel and pursue damages (ORS 100.730). The cancellation right cannot be waived.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -177,21 +177,21 @@
     },
     {
       "key_topic_ref": "OR-16.2",
-      "question_text": "A condo owner is selling their unit. What must the HOA provide for the resale?",
-      "correct_answer": "An HOA disclosure to the buyer",
+      "question_text": "A condominium owner is reselling their unit. What does Oregon require the seller to give the buyer?",
+      "correct_answer": "A seller's property disclosure statement",
       "distractors": [
         "A new public offering statement",
-        "A developer warranty",
-        "A certificate of occupancy"
+        "An association resale certificate",
+        "A developer warranty"
       ],
-      "explanation": "For resales, Oregon requires the HOA to provide a resale disclosure covering assessments, reserves, rules, and the association's financial condition. The public offering statement applies only to initial developer sales.",
+      "explanation": "Oregon has no condominium resale certificate statute. On a resale the seller completes the statutory seller's property disclosure statement, which asks about assessments and association matters (ORS 105.464); the public offering statement applies only to developer sales.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
       "tags": [
-        "condominium",
+        "condominiums",
         "resale",
-        "HOA disclosure"
+        "disclosure"
       ]
     },
     {
@@ -203,7 +203,7 @@
         "Yes, but only after divorce",
         "No, because Oregon bans creditor lawsuits"
       ],
-      "explanation": "Tenancy by the entirety, available to married couples in Oregon, protects the property from individual creditors of only one spouse. Both spouses must be liable for the creditor to reach the property.",
+      "explanation": "Because spouses holding by the entirety each own the whole subject to the other's survivorship, a creditor of only one spouse generally cannot force a sale (ORS 93.180). The protection disappears once both spouses are liable on the debt.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -222,7 +222,7 @@
         "Yes, but only for real estate",
         "Only if the couple elects it"
       ],
-      "explanation": "Oregon is NOT a community property state. Property ownership is determined by how title is held. Oregon recognizes sole ownership, tenancy in common, joint tenancy, and tenancy by the entirety.",
+      "explanation": "Oregon is a separate property state, not a community property state. Title turns on the deed: sole ownership, tenancy in common, tenancy in common with an express right of survivorship, or tenancy by the entirety for spouses (ORS 93.180).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -241,7 +241,7 @@
         "As tenants by the entirety",
         "Ownership is void without specification"
       ],
-      "explanation": "When no form of ownership is specified in the deed, Oregon law defaults to tenancy in common. Joint tenancy and tenancy by the entirety require express language in the conveyance.",
+      "explanation": "A conveyance to two or more people creates a tenancy in common unless the deed declares a right of survivorship (ORS 93.180). Three investors who say nothing about survivorship hold as tenants in common.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -260,7 +260,7 @@
         "Tenancy in common",
         "Community property with survivorship"
       ],
-      "explanation": "Tenancy by the entirety is exclusive to married couples and includes the right of survivorship plus protection from individual creditors. Joint tenancy also has survivorship but is not limited to married couples.",
+      "explanation": "Tenancy by the entirety is limited to spouses and carries a right of survivorship (ORS 93.180). Unmarried co-owners can obtain survivorship too, but only by expressly declaring it in the deed — Oregon abolished ordinary joint tenancy.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -272,14 +272,14 @@
     },
     {
       "key_topic_ref": "OR-16.3",
-      "question_text": "An unmarried couple wants to hold title with right of survivorship in Oregon. Which ownership form should they use?",
-      "correct_answer": "Joint tenancy",
+      "question_text": "An unmarried couple in Oregon wants title with a right of survivorship. How should the deed read?",
+      "correct_answer": "Tenants in common with an express right of survivorship",
       "distractors": [
-        "Tenancy by the entirety",
-        "Community property",
-        "Tenancy in common"
+        "Joint tenants",
+        "Tenants by the entirety",
+        "Tenants in common"
       ],
-      "explanation": "Tenancy by the entirety is available only to married couples. An unmarried couple seeking survivorship rights should use joint tenancy, which requires express language in the deed creating the four unities.",
+      "explanation": "Oregon abolished joint tenancy except for trustees and personal representatives (ORS 93.180). Unmarried co-owners get survivorship only when the deed expressly declares it; a deed that merely says 'joint tenants' creates a tenancy in common.",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
@@ -336,7 +336,7 @@
         "A county assessor must inspect it",
         "The home must be at least 10 years old"
       ],
-      "explanation": "In Oregon, a manufactured home on owned land can become real property through the elimination of title process. Without completing this process, the home remains personal property even if affixed to owned land.",
+      "explanation": "A manufactured home on land the owner holds becomes real property once its ownership document is cancelled through the exemption or elimination process (ORS 446.626). Until then it stays personal property, even bolted to a foundation.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
