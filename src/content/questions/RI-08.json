@@ -17,25 +17,25 @@
     },
     {
       "key_topic_ref": "RI-08.1",
-      "question_text": "Under an exclusive right-to-sell listing, the seller finds a buyer without any agent involvement. Who earns the commission?",
-      "correct_answer": "The listing broker",
-      "distractors": ["No one earns a commission", "The seller keeps the commission", "The buyer's lender pays the fee"],
-      "explanation": "An exclusive right-to-sell listing entitles the listing broker to a commission regardless of who procures the buyer, even if the seller finds the buyer independently. This is the most common and comprehensive listing type.",
+      "question_text": "A brokerage prints its standard 5% fee directly onto its listing agreement form. What is the problem?",
+      "correct_answer": "Listing agreements may not carry a pre-printed commission",
+      "distractors": ["The rate must be at least 6% to be enforceable", "The rate must be initialed rather than printed", "Nothing, as long as the seller may cross it out"],
+      "explanation": "No listing agreement or contract for the sale of real property may contain a pre-printed fee, commission rate, or commission amount (230-RICR-30-20-2.26(A)). The figure has to be negotiated and written in for each seller.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["exclusive right-to-sell", "commission", "listing types"]
+      "tags": ["listing agreement", "pre-printed commission", "negotiability"]
     },
     {
       "key_topic_ref": "RI-08.1",
-      "question_text": "A broker proposes a net listing where the seller receives $300,000 and the broker keeps anything above that amount. Why is this arrangement disfavored in Rhode Island?",
-      "correct_answer": "It creates a conflict of interest for the broker",
-      "distractors": ["Net listings are illegal in Rhode Island", "The broker cannot earn over a 6% commission", "Only exclusive listing types are permitted"],
-      "explanation": "Net listings are legal but disfavored in Rhode Island because they create a conflict of interest. The broker is incentivized to sell at the highest possible price for personal gain rather than in the seller's best interest.",
+      "question_text": "A broker proposes a listing under which the seller receives $300,000 and the broker keeps everything above that. Is this allowed in Rhode Island?",
+      "correct_answer": "No, net listings are prohibited",
+      "distractors": ["Yes, but the arrangement must be disclosed in writing", "Yes, though it is disfavored as a conflict of interest", "Only if the broker's share stays under 10%"],
+      "explanation": "No licensee may enter into a net listing contract for the sale of real property (230-RICR-30-20-2.26(D)). Accepting a listing based on a net price is also an express ground for discipline (§ 5-20.5-14(22)).",
       "difficulty": "medium",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["net listing", "conflict of interest", "listing types"]
+      "tags": ["net listing", "prohibited", "listing agreements"]
     },
     {
       "key_topic_ref": "RI-08.1",
@@ -94,14 +94,14 @@
     },
     {
       "key_topic_ref": "RI-08.2",
-      "question_text": "Which is a common contingency found in Rhode Island purchase and sales agreements?",
-      "correct_answer": "Home inspection contingency",
-      "distractors": ["Mandatory arbitration clause", "Broker commission guarantee", "Automatic price escalation"],
-      "explanation": "Common contingencies in Rhode Island purchase agreements include financing, home inspection, appraisal, and sale of existing home. These protect the buyer by allowing contract termination if specified conditions are not met.",
-      "difficulty": "easy",
-      "cognitive_level": "knowledge",
+      "question_text": "A buyer wants to submit an offer, but the seller's disclosure form has not been delivered to her yet. What must the licensee do?",
+      "correct_answer": "Hold the offer until she receives the form and signs a receipt",
+      "distractors": ["Submit the offer and deliver the form before closing", "Submit the offer with an inspection contingency added", "Submit the offer only if the buyer waives the disclosure"],
+      "explanation": "The agent shall not communicate the buyer's offer until the buyer has received a copy of the written disclosure and signed a written receipt for it (§ 5-20.8-2). Violations carry a civil penalty of up to $1,000 per occurrence.",
+      "difficulty": "hard",
+      "cognitive_level": "application",
       "is_free": false,
-      "tags": ["contingencies", "inspection", "purchase agreement"]
+      "tags": ["seller disclosure", "offer", "written receipt"]
     },
     {
       "key_topic_ref": "RI-08.2",
@@ -152,7 +152,7 @@
       "question_text": "After a transaction closes, how should the listing broker handle the signed transaction documents?",
       "correct_answer": "Retain them per record-keeping rules",
       "distractors": ["Shred them immediately after closing", "Return all originals to the seller", "Forward them to the state commission"],
-      "explanation": "Rhode Island requires proper document handling including execution, delivery, and retention. Brokers must retain copies of all transaction documents for the required period as part of their record-keeping obligations.",
+      "explanation": "Brokers must retain transaction records, including contracts and closing statements, for at least three years from the date of receipt of the related funds (230-RICR-30-20-2.20). Records must be produced for DBR inspection on demand.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -160,14 +160,14 @@
     },
     {
       "key_topic_ref": "RI-08.3",
-      "question_text": "A seller asks his agent whether the contract's arbitration clause would hold up in court. What is the agent's best response?",
-      "correct_answer": "Recommend the seller consult an attorney",
-      "distractors": ["Confirm the clause is enforceable", "Explain arbitration law in detail", "Remove the clause from the contract"],
-      "explanation": "Questions about the enforceability of legal provisions require legal expertise beyond the scope of a real estate license. The agent should advise the seller to consult an attorney rather than offering any legal opinion on the clause.",
+      "question_text": "A Rhode Island salesperson who is not a licensed appraiser prepares a comparative market analysis for a seller. What does the regulation require?",
+      "correct_answer": "A disclaimer that it is not a USPAP appraisal",
+      "distractors": ["A co-signature from a certified appraiser", "Nothing, since a CMA is not regulated", "That it be filed with DBR before delivery"],
+      "explanation": "A licensee who is not a certified appraiser may not describe any valuation as an appraisal, and must include the prescribed disclaimer stating the CMA or broker price opinion does not conform to USPAP (230-RICR-30-20-2.27).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["attorney referral", "legal questions", "UPL"]
+      "tags": ["CMA", "BPO", "appraisal prohibited"]
     }
   ]
 }
