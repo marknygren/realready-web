@@ -50,10 +50,10 @@
     },
     {
       "key_topic_ref": "OK-03.1",
-      "question_text": "A non-resident Oklahoma licensee must complete how many CE hours per renewal cycle?",
+      "question_text": "A non-resident Oklahoma licensee who does not qualify for the CE exemption must complete how many hours per renewal cycle?",
       "correct_answer": "8 hours",
       "distractors": ["15 hours", "21 hours", "30 hours"],
-      "explanation": "Non-resident licensees need only 8 hours: 1 hour BRA, 1 hour Code/Rules, and 6 hours Contracts/Forms. This is significantly less than the 30-hour resident requirement.",
+      "explanation": "Non-residents owe 8 hours: 1 hour Broker Relationships Act, 1 hour Code and Rules, and 6 hours Contracts and Forms. A non-resident who keeps a current license elsewhere and meets that state's CE is exempt entirely (59 O.S. 858-307.2(E)).",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -64,7 +64,7 @@
       "question_text": "A sales associate leaves one brokerage to join another. What must they do?",
       "correct_answer": "Notify OREC of the change in affiliation",
       "distractors": ["Complete 6 additional CE hours", "Retake the state licensing exam", "Obtain a new license number from OREC"],
-      "explanation": "Licensees must notify OREC of any change in broker affiliation. The license transfers to the new broker. No additional education or re-examination is required for a transfer.",
+      "explanation": "The change of association must be filed with the Commission within 10 days, along with a $40 fee. No additional education or re-examination is required for a transfer (605:10-11-2(a)).",
       "difficulty": "easy",
       "cognitive_level": "application",
       "is_free": false,
@@ -116,21 +116,21 @@
     },
     {
       "key_topic_ref": "OK-03.3",
-      "question_text": "A licensee is convicted of a misdemeanor in another state. What must they do?",
-      "correct_answer": "Notify OREC of the conviction",
-      "distractors": ["No notification is required", "Report only felony convictions", "Notify only their employing broker"],
-      "explanation": "Oklahoma licensees must notify OREC of criminal convictions, including those in other jurisdictions. OREC must also be notified of disciplinary actions taken by other states.",
+      "question_text": "An Oklahoma licensee pleads guilty to a felony in another state. What must they do?",
+      "correct_answer": "Notify OREC in writing within 30 days",
+      "distractors": ["No notification is required", "Report it only at the next license renewal", "Notify only their employing broker"],
+      "explanation": "A licensee must notify the Commission in writing within 30 days of the plea and again within 30 days of judgment and sentencing. The duty reaches felonies in any jurisdiction (59 O.S. 858-301.2).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["notification", "conviction", "OREC"]
+      "tags": ["notifications", "felony", "OREC"]
     },
     {
       "key_topic_ref": "OK-03.3",
       "question_text": "A licensee changes their home address. Must they notify OREC?",
-      "correct_answer": "Yes, address changes must be reported",
+      "correct_answer": "Yes, within 10 days of the change",
       "distractors": ["No, only office address changes matter", "Only if the address is in a new county", "Only at the next license renewal date"],
-      "explanation": "OREC must be notified of address changes, criminal convictions, and disciplinary actions in other jurisdictions. Failing to provide required notifications can itself be grounds for discipline.",
+      "explanation": "An associate must file a home address change with the Commission within 10 days. Failing to keep OREC's contact information current is itself grounds for discipline (605:10-11-2(f)).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -138,21 +138,21 @@
     },
     {
       "key_topic_ref": "OK-03.3",
-      "question_text": "A licensee receives a disciplinary sanction from the Texas Real Estate Commission. Are they required to report this to OREC?",
-      "correct_answer": "Yes, out-of-state discipline must be reported",
-      "distractors": ["No, only Oklahoma actions matter", "Only if the sanction includes revocation", "Only if they hold an Oklahoma active license"],
-      "explanation": "Oklahoma licensees must report disciplinary actions from other jurisdictions to OREC. This allows OREC to evaluate whether the conduct also warrants discipline under Oklahoma law.",
+      "question_text": "Within how many days must an associate's change of brokerage affiliation be filed with OREC?",
+      "correct_answer": "10 days",
+      "distractors": ["3 days", "30 days", "By the next renewal date"],
+      "explanation": "Any change of association from one firm to another, or a move between offices within a firm, must be filed in the Commission office within 10 days, with a $40 fee (605:10-11-2(a)).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["notification", "out-of-state", "discipline"]
+      "tags": ["notifications", "transfer", "deadlines"]
     },
     {
       "key_topic_ref": "OK-03.3",
       "question_text": "A licensee moves to a new address but does not inform OREC. What is the potential consequence?",
       "correct_answer": "Grounds for disciplinary action",
       "distractors": ["Automatic license suspension", "A $500 administrative fine", "No consequence if license is current"],
-      "explanation": "Failure to notify OREC of required changes, including address changes, can be grounds for disciplinary action. OREC needs current contact information for regulatory correspondence.",
+      "explanation": "Failing to file a required change within the 10-day window is grounds for disciplinary action. OREC needs current contact information to reach licensees about complaints and renewals (605:10-11-2(f)).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -160,14 +160,14 @@
     },
     {
       "key_topic_ref": "OK-03.3",
-      "question_text": "An Oklahoma licensee also holds a license in Kansas. Their Kansas license is suspended. What Oklahoma obligation applies?",
-      "correct_answer": "Must notify OREC promptly",
-      "distractors": ["Their Oklahoma license is automatically suspended", "No obligation unless practicing in both states", "Must surrender their Oklahoma license"],
-      "explanation": "Licensees must notify OREC of disciplinary actions in other jurisdictions. The Kansas suspension does not automatically affect the Oklahoma license, but OREC may investigate and take its own action.",
+      "question_text": "A broker refuses to release an associate who wants to leave the firm. What is the associate's remedy?",
+      "correct_answer": "Notify the broker and the Commission in writing",
+      "distractors": ["File a civil action in district court", "Wait until the license term expires", "Ask the new broker to request the release"],
+      "explanation": "Once the Commission receives written notice of the disassociation, it sends the broker one more email notice and releases the licensee within three business days (605:10-11-2(b)).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["notification", "multi-state", "discipline"]
+      "tags": ["transfer", "release", "OREC"]
     }
   ]
 }
