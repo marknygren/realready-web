@@ -72,14 +72,14 @@
     },
     {
       "key_topic_ref": "OH-16.2",
-      "question_text": "Ohio's recording system is described as 'race-notice.' What does this mean for competing claims?",
-      "correct_answer": "First good-faith recorder without notice of prior claims wins",
-      "distractors": ["The first person to record always wins regardless", "The person with the oldest deed always takes priority", "Recording order does not affect the priority of claims"],
-      "explanation": "Under race-notice, a subsequent purchaser who records first AND had no notice of a prior unrecorded claim will prevail. Both recording priority and good faith/lack of notice matter.",
+      "question_text": "An Ohio deed is never recorded. Under ORC 5301.25, against whom is it ineffective?",
+      "correct_answer": "A later good-faith purchaser with no knowledge of it",
+      "distractors": ["Anyone who acquires the property afterward", "Only a later purchaser who also records first", "Only a creditor of the grantor"],
+      "explanation": "An unrecorded deed is void as to a subsequent bona fide purchaser who had no knowledge of it at the time of purchase (ORC 5301.25(A)). Ohio protects that purchaser's lack of notice; it does not require them to record first.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["race-notice", "recording", "priority"]
+      "tags": ["notice-statute", "recording", "priority"]
     },
     {
       "key_topic_ref": "OH-16.2",
@@ -105,14 +105,14 @@
     },
     {
       "key_topic_ref": "OH-16.2",
-      "question_text": "A buyer purchases property but does not record the deed. A subsequent buyer purchases the same property in good faith and records first. Under Ohio's race-notice system, who prevails?",
-      "correct_answer": "The subsequent buyer who recorded first in good faith",
-      "distractors": ["The first buyer since they purchased first", "Neither, until a court determines priority", "The seller, who retains title by default"],
-      "explanation": "Under Ohio's race-notice system, a subsequent purchaser who records first and had no notice of the prior unrecorded deed prevails. This underscores the importance of prompt recording.",
+      "question_text": "A buyer purchases Ohio property but does not record the deed. A later buyer purchases the same property in good faith, without knowledge of the first sale. Who prevails?",
+      "correct_answer": "The later buyer, who bought without notice",
+      "distractors": ["The first buyer, since they purchased first", "Neither, until a court determines priority", "The seller, who retains title by default"],
+      "explanation": "An unrecorded deed is void as to a later purchaser who bought in good faith without knowledge of it (ORC 5301.25(A)). The second buyer prevails, which is why prompt recording matters — recording gives constructive notice to everyone who follows.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["race-notice", "recording", "subsequent-buyer"]
+      "tags": ["notice-statute", "recording", "subsequent-buyer"]
     },
     {
       "key_topic_ref": "OH-16.3",
@@ -139,9 +139,9 @@
     {
       "key_topic_ref": "OH-16.3",
       "question_text": "A buyer on a land contract has paid for 2 years and has paid 10% of the purchase price. They default on payments. What process can the seller use?",
-      "correct_answer": "Forfeiture with 30-day notice",
-      "distractors": ["Judicial foreclosure only", "Immediate eviction without notice", "90-day forfeiture notice"],
-      "explanation": "When the buyer has paid for less than 5 years AND less than 20% of the purchase price, the seller may use the faster forfeiture process with a 30-day notice rather than judicial foreclosure.",
+      "correct_answer": "Forfeiture, after the default has continued 30 days",
+      "distractors": ["Judicial foreclosure only", "Immediate eviction without notice", "Forfeiture, with a 90-day notice to cure"],
+      "explanation": "Forfeiture is available because the buyer has paid less than 5 years and less than 20% of the price (ORC 5313.07). The seller must wait until the default has continued 30 days (ORC 5313.05), then serve a notice giving the buyer 10 days to cure.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
