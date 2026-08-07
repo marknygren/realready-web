@@ -658,6 +658,15 @@ const LICENSING_PROCESS_PATTERNS = [
   /\bmonths of active (salesperson )?experience\b/i,
   /\bconsecutive months of licensed experience\b/i,
   /\bactive months exceeds the minimum\b/i,
+
+  // North Dakota (2026-08 review): the two ND-01.1 composition questions were
+  // reworded to match NDCC 43-23-01 (the old "2 public members" framing wasn't
+  // statutory), and the new wording slipped past the generic org-chart drains
+  // above. Both phrases are anchored to "NDREC" so no other state's bank is
+  // touched; draining them restores ND-01.2's substantive enforcement
+  // questions to the displayed 20.
+  /\bcomposition of the NDREC\b/i,
+  /\bNDREC members must be active\b/i,
 ];
 
 function isLicensingProcessQuestion(q: RawQuestion): boolean {
