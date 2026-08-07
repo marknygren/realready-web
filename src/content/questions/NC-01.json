@@ -43,7 +43,7 @@
         "Day 31 of the eligibility period",
         "Day 15 of the eligibility period"
       ],
-      "explanation": "After failing a section, the earliest a candidate can retest is the 10th day after the last test date. Since she failed on day 1, she can retest on day 11. A single-section retake within the same eligibility period requires Pearson's $53 examination fee, not a new license application fee.",
+      "explanation": "After failing a section, the earliest retest is the 10th day after the last test date, so a day-1 failure allows retesting on day 11. Each retake also requires refiling the application with NCREC and paying the $105 application fee plus Pearson's exam fee.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -73,7 +73,7 @@
         "$100",
         "$75"
       ],
-      "explanation": "The Pearson fee to retake a single exam section is $53, while the two-part comprehensive exam costs $63. A retake within the same 180-day eligibility period does not require a new license application fee, only the Pearson examination fee.",
+      "explanation": "Pearson charges $53 to retake a single exam section and $63 for the two-part comprehensive exam. Each retake also requires refiling the license application with NCREC and paying the $105 application fee again.",
       "difficulty": "medium",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -96,14 +96,14 @@
     },
     {
       "key_topic_ref": "NC-01.2",
-      "question_text": "A candidate obtained a Criminal Record Check (CRR) 7 months ago. Is it still valid for her license application?",
+      "question_text": "A candidate obtained a criminal record report (CRR) 7 months ago. Is it still valid for her license application?",
       "correct_answer": "No, the CRR is only valid for 6 months",
       "distractors": [
         "Yes, the CRR is valid for 12 months",
         "Yes, the CRR is valid for 1 year",
         "Yes, if no new criminal activity occurred"
       ],
-      "explanation": "A Criminal Record Check (CRR) in North Carolina is valid for only 6 months. Since 7 months have passed, the candidate must obtain a new CRR before her license application can be processed.",
+      "explanation": "The criminal record report must be dated no more than 6 months before the license application is filed. At 7 months old, this report is stale, and the candidate must order a new one before applying.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -172,17 +172,17 @@
     {
       "key_topic_ref": "NC-01.3",
       "question_text": "A broker falsified disclosure documents. Which actions can NCREC take against this broker?",
-      "correct_answer": "Suspend, revoke, or impose civil penalties",
+      "correct_answer": "Suspend, revoke, reprimand, or censure",
       "distractors": [
         "Only issue a warning letter",
-        "Refer the matter solely to local courts",
-        "Suspend the license but not revoke it"
+        "Impose a civil monetary fine",
+        "Refer the matter solely to local courts"
       ],
-      "explanation": "NCREC has broad disciplinary authority including the power to suspend, revoke, or deny licenses. The Commission can also reprimand licensees and assess civil penalties. Falsifying disclosure documents is a serious violation warranting any of these actions.",
+      "explanation": "The Commission's disciplinary powers are suspension, revocation, reprimand, and censure, plus conditions or restrictions on the license (NCGS 93A-6). It has no authority to fine licensees. Falsifying disclosure documents supports any of these sanctions.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["NCREC", "disciplinary_authority", "civil_penalties"]
+      "tags": ["NCREC", "disciplinary_authority", "sanctions"]
     },
     {
       "key_topic_ref": "NC-01.3",
@@ -217,17 +217,17 @@
     {
       "key_topic_ref": "NC-01.3",
       "question_text": "NCREC discovers a licensee committed fraud. Beyond license action, what additional enforcement tool can the Commission use?",
-      "correct_answer": "Assess civil penalties against the licensee",
+      "correct_answer": "Seek an injunction in superior court",
       "distractors": [
+        "Assess a civil penalty against the licensee",
         "File criminal charges directly",
-        "Impose jail time on the licensee",
-        "Garnish the licensee's personal wages"
+        "Impose jail time on the licensee"
       ],
-      "explanation": "In addition to suspending or revoking a license, NCREC can reprimand licensees and assess civil penalties. The Commission does not have criminal prosecution authority and cannot impose jail time. Criminal matters are referred to appropriate law enforcement.",
+      "explanation": "Beyond license discipline, the Commission may appear in superior court to seek injunctive relief against violators (NCGS 93A-6(c)). It cannot fine licensees, prosecute, or jail anyone — criminal matters are referred to law enforcement.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
-      "tags": ["NCREC", "civil_penalties", "enforcement", "fraud"]
+      "tags": ["NCREC", "injunction", "enforcement", "fraud"]
     }
   ]
 }

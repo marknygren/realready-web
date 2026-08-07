@@ -66,18 +66,18 @@
     },
     {
       "key_topic_ref": "NC-14.1",
-      "question_text": "A property owner pays their tax bill on January 10. What penalty applies?",
-      "correct_answer": "A penalty is assessed after the January 5 deadline",
+      "question_text": "A property owner pays their tax bill on January 10. What is the consequence?",
+      "correct_answer": "Interest accrues from missing the January 5 deadline",
       "distractors": [
-        "No penalty because taxes are not due until March",
-        "No penalty if paid within 30 days of January 1",
-        "Only interest accrues with no flat penalty"
+        "Nothing, taxes are not due until March",
+        "Nothing, if paid within 30 days of January 1",
+        "A flat 10 percent late penalty applies"
       ],
-      "explanation": "NC property taxes become due and payable on September 1. January 5 is the last day to pay without penalty. Payment on January 10 is past the deadline, so a penalty applies. Key dates: January 1 lien attaches, January 31 listing deadline, July 1 rate set, September 1 due, January 5 last day no penalty.",
+      "explanation": "Property taxes are due September 1 but may be paid without interest through January 5; interest begins accruing January 6 (2% for January, 0.75% per month after). Key dates: lien attaches January 1, listing ends January 31, bills due September 1.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["tax_deadline", "penalty", "January_5"]
+      "tags": ["tax_deadline", "interest", "January_5"]
     },
     {
       "key_topic_ref": "NC-14.2",

@@ -67,32 +67,32 @@
     {
       "key_topic_ref": "NC-12.1",
       "question_text": "A broker opens a trust account at a credit union that is not FDIC insured but carries equivalent state insurance. Does this account meet NC requirements?",
-      "correct_answer": "No, the account must be FDIC insured",
+      "correct_answer": "No, the depository must be federally insured",
       "distractors": [
         "Yes, any government-backed insurance qualifies",
         "Yes, if the credit union is state-chartered",
-        "No, trust accounts must be at national banks"
+        "No, trust accounts may only be at national banks"
       ],
-      "explanation": "NC requires that trust accounts be FDIC insured. State credit union insurance, while providing similar protections, does not satisfy the specific FDIC requirement. The broker must open the account at an institution with FDIC coverage to comply with trust account regulations.",
+      "explanation": "A trust account must be a demand deposit account in a federally insured depository institution (NCGS 93A-6(g)). FDIC banks and federally insured credit unions qualify; state-level insurance does not. The institution must also let the Commission inspect the account records.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["trust_account", "FDIC", "credit_union", "insurance"]
+      "tags": ["trust_account", "federally_insured", "credit_union", "insurance"]
     },
     {
       "key_topic_ref": "NC-12.2",
-      "question_text": "A buyer gives the listing broker a $5,000 earnest money check on Friday evening. When must the broker deposit it?",
-      "correct_answer": "Promptly upon receipt",
+      "question_text": "A buyer delivers an earnest money check to the listing broker along with an offer. The seller accepts the offer on Tuesday. When must the check be deposited?",
+      "correct_answer": "Within 3 banking days of acceptance",
       "distractors": [
-        "Within 3 business days",
-        "By the following Friday",
+        "Immediately upon the broker's receipt",
+        "Within 10 days of settlement",
         "Before the due diligence period ends"
       ],
-      "explanation": "NC requires trust money to be deposited promptly upon receipt. There is no specific multi-day grace period. The broker should deposit the check at the earliest reasonable opportunity, typically the next banking day. Holding trust money beyond what is reasonably necessary violates deposit rules.",
+      "explanation": "Earnest money paid by check with an offer must be deposited no later than three banking days after acceptance; most other trust money is due in the account within three banking days of receipt (Rule 58A .0116). Nothing requires a deposit while the offer is still pending.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["trust_money", "deposit", "promptly", "timing"]
+      "tags": ["trust_money", "deposit", "banking_days", "timing"]
     },
     {
       "key_topic_ref": "NC-12.2",
@@ -171,18 +171,18 @@
     },
     {
       "key_topic_ref": "NC-12.3",
-      "question_text": "A broker has held disputed earnest money for 200 days with no resolution between the parties. No written agreement or court order has been received. What should the broker do?",
-      "correct_answer": "Seek an interpleader action in court",
+      "question_text": "A broker has held disputed earnest money for months, and the buyer and seller refuse to agree. No court order exists. What does NC law allow the broker to do?",
+      "correct_answer": "Deposit the funds with the clerk of court",
       "distractors": [
-        "Continue holding indefinitely",
         "Disburse to the party with the stronger claim",
-        "Return the funds to the buyer by default"
+        "Return the funds to the buyer by default",
+        "Keep the funds after one year of inaction"
       ],
-      "explanation": "If there is no resolution within 180 days, the broker should seek an interpleader action, which asks the court to determine who is entitled to the funds. At 200 days, the broker has exceeded the 180-day threshold and should initiate this legal process rather than continuing to hold the disputed funds.",
+      "explanation": "A broker holding disputed transaction money may give the claimants 90 days' written notice and then deposit the funds with the clerk of court in the county where the property lies (NCGS 93A-12). The claimants then litigate ownership; the broker never picks the winner.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["interpleader", "180_days", "disputed_funds", "court"]
+      "tags": ["disputed_funds", "clerk_of_court", "93A-12"]
     },
     {
       "key_topic_ref": "NC-12.3",
@@ -223,7 +223,7 @@
         "File an interpleader action to be safe",
         "Obtain NCREC approval before disbursing"
       ],
-      "explanation": "Once the broker has written agreement from all parties, the funds should be disbursed accordingly. There is no requirement to wait the full 180 days or seek court involvement when the parties have reached a mutual written resolution. The 180-day interpleader threshold only applies when no agreement is reached.",
+      "explanation": "Once the broker has written agreement from all parties, the funds should be disbursed accordingly. Court involvement is unnecessary when the parties agree — the clerk-of-court deposit under NCGS 93A-12 exists only for money that remains disputed.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,

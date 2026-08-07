@@ -174,11 +174,11 @@
       "question_text": "A residential construction project costs $45,000. The owner occupies the single-family home. Is a lien agent required?",
       "correct_answer": "No, owner-occupied single-family homes are exempt",
       "distractors": [
-        "Yes, all projects over $30,000 need a lien agent",
+        "Yes, all projects of $40,000 or more need one",
         "Yes, unless the owner acts as general contractor",
         "Only if the project involves structural changes"
       ],
-      "explanation": "NC requires a lien agent for construction projects of $30,000 or more, but owner-occupied single-family residences are exempt from this requirement. The exemption applies regardless of the project cost.",
+      "explanation": "A lien agent is required when project costs reach $40,000 — raised from $30,000 by S.L. 2023-108 — but improvements to an existing owner-occupied single-family home are exempt at any cost (NCGS 44A-11.1).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -201,18 +201,18 @@
     },
     {
       "key_topic_ref": "NC-16.3",
-      "question_text": "A subdivision developer wants to record the plat before streets meet local standards. Is this allowed?",
-      "correct_answer": "No, streets must meet standards before recording",
+      "question_text": "A developer wants to convey the first lots in a new subdivision before the plat is recorded. Is this permitted?",
+      "correct_answer": "No, the plat must be recorded before conveyance",
       "distractors": [
-        "Yes, with a performance bond in place",
-        "Yes, if the developer posts a cash escrow",
+        "Yes, if deeds describe lots by metes and bounds",
+        "Yes, with the planning board's verbal consent",
         "Only if fewer than five lots are involved"
       ],
-      "explanation": "NC law requires that subdivision streets meet local standards before the plat can be recorded. This protects future buyers by ensuring infrastructure is complete. Local approval is required for subdivisions of 2 or more lots, and buyers should verify whether streets are public or private.",
+      "explanation": "In a residential subdivision with new streets, the plat must be recorded with the register of deeds before any portion is conveyed, and recording requires DOT certification that street plans meet minimum standards (NCGS 136-102.6). Buyers should verify whether streets are public or private.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["subdivision", "street_standards", "plat_recording"]
+      "tags": ["subdivision", "plat_recording", "street_certification"]
     },
     {
       "key_topic_ref": "NC-16.3",
