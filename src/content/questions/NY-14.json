@@ -13,7 +13,7 @@
         "1% of the sale price",
         "0.2% of the sale price"
       ],
-      "explanation": "The New York State transfer tax rate is 0.4% for properties selling for under $3 million and 0.65% for properties at $3 million or above. At $2,000,000, the property falls below the $3M threshold, so the 0.4% rate applies, resulting in a tax of $8,000.",
+      "explanation": "The base New York State transfer tax is 0.4% of the consideration, so a $2,000,000 sale owes $8,000. The higher 0.65% rate applies only inside New York City — residential sales of $3 million or more and other property at $2 million or more (Tax Law 1402).",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -25,14 +25,14 @@
     },
     {
       "key_topic_ref": "NY-14.1",
-      "question_text": "A seller closes on a $4,500,000 property in New York. The NYS transfer tax rate applied to this sale is:",
+      "question_text": "A seller closes on a $4,500,000 residential property in Manhattan. The NYS transfer tax rate applied to this sale is:",
       "correct_answer": "0.65%",
       "distractors": [
         "0.4%",
         "1.0%",
         "1.425%"
       ],
-      "explanation": "For properties selling at $3 million or above, the NYS transfer tax rate increases to 0.65%. At $4,500,000, this threshold is exceeded, so the higher rate applies. The transfer tax is paid by the seller in New York.",
+      "explanation": "In New York City, the state transfer tax rises to 0.65% for residential sales of $3 million or more, so this $4,500,000 Manhattan sale qualifies. Outside NYC the rate stays 0.4% at any price. The seller pays the transfer tax.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -51,7 +51,7 @@
         "Both parties equally",
         "The party with the higher income"
       ],
-      "explanation": "In New York, the seller is responsible for paying the state transfer tax. This applies to both the standard 0.4% rate and the higher 0.65% rate for sales of $3 million or more. This is a common exam topic because the responsibility differs from the mansion tax, which is paid by the buyer.",
+      "explanation": "In New York, the seller is responsible for paying the state transfer tax. This applies to both the standard 0.4% rate and the higher 0.65% rate charged on high-value New York City sales. This is a common exam topic because the responsibility differs from the mansion tax, which is paid by the buyer.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -109,7 +109,7 @@
         "$2 million or more",
         "$3 million or more"
       ],
-      "explanation": "The mansion tax begins at residential purchases of $1 million or more. It is a graduated tax starting at 1% for properties between $1 million and $2 million, increasing in brackets up to 3.9% for properties of $25 million and above. Unlike the transfer tax, the mansion tax is paid by the buyer.",
+      "explanation": "The mansion tax begins at residential purchases of $1 million or more and applies statewide at 1%. In New York City a supplemental tax raises the combined rate in brackets from 1.25% at $2 million up to 3.9% at $25 million and above. The buyer pays it.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
@@ -276,14 +276,14 @@
     },
     {
       "key_topic_ref": "NY-14.3",
-      "question_text": "A seller in NYC sells a property for $3,500,000. Which taxes must the SELLER pay at closing?",
+      "question_text": "A seller in NYC sells a condominium for $3,500,000. Which taxes must the SELLER pay at closing?",
       "correct_answer": "NYS transfer tax at 0.65% and NYC RPTT at 1.425%",
       "distractors": [
         "Mansion tax at 1% and NYS transfer tax at 0.4%",
         "NYC RPTT at 1% and mortgage recording tax",
         "NYS transfer tax at 0.4% and mansion tax at 1.25%"
       ],
-      "explanation": "For a $3,500,000 NYC sale, the seller pays the NYS transfer tax at the higher 0.65% rate (applies at $3M+) and the NYC RPTT at 1.425% (applies at $500K+). The mansion tax is the buyer's responsibility, and the mortgage recording tax applies to the buyer's mortgage.",
+      "explanation": "For a $3,500,000 NYC residential sale, the seller pays the NYS transfer tax at the higher 0.65% rate (NYC residential $3M+) and the NYC RPTT at 1.425% (residential $500K+). The mansion tax is the buyer's responsibility, and the mortgage recording tax applies to the buyer's mortgage.",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,

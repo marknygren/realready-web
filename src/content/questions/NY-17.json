@@ -186,18 +186,18 @@
     },
     {
       "key_topic_ref": "NY-17.3",
-      "question_text": "A landlord in a non-rent-stabilized building wants to evict a tenant who pays rent on time. Under the Good Cause Eviction Law, is this permitted?",
+      "question_text": "A large landlord's market-rate Brooklyn building is covered by the Good Cause Eviction Law. The landlord wants to evict a tenant who pays rent on time simply to re-rent the unit. Is this permitted?",
       "correct_answer": "No, eviction requires good cause even outside rent stabilization",
       "distractors": [
         "Yes, non-regulated tenants have no eviction protections whatsoever",
         "Yes, as long as the landlord gives 90 days written notice",
         "No, but only if the tenant has lived there over 10 years"
       ],
-      "explanation": "New York's Good Cause Eviction Law extends eviction protections beyond rent-stabilized housing. Landlords statewide must demonstrate good cause to evict tenants, even in market-rate apartments. Simply wanting to remove a tenant who pays rent on time is not sufficient cause.",
+      "explanation": "Good Cause Eviction (RPL Article 6-A, 2024) requires covered landlords to show a statutory ground, such as nonpayment or a lease violation, to evict or refuse renewal even in market-rate buildings. It applies automatically in NYC; other municipalities must opt in.",
       "difficulty": "hard",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["good-cause-eviction", "tenant-protection", "statewide", "non-regulated"]
+      "tags": ["good-cause-eviction", "tenant-protection", "NYC", "non-regulated"]
     },
     {
       "key_topic_ref": "NY-17.3",
@@ -216,18 +216,18 @@
     },
     {
       "key_topic_ref": "NY-17.3",
-      "question_text": "A building owner argues that Good Cause Eviction should not apply to her 3-unit property. Under the law, does it apply?",
-      "correct_answer": "Yes, the law applies broadly regardless of building size",
+      "question_text": "A Brooklyn landlord owns eight rental units in total across two buildings and lives elsewhere. Is her market-rate tenancy covered by the Good Cause Eviction Law?",
+      "correct_answer": "No, small landlords with 10 or fewer units are exempt",
       "distractors": [
-        "No, buildings under 6 residential units are fully exempt",
-        "No, only buildings with 10 or more units are covered",
-        "It applies only in New York City, not statewide"
+        "Yes, every NYC rental unit is covered regardless of ownership",
+        "No, Good Cause applies only outside New York City",
+        "Yes, unless the tenant's rent exceeds the local average"
       ],
-      "explanation": "New York's Good Cause Eviction Law applies broadly statewide and is not limited by building size. It extends eviction protections to tenants across most residential rental housing, moving beyond the traditional scope of rent stabilization which was limited to larger buildings.",
+      "explanation": "Good Cause Eviction exempts small landlords, meaning those owning 10 or fewer units statewide, along with owner-occupied buildings of 10 or fewer units, high-rent units above 245% of fair market rent, and post-2009 construction for 30 years. It applies automatically only in NYC; other municipalities must opt in.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["good-cause-eviction", "building-size", "statewide", "applicability"]
+      "tags": ["good-cause-eviction", "small-landlord-exemption", "NYC", "applicability"]
     }
   ]
 }
