@@ -29,13 +29,13 @@
     {
       "key_topic_ref": "OH-10.1",
       "question_text": "A broker places $500 of personal funds in the brokerage trust account to cover bank fees. This is:",
-      "correct_answer": "Commingling, which is prohibited",
-      "distractors": ["Acceptable for maintaining minimum balances", "Permitted if the amount is under $1,000", "Required to keep the account operational"],
-      "explanation": "Commingling broker personal funds with client trust funds is prohibited in Ohio. The trust account must contain only client funds and funds belonging to others.",
+      "correct_answer": "Permitted if clearly identified as the broker's funds",
+      "distractors": ["Commingling, which is prohibited in all cases", "Permitted only with prior Division approval", "Prohibited unless the amount is under $100"],
+      "explanation": "A broker may keep a reasonable amount of their own funds in the trust account to cover bank service charges or a required minimum balance, if clearly identified as the broker's funds (OAC 1301:5-5-08). Anything beyond that is commingling.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
-      "tags": ["commingling", "prohibited", "trust-account"]
+      "tags": ["trust-account", "bank-charges", "broker-funds"]
     },
     {
       "key_topic_ref": "OH-10.1",
@@ -97,7 +97,7 @@
       "question_text": "An Ohio PM broker transfers a property owner's rental income from the PM trust account to the owner. What documentation must be maintained?",
       "correct_answer": "Records of the disbursement for Division audit",
       "distractors": ["No documentation is needed for owner disbursements", "Only an email confirmation to the owner", "A form filed with the Division within 30 days"],
-      "explanation": "All trust account transactions, including disbursements to property owners, must be documented and retained. Records must be available for Division audit at any time.",
+      "explanation": "All trust account transactions, including disbursements to property owners, must be documented and retained. Division auditors may review the records during normal business hours (ORC 4735.05).",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,
@@ -163,7 +163,7 @@
       "question_text": "An Ohio broker closed a transaction two years ago and wants to shred the trust account records from that sale. Is this permitted?",
       "correct_answer": "No, records must be kept for at least 3 years",
       "distractors": ["Yes, 2 years is sufficient retention time", "Yes, if the records have been digitized", "Only if both parties consent to destruction"],
-      "explanation": "Ohio requires 3-year retention from closing or listing termination. Destroying records before the 3-year period expires violates the record-keeping requirement.",
+      "explanation": "Records must be kept for three years from the date of the transaction (ORC 4735.18(A)(24)). Destroying them at two years violates the record-keeping requirement.",
       "difficulty": "medium",
       "cognitive_level": "application",
       "is_free": false,

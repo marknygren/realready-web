@@ -28,14 +28,14 @@
     },
     {
       "key_topic_ref": "OH-12.1",
-      "question_text": "Ohio's Statute of Frauds requires listing agreements to be in which form?",
+      "question_text": "Under Ohio license law, a residential listing agreement must be in which form?",
       "correct_answer": "Written form",
       "distractors": ["Verbal form with two witnesses", "Notarized and recorded form", "Any form agreed upon by the parties"],
-      "explanation": "Under the Statute of Frauds, all listing agreements must be in writing. A listing must specify the property, price, commission, dates, broker name, and owner signature.",
+      "explanation": "Residential agency agreements, including listings, must be in writing with an expiration date and the other required contents (ORC 4735.55). The statute of frauds does not itself cover listing agreements — the writing requirement comes from license law.",
       "difficulty": "easy",
       "cognitive_level": "knowledge",
       "is_free": false,
-      "tags": ["statute-of-frauds", "written", "listing"]
+      "tags": ["written", "listing", "ORC-4735.55"]
     },
     {
       "key_topic_ref": "OH-12.1",
@@ -97,7 +97,7 @@
       "question_text": "A seller instructs their agent in writing not to present offers below $300,000. The agent receives a $280,000 offer. What should the agent do?",
       "correct_answer": "Present it anyway, since all offers must be presented",
       "distractors": ["Follow the seller's written instruction and not present it", "Return the offer to the buyer's agent as noncompliant", "Hold it until an offer above $300,000 arrives"],
-      "explanation": "The agent must present the offer. A seller's agent has to accept delivery of and present any purchase offer in a timely manner, even if the property is already under contract (ORC 4735.63). A written instruction to screen offers by price does not override that duty.",
+      "explanation": "The agent must present the offer. A seller's agent has to accept delivery of and present any purchase offer in a timely manner, even if the property is already under contract (ORC 4735.63). A written instruction cannot override that duty — only a signed waiver of duties statement can (ORC 4735.621).",
       "difficulty": "hard",
       "cognitive_level": "analysis",
       "is_free": false,
